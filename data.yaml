@@ -4,8 +4,8 @@
 #    Name-long: [LongName] // Optionnel - nom long
 #    url: 
 #    Description: 
-#    Localization: 
-#    Localization-minor: 
+#    Place: 
+#    Place-minor: 
 #    Country:
 #    Product: 
 #    Jobs: 
@@ -17,7 +17,7 @@
 - Name: "2d3D Animations"
   url: https://www.2d3d-animations.com
   Description: Studio de production de films d'animations.
-  Localization: Angoulème
+  Place: Angoulème
   Scientific-domain: [Modélisation, Animation]
   Application-domain: [Films d'Animation, Loisir]
   Jobs: https://www.2d3d-animations.com/emploi/
@@ -25,16 +25,25 @@
 - Name: "2 minutes"
   url: http://2minutes.fr/
   Description: Studio production dessins animés.
-  Localization: [Paris, Angoulème]
-  Localization-minor: [Canada, Chine]
+  Place: 
+    - City: Paris 
+    - City: Angoulème
+    - Country: Canada
+    - Country: China
   Scientific-domain: [Modélisation, Animation]
   Application-domain: [Films d'Animation, Loisir]
 
 - Name: "Adobe"
   url: https://www.adobe.com/fr/
   Description: Dévelopement d'outils créatifs
-  Localization: [Paris, International]
-  Country: [USA, Canada, France, UK, India]
+  Place: 
+    - Country: USA
+    - Country: Canada
+    - Country: France
+      City: Paris
+    - Country: UK
+    - Country: India
+    - International: True
   Product: [Photoshop, Substance 3D, Premiere, Illustrator, etc.]
   Scientific-domain: [Synthèse image, Modélisation, Animation]
   Application-domain: [Design, Loisir]
@@ -46,8 +55,7 @@
   Name-long: Alma Logiciels CFAO
   url: https://www.alma.fr/nos-activites/logiciels-cfao/
   Description: Edition de logiciels de Conception et Fabrication d'objets manufacturés.
-  Localization: Grenoble
-  Localization-minor: Lyon, Tarbes, Paris, Annecy
+  Place: Grenoble, Lyon, Tarbes, Paris, Annecy
   Jobs: https://recrutement.alma.fr/cv/
   Scientific-domain: [Modélisation]
   Application-domain: [Fabrication, Design, CAO]
@@ -55,16 +63,20 @@
 - Name: AltspaceVR
   url: https://altvr.com/
   Description: Logiciels pour la réalité virtuelle. Filiale de Microsoft.
-  Localization: USA
-  Country: [USA]
+  Place: [{Country: USA}]
   Scientific-domain: [Réalité Virtuelle]
   Application-domain: [Loisir]
 
 - Name: "Animal Logic"
   url: https://animallogic.com/
   Description: Studio de création d'animation et effets visuels.
-  Localization: [Sydney, Vancouver, Los Angeles]
-  Country: [Australia, Canada, USA]
+  Place:
+    - Country: Australia
+      City: Sydney
+    - Country: Canada
+      City: Vancouver
+    - Country: USA
+      City: Los Angeles
   Scientific-domain: [Modélisation, Animation, Simulation]
   Application-domain: [VFX, Films d'Animation, Loisir]
   Employees: 1300
@@ -72,8 +84,9 @@
 - Name: Artefacto
   url: https://altvr.com/
   Description: Développement d'applications pour la Réalité augmentée pour la visualization dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.
-  Localization: Rennes
-  Localization-exact: Betton
+  Place: 
+    - City: Rennes
+      Exact: Betton
   Jobs: https://www.artefacto-ar.com/en/carrieres/
   Scientific-domain: [Réalité Augmentée, Visalisation, Modélisation]
   Application-domain: [Architecture/Immobilier, Double numérique]
@@ -82,9 +95,9 @@
   url: https://www.autodesk.com/
   Description: Logiciels 3D, CAO, Conception, Design
   Product: Maya, 3DS Max, AutoCAD
-  Localization: USA
-  Localization-minor: International
-  Country: [USA, Canada, India, UK, Singapor, Norway]
+  Place: 
+    - Country: [USA, Canada, India, UK, Singapor, Norway]
+    - International: True
   Jobs: https://www.autodesk.com/careers/overview
   Scientific-domain: [Modélisation, Animation]
   Application-domain: [Fabrication, Design, Films d'Animation, VFX, CAO]
@@ -93,15 +106,14 @@
 - Name: Ayotle
   url: http://www.ayotle.com/
   Description: Dévelopement d'outils de vision pour la réalité augmentée, l'analyse du mouvement et l'interaction tactile.
-  Localization: Paris
-  Localization-exact: "Le Kremlin-Bicêtre"
+  Place: {City: Paris,Exact: "Le Kremlin-Bicêtre"}
   Jobs: https://www.artefacto-ar.com/en/carrieres/
   Scientific-domain: [Vision, Analyse de mouvement, Haptique]
 
 - Name: BUF
   url: https://buf.com/
   Description: "Création d'effets visuels (VFX) pour le cinéma."
-  Localization: Paris
+  Place: Paris
   Jobs: https://buf.com/jobs/
   Scientific-domain: [Synthèse image, Modélisation, Animation, Analyse d'image, Vision]
   Application-domain: [Cinéma, VFX]
@@ -110,8 +122,7 @@
 - Name: Beam Me Up Games
   Description: Analyse de comportement pour le jeu vidéo.
   url: https://bmugames.com/
-  Localization: Montréal
-  Country: Canada
+  Place: {City: Montréal, Country: Canada}
   Scientific-domain: [Analyse de comportement, IA]
   Application-domain: [Jeu Vidéo]
 
@@ -119,8 +130,15 @@
   Description: Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D".
   url: https://www.bentley.com/
   Jobs: https://jobs.bentley.com/search
-  Localization: [Paris, Sophia, International]
-  Country: [USA, UK, Netherland, France, Singapore, New Zealand, India]
+  Place: 
+    - Country: USA
+    - Country: UK
+    - Country: Netherland
+    - Country: France
+      City: [Paris, Sophia]
+    - Country: Singapore
+    - Country: New Zealand
+    - Country: India
   Scientific-domain: [Visalisation, Simulation, Vision, Reconstruction 3D]
   Application-domain: [Ingénierie civile, CAO, Double numérique]
   Employees: 4000
@@ -128,7 +146,7 @@
 - Name: Blippar
   Description: "Développement d'outils pour la création de contenu en AR sur smartphone"
   url: https://qarnot.com/
-  Localization: Londres
+  Place: {Country: UK, City: Londres}
   Jobs: https://www.blippar.com/careers#Jobs
   Scientific-domain: [Réalité virtuelle, Modelisation]
   Application-domain: [Web, Loisir]
@@ -136,8 +154,7 @@
 - Name: Christie
   url: https://www.christiedigital.com/en-gb
   Description: Systèmes de projections et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
-  Localization: California, Ontario
-  Country: [USA, Canada]
+  Place: [{Country: USA, State: California}, {Country: Canada, State: Ontario}]
   Scientific-domain: [Video Mapping, Réalité Augmentée, Visalisation]
   Application-domain: [Evenementiel, Loisir]
   Employees: 2000
@@ -145,7 +162,12 @@
 - Name: "Dassault Systèmes"
   url: https://www.3ds.com/fr/
   Description: Logiciels de CAO, Design et Simulation.
-  Localization: [Paris, Aix en Provence]
+  Place: 
+    - Country: France
+      City: [Paris, Aix en Provence]
+    - Country: USA
+    - Country: China
+    - International: True
   Product: Catia, SolidWorks
   Jobs: https://careers.3ds.com/
   Scientific-domain: [Modélisation, Simulation]
@@ -156,7 +178,7 @@
 - Name: Kinetix
   url: https://www.kinetix.tech/
   Description: "Création d'animation 3D d'humain à partir de capture de video sur smartphone."
-  Localization: Paris
+  Place: Paris
   Jobs: https://kinetix-tech.welcomekit.co/
   Scientific-domain: [Vision, Animation, IA, Capture de mouvement, Analyse de mouvement]
   Application-domain: [Loisir, Metavers]
@@ -164,8 +186,10 @@
 - Name: "Lectra"
   url: https://www.lectra.com/fr
   Description: "Logiciels de conceptions professionels: Model, Automobile, Ameublement"
-  Localization: Paris
-  Localization-minor: International
+  Place: 
+    - Country: France
+      City: Paris
+    - International: True
   Scientific-domain: [Modélisation, Simulation]
   Application-domain: [Fabrication, Design, CAO]
   Employees: 1500
@@ -173,7 +197,7 @@
 - Name: Mac Guff
   url: https://www.macguff.com/
   Description: "Création de films d'animation et d'effets visels."
-  Localization: Paris
+  Place: Paris
   Jobs: https://buf.com/jobs/
   Scientific-domain: [Synthèse image, Modélisation, Animation, Analyse d'image, Vision]
   Application-domain: [Cinéma, VFX, Films d'Animation]
@@ -187,22 +211,23 @@
       url: http://guerillarender.com/
     - Name: Rumba Animation
       url: https://rumba-animation.com/
-  Localization: Paris
+  Place: Paris
   Scientific-domain: [Synthèse d'images, Animation]
   Application-domain: [Films d'Animation]
 
 - Name: MocapLab
   url: https://www.mocaplab.com/
   Description: "Studio et R&amp;D pour la capture de mouvement."
-  Localization: Paris
-  Localization-exact: Aubervilliers
+  Place: 
+    - City: Paris
+      Exact: Aubervilliers
   Scientific-domain: [Capture de mouvement, Analyse de mouvement, Animation]
   Application-domain: [Loisir, Jeu Vidéo, Cinéma]
 
 - Name: ModaLive
   url: https://www.modalive.fr/
   Description: "Virtual try-on de vêtements de mode."
-  Localization: Paris
+  Place: Paris
   Scientific-domain: [Reconstruction 3D, Capture de forme, Géométrie, Vision, Modélisation]
   Application-domain: [Vetements, Double numérique]
 
@@ -210,8 +235,9 @@
 - Name: "Qarnot Computing"
   url: https://qarnot.com/
   Description: Calculs sur le Cloud.
-  Localization: Paris
-  Localization-exact: Montrouge
+  Place: 
+    - City: Paris
+      Exact: Montrouge
   Jobs: https://qarnot.com/en/recruiting
   Scientific-domain: [Calcul, Big Data]
   Application-domain: [Web]
@@ -219,16 +245,19 @@
 - Name: Shot Over
   url: https://shotover.com/
   Description: Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc).
-  Localization: Colorado
-  Country: [USA]
+  Place: 
+    - Country: USA
+      State: Colorado
   Scientific-domain: [Capture vidéo]
   Application-domain: [Cinéma, Evenementiel, Sécurité, Défense]
 
 - Name: Thales
   url: https://www.thalesgroup.com/fr
   Description: "Multi-nationale française à forte composante R&amp;D développant des produits pour l'aérospatiale, la défense, et la sécurité tel que la biométrie."
-  Localization: Paris
-  Localization-minor: International
+  Place:
+    - Country: France
+      City: Paris
+    - International: True
   Jobs: https://www.thalesgroup.com/fr/candidat
   Scientific-domain: [Reconstruction 3D, Analyse d'image, Vision]
   Application-domain: [Aviation, Sécurité, Défense]

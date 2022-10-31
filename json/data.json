@@ -3,7 +3,7 @@
         "Name": "2d3D Animations",
         "url": "https://www.2d3d-animations.com",
         "Description": "Studio de production de films d'animations.",
-        "Localization": "Angoul\u00e8me",
+        "Place": "Angoul\u00e8me",
         "Scientific-domain": [
             "Mod\u00e9lisation",
             "Animation"
@@ -18,13 +18,19 @@
         "Name": "2 minutes",
         "url": "http://2minutes.fr/",
         "Description": "Studio production dessins anim\u00e9s.",
-        "Localization": [
-            "Paris",
-            "Angoul\u00e8me"
-        ],
-        "Localization-minor": [
-            "Canada",
-            "Chine"
+        "Place": [
+            {
+                "City": "Paris"
+            },
+            {
+                "City": "Angoul\u00e8me"
+            },
+            {
+                "Country": "Canada"
+            },
+            {
+                "Country": "China"
+            }
         ],
         "Scientific-domain": [
             "Mod\u00e9lisation",
@@ -39,16 +45,26 @@
         "Name": "Adobe",
         "url": "https://www.adobe.com/fr/",
         "Description": "D\u00e9velopement d'outils cr\u00e9atifs",
-        "Localization": [
-            "Paris",
-            "International"
-        ],
-        "Country": [
-            "USA",
-            "Canada",
-            "France",
-            "UK",
-            "India"
+        "Place": [
+            {
+                "Country": "USA"
+            },
+            {
+                "Country": "Canada"
+            },
+            {
+                "Country": "France",
+                "City": "Paris"
+            },
+            {
+                "Country": "UK"
+            },
+            {
+                "Country": "India"
+            },
+            {
+                "International": true
+            }
         ],
         "Product": [
             "Photoshop",
@@ -75,8 +91,7 @@
         "Name-long": "Alma Logiciels CFAO",
         "url": "https://www.alma.fr/nos-activites/logiciels-cfao/",
         "Description": "Edition de logiciels de Conception et Fabrication d'objets manufactur\u00e9s.",
-        "Localization": "Grenoble",
-        "Localization-minor": "Lyon, Tarbes, Paris, Annecy",
+        "Place": "Grenoble, Lyon, Tarbes, Paris, Annecy",
         "Jobs": "https://recrutement.alma.fr/cv/",
         "Scientific-domain": [
             "Mod\u00e9lisation"
@@ -91,9 +106,10 @@
         "Name": "AltspaceVR",
         "url": "https://altvr.com/",
         "Description": "Logiciels pour la r\u00e9alit\u00e9 virtuelle. Filiale de Microsoft.",
-        "Localization": "USA",
-        "Country": [
-            "USA"
+        "Place": [
+            {
+                "Country": "USA"
+            }
         ],
         "Scientific-domain": [
             "R\u00e9alit\u00e9 Virtuelle"
@@ -106,15 +122,19 @@
         "Name": "Animal Logic",
         "url": "https://animallogic.com/",
         "Description": "Studio de cr\u00e9ation d'animation et effets visuels.",
-        "Localization": [
-            "Sydney",
-            "Vancouver",
-            "Los Angeles"
-        ],
-        "Country": [
-            "Australia",
-            "Canada",
-            "USA"
+        "Place": [
+            {
+                "Country": "Australia",
+                "City": "Sydney"
+            },
+            {
+                "Country": "Canada",
+                "City": "Vancouver"
+            },
+            {
+                "Country": "USA",
+                "City": "Los Angeles"
+            }
         ],
         "Scientific-domain": [
             "Mod\u00e9lisation",
@@ -132,8 +152,12 @@
         "Name": "Artefacto",
         "url": "https://altvr.com/",
         "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualization dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
-        "Localization": "Rennes",
-        "Localization-exact": "Betton",
+        "Place": [
+            {
+                "City": "Rennes",
+                "Exact": "Betton"
+            }
+        ],
         "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
         "Scientific-domain": [
             "R\u00e9alit\u00e9 Augment\u00e9e",
@@ -150,15 +174,20 @@
         "url": "https://www.autodesk.com/",
         "Description": "Logiciels 3D, CAO, Conception, Design",
         "Product": "Maya, 3DS Max, AutoCAD",
-        "Localization": "USA",
-        "Localization-minor": "International",
-        "Country": [
-            "USA",
-            "Canada",
-            "India",
-            "UK",
-            "Singapor",
-            "Norway"
+        "Place": [
+            {
+                "Country": [
+                    "USA",
+                    "Canada",
+                    "India",
+                    "UK",
+                    "Singapor",
+                    "Norway"
+                ]
+            },
+            {
+                "International": true
+            }
         ],
         "Jobs": "https://www.autodesk.com/careers/overview",
         "Scientific-domain": [
@@ -178,8 +207,10 @@
         "Name": "Ayotle",
         "url": "http://www.ayotle.com/",
         "Description": "D\u00e9velopement d'outils de vision pour la r\u00e9alit\u00e9 augment\u00e9e, l'analyse du mouvement et l'interaction tactile.",
-        "Localization": "Paris",
-        "Localization-exact": "Le Kremlin-Bic\u00eatre",
+        "Place": {
+            "City": "Paris",
+            "Exact": "Le Kremlin-Bic\u00eatre"
+        },
         "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
         "Scientific-domain": [
             "Vision",
@@ -191,7 +222,7 @@
         "Name": "BUF",
         "url": "https://buf.com/",
         "Description": "Cr\u00e9ation d'effets visuels (VFX) pour le cin\u00e9ma.",
-        "Localization": "Paris",
+        "Place": "Paris",
         "Jobs": "https://buf.com/jobs/",
         "Scientific-domain": [
             "Synth\u00e8se image",
@@ -210,8 +241,10 @@
         "Name": "Beam Me Up Games",
         "Description": "Analyse de comportement pour le jeu vid\u00e9o.",
         "url": "https://bmugames.com/",
-        "Localization": "Montr\u00e9al",
-        "Country": "Canada",
+        "Place": {
+            "City": "Montr\u00e9al",
+            "Country": "Canada"
+        },
         "Scientific-domain": [
             "Analyse de comportement",
             "IA"
@@ -225,19 +258,32 @@
         "Description": "D\u00e9veloppement de logiciels pour l'ing\u00e9nierie civile (simulation, visualisation, acquisition). D\u00e9tient l'ancienne entreprise Francaise de reconstruction 3D \"Acute 3D\".",
         "url": "https://www.bentley.com/",
         "Jobs": "https://jobs.bentley.com/search",
-        "Localization": [
-            "Paris",
-            "Sophia",
-            "International"
-        ],
-        "Country": [
-            "USA",
-            "UK",
-            "Netherland",
-            "France",
-            "Singapore",
-            "New Zealand",
-            "India"
+        "Place": [
+            {
+                "Country": "USA"
+            },
+            {
+                "Country": "UK"
+            },
+            {
+                "Country": "Netherland"
+            },
+            {
+                "Country": "France",
+                "City": [
+                    "Paris",
+                    "Sophia"
+                ]
+            },
+            {
+                "Country": "Singapore"
+            },
+            {
+                "Country": "New Zealand"
+            },
+            {
+                "Country": "India"
+            }
         ],
         "Scientific-domain": [
             "Visalisation",
@@ -256,7 +302,10 @@
         "Name": "Blippar",
         "Description": "D\u00e9veloppement d'outils pour la cr\u00e9ation de contenu en AR sur smartphone",
         "url": "https://qarnot.com/",
-        "Localization": "Londres",
+        "Place": {
+            "Country": "UK",
+            "City": "Londres"
+        },
         "Jobs": "https://www.blippar.com/careers#Jobs",
         "Scientific-domain": [
             "R\u00e9alit\u00e9 virtuelle",
@@ -271,10 +320,15 @@
         "Name": "Christie",
         "url": "https://www.christiedigital.com/en-gb",
         "Description": "Syst\u00e8mes de projections et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
-        "Localization": "California, Ontario",
-        "Country": [
-            "USA",
-            "Canada"
+        "Place": [
+            {
+                "Country": "USA",
+                "State": "California"
+            },
+            {
+                "Country": "Canada",
+                "State": "Ontario"
+            }
         ],
         "Scientific-domain": [
             "Video Mapping",
@@ -291,9 +345,23 @@
         "Name": "Dassault Syst\u00e8mes",
         "url": "https://www.3ds.com/fr/",
         "Description": "Logiciels de CAO, Design et Simulation.",
-        "Localization": [
-            "Paris",
-            "Aix en Provence"
+        "Place": [
+            {
+                "Country": "France",
+                "City": [
+                    "Paris",
+                    "Aix en Provence"
+                ]
+            },
+            {
+                "Country": "USA"
+            },
+            {
+                "Country": "China"
+            },
+            {
+                "International": true
+            }
         ],
         "Product": "Catia, SolidWorks",
         "Jobs": "https://careers.3ds.com/",
@@ -316,7 +384,7 @@
         "Name": "Kinetix",
         "url": "https://www.kinetix.tech/",
         "Description": "Cr\u00e9ation d'animation 3D d'humain \u00e0 partir de capture de video sur smartphone.",
-        "Localization": "Paris",
+        "Place": "Paris",
         "Jobs": "https://kinetix-tech.welcomekit.co/",
         "Scientific-domain": [
             "Vision",
@@ -334,8 +402,15 @@
         "Name": "Lectra",
         "url": "https://www.lectra.com/fr",
         "Description": "Logiciels de conceptions professionels: Model, Automobile, Ameublement",
-        "Localization": "Paris",
-        "Localization-minor": "International",
+        "Place": [
+            {
+                "Country": "France",
+                "City": "Paris"
+            },
+            {
+                "International": true
+            }
+        ],
         "Scientific-domain": [
             "Mod\u00e9lisation",
             "Simulation"
@@ -351,7 +426,7 @@
         "Name": "Mac Guff",
         "url": "https://www.macguff.com/",
         "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
-        "Localization": "Paris",
+        "Place": "Paris",
         "Jobs": "https://buf.com/jobs/",
         "Scientific-domain": [
             "Synth\u00e8se image",
@@ -381,7 +456,7 @@
                 "url": "https://rumba-animation.com/"
             }
         ],
-        "Localization": "Paris",
+        "Place": "Paris",
         "Scientific-domain": [
             "Synth\u00e8se d'images",
             "Animation"
@@ -394,8 +469,12 @@
         "Name": "MocapLab",
         "url": "https://www.mocaplab.com/",
         "Description": "Studio et R&amp;D pour la capture de mouvement.",
-        "Localization": "Paris",
-        "Localization-exact": "Aubervilliers",
+        "Place": [
+            {
+                "City": "Paris",
+                "Exact": "Aubervilliers"
+            }
+        ],
         "Scientific-domain": [
             "Capture de mouvement",
             "Analyse de mouvement",
@@ -411,7 +490,7 @@
         "Name": "ModaLive",
         "url": "https://www.modalive.fr/",
         "Description": "Virtual try-on de v\u00eatements de mode.",
-        "Localization": "Paris",
+        "Place": "Paris",
         "Scientific-domain": [
             "Reconstruction 3D",
             "Capture de forme",
@@ -428,8 +507,12 @@
         "Name": "Qarnot Computing",
         "url": "https://qarnot.com/",
         "Description": "Calculs sur le Cloud.",
-        "Localization": "Paris",
-        "Localization-exact": "Montrouge",
+        "Place": [
+            {
+                "City": "Paris",
+                "Exact": "Montrouge"
+            }
+        ],
         "Jobs": "https://qarnot.com/en/recruiting",
         "Scientific-domain": [
             "Calcul",
@@ -443,9 +526,11 @@
         "Name": "Shot Over",
         "url": "https://shotover.com/",
         "Description": "Syst\u00e8me d'imagerie gyro stabilis\u00e9e pour des prises de vues sur v\u00e9hicules (cin\u00e9ma, s\u00e9curit\u00e9, d\u00e9fense, etc).",
-        "Localization": "Colorado",
-        "Country": [
-            "USA"
+        "Place": [
+            {
+                "Country": "USA",
+                "State": "Colorado"
+            }
         ],
         "Scientific-domain": [
             "Capture vid\u00e9o"
@@ -461,8 +546,15 @@
         "Name": "Thales",
         "url": "https://www.thalesgroup.com/fr",
         "Description": "Multi-nationale fran\u00e7aise \u00e0 forte composante R&amp;D d\u00e9veloppant des produits pour l'a\u00e9rospatiale, la d\u00e9fense, et la s\u00e9curit\u00e9 tel que la biom\u00e9trie.",
-        "Localization": "Paris",
-        "Localization-minor": "International",
+        "Place": [
+            {
+                "Country": "France",
+                "City": "Paris"
+            },
+            {
+                "International": true
+            }
+        ],
         "Jobs": "https://www.thalesgroup.com/fr/candidat",
         "Scientific-domain": [
             "Reconstruction 3D",

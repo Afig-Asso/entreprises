@@ -39,6 +39,59 @@ def export_list_url_to_MD(data):
     return out
 
 
+def get_list_places(data):
+    L = []
+    if isinstance(data, str): # City1, City2, etc
+        token = data.split(',')
+        for t in token:
+            L.append({'City':t})
+    elif isinstance(data, dict):
+        # wrap in a list and restart
+        return get_list_places([data])
+    elif isinstance(data, list):
+        L = data    
+    return L
+
+def export_place_to_MD(data):
+    out = ''
+    for element in data:
+        entry_txt = ''
+        if 'Country' in element:
+            country_entry = element['Country']
+            if isinstance(country_entry, str):
+                country_entry = country_entry.split(',')
+            assert isinstance(country_entry, list)
+            entry_txt += ', '.join(country_entry)
+            
+        if 'State' in element:
+            if entry_txt!='':
+                entry_txt += '/'+element['State']
+        if 'City' in element:
+            city_entry = element['City']
+            if isinstance(city_entry, str):
+                city_entry = city_entry.split(',')
+            assert isinstance(city_entry, list)
+            if 'Country' not in element:
+                entry_txt += ', '.join(city_entry)
+            else:
+                if len(city_entry)==1:
+                    entry_txt += '/'+city_entry[0]
+                elif len(city_entry)>1:
+                    entry_txt += '/{'+', '.join(city_entry)+'}'
+        if 'Exact' in element:
+            entry_txt += ' ('+element['Exact']+')'
+        if ('International' in element) and (element['International']==True):
+                entry_txt += 'International'
+
+
+
+        if out!='' and entry_txt!='' and entry_txt!=' (+ International)':
+            out += ', '
+        out += entry_txt
+
+    return out
+
+
 def prettyMD_company(data):
     out = ''
     
@@ -50,9 +103,9 @@ def prettyMD_company(data):
 
     nom_long = liblisting.get_optional('Name-long',data)
     descriptif = liblisting.get_optional('Description',data)
-    localisation = liblisting.get_optional('Localization',data)
-    localisation_secondaires = liblisting.get_optional('Localization-minor',data)
-    localisation_exact = liblisting.get_optional('Localization-exact',data)
+    place = export_place_to_MD(get_list_places(data['Place']))
+    #localisation_secondaires = liblisting.get_optional('Localization-minor',data)
+    #localisation_exact = liblisting.get_optional('Localization-exact',data)
     country = liblisting.get_optional('Country',data)
     product = export_list_url_to_MD(liblisting.get_list_name_url('Product',data))
     domaines_scientifiques = liblisting.get_optional('Scientific-domain',data)
@@ -77,14 +130,14 @@ def prettyMD_company(data):
     out += liblisting.display_optional(information, pre='* **Remarque**: _', post='_')
     out += liblisting.display_optional(product, pre='* **Produits**: ')
 
-    localisation_txt = localisation
-    if localisation_exact!='':
-        localisation_txt += f' ({localisation_exact})'
-    if localisation_secondaires!='':
-        localisation_txt += f' (+ {localisation_secondaires})'
+    # localisation_txt = localisation
+    # if localisation_exact!='':
+    #     localisation_txt += f' ({localisation_exact})'
+    # if localisation_secondaires!='':
+    #     localisation_txt += f' (+ {localisation_secondaires})'
 
 
-    out += liblisting.display_optional(localisation_txt, pre='* **Localisation**: ')
+    out += liblisting.display_optional(place, pre='* **Place**: ')
     out += liblisting.display_optional(country, pre='* **Pays**: ')
     out += liblisting.display_optional(employees, pre='* **Nombres d\'employées**: ')
     out += liblisting.display_optional(domaines_scientifiques, pre='* **Domaine scientifique**: ')
