@@ -97,9 +97,9 @@ def prettyMD_company(data):
 def prettyMD(data):
 
     # badge Github check URL vality
-    out = '![URLs accessibles](https://github.com/Afig-Asso/entreprises/actions/workflows/url.yml/badge.svg) \n\n'
+    out = '![URLs](https://github.com/Afig-Asso/entreprises/actions/workflows/url.yml/badge.svg) \n\n'
 
-    out = '# Listing d\'entreprises en Informatique Graphique \n'
+    out += '# Listing d\'entreprises en Informatique Graphique \n'
   
     out += '## Compléter/Modifier les informations \n'
     out += '  - Envoyez un email à contact[at]asso-afig.fr avec vos informations\n' 
