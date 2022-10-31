@@ -11,6 +11,7 @@ import liblisting
 
 meta = {
     'filename_yaml': 'data.yaml',
+    'filename_yaml_keywords': 'keywords.yaml',
     'filename_json_out': 'json/data.json',
     'filename_md_out': 'README.md'
 }
@@ -193,11 +194,13 @@ if __name__ == "__main__":
 
 
     filename_yaml = root_path+'/../'+meta['filename_yaml']
+    filename_yaml_keywords = root_path+'/../'+meta['filename_yaml_keywords']
     filename_json_out = root_path+'/../'+meta['filename_json_out']
     filename_md_out = root_path+'/../'+meta['filename_md_out']
 
 
     data = liblisting.yaml_read_file(filename_yaml)
+    data_keywords = liblisting.yaml_read_file(filename_yaml_keywords)
 
     if is_check_url:
         urls = liblisting.get_all_urls(data)
@@ -205,8 +208,9 @@ if __name__ == "__main__":
         print('Check URLs done\n')
 
     # export json
+    json_data = {'Keywords':data_keywords, 'Listing':data}
     with open(filename_json_out, 'w') as json_fid:
-        json.dump(data, json_fid, indent=4)
+        json.dump(json_data, json_fid, indent=4)
 
     # export pretty md
     with open(filename_md_out, 'w') as md_fid:

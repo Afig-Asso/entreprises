@@ -1,572 +1,578 @@
-[
-    {
-        "Name": "2d3D Animations",
-        "url": "https://www.2d3d-animations.com",
-        "Description": "Studio de production de films d'animations.",
-        "Place": "Angoul\u00e8me",
-        "Scientific-domain": [
-            "Mod\u00e9lisation",
-            "Animation"
-        ],
-        "Application-domain": [
-            "Films d'Animation",
-            "Loisir"
-        ],
-        "Jobs": "https://www.2d3d-animations.com/emploi/"
+{
+    "Keywords": {
+        "Scientific-domain": "Synth\u00e8se image Mod\u00e9lisation Animation Visalisation Simulation IA Capture vid\u00e9o Capture de forme Capture de mouvement Reconstruction 3D Analyse d'image Analyse de forme Analyse de mouvement Analyse de comportement Vision G\u00e9om\u00e9trie R\u00e9alit\u00e9 Virtuelle R\u00e9alit\u00e9 Augment\u00e9e Video Mapping Haptique Calcul Big Data",
+        "Application-domain": "M\u00e9dical Biologique Fabrication Design Cin\u00e9ma Films d'Animation VFX Jeu Vid\u00e9o Loisir Robotique Histoire Mus\u00e9ographie S\u00e9curit\u00e9 D\u00e9fense Entrainement/Formation Serious Game Automobile Aviation Architecture/Immobilier Ing\u00e9nierie civile CAO Web Double num\u00e9rique Art Evenementiel Metavers Vetements"
     },
-    {
-        "Name": "2 minutes",
-        "url": "http://2minutes.fr/",
-        "Description": "Studio production dessins anim\u00e9s.",
-        "Place": [
-            {
-                "City": "Paris"
+    "Listing": [
+        {
+            "Name": "2d3D Animations",
+            "url": "https://www.2d3d-animations.com",
+            "Description": "Studio de production de films d'animations.",
+            "Place": "Angoul\u00e8me",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Films d'Animation",
+                "Loisir"
+            ],
+            "Jobs": "https://www.2d3d-animations.com/emploi/"
+        },
+        {
+            "Name": "2 minutes",
+            "url": "http://2minutes.fr/",
+            "Description": "Studio production dessins anim\u00e9s.",
+            "Place": [
+                {
+                    "City": "Paris"
+                },
+                {
+                    "City": "Angoul\u00e8me"
+                },
+                {
+                    "Country": "Canada"
+                },
+                {
+                    "Country": "China"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Films d'Animation",
+                "Loisir"
+            ]
+        },
+        {
+            "Name": "Adobe",
+            "url": "https://www.adobe.com/fr/",
+            "Description": "D\u00e9velopement d'outils cr\u00e9atifs",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "Canada"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "UK"
+                },
+                {
+                    "Country": "India"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Product": [
+                "Photoshop",
+                "Substance 3D",
+                "Premiere",
+                "Illustrator",
+                "etc."
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se image",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Design",
+                "Loisir"
+            ],
+            "Info": "Centre de recherche \u00e0 Paris",
+            "Highlight": "Graphics, R&D",
+            "Employees": 20000
+        },
+        {
+            "Name": "Alma",
+            "Name-long": "Alma Logiciels CFAO",
+            "url": "https://www.alma.fr/nos-activites/logiciels-cfao/",
+            "Description": "Edition de logiciels de Conception et Fabrication d'objets manufactur\u00e9s.",
+            "Place": "Grenoble, Lyon, Tarbes, Paris, Annecy",
+            "Jobs": "https://recrutement.alma.fr/cv/",
+            "Scientific-domain": [
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Fabrication",
+                "Design",
+                "CAO"
+            ]
+        },
+        {
+            "Name": "AltspaceVR",
+            "url": "https://altvr.com/",
+            "Description": "Logiciels pour la r\u00e9alit\u00e9 virtuelle. Filiale de Microsoft.",
+            "Place": [
+                {
+                    "Country": "USA"
+                }
+            ],
+            "Scientific-domain": [
+                "R\u00e9alit\u00e9 Virtuelle"
+            ],
+            "Application-domain": [
+                "Loisir"
+            ]
+        },
+        {
+            "Name": "Animal Logic",
+            "url": "https://animallogic.com/",
+            "Description": "Studio de cr\u00e9ation d'animation et effets visuels.",
+            "Place": [
+                {
+                    "Country": "Australia",
+                    "City": "Sydney"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                },
+                {
+                    "Country": "USA",
+                    "City": "Los Angeles"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "VFX",
+                "Films d'Animation",
+                "Loisir"
+            ],
+            "Employees": 1300
+        },
+        {
+            "Name": "Artefacto",
+            "url": "https://altvr.com/",
+            "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualization dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
+            "Place": [
+                {
+                    "City": "Rennes",
+                    "Exact": "Betton"
+                }
+            ],
+            "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
+            "Scientific-domain": [
+                "R\u00e9alit\u00e9 Augment\u00e9e",
+                "Visalisation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/Immobilier",
+                "Double num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Autodesk",
+            "url": "https://www.autodesk.com/",
+            "Description": "Logiciels 3D, CAO, Conception, Design",
+            "Product": "Maya, 3DS Max, AutoCAD",
+            "Place": [
+                {
+                    "Country": [
+                        "USA",
+                        "Canada",
+                        "India",
+                        "UK",
+                        "Singapor",
+                        "Norway"
+                    ]
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Jobs": "https://www.autodesk.com/careers/overview",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Fabrication",
+                "Design",
+                "Films d'Animation",
+                "VFX",
+                "CAO"
+            ],
+            "Employees": 10000
+        },
+        {
+            "Name": "Ayotle",
+            "url": "http://www.ayotle.com/",
+            "Description": "D\u00e9velopement d'outils de vision pour la r\u00e9alit\u00e9 augment\u00e9e, l'analyse du mouvement et l'interaction tactile.",
+            "Place": {
+                "City": "Paris",
+                "Exact": "Le Kremlin-Bic\u00eatre"
             },
-            {
-                "City": "Angoul\u00e8me"
-            },
-            {
+            "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
+            "Scientific-domain": [
+                "Vision",
+                "Analyse de mouvement",
+                "Haptique"
+            ]
+        },
+        {
+            "Name": "BUF",
+            "url": "https://buf.com/",
+            "Description": "Cr\u00e9ation d'effets visuels (VFX) pour le cin\u00e9ma.",
+            "Place": "Paris",
+            "Jobs": "https://buf.com/jobs/",
+            "Scientific-domain": [
+                "Synth\u00e8se image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Analyse d'image",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma",
+                "VFX"
+            ],
+            "Employees": 60
+        },
+        {
+            "Name": "Beam Me Up Games",
+            "Description": "Analyse de comportement pour le jeu vid\u00e9o.",
+            "url": "https://bmugames.com/",
+            "Place": {
+                "City": "Montr\u00e9al",
                 "Country": "Canada"
             },
-            {
-                "Country": "China"
-            }
-        ],
-        "Scientific-domain": [
-            "Mod\u00e9lisation",
-            "Animation"
-        ],
-        "Application-domain": [
-            "Films d'Animation",
-            "Loisir"
-        ]
-    },
-    {
-        "Name": "Adobe",
-        "url": "https://www.adobe.com/fr/",
-        "Description": "D\u00e9velopement d'outils cr\u00e9atifs",
-        "Place": [
-            {
-                "Country": "USA"
-            },
-            {
-                "Country": "Canada"
-            },
-            {
-                "Country": "France",
-                "City": "Paris"
-            },
-            {
-                "Country": "UK"
-            },
-            {
-                "Country": "India"
-            },
-            {
-                "International": true
-            }
-        ],
-        "Product": [
-            "Photoshop",
-            "Substance 3D",
-            "Premiere",
-            "Illustrator",
-            "etc."
-        ],
-        "Scientific-domain": [
-            "Synth\u00e8se image",
-            "Mod\u00e9lisation",
-            "Animation"
-        ],
-        "Application-domain": [
-            "Design",
-            "Loisir"
-        ],
-        "Info": "Centre de recherche \u00e0 Paris",
-        "Highlight": "Graphics, R&D",
-        "Employees": 20000
-    },
-    {
-        "Name": "Alma",
-        "Name-long": "Alma Logiciels CFAO",
-        "url": "https://www.alma.fr/nos-activites/logiciels-cfao/",
-        "Description": "Edition de logiciels de Conception et Fabrication d'objets manufactur\u00e9s.",
-        "Place": "Grenoble, Lyon, Tarbes, Paris, Annecy",
-        "Jobs": "https://recrutement.alma.fr/cv/",
-        "Scientific-domain": [
-            "Mod\u00e9lisation"
-        ],
-        "Application-domain": [
-            "Fabrication",
-            "Design",
-            "CAO"
-        ]
-    },
-    {
-        "Name": "AltspaceVR",
-        "url": "https://altvr.com/",
-        "Description": "Logiciels pour la r\u00e9alit\u00e9 virtuelle. Filiale de Microsoft.",
-        "Place": [
-            {
-                "Country": "USA"
-            }
-        ],
-        "Scientific-domain": [
-            "R\u00e9alit\u00e9 Virtuelle"
-        ],
-        "Application-domain": [
-            "Loisir"
-        ]
-    },
-    {
-        "Name": "Animal Logic",
-        "url": "https://animallogic.com/",
-        "Description": "Studio de cr\u00e9ation d'animation et effets visuels.",
-        "Place": [
-            {
-                "Country": "Australia",
-                "City": "Sydney"
-            },
-            {
-                "Country": "Canada",
-                "City": "Vancouver"
-            },
-            {
-                "Country": "USA",
-                "City": "Los Angeles"
-            }
-        ],
-        "Scientific-domain": [
-            "Mod\u00e9lisation",
-            "Animation",
-            "Simulation"
-        ],
-        "Application-domain": [
-            "VFX",
-            "Films d'Animation",
-            "Loisir"
-        ],
-        "Employees": 1300
-    },
-    {
-        "Name": "Artefacto",
-        "url": "https://altvr.com/",
-        "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualization dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
-        "Place": [
-            {
-                "City": "Rennes",
-                "Exact": "Betton"
-            }
-        ],
-        "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
-        "Scientific-domain": [
-            "R\u00e9alit\u00e9 Augment\u00e9e",
-            "Visalisation",
-            "Mod\u00e9lisation"
-        ],
-        "Application-domain": [
-            "Architecture/Immobilier",
-            "Double num\u00e9rique"
-        ]
-    },
-    {
-        "Name": "Autodesk",
-        "url": "https://www.autodesk.com/",
-        "Description": "Logiciels 3D, CAO, Conception, Design",
-        "Product": "Maya, 3DS Max, AutoCAD",
-        "Place": [
-            {
-                "Country": [
-                    "USA",
-                    "Canada",
-                    "India",
-                    "UK",
-                    "Singapor",
-                    "Norway"
-                ]
-            },
-            {
-                "International": true
-            }
-        ],
-        "Jobs": "https://www.autodesk.com/careers/overview",
-        "Scientific-domain": [
-            "Mod\u00e9lisation",
-            "Animation"
-        ],
-        "Application-domain": [
-            "Fabrication",
-            "Design",
-            "Films d'Animation",
-            "VFX",
-            "CAO"
-        ],
-        "Employees": 10000
-    },
-    {
-        "Name": "Ayotle",
-        "url": "http://www.ayotle.com/",
-        "Description": "D\u00e9velopement d'outils de vision pour la r\u00e9alit\u00e9 augment\u00e9e, l'analyse du mouvement et l'interaction tactile.",
-        "Place": {
-            "City": "Paris",
-            "Exact": "Le Kremlin-Bic\u00eatre"
+            "Scientific-domain": [
+                "Analyse de comportement",
+                "IA"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
         },
-        "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
-        "Scientific-domain": [
-            "Vision",
-            "Analyse de mouvement",
-            "Haptique"
-        ]
-    },
-    {
-        "Name": "BUF",
-        "url": "https://buf.com/",
-        "Description": "Cr\u00e9ation d'effets visuels (VFX) pour le cin\u00e9ma.",
-        "Place": "Paris",
-        "Jobs": "https://buf.com/jobs/",
-        "Scientific-domain": [
-            "Synth\u00e8se image",
-            "Mod\u00e9lisation",
-            "Animation",
-            "Analyse d'image",
-            "Vision"
-        ],
-        "Application-domain": [
-            "Cin\u00e9ma",
-            "VFX"
-        ],
-        "Employees": 60
-    },
-    {
-        "Name": "Beam Me Up Games",
-        "Description": "Analyse de comportement pour le jeu vid\u00e9o.",
-        "url": "https://bmugames.com/",
-        "Place": {
-            "City": "Montr\u00e9al",
-            "Country": "Canada"
+        {
+            "Name": "Bentley",
+            "Description": "D\u00e9veloppement de logiciels pour l'ing\u00e9nierie civile (simulation, visualisation, acquisition). D\u00e9tient l'ancienne entreprise Francaise de reconstruction 3D \"Acute 3D\".",
+            "url": "https://www.bentley.com/",
+            "Jobs": "https://jobs.bentley.com/search",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "UK"
+                },
+                {
+                    "Country": "Netherland"
+                },
+                {
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Sophia"
+                    ]
+                },
+                {
+                    "Country": "Singapore"
+                },
+                {
+                    "Country": "New Zealand"
+                },
+                {
+                    "Country": "India"
+                }
+            ],
+            "Scientific-domain": [
+                "Visalisation",
+                "Simulation",
+                "Vision",
+                "Reconstruction 3D"
+            ],
+            "Application-domain": [
+                "Ing\u00e9nierie civile",
+                "CAO",
+                "Double num\u00e9rique"
+            ],
+            "Employees": 4000
         },
-        "Scientific-domain": [
-            "Analyse de comportement",
-            "IA"
-        ],
-        "Application-domain": [
-            "Jeu Vid\u00e9o"
-        ]
-    },
-    {
-        "Name": "Bentley",
-        "Description": "D\u00e9veloppement de logiciels pour l'ing\u00e9nierie civile (simulation, visualisation, acquisition). D\u00e9tient l'ancienne entreprise Francaise de reconstruction 3D \"Acute 3D\".",
-        "url": "https://www.bentley.com/",
-        "Jobs": "https://jobs.bentley.com/search",
-        "Place": [
-            {
-                "Country": "USA"
+        {
+            "Name": "Blippar",
+            "Description": "D\u00e9veloppement d'outils pour la cr\u00e9ation de contenu en AR sur smartphone",
+            "url": "https://qarnot.com/",
+            "Place": {
+                "Country": "UK",
+                "City": "Londres"
             },
-            {
-                "Country": "UK"
-            },
-            {
-                "Country": "Netherland"
-            },
-            {
-                "Country": "France",
-                "City": [
-                    "Paris",
-                    "Sophia"
-                ]
-            },
-            {
-                "Country": "Singapore"
-            },
-            {
-                "Country": "New Zealand"
-            },
-            {
-                "Country": "India"
-            }
-        ],
-        "Scientific-domain": [
-            "Visalisation",
-            "Simulation",
-            "Vision",
-            "Reconstruction 3D"
-        ],
-        "Application-domain": [
-            "Ing\u00e9nierie civile",
-            "CAO",
-            "Double num\u00e9rique"
-        ],
-        "Employees": 4000
-    },
-    {
-        "Name": "Blippar",
-        "Description": "D\u00e9veloppement d'outils pour la cr\u00e9ation de contenu en AR sur smartphone",
-        "url": "https://qarnot.com/",
-        "Place": {
-            "Country": "UK",
-            "City": "Londres"
+            "Jobs": "https://www.blippar.com/careers#Jobs",
+            "Scientific-domain": [
+                "R\u00e9alit\u00e9 virtuelle",
+                "Modelisation"
+            ],
+            "Application-domain": [
+                "Web",
+                "Loisir"
+            ]
         },
-        "Jobs": "https://www.blippar.com/careers#Jobs",
-        "Scientific-domain": [
-            "R\u00e9alit\u00e9 virtuelle",
-            "Modelisation"
-        ],
-        "Application-domain": [
-            "Web",
-            "Loisir"
-        ]
-    },
-    {
-        "Name": "Christie",
-        "url": "https://www.christiedigital.com/en-gb",
-        "Description": "Syst\u00e8mes de projections et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
-        "Place": [
-            {
-                "Country": "USA",
-                "State": "California"
-            },
-            {
-                "Country": "Canada",
-                "State": "Ontario"
-            }
-        ],
-        "Scientific-domain": [
-            "Video Mapping",
-            "R\u00e9alit\u00e9 Augment\u00e9e",
-            "Visalisation"
-        ],
-        "Application-domain": [
-            "Evenementiel",
-            "Loisir"
-        ],
-        "Employees": 2000
-    },
-    {
-        "Name": "Dassault Syst\u00e8mes",
-        "url": "https://www.3ds.com/fr/",
-        "Description": "Logiciels de CAO, Design et Simulation.",
-        "Place": [
-            {
-                "Country": "France",
-                "City": [
-                    "Paris",
-                    "Aix en Provence"
-                ]
-            },
-            {
-                "Country": "USA"
-            },
-            {
-                "Country": "China"
-            },
-            {
-                "International": true
-            }
-        ],
-        "Product": "Catia, SolidWorks",
-        "Jobs": "https://careers.3ds.com/",
-        "Scientific-domain": [
-            "Mod\u00e9lisation",
-            "Simulation"
-        ],
-        "Application-domain": [
-            "Fabrication",
-            "Design",
-            "M\u00e9dical",
-            "Physique",
-            "CAO",
-            "Double num\u00e9rique"
-        ],
-        "Highlight": "Graphics, R&D",
-        "Employees": 20000
-    },
-    {
-        "Name": "Kinetix",
-        "url": "https://www.kinetix.tech/",
-        "Description": "Cr\u00e9ation d'animation 3D d'humain \u00e0 partir de capture de video sur smartphone.",
-        "Place": "Paris",
-        "Jobs": "https://kinetix-tech.welcomekit.co/",
-        "Scientific-domain": [
-            "Vision",
-            "Animation",
-            "IA",
-            "Capture de mouvement",
-            "Analyse de mouvement"
-        ],
-        "Application-domain": [
-            "Loisir",
-            "Metavers"
-        ]
-    },
-    {
-        "Name": "Lectra",
-        "url": "https://www.lectra.com/fr",
-        "Description": "Logiciels de conceptions professionels: Model, Automobile, Ameublement",
-        "Place": [
-            {
-                "Country": "France",
-                "City": "Paris"
-            },
-            {
-                "International": true
-            }
-        ],
-        "Scientific-domain": [
-            "Mod\u00e9lisation",
-            "Simulation"
-        ],
-        "Application-domain": [
-            "Fabrication",
-            "Design",
-            "CAO"
-        ],
-        "Employees": 1500
-    },
-    {
-        "Name": "Mac Guff",
-        "url": "https://www.macguff.com/",
-        "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
-        "Place": "Paris",
-        "Jobs": "https://buf.com/jobs/",
-        "Scientific-domain": [
-            "Synth\u00e8se image",
-            "Mod\u00e9lisation",
-            "Animation",
-            "Analyse d'image",
-            "Vision"
-        ],
-        "Application-domain": [
-            "Cin\u00e9ma",
-            "VFX",
-            "Films d'Animation"
-        ],
-        "Employees": 60
-    },
-    {
-        "Name": "Mercenaries Engineering",
-        "url": "http://guerillarender.com/",
-        "Description": "D\u00e9veloppement de logiciel de rendu (Guerilla Render) et d'animation (Rumba) pour la cr\u00e9ation de films d'animation.",
-        "Product": [
-            {
-                "Name": "Guerilla Render",
-                "url": "http://guerillarender.com/"
-            },
-            {
-                "Name": "Rumba Animation",
-                "url": "https://rumba-animation.com/"
-            }
-        ],
-        "Place": "Paris",
-        "Scientific-domain": [
-            "Synth\u00e8se d'images",
-            "Animation"
-        ],
-        "Application-domain": [
-            "Films d'Animation"
-        ]
-    },
-    {
-        "Name": "MocapLab",
-        "url": "https://www.mocaplab.com/",
-        "Description": "Studio et R&amp;D pour la capture de mouvement.",
-        "Place": [
-            {
-                "City": "Paris",
-                "Exact": "Aubervilliers"
-            }
-        ],
-        "Scientific-domain": [
-            "Capture de mouvement",
-            "Analyse de mouvement",
-            "Animation"
-        ],
-        "Application-domain": [
-            "Loisir",
-            "Jeu Vid\u00e9o",
-            "Cin\u00e9ma"
-        ]
-    },
-    {
-        "Name": "ModaLive",
-        "url": "https://www.modalive.fr/",
-        "Description": "Virtual try-on de v\u00eatements de mode.",
-        "Place": "Paris",
-        "Scientific-domain": [
-            "Reconstruction 3D",
-            "Capture de forme",
-            "G\u00e9om\u00e9trie",
-            "Vision",
-            "Mod\u00e9lisation"
-        ],
-        "Application-domain": [
-            "Vetements",
-            "Double num\u00e9rique"
-        ]
-    },
-    {
-        "Name": "Qarnot Computing",
-        "url": "https://qarnot.com/",
-        "Description": "Calculs sur le Cloud.",
-        "Place": [
-            {
-                "City": "Paris",
-                "Exact": "Montrouge"
-            }
-        ],
-        "Jobs": "https://qarnot.com/en/recruiting",
-        "Scientific-domain": [
-            "Calcul",
-            "Big Data"
-        ],
-        "Application-domain": [
-            "Web"
-        ]
-    },
-    {
-        "Name": "Shot Over",
-        "url": "https://shotover.com/",
-        "Description": "Syst\u00e8me d'imagerie gyro stabilis\u00e9e pour des prises de vues sur v\u00e9hicules (cin\u00e9ma, s\u00e9curit\u00e9, d\u00e9fense, etc).",
-        "Place": [
-            {
-                "Country": "USA",
-                "State": "Colorado"
-            }
-        ],
-        "Scientific-domain": [
-            "Capture vid\u00e9o"
-        ],
-        "Application-domain": [
-            "Cin\u00e9ma",
-            "Evenementiel",
-            "S\u00e9curit\u00e9",
-            "D\u00e9fense"
-        ]
-    },
-    {
-        "Name": "Thales",
-        "url": "https://www.thalesgroup.com/fr",
-        "Description": "Multi-nationale fran\u00e7aise \u00e0 forte composante R&amp;D d\u00e9veloppant des produits pour l'a\u00e9rospatiale, la d\u00e9fense, et la s\u00e9curit\u00e9 tel que la biom\u00e9trie.",
-        "Place": [
-            {
-                "Country": "France",
-                "City": "Paris"
-            },
-            {
-                "International": true
-            }
-        ],
-        "Jobs": "https://www.thalesgroup.com/fr/candidat",
-        "Scientific-domain": [
-            "Reconstruction 3D",
-            "Analyse d'image",
-            "Vision"
-        ],
-        "Application-domain": [
-            "Aviation",
-            "S\u00e9curit\u00e9",
-            "D\u00e9fense"
-        ],
-        "Employees": 80000,
-        "Highlight": "R&D"
-    }
-]
+        {
+            "Name": "Christie",
+            "url": "https://www.christiedigital.com/en-gb",
+            "Description": "Syst\u00e8mes de projections et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California"
+                },
+                {
+                    "Country": "Canada",
+                    "State": "Ontario"
+                }
+            ],
+            "Scientific-domain": [
+                "Video Mapping",
+                "R\u00e9alit\u00e9 Augment\u00e9e",
+                "Visalisation"
+            ],
+            "Application-domain": [
+                "Evenementiel",
+                "Loisir"
+            ],
+            "Employees": 2000
+        },
+        {
+            "Name": "Dassault Syst\u00e8mes",
+            "url": "https://www.3ds.com/fr/",
+            "Description": "Logiciels de CAO, Design et Simulation.",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Aix en Provence"
+                    ]
+                },
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "China"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Product": "Catia, SolidWorks",
+            "Jobs": "https://careers.3ds.com/",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Fabrication",
+                "Design",
+                "M\u00e9dical",
+                "Physique",
+                "CAO",
+                "Double num\u00e9rique"
+            ],
+            "Highlight": "Graphics, R&D",
+            "Employees": 20000
+        },
+        {
+            "Name": "Kinetix",
+            "url": "https://www.kinetix.tech/",
+            "Description": "Cr\u00e9ation d'animation 3D d'humain \u00e0 partir de capture de video sur smartphone.",
+            "Place": "Paris",
+            "Jobs": "https://kinetix-tech.welcomekit.co/",
+            "Scientific-domain": [
+                "Vision",
+                "Animation",
+                "IA",
+                "Capture de mouvement",
+                "Analyse de mouvement"
+            ],
+            "Application-domain": [
+                "Loisir",
+                "Metavers"
+            ]
+        },
+        {
+            "Name": "Lectra",
+            "url": "https://www.lectra.com/fr",
+            "Description": "Logiciels de conceptions professionels: Model, Automobile, Ameublement",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Fabrication",
+                "Design",
+                "CAO"
+            ],
+            "Employees": 1500
+        },
+        {
+            "Name": "Mac Guff",
+            "url": "https://www.macguff.com/",
+            "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
+            "Place": "Paris",
+            "Jobs": "https://buf.com/jobs/",
+            "Scientific-domain": [
+                "Synth\u00e8se image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Analyse d'image",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma",
+                "VFX",
+                "Films d'Animation"
+            ],
+            "Employees": 60
+        },
+        {
+            "Name": "Mercenaries Engineering",
+            "url": "http://guerillarender.com/",
+            "Description": "D\u00e9veloppement de logiciel de rendu (Guerilla Render) et d'animation (Rumba) pour la cr\u00e9ation de films d'animation.",
+            "Product": [
+                {
+                    "Name": "Guerilla Render",
+                    "url": "http://guerillarender.com/"
+                },
+                {
+                    "Name": "Rumba Animation",
+                    "url": "https://rumba-animation.com/"
+                }
+            ],
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Synth\u00e8se d'images",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Films d'Animation"
+            ]
+        },
+        {
+            "Name": "MocapLab",
+            "url": "https://www.mocaplab.com/",
+            "Description": "Studio et R&amp;D pour la capture de mouvement.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Exact": "Aubervilliers"
+                }
+            ],
+            "Scientific-domain": [
+                "Capture de mouvement",
+                "Analyse de mouvement",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Loisir",
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma"
+            ]
+        },
+        {
+            "Name": "ModaLive",
+            "url": "https://www.modalive.fr/",
+            "Description": "Virtual try-on de v\u00eatements de mode.",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Reconstruction 3D",
+                "Capture de forme",
+                "G\u00e9om\u00e9trie",
+                "Vision",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Vetements",
+                "Double num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Qarnot Computing",
+            "url": "https://qarnot.com/",
+            "Description": "Calculs sur le Cloud.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Exact": "Montrouge"
+                }
+            ],
+            "Jobs": "https://qarnot.com/en/recruiting",
+            "Scientific-domain": [
+                "Calcul",
+                "Big Data"
+            ],
+            "Application-domain": [
+                "Web"
+            ]
+        },
+        {
+            "Name": "Shot Over",
+            "url": "https://shotover.com/",
+            "Description": "Syst\u00e8me d'imagerie gyro stabilis\u00e9e pour des prises de vues sur v\u00e9hicules (cin\u00e9ma, s\u00e9curit\u00e9, d\u00e9fense, etc).",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Colorado"
+                }
+            ],
+            "Scientific-domain": [
+                "Capture vid\u00e9o"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma",
+                "Evenementiel",
+                "S\u00e9curit\u00e9",
+                "D\u00e9fense"
+            ]
+        },
+        {
+            "Name": "Thales",
+            "url": "https://www.thalesgroup.com/fr",
+            "Description": "Multi-nationale fran\u00e7aise \u00e0 forte composante R&amp;D d\u00e9veloppant des produits pour l'a\u00e9rospatiale, la d\u00e9fense, et la s\u00e9curit\u00e9 tel que la biom\u00e9trie.",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Jobs": "https://www.thalesgroup.com/fr/candidat",
+            "Scientific-domain": [
+                "Reconstruction 3D",
+                "Analyse d'image",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Aviation",
+                "S\u00e9curit\u00e9",
+                "D\u00e9fense"
+            ],
+            "Employees": 80000,
+            "Highlight": "R&D"
+        }
+    ]
+}
