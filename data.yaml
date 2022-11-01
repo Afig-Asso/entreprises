@@ -65,6 +65,14 @@
   Scientific-domain: [Réalité Virtuelle]
   Application-domain: [Loisir]
 
+- Name: Anatoscope
+  Description: "Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)."
+  url: https://www.anatoscope.com/
+  Jobs: https://www.anatoscope.com/offres-demploi-grenoble-montpellier/
+  Place: Grenoble, Montpellier
+  Scientific-domain: [Modélisation, Visualisation, Simulation, Analyse de forme, Géométrie]
+  Application-domain: [Médical, Double numérique]
+
 - Name: "Animal Logic"
   url: https://animallogic.com/
   Description: Studio de création d'animation et effets visuels.
@@ -173,6 +181,29 @@
   Highlight: Graphics, R&D
   Employees: 20000
 
+- Name: Gameloft
+  Description: "Développement de jeux vidéos orientés mobile."
+  url: https://www.gameloft.com/
+  Jobs: https://www.gameloft.com/corporate/fr/jobs/apply/
+  Place:
+    - Country: France
+      City: Paris
+    - Country: USA
+    - Country: Canada
+    - Country: Spain
+    - Country: India
+    - International: True
+  Employees: 3600
+
+- Name: Illumination MacGuff
+  url: https://www.macguff.com/
+  Description: "Création de films d'animation et d'effets visels."
+  Place: Paris
+  Jobs: https://buf.com/jobs/
+  Scientific-domain: [Synthèse image, Modélisation, Animation, Analyse d'image, Vision]
+  Application-domain: [Cinéma, VFX, Films d'Animation]
+  Employees: 60
+  
 - Name: Kinetix
   url: https://www.kinetix.tech/
   Description: "Création d'animation 3D d'humain à partir de capture de video sur smartphone."
@@ -192,15 +223,6 @@
   Application-domain: [Fabrication, Design, CAO]
   Employees: 1500
 
-- Name: Illumination MacGuff
-  url: https://www.macguff.com/
-  Description: "Création de films d'animation et d'effets visels."
-  Place: Paris
-  Jobs: https://buf.com/jobs/
-  Scientific-domain: [Synthèse image, Modélisation, Animation, Analyse d'image, Vision]
-  Application-domain: [Cinéma, VFX, Films d'Animation]
-  Employees: 60
-  
 - Name: Mercenaries Engineering
   url: http://guerillarender.com/
   Description: Développement de logiciel de rendu (Guerilla Render) et d'animation (Rumba) pour la création de films d'animation.
@@ -249,20 +271,6 @@
   Scientific-domain: [Capture vidéo]
   Application-domain: [Cinéma, Evenementiel, Sécurité, Défense]
 
-- Name: Thales
-  url: https://www.thalesgroup.com/fr
-  Description: "Multi-nationale française à forte composante R&amp;D développant des produits pour l'aérospatiale, la défense, et la sécurité tel que la biométrie."
-  Place:
-    - Country: France
-      City: Paris
-    - International: True
-  Jobs: https://www.thalesgroup.com/fr/candidat
-  Scientific-domain: [Reconstruction 3D, Analyse d'image, Vision]
-  Application-domain: [Aviation, Sécurité, Défense]
-  Employees: 80000
-  Highlight: R&D
-
-
 - Name: TVPaint
   url: https://www.tvpaint.com/
   Description: "Logiciel d'animation 2D."
@@ -287,12 +295,40 @@
     - International: True
   Scientific-domain: [Synthèse image, Animation, Modélisation, Réalité Virtuelle, Réalité Augmentée]
   Application-domain: [Films d'Animation, VFX, Loisir]
+  Employees: 12000
 
-- Name: Anatoscope
-  Description: Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique).
-  url: https://www.anatoscope.com/
-  Jobs: https://www.anatoscope.com/offres-demploi-grenoble-montpellier/
-  Place: Grenoble, Montpellier
-  Scientific-domain: [Modélisation, Visualisation, Simulation, Analyse de forme, Géométrie]
-  Application-domain: [Médical, Double numérique]
+- Name: Thales
+  url: https://www.thalesgroup.com/fr
+  Description: "Multi-nationale française à forte composante R&amp;D développant des produits pour l'aérospatiale, la défense, et la sécurité tel que la biométrie."
+  Place:
+    - Country: France
+      City: Paris
+    - International: True
+  Jobs: https://www.thalesgroup.com/fr/candidat
+  Scientific-domain: [Reconstruction 3D, Analyse d'image, Vision]
+  Application-domain: [Aviation, Sécurité, Défense]
+  Employees: 80000
+  Highlight: R&D
+
+
+- Name: Ubisoft
+  Description: "Développeur de jeux vidéo Français, possédant de nombreux studios à l'international"
+  Info: "Ubisoft a créé une entité de recherche à Bordeaux appelée \"La Forge\" à l'image de celle existante à Montréal."
+  url: https://www.ubisoft.com/
+  Jobs: https://www.ubisoft.com/en-us/company/careers
+  Place: 
+    - Country: France
+      City: [Paris, Bordeaux, Annecy]
+    - Country: Canada
+      City: [Montreal, Toronto]
+    - Country: USA
+      City: [San Francisco, New York, Atlanta]
+    - Country: Inde
+    - Country: Allemagne
+    - Country: Pologne
+    - International: True
+  Scientific-domain: [Synthèse image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 20000
+  Highlight: Graphics, R&D
 

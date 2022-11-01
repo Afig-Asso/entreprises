@@ -175,6 +175,24 @@
             ]
         },
         {
+            "Name": "Anatoscope",
+            "Description": "Logiciels pour l'anatomie 3D num\u00e9rique personnalis\u00e9 (orthopedie, dentaire, radiologique).",
+            "url": "https://www.anatoscope.com/",
+            "Jobs": "https://www.anatoscope.com/offres-demploi-grenoble-montpellier/",
+            "Place": "Grenoble, Montpellier",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Visualisation",
+                "Simulation",
+                "Analyse de forme",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical",
+                "Double num\u00e9rique"
+            ]
+        },
+        {
             "Name": "Animal Logic",
             "url": "https://animallogic.com/",
             "Description": "Studio de cr\u00e9ation d'animation et effets visuels.",
@@ -437,6 +455,54 @@
             "Employees": 20000
         },
         {
+            "Name": "Gameloft",
+            "Description": "D\u00e9veloppement de jeux vid\u00e9os orient\u00e9s mobile.",
+            "url": "https://www.gameloft.com/",
+            "Jobs": "https://www.gameloft.com/corporate/fr/jobs/apply/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "Canada"
+                },
+                {
+                    "Country": "Spain"
+                },
+                {
+                    "Country": "India"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Employees": 3600
+        },
+        {
+            "Name": "Illumination MacGuff",
+            "url": "https://www.macguff.com/",
+            "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
+            "Place": "Paris",
+            "Jobs": "https://buf.com/jobs/",
+            "Scientific-domain": [
+                "Synth\u00e8se image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Analyse d'image",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma",
+                "VFX",
+                "Films d'Animation"
+            ],
+            "Employees": 60
+        },
+        {
             "Name": "Kinetix",
             "url": "https://www.kinetix.tech/",
             "Description": "Cr\u00e9ation d'animation 3D d'humain \u00e0 partir de capture de video sur smartphone.",
@@ -477,26 +543,6 @@
                 "CAO"
             ],
             "Employees": 1500
-        },
-        {
-            "Name": "Illumination MacGuff",
-            "url": "https://www.macguff.com/",
-            "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
-            "Place": "Paris",
-            "Jobs": "https://buf.com/jobs/",
-            "Scientific-domain": [
-                "Synth\u00e8se image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Analyse d'image",
-                "Vision"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma",
-                "VFX",
-                "Films d'Animation"
-            ],
-            "Employees": 60
         },
         {
             "Name": "Mercenaries Engineering",
@@ -599,33 +645,6 @@
             ]
         },
         {
-            "Name": "Thales",
-            "url": "https://www.thalesgroup.com/fr",
-            "Description": "Multi-nationale fran\u00e7aise \u00e0 forte composante R&amp;D d\u00e9veloppant des produits pour l'a\u00e9rospatiale, la d\u00e9fense, et la s\u00e9curit\u00e9 tel que la biom\u00e9trie.",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Jobs": "https://www.thalesgroup.com/fr/candidat",
-            "Scientific-domain": [
-                "Reconstruction 3D",
-                "Analyse d'image",
-                "Vision"
-            ],
-            "Application-domain": [
-                "Aviation",
-                "S\u00e9curit\u00e9",
-                "D\u00e9fense"
-            ],
-            "Employees": 80000,
-            "Highlight": "R&D"
-        },
-        {
             "Name": "TVPaint",
             "url": "https://www.tvpaint.com/",
             "Description": "Logiciel d'animation 2D.",
@@ -681,7 +700,90 @@
                 "Films d'Animation",
                 "VFX",
                 "Loisir"
-            ]
+            ],
+            "Employees": 12000
+        },
+        {
+            "Name": "Thales",
+            "url": "https://www.thalesgroup.com/fr",
+            "Description": "Multi-nationale fran\u00e7aise \u00e0 forte composante R&amp;D d\u00e9veloppant des produits pour l'a\u00e9rospatiale, la d\u00e9fense, et la s\u00e9curit\u00e9 tel que la biom\u00e9trie.",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Jobs": "https://www.thalesgroup.com/fr/candidat",
+            "Scientific-domain": [
+                "Reconstruction 3D",
+                "Analyse d'image",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Aviation",
+                "S\u00e9curit\u00e9",
+                "D\u00e9fense"
+            ],
+            "Employees": 80000,
+            "Highlight": "R&D"
+        },
+        {
+            "Name": "Ubisoft",
+            "Description": "D\u00e9veloppeur de jeux vid\u00e9o Fran\u00e7ais, poss\u00e9dant de nombreux studios \u00e0 l'international",
+            "Info": "Ubisoft a cr\u00e9\u00e9 une entit\u00e9 de recherche \u00e0 Bordeaux appel\u00e9e \"La Forge\" \u00e0 l'image de celle existante \u00e0 Montr\u00e9al.",
+            "url": "https://www.ubisoft.com/",
+            "Jobs": "https://www.ubisoft.com/en-us/company/careers",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Bordeaux",
+                        "Annecy"
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": [
+                        "Montreal",
+                        "Toronto"
+                    ]
+                },
+                {
+                    "Country": "USA",
+                    "City": [
+                        "San Francisco",
+                        "New York",
+                        "Atlanta"
+                    ]
+                },
+                {
+                    "Country": "Inde"
+                },
+                {
+                    "Country": "Allemagne"
+                },
+                {
+                    "Country": "Pologne"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 20000,
+            "Highlight": "Graphics, R&D"
         }
     ]
 }

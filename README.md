@@ -48,6 +48,14 @@
   * **Domaine d'application**: Loisir
 
 
+* **[Anatoscope](https://www.anatoscope.com/)**  
+  * _Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)._
+  * **Localisation**: Grenoble,  Montpellier
+  * **Domaine scientifique**: Modélisation, Visualisation, Simulation, Analyse de forme, Géométrie
+  * **Domaine d'application**: Médical, Double numérique
+  * [_Jobs_](https://www.anatoscope.com/offres-demploi-grenoble-montpellier/)
+
+
 * **[Animal Logic](https://animallogic.com/)**  
   * _Studio de création d'animation et effets visuels._
   * **Localisation**: Australia/Sydney, Canada/Vancouver, USA/Los Angeles
@@ -132,6 +140,13 @@
   * [_Jobs_](https://careers.3ds.com/)
 
 
+* **[Gameloft](https://www.gameloft.com/)**  
+  * _Développement de jeux vidéos orientés mobile._
+  * **Localisation**: France/Paris, USA, Canada, Spain, India, International
+  * **Nombres d'employés**: 3600
+  * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
+
+
 * **[Illumination MacGuff](https://www.macguff.com/)**  
   * _Création de films d'animation et d'effets visels._
   * **Localisation**: Paris
@@ -204,6 +219,7 @@
 * **[Technicolor Creative Studios](https://www.technicolorcreative.com/)**  
   * _Entreprise d'animation et de VFX international possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games._
   * **Localisation**: France/Paris, Canada/{Montréal, Toronto}, USA/{New York, Chicago, Los Angeles}, UK/London, International
+  * **Nombres d'employés**: 12000
   * **Domaine scientifique**: Synthèse image, Animation, Modélisation, Réalité Virtuelle, Réalité Augmentée
   * **Domaine d'application**: Films d'Animation, VFX, Loisir
   * [_Jobs_](https://www.technicolorcreative.com/jobs/)
@@ -216,5 +232,15 @@
   * **Domaine scientifique**: Reconstruction 3D, Analyse d'image, Vision
   * **Domaine d'application**: Aviation, Sécurité, Défense
   * [_Jobs_](https://www.thalesgroup.com/fr/candidat)
+
+
+* **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
+  * _Développeur de jeux vidéo Français, possédant de nombreux studios à l'international_
+  * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal._
+  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montreal, Toronto}, USA/{San Francisco, New York, Atlanta}, Inde, Allemagne, Pologne, International
+  * **Nombres d'employés**: 20000
+  * **Domaine scientifique**: Synthèse image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
 
 
