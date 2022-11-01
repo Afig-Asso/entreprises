@@ -23,8 +23,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
       - name: copy to github.io
         run: |
           git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/Afig-Asso/Afig-Asso.github.io target
