@@ -28,5 +28,5 @@ jobs:
           cd target
           git add entreprises/
           git diff-index --quiet HEAD || git commit -am "Automatic publish from github.com/Afig-Asso/entrerprises"
-          git push
+          git push origin main
           
