@@ -44,7 +44,10 @@ def is_url_valid(url):
         print('Error code: ', e.code)
         return False
     except urllib.error.URLError as e:
-        if str(e.reason).find('SSL: WRONG_SIGNATURE_TYPE')!=-1: # Not accessible but not an error
+        # Not accessible but not an error
+        if str(e.reason).find('SSL: WRONG_SIGNATURE_TYPE')!=-1: 
+            return True
+        if str(e.reason).find('SSL: CERTIFICATE_VERIFY_FAILED')!=-1: 
             return True
 
         print(f'\n\nWarning: URL seems wrong: {url}')
