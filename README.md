@@ -194,6 +194,21 @@
   * **Domaine d'application**: Cinéma, Evenementiel, Sécurité, Défense
 
 
+* **[TVPaint](https://www.tvpaint.com/)**  
+  * _Logiciel d'animation 2D._
+  * **Localisation**: Metz
+  * **Domaine scientifique**: Animation
+  * **Domaine d'application**: Films d'Animation
+
+
+* **[Technicolor Creative Studios](https://www.technicolorcreative.com/)**  
+  * _Entreprise d'animation et de VFX international possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games._
+  * **Localisation**: France/Paris, Canada/{Montréal, Toronto}, USA/{New York, Chicago, Los Angeles}, UK/London, International
+  * **Domaine scientifique**: Synthèse image, Animation, Modélisation, Réalité Virtuelle, Réalité Augmentée
+  * **Domaine d'application**: Films d'Animation, VFX, Loisir
+  * [_Jobs_](https://www.technicolorcreative.com/jobs/)
+
+
 * **[Thales](https://www.thalesgroup.com/fr)**   :small_orange_diamond: _[Entreprise majeure avec R&D avancée en France]_
   * _Multi-nationale française à forte composante R&amp;D développant des produits pour l'aérospatiale, la défense, et la sécurité tel que la biométrie._
   * **Localisation**: France/Paris, International

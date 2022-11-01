@@ -262,3 +262,36 @@
   Employees: 80000
   Highlight: R&D
 
+
+- Name: TVPaint
+  url: https://www.tvpaint.com/
+  Description: "Logiciel d'animation 2D."
+  Place: Metz
+  Scientific-domain: [Animation]
+  Application-domain: [Films d'Animation]
+
+
+- Name: Technicolor Creative Studios
+  Description: "Entreprise d'animation et de VFX international possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games."
+  url: https://www.technicolorcreative.com/
+  Jobs: https://www.technicolorcreative.com/jobs/
+  Place:
+    - Country: France
+      City: Paris
+    - Country: Canada
+      City: [Montréal,Toronto]
+    - Country: USA
+      City: [New York, Chicago, Los Angeles]
+    - Country: UK
+      City: London
+    - International: True
+  Scientific-domain: [Synthèse image, Animation, Modélisation, Réalité Virtuelle, Réalité Augmentée]
+  Application-domain: [Films d'Animation, VFX, Loisir]
+
+- Name: Anatoscope
+  Description: Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique).
+  url: https://www.anatoscope.com/
+  Jobs: https://www.anatoscope.com/offres-demploi-grenoble-montpellier/
+  Place: Grenoble, Montpellier
+  Scientific-domain: [Modélisation, Visualisation, Simulation, Analyse de forme, Géométrie]
+  Application-domain: [Médical, Double numérique]

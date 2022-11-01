@@ -4,7 +4,7 @@
             "Synth\u00e8se image",
             "Mod\u00e9lisation",
             "Animation",
-            "Visalisation",
+            "Visualisation",
             "Simulation",
             "IA",
             "Capture vid\u00e9o",
@@ -624,6 +624,64 @@
             ],
             "Employees": 80000,
             "Highlight": "R&D"
+        },
+        {
+            "Name": "TVPaint",
+            "url": "https://www.tvpaint.com/",
+            "Description": "Logiciel d'animation 2D.",
+            "Place": "Metz",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Films d'Animation"
+            ]
+        },
+        {
+            "Name": "Technicolor Creative Studios",
+            "Description": "Entreprise d'animation et de VFX international poss\u00e9dant les studios MPC, The Mill, Mikros Animation, et Technocolor Games.",
+            "url": "https://www.technicolorcreative.com/",
+            "Jobs": "https://www.technicolorcreative.com/jobs/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Canada",
+                    "City": [
+                        "Montr\u00e9al",
+                        "Toronto"
+                    ]
+                },
+                {
+                    "Country": "USA",
+                    "City": [
+                        "New York",
+                        "Chicago",
+                        "Los Angeles"
+                    ]
+                },
+                {
+                    "Country": "UK",
+                    "City": "London"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se image",
+                "Animation",
+                "Mod\u00e9lisation",
+                "R\u00e9alit\u00e9 Virtuelle",
+                "R\u00e9alit\u00e9 Augment\u00e9e"
+            ],
+            "Application-domain": [
+                "Films d'Animation",
+                "VFX",
+                "Loisir"
+            ]
         }
     ]
 }
