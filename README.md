@@ -59,7 +59,7 @@
 * **[Artefacto](https://altvr.com/)**  
   * _Développement d'applications pour la Réalité augmentée pour la visualization dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement._
   * **Place**: Rennes (Betton)
-  * **Domaine scientifique**: Réalité Augmentée, Visalisation, Modélisation
+  * **Domaine scientifique**: Réalité Augmentée, Visualisation, Modélisation
   * **Domaine d'application**: Architecture/Immobilier, Double numérique
   * [_Jobs_](https://www.artefacto-ar.com/en/carrieres/)
 
@@ -101,7 +101,7 @@
   * _Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D"._
   * **Place**: USA, UK, Netherland, France/{Paris, Sophia}, Singapore, New Zealand, India
   * **Nombres d'employées**: 4000
-  * **Domaine scientifique**: Visalisation, Simulation, Vision, Reconstruction 3D
+  * **Domaine scientifique**: Visualisation, Simulation, Vision, Reconstruction 3D
   * **Domaine d'application**: Ingénierie civile, CAO, Double numérique
   * [_Jobs_](https://jobs.bentley.com/search)
 
@@ -109,7 +109,7 @@
 * **[Blippar](https://qarnot.com/)**  
   * _Développement d'outils pour la création de contenu en AR sur smartphone_
   * **Place**: UK/Londres
-  * **Domaine scientifique**: Réalité virtuelle, Modelisation
+  * **Domaine scientifique**: Réalité Virtuelle, Modélisation
   * **Domaine d'application**: Web, Loisir
   * [_Jobs_](https://www.blippar.com/careers#Jobs)
 
@@ -118,7 +118,7 @@
   * _Systèmes de projections et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc)._
   * **Place**: USA/California, Canada/Ontario
   * **Nombres d'employées**: 2000
-  * **Domaine scientifique**: Video Mapping, Réalité Augmentée, Visalisation
+  * **Domaine scientifique**: Video Mapping, Réalité Augmentée, Visualisation
   * **Domaine d'application**: Evenementiel, Loisir
 
 
@@ -130,6 +130,15 @@
   * **Domaine scientifique**: Modélisation, Simulation
   * **Domaine d'application**: Fabrication, Design, Médical, Physique, CAO, Double numérique
   * [_Jobs_](https://careers.3ds.com/)
+
+
+* **[Illumination MacGuff](https://www.macguff.com/)**  
+  * _Création de films d'animation et d'effets visels._
+  * **Place**: Paris
+  * **Nombres d'employées**: 60
+  * **Domaine scientifique**: Synthèse image, Modélisation, Animation, Analyse d'image, Vision
+  * **Domaine d'application**: Cinéma, VFX, Films d'Animation
+  * [_Jobs_](https://buf.com/jobs/)
 
 
 * **[Kinetix](https://www.kinetix.tech/)**  
@@ -146,15 +155,6 @@
   * **Nombres d'employées**: 1500
   * **Domaine scientifique**: Modélisation, Simulation
   * **Domaine d'application**: Fabrication, Design, CAO
-
-
-* **[Mac Guff](https://www.macguff.com/)**  
-  * _Création de films d'animation et d'effets visels._
-  * **Place**: Paris
-  * **Nombres d'employées**: 60
-  * **Domaine scientifique**: Synthèse image, Modélisation, Animation, Analyse d'image, Vision
-  * **Domaine d'application**: Cinéma, VFX, Films d'Animation
-  * [_Jobs_](https://buf.com/jobs/)
 
 
 * **[Mercenaries Engineering](http://guerillarender.com/)**  

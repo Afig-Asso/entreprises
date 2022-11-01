@@ -105,8 +105,6 @@ def prettyMD_company(data):
     nom_long = liblisting.get_optional('Name-long',data)
     descriptif = liblisting.get_optional('Description',data)
     place = export_place_to_MD(get_list_places(data['Place']))
-    #localisation_secondaires = liblisting.get_optional('Localization-minor',data)
-    #localisation_exact = liblisting.get_optional('Localization-exact',data)
     country = liblisting.get_optional('Country',data)
     product = export_list_url_to_MD(liblisting.get_list_name_url('Product',data))
     domaines_scientifiques = liblisting.get_optional('Scientific-domain',data)
@@ -130,14 +128,6 @@ def prettyMD_company(data):
     out += liblisting.display_optional(descriptif, pre='* _', post='_')
     out += liblisting.display_optional(information, pre='* **Remarque**: _', post='_')
     out += liblisting.display_optional(product, pre='* **Produits**: ')
-
-    # localisation_txt = localisation
-    # if localisation_exact!='':
-    #     localisation_txt += f' ({localisation_exact})'
-    # if localisation_secondaires!='':
-    #     localisation_txt += f' (+ {localisation_secondaires})'
-
-
     out += liblisting.display_optional(place, pre='* **Place**: ')
     out += liblisting.display_optional(country, pre='* **Pays**: ')
     out += liblisting.display_optional(employees, pre='* **Nombres d\'employées**: ')

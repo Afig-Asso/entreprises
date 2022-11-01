@@ -86,7 +86,7 @@
     - City: Rennes
       Exact: Betton
   Jobs: https://www.artefacto-ar.com/en/carrieres/
-  Scientific-domain: [Réalité Augmentée, Visalisation, Modélisation]
+  Scientific-domain: [Réalité Augmentée, Visualisation, Modélisation]
   Application-domain: [Architecture/Immobilier, Double numérique]
 
 - Name: "Autodesk"
@@ -137,7 +137,7 @@
     - Country: Singapore
     - Country: New Zealand
     - Country: India
-  Scientific-domain: [Visalisation, Simulation, Vision, Reconstruction 3D]
+  Scientific-domain: [Visualisation, Simulation, Vision, Reconstruction 3D]
   Application-domain: [Ingénierie civile, CAO, Double numérique]
   Employees: 4000
 
@@ -146,14 +146,14 @@
   url: https://qarnot.com/
   Place: {Country: UK, City: Londres}
   Jobs: https://www.blippar.com/careers#Jobs
-  Scientific-domain: [Réalité virtuelle, Modelisation]
+  Scientific-domain: [Réalité Virtuelle, Modélisation]
   Application-domain: [Web, Loisir]
 
 - Name: Christie
   url: https://www.christiedigital.com/en-gb
   Description: Systèmes de projections et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
   Place: [{Country: USA, State: California}, {Country: Canada, State: Ontario}]
-  Scientific-domain: [Video Mapping, Réalité Augmentée, Visalisation]
+  Scientific-domain: [Video Mapping, Réalité Augmentée, Visualisation]
   Application-domain: [Evenementiel, Loisir]
   Employees: 2000
 
@@ -192,7 +192,7 @@
   Application-domain: [Fabrication, Design, CAO]
   Employees: 1500
 
-- Name: Mac Guff
+- Name: Illumination MacGuff
   url: https://www.macguff.com/
   Description: "Création de films d'animation et d'effets visels."
   Place: Paris

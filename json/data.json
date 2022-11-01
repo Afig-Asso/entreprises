@@ -217,7 +217,7 @@
             "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
             "Scientific-domain": [
                 "R\u00e9alit\u00e9 Augment\u00e9e",
-                "Visalisation",
+                "Visualisation",
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
@@ -342,7 +342,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Visalisation",
+                "Visualisation",
                 "Simulation",
                 "Vision",
                 "Reconstruction 3D"
@@ -364,8 +364,8 @@
             },
             "Jobs": "https://www.blippar.com/careers#Jobs",
             "Scientific-domain": [
-                "R\u00e9alit\u00e9 virtuelle",
-                "Modelisation"
+                "R\u00e9alit\u00e9 Virtuelle",
+                "Mod\u00e9lisation"
             ],
             "Application-domain": [
                 "Web",
@@ -389,7 +389,7 @@
             "Scientific-domain": [
                 "Video Mapping",
                 "R\u00e9alit\u00e9 Augment\u00e9e",
-                "Visalisation"
+                "Visualisation"
             ],
             "Application-domain": [
                 "Evenementiel",
@@ -479,7 +479,7 @@
             "Employees": 1500
         },
         {
-            "Name": "Mac Guff",
+            "Name": "Illumination MacGuff",
             "url": "https://www.macguff.com/",
             "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
             "Place": "Paris",
