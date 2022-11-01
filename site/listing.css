@@ -1,0 +1,72 @@
+
+body {
+    color: rgb(80,80,80);
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 3em;
+}
+
+a {
+    text-decoration: none;
+}
+a {
+    color: #7a9b22;
+}
+a:hover {
+    color: darkred;
+}
+
+h3 a {
+    color: #a2d026;
+}
+
+h3 {
+    font-size: 130%;
+    display: inline-block;
+    margin-top: 0.5em;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+.content {
+    margin-left: 2em;
+    line-height: 1.3em;
+}
+.description {
+    font-style: italic;
+}
+
+.scientific-domain-entry {
+    display: block;
+}
+
+.selection-scientific-domain {
+    display: inline-block;
+    vertical-align: top;
+}
+.selection-application-domain {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.container-place, .container-place-city {
+    margin-left: 2em;
+}
+
+h2.title-place {
+    color: #7e7a93;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 0.75em;
+}
+
+.container-checkbox {
+    display: inline-block; 
+    vertical-align: top;
+}
+.title-city {
+    font-size: 140%;
+    font-style: italic;
+}
