@@ -26,4 +26,6 @@ jobs:
       - name: copy to github.io
         run: |
           git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/Afig-Asso/Afig-Asso.github.io target
-          ls
+          rm -rf target/entreprises/*
+          cp -r site/* target/entreprises/
+          ls target/entreprises/
