@@ -13,18 +13,15 @@ permissions:  write-all
 jobs:
   # Single deploy job since we're just deploying
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v1
       - name: copy to github.io
         run: |
           git config --global user.name "Continuous Integration"
           git config --global user.email "username@users.noreply.github.com"
-          git clone https://.:${{ secrets.GITHUB_TOKEN }}@github.com/Afig-Asso/Afig-Asso.github.io.git target
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Afig-Asso/Afig-Asso.github.io.git target
           rm -rf target/entreprises/*
           cp -r site/* target/entreprises/
           ls target/entreprises/
