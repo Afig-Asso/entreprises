@@ -29,3 +29,8 @@ jobs:
           rm -rf target/entreprises/*
           cp -r site/* target/entreprises/
           ls target/entreprises/
+          cd target
+          git add entrerprises/
+          git commit -m "Automatic publish from github.com/Afig-Asso/entrerprises"
+          git push
+          
