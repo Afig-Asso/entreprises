@@ -21,7 +21,7 @@ jobs:
         with:
           repository: Afig-Asso/Afig-Asso.github.io
           path: entreprises
-          token: ${{ github.pat }}
+          token: ${{ github.token }}
       - name: copy to github.io
         run: |
           git config --global user.name "Continuous Integration"
