@@ -6,26 +6,12 @@ const listing_element = document.querySelector('#listing-company');
 
 const selection_element = document.querySelector('#selection-listing-company');
 
-// selection_element.innerHTML += `
-// <div class="listing-sort">
-// <input type="radio" id="sort-alphabetical" name="sort" value="Alphabetical" checked>
-// <label for="sort-alphabetical">Alphabétique</label>
-// <input type="radio" id="sort-localization" name="sort" value="Localization">
-// <label for="sort-localization">Localité</label>
-// </div>
 
-// <div class="listing-scientific-domain">
-// <input type="checkbox" id="display-scientific-domain-animation" name="scientific-domain" value="Animation" checked>
-// <label for="display-scientific-domain-animation">Animation</label>
-// <input type="checkbox" id="display-scientific-domain-simulation" name="scientific-domain" value="Simulation" checked>
-// <label for="display-scientific-domain-simulation">Simulation</label>
-// </div>
-// `;
 
 let UX = {
     'sorting': {'alphabetical':null, 'place':null},
     'details': null,
-    'filter-keyword-container': {'scientific-domain':null, 'application-domain':null},
+    'filter-keyword-container': {'scientific-domain':null, 'application-domain':null, status:false},
     'filter-keyword-scientific-domain': [],
     'filter-keyword-application-domain': [],
 };
@@ -35,26 +21,6 @@ let company_data;
 
 
 
-
-// function filter_data(data, label, keywords){
-//     let filtered_data = [];
-//     for(let element of data) {
-//         let domain = element[label];
-        
-//         for(const [key, value] of Object.entries(keywords)) {
-//             if(value==1) {
-//                 const found_key = domain.some((x) => x==key);
-//                 if(found_key==true){
-//                     filtered_data.push(element);
-//                 }
-//             }
-//         }
-//     }
-
-//     console.log(filtered_data);
-
-//     return filtered_data;
-// }
 
 fetch(url)
 .then(convertJSON)
@@ -553,6 +519,9 @@ function build_filter_keyword() {
     Filtre mot clés
     </button>
     <div class="dropdown-menu filter-keyword-menu">
+    <div class="activate-filter-button-container"> 
+      <button id="activate-filter-button" class="btn btn-primary" type="button">Activer filtre</button> 
+    </div>
     <div class="container-checkbox container-checkbox-scientific-domain">
     <strong>Domaine Scientifique</strong>
     </div>
@@ -565,19 +534,29 @@ function build_filter_keyword() {
     UX['filter-keyword-container']['scientific-domain'] = selection_element.querySelector('.container-checkbox-scientific-domain');
     UX['filter-keyword-container']['application-domain'] = selection_element.querySelector('.container-checkbox-application-domain');
 
+    selection_element.querySelector('#activate-filter-button').addEventListener('click', switch_filter_activation);
+}
+
+function switch_filter_activation(event) {
+
+    const button = selection_element.querySelector('#activate-filter-button');
+    console.log('click');
+
 }
 
 function build_keywords(data, label, domain_element){
 
     const container = document.createElement('div');
     container.classList.add('selection-'+label);
+
+
     for(let keyword of data){
         let id = keyword.replace(/[^A-Z0-9]/ig, "_");
     
         const new_input = document.createElement('div');
         new_input.classList.add(label+'-entry');
         new_input.innerHTML = `
-        <input type="checkbox" id="display-${label}-${id}" name="${label}" value="${keyword}" checked>
+        <input type="checkbox" id="display-${label}-${id}" name="${label}" value="${keyword}" checked disabled>
         <label for="display-${label}-${id}">${keyword}</label>
         `;
         container.appendChild(new_input);
