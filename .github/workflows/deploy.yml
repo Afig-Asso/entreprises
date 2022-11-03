@@ -27,10 +27,10 @@ jobs:
           git config --global user.name "Continuous Integration"
           git config --global user.email "username@users.noreply.github.com"
           ls
-          # rm -rf target/entreprises/*
-          # cp -r site/* target/entreprises/
-          # ls target/entreprises/
-          # cd target
-          # git add entreprises/
-          # git diff-index --quiet HEAD || git commit -am "Automatic publish from github.com/Afig-Asso/entrerprises"
-          # git push 
+          rm -rf target/entreprises/*
+          cp -r site/* target/entreprises/
+          ls target/entreprises/
+          cd target
+          git add entreprises/
+          git diff-index --quiet HEAD || git commit -am "Automatic publish from github.com/Afig-Asso/entrerprises"
+          git push 
