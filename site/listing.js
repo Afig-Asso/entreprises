@@ -11,7 +11,12 @@ const selection_element = document.querySelector('#selection-listing-company');
 let UX = {
     'sorting': {'alphabetical':null, 'place':null},
     'details': null,
-    'filter-keyword-container': {'scientific-domain':null, 'application-domain':null, status:false},
+    'filter-keyword-container': {
+        'scientific-domain':null, 
+        'application-domain':null, 
+        'check':{'scientific':null, 'application':null},
+        'uncheck':{'scientific':null, 'application':null},
+    },
     'filter-keyword-scientific-domain': [],
     'filter-keyword-application-domain': [],
 };
@@ -482,7 +487,7 @@ function answer(data) {
 }
 
 
-function build_sorting() {
+function build_sorting(container) {
     const sorting_input_element = document.createElement('div');
     sorting_input_element.classList.add('sorting_input');
 
@@ -493,54 +498,88 @@ function build_sorting() {
     <label for="sort-place">Localité</label>
     `;
 
-    selection_element.appendChild(sorting_input_element);
+    container.appendChild(sorting_input_element);
     UX['sorting']['alphabetical'] = document.querySelector('#sort-alphabetical');
     UX['sorting']['place']= document.querySelector('#sort-place');
-    selection_element.addEventListener('change', update_display);
+    container.addEventListener('change', update_display);
 }
 
-function build_detail_button() {
+function build_detail_button(container) {
     const button_detail = document.createElement('div');
     button_detail.innerHTML = `
     <input type="checkbox" id="display-details" name="detail" checked>
     <label for="display-details">Détails</label>
     `;
-    selection_element.appendChild(button_detail);
+    container.appendChild(button_detail);
     UX['details'] = document.querySelector('#display-details');
     selection_element.addEventListener('change', update_display);
 
 }
 
-function build_filter_keyword() {
+function build_filter_keyword(container) {
 
     const filter_keywords_dropdown_element = document.createElement('div');
     filter_keywords_dropdown_element.innerHTML = `
-    <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
+    <button type="button" class="button-basic dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
     Filtre mot clés
     </button>
     <div class="dropdown-menu filter-keyword-menu">
-    <div class="activate-filter-button-container"> 
-      <button id="activate-filter-button" class="btn btn-primary" type="button">Activer filtre</button> 
-    </div>
     <div class="container-checkbox container-checkbox-scientific-domain">
     <strong>Domaine Scientifique</strong>
+    <div class="check-all-container">Tout
+        <button type="button" class="button-basic" id="button-check-all-scientific">Cocher</button>
+        <button type="button" class="button-basic" id="button-uncheck-all-scientific">Décocher</button>
+    </div>
     </div>
     <div class="container-checkbox container-checkbox-application-domain">
     <strong>Domaine d'Application</strong>
+    <div class="check-all-container">Tout
+        <button type="button" class="button-basic" id="button-check-all-application">Cocher</button>
+        <button type="button" class="button-basic" id="button-uncheck-all-application">Décocher</button>
+    </div>
     </div>
     </div>
     `
-    selection_element.appendChild(filter_keywords_dropdown_element);
+    container.appendChild(filter_keywords_dropdown_element);
     UX['filter-keyword-container']['scientific-domain'] = selection_element.querySelector('.container-checkbox-scientific-domain');
     UX['filter-keyword-container']['application-domain'] = selection_element.querySelector('.container-checkbox-application-domain');
 
-    selection_element.querySelector('#activate-filter-button').addEventListener('click', switch_filter_activation);
+    UX['filter-keyword-container']['check']['scientific'] = selection_element.querySelector('#button-check-all-scientific');
+    UX['filter-keyword-container']['uncheck']['scientific'] = selection_element.querySelector('#button-uncheck-all-scientific');
+    UX['filter-keyword-container']['check']['application'] = selection_element.querySelector('#button-check-all-application');
+    UX['filter-keyword-container']['uncheck']['application'] = selection_element.querySelector('#button-uncheck-all-application');
+    UX['filter-keyword-container']['check']['scientific'].addEventListener('click',change_filter_check);
+    UX['filter-keyword-container']['uncheck']['scientific'].addEventListener('click',change_filter_check);
+    UX['filter-keyword-container']['check']['application'].addEventListener('click',change_filter_check);
+    UX['filter-keyword-container']['uncheck']['application'].addEventListener('click',change_filter_check);
+    
 }
 
-function switch_filter_activation(event) {
+function change_filter_check(event) {
 
-    const button = selection_element.querySelector('#activate-filter-button');
-    console.log('click');
+    const id = event.currentTarget.id;
+    if(id==='button-check-all-scientific') {
+        for(let k=0; k<UX['filter-keyword-scientific-domain'].length; k++){
+            UX['filter-keyword-scientific-domain'][k].checked=true;
+        }
+    }
+    if(id==='button-uncheck-all-scientific') {
+        for(let k=0; k<UX['filter-keyword-scientific-domain'].length; k++){
+            UX['filter-keyword-scientific-domain'][k].checked=false;
+        }
+    }
+    if(id==='button-check-all-application') {
+        for(let k=0; k<UX['filter-keyword-application-domain'].length; k++){
+            UX['filter-keyword-application-domain'][k].checked=true;
+        }
+    }
+    if(id==='button-uncheck-all-application') {
+        for(let k=0; k<UX['filter-keyword-application-domain'].length; k++){
+            UX['filter-keyword-application-domain'][k].checked=false;
+        }
+    }
+    update_display();
+
 
 }
 
@@ -556,7 +595,7 @@ function build_keywords(data, label, domain_element){
         const new_input = document.createElement('div');
         new_input.classList.add(label+'-entry');
         new_input.innerHTML = `
-        <input type="checkbox" id="display-${label}-${id}" name="${label}" value="${keyword}" checked disabled>
+        <input type="checkbox" class="keyword-checkbox-element" id="display-${label}-${id}" name="${label}" value="${keyword}" checked>
         <label for="display-${label}-${id}">${keyword}</label>
         `;
         container.appendChild(new_input);
@@ -570,6 +609,13 @@ function build_keywords(data, label, domain_element){
 
 }
 
-build_sorting();
-build_detail_button();
-build_filter_keyword();
+const ux_left = document.createElement('div');
+ux_left.classList.add('ux-left');
+const ux_right = document.createElement('div');
+ux_right.classList.add('ux-right');
+selection_element.appendChild(ux_left);
+selection_element.appendChild(ux_right);
+
+build_sorting(ux_left);
+build_detail_button(ux_left);
+build_filter_keyword(ux_right);

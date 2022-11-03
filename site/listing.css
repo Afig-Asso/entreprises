@@ -72,3 +72,28 @@ h2.title-place {
     font-size: 140%;
     font-style: italic;
 }
+
+.button-basic:hover {
+    background: rgb(255,255,250);
+}
+.button-basic:active {
+    background: #dbf691;
+}
+
+.dropdown-menu {
+    background-color: rgba(255,255,255,0.9);
+    padding: 1em;
+}
+
+#selection-listing-company {
+    display: flex;
+    justify-content: space-between;
+}
+
+.check-all-container {
+    margin-bottom: 0.5em;
+    margin-right: 3.0em;
+}
+.keyword-checkbox-element {
+    margin-left: 0em;
+}

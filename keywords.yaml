@@ -1,25 +1,18 @@
 
 Scientific-domain:
-  - Synthèse image
+  - Synthèse d'image # Rendu d'image
   - Modélisation
   - Animation
   - Visualisation
+  - Aquisition # Aquisition de forme, MOCAP, image, video
+  - Reconstruction
   - Simulation
-  - IA
-  - Capture vidéo
-  - Capture de forme
-  - Capture de mouvement
-  - Reconstruction 3D
-  - Analyse d'image
-  - Analyse de forme
-  - Analyse de mouvement
-  - Analyse de comportement
-  - Vision
   - Géométrie
-  - Réalité Virtuelle
-  - Réalité Augmentée
-  - Video Mapping
-  - Haptique
+  - Vision
+  - VR/AR
+  - IA
+  - Analyse # Analyse du signal, de géométrie, d'image
+  - IHM/Haptique
   - Calcul
   - Big Data
 Application-domain:
@@ -28,6 +21,7 @@ Application-domain:
   - Fabrication
   - Design
   - Cinéma
+  - Reconstruction
   - Films d'Animation
   - VFX
   - Jeu Vidéo
@@ -49,4 +43,4 @@ Application-domain:
   - Art
   - Evenementiel
   - Metavers
-  - Vetements
+  - Vêtements

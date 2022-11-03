@@ -43,7 +43,7 @@
     - Country: India
     - International: True
   Product: [Photoshop, Substance 3D, Premiere, Illustrator, etc.]
-  Scientific-domain: [Synthèse image, Modélisation, Animation]
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation]
   Application-domain: [Design, Loisir]
   Info: Centre de recherche à Paris
   Highlight: Graphics, R&D
@@ -62,7 +62,7 @@
   url: https://altvr.com/
   Description: Logiciels pour la réalité virtuelle. Filiale de Microsoft.
   Place: [{Country: USA}]
-  Scientific-domain: [Réalité Virtuelle]
+  Scientific-domain: [VR/AR]
   Application-domain: [Loisir]
 
 - Name: Anatoscope
@@ -70,7 +70,7 @@
   url: https://www.anatoscope.com/
   Jobs: https://www.anatoscope.com/offres-demploi-grenoble-montpellier/
   Place: Grenoble, Montpellier
-  Scientific-domain: [Modélisation, Visualisation, Simulation, Analyse de forme, Géométrie]
+  Scientific-domain: [Modélisation, Visualisation, Simulation, Géométrie, Analyse]
   Application-domain: [Médical, Double numérique]
 
 - Name: "Animal Logic"
@@ -94,7 +94,7 @@
     - City: Rennes
       Exact: Betton
   Jobs: https://www.artefacto-ar.com/en/carrieres/
-  Scientific-domain: [Réalité Augmentée, Visualisation, Modélisation]
+  Scientific-domain: [VR/AR, Visualisation, Modélisation]
   Application-domain: [Architecture/Immobilier, Double numérique]
 
 - Name: "Autodesk"
@@ -114,14 +114,14 @@
   Description: Dévelopement d'outils de vision pour la réalité augmentée, l'analyse du mouvement et l'interaction tactile.
   Place: {City: Paris,Exact: "Le Kremlin-Bicêtre"}
   Jobs: https://www.artefacto-ar.com/en/carrieres/
-  Scientific-domain: [Vision, Analyse de mouvement, Haptique]
+  Scientific-domain: [Vision, Analyse, Animation, IHM/Haptique]
 
 - Name: BUF
   url: https://buf.com/
   Description: "Création d'effets visuels (VFX) pour le cinéma."
   Place: Paris
   Jobs: https://buf.com/jobs/
-  Scientific-domain: [Synthèse image, Modélisation, Animation, Analyse d'image, Vision]
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Analyse, Vision]
   Application-domain: [Cinéma, VFX]
   Employees: 60
 
@@ -129,7 +129,7 @@
   Description: Analyse de comportement pour le jeu vidéo.
   url: https://bmugames.com/
   Place: {City: Montréal, Country: Canada}
-  Scientific-domain: [Analyse de comportement, IA]
+  Scientific-domain: [Analyse, IA]
   Application-domain: [Jeu Vidéo]
 
 - Name: Bentley
@@ -145,7 +145,7 @@
     - Country: Singapore
     - Country: New Zealand
     - Country: India
-  Scientific-domain: [Visualisation, Simulation, Vision, Reconstruction 3D]
+  Scientific-domain: [Visualisation, Simulation, Vision, Modélisation, Reconstruction]
   Application-domain: [Ingénierie civile, CAO, Double numérique]
   Employees: 4000
 
@@ -154,14 +154,14 @@
   url: https://qarnot.com/
   Place: {Country: UK, City: Londres}
   Jobs: https://www.blippar.com/careers#Jobs
-  Scientific-domain: [Réalité Virtuelle, Modélisation]
+  Scientific-domain: [VR/AR, Modélisation]
   Application-domain: [Web, Loisir]
 
 - Name: Christie
   url: https://www.christiedigital.com/en-gb
-  Description: Systèmes de projections et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
+  Description: Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
   Place: [{Country: USA, State: California}, {Country: Canada, State: Ontario}]
-  Scientific-domain: [Video Mapping, Réalité Augmentée, Visualisation]
+  Scientific-domain: [VR/AR, Visualisation]
   Application-domain: [Evenementiel, Loisir]
   Employees: 2000
 
@@ -194,13 +194,15 @@
     - Country: India
     - International: True
   Employees: 3600
+  Scientific-domain: [Modélisation, Animation]
+  Application-domain: [Jeu Vidéo, Web]
 
 - Name: Illumination MacGuff
   url: https://www.macguff.com/
   Description: "Création de films d'animation et d'effets visels."
   Place: Paris
   Jobs: https://buf.com/jobs/
-  Scientific-domain: [Synthèse image, Modélisation, Animation, Analyse d'image, Vision]
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Analyse, Vision]
   Application-domain: [Cinéma, VFX, Films d'Animation]
   Employees: 60
   
@@ -209,7 +211,7 @@
   Description: "Création d'animation 3D d'humain à partir de capture de video sur smartphone."
   Place: Paris
   Jobs: https://kinetix-tech.welcomekit.co/
-  Scientific-domain: [Vision, Animation, IA, Capture de mouvement, Analyse de mouvement]
+  Scientific-domain: [Vision, Animation, IA, Analyse]
   Application-domain: [Loisir, Metavers]
 
 - Name: "Lectra"
@@ -220,7 +222,7 @@
       City: Paris
     - International: True
   Scientific-domain: [Modélisation, Simulation]
-  Application-domain: [Fabrication, Design, CAO]
+  Application-domain: [Fabrication, Design, CAO, Vêtements]
   Employees: 1500
 
 - Name: Mercenaries Engineering
@@ -241,14 +243,14 @@
   Place: 
     - City: Paris
       Exact: Aubervilliers
-  Scientific-domain: [Capture de mouvement, Analyse de mouvement, Animation]
+  Scientific-domain: [Aquisition, Analyse, Animation]
   Application-domain: [Loisir, Jeu Vidéo, Cinéma]
 
 - Name: ModaLive
   url: https://www.modalive.fr/
   Description: "Virtual try-on de vêtements de mode."
   Place: Paris
-  Scientific-domain: [Reconstruction 3D, Capture de forme, Géométrie, Vision, Modélisation]
+  Scientific-domain: [Aquisition, Reconstruction, Géométrie, Vision, Modélisation]
   Application-domain: [Vetements, Double numérique]
 
 
@@ -259,7 +261,7 @@
     - City: Paris
       Exact: Montrouge
   Jobs: https://qarnot.com/en/recruiting
-  Scientific-domain: [Calcul, Big Data]
+  Scientific-domain: [Big Data, Calcul]
   Application-domain: [Web]
 
 - Name: Shot Over
@@ -268,7 +270,7 @@
   Place: 
     - Country: USA
       State: Colorado
-  Scientific-domain: [Capture vidéo]
+  Scientific-domain: [Acquisition]
   Application-domain: [Cinéma, Evenementiel, Sécurité, Défense]
 
 - Name: TVPaint
@@ -293,7 +295,7 @@
     - Country: UK
       City: London
     - International: True
-  Scientific-domain: [Synthèse image, Animation, Modélisation, Réalité Virtuelle, Réalité Augmentée]
+  Scientific-domain: [Synthèse d'image, Animation, Modélisation, VR/AR]
   Application-domain: [Films d'Animation, VFX, Loisir]
   Employees: 12000
 
@@ -305,7 +307,7 @@
       City: Paris
     - International: True
   Jobs: https://www.thalesgroup.com/fr/candidat
-  Scientific-domain: [Reconstruction 3D, Analyse d'image, Vision]
+  Scientific-domain: [Reconstruction, Analyse, Vision]
   Application-domain: [Aviation, Sécurité, Défense]
   Employees: 80000
   Highlight: R&D
@@ -327,7 +329,7 @@
     - Country: Allemagne
     - Country: Pologne
     - International: True
-  Scientific-domain: [Synthèse image, Modélisation, Animation, Simulation]
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
   Employees: 20000
   Highlight: Graphics, R&D
