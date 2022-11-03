@@ -13,8 +13,6 @@ permissions:  write-all
 jobs:
   # Single deploy job since we're just deploying
   deploy:
-    environment:
-      name: github-pages
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,7 +21,6 @@ jobs:
         with:
           repository: Afig-Asso/Afig-Asso.github.io
           path: entreprises
-          token: ${{secrets.PUSH_TOKEN}}
       - name: copy to github.io
         run: |
           git config --global user.name "Continuous Integration"
