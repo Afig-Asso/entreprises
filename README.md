@@ -29,7 +29,7 @@
   * **Produits**: Photoshop, Substance 3D, Premiere, Illustrator, etc.
   * **Localisation**: USA, Canada, France/Paris, UK, India, International
   * **Nombres d'employés**: 20000
-  * **Domaine scientifique**: Synthèse image, Modélisation, Animation
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation
   * **Domaine d'application**: Design, Loisir
 
 
@@ -44,14 +44,14 @@
 * **[AltspaceVR](https://altvr.com/)**  
   * _Logiciels pour la réalité virtuelle. Filiale de Microsoft._
   * **Localisation**: USA
-  * **Domaine scientifique**: Réalité Virtuelle
+  * **Domaine scientifique**: VR/AR
   * **Domaine d'application**: Loisir
 
 
 * **[Anatoscope](https://www.anatoscope.com/)**  
   * _Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)._
   * **Localisation**: Grenoble,  Montpellier
-  * **Domaine scientifique**: Modélisation, Visualisation, Simulation, Analyse de forme, Géométrie
+  * **Domaine scientifique**: Modélisation, Visualisation, Simulation, Géométrie, Analyse
   * **Domaine d'application**: Médical, Double numérique
   * [_Jobs_](https://www.anatoscope.com/offres-demploi-grenoble-montpellier/)
 
@@ -67,7 +67,7 @@
 * **[Artefacto](https://altvr.com/)**  
   * _Développement d'applications pour la Réalité augmentée pour la visualization dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement._
   * **Localisation**: Rennes (Betton)
-  * **Domaine scientifique**: Réalité Augmentée, Visualisation, Modélisation
+  * **Domaine scientifique**: VR/AR, Visualisation, Modélisation
   * **Domaine d'application**: Architecture/Immobilier, Double numérique
   * [_Jobs_](https://www.artefacto-ar.com/en/carrieres/)
 
@@ -85,7 +85,7 @@
 * **[Ayotle](http://www.ayotle.com/)**  
   * _Dévelopement d'outils de vision pour la réalité augmentée, l'analyse du mouvement et l'interaction tactile._
   * **Localisation**: Paris (Le Kremlin-Bicêtre)
-  * **Domaine scientifique**: Vision, Analyse de mouvement, Haptique
+  * **Domaine scientifique**: Vision, Analyse, Animation, IHM/Haptique
   * [_Jobs_](https://www.artefacto-ar.com/en/carrieres/)
 
 
@@ -93,7 +93,7 @@
   * _Création d'effets visuels (VFX) pour le cinéma._
   * **Localisation**: Paris
   * **Nombres d'employés**: 60
-  * **Domaine scientifique**: Synthèse image, Modélisation, Animation, Analyse d'image, Vision
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Analyse, Vision
   * **Domaine d'application**: Cinéma, VFX
   * [_Jobs_](https://buf.com/jobs/)
 
@@ -101,7 +101,7 @@
 * **[Beam Me Up Games](https://bmugames.com/)**  
   * _Analyse de comportement pour le jeu vidéo._
   * **Localisation**: Canada/Montréal
-  * **Domaine scientifique**: Analyse de comportement, IA
+  * **Domaine scientifique**: Analyse, IA
   * **Domaine d'application**: Jeu Vidéo
 
 
@@ -109,7 +109,7 @@
   * _Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D"._
   * **Localisation**: USA, UK, Netherlands, France/{Paris, Sophia}, Singapore, New Zealand, India
   * **Nombres d'employés**: 4000
-  * **Domaine scientifique**: Visualisation, Simulation, Vision, Reconstruction 3D
+  * **Domaine scientifique**: Visualisation, Simulation, Vision, Modélisation, Reconstruction
   * **Domaine d'application**: Ingénierie civile, CAO, Double numérique
   * [_Jobs_](https://jobs.bentley.com/search)
 
@@ -117,16 +117,16 @@
 * **[Blippar](https://qarnot.com/)**  
   * _Développement d'outils pour la création de contenu en AR sur smartphone_
   * **Localisation**: UK/Londres
-  * **Domaine scientifique**: Réalité Virtuelle, Modélisation
+  * **Domaine scientifique**: VR/AR, Modélisation
   * **Domaine d'application**: Web, Loisir
   * [_Jobs_](https://www.blippar.com/careers#Jobs)
 
 
 * **[Christie](https://www.christiedigital.com/en-gb)**  
-  * _Systèmes de projections et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc)._
+  * _Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc)._
   * **Localisation**: USA/California, Canada/Ontario
   * **Nombres d'employés**: 2000
-  * **Domaine scientifique**: Video Mapping, Réalité Augmentée, Visualisation
+  * **Domaine scientifique**: VR/AR, Visualisation
   * **Domaine d'application**: Evenementiel, Loisir
 
 
@@ -144,6 +144,8 @@
   * _Développement de jeux vidéos orientés mobile._
   * **Localisation**: France/Paris, USA, Canada, Spain, India, International
   * **Nombres d'employés**: 3600
+  * **Domaine scientifique**: Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo, Web
   * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
 
 
@@ -151,7 +153,7 @@
   * _Création de films d'animation et d'effets visels._
   * **Localisation**: Paris
   * **Nombres d'employés**: 60
-  * **Domaine scientifique**: Synthèse image, Modélisation, Animation, Analyse d'image, Vision
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Analyse, Vision
   * **Domaine d'application**: Cinéma, VFX, Films d'Animation
   * [_Jobs_](https://buf.com/jobs/)
 
@@ -159,7 +161,7 @@
 * **[Kinetix](https://www.kinetix.tech/)**  
   * _Création d'animation 3D d'humain à partir de capture de video sur smartphone._
   * **Localisation**: Paris
-  * **Domaine scientifique**: Vision, Animation, IA, Capture de mouvement, Analyse de mouvement
+  * **Domaine scientifique**: Vision, Animation, IA, Analyse
   * **Domaine d'application**: Loisir, Metavers
   * [_Jobs_](https://kinetix-tech.welcomekit.co/)
 
@@ -169,7 +171,7 @@
   * **Localisation**: France/Paris, International
   * **Nombres d'employés**: 1500
   * **Domaine scientifique**: Modélisation, Simulation
-  * **Domaine d'application**: Fabrication, Design, CAO
+  * **Domaine d'application**: Fabrication, Design, CAO, Vêtements
 
 
 * **[Mercenaries Engineering](http://guerillarender.com/)**  
@@ -183,21 +185,21 @@
 * **[MocapLab](https://www.mocaplab.com/)**  
   * _Studio et R&amp;D pour la capture de mouvement._
   * **Localisation**: Paris (Aubervilliers)
-  * **Domaine scientifique**: Capture de mouvement, Analyse de mouvement, Animation
+  * **Domaine scientifique**: Aquisition, Analyse, Animation
   * **Domaine d'application**: Loisir, Jeu Vidéo, Cinéma
 
 
 * **[ModaLive](https://www.modalive.fr/)**  
   * _Virtual try-on de vêtements de mode._
   * **Localisation**: Paris
-  * **Domaine scientifique**: Reconstruction 3D, Capture de forme, Géométrie, Vision, Modélisation
+  * **Domaine scientifique**: Aquisition, Reconstruction, Géométrie, Vision, Modélisation
   * **Domaine d'application**: Vetements, Double numérique
 
 
 * **[Qarnot Computing](https://qarnot.com/)**  
   * _Calculs sur le Cloud._
   * **Localisation**: Paris (Montrouge)
-  * **Domaine scientifique**: Calcul, Big Data
+  * **Domaine scientifique**: Big Data, Calcul
   * **Domaine d'application**: Web
   * [_Jobs_](https://qarnot.com/en/recruiting)
 
@@ -205,7 +207,7 @@
 * **[Shot Over](https://shotover.com/)**  
   * _Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc)._
   * **Localisation**: USA/Colorado
-  * **Domaine scientifique**: Capture vidéo
+  * **Domaine scientifique**: Acquisition
   * **Domaine d'application**: Cinéma, Evenementiel, Sécurité, Défense
 
 
@@ -220,7 +222,7 @@
   * _Entreprise d'animation et de VFX international possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games._
   * **Localisation**: France/Paris, Canada/{Montréal, Toronto}, USA/{New York, Chicago, Los Angeles}, UK/London, International
   * **Nombres d'employés**: 12000
-  * **Domaine scientifique**: Synthèse image, Animation, Modélisation, Réalité Virtuelle, Réalité Augmentée
+  * **Domaine scientifique**: Synthèse d'image, Animation, Modélisation, VR/AR
   * **Domaine d'application**: Films d'Animation, VFX, Loisir
   * [_Jobs_](https://www.technicolorcreative.com/jobs/)
 
@@ -229,7 +231,7 @@
   * _Multi-nationale française à forte composante R&amp;D développant des produits pour l'aérospatiale, la défense, et la sécurité tel que la biométrie._
   * **Localisation**: France/Paris, International
   * **Nombres d'employés**: 80000
-  * **Domaine scientifique**: Reconstruction 3D, Analyse d'image, Vision
+  * **Domaine scientifique**: Reconstruction, Analyse, Vision
   * **Domaine d'application**: Aviation, Sécurité, Défense
   * [_Jobs_](https://www.thalesgroup.com/fr/candidat)
 
@@ -239,7 +241,7 @@
   * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal._
   * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montreal, Toronto}, USA/{San Francisco, New York, Atlanta}, Inde, Allemagne, Pologne, International
   * **Nombres d'employés**: 20000
-  * **Domaine scientifique**: Synthèse image, Modélisation, Animation, Simulation
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
 

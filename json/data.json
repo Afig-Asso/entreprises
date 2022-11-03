@@ -1,26 +1,19 @@
 {
     "Keywords": {
         "Scientific-domain": [
-            "Synth\u00e8se image",
+            "Synth\u00e8se d'image",
             "Mod\u00e9lisation",
             "Animation",
             "Visualisation",
+            "Aquisition",
+            "Reconstruction",
             "Simulation",
-            "IA",
-            "Capture vid\u00e9o",
-            "Capture de forme",
-            "Capture de mouvement",
-            "Reconstruction 3D",
-            "Analyse d'image",
-            "Analyse de forme",
-            "Analyse de mouvement",
-            "Analyse de comportement",
-            "Vision",
             "G\u00e9om\u00e9trie",
-            "R\u00e9alit\u00e9 Virtuelle",
-            "R\u00e9alit\u00e9 Augment\u00e9e",
-            "Video Mapping",
-            "Haptique",
+            "Vision",
+            "VR/AR",
+            "IA",
+            "Analyse",
+            "IHM/Haptique",
             "Calcul",
             "Big Data"
         ],
@@ -30,6 +23,7 @@
             "Fabrication",
             "Design",
             "Cin\u00e9ma",
+            "Reconstruction",
             "Films d'Animation",
             "VFX",
             "Jeu Vid\u00e9o",
@@ -51,7 +45,7 @@
             "Art",
             "Evenementiel",
             "Metavers",
-            "Vetements"
+            "V\u00eatements"
         ]
     },
     "Listing": [
@@ -130,7 +124,7 @@
                 "etc."
             ],
             "Scientific-domain": [
-                "Synth\u00e8se image",
+                "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation"
             ],
@@ -168,7 +162,7 @@
                 }
             ],
             "Scientific-domain": [
-                "R\u00e9alit\u00e9 Virtuelle"
+                "VR/AR"
             ],
             "Application-domain": [
                 "Loisir"
@@ -184,8 +178,8 @@
                 "Mod\u00e9lisation",
                 "Visualisation",
                 "Simulation",
-                "Analyse de forme",
-                "G\u00e9om\u00e9trie"
+                "G\u00e9om\u00e9trie",
+                "Analyse"
             ],
             "Application-domain": [
                 "M\u00e9dical",
@@ -234,7 +228,7 @@
             ],
             "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
             "Scientific-domain": [
-                "R\u00e9alit\u00e9 Augment\u00e9e",
+                "VR/AR",
                 "Visualisation",
                 "Mod\u00e9lisation"
             ],
@@ -288,8 +282,9 @@
             "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
             "Scientific-domain": [
                 "Vision",
-                "Analyse de mouvement",
-                "Haptique"
+                "Analyse",
+                "Animation",
+                "IHM/Haptique"
             ]
         },
         {
@@ -299,10 +294,10 @@
             "Place": "Paris",
             "Jobs": "https://buf.com/jobs/",
             "Scientific-domain": [
-                "Synth\u00e8se image",
+                "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation",
-                "Analyse d'image",
+                "Analyse",
                 "Vision"
             ],
             "Application-domain": [
@@ -320,7 +315,7 @@
                 "Country": "Canada"
             },
             "Scientific-domain": [
-                "Analyse de comportement",
+                "Analyse",
                 "IA"
             ],
             "Application-domain": [
@@ -363,7 +358,8 @@
                 "Visualisation",
                 "Simulation",
                 "Vision",
-                "Reconstruction 3D"
+                "Mod\u00e9lisation",
+                "Reconstruction"
             ],
             "Application-domain": [
                 "Ing\u00e9nierie civile",
@@ -382,7 +378,7 @@
             },
             "Jobs": "https://www.blippar.com/careers#Jobs",
             "Scientific-domain": [
-                "R\u00e9alit\u00e9 Virtuelle",
+                "VR/AR",
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
@@ -393,7 +389,7 @@
         {
             "Name": "Christie",
             "url": "https://www.christiedigital.com/en-gb",
-            "Description": "Syst\u00e8mes de projections et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
+            "Description": "Syst\u00e8mes de projections vid\u00e9o et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
             "Place": [
                 {
                     "Country": "USA",
@@ -405,8 +401,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Video Mapping",
-                "R\u00e9alit\u00e9 Augment\u00e9e",
+                "VR/AR",
                 "Visualisation"
             ],
             "Application-domain": [
@@ -480,7 +475,15 @@
                     "International": true
                 }
             ],
-            "Employees": 3600
+            "Employees": 3600,
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Web"
+            ]
         },
         {
             "Name": "Illumination MacGuff",
@@ -489,10 +492,10 @@
             "Place": "Paris",
             "Jobs": "https://buf.com/jobs/",
             "Scientific-domain": [
-                "Synth\u00e8se image",
+                "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation",
-                "Analyse d'image",
+                "Analyse",
                 "Vision"
             ],
             "Application-domain": [
@@ -512,8 +515,7 @@
                 "Vision",
                 "Animation",
                 "IA",
-                "Capture de mouvement",
-                "Analyse de mouvement"
+                "Analyse"
             ],
             "Application-domain": [
                 "Loisir",
@@ -540,7 +542,8 @@
             "Application-domain": [
                 "Fabrication",
                 "Design",
-                "CAO"
+                "CAO",
+                "V\u00eatements"
             ],
             "Employees": 1500
         },
@@ -578,8 +581,8 @@
                 }
             ],
             "Scientific-domain": [
-                "Capture de mouvement",
-                "Analyse de mouvement",
+                "Aquisition",
+                "Analyse",
                 "Animation"
             ],
             "Application-domain": [
@@ -594,8 +597,8 @@
             "Description": "Virtual try-on de v\u00eatements de mode.",
             "Place": "Paris",
             "Scientific-domain": [
-                "Reconstruction 3D",
-                "Capture de forme",
+                "Aquisition",
+                "Reconstruction",
                 "G\u00e9om\u00e9trie",
                 "Vision",
                 "Mod\u00e9lisation"
@@ -617,8 +620,8 @@
             ],
             "Jobs": "https://qarnot.com/en/recruiting",
             "Scientific-domain": [
-                "Calcul",
-                "Big Data"
+                "Big Data",
+                "Calcul"
             ],
             "Application-domain": [
                 "Web"
@@ -635,7 +638,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Capture vid\u00e9o"
+                "Acquisition"
             ],
             "Application-domain": [
                 "Cin\u00e9ma",
@@ -690,11 +693,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se image",
+                "Synth\u00e8se d'image",
                 "Animation",
                 "Mod\u00e9lisation",
-                "R\u00e9alit\u00e9 Virtuelle",
-                "R\u00e9alit\u00e9 Augment\u00e9e"
+                "VR/AR"
             ],
             "Application-domain": [
                 "Films d'Animation",
@@ -718,8 +720,8 @@
             ],
             "Jobs": "https://www.thalesgroup.com/fr/candidat",
             "Scientific-domain": [
-                "Reconstruction 3D",
-                "Analyse d'image",
+                "Reconstruction",
+                "Analyse",
                 "Vision"
             ],
             "Application-domain": [
@@ -774,7 +776,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se image",
+                "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
