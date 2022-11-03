@@ -28,3 +28,4 @@ jobs:
           destination-repository-name: 'Afig-Asso.github.io'
           user-email: damien.rohmer@polytechnique.fr
           target-branch: main
+          target-directory: 'entreprises'
