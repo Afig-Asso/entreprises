@@ -199,10 +199,10 @@ def check_keywords(data_keywords, data, exitOnError=False):
         application = entry['Application-domain']
         
         for s in scientific:
-            if s not in scientific_keywords:
+            if s not in scientific_keywords and s!='Arbitraire':
                 print(f"\n !! Warning cannot find scientific keyword [{s}] in entry [{name}]")
         for s in application:
-            if s not in application_keywords:
+            if s not in application_keywords and s!='Arbitraire':
                 print(f"\n !! Warning cannot find application keyword [{s}] in entry [{name}]")
 
     if res==False and exit_on_failure==True:
@@ -236,10 +236,10 @@ if __name__ == "__main__":
         check_keywords(data_keywords, data)
         print('Check Keywords done\n')
 
-        # print('Check URLs ...')
-        # urls = liblisting.get_all_urls(data)
-        # liblisting.check_urls(urls, exitOnError=exit_on_failure)
-        # print('Check URLs done\n')
+        print('Check URLs ...')
+        urls = liblisting.get_all_urls(data)
+        liblisting.check_urls(urls, exitOnError=exit_on_failure)
+        print('Check URLs done\n')
 
     # export json
     json_data = {'Keywords':data_keywords, 'Listing':data}

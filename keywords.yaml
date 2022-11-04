@@ -17,7 +17,7 @@ Scientific-domain:
   - IHM/Haptique: "Interaction Homme Machine, Interfaces, Système haptique, Retour d'effort, Systèmes tangibles."
   - Hardware: "Systèmes embarqués, IoT, Cartes graphiques, FPGA, etc"
   - Web/Cloud/Big Data: "Technologies web, Bases de données, Accès distant, Streaming, etc"
-  - Autres: ""
+  - Autres
 
 Application-domain:
   - Cinéma/Films d'Animation/VFX
@@ -34,4 +34,4 @@ Application-domain:
   - Architecture/Immobilier
   - Mécanique/Ingénierie civile
   - Autres
-
+# + Arbitraire

@@ -14,7 +14,7 @@
                 "Visualisation": "Visualisation de donn\u00e9es, scientifique, de mod\u00e8les 3D, etc"
             },
             {
-                "Aquisition": "Syst\u00e8mes de capture 3D, MOCAP, capture d'image, de vid\u00e9o, etc"
+                "Acquisition": "Syst\u00e8mes de capture 3D, MOCAP, capture d'image, de vid\u00e9o, etc"
             },
             {
                 "Reconstruction": "Reconstruction 3D, Probl\u00e8mes inverses, NeRF, Double num\u00e9rique, etc"
@@ -52,9 +52,7 @@
             {
                 "Web/Cloud/Big Data": "Technologies web, Bases de donn\u00e9es, Acc\u00e8s distant, Streaming, etc"
             },
-            {
-                "Autres": ""
-            }
+            "Autres"
         ],
         "Application-domain": [
             "Cin\u00e9ma/Films d'Animation/VFX",
@@ -314,7 +312,7 @@
                 "IHM/Haptique"
             ],
             "Application-domain": [
-                "Autres"
+                "Arbitraire"
             ]
         },
         {
@@ -644,7 +642,7 @@
                 "Web/Cloud/Big Data"
             ],
             "Application-domain": [
-                "Autres"
+                "Arbitraire"
             ]
         },
         {
@@ -805,6 +803,21 @@
             ],
             "Employees": 20000,
             "Highlight": "Graphics, R&D"
+        },
+        {
+            "Name": "Arskan",
+            "url": "https://arskan.com/fr/",
+            "Description": "Streaming et compression de g\u00e9om\u00e9trie pour visualiser des sc\u00e8nes 3D sur tout type de clients.",
+            "Jobs": "https://actu.arskan.com/nous-rejoindre",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "G\u00e9om\u00e9trie",
+                "Visualisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Arbitraire"
+            ]
         }
     ]
 }

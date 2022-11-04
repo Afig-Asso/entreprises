@@ -64,6 +64,14 @@
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Arskan](https://arskan.com/fr/)**  
+  * _Streaming et compression de géométrie pour visualiser des scènes 3D sur tout type de clients._
+  * **Localisation**: Lyon
+  * **Domaine scientifique**: Géométrie, Visualisation, Web/Cloud/Big Data
+  * **Domaine d'application**: Arbitraire
+  * [_Jobs_](https://actu.arskan.com/nous-rejoindre)
+
+
 * **[Artefacto](https://altvr.com/)**  
   * _Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement._
   * **Localisation**: Rennes (Betton)
@@ -86,7 +94,7 @@
   * _Dévelopement d'outils de vision pour la réalité augmentée, l'analyse du mouvement et l'interaction tactile._
   * **Localisation**: Paris (Le Kremlin-Bicêtre)
   * **Domaine scientifique**: Vision, Analyse de données, Animation, IHM/Haptique
-  * **Domaine d'application**: Autres
+  * **Domaine d'application**: Arbitraire
   * [_Jobs_](https://www.artefacto-ar.com/en/carrieres/)
 
 
@@ -201,7 +209,7 @@
   * _Calculs sur le Cloud._
   * **Localisation**: Paris (Montrouge)
   * **Domaine scientifique**: Web/Cloud/Big Data
-  * **Domaine d'application**: Autres
+  * **Domaine d'application**: Arbitraire
   * [_Jobs_](https://qarnot.com/en/recruiting)
 
 

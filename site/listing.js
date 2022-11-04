@@ -58,7 +58,7 @@ function compute_active_entry(domain, domain_label, data) {
                     const candidate = data[k];
                     const candidate_domain = candidate[domain_label];
                     
-                    if(candidate_domain!=undefined){
+                    if(candidate_domain!=undefined && candidate_domain!="Autres/Arbitraire"){
                         const find_domain = candidate_domain.some((x) => neutral_str(x)==neutral_str(domain_target) );
                         if(find_domain==true){
                             active_entry[k] = true;
