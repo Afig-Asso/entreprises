@@ -168,7 +168,7 @@
 
 * **[ESI](https://www.esi-group.com/)**  
   * _Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie_
-  * **Localisation**: France, International
+  * **Localisation**: France/{Paris, Lyon, Bordeaux}, International
   * **Nombres d'employés**: 1000
   * **Domaine scientifique**: Modélisation, Simulation
   * **Domaine d'application**: Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile
@@ -179,7 +179,7 @@
   * _Développeur de jeu et du moteur 3D Unreal Engine_
   * **Localisation**: USA, International
   * **Nombres d'employés**: 2000
-  * **Domaine scientifique**: Modélisation, Animation, Simulation
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.epicgames.com/site/en-US/careers/jobs)
 
@@ -188,7 +188,7 @@
   * _Développement de jeux vidéos orientés mobile._
   * **Localisation**: France/Paris, USA, Canada, Spain, India, International
   * **Nombres d'employés**: 3600
-  * **Domaine scientifique**: Modélisation, Animation, Web/Cloud/Big Data
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
 
@@ -308,7 +308,7 @@
   * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K)._
   * **Localisation**: USA, France/Paris (Palaiseau), International
   * **Nombres d'employés**: 6000
-  * **Domaine scientifique**: Modélisation, Animation, Simulation
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://careers.take2games.com/jobs)
 
@@ -346,14 +346,14 @@
   * **Remarque**: _<a href="https://unity-grenoble.github.io/website/">Equipe de recherche</a> en France dans le domaine du rendu à Grenoble_
   * **Localisation**: USA, France/{Paris, Grenoble}, International
   * **Nombres d'employés**: 5000
-  * **Domaine scientifique**: Modélisation, Animation, Simulation
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://careers.unity.com/)
 
 
 * **[YellowScan](https://www.yellowscan-lidar.com/)**  
   * _Scan LiDAR pour application industrielles_
-  * **Localisation**: Montpellier,  (Saint-Clément-de-Rivière)
+  * **Localisation**: Montpellier (Saint-Clément-de-Rivière)
   * **Domaine scientifique**: Acquisition, Reconstruction, Géométrie
   * **Domaine d'application**: Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile
   * [_Jobs_](https://www.yellowscan-lidar.com/about/career/)
