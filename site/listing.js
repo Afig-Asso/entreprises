@@ -380,6 +380,9 @@ function sort_by_place(data) {
 
                 if(country=='France') { // then also sort by city
                     let city = place['City'];
+                    if(city==undefined) {
+                        console.log("Error reading city for entry", entry);
+                    }
                     while(city[0]==' '){
                         city = city.substring(1,city.length);
                     }
