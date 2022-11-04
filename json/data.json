@@ -1,51 +1,76 @@
 {
     "Keywords": {
         "Scientific-domain": [
-            "Synth\u00e8se d'image",
-            "Mod\u00e9lisation",
-            "Animation",
-            "Visualisation",
-            "Aquisition",
-            "Reconstruction",
-            "Simulation",
-            "G\u00e9om\u00e9trie",
-            "Vision",
-            "VR/AR",
-            "IA",
-            "Analyse",
-            "IHM/Haptique",
-            "Calcul",
-            "Big Data"
+            {
+                "Design/Fabrication": "Design interactif, Fabrication 3D, CAO, CFAO, etc."
+            },
+            {
+                "Synth\u00e8se d'image": "Rendu d'images, Effets visuels, Mod\u00e8le de refl\u00e9ctance, etc."
+            },
+            {
+                "Mod\u00e9lisation": "G\u00e9n\u00e9ration de formes et sc\u00e8nes 3D, 2D, Mod\u00e8les proc\u00e9duraux, etc"
+            },
+            {
+                "Animation": "G\u00e9n\u00e9ration d'animation, Analyse et traitement d'animation"
+            },
+            {
+                "Visualisation": "Visualisation de donn\u00e9es, scientifique, de mod\u00e8les 3D, etc"
+            },
+            {
+                "Aquisition": "Syst\u00e8mes de capture 3D, MOCAP, capture d'image, de vid\u00e9o, etc"
+            },
+            {
+                "Reconstruction": "Reconstruction 3D, Probl\u00e8mes inverses, NeRF, Double num\u00e9rique, etc"
+            },
+            {
+                "Simulation": "Simulation num\u00e9rique, Mod\u00e8les bas\u00e9s physiques, etc"
+            },
+            {
+                "G\u00e9om\u00e9trie": "Analyse et Traitement de g\u00e9om\u00e9trie"
+            },
+            {
+                "Vision": "Computer Vision, Classification et reconnaissance d'\u00e9l\u00e9ments visuels"
+            },
+            {
+                "Imagerie": "Modalit\u00e9 d'imagerie, Analyse et traitement d'images"
+            },
+            {
+                "VR/AR": "R\u00e9alit\u00e9 virtuelle, augment\u00e9e et mixte"
+            },
+            {
+                "IA": "Intelligence Artificielle, Syst\u00e8mes Intelligents, Evolutifs, Apprentissage, etc."
+            },
+            {
+                "Analyse de donn\u00e9es": "Analyse et traitement de donn\u00e9es g\u00e9n\u00e9rique, de signal"
+            },
+            {
+                "IHM/Haptique": "Interaction Homme Machine, Interfaces, Syst\u00e8me haptique, Retour d'effort, Syst\u00e8mes tangibles."
+            },
+            {
+                "Hardware": "Syst\u00e8mes embarqu\u00e9s, IoT, Cartes graphiques, FPGA, etc"
+            },
+            {
+                "Web/Cloud/Big Data": "Technologies web, Bases de donn\u00e9es, Acc\u00e8s distant, Streaming, etc"
+            },
+            {
+                "Autres": ""
+            }
         ],
         "Application-domain": [
-            "M\u00e9dical",
-            "Biologique",
-            "Fabrication",
-            "Design",
-            "Cin\u00e9ma",
-            "Reconstruction",
-            "Films d'Animation",
-            "VFX",
+            "Cin\u00e9ma/Films d'Animation/VFX",
             "Jeu Vid\u00e9o",
-            "Loisir",
-            "Robotique",
-            "Histoire",
-            "Mus\u00e9ographie",
-            "S\u00e9curit\u00e9",
-            "D\u00e9fense",
-            "Entrainement/Formation",
-            "Serious Game",
-            "Automobile",
-            "Aviation",
+            "Art/Evenementiel",
+            "Entrainement/Formation/Serious Game",
+            "Metavers/Immersion/Loisir",
+            "Robotique/Syst\u00e8mes autonomes",
+            "Histoire/Mus\u00e9ographie",
+            "S\u00e9curit\u00e9/D\u00e9fense",
+            "Automobile/Navigation/Aviation",
+            "M\u00e9dical/Biologique",
+            "Mode/V\u00eatements/Accessoires",
             "Architecture/Immobilier",
-            "Ing\u00e9nierie civile",
-            "CAO",
-            "Web",
-            "Double num\u00e9rique",
-            "Art",
-            "Evenementiel",
-            "Metavers",
-            "V\u00eatements"
+            "M\u00e9canique/Ing\u00e9nierie civile",
+            "Autres"
         ]
     },
     "Listing": [

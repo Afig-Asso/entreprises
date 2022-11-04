@@ -1,46 +1,36 @@
 
 Scientific-domain:
-  - Synthèse d'image # Rendu d'image
-  - Modélisation
-  - Animation
-  - Visualisation
-  - Aquisition # Aquisition de forme, MOCAP, image, video
-  - Reconstruction
-  - Simulation
-  - Géométrie
-  - Vision
-  - VR/AR
-  - IA
-  - Analyse # Analyse du signal, de géométrie, d'image
-  - IHM/Haptique
-  - Calcul
-  - Big Data
+  - Design/Fabrication: "Design interactif, Fabrication 3D, CAO, CFAO, etc."
+  - Synthèse d'image: "Rendu d'images, Effets visuels, Modèle de refléctance, etc."
+  - Modélisation: "Génération de formes et scènes 3D, 2D, Modèles procéduraux, etc"
+  - Animation: "Génération d'animation, Analyse et traitement d'animation"
+  - Visualisation: "Visualisation de données, scientifique, de modèles 3D, etc"
+  - Aquisition: "Systèmes de capture 3D, MOCAP, capture d'image, de vidéo, etc"
+  - Reconstruction: "Reconstruction 3D, Problèmes inverses, NeRF, Double numérique, etc"
+  - Simulation: "Simulation numérique, Modèles basés physiques, etc"
+  - Géométrie: "Analyse et Traitement de géométrie"
+  - Vision: "Computer Vision, Classification et reconnaissance d'éléments visuels"
+  - Imagerie: "Modalité d'imagerie, Analyse et traitement d'images"
+  - VR/AR: "Réalité virtuelle, augmentée et mixte"
+  - IA: "Intelligence Artificielle, Systèmes Intelligents, Evolutifs, Apprentissage, etc."
+  - Analyse de données: "Analyse et traitement de données générique, de signal"
+  - IHM/Haptique: "Interaction Homme Machine, Interfaces, Système haptique, Retour d'effort, Systèmes tangibles."
+  - Hardware: "Systèmes embarqués, IoT, Cartes graphiques, FPGA, etc"
+  - Web/Cloud/Big Data: "Technologies web, Bases de données, Accès distant, Streaming, etc"
+  - Autres: ""
 Application-domain:
-  - Médical
-  - Biologique
-  - Fabrication
-  - Design
-  - Cinéma
-  - Reconstruction
-  - Films d'Animation
-  - VFX
+  - Cinéma/Films d'Animation/VFX
   - Jeu Vidéo
-  - Loisir
-  - Robotique
-  - Histoire
-  - Muséographie
-  - Sécurité
-  - Défense
-  - Entrainement/Formation
-  - Serious Game
-  - Automobile
-  - Aviation
+  - Art/Evenementiel
+  - Entrainement/Formation/Serious Game
+  - Metavers/Immersion/Loisir
+  - Robotique/Systèmes autonomes
+  - Histoire/Muséographie
+  - Sécurité/Défense
+  - Automobile/Navigation/Aviation
+  - Médical/Biologique
+  - Mode/Vêtements/Accessoires
   - Architecture/Immobilier
-  - Ingénierie civile
-  - CAO
-  - Web
-  - Double numérique
-  - Art
-  - Evenementiel
-  - Metavers
-  - Vêtements
+  - Mécanique/Ingénierie civile
+  - Autres
+
