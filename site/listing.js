@@ -466,6 +466,10 @@ function filter_active_entry_keyword(data, keyword_label, active_keywords, activ
 }
 
 function update_display(event) {
+
+    if(event!=undefined){
+    console.log(event.currentTarget);
+    }
       
     const N = company_data['Listing'].length;
     // set all active entry to 1
@@ -542,7 +546,7 @@ function build_detail_button(container) {
     `;
     container.appendChild(button_detail);
     UX['details'] = document.querySelector('#display-details');
-    selection_element.addEventListener('change', update_display);
+    container.addEventListener('change', update_display);
 
 }
 
