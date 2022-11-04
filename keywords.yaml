@@ -1,14 +1,14 @@
 
 Scientific-domain:
-  - Design/Fabrication: "Design interactif, Fabrication 3D, CAO, CFAO, etc."
   - Synthèse d'image: "Rendu d'images, Effets visuels, Modèle de refléctance, etc."
   - Modélisation: "Génération de formes et scènes 3D, 2D, Modèles procéduraux, etc"
   - Animation: "Génération d'animation, Analyse et traitement d'animation"
   - Visualisation: "Visualisation de données, scientifique, de modèles 3D, etc"
-  - Aquisition: "Systèmes de capture 3D, MOCAP, capture d'image, de vidéo, etc"
+  - Acquisition: "Systèmes de capture 3D, MOCAP, capture d'image, de vidéo, etc"
   - Reconstruction: "Reconstruction 3D, Problèmes inverses, NeRF, Double numérique, etc"
   - Simulation: "Simulation numérique, Modèles basés physiques, etc"
   - Géométrie: "Analyse et Traitement de géométrie"
+  - Design/Fabrication: "Design interactif, Fabrication 3D, CAO, CFAO, etc."
   - Vision: "Computer Vision, Classification et reconnaissance d'éléments visuels"
   - Imagerie: "Modalité d'imagerie, Analyse et traitement d'images"
   - VR/AR: "Réalité virtuelle, augmentée et mixte"
@@ -24,7 +24,7 @@ Application-domain:
   - Jeu Vidéo
   - Art/Evenementiel
   - Entrainement/Formation/Serious Game
-  - Metavers/Immersion/Loisir
+  - Loisir Interactif/Immersion/Metavers
   - Robotique/Systèmes autonomes
   - Histoire/Muséographie
   - Sécurité/Défense

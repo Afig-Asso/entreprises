@@ -168,17 +168,58 @@ def prettyMD(data):
     
     return out
 
+def extract_keywords_from_list(data):
+    S = set()
+    for element in data:
+        if isinstance(element, str):
+            S.add(element)
+        elif isinstance(element, dict):
+            S.add(list(element.keys())[0])
+    return S
+
+def check_keywords(data_keywords, data, exitOnError=False):
+
+    res = True
+
+    # get possible keywords
+    scientific_keywords = extract_keywords_from_list(data_keywords['Scientific-domain'])
+    application_keywords = extract_keywords_from_list(data_keywords['Application-domain'])
+
+    for entry in data:
+        assert 'Name' in entry
+        name = entry['Name']
+        if 'Scientific-domain' not in entry:
+            print("\n !! Warning Scientific-domain missing for entry: ",name)
+            res = False
+        if 'Application-domain' not in entry:
+            print("\n !! Warning Application-domain missing for entry: ",name)
+            res = False
+
+        scientific = entry['Scientific-domain']
+        application = entry['Application-domain']
+        
+        for s in scientific:
+            if s not in scientific_keywords:
+                print(f"\n !! Warning cannot find scientific keyword [{s}] in entry [{name}]")
+        for s in application:
+            if s not in application_keywords:
+                print(f"\n !! Warning cannot find application keyword [{s}] in entry [{name}]")
+
+    if res==False and exit_on_failure==True:
+        print("Check failed, exit")
+        exit(1)
+
 
 
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Generate Listing')
-    parser.add_argument('-c','--checkURL', help='Check url validity', action='store_true')
-    parser.add_argument('-C','--checkURLwithFailure', help='Check url validity and fails if some are unreachable', action='store_true')
+    parser.add_argument('-c','--checkValidity', help='Check data validity: URL, keywords, etc.', action='store_true')
+    parser.add_argument('-C','--checkValiditywithFailure', help='Check data validity and fails if some are unreachable', action='store_true')
     args = parser.parse_args()  
 
-    is_check_url = args.checkURL or args.checkURLwithFailure
-    exit_on_failure = args.checkURLwithFailure
+    is_check = args.checkValidity or args.checkValiditywithFailure
+    exit_on_failure = args.checkValiditywithFailure
 
 
     filename_yaml = root_path+'/../'+meta['filename_yaml']
@@ -190,10 +231,15 @@ if __name__ == "__main__":
     data = liblisting.yaml_read_file(filename_yaml)
     data_keywords = liblisting.yaml_read_file(filename_yaml_keywords)
 
-    if is_check_url:
-        urls = liblisting.get_all_urls(data)
-        liblisting.check_urls(urls, exitOnError=exit_on_failure)
-        print('Check URLs done\n')
+    if is_check:
+        print('Check Keywords ...')
+        check_keywords(data_keywords, data)
+        print('Check Keywords done\n')
+
+        # print('Check URLs ...')
+        # urls = liblisting.get_all_urls(data)
+        # liblisting.check_urls(urls, exitOnError=exit_on_failure)
+        # print('Check URLs done\n')
 
     # export json
     json_data = {'Keywords':data_keywords, 'Listing':data}

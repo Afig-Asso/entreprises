@@ -58,7 +58,6 @@ def is_url_valid(url):
 
 def check_urls(urls, exitOnError=False):
     success = True
-    print('Check urls ...')
     for url in tqdm.tqdm(urls):
         ret = is_url_valid(url)
         if ret!=True:

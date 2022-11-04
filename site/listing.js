@@ -592,11 +592,10 @@ function build_keywords(data, label, domain_element){
     for(let data_keyword of data){
         
         let keyword = data_keyword;
-        if(is_type_array(Object.keys(data_keyword))) {
+        if(is_type_string(data_keyword)==false && is_type_array(Object.keys(data_keyword))) {
             keyword = Object.keys(data_keyword)[0];
         }
         
-        console.log(keyword);
         let id = keyword.replace(/[^A-Z0-9]/ig, "_");
     
         const new_input = document.createElement('div');

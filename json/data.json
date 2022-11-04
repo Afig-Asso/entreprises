@@ -2,9 +2,6 @@
     "Keywords": {
         "Scientific-domain": [
             {
-                "Design/Fabrication": "Design interactif, Fabrication 3D, CAO, CFAO, etc."
-            },
-            {
                 "Synth\u00e8se d'image": "Rendu d'images, Effets visuels, Mod\u00e8le de refl\u00e9ctance, etc."
             },
             {
@@ -27,6 +24,9 @@
             },
             {
                 "G\u00e9om\u00e9trie": "Analyse et Traitement de g\u00e9om\u00e9trie"
+            },
+            {
+                "Design/Fabrication": "Design interactif, Fabrication 3D, CAO, CFAO, etc."
             },
             {
                 "Vision": "Computer Vision, Classification et reconnaissance d'\u00e9l\u00e9ments visuels"
@@ -61,7 +61,7 @@
             "Jeu Vid\u00e9o",
             "Art/Evenementiel",
             "Entrainement/Formation/Serious Game",
-            "Metavers/Immersion/Loisir",
+            "Loisir Interactif/Immersion/Metavers",
             "Robotique/Syst\u00e8mes autonomes",
             "Histoire/Mus\u00e9ographie",
             "S\u00e9curit\u00e9/D\u00e9fense",
@@ -84,8 +84,7 @@
                 "Animation"
             ],
             "Application-domain": [
-                "Films d'Animation",
-                "Loisir"
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Jobs": "https://www.2d3d-animations.com/emploi/"
         },
@@ -112,8 +111,7 @@
                 "Animation"
             ],
             "Application-domain": [
-                "Films d'Animation",
-                "Loisir"
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -151,11 +149,12 @@
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
-                "Animation"
+                "Animation",
+                "Design/Fabrication"
             ],
             "Application-domain": [
-                "Design",
-                "Loisir"
+                "Art/Evenementiel",
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Info": "Centre de recherche \u00e0 Paris",
             "Highlight": "Graphics, R&D",
@@ -169,12 +168,13 @@
             "Place": "Grenoble, Lyon, Tarbes, Paris, Annecy",
             "Jobs": "https://recrutement.alma.fr/cv/",
             "Scientific-domain": [
-                "Mod\u00e9lisation"
+                "Mod\u00e9lisation",
+                "Design/Fabrication"
             ],
             "Application-domain": [
-                "Fabrication",
-                "Design",
-                "CAO"
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes"
             ]
         },
         {
@@ -190,7 +190,7 @@
                 "VR/AR"
             ],
             "Application-domain": [
-                "Loisir"
+                "Loisir Interactif/Immersion/Metavers"
             ]
         },
         {
@@ -204,11 +204,12 @@
                 "Visualisation",
                 "Simulation",
                 "G\u00e9om\u00e9trie",
-                "Analyse"
+                "Imagerie",
+                "Reconstruction",
+                "Analyse de donn\u00e9es"
             ],
             "Application-domain": [
-                "M\u00e9dical",
-                "Double num\u00e9rique"
+                "M\u00e9dical/Biologique"
             ]
         },
         {
@@ -230,21 +231,20 @@
                 }
             ],
             "Scientific-domain": [
+                "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
             ],
             "Application-domain": [
-                "VFX",
-                "Films d'Animation",
-                "Loisir"
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Employees": 1300
         },
         {
             "Name": "Artefacto",
             "url": "https://altvr.com/",
-            "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualization dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
+            "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
             "Place": [
                 {
                     "City": "Rennes",
@@ -259,7 +259,7 @@
             ],
             "Application-domain": [
                 "Architecture/Immobilier",
-                "Double num\u00e9rique"
+                "Entrainement/Formation/Serious Game"
             ]
         },
         {
@@ -284,15 +284,17 @@
             ],
             "Jobs": "https://www.autodesk.com/careers/overview",
             "Scientific-domain": [
+                "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
-                "Animation"
+                "Animation",
+                "Visualisation",
+                "Simulation",
+                "Design/Fabrication"
             ],
             "Application-domain": [
-                "Fabrication",
-                "Design",
-                "Films d'Animation",
-                "VFX",
-                "CAO"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Automobile/Navigation/Aviation",
+                "M\u00e9canique/Ing\u00e9nierie civile"
             ],
             "Employees": 10000
         },
@@ -307,9 +309,12 @@
             "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
             "Scientific-domain": [
                 "Vision",
-                "Analyse",
+                "Analyse de donn\u00e9es",
                 "Animation",
                 "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "Autres"
             ]
         },
         {
@@ -322,12 +327,10 @@
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation",
-                "Analyse",
                 "Vision"
             ],
             "Application-domain": [
-                "Cin\u00e9ma",
-                "VFX"
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Employees": 60
         },
@@ -340,7 +343,7 @@
                 "Country": "Canada"
             },
             "Scientific-domain": [
-                "Analyse",
+                "Analyse de donn\u00e9es",
                 "IA"
             ],
             "Application-domain": [
@@ -384,12 +387,12 @@
                 "Simulation",
                 "Vision",
                 "Mod\u00e9lisation",
-                "Reconstruction"
+                "Reconstruction",
+                "Design/Fabrication"
             ],
             "Application-domain": [
-                "Ing\u00e9nierie civile",
-                "CAO",
-                "Double num\u00e9rique"
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Automobile/Navigation/Aviation"
             ],
             "Employees": 4000
         },
@@ -404,11 +407,11 @@
             "Jobs": "https://www.blippar.com/careers#Jobs",
             "Scientific-domain": [
                 "VR/AR",
-                "Mod\u00e9lisation"
+                "Mod\u00e9lisation",
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
-                "Web",
-                "Loisir"
+                "Loisir Interactif/Immersion/Metavers"
             ]
         },
         {
@@ -430,8 +433,8 @@
                 "Visualisation"
             ],
             "Application-domain": [
-                "Evenementiel",
-                "Loisir"
+                "Art/Evenementiel",
+                "Loisir Interactif/Immersion/Metavers"
             ],
             "Employees": 2000
         },
@@ -461,15 +464,15 @@
             "Jobs": "https://careers.3ds.com/",
             "Scientific-domain": [
                 "Mod\u00e9lisation",
-                "Simulation"
+                "Simulation",
+                "Visualisation",
+                "G\u00e9om\u00e9trie",
+                "Design/Fabrication"
             ],
             "Application-domain": [
-                "Fabrication",
-                "Design",
-                "M\u00e9dical",
-                "Physique",
-                "CAO",
-                "Double num\u00e9rique"
+                "Automobile/Navigation/Aviation",
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "M\u00e9dical/Biologique"
             ],
             "Highlight": "Graphics, R&D",
             "Employees": 20000
@@ -503,11 +506,11 @@
             "Employees": 3600,
             "Scientific-domain": [
                 "Mod\u00e9lisation",
-                "Animation"
+                "Animation",
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
-                "Jeu Vid\u00e9o",
-                "Web"
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -520,13 +523,10 @@
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation",
-                "Analyse",
                 "Vision"
             ],
             "Application-domain": [
-                "Cin\u00e9ma",
-                "VFX",
-                "Films d'Animation"
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Employees": 60
         },
@@ -540,11 +540,10 @@
                 "Vision",
                 "Animation",
                 "IA",
-                "Analyse"
+                "Acquisition"
             ],
             "Application-domain": [
-                "Loisir",
-                "Metavers"
+                "Loisir Interactif/Immersion/Metavers"
             ]
         },
         {
@@ -562,13 +561,11 @@
             ],
             "Scientific-domain": [
                 "Mod\u00e9lisation",
-                "Simulation"
+                "Simulation",
+                "Design/Fabrication"
             ],
             "Application-domain": [
-                "Fabrication",
-                "Design",
-                "CAO",
-                "V\u00eatements"
+                "Mode/V\u00eatements/Accessoires"
             ],
             "Employees": 1500
         },
@@ -588,11 +585,11 @@
             ],
             "Place": "Paris",
             "Scientific-domain": [
-                "Synth\u00e8se d'images",
+                "Synth\u00e8se d'image",
                 "Animation"
             ],
             "Application-domain": [
-                "Films d'Animation"
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -606,14 +603,14 @@
                 }
             ],
             "Scientific-domain": [
-                "Aquisition",
-                "Analyse",
+                "Acquisition",
+                "Analyse de donn\u00e9es",
                 "Animation"
             ],
             "Application-domain": [
-                "Loisir",
-                "Jeu Vid\u00e9o",
-                "Cin\u00e9ma"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers",
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -622,15 +619,14 @@
             "Description": "Virtual try-on de v\u00eatements de mode.",
             "Place": "Paris",
             "Scientific-domain": [
-                "Aquisition",
+                "Acquisition",
                 "Reconstruction",
                 "G\u00e9om\u00e9trie",
                 "Vision",
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
-                "Vetements",
-                "Double num\u00e9rique"
+                "Mode/V\u00eatements/Accessoires"
             ]
         },
         {
@@ -645,11 +641,10 @@
             ],
             "Jobs": "https://qarnot.com/en/recruiting",
             "Scientific-domain": [
-                "Big Data",
-                "Calcul"
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
-                "Web"
+                "Autres"
             ]
         },
         {
@@ -663,13 +658,14 @@
                 }
             ],
             "Scientific-domain": [
-                "Acquisition"
+                "Acquisition",
+                "Imagerie",
+                "Vision"
             ],
             "Application-domain": [
-                "Cin\u00e9ma",
-                "Evenementiel",
-                "S\u00e9curit\u00e9",
-                "D\u00e9fense"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel",
+                "S\u00e9curit\u00e9/D\u00e9fense"
             ]
         },
         {
@@ -681,7 +677,7 @@
                 "Animation"
             ],
             "Application-domain": [
-                "Films d'Animation"
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -724,9 +720,8 @@
                 "VR/AR"
             ],
             "Application-domain": [
-                "Films d'Animation",
-                "VFX",
-                "Loisir"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
             ],
             "Employees": 12000
         },
@@ -746,13 +741,12 @@
             "Jobs": "https://www.thalesgroup.com/fr/candidat",
             "Scientific-domain": [
                 "Reconstruction",
-                "Analyse",
-                "Vision"
+                "Vision",
+                "Imagerie"
             ],
             "Application-domain": [
-                "Aviation",
-                "S\u00e9curit\u00e9",
-                "D\u00e9fense"
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation"
             ],
             "Employees": 80000,
             "Highlight": "R&D"
