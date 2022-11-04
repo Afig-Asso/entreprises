@@ -438,7 +438,7 @@
   Employees: 1000
   Place: 
     - Country: France
-      Place: {Paris, Lyon, Bordeaux}
+      Place: [Paris, Lyon, Bordeaux]
     - International: True
   Scientific-domain: [Modélisation, Simulation]
   Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile]
