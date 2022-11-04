@@ -61,14 +61,15 @@
             "Entrainement/Formation/Serious Game",
             "Loisir Interactif/Immersion/Metavers",
             "Robotique/Syst\u00e8mes autonomes",
-            "Histoire/Mus\u00e9ographie",
+            "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
             "S\u00e9curit\u00e9/D\u00e9fense",
             "Automobile/Navigation/Aviation",
             "M\u00e9dical/Biologique",
             "Mode/V\u00eatements/Accessoires",
             "Architecture/Immobilier",
             "M\u00e9canique/Ing\u00e9nierie civile",
-            "Autres"
+            "Autres",
+            "G\u00e9n\u00e9rique"
         ]
     },
     "Listing": [
@@ -251,7 +252,7 @@
                 "Web/Cloud/Big Data"
             ],
             "Application-domain": [
-                "Arbitraire"
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -327,7 +328,7 @@
                 "IHM/Haptique"
             ],
             "Application-domain": [
-                "Arbitraire"
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -412,7 +413,7 @@
         {
             "Name": "Blippar",
             "Description": "D\u00e9veloppement d'outils pour la cr\u00e9ation de contenu en AR sur smartphone",
-            "url": "https://qarnot.com/",
+            "url": "https://www.blippar.com/",
             "Place": {
                 "Country": "UK",
                 "City": "Londres"
@@ -704,7 +705,7 @@
                 "Web/Cloud/Big Data"
             ],
             "Application-domain": [
-                "Arbitraire"
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -752,7 +753,8 @@
                 },
                 {
                     "Country": "France",
-                    "City": "Paris"
+                    "City": "Paris",
+                    "Exact": "Palaiseau"
                 },
                 {
                     "International": true
@@ -892,6 +894,240 @@
             ],
             "Employees": 20000,
             "Highlight": "Graphics, R&D"
+        },
+        {
+            "Name": "CLO Virtual Fashion",
+            "url": "https://www.clo3d.com/en/",
+            "Product": "Marvelous Designer, Clo3D",
+            "Description": "Logiciel de simulation de v\u00eatements virtuels",
+            "Jobs": "https://jobs.lever.co/clovirtualfashion",
+            "Place": [
+                {
+                    "Country": "Korea"
+                },
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Mode/V\u00eatements/Accessoires"
+            ]
+        },
+        {
+            "Name": "SideFX",
+            "url": "https://www.sidefx.com/",
+            "Product": "Houdini",
+            "Description": "D\u00e9veloppement du logiciel de VFX Houdini - Mod\u00e9lisation et Animation proc\u00e9durale, simulation.",
+            "Jobs": "https://www.sidefx.com/careers/",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Unity Technologies",
+            "url": "https://unity.com/",
+            "Description": "D\u00e9veloppement du moteur de jeu Unity",
+            "Info": "<a href=\"https://unity-grenoble.github.io/website/\">Equipe de recherche</a> en France dans le domaine du rendu \u00e0 Grenoble",
+            "Jobs": "https://careers.unity.com/",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Grenoble"
+                    ]
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Highlight": "Graphics, R&D",
+            "Employees": 5000,
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Epic Games",
+            "url": "https://www.epicgames.com/site/en-US/home",
+            "Description": "D\u00e9veloppeur de jeu et du moteur 3D Unreal Engine",
+            "Products": [
+                {
+                    "Name": "Unreal Engine",
+                    "url": "https://www.unrealengine.com/"
+                }
+            ],
+            "Jobs": "https://www.epicgames.com/site/en-US/careers/jobs",
+            "Employees": 2000,
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "ESI",
+            "url": "https://www.esi-group.com/",
+            "Description": "Entreprise Francaise de simulation, prototypage virtuel, et Double num\u00e9rique pour l'industrie",
+            "Jobs": "https://www.esi-group.com/join-us",
+            "Employees": 1000,
+            "Place": [
+                {
+                    "Country": "France",
+                    "Place": {
+                        "Paris": null,
+                        "Lyon": null,
+                        "Bordeaux": null
+                    }
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "SpirOPS",
+            "url": "https://www.spirops.com/",
+            "Description": "Approches d'IA pour l'industrie et le loisir: foule virtuelles, v\u00e9hicules autonomes, assistants",
+            "Jobs": "https://www.spirops.com/jobs.php?lg=en",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Automobile/Navigation/Aviation",
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "YellowScan",
+            "url": "https://www.yellowscan-lidar.com/",
+            "Description": "Scan LiDAR pour application industrielles",
+            "Jobs": "https://www.yellowscan-lidar.com/about/career/",
+            "Place": [
+                {
+                    "City": "Montpellier"
+                },
+                {
+                    "Exact": "Saint-Cl\u00e9ment-de-Rivi\u00e8re"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Pixel Wizards",
+            "Description": "Studio de jeu vid\u00e9os indie, jeux en tours par tours",
+            "url": "https://pixel-wizards.com/",
+            "Place": "Paris",
+            "Jobs": "https://pixel-wizards.com/jobs/",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "IA"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Presagis",
+            "Description": "Simulation d'environment dynamique pour la pr\u00e9diction \u00e0 large \u00e9chelle (infrastructure, d\u00e9fense, d\u00e9sastre, etc)",
+            "url": "https://www.presagis.com/en/",
+            "Jobs": "https://cae.wd3.myworkdayjobs.com/Presagis/jobs",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
+                },
+                {
+                    "Country": "USA",
+                    "City": "Orlando"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Italy"
+                },
+                {
+                    "Country": "UK"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation",
+                "IA",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation",
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
         }
     ]
 }

@@ -1,6 +1,8 @@
 "use strict";
 
-const url = 'https://raw.githubusercontent.com/Afig-Asso/entreprises/main/json/data.json'
+// local
+const url = '../json/data.json'
+// const url = 'https://raw.githubusercontent.com/Afig-Asso/entreprises/main/json/data.json'
 
 const listing_element = document.querySelector('#listing-company');
 
@@ -424,7 +426,7 @@ function compute_active_entry(domain, domain_label, data) {
                     const candidate = data[k];
                     const candidate_domain = candidate[domain_label];
 
-                    if(candidate_domain!=undefined && candidate_domain!="Arbitraire"){
+                    if(candidate_domain!=undefined){
                         const find_domain = candidate_domain.some((x) => neutral_str(x)==neutral_str(domain_target) );
                         if(find_domain==true){
                             active_entry[k] = true;
@@ -485,21 +487,6 @@ function update_display(event) {
     filter_active_entry_keyword(company_data['Listing'], 'Scientific-domain', Global['active-keyword-set']['scientific'], Global['active-entry']);
     filter_active_entry_keyword(company_data['Listing'], 'Application-domain', Global['active-keyword-set']['application'], Global['active-entry']);
 
-
-    // // Filter over the scientific data
-    // let active_scientific = compute_active_entry(UX['filter-keyword-scientific-domain'],'Scientific-domain', company_data['Listing']);
-    // let active_application = compute_active_entry(UX['filter-keyword-application-domain'], 'Application-domain', company_data['Listing']);
-
-    // let active_entry = []
-
-    // for(let k=0; k<active_scientific.length; k++) {
-    //     if(active_scientific[k] && active_application[k]) {
-    //         active_entry.push(1);
-    //     }
-    //     else {
-    //         active_entry.push(0);
-    //     }
-    // }
 
 
 

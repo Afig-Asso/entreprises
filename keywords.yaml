@@ -26,7 +26,7 @@ Application-domain:
   - Entrainement/Formation/Serious Game
   - Loisir Interactif/Immersion/Metavers
   - Robotique/Systèmes autonomes
-  - Histoire/Muséographie
+  - Histoire/Archéologie/Muséographie
   - Sécurité/Défense
   - Automobile/Navigation/Aviation
   - Médical/Biologique
@@ -34,4 +34,5 @@ Application-domain:
   - Architecture/Immobilier
   - Mécanique/Ingénierie civile
   - Autres
-# + Arbitraire
+  - Générique
+  

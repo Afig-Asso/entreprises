@@ -68,7 +68,7 @@
   * _Streaming et compression de géométrie pour visualiser des scènes 3D sur tout type de clients._
   * **Localisation**: Lyon
   * **Domaine scientifique**: Géométrie, Visualisation, Web/Cloud/Big Data
-  * **Domaine d'application**: Arbitraire
+  * **Domaine d'application**: Générique
   * [_Jobs_](https://actu.arskan.com/nous-rejoindre)
 
 
@@ -94,7 +94,7 @@
   * _Dévelopement d'outils de vision pour la réalité augmentée, l'analyse du mouvement et l'interaction tactile._
   * **Localisation**: Paris (Le Kremlin-Bicêtre)
   * **Domaine scientifique**: Vision, Analyse de données, Animation, IHM/Haptique
-  * **Domaine d'application**: Arbitraire
+  * **Domaine d'application**: Générique
   * [_Jobs_](https://www.artefacto-ar.com/en/carrieres/)
 
 
@@ -123,12 +123,21 @@
   * [_Jobs_](https://jobs.bentley.com/search)
 
 
-* **[Blippar](https://qarnot.com/)**  
+* **[Blippar](https://www.blippar.com/)**  
   * _Développement d'outils pour la création de contenu en AR sur smartphone_
   * **Localisation**: UK/Londres
   * **Domaine scientifique**: VR/AR, Modélisation, Web/Cloud/Big Data
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://www.blippar.com/careers#Jobs)
+
+
+* **[CLO Virtual Fashion](https://www.clo3d.com/en/)**  
+  * _Logiciel de simulation de vêtements virtuels_
+  * **Produits**: Marvelous Designer,  Clo3D
+  * **Localisation**: Korea, USA, International
+  * **Domaine scientifique**: Modélisation, Animation, Simulation, Design/Fabrication
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires
+  * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
 
 
 * **[Christie](https://www.christiedigital.com/en-gb)**  
@@ -155,6 +164,24 @@
   * **Localisation**: Rennes
   * **Domaine scientifique**: Animation, Acquisition
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[ESI](https://www.esi-group.com/)**  
+  * _Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie_
+  * **Localisation**: France, International
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique**: Modélisation, Simulation
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile
+  * [_Jobs_](https://www.esi-group.com/join-us)
+
+
+* **[Epic Games](https://www.epicgames.com/site/en-US/home)**  
+  * _Développeur de jeu et du moteur 3D Unreal Engine_
+  * **Localisation**: USA, International
+  * **Nombres d'employés**: 2000
+  * **Domaine scientifique**: Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.epicgames.com/site/en-US/careers/jobs)
 
 
 * **[Gameloft](https://www.gameloft.com/)**  
@@ -222,11 +249,27 @@
   * **Domaine d'application**: Mode/Vêtements/Accessoires
 
 
+* **[Pixel Wizards](https://pixel-wizards.com/)**  
+  * _Studio de jeu vidéos indie, jeux en tours par tours_
+  * **Localisation**: Paris
+  * **Domaine scientifique**: Modélisation, Animation, IA
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://pixel-wizards.com/jobs/)
+
+
+* **[Presagis](https://www.presagis.com/en/)**  
+  * _Simulation d'environment dynamique pour la prédiction à large échelle (infrastructure, défense, désastre, etc)_
+  * **Localisation**: Canada/Montréal, USA/Orlando, France/Paris, Italy, UK
+  * **Domaine scientifique**: Modélisation, Animation, Simulation, IA, Analyse de données
+  * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile
+  * [_Jobs_](https://cae.wd3.myworkdayjobs.com/Presagis/jobs)
+
+
 * **[Qarnot Computing](https://qarnot.com/)**  
   * _Calculs sur le Cloud._
   * **Localisation**: Paris (Montrouge)
   * **Domaine scientifique**: Web/Cloud/Big Data
-  * **Domaine d'application**: Arbitraire
+  * **Domaine d'application**: Générique
   * [_Jobs_](https://qarnot.com/en/recruiting)
 
 
@@ -235,6 +278,23 @@
   * **Localisation**: USA/Colorado
   * **Domaine scientifique**: Acquisition, Imagerie, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel, Sécurité/Défense
+
+
+* **[SideFX](https://www.sidefx.com/)**  
+  * _Développement du logiciel de VFX Houdini - Modélisation et Animation procédurale, simulation._
+  * **Produits**: Houdini
+  * **Localisation**: Canada/Toronto
+  * **Domaine scientifique**: Modélisation, Animation, Simulation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.sidefx.com/careers/)
+
+
+* **[SpirOPS](https://www.spirops.com/)**  
+  * _Approches d'IA pour l'industrie et le loisir: foule virtuelles, véhicules autonomes, assistants_
+  * **Localisation**: Paris
+  * **Domaine scientifique**: IA, Animation, Simulation
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo
+  * [_Jobs_](https://www.spirops.com/jobs.php?lg=en)
 
 
 * **[TVPaint](https://www.tvpaint.com/)**  
@@ -246,7 +306,7 @@
 
 * **[Take-Two Interactive](https://www.take2games.com/)**  
   * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K)._
-  * **Localisation**: USA, France/Paris, International
+  * **Localisation**: USA, France/Paris (Palaiseau), International
   * **Nombres d'employés**: 6000
   * **Domaine scientifique**: Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -279,5 +339,23 @@
   * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
+
+
+* **[Unity Technologies](https://unity.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
+  * _Développement du moteur de jeu Unity_
+  * **Remarque**: _<a href="https://unity-grenoble.github.io/website/">Equipe de recherche</a> en France dans le domaine du rendu à Grenoble_
+  * **Localisation**: USA, France/{Paris, Grenoble}, International
+  * **Nombres d'employés**: 5000
+  * **Domaine scientifique**: Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://careers.unity.com/)
+
+
+* **[YellowScan](https://www.yellowscan-lidar.com/)**  
+  * _Scan LiDAR pour application industrielles_
+  * **Localisation**: Montpellier,  (Saint-Clément-de-Rivière)
+  * **Domaine scientifique**: Acquisition, Reconstruction, Géométrie
+  * **Domaine d'application**: Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile
+  * [_Jobs_](https://www.yellowscan-lidar.com/about/career/)
 
 
