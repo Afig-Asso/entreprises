@@ -1,8 +1,10 @@
 "use strict";
 
 // local
-const url = '../json/data.json'
-// const url = 'https://raw.githubusercontent.com/Afig-Asso/entreprises/main/json/data.json'
+//const url = '../json/data.json'
+
+// Site
+const url = 'https://raw.githubusercontent.com/Afig-Asso/entreprises/main/json/data.json'
 
 const listing_element = document.querySelector('#listing-company');
 
