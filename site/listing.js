@@ -8,7 +8,7 @@ const selection_element = document.querySelector('#selection-listing-company');
 
 
 
-let UX = {
+const UX = {
     'sorting': {'alphabetical':null, 'place':null},
     'details': null,
     'filter-keyword-container': {
@@ -20,6 +20,14 @@ let UX = {
     'filter-keyword-scientific-domain': [],
     'filter-keyword-application-domain': [],
 };
+
+const Global = {
+    'active-keyword-set': {
+        'scientific': null,
+        'application': null,
+    },
+    'active-entry': null, // company entry that are currently displayed
+}
 
 
 let company_data;
@@ -42,38 +50,7 @@ function neutral_str(s){
     return s.toLowerCase();
 }
 
-function compute_active_entry(domain, domain_label, data) {
 
-    const N = data.length;
-    let active_entry = [];
-    for(let k=0; k<N; k++){
-        active_entry.push(0);
-    }
-    for(let k=0; k<domain.length; k++) {
-        if(domain[k].checked==true) {
-            let domain_target = domain[k].value;
-
-            for(let k=0; k<N; k++) {
-                if(active_entry[k]==false) {
-                    const candidate = data[k];
-                    const candidate_domain = candidate[domain_label];
-                    
-                    if(candidate_domain!=undefined && candidate_domain!="Autres/Arbitraire"){
-                        const find_domain = candidate_domain.some((x) => neutral_str(x)==neutral_str(domain_target) );
-                        if(find_domain==true){
-                            active_entry[k] = true;
-                        }
-                    }
-                    else { // does not filter along non existing criteria
-                        active_entry[k] = true;
-                    }
-                }
-            }
-        }
-    }
-
-    return active_entry;
-}
 
 function get_string_recursive(element, out) {
     
@@ -429,34 +406,107 @@ function sort_by_place(data) {
     
 }
 
+
+
+function compute_active_entry(domain, domain_label, data) {
+
+    const N = data.length;
+    let active_entry = [];
+    for(let k=0; k<N; k++){
+        active_entry.push(0);
+    }
+    for(let k=0; k<domain.length; k++) {
+        if(domain[k].checked==true) {
+            let domain_target = domain[k].value;
+
+            for(let k=0; k<N; k++) {
+                if(active_entry[k]==false) {
+                    const candidate = data[k];
+                    const candidate_domain = candidate[domain_label];
+
+                    if(candidate_domain!=undefined && candidate_domain!="Arbitraire"){
+                        const find_domain = candidate_domain.some((x) => neutral_str(x)==neutral_str(domain_target) );
+                        if(find_domain==true){
+                            active_entry[k] = true;
+                        }
+                    }
+                    else { // does not filter along non existing criteria
+                        active_entry[k] = true;
+                    }
+                }
+            }
+        }
+    }
+
+    return active_entry;
+}
+
+function filter_active_entry_keyword(data, keyword_label, active_keywords, active_entry) {
+
+    const N = company_data['Listing'].length;
+    for(let k=0; k<N; k++) {
+        const entry = data[k];
+        const entry_keyword = entry[keyword_label];
+
+        if(active_entry[k]==1 && entry_keyword[0]!=='Arbitraire') { // Arbitraire is considered as an accept
+            const match = entry_keyword.some( (x) => active_keywords.has(x) );
+            if(match===false) {
+                active_entry[k] = 0;
+            }
+        }
+
+    }
+}
+
 function update_display(event) {
       
     const N = company_data['Listing'].length;
+    // set all active entry to 1
+    for(let k=0; k<N; k++) {
+        Global['active-entry'][k] = 1;
+    }
 
-
-
-
-    // Filter over the scientific data
-    let active_scientific = compute_active_entry(UX['filter-keyword-scientific-domain'],'Scientific-domain', company_data['Listing']);
-    let active_application = compute_active_entry(UX['filter-keyword-application-domain'], 'Application-domain', company_data['Listing']);
-
-    let active_entry = []
-
-    for(let k=0; k<active_scientific.length; k++) {
-        if(active_scientific[k] && active_application[k]) {
-            active_entry.push(1);
-        }
-        else {
-            active_entry.push(0);
+    // Create a set with all active keywords to speed-up the lookup
+    Global["active-keyword-set"]["scientific"].clear();
+    Global["active-keyword-set"]["application"].clear();
+    for(let element of UX['filter-keyword-scientific-domain']) {
+        if(element.checked===true) {
+            Global["active-keyword-set"]["scientific"].add(element.value);
         }
     }
+    for(let element of UX['filter-keyword-application-domain']) {
+        if(element.checked===true) {
+            Global["active-keyword-set"]["application"].add(element.value);
+        }
+    }
+    
+
+
+    filter_active_entry_keyword(company_data['Listing'], 'Scientific-domain', Global['active-keyword-set']['scientific'], Global['active-entry']);
+    filter_active_entry_keyword(company_data['Listing'], 'Application-domain', Global['active-keyword-set']['application'], Global['active-entry']);
+
+
+    // // Filter over the scientific data
+    // let active_scientific = compute_active_entry(UX['filter-keyword-scientific-domain'],'Scientific-domain', company_data['Listing']);
+    // let active_application = compute_active_entry(UX['filter-keyword-application-domain'], 'Application-domain', company_data['Listing']);
+
+    // let active_entry = []
+
+    // for(let k=0; k<active_scientific.length; k++) {
+    //     if(active_scientific[k] && active_application[k]) {
+    //         active_entry.push(1);
+    //     }
+    //     else {
+    //         active_entry.push(0);
+    //     }
+    // }
 
 
 
     // filter data
     let data_to_display = []
     for(let k=0; k<N; k++) {
-        if(active_entry[k]) {
+        if(Global['active-entry'][k]) {
             data_to_display.push(company_data['Listing'][k]);
         }
     }
@@ -472,19 +522,7 @@ function update_display(event) {
 
 }
 
-function answer(data) {
 
-    company_data = data;
-
-
-    build_keywords(data['Keywords']['Scientific-domain'], 'scientific-domain', UX['filter-keyword-container']['scientific-domain']);
-    build_keywords(data['Keywords']['Application-domain'], 'application-domain', UX['filter-keyword-container']['application-domain']);
-    update_display();
-
-    
-
-    
-}
 
 
 function build_sorting(container) {
@@ -583,7 +621,7 @@ function change_filter_check(event) {
 
 }
 
-function build_keywords(data, label, domain_element){
+function build_keywords(data, label){
 
     const container = document.createElement('div');
     container.classList.add('selection-'+label);
@@ -610,6 +648,8 @@ function build_keywords(data, label, domain_element){
 
         new_input.addEventListener('change', update_display);
         UX['filter-keyword-'+label].push(new_input.querySelector('input'));
+
+
     }
     selection_element.appendChild(container);
 
@@ -625,3 +665,27 @@ selection_element.appendChild(ux_right);
 build_sorting(ux_left);
 build_detail_button(ux_left);
 build_filter_keyword(ux_right);
+
+function answer(data) {
+
+    company_data = data;
+
+
+    build_keywords(data['Keywords']['Scientific-domain'], 'scientific-domain', UX['filter-keyword-container']['scientific-domain']);
+    build_keywords(data['Keywords']['Application-domain'], 'application-domain', UX['filter-keyword-container']['application-domain']);
+
+
+    Global["active-keyword-set"]["scientific"] = new Set();
+    Global["active-keyword-set"]["application"] = new Set();
+
+    // Allocate the active entry to true for all of them
+    Global['active-entry'] = [];
+    const N_company = company_data['Listing'].length;
+    for(let k=0; k<N_company; k++){
+        Global['active-entry'].push(1);
+    }
+
+
+    update_display();
+        
+}
