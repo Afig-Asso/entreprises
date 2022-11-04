@@ -87,6 +87,14 @@
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 1300
 
+- Name: Arskan
+  url: https://arskan.com/fr/
+  Description: "Streaming et compression de géométrie pour visualiser des scènes 3D sur tout type de clients."
+  Jobs: https://actu.arskan.com/nous-rejoindre
+  Place: Lyon
+  Scientific-domain: [Géométrie, Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Arbitraire]
+
 - Name: Artefacto
   url: https://altvr.com/
   Description: Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.
@@ -182,6 +190,14 @@
   Highlight: Graphics, R&D
   Employees: 20000
 
+- Name: Dynamixyz
+  url: https://www.dynamixyz.com/
+  Description: "MOCAP faciale sans marqueurs."
+  Info: "Dynamixyz a été acquis par Take-Two Interactive, mais poursuit sa R&D à Rennes."
+  Place: Rennes
+  Scientific-domain: [Animation, Acquisition]
+  Application-domain: [Jeu Vidéo]
+
 - Name: Gameloft
   Description: "Développement de jeux vidéos orientés mobile."
   url: https://www.gameloft.com/
@@ -214,6 +230,19 @@
   Jobs: https://kinetix-tech.welcomekit.co/
   Scientific-domain: [Vision, Animation, IA, Acquisition]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: Kitware
+  url: https://www.kitware.com/
+  Description: "Développement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de développement open-source."
+  Products: ParaView, VTK, 3D Slicer, ITK, CMake
+  Jobs: https://www.kitware.com/careers/
+  Place: 
+    - Country: USA
+    - Country: France
+      City: Lyon
+  Employees: 200
+  Scientific-domain: [Visualisation, Reconstruction, Simulation, Géométrie, Imagerie, Vision, IA, Analyse de données]
+  Application-domain: [Médical/Biologique, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile, Autres]
 
 - Name: "Lectra"
   url: https://www.lectra.com/fr
@@ -282,6 +311,19 @@
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
 
+- Name: Take-Two Interactive
+  url: https://www.take2games.com/
+  Description: "Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K)."
+  Jobs: https://careers.take2games.com/jobs
+  Employees: 6000
+  Place: 
+    - Country: USA
+    - Country: France
+      City: Paris
+    - International: True
+  Scientific-domain: [Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
 - Name: Technicolor Creative Studios
   Description: "Entreprise d'animation et de VFX international possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games."
   url: https://www.technicolorcreative.com/
@@ -335,10 +377,3 @@
   Employees: 20000
   Highlight: Graphics, R&D
 
-- Name: Arskan
-  url: https://arskan.com/fr/
-  Description: "Streaming et compression de géométrie pour visualiser des scènes 3D sur tout type de clients."
-  Jobs: https://actu.arskan.com/nous-rejoindre
-  Place: Lyon
-  Scientific-domain: [Géométrie, Visualisation, Web/Cloud/Big Data]
-  Application-domain: [Arbitraire]

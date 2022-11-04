@@ -149,6 +149,14 @@
   * [_Jobs_](https://careers.3ds.com/)
 
 
+* **[Dynamixyz](https://www.dynamixyz.com/)**  
+  * _MOCAP faciale sans marqueurs._
+  * **Remarque**: _Dynamixyz a été acquis par Take-Two Interactive, mais poursuit sa R&D à Rennes._
+  * **Localisation**: Rennes
+  * **Domaine scientifique**: Animation, Acquisition
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Gameloft](https://www.gameloft.com/)**  
   * _Développement de jeux vidéos orientés mobile._
   * **Localisation**: France/Paris, USA, Canada, Spain, India, International
@@ -173,6 +181,15 @@
   * **Domaine scientifique**: Vision, Animation, IA, Acquisition
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://kinetix-tech.welcomekit.co/)
+
+
+* **[Kitware](https://www.kitware.com/)**  
+  * _Développement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de développement open-source._
+  * **Localisation**: USA, France/Lyon
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique**: Visualisation, Reconstruction, Simulation, Géométrie, Imagerie, Vision, IA, Analyse de données
+  * **Domaine d'application**: Médical/Biologique, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile, Autres
+  * [_Jobs_](https://www.kitware.com/careers/)
 
 
 * **[Lectra](https://www.lectra.com/fr)**  
@@ -225,6 +242,15 @@
   * **Localisation**: Metz
   * **Domaine scientifique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Take-Two Interactive](https://www.take2games.com/)**  
+  * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K)._
+  * **Localisation**: USA, France/Paris, International
+  * **Nombres d'employés**: 6000
+  * **Domaine scientifique**: Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.take2games.com/jobs)
 
 
 * **[Technicolor Creative Studios](https://www.technicolorcreative.com/)**  

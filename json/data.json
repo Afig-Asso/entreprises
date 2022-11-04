@@ -240,6 +240,21 @@
             "Employees": 1300
         },
         {
+            "Name": "Arskan",
+            "url": "https://arskan.com/fr/",
+            "Description": "Streaming et compression de g\u00e9om\u00e9trie pour visualiser des sc\u00e8nes 3D sur tout type de clients.",
+            "Jobs": "https://actu.arskan.com/nous-rejoindre",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "G\u00e9om\u00e9trie",
+                "Visualisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Arbitraire"
+            ]
+        },
+        {
             "Name": "Artefacto",
             "url": "https://altvr.com/",
             "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
@@ -476,6 +491,20 @@
             "Employees": 20000
         },
         {
+            "Name": "Dynamixyz",
+            "url": "https://www.dynamixyz.com/",
+            "Description": "MOCAP faciale sans marqueurs.",
+            "Info": "Dynamixyz a \u00e9t\u00e9 acquis par Take-Two Interactive, mais poursuit sa R&D \u00e0 Rennes.",
+            "Place": "Rennes",
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Gameloft",
             "Description": "D\u00e9veloppement de jeux vid\u00e9os orient\u00e9s mobile.",
             "url": "https://www.gameloft.com/",
@@ -542,6 +571,39 @@
             ],
             "Application-domain": [
                 "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "Kitware",
+            "url": "https://www.kitware.com/",
+            "Description": "D\u00e9veloppement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de d\u00e9veloppement open-source.",
+            "Products": "ParaView, VTK, 3D Slicer, ITK, CMake",
+            "Jobs": "https://www.kitware.com/careers/",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "France",
+                    "City": "Lyon"
+                }
+            ],
+            "Employees": 200,
+            "Scientific-domain": [
+                "Visualisation",
+                "Reconstruction",
+                "Simulation",
+                "G\u00e9om\u00e9trie",
+                "Imagerie",
+                "Vision",
+                "IA",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Automobile/Navigation/Aviation",
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Autres"
             ]
         },
         {
@@ -679,6 +741,33 @@
             ]
         },
         {
+            "Name": "Take-Two Interactive",
+            "url": "https://www.take2games.com/",
+            "Description": "D\u00e9veloppement de jeux vid\u00e9o, et d\u00e9tenant d'autres entreprises (Rockstar, 2K).",
+            "Jobs": "https://careers.take2games.com/jobs",
+            "Employees": 6000,
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Technicolor Creative Studios",
             "Description": "Entreprise d'animation et de VFX international poss\u00e9dant les studios MPC, The Mill, Mikros Animation, et Technocolor Games.",
             "url": "https://www.technicolorcreative.com/",
@@ -803,21 +892,6 @@
             ],
             "Employees": 20000,
             "Highlight": "Graphics, R&D"
-        },
-        {
-            "Name": "Arskan",
-            "url": "https://arskan.com/fr/",
-            "Description": "Streaming et compression de g\u00e9om\u00e9trie pour visualiser des sc\u00e8nes 3D sur tout type de clients.",
-            "Jobs": "https://actu.arskan.com/nous-rejoindre",
-            "Place": "Lyon",
-            "Scientific-domain": [
-                "G\u00e9om\u00e9trie",
-                "Visualisation",
-                "Web/Cloud/Big Data"
-            ],
-            "Application-domain": [
-                "Arbitraire"
-            ]
         }
     ]
 }
