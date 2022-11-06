@@ -5,8 +5,8 @@
   - Envoyez un email à contact[at]asso-afig.fr avec vos informations
   - Ou faites un push-request sur le dépot.
 ## Utilisation de la base en locale 
-  - **data.yaml**: Base de données des entreprises 
-  - **keywords.yaml**: Mots clés 
+  - `data.yaml`: Base de données des entreprises 
+  - `keywords.yaml`: Mots clés 
 
 ### Générer un site après modification: 
 > python scripts/generate.py 
@@ -15,9 +15,11 @@ Génère les fichiers suivants:
 - README.md: Vue des entreprises au format markdown pour github. 
 - json/data.json: Base de donnée accessible pour générer des pages web dynamique. 
 ### Arguments 
-> generate.py [-c] [-C] 
->   -c --checkValidity: Check coherence of keyword and accessibility of URLs. Do not exit if errors are detected (see -C for this). 
->   -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs. Quit if errors are detected. 
+```bash
+generate.py [-c] [-C] 
+  -c --checkValidity: Check coherence of keyword and accessibility of URLs. Do not exit if errors are detected (see -C for this). 
+  -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs. Quit if errors are detected. 
+```
 ### Site web: 
 Le répertoire site/ contient un example de page web dynamique chargée dynamiquement depuis le fichier json présent sur github.
 ### Action push sur github: 
