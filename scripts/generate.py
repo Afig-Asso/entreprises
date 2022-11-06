@@ -129,7 +129,7 @@ def prettyMD_company(data):
     out += liblisting.display_optional(product, pre='* **Produits**: ')
     out += liblisting.display_optional(place, pre='* **Localisation**: ')
     out += liblisting.display_optional(employees, pre='* **Nombres d\'employés**: ')
-    out += liblisting.display_optional(domaines_scientifiques, pre='* **Domaine scientifique**: ')
+    out += liblisting.display_optional(domaines_scientifiques, pre='* **Domaine scientifique/technique**: ')
     out += liblisting.display_optional(domaines_applications, pre='* **Domaine d\'application**: ')
     out += liblisting.display_optional(jobs_url, pre='* [_Jobs_](',post=')')
     out += '\n\n'
@@ -146,7 +146,24 @@ def prettyMD(data):
     out += '## Compléter/Modifier les informations \n'
     out += '  - Envoyez un email à contact[at]asso-afig.fr avec vos informations\n' 
     out += '  - Ou faites un push-request sur le dépot.\n'
-    
+    out += '## Utilisation de la base en locale \n'
+    out += '  - **data.yaml**: Base de données des entreprises \n'
+    out += '  - **keywords.yaml**: Mots clés \n\n'
+    out += '### Générer un site après modification: \n'
+    out += '> python scripts/generate.py \n\n'
+    out += 'Génère les fichiers suivants: \n'
+    out += '- README.md: Vue des entreprises au format markdown pour github. \n'
+    out += '- json/data.json: Base de donnée accessible pour générer des pages web dynamique. \n'
+    out += '### Arguments \n'
+    out += '> generate.py [-c] [-C] \n'
+    out += '>   -c --checkValidity: Check coherence of keyword and accessibility of URLs. Do not exit if errors are detected (see -C for this). \n'
+    out += '>   -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs. Quit if errors are detected. \n'
+    out += '### Site web: \n'
+    out += 'Le répertoire site/ contient un example de page web dynamique chargée dynamiquement depuis le fichier json présent sur github.\n'
+    out += '### Action push sur github: \n'
+    out += 'Après un push sur github, les éléments suivants sont mis à jours:\n'
+    out += '- La nouvelle base est vérifiée localement avec `python generate.py -C`\n'
+    out += '- Le contenu de site/ est déployé sur une page github.io: https://afig-asso.github.io/entreprises/\n'
     out += '\n\n'
 
 

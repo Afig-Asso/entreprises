@@ -1170,6 +1170,9 @@
             "url": "https://www.nvidia.com/",
             "Place": [
                 {
+                    "Country": "USA"
+                },
+                {
                     "International": true
                 }
             ],
@@ -1248,7 +1251,7 @@
                     "City": "Mountain View"
                 },
                 {
-                    "Internationa": true
+                    "International": true
                 }
             ],
             "Scientific-domain": [
