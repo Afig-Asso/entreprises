@@ -505,6 +505,7 @@
   Info: "NVidia Research est présent partout dans le monde, dont en France."
   url: https://www.nvidia.com/
   Place: 
+    - Country: USA
     - International: True
   Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
   Application-domain: [Générique]
@@ -540,7 +541,7 @@
   Place: 
     - Country: USA
       City: Mountain View
-    - Internationa: True
+    - International: True
   Scientific-domain: [Web/Cloud/Big Data, IA, Vision, Autres]
   Application-domain: [Générique]
   Employees: 140000
@@ -566,3 +567,4 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Design/Fabrication, VR/AR, IA, Autres]
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
   Employees: 220000
+

@@ -2,6 +2,7 @@ import os, sys
 import yaml # pip3 install pyyaml
 import urllib.request, urllib.error
 import tqdm
+from joblib import Parallel, delayed # pip3 install joblib
 
 
 def yaml_read_file(pathname):
@@ -61,24 +62,11 @@ def is_url_valid(url):
     else:
         return True
 
-def run_parallel(functions):
-    '''
-    Run functions in parallel
-    '''
-    from multiprocessing import Process
-    processes = []
-    print("Hello: ",functions)
-    for function in functions:
-        proc = Process(target=function)
-        proc.start()
-        processes.append(proc)
-    for proc in processes:
-        proc.join()
+
 
 
 def check_urls(urls, exitOnError=False, exceptions={}):
     success = True
-    from joblib import Parallel, delayed
     results = Parallel(n_jobs=20)(delayed(is_url_valid)(url) for url in urls if url not in exceptions)
 
     if exitOnError==True and not all(results):

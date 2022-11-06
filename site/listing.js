@@ -671,6 +671,9 @@ build_filter_keyword(ux_right);
 
 function answer(data) {
 
+    
+    // sort data by alphabetic order
+    data['Listing'].sort(function(a,b){let x=a['Name']; let y=b['Name']; return ((x < y) ? -1 : ((x > y) ? 1 : 0));});
     company_data = data;
 
 
