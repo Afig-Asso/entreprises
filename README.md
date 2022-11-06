@@ -50,7 +50,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 
 * **[AMD](https://www.amd.com/)**  
-  * _Développement de processeurs et cartes graphiques - développement materiel et logiciel. _
+  * _Développement de processeurs et cartes graphiques: développement matériel et logiciel. _
   * **Localisation**: USA, International
   * **Nombres d'employés**: 16000
   * **Domaine scientifique/technique**: Hardware, Synthèse d'image, IA, Web/Cloud/Big Data, Visualisation, Autres
