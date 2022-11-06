@@ -9,16 +9,20 @@
   - `keywords.yaml`: Mots clés 
 
 ### Générer un site après modification: 
-> python scripts/generate.py 
+```
+python scripts/generate.py 
 
+```
 Génère les fichiers suivants: 
 - README.md: Vue des entreprises au format markdown pour github. 
 - json/data.json: Base de donnée accessible pour générer des pages web dynamique. 
 ### Arguments 
-```bash
+```
 generate.py [-c] [-C] 
-  -c --checkValidity: Check coherence of keyword and accessibility of URLs. Do not exit if errors are detected (see -C for this). 
-  -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs. Quit if errors are detected. 
+  -c --checkValidity: Check coherence of keyword and accessibility of URLs.
+        Do not exit if errors are detected (see -C for this). 
+  -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs.
+        Quit if errors are detected.
 ```
 ### Site web: 
 Le répertoire site/ contient un example de page web dynamique chargée dynamiquement depuis le fichier json présent sur github.
