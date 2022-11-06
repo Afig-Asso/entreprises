@@ -36,7 +36,7 @@ def get_all_urls(data):
 
 def is_url_valid(url):
     try:
-        url_open = urllib.request.urlopen(url)
+        url_open = urllib.request.urlopen(url, timeout=25)
     except urllib.error.HTTPError as e:
         if e.code==403: # server that doesn't allow non browser request
             return True
@@ -53,17 +53,35 @@ def is_url_valid(url):
         print(f'\n\nWarning: URL seems wrong: {url}')
         print('Reason: ', e.reason)
         return False
+    except Exception as e:
+        print(f'\n\nWarning: URL check failed for: {url}')
+        print(e.args)
+        print()
+        return False
     else:
         return True
 
-def check_urls(urls, exitOnError=False):
-    success = True
-    for url in tqdm.tqdm(urls):
-        ret = is_url_valid(url)
-        if ret!=True:
-            success=False
+def run_parallel(functions):
+    '''
+    Run functions in parallel
+    '''
+    from multiprocessing import Process
+    processes = []
+    print("Hello: ",functions)
+    for function in functions:
+        proc = Process(target=function)
+        proc.start()
+        processes.append(proc)
+    for proc in processes:
+        proc.join()
 
-    if exitOnError==True and success==False:
+
+def check_urls(urls, exitOnError=False, exceptions={}):
+    success = True
+    from joblib import Parallel, delayed
+    results = Parallel(n_jobs=20)(delayed(is_url_valid)(url) for url in urls if url not in exceptions)
+
+    if exitOnError==True and not all(results):
         print("Exit due to Error")
         exit(1)
 

@@ -485,3 +485,84 @@
     - Country: UK
   Scientific-domain: [Modélisation, Animation, Simulation, IA, Analyse de données]
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile]
+
+- Name: The Foundry
+  Description: "Développement de logiciels pour la création 3D et VFX"
+  url: https://www.foundry.com/
+  Products: 
+    - Name: Nuke
+      url: https://www.foundry.com/products/nuke-family
+    - Name: Modo
+      url: https://www.foundry.com/products/modo
+  Jobs: https://apply.workable.com/foundry/
+  Place: 
+    - Country: [UK, USA, Australia]
+  Scientific-domain: [Synthèse d'image, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: NVidia
+  Description: "Développement de cartes graphiques materiel et logiciel"
+  Info: "NVidia Research est présent partout dans le monde, dont en France."
+  url: https://www.nvidia.com/
+  Place: 
+    - International: True
+  Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
+  Application-domain: [Générique]
+  Employees: 13000
+
+- Name: AMD
+  Description: "Développement de processeurs et cartes graphiques - développement materiel et logiciel. "
+  url: https://www.amd.com/
+  Jobs: https://www.amd.com/en/corporate/careers
+  Place: 
+    - Country: USA
+    - International: True
+  Scientific-domain: [Hardware, Synthèse d'image, IA, Web/Cloud/Big Data, Visualisation, Autres]
+  Application-domain: [Générique]
+  Employees: 16000
+
+- Name: Microsoft
+  Info: <a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique.
+  url: https://www.microsoft.com/
+  Jobs: https://www.amd.com/en/corporate/careers
+  Place: 
+    - Country: USA
+      City: Redmond
+    - International: True
+  Scientific-domain: [Web/Cloud/Big Data, IA, Synthèse d'image, Autres]
+  Application-domain: [Générique]
+  Employees: 180000
+
+- Name: Google
+  url: https://about.google/
+  Jobs: https://careers.google.com/
+  Info: "<a href=\"https://ai.google/\">Google AI</a> est une entité de recherche développant des projets en graphique"
+  Place: 
+    - Country: USA
+      City: Mountain View
+    - Internationa: True
+  Scientific-domain: [Web/Cloud/Big Data, IA, Vision, Autres]
+  Application-domain: [Générique]
+  Employees: 140000
+
+- Name: Apple
+  url: https://www.apple.com/
+  Jobs: https://jobs.apple.com
+  Place:
+    - Country: USA
+      City: Cupertino
+    - International: True
+  Scientific-domain: [Web/Cloud/Big Data, IA, Autres]
+  Application-domain: [Générique]
+  Employees: 160000
+
+- Name: Disney
+  Info: "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique."
+  url: https://www.disneystudios.com/
+  Jobs: https://jobs.disneycareers.com/
+  Place:
+    - Country: USA
+    - International: True
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Design/Fabrication, VR/AR, IA, Autres]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
+  Employees: 220000

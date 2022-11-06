@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="question-mark-clicked.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.0058594"
+     inkscape:cx="505.51899"
+     inkscape:cy="257.24635"
+     inkscape:window-width="3472"
+     inkscape:window-height="1418"
+     inkscape:window-x="54"
+     inkscape:window-y="313"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     style="fill:#cccccc"
+     d="M 256,464 C 141.3,464 48,370.69 48,256 48,141.31 141.3,48 256,48 c 114.7,0 208,93.31 208,208 0,114.69 -93.3,208 -208,208 z"
+     id="path2409" />
+  <path
+     style="fill:#000080"
+     d="M 256,0 C 114.6,0 0,114.6 0,256 0,397.4 114.6,512 256,512 397.4,512 512,397.4 512,256 512,114.6 397.4,0 256,0 Z"
+     id="path2" />
+  <circle
+     style="fill:#000080;stroke:#000080;stroke-width:1.75748"
+     id="path2405"
+     cx="254.75366"
+     cy="253.75658"
+     r="223.84421" />
+  <!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+  <path
+     style="fill:#ffffff"
+     d="M 289.1,128 H 238 c -39,0 -70,31 -70,70 0,13 11,24 24,24 13,0 24,-11 24,-24 0,-12 9.1,-22 21.1,-22 h 51.1 c 12.9,0 23.8,10 23.8,22 0,8 -4,14.1 -11,18.1 L 244,251 c -8,5 -12,13 -12,21 v 16 c 0,13 11,24 24,24 13,0 24,-11 24,-24 v -2 l 45.1,-28 c 21,-13 34,-36 34,-60 0.9,-39 -30.1,-70 -70,-70 z"
+     id="path2413" />
+  <path
+     style="fill:#cccccc"
+     d="m 256,336 c -18,0 -32,14 -32,32 0,18 13.1,32 32,32 17.1,0 32,-14 32,-32 0,-18 -14.9,-32 -32,-32 z"
+     id="path2411" />
+</svg>

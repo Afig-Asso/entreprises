@@ -97,3 +97,17 @@ h2.title-place {
 .keyword-checkbox-element {
     margin-left: 0em;
 }
+
+label .question-mark {
+    content:url(assets/question-mark.svg);
+    width: 0.8em;
+    height: 0.8em;
+}
+label:hover .question-mark {
+    content:url(assets/question-mark-clicked.svg);
+    width: 0.8em;
+    height: 0.8em;
+}
+label:hover {
+    color: blue;
+}

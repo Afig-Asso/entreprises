@@ -23,6 +23,15 @@
   * [_Jobs_](https://www.2d3d-animations.com/emploi/)
 
 
+* **[AMD](https://www.amd.com/)**  
+  * _Développement de processeurs et cartes graphiques - développement materiel et logiciel. _
+  * **Localisation**: USA, International
+  * **Nombres d'employés**: 16000
+  * **Domaine scientifique**: Hardware, Synthèse d'image, IA, Web/Cloud/Big Data, Visualisation, Autres
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.amd.com/en/corporate/careers)
+
+
 * **[Adobe](https://www.adobe.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Dévelopement d'outils créatifs_
   * **Remarque**: _Centre de recherche à Paris_
@@ -62,6 +71,14 @@
   * **Nombres d'employés**: 1300
   * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Apple](https://www.apple.com/)**  
+  * **Localisation**: USA/Cupertino, International
+  * **Nombres d'employés**: 160000
+  * **Domaine scientifique**: Web/Cloud/Big Data, IA, Autres
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://jobs.apple.com)
 
 
 * **[Arskan](https://arskan.com/fr/)**  
@@ -158,6 +175,15 @@
   * [_Jobs_](https://careers.3ds.com/)
 
 
+* **[Disney](https://www.disneystudios.com/)**  
+  * **Remarque**: _<a href="https://studios.disneyresearch.com/">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique._
+  * **Localisation**: USA, International
+  * **Nombres d'employés**: 220000
+  * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Visualisation, Design/Fabrication, VR/AR, IA, Autres
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes
+  * [_Jobs_](https://jobs.disneycareers.com/)
+
+
 * **[Dynamixyz](https://www.dynamixyz.com/)**  
   * _MOCAP faciale sans marqueurs._
   * **Remarque**: _Dynamixyz a été acquis par Take-Two Interactive, mais poursuit sa R&D à Rennes._
@@ -191,6 +217,15 @@
   * **Domaine scientifique**: Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
+
+
+* **[Google](https://about.google/)**  
+  * **Remarque**: _<a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique_
+  * **Localisation**: USA/Mountain View
+  * **Nombres d'employés**: 140000
+  * **Domaine scientifique**: Web/Cloud/Big Data, IA, Vision, Autres
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://careers.google.com/)
 
 
 * **[Illumination MacGuff](https://www.macguff.com/)**  
@@ -235,6 +270,15 @@
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Microsoft](https://www.microsoft.com/)**  
+  * **Remarque**: _<a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique._
+  * **Localisation**: USA/Redmond, International
+  * **Nombres d'employés**: 180000
+  * **Domaine scientifique**: Web/Cloud/Big Data, IA, Synthèse d'image, Autres
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.amd.com/en/corporate/careers)
+
+
 * **[MocapLab](https://www.mocaplab.com/)**  
   * _Studio et R&amp;D pour la capture de mouvement._
   * **Localisation**: Paris (Aubervilliers)
@@ -247,6 +291,15 @@
   * **Localisation**: Paris
   * **Domaine scientifique**: Acquisition, Reconstruction, Géométrie, Vision, Modélisation
   * **Domaine d'application**: Mode/Vêtements/Accessoires
+
+
+* **[NVidia](https://www.nvidia.com/)**  
+  * _Développement de cartes graphiques materiel et logiciel_
+  * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
+  * **Localisation**: International
+  * **Nombres d'employés**: 13000
+  * **Domaine scientifique**: Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation
+  * **Domaine d'application**: Générique
 
 
 * **[Pixel Wizards](https://pixel-wizards.com/)**  
@@ -329,6 +382,14 @@
   * **Domaine scientifique**: Reconstruction, Vision, Imagerie
   * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation
   * [_Jobs_](https://www.thalesgroup.com/fr/candidat)
+
+
+* **[The Foundry](https://www.foundry.com/)**  
+  * _Développement de logiciels pour la création 3D et VFX_
+  * **Localisation**: UK, USA, Australia
+  * **Domaine scientifique**: Synthèse d'image, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://apply.workable.com/foundry/)
 
 
 * **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_

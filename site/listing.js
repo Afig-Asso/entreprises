@@ -467,9 +467,6 @@ function filter_active_entry_keyword(data, keyword_label, active_keywords, activ
 
 function update_display(event) {
 
-    if(event!=undefined){
-    console.log(event.currentTarget);
-    }
       
     const N = company_data['Listing'].length;
     // set all active entry to 1
@@ -626,18 +623,28 @@ function build_keywords(data, label){
     for(let data_keyword of data){
         
         let keyword = data_keyword;
+        let explanation = undefined;
         if(is_type_string(data_keyword)==false && is_type_array(Object.keys(data_keyword))) {
             keyword = Object.keys(data_keyword)[0];
+            explanation = data_keyword[keyword];
         }
-        
         let id = keyword.replace(/[^A-Z0-9]/ig, "_");
+
+        let content_checkbox = undefined;
+        if(explanation!=undefined) {
+            content_checkbox = `<span title="${explanation}">${keyword}</span> <img for="display-${label}-${id}" title="${explanation}" class="question-mark">`;
+        }
+        else {
+            content_checkbox = `<span>${keyword}</span>`;
+        }
     
         const new_input = document.createElement('div');
         new_input.classList.add(label+'-entry');
         new_input.innerHTML = `
         <input type="checkbox" class="keyword-checkbox-element" id="display-${label}-${id}" name="${label}" value="${keyword}" checked>
-        <label for="display-${label}-${id}">${keyword}</label>
+        <label for="display-${label}-${id}"> ${content_checkbox} </label>
         `;
+
         container.appendChild(new_input);
 
         UX['filter-keyword-container'][label].appendChild(new_input);

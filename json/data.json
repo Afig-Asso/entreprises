@@ -1130,6 +1130,190 @@
                 "Automobile/Navigation/Aviation",
                 "M\u00e9canique/Ing\u00e9nierie civile"
             ]
+        },
+        {
+            "Name": "The Foundry",
+            "Description": "D\u00e9veloppement de logiciels pour la cr\u00e9ation 3D et VFX",
+            "url": "https://www.foundry.com/",
+            "Products": [
+                {
+                    "Name": "Nuke",
+                    "url": "https://www.foundry.com/products/nuke-family"
+                },
+                {
+                    "Name": "Modo",
+                    "url": "https://www.foundry.com/products/modo"
+                }
+            ],
+            "Jobs": "https://apply.workable.com/foundry/",
+            "Place": [
+                {
+                    "Country": [
+                        "UK",
+                        "USA",
+                        "Australia"
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "NVidia",
+            "Description": "D\u00e9veloppement de cartes graphiques materiel et logiciel",
+            "Info": "NVidia Research est pr\u00e9sent partout dans le monde, dont en France.",
+            "url": "https://www.nvidia.com/",
+            "Place": [
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "IA",
+                "Hardware",
+                "Simulation",
+                "Web/Cloud/Big Data",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 13000
+        },
+        {
+            "Name": "AMD",
+            "Description": "D\u00e9veloppement de processeurs et cartes graphiques - d\u00e9veloppement materiel et logiciel. ",
+            "url": "https://www.amd.com/",
+            "Jobs": "https://www.amd.com/en/corporate/careers",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Synth\u00e8se d'image",
+                "IA",
+                "Web/Cloud/Big Data",
+                "Visualisation",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 16000
+        },
+        {
+            "Name": "Microsoft",
+            "Info": "<a href=\\\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\\\">Microsoft research</a> est active en informatique graphique.",
+            "url": "https://www.microsoft.com/",
+            "Jobs": "https://www.amd.com/en/corporate/careers",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Redmond"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data",
+                "IA",
+                "Synth\u00e8se d'image",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 180000
+        },
+        {
+            "Name": "Google",
+            "url": "https://about.google/",
+            "Jobs": "https://careers.google.com/",
+            "Info": "<a href=\"https://ai.google/\">Google AI</a> est une entit\u00e9 de recherche d\u00e9veloppant des projets en graphique",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Mountain View"
+                },
+                {
+                    "Internationa": true
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data",
+                "IA",
+                "Vision",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 140000
+        },
+        {
+            "Name": "Apple",
+            "url": "https://www.apple.com/",
+            "Jobs": "https://jobs.apple.com",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Cupertino"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data",
+                "IA",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 160000
+        },
+        {
+            "Name": "Disney",
+            "Info": "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implant\u00e9 \u00e0 Zurich est l'un des plus gros centre de R&amp;D en graphique.",
+            "url": "https://www.disneystudios.com/",
+            "Jobs": "https://jobs.disneycareers.com/",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Visualisation",
+                "Design/Fabrication",
+                "VR/AR",
+                "IA",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 220000
         }
     ]
 }

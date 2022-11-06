@@ -211,6 +211,7 @@ def check_keywords(data_keywords, data, exitOnError=False):
 
 
 
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Generate Listing')
@@ -238,7 +239,8 @@ if __name__ == "__main__":
 
         print('Check URLs ...')
         urls = liblisting.get_all_urls(data)
-        liblisting.check_urls(urls, exitOnError=exit_on_failure)
+        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/'}
+        liblisting.check_urls(urls, exitOnError=exit_on_failure, exceptions=exceptions)
         print('Check URLs done\n')
 
     # export json
