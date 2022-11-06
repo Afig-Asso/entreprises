@@ -31,6 +31,17 @@
   Scientific-domain: [Modélisation, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: AMD
+  Description: "Développement de processeurs et cartes graphiques - développement materiel et logiciel. "
+  url: https://www.amd.com/
+  Jobs: https://www.amd.com/en/corporate/careers
+  Place: 
+    - Country: USA
+    - International: True
+  Scientific-domain: [Hardware, Synthèse d'image, IA, Web/Cloud/Big Data, Visualisation, Autres]
+  Application-domain: [Générique]
+  Employees: 16000
+
 - Name: "Adobe"
   url: https://www.adobe.com/fr/
   Description: Dévelopement d'outils créatifs
@@ -86,6 +97,17 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 1300
+
+- Name: Apple
+  url: https://www.apple.com/
+  Jobs: https://jobs.apple.com
+  Place:
+    - Country: USA
+      City: Cupertino
+    - International: True
+  Scientific-domain: [Web/Cloud/Big Data, IA, Autres]
+  Application-domain: [Générique]
+  Employees: 160000
 
 - Name: Arskan
   url: https://arskan.com/fr/
@@ -166,6 +188,19 @@
   Scientific-domain: [VR/AR, Modélisation, Web/Cloud/Big Data]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
 
+- Name: CLO Virtual Fashion
+  url: https://www.clo3d.com/en/
+  Product: Marvelous Designer, Clo3D
+  Description: "Logiciel de simulation de vêtements virtuels"
+  Jobs: https://jobs.lever.co/clovirtualfashion
+  Place:
+    - Country: Korea
+    - Country: USA
+    - International: True
+  Scientific-domain: [Modélisation, Animation, Simulation, Design/Fabrication]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires]
+
+
 - Name: Christie
   url: https://www.christiedigital.com/en-gb
   Description: Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
@@ -190,6 +225,17 @@
   Highlight: Graphics, R&D
   Employees: 20000
 
+- Name: Disney
+  Info: "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique."
+  url: https://www.disneystudios.com/
+  Jobs: https://jobs.disneycareers.com/
+  Place:
+    - Country: USA
+    - International: True
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Design/Fabrication, VR/AR, IA, Autres]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
+  Employees: 220000
+
 - Name: Dynamixyz
   url: https://www.dynamixyz.com/
   Description: "MOCAP faciale sans marqueurs."
@@ -197,6 +243,32 @@
   Place: Rennes
   Scientific-domain: [Animation, Acquisition]
   Application-domain: [Jeu Vidéo]
+
+- Name: ESI
+  url: https://www.esi-group.com/
+  Description: "Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie"
+  Jobs: https://www.esi-group.com/join-us
+  Employees: 1000
+  Place: 
+    - Country: France
+      City: [Paris, Lyon, Bordeaux]
+    - International: True
+  Scientific-domain: [Modélisation, Simulation]
+  Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile]
+
+- Name: Epic Games
+  url: https://www.epicgames.com/site/en-US/home
+  Description: "Développeur de jeu et du moteur 3D Unreal Engine"
+  Products: 
+    - Name: Unreal Engine
+      url: https://www.unrealengine.com/
+  Jobs: https://www.epicgames.com/site/en-US/careers/jobs
+  Employees: 2000
+  Place: 
+    - Country: USA
+    - International: True
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
 
 - Name: Gameloft
   Description: "Développement de jeux vidéos orientés mobile."
@@ -213,6 +285,18 @@
   Employees: 3600
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
+
+- Name: Google
+  url: https://about.google/
+  Jobs: https://careers.google.com/
+  Info: "<a href=\"https://ai.google/\">Google AI</a> est une entité de recherche développant des projets en graphique"
+  Place: 
+    - Country: USA
+      City: Mountain View
+    - International: True
+  Scientific-domain: [Web/Cloud/Big Data, IA, Vision, Autres]
+  Application-domain: [Générique]
+  Employees: 140000
 
 - Name: Illumination MacGuff
   url: https://www.macguff.com/
@@ -267,6 +351,18 @@
   Scientific-domain: [Synthèse d'image, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Microsoft
+  Info: <a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique.
+  url: https://www.microsoft.com/
+  Jobs: https://www.amd.com/en/corporate/careers
+  Place: 
+    - Country: USA
+      City: Redmond
+    - International: True
+  Scientific-domain: [Web/Cloud/Big Data, IA, Synthèse d'image, Autres]
+  Application-domain: [Générique]
+  Employees: 180000
+
 - Name: MocapLab
   url: https://www.mocaplab.com/
   Description: "Studio et R&amp;D pour la capture de mouvement."
@@ -283,6 +379,41 @@
   Scientific-domain: [Acquisition, Reconstruction, Géométrie, Vision, Modélisation]
   Application-domain: [Mode/Vêtements/Accessoires]
 
+
+- Name: NVidia
+  Description: "Développement de cartes graphiques materiel et logiciel"
+  Info: "NVidia Research est présent partout dans le monde, dont en France."
+  url: https://www.nvidia.com/
+  Place: 
+    - Country: USA
+    - International: True
+  Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
+  Application-domain: [Générique]
+  Employees: 13000
+
+- Name: Pixel Wizards
+  Description: "Studio de jeu vidéos indie, jeux en tours par tours"
+  url: https://pixel-wizards.com/
+  Place: Paris
+  Jobs: https://pixel-wizards.com/jobs/
+  Scientific-domain: [Modélisation, Animation, IA]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Presagis
+  Description: "Simulation d'environment dynamique pour la prédiction à large échelle (infrastructure, défense, désastre, etc)"
+  url: https://www.presagis.com/en/
+  Jobs: https://cae.wd3.myworkdayjobs.com/Presagis/jobs
+  Place: 
+    - Country: Canada
+      City: Montréal
+    - Country: USA
+      City: Orlando
+    - Country: France
+      City: Paris
+    - Country: Italy
+    - Country: UK
+  Scientific-domain: [Modélisation, Animation, Simulation, IA, Analyse de données]
+  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile]
 
 - Name: "Qarnot Computing"
   url: https://qarnot.com/
@@ -302,6 +433,25 @@
       State: Colorado
   Scientific-domain: [Acquisition, Imagerie, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel, Sécurité/Défense]
+
+- Name: SideFX
+  url: https://www.sidefx.com/
+  Product: Houdini
+  Description: "Développement du logiciel de VFX Houdini - Modélisation et Animation procédurale, simulation."
+  Jobs: https://www.sidefx.com/careers/
+  Place: 
+    - Country: Canada
+      City: Toronto
+  Scientific-domain: [Modélisation, Animation, Simulation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: SpirOPS
+  url: https://www.spirops.com/
+  Description: "Approches d'IA pour l'industrie et le loisir: foule virtuelles, véhicules autonomes, assistants"
+  Jobs: https://www.spirops.com/jobs.php?lg=en
+  Place: Paris
+  Scientific-domain: [IA, Animation, Simulation]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo]
 
 - Name: TVPaint
   url: https://www.tvpaint.com/
@@ -357,6 +507,20 @@
   Highlight: R&D
 
 
+- Name: The Foundry
+  Description: "Développement de logiciels pour la création 3D et VFX"
+  url: https://www.foundry.com/
+  Products: 
+    - Name: Nuke
+      url: https://www.foundry.com/products/nuke-family
+    - Name: Modo
+      url: https://www.foundry.com/products/modo
+  Jobs: https://apply.workable.com/foundry/
+  Place: 
+    - Country: [UK, USA, Australia]
+  Scientific-domain: [Synthèse d'image, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: Ubisoft
   Description: "Développeur de jeux vidéo Français, possédant de nombreux studios à l'international"
   Info: "Ubisoft a créé une entité de recherche à Bordeaux appelée \"La Forge\" à l'image de celle existante à Montréal."
@@ -378,30 +542,6 @@
   Employees: 20000
   Highlight: Graphics, R&D
 
-- Name: CLO Virtual Fashion
-  url: https://www.clo3d.com/en/
-  Product: Marvelous Designer, Clo3D
-  Description: "Logiciel de simulation de vêtements virtuels"
-  Jobs: https://jobs.lever.co/clovirtualfashion
-  Place:
-    - Country: Korea
-    - Country: USA
-    - International: True
-  Scientific-domain: [Modélisation, Animation, Simulation, Design/Fabrication]
-  Application-domain: [Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires]
-
-
-- Name: SideFX
-  url: https://www.sidefx.com/
-  Product: Houdini
-  Description: "Développement du logiciel de VFX Houdini - Modélisation et Animation procédurale, simulation."
-  Jobs: https://www.sidefx.com/careers/
-  Place: 
-    - Country: Canada
-      City: Toronto
-  Scientific-domain: [Modélisation, Animation, Simulation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
 - Name: Unity Technologies
   url: https://unity.com/
   Description: "Développement du moteur de jeu Unity"
@@ -417,40 +557,6 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
 
-- Name: Epic Games
-  url: https://www.epicgames.com/site/en-US/home
-  Description: "Développeur de jeu et du moteur 3D Unreal Engine"
-  Products: 
-    - Name: Unreal Engine
-      url: https://www.unrealengine.com/
-  Jobs: https://www.epicgames.com/site/en-US/careers/jobs
-  Employees: 2000
-  Place: 
-    - Country: USA
-    - International: True
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
-  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
-
-- Name: ESI
-  url: https://www.esi-group.com/
-  Description: "Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie"
-  Jobs: https://www.esi-group.com/join-us
-  Employees: 1000
-  Place: 
-    - Country: France
-      City: [Paris, Lyon, Bordeaux]
-    - International: True
-  Scientific-domain: [Modélisation, Simulation]
-  Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile]
-
-- Name: SpirOPS
-  url: https://www.spirops.com/
-  Description: "Approches d'IA pour l'industrie et le loisir: foule virtuelles, véhicules autonomes, assistants"
-  Jobs: https://www.spirops.com/jobs.php?lg=en
-  Place: Paris
-  Scientific-domain: [IA, Animation, Simulation]
-  Application-domain: [Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo]
-
 - Name: YellowScan
   url: https://www.yellowscan-lidar.com/
   Description: "Scan LiDAR pour application industrielles"
@@ -461,110 +567,4 @@
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
-
-- Name: Pixel Wizards
-  Description: "Studio de jeu vidéos indie, jeux en tours par tours"
-  url: https://pixel-wizards.com/
-  Place: Paris
-  Jobs: https://pixel-wizards.com/jobs/
-  Scientific-domain: [Modélisation, Animation, IA]
-  Application-domain: [Jeu Vidéo]
-
-- Name: Presagis
-  Description: "Simulation d'environment dynamique pour la prédiction à large échelle (infrastructure, défense, désastre, etc)"
-  url: https://www.presagis.com/en/
-  Jobs: https://cae.wd3.myworkdayjobs.com/Presagis/jobs
-  Place: 
-    - Country: Canada
-      City: Montréal
-    - Country: USA
-      City: Orlando
-    - Country: France
-      City: Paris
-    - Country: Italy
-    - Country: UK
-  Scientific-domain: [Modélisation, Animation, Simulation, IA, Analyse de données]
-  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile]
-
-- Name: The Foundry
-  Description: "Développement de logiciels pour la création 3D et VFX"
-  url: https://www.foundry.com/
-  Products: 
-    - Name: Nuke
-      url: https://www.foundry.com/products/nuke-family
-    - Name: Modo
-      url: https://www.foundry.com/products/modo
-  Jobs: https://apply.workable.com/foundry/
-  Place: 
-    - Country: [UK, USA, Australia]
-  Scientific-domain: [Synthèse d'image, Modélisation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: NVidia
-  Description: "Développement de cartes graphiques materiel et logiciel"
-  Info: "NVidia Research est présent partout dans le monde, dont en France."
-  url: https://www.nvidia.com/
-  Place: 
-    - Country: USA
-    - International: True
-  Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
-  Application-domain: [Générique]
-  Employees: 13000
-
-- Name: AMD
-  Description: "Développement de processeurs et cartes graphiques - développement materiel et logiciel. "
-  url: https://www.amd.com/
-  Jobs: https://www.amd.com/en/corporate/careers
-  Place: 
-    - Country: USA
-    - International: True
-  Scientific-domain: [Hardware, Synthèse d'image, IA, Web/Cloud/Big Data, Visualisation, Autres]
-  Application-domain: [Générique]
-  Employees: 16000
-
-- Name: Microsoft
-  Info: <a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique.
-  url: https://www.microsoft.com/
-  Jobs: https://www.amd.com/en/corporate/careers
-  Place: 
-    - Country: USA
-      City: Redmond
-    - International: True
-  Scientific-domain: [Web/Cloud/Big Data, IA, Synthèse d'image, Autres]
-  Application-domain: [Générique]
-  Employees: 180000
-
-- Name: Google
-  url: https://about.google/
-  Jobs: https://careers.google.com/
-  Info: "<a href=\"https://ai.google/\">Google AI</a> est une entité de recherche développant des projets en graphique"
-  Place: 
-    - Country: USA
-      City: Mountain View
-    - International: True
-  Scientific-domain: [Web/Cloud/Big Data, IA, Vision, Autres]
-  Application-domain: [Générique]
-  Employees: 140000
-
-- Name: Apple
-  url: https://www.apple.com/
-  Jobs: https://jobs.apple.com
-  Place:
-    - Country: USA
-      City: Cupertino
-    - International: True
-  Scientific-domain: [Web/Cloud/Big Data, IA, Autres]
-  Application-domain: [Générique]
-  Employees: 160000
-
-- Name: Disney
-  Info: "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique."
-  url: https://www.disneystudios.com/
-  Jobs: https://jobs.disneycareers.com/
-  Place:
-    - Country: USA
-    - International: True
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Design/Fabrication, VR/AR, IA, Autres]
-  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
-  Employees: 220000
 

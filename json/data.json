@@ -114,6 +114,32 @@
             ]
         },
         {
+            "Name": "AMD",
+            "Description": "D\u00e9veloppement de processeurs et cartes graphiques - d\u00e9veloppement materiel et logiciel. ",
+            "url": "https://www.amd.com/",
+            "Jobs": "https://www.amd.com/en/corporate/careers",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Synth\u00e8se d'image",
+                "IA",
+                "Web/Cloud/Big Data",
+                "Visualisation",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 16000
+        },
+        {
             "Name": "Adobe",
             "url": "https://www.adobe.com/fr/",
             "Description": "D\u00e9velopement d'outils cr\u00e9atifs",
@@ -239,6 +265,29 @@
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Employees": 1300
+        },
+        {
+            "Name": "Apple",
+            "url": "https://www.apple.com/",
+            "Jobs": "https://jobs.apple.com",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Cupertino"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data",
+                "IA",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 160000
         },
         {
             "Name": "Arskan",
@@ -429,6 +478,34 @@
             ]
         },
         {
+            "Name": "CLO Virtual Fashion",
+            "url": "https://www.clo3d.com/en/",
+            "Product": "Marvelous Designer, Clo3D",
+            "Description": "Logiciel de simulation de v\u00eatements virtuels",
+            "Jobs": "https://jobs.lever.co/clovirtualfashion",
+            "Place": [
+                {
+                    "Country": "Korea"
+                },
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Mode/V\u00eatements/Accessoires"
+            ]
+        },
+        {
             "Name": "Christie",
             "url": "https://www.christiedigital.com/en-gb",
             "Description": "Syst\u00e8mes de projections vid\u00e9o et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
@@ -492,6 +569,36 @@
             "Employees": 20000
         },
         {
+            "Name": "Disney",
+            "Info": "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implant\u00e9 \u00e0 Zurich est l'un des plus gros centre de R&amp;D en graphique.",
+            "url": "https://www.disneystudios.com/",
+            "Jobs": "https://jobs.disneycareers.com/",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Visualisation",
+                "Design/Fabrication",
+                "VR/AR",
+                "IA",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 220000
+        },
+        {
             "Name": "Dynamixyz",
             "url": "https://www.dynamixyz.com/",
             "Description": "MOCAP faciale sans marqueurs.",
@@ -503,6 +610,66 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "ESI",
+            "url": "https://www.esi-group.com/",
+            "Description": "Entreprise Francaise de simulation, prototypage virtuel, et Double num\u00e9rique pour l'industrie",
+            "Jobs": "https://www.esi-group.com/join-us",
+            "Employees": 1000,
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Lyon",
+                        "Bordeaux"
+                    ]
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Epic Games",
+            "url": "https://www.epicgames.com/site/en-US/home",
+            "Description": "D\u00e9veloppeur de jeu et du moteur 3D Unreal Engine",
+            "Products": [
+                {
+                    "Name": "Unreal Engine",
+                    "url": "https://www.unrealengine.com/"
+                }
+            ],
+            "Jobs": "https://www.epicgames.com/site/en-US/careers/jobs",
+            "Employees": 2000,
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -541,6 +708,31 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o"
             ]
+        },
+        {
+            "Name": "Google",
+            "url": "https://about.google/",
+            "Jobs": "https://careers.google.com/",
+            "Info": "<a href=\"https://ai.google/\">Google AI</a> est une entit\u00e9 de recherche d\u00e9veloppant des projets en graphique",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Mountain View"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data",
+                "IA",
+                "Vision",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 140000
         },
         {
             "Name": "Illumination MacGuff",
@@ -655,6 +847,31 @@
             ]
         },
         {
+            "Name": "Microsoft",
+            "Info": "<a href=\\\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\\\">Microsoft research</a> est active en informatique graphique.",
+            "url": "https://www.microsoft.com/",
+            "Jobs": "https://www.amd.com/en/corporate/careers",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Redmond"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data",
+                "IA",
+                "Synth\u00e8se d'image",
+                "Autres"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 180000
+        },
+        {
             "Name": "MocapLab",
             "url": "https://www.mocaplab.com/",
             "Description": "Studio et R&amp;D pour la capture de mouvement.",
@@ -689,6 +906,85 @@
             ],
             "Application-domain": [
                 "Mode/V\u00eatements/Accessoires"
+            ]
+        },
+        {
+            "Name": "NVidia",
+            "Description": "D\u00e9veloppement de cartes graphiques materiel et logiciel",
+            "Info": "NVidia Research est pr\u00e9sent partout dans le monde, dont en France.",
+            "url": "https://www.nvidia.com/",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "IA",
+                "Hardware",
+                "Simulation",
+                "Web/Cloud/Big Data",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 13000
+        },
+        {
+            "Name": "Pixel Wizards",
+            "Description": "Studio de jeu vid\u00e9os indie, jeux en tours par tours",
+            "url": "https://pixel-wizards.com/",
+            "Place": "Paris",
+            "Jobs": "https://pixel-wizards.com/jobs/",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "IA"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Presagis",
+            "Description": "Simulation d'environment dynamique pour la pr\u00e9diction \u00e0 large \u00e9chelle (infrastructure, d\u00e9fense, d\u00e9sastre, etc)",
+            "url": "https://www.presagis.com/en/",
+            "Jobs": "https://cae.wd3.myworkdayjobs.com/Presagis/jobs",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
+                },
+                {
+                    "Country": "USA",
+                    "City": "Orlando"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Italy"
+                },
+                {
+                    "Country": "UK"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation",
+                "IA",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation",
+                "M\u00e9canique/Ing\u00e9nierie civile"
             ]
         },
         {
@@ -728,6 +1024,44 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Art/Evenementiel",
                 "S\u00e9curit\u00e9/D\u00e9fense"
+            ]
+        },
+        {
+            "Name": "SideFX",
+            "url": "https://www.sidefx.com/",
+            "Product": "Houdini",
+            "Description": "D\u00e9veloppement du logiciel de VFX Houdini - Mod\u00e9lisation et Animation proc\u00e9durale, simulation.",
+            "Jobs": "https://www.sidefx.com/careers/",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "SpirOPS",
+            "url": "https://www.spirops.com/",
+            "Description": "Approches d'IA pour l'industrie et le loisir: foule virtuelles, v\u00e9hicules autonomes, assistants",
+            "Jobs": "https://www.spirops.com/jobs.php?lg=en",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Automobile/Navigation/Aviation",
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -843,6 +1177,38 @@
             "Highlight": "R&D"
         },
         {
+            "Name": "The Foundry",
+            "Description": "D\u00e9veloppement de logiciels pour la cr\u00e9ation 3D et VFX",
+            "url": "https://www.foundry.com/",
+            "Products": [
+                {
+                    "Name": "Nuke",
+                    "url": "https://www.foundry.com/products/nuke-family"
+                },
+                {
+                    "Name": "Modo",
+                    "url": "https://www.foundry.com/products/modo"
+                }
+            ],
+            "Jobs": "https://apply.workable.com/foundry/",
+            "Place": [
+                {
+                    "Country": [
+                        "UK",
+                        "USA",
+                        "Australia"
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
             "Name": "Ubisoft",
             "Description": "D\u00e9veloppeur de jeux vid\u00e9o Fran\u00e7ais, poss\u00e9dant de nombreux studios \u00e0 l'international",
             "Info": "Ubisoft a cr\u00e9\u00e9 une entit\u00e9 de recherche \u00e0 Bordeaux appel\u00e9e \"La Forge\" \u00e0 l'image de celle existante \u00e0 Montr\u00e9al.",
@@ -898,55 +1264,6 @@
             "Highlight": "Graphics, R&D"
         },
         {
-            "Name": "CLO Virtual Fashion",
-            "url": "https://www.clo3d.com/en/",
-            "Product": "Marvelous Designer, Clo3D",
-            "Description": "Logiciel de simulation de v\u00eatements virtuels",
-            "Jobs": "https://jobs.lever.co/clovirtualfashion",
-            "Place": [
-                {
-                    "Country": "Korea"
-                },
-                {
-                    "Country": "USA"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation",
-                "Design/Fabrication"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX",
-                "Mode/V\u00eatements/Accessoires"
-            ]
-        },
-        {
-            "Name": "SideFX",
-            "url": "https://www.sidefx.com/",
-            "Product": "Houdini",
-            "Description": "D\u00e9veloppement du logiciel de VFX Houdini - Mod\u00e9lisation et Animation proc\u00e9durale, simulation.",
-            "Jobs": "https://www.sidefx.com/careers/",
-            "Place": [
-                {
-                    "Country": "Canada",
-                    "City": "Toronto"
-                }
-            ],
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
             "Name": "Unity Technologies",
             "url": "https://unity.com/",
             "Description": "D\u00e9veloppement du moteur de jeu Unity",
@@ -981,83 +1298,6 @@
             ]
         },
         {
-            "Name": "Epic Games",
-            "url": "https://www.epicgames.com/site/en-US/home",
-            "Description": "D\u00e9veloppeur de jeu et du moteur 3D Unreal Engine",
-            "Products": [
-                {
-                    "Name": "Unreal Engine",
-                    "url": "https://www.unrealengine.com/"
-                }
-            ],
-            "Jobs": "https://www.epicgames.com/site/en-US/careers/jobs",
-            "Employees": 2000,
-            "Place": [
-                {
-                    "Country": "USA"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o",
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "ESI",
-            "url": "https://www.esi-group.com/",
-            "Description": "Entreprise Francaise de simulation, prototypage virtuel, et Double num\u00e9rique pour l'industrie",
-            "Jobs": "https://www.esi-group.com/join-us",
-            "Employees": 1000,
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": [
-                        "Paris",
-                        "Lyon",
-                        "Bordeaux"
-                    ]
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Automobile/Navigation/Aviation",
-                "S\u00e9curit\u00e9/D\u00e9fense",
-                "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
-        },
-        {
-            "Name": "SpirOPS",
-            "url": "https://www.spirops.com/",
-            "Description": "Approches d'IA pour l'industrie et le loisir: foule virtuelles, v\u00e9hicules autonomes, assistants",
-            "Jobs": "https://www.spirops.com/jobs.php?lg=en",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "IA",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers",
-                "Automobile/Navigation/Aviation",
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
             "Name": "YellowScan",
             "url": "https://www.yellowscan-lidar.com/",
             "Description": "Scan LiDAR pour application industrielles",
@@ -1077,246 +1317,6 @@
                 "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
                 "M\u00e9canique/Ing\u00e9nierie civile"
             ]
-        },
-        {
-            "Name": "Pixel Wizards",
-            "Description": "Studio de jeu vid\u00e9os indie, jeux en tours par tours",
-            "url": "https://pixel-wizards.com/",
-            "Place": "Paris",
-            "Jobs": "https://pixel-wizards.com/jobs/",
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Animation",
-                "IA"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Presagis",
-            "Description": "Simulation d'environment dynamique pour la pr\u00e9diction \u00e0 large \u00e9chelle (infrastructure, d\u00e9fense, d\u00e9sastre, etc)",
-            "url": "https://www.presagis.com/en/",
-            "Jobs": "https://cae.wd3.myworkdayjobs.com/Presagis/jobs",
-            "Place": [
-                {
-                    "Country": "Canada",
-                    "City": "Montr\u00e9al"
-                },
-                {
-                    "Country": "USA",
-                    "City": "Orlando"
-                },
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                },
-                {
-                    "Country": "Italy"
-                },
-                {
-                    "Country": "UK"
-                }
-            ],
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation",
-                "IA",
-                "Analyse de donn\u00e9es"
-            ],
-            "Application-domain": [
-                "S\u00e9curit\u00e9/D\u00e9fense",
-                "Automobile/Navigation/Aviation",
-                "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
-        },
-        {
-            "Name": "The Foundry",
-            "Description": "D\u00e9veloppement de logiciels pour la cr\u00e9ation 3D et VFX",
-            "url": "https://www.foundry.com/",
-            "Products": [
-                {
-                    "Name": "Nuke",
-                    "url": "https://www.foundry.com/products/nuke-family"
-                },
-                {
-                    "Name": "Modo",
-                    "url": "https://www.foundry.com/products/modo"
-                }
-            ],
-            "Jobs": "https://apply.workable.com/foundry/",
-            "Place": [
-                {
-                    "Country": [
-                        "UK",
-                        "USA",
-                        "Australia"
-                    ]
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "NVidia",
-            "Description": "D\u00e9veloppement de cartes graphiques materiel et logiciel",
-            "Info": "NVidia Research est pr\u00e9sent partout dans le monde, dont en France.",
-            "url": "https://www.nvidia.com/",
-            "Place": [
-                {
-                    "Country": "USA"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "IA",
-                "Hardware",
-                "Simulation",
-                "Web/Cloud/Big Data",
-                "Visualisation"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ],
-            "Employees": 13000
-        },
-        {
-            "Name": "AMD",
-            "Description": "D\u00e9veloppement de processeurs et cartes graphiques - d\u00e9veloppement materiel et logiciel. ",
-            "url": "https://www.amd.com/",
-            "Jobs": "https://www.amd.com/en/corporate/careers",
-            "Place": [
-                {
-                    "Country": "USA"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Hardware",
-                "Synth\u00e8se d'image",
-                "IA",
-                "Web/Cloud/Big Data",
-                "Visualisation",
-                "Autres"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ],
-            "Employees": 16000
-        },
-        {
-            "Name": "Microsoft",
-            "Info": "<a href=\\\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\\\">Microsoft research</a> est active en informatique graphique.",
-            "url": "https://www.microsoft.com/",
-            "Jobs": "https://www.amd.com/en/corporate/careers",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Redmond"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Web/Cloud/Big Data",
-                "IA",
-                "Synth\u00e8se d'image",
-                "Autres"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ],
-            "Employees": 180000
-        },
-        {
-            "Name": "Google",
-            "url": "https://about.google/",
-            "Jobs": "https://careers.google.com/",
-            "Info": "<a href=\"https://ai.google/\">Google AI</a> est une entit\u00e9 de recherche d\u00e9veloppant des projets en graphique",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Mountain View"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Web/Cloud/Big Data",
-                "IA",
-                "Vision",
-                "Autres"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ],
-            "Employees": 140000
-        },
-        {
-            "Name": "Apple",
-            "url": "https://www.apple.com/",
-            "Jobs": "https://jobs.apple.com",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Cupertino"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Web/Cloud/Big Data",
-                "IA",
-                "Autres"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ],
-            "Employees": 160000
-        },
-        {
-            "Name": "Disney",
-            "Info": "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implant\u00e9 \u00e0 Zurich est l'un des plus gros centre de R&amp;D en graphique.",
-            "url": "https://www.disneystudios.com/",
-            "Jobs": "https://jobs.disneycareers.com/",
-            "Place": [
-                {
-                    "Country": "USA"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Visualisation",
-                "Design/Fabrication",
-                "VR/AR",
-                "IA",
-                "Autres"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX",
-                "Loisir Interactif/Immersion/Metavers",
-                "Robotique/Syst\u00e8mes autonomes"
-            ],
-            "Employees": 220000
         }
     ]
 }
