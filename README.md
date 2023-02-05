@@ -227,6 +227,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.esi-group.com/join-us)
 
 
+* **[Effigy 3D](https://effigy-3d.com/)**  
+  * _Studio de creation digitale 3D: Scan 3D, Mocap, Avatars._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Animation, Acquisition, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Epic Games](https://www.epicgames.com/site/en-US/home)**  
   * _Développeur de jeu et du moteur 3D Unreal Engine_
   * **Localisation**: USA, International

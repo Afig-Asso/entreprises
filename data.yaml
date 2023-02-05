@@ -244,6 +244,13 @@
   Scientific-domain: [Animation, Acquisition]
   Application-domain: [Jeu Vidéo]
 
+- Name: Effigy 3D
+  url: https://effigy-3d.com/
+  Description: "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars."
+  Place: Paris
+  Scientific-domain: [Animation, Acquisition, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: ESI
   url: https://www.esi-group.com/
   Description: "Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie"
