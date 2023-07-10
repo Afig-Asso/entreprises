@@ -575,3 +575,13 @@
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
 
+- Name: UVR
+  Name-long: United Visual Researchers
+  Description: "Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)."
+  url: https://www.united-vr.com/
+  Jobs: https://uvr.welcomekit.co/
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Simulation]
+  Application-domain: [Générique]
+
