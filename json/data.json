@@ -1331,6 +1331,25 @@
                 "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
                 "M\u00e9canique/Ing\u00e9nierie civile"
             ]
+        },
+        {
+            "Name": "UVR",
+            "Name-long": "United Visual Researchers",
+            "Description": "Logiciel d'analyse optique et de rendu avanc\u00e9 (spectral, lumi\u00e8re polaris\u00e9e).",
+            "url": "https://www.united-vr.com/",
+            "Jobs": "https://uvr.welcomekit.co/",
+            "Place": [
+                {
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
         }
     ]
 }

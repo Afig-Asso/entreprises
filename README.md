@@ -425,6 +425,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://apply.workable.com/foundry/)
 
 
+* **[UVR](https://www.united-vr.com/)** (United Visual Researchers) 
+  * _Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Simulation
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://uvr.welcomekit.co/)
+
+
 * **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développeur de jeux vidéo Français, possédant de nombreux studios à l'international_
   * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal._

@@ -80,7 +80,7 @@ function get_string_recursive(element, out) {
         const url = element['url']
         const name = element['Name']
         if(url!=undefined){
-            txt += `<a href="${url}">`
+            txt += `<a target="_blank" href="${url}">`
         }
         if(name!=undefined){
             txt += name;
