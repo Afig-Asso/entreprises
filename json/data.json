@@ -203,22 +203,6 @@
             ]
         },
         {
-            "Name": "AltspaceVR",
-            "url": "https://altvr.com/",
-            "Description": "Logiciels pour la r\u00e9alit\u00e9 virtuelle. Filiale de Microsoft.",
-            "Place": [
-                {
-                    "Country": "USA"
-                }
-            ],
-            "Scientific-domain": [
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers"
-            ]
-        },
-        {
             "Name": "Anatoscope",
             "Description": "Logiciels pour l'anatomie 3D num\u00e9rique personnalis\u00e9 (orthopedie, dentaire, radiologique).",
             "url": "https://www.anatoscope.com/",
@@ -308,7 +292,7 @@
         },
         {
             "Name": "Artefacto",
-            "url": "https://altvr.com/",
+            "url": "https://www.artefacto-ar.com/",
             "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
             "Place": [
                 {
@@ -362,25 +346,6 @@
                 "M\u00e9canique/Ing\u00e9nierie civile"
             ],
             "Employees": 10000
-        },
-        {
-            "Name": "Ayotle",
-            "url": "http://www.ayotle.com/",
-            "Description": "D\u00e9velopement d'outils de vision pour la r\u00e9alit\u00e9 augment\u00e9e, l'analyse du mouvement et l'interaction tactile.",
-            "Place": {
-                "City": "Paris",
-                "Exact": "Le Kremlin-Bic\u00eatre"
-            },
-            "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
-            "Scientific-domain": [
-                "Vision",
-                "Analyse de donn\u00e9es",
-                "Animation",
-                "IHM/Haptique"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
         },
         {
             "Name": "BUF",

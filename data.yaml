@@ -69,12 +69,6 @@
   Scientific-domain: [Modélisation, Design/Fabrication]
   Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation, Robotique/Systèmes autonomes]
 
-- Name: AltspaceVR
-  url: https://altvr.com/
-  Description: Logiciels pour la réalité virtuelle. Filiale de Microsoft.
-  Place: [{Country: USA}]
-  Scientific-domain: [VR/AR]
-  Application-domain: [Loisir Interactif/Immersion/Metavers]
 
 - Name: Anatoscope
   Description: "Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)."
@@ -118,7 +112,7 @@
   Application-domain: [Mécanique/Ingénierie civile]
 
 - Name: Artefacto
-  url: https://altvr.com/
+  url: https://www.artefacto-ar.com/
   Description: Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.
   Place: 
     - City: Rennes
@@ -139,13 +133,6 @@
   Application-domain: [Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile]
   Employees: 10000
 
-- Name: Ayotle
-  url: http://www.ayotle.com/
-  Description: Dévelopement d'outils de vision pour la réalité augmentée, l'analyse du mouvement et l'interaction tactile.
-  Place: {City: Paris,Exact: "Le Kremlin-Bicêtre"}
-  Jobs: https://www.artefacto-ar.com/en/carrieres/
-  Scientific-domain: [Vision, Analyse de données, Animation, IHM/Haptique]
-  Application-domain: [Générique]
 
 - Name: BUF
   url: https://buf.com/

@@ -83,13 +83,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://alteia.com/company/#careers)
 
 
-* **[AltspaceVR](https://altvr.com/)**  
-  * _Logiciels pour la réalité virtuelle. Filiale de Microsoft._
-  * **Localisation**: USA
-  * **Domaine scientifique/technique**: VR/AR
-  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
-
-
 * **[Anatoscope](https://www.anatoscope.com/)**  
   * _Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)._
   * **Localisation**: Grenoble,  Montpellier
@@ -114,7 +107,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.apple.com)
 
 
-* **[Artefacto](https://altvr.com/)**  
+* **[Artefacto](https://www.artefacto-ar.com/)**  
   * _Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement._
   * **Localisation**: Rennes (Betton)
   * **Domaine scientifique/technique**: VR/AR, Visualisation, Modélisation
@@ -130,14 +123,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile
   * [_Jobs_](https://www.autodesk.com/careers/overview)
-
-
-* **[Ayotle](http://www.ayotle.com/)**  
-  * _Dévelopement d'outils de vision pour la réalité augmentée, l'analyse du mouvement et l'interaction tactile._
-  * **Localisation**: Paris (Le Kremlin-Bicêtre)
-  * **Domaine scientifique/technique**: Vision, Analyse de données, Animation, IHM/Haptique
-  * **Domaine d'application**: Générique
-  * [_Jobs_](https://www.artefacto-ar.com/en/carrieres/)
 
 
 * **[BUF](https://buf.com/)**  
