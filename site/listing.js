@@ -279,7 +279,7 @@ function display_company_entry(entry) {
     let txt = ''
 
     txt += `<div id="${id}">\n`;
-    txt += `<h3><a href="${url}">${name}</a></h3> ${name_long} <br>\n`;
+    txt += `<h3><a target="_blank" href="${url}">${name}</a></h3> ${name_long} <br>\n`;
     txt += `<div class="content">\n`;
     txt += display_div(description, 'description');
     txt += display_div(info, 'info', '<strong>Remarque</strong>: ');
@@ -291,7 +291,7 @@ function display_company_entry(entry) {
     txt += display_div(scientific_domain, 'scientific-domain', '<strong>Domaine scientifique</strong>: ');
     txt += display_div(application_domain, 'application-domain', "<strong>Domaine d'application</strong>: ");
     if(jobs!=''){
-        txt += `[<a href="${jobs}">Jobs</a>]\n`
+        txt += `[<a target="_blank" href="${jobs}">Jobs</a>]\n`
     }
 
 
