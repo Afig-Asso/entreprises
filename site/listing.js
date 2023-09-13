@@ -251,7 +251,7 @@ function display_company_entry(entry) {
     if(UX['details'].checked==false) {
         return `
         <div id="${id}">\n
-        <h3><a href="${url}">${name}</a></h3> <br>\n
+        <h3><a target="_blank" href="${url}">${name}</a></h3> <br>\n
         </div>
         `;
     }
