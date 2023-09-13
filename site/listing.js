@@ -244,7 +244,6 @@ function export_places_to_txt(data) {
 
 function display_company_entry(entry) {
 
-    
     const name = entry['Name'];
     let id = name.replace(/[^A-Z0-9]/ig, "_");
     const url = entry['url'];
