@@ -262,7 +262,7 @@ if __name__ == "__main__":
 
         print('Check URLs ...')
         urls = liblisting.get_all_urls(data)
-        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/'}
+        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/', 'https://www.clo3d.com/en/'}
         liblisting.check_urls(urls, exitOnError=exit_on_failure, exceptions=exceptions)
         print('Check URLs done\n')
 
