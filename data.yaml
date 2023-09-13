@@ -109,13 +109,13 @@
   Application-domain: [Générique]
   Employees: 160000
 
-- Name: Arskan
-  url: https://arskan.com/fr/
-  Description: "Streaming et compression de géométrie pour visualiser des scènes 3D sur tout type de clients."
-  Jobs: https://actu.arskan.com/nous-rejoindre
-  Place: Lyon
-  Scientific-domain: [Géométrie, Visualisation, Web/Cloud/Big Data]
-  Application-domain: [Générique]
+- Name: Alteia
+  url: https://alteia.com/
+  Description: "Logiciels de Vision et IA."
+  Jobs: https://alteia.com/company/#careers
+  Place: [Toulouse, Paris]
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Mécanique/Ingénierie civile]
 
 - Name: Artefacto
   url: https://altvr.com/
@@ -236,13 +236,6 @@
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
   Employees: 220000
 
-- Name: Dynamixyz
-  url: https://www.dynamixyz.com/
-  Description: "MOCAP faciale sans marqueurs."
-  Info: "Dynamixyz a été acquis par Take-Two Interactive, mais poursuit sa R&D à Rennes."
-  Place: Rennes
-  Scientific-domain: [Animation, Acquisition]
-  Application-domain: [Jeu Vidéo]
 
 - Name: Effigy 3D
   url: https://effigy-3d.com/
@@ -585,3 +578,10 @@
   Scientific-domain: [Synthèse d'image, Simulation]
   Application-domain: [Générique]
 
+- Name: Les Tontons Truqueurs
+  Description: "Prévisualisation et VFX en temps réels."
+  url: https://www.lestontonstruqueurs.com/
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Vision, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX]

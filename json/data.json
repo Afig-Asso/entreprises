@@ -290,18 +290,20 @@
             "Employees": 160000
         },
         {
-            "Name": "Arskan",
-            "url": "https://arskan.com/fr/",
-            "Description": "Streaming et compression de g\u00e9om\u00e9trie pour visualiser des sc\u00e8nes 3D sur tout type de clients.",
-            "Jobs": "https://actu.arskan.com/nous-rejoindre",
-            "Place": "Lyon",
+            "Name": "Alteia",
+            "url": "https://alteia.com/",
+            "Description": "Logiciels de Vision et IA.",
+            "Jobs": "https://alteia.com/company/#careers",
+            "Place": [
+                "Toulouse",
+                "Paris"
+            ],
             "Scientific-domain": [
-                "G\u00e9om\u00e9trie",
-                "Visualisation",
-                "Web/Cloud/Big Data"
+                "Imagerie",
+                "Vision"
             ],
             "Application-domain": [
-                "G\u00e9n\u00e9rique"
+                "M\u00e9canique/Ing\u00e9nierie civile"
             ]
         },
         {
@@ -597,20 +599,6 @@
                 "Robotique/Syst\u00e8mes autonomes"
             ],
             "Employees": 220000
-        },
-        {
-            "Name": "Dynamixyz",
-            "url": "https://www.dynamixyz.com/",
-            "Description": "MOCAP faciale sans marqueurs.",
-            "Info": "Dynamixyz a \u00e9t\u00e9 acquis par Take-Two Interactive, mais poursuit sa R&D \u00e0 Rennes.",
-            "Place": "Rennes",
-            "Scientific-domain": [
-                "Animation",
-                "Acquisition"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
         },
         {
             "Name": "Effigy 3D",
@@ -1349,6 +1337,24 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Les Tontons Truqueurs",
+            "Description": "Pr\u00e9visualisation et VFX en temps r\u00e9els.",
+            "url": "https://www.lestontonstruqueurs.com/",
+            "Place": [
+                {
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         }
     ]

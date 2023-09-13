@@ -76,6 +76,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://recrutement.alma.fr/cv/)
 
 
+* **[Alteia](https://alteia.com/)**  
+  * _Logiciels de Vision et IA._
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Mécanique/Ingénierie civile
+  * [_Jobs_](https://alteia.com/company/#careers)
+
+
 * **[AltspaceVR](https://altvr.com/)**  
   * _Logiciels pour la réalité virtuelle. Filiale de Microsoft._
   * **Localisation**: USA
@@ -105,14 +112,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Web/Cloud/Big Data, IA, Autres
   * **Domaine d'application**: Générique
   * [_Jobs_](https://jobs.apple.com)
-
-
-* **[Arskan](https://arskan.com/fr/)**  
-  * _Streaming et compression de géométrie pour visualiser des scènes 3D sur tout type de clients._
-  * **Localisation**: Lyon
-  * **Domaine scientifique/technique**: Géométrie, Visualisation, Web/Cloud/Big Data
-  * **Domaine d'application**: Générique
-  * [_Jobs_](https://actu.arskan.com/nous-rejoindre)
 
 
 * **[Artefacto](https://altvr.com/)**  
@@ -210,14 +209,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.disneycareers.com/)
 
 
-* **[Dynamixyz](https://www.dynamixyz.com/)**  
-  * _MOCAP faciale sans marqueurs._
-  * **Remarque**: _Dynamixyz a été acquis par Take-Two Interactive, mais poursuit sa R&D à Rennes._
-  * **Localisation**: Rennes
-  * **Domaine scientifique/technique**: Animation, Acquisition
-  * **Domaine d'application**: Jeu Vidéo
-
-
 * **[ESI](https://www.esi-group.com/)**  
   * _Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie_
   * **Localisation**: France/{Paris, Lyon, Bordeaux}, International
@@ -293,6 +284,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 1500
   * **Domaine scientifique/technique**: Modélisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Mode/Vêtements/Accessoires
+
+
+* **[Les Tontons Truqueurs](https://www.lestontonstruqueurs.com/)**  
+  * _Prévisualisation et VFX en temps réels._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Vision, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Mercenaries Engineering](http://guerillarender.com/)**  
