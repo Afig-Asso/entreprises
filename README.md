@@ -237,6 +237,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://careers.google.com/)
 
 
+* **[Harfang3D](https://www.harfang3d.com/)**
+  * _Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement._
+  * **Localisation**: Orléans, France
+  * **Domaine scientifique/technique**: Outil 3D temps réel, simulation, VR.
+  * **Domaine d'application**: Industrie, Recherche, Formation
+
+
 * **[Illumination MacGuff](https://www.macguff.com/)**  
   * _Création de films d'animation et d'effets visels._
   * **Localisation**: Paris
