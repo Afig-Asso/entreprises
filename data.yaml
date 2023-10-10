@@ -630,3 +630,13 @@
     - City: Orléans
   Scientific-domain: [Visualisation, Simulation, VR/AR]
   Application-domain: [Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game]
+
+- Name: Asobo
+  url: https://www.asobostudio.com/
+  Jobs: https://www.ubisoft.com/en-us/company/careers
+  Description: "Développement de jeu vidéos"
+  Products: "Microsoft Flight Simulator, The Crew"
+  Place: 
+    - City: Bordeaux
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]

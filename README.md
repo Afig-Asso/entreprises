@@ -123,6 +123,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.artefacto-ar.com/en/carrieres/)
 
 
+* **[Asobo](https://www.asobostudio.com/)**  
+  * _Développement de jeu vidéos_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
+
+
 * **[Autodesk](https://www.autodesk.com/)**  
   * _Logiciels 3D, CAO, Conception, Design_
   * **Produits**: Maya,  3DS Max,  AutoCAD
@@ -267,6 +275,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Web/Cloud/Big Data, IA, Vision, Autres
   * **Domaine d'application**: Générique
   * [_Jobs_](https://careers.google.com/)
+
+
+* **[Harfang3D](https://www.harfang3d.com/)**  
+  * _Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement,_
+  * **Localisation**: Orléans
+  * **Domaine scientifique/technique**: Visualisation, Simulation, VR/AR
+  * **Domaine d'application**: Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game
 
 
 * **[Illumination MacGuff](https://www.macguff.com/)**  

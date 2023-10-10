@@ -1433,6 +1433,46 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o"
             ]
+        },
+        {
+            "Name": "Harfang3D",
+            "url": "https://www.harfang3d.com/",
+            "Description": "Outils de visualisation 3D en temps r\u00e9el, C++ et Python, pour l'industrie, la recherche et l'enseignement,",
+            "Place": [
+                {
+                    "City": "Orl\u00e9ans"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Simulation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Asobo",
+            "url": "https://www.asobostudio.com/",
+            "Jobs": "https://www.ubisoft.com/en-us/company/careers",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Products": "Microsoft Flight Simulator, The Crew",
+            "Place": [
+                {
+                    "City": "Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
         }
     ]
 }
