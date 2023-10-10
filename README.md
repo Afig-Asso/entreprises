@@ -128,7 +128,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Bordeaux
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
-  * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
+  * [_Jobs_](https://www.asobostudio.com/careers)
 
 
 * **[Autodesk](https://www.autodesk.com/)**  
