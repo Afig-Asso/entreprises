@@ -83,6 +83,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://alteia.com/company/#careers)
 
 
+* **[Amplitude Studios](https://www.amplitude-studios.com/)**  
+  * _Développement de jeu vidéos_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.amplitude-studios.com/#Careers)
+
+
 * **[Anatoscope](https://www.anatoscope.com/)**  
   * _Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)._
   * **Localisation**: Grenoble,  Montpellier
@@ -175,6 +183,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers
 
 
+* **[DON'T NOD](https://dont-nod.com/en/)**  
+  * _Développement de jeu vidéos_
+  * **Localisation**: Paris, Canada/Montréal
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://dont-nod.com/en/careers/)
+
+
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Logiciels de CAO, Design et Simulation._
   * **Produits**: Catia,  SolidWorks
@@ -219,6 +235,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.epicgames.com/site/en-US/careers/jobs)
 
 
+* **[Focus Entrainment](https://www.focus-entmt.com/fr)**  
+  * _Développement de jeu vidéos_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://focusentertainment.recruitee.com/)
+
+
 * **[Gameloft](https://www.gameloft.com/)**  
   * _Développement de jeux vidéos orientés mobile._
   * **Localisation**: France/Paris, USA, Canada, Spain, India, International
@@ -226,6 +250,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
+
+
+* **[GoPro Technology](https://gopro.com/fr/fr/)**  
+  * _Systèmes de caméras sportives._
+  * **Remarque**: _Entité R&D en France à Issy Les Moulineaux._
+  * **Localisation**: Paris, International
+  * **Domaine scientifique/technique**: Animation, Acquisition, Reconstruction, Vision, Imagerie
+  * **Domaine d'application**: Générique
 
 
 * **[Google](https://about.google/)**  
@@ -340,6 +372,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Web/Cloud/Big Data
   * **Domaine d'application**: Générique
   * [_Jobs_](https://qarnot.com/en/recruiting)
+
+
+* **[Quantic Dream](https://www.quanticdream.com/fr)**  
+  * _Développement de jeu vidéos_
+  * **Localisation**: Paris, Canada/Montréal
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://jobs.eu.lever.co/quanticdream)
 
 
 * **[Shot Over](https://shotover.com/)**  

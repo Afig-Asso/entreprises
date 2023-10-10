@@ -572,3 +572,53 @@
     - City: Paris
   Scientific-domain: [Synthèse d'image, Vision, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Focus Entrainment
+  Description: "Développement de jeu vidéos"
+  url: https://www.focus-entmt.com/fr
+  Jobs: https://focusentertainment.recruitee.com/
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
+- Name: GoPro Technology
+  Description: "Systèmes de caméras sportives."
+  Info: "Entité R&D en France à Issy Les Moulineaux."
+  url: https://gopro.com/fr/fr/
+  Place: 
+    - City: Paris
+    - International: True
+  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, Imagerie]
+  Application-domain: [Générique]
+
+- Name: DON'T NOD 
+  url: https://dont-nod.com/en/
+  Description: "Développement de jeu vidéos"
+  Jobs: https://dont-nod.com/en/careers/
+  Place:
+    - City: Paris
+    - Country: Canada
+      City: Montréal
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Amplitude Studios
+  url: https://www.amplitude-studios.com/
+  Description: "Développement de jeu vidéos"
+  Jobs: https://www.amplitude-studios.com/#Careers
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Quantic Dream
+  url: https://www.quanticdream.com/fr
+  Description: "Développement de jeu vidéos"
+  Jobs: https://jobs.eu.lever.co/quanticdream
+  Place: 
+    - City: Paris
+    - Country: Canada
+      City: Montréal
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
