@@ -622,3 +622,11 @@
       City: Montréal
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
+
+- Name: Harfang3D
+  url: https://www.harfang3d.com/
+  Description: "Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement,"
+  Place:
+    - City: Orléans
+  Scientific-domain: [Visualisation, Simulation, VR/AR]
+  Application-domain: [Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game]
