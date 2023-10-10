@@ -203,6 +203,43 @@
             ]
         },
         {
+            "Name": "Alteia",
+            "url": "https://alteia.com/",
+            "Description": "Logiciels de Vision et IA.",
+            "Jobs": "https://alteia.com/company/#careers",
+            "Place": [
+                "Toulouse",
+                "Paris"
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Amplitude Studios",
+            "url": "https://www.amplitude-studios.com/",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Jobs": "https://www.amplitude-studios.com/#Careers",
+            "Place": [
+                {
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Anatoscope",
             "Description": "Logiciels pour l'anatomie 3D num\u00e9rique personnalis\u00e9 (orthopedie, dentaire, radiologique).",
             "url": "https://www.anatoscope.com/",
@@ -274,23 +311,6 @@
             "Employees": 160000
         },
         {
-            "Name": "Alteia",
-            "url": "https://alteia.com/",
-            "Description": "Logiciels de Vision et IA.",
-            "Jobs": "https://alteia.com/company/#careers",
-            "Place": [
-                "Toulouse",
-                "Paris"
-            ],
-            "Scientific-domain": [
-                "Imagerie",
-                "Vision"
-            ],
-            "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
-        },
-        {
             "Name": "Artefacto",
             "url": "https://www.artefacto-ar.com/",
             "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
@@ -309,6 +329,27 @@
             "Application-domain": [
                 "Architecture/Immobilier",
                 "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Asobo",
+            "url": "https://www.asobostudio.com/",
+            "Jobs": "https://www.asobostudio.com/careers",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Products": "Microsoft Flight Simulator, The Crew",
+            "Place": [
+                {
+                    "City": "Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -497,6 +538,30 @@
             "Employees": 2000
         },
         {
+            "Name": "DON'T NOD",
+            "url": "https://dont-nod.com/en/",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Jobs": "https://dont-nod.com/en/careers/",
+            "Place": [
+                {
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Dassault Syst\u00e8mes",
             "url": "https://www.3ds.com/fr/",
             "Description": "Logiciels de CAO, Design et Simulation.",
@@ -566,20 +631,6 @@
             "Employees": 220000
         },
         {
-            "Name": "Effigy 3D",
-            "url": "https://effigy-3d.com/",
-            "Description": "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars.",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Animation",
-                "Acquisition",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
             "Name": "ESI",
             "url": "https://www.esi-group.com/",
             "Description": "Entreprise Francaise de simulation, prototypage virtuel, et Double num\u00e9rique pour l'industrie",
@@ -606,6 +657,20 @@
                 "Automobile/Navigation/Aviation",
                 "S\u00e9curit\u00e9/D\u00e9fense",
                 "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Effigy 3D",
+            "url": "https://effigy-3d.com/",
+            "Description": "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars.",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -637,6 +702,26 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o",
                 "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Focus Entrainment",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "url": "https://www.focus-entmt.com/fr",
+            "Jobs": "https://focusentertainment.recruitee.com/",
+            "Place": [
+                {
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -677,6 +762,30 @@
             ]
         },
         {
+            "Name": "GoPro Technology",
+            "Description": "Syst\u00e8mes de cam\u00e9ras sportives.",
+            "Info": "Entit\u00e9 R&D en France \u00e0 Issy Les Moulineaux.",
+            "url": "https://gopro.com/fr/fr/",
+            "Place": [
+                {
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition",
+                "Reconstruction",
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "Google",
             "url": "https://about.google/",
             "Jobs": "https://careers.google.com/",
@@ -700,6 +809,25 @@
                 "G\u00e9n\u00e9rique"
             ],
             "Employees": 140000
+        },
+        {
+            "Name": "Harfang3D",
+            "url": "https://www.harfang3d.com/",
+            "Description": "Outils de visualisation 3D en temps r\u00e9el, C++ et Python, pour l'industrie, la recherche et l'enseignement,",
+            "Place": [
+                {
+                    "City": "Orl\u00e9ans"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Simulation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Entrainement/Formation/Serious Game"
+            ]
         },
         {
             "Name": "Illumination MacGuff",
@@ -789,6 +917,24 @@
                 "Mode/V\u00eatements/Accessoires"
             ],
             "Employees": 1500
+        },
+        {
+            "Name": "Les Tontons Truqueurs",
+            "Description": "Pr\u00e9visualisation et VFX en temps r\u00e9els.",
+            "url": "https://www.lestontonstruqueurs.com/",
+            "Place": [
+                {
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         },
         {
             "Name": "Mercenaries Engineering",
@@ -970,6 +1116,30 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Quantic Dream",
+            "url": "https://www.quanticdream.com/fr",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Jobs": "https://jobs.eu.lever.co/quanticdream",
+            "Place": [
+                {
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -1176,6 +1346,25 @@
             ]
         },
         {
+            "Name": "UVR",
+            "Name-long": "United Visual Researchers",
+            "Description": "Logiciel d'analyse optique et de rendu avanc\u00e9 (spectral, lumi\u00e8re polaris\u00e9e).",
+            "url": "https://www.united-vr.com/",
+            "Jobs": "https://uvr.welcomekit.co/",
+            "Place": [
+                {
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "Ubisoft",
             "Description": "D\u00e9veloppeur de jeux vid\u00e9o Fran\u00e7ais, poss\u00e9dant de nombreux studios \u00e0 l'international",
             "Info": "Ubisoft a cr\u00e9\u00e9 une entit\u00e9 de recherche \u00e0 Bordeaux appel\u00e9e \"La Forge\" \u00e0 l'image de celle existante \u00e0 Montr\u00e9al.",
@@ -1283,195 +1472,6 @@
             "Application-domain": [
                 "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
                 "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
-        },
-        {
-            "Name": "UVR",
-            "Name-long": "United Visual Researchers",
-            "Description": "Logiciel d'analyse optique et de rendu avanc\u00e9 (spectral, lumi\u00e8re polaris\u00e9e).",
-            "url": "https://www.united-vr.com/",
-            "Jobs": "https://uvr.welcomekit.co/",
-            "Place": [
-                {
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Les Tontons Truqueurs",
-            "Description": "Pr\u00e9visualisation et VFX en temps r\u00e9els.",
-            "url": "https://www.lestontonstruqueurs.com/",
-            "Place": [
-                {
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Vision",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Focus Entrainment",
-            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
-            "url": "https://www.focus-entmt.com/fr",
-            "Jobs": "https://focusentertainment.recruitee.com/",
-            "Place": [
-                {
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "GoPro Technology",
-            "Description": "Syst\u00e8mes de cam\u00e9ras sportives.",
-            "Info": "Entit\u00e9 R&D en France \u00e0 Issy Les Moulineaux.",
-            "url": "https://gopro.com/fr/fr/",
-            "Place": [
-                {
-                    "City": "Paris"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Animation",
-                "Acquisition",
-                "Reconstruction",
-                "Vision",
-                "Imagerie"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "DON'T NOD",
-            "url": "https://dont-nod.com/en/",
-            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
-            "Jobs": "https://dont-nod.com/en/careers/",
-            "Place": [
-                {
-                    "City": "Paris"
-                },
-                {
-                    "Country": "Canada",
-                    "City": "Montr\u00e9al"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Amplitude Studios",
-            "url": "https://www.amplitude-studios.com/",
-            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
-            "Jobs": "https://www.amplitude-studios.com/#Careers",
-            "Place": [
-                {
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Quantic Dream",
-            "url": "https://www.quanticdream.com/fr",
-            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
-            "Jobs": "https://jobs.eu.lever.co/quanticdream",
-            "Place": [
-                {
-                    "City": "Paris"
-                },
-                {
-                    "Country": "Canada",
-                    "City": "Montr\u00e9al"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Harfang3D",
-            "url": "https://www.harfang3d.com/",
-            "Description": "Outils de visualisation 3D en temps r\u00e9el, C++ et Python, pour l'industrie, la recherche et l'enseignement,",
-            "Place": [
-                {
-                    "City": "Orl\u00e9ans"
-                }
-            ],
-            "Scientific-domain": [
-                "Visualisation",
-                "Simulation",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
-                "Entrainement/Formation/Serious Game"
-            ]
-        },
-        {
-            "Name": "Asobo",
-            "url": "https://www.asobostudio.com/",
-            "Jobs": "https://www.asobostudio.com/careers",
-            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
-            "Products": "Microsoft Flight Simulator, The Crew",
-            "Place": [
-                {
-                    "City": "Bordeaux"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
             ]
         }
     ]

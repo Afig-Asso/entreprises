@@ -4,7 +4,6 @@
 ## Compléter/Modifier les informations 
   - Envoyez un email à contact[at]asso-afig.fr avec vos informations
   - Ou faites un push-request sur le dépot.
-    - _Les modifications sont à faire dans le fichier data.yaml_
 ## Utilisation de la base en locale 
   - `data.yaml`: Base de données des entreprises 
   - `keywords.yaml`: Mots clés 

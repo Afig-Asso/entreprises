@@ -90,6 +90,23 @@
   Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation, Robotique/Systèmes autonomes]
 
 
+- Name: Alteia
+  url: https://alteia.com/
+  Description: "Logiciels de Vision et IA."
+  Jobs: https://alteia.com/company/#careers
+  Place: [Toulouse, Paris]
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Mécanique/Ingénierie civile]
+
+- Name: Amplitude Studios
+  url: https://www.amplitude-studios.com/
+  Description: "Développement de jeu vidéos"
+  Jobs: https://www.amplitude-studios.com/#Careers
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
 - Name: Anatoscope
   Description: "Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)."
   url: https://www.anatoscope.com/
@@ -123,14 +140,6 @@
   Application-domain: [Générique]
   Employees: 160000
 
-- Name: Alteia
-  url: https://alteia.com/
-  Description: "Logiciels de Vision et IA."
-  Jobs: https://alteia.com/company/#careers
-  Place: [Toulouse, Paris]
-  Scientific-domain: [Imagerie, Vision]
-  Application-domain: [Mécanique/Ingénierie civile]
-
 - Name: Artefacto
   url: https://www.artefacto-ar.com/
   Description: Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.
@@ -141,6 +150,15 @@
   Scientific-domain: [VR/AR, Visualisation, Modélisation]
   Application-domain: [Architecture/Immobilier, Entrainement/Formation/Serious Game]
 
+- Name: Asobo
+  url: https://www.asobostudio.com/
+  Jobs: https://www.asobostudio.com/careers
+  Description: "Développement de jeu vidéos"
+  Products: "Microsoft Flight Simulator, The Crew"
+  Place: 
+    - City: Bordeaux
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
 - Name: "Autodesk"
   url: https://www.autodesk.com/
   Description: Logiciels 3D, CAO, Conception, Design
@@ -216,6 +234,17 @@
   Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
   Employees: 2000
 
+- Name: DON'T NOD 
+  url: https://dont-nod.com/en/
+  Description: "Développement de jeu vidéos"
+  Jobs: https://dont-nod.com/en/careers/
+  Place:
+    - City: Paris
+    - Country: Canada
+      City: Montréal
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
 - Name: "Dassault Systèmes"
   url: https://www.3ds.com/fr/
   Description: Logiciels de CAO, Design et Simulation.
@@ -244,13 +273,6 @@
   Employees: 220000
 
 
-- Name: Effigy 3D
-  url: https://effigy-3d.com/
-  Description: "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars."
-  Place: Paris
-  Scientific-domain: [Animation, Acquisition, VR/AR]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
 - Name: ESI
   url: https://www.esi-group.com/
   Description: "Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie"
@@ -262,6 +284,13 @@
     - International: True
   Scientific-domain: [Modélisation, Simulation]
   Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile]
+
+- Name: Effigy 3D
+  url: https://effigy-3d.com/
+  Description: "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars."
+  Place: Paris
+  Scientific-domain: [Animation, Acquisition, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Epic Games
   url: https://www.epicgames.com/site/en-US/home
@@ -276,6 +305,15 @@
     - International: True
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
+
+- Name: Focus Entrainment
+  Description: "Développement de jeu vidéos"
+  url: https://www.focus-entmt.com/fr
+  Jobs: https://focusentertainment.recruitee.com/
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
 
 - Name: Gameloft
   Description: "Développement de jeux vidéos orientés mobile."
@@ -293,6 +331,16 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
 
+- Name: GoPro Technology
+  Description: "Systèmes de caméras sportives."
+  Info: "Entité R&D en France à Issy Les Moulineaux."
+  url: https://gopro.com/fr/fr/
+  Place: 
+    - City: Paris
+    - International: True
+  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, Imagerie]
+  Application-domain: [Générique]
+
 - Name: Google
   url: https://about.google/
   Jobs: https://careers.google.com/
@@ -304,6 +352,14 @@
   Scientific-domain: [Web/Cloud/Big Data, IA, Vision, Autres]
   Application-domain: [Générique]
   Employees: 140000
+
+- Name: Harfang3D
+  url: https://www.harfang3d.com/
+  Description: "Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement,"
+  Place:
+    - City: Orléans
+  Scientific-domain: [Visualisation, Simulation, VR/AR]
+  Application-domain: [Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game]
 
 - Name: Illumination MacGuff
   url: https://www.macguff.com/
@@ -345,6 +401,14 @@
   Scientific-domain: [Modélisation, Simulation, Design/Fabrication]
   Application-domain: [Mode/Vêtements/Accessoires]
   Employees: 1500
+
+- Name: Les Tontons Truqueurs
+  Description: "Prévisualisation et VFX en temps réels."
+  url: https://www.lestontonstruqueurs.com/
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Vision, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Mercenaries Engineering
   url: http://guerillarender.com/
@@ -431,6 +495,17 @@
   Jobs: https://qarnot.com/en/recruiting
   Scientific-domain: [Web/Cloud/Big Data]
   Application-domain: [Générique]
+
+- Name: Quantic Dream
+  url: https://www.quanticdream.com/fr
+  Description: "Développement de jeu vidéos"
+  Jobs: https://jobs.eu.lever.co/quanticdream
+  Place: 
+    - City: Paris
+    - Country: Canada
+      City: Montréal
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
 
 - Name: Shot Over
   url: https://shotover.com/
@@ -528,6 +603,16 @@
   Scientific-domain: [Synthèse d'image, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: UVR
+  Name-long: United Visual Researchers
+  Description: "Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)."
+  url: https://www.united-vr.com/
+  Jobs: https://uvr.welcomekit.co/
+  Place: 
+    - City: Paris
+  Scientific-domain: [Synthèse d'image, Simulation]
+  Application-domain: [Générique]
+
 - Name: Ubisoft
   Description: "Développeur de jeux vidéo Français, possédant de nombreux studios à l'international"
   Info: "Ubisoft a créé une entité de recherche à Bordeaux appelée \"La Forge\" à l'image de celle existante à Montréal."
@@ -575,88 +660,3 @@
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
 
-- Name: UVR
-  Name-long: United Visual Researchers
-  Description: "Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)."
-  url: https://www.united-vr.com/
-  Jobs: https://uvr.welcomekit.co/
-  Place: 
-    - City: Paris
-  Scientific-domain: [Synthèse d'image, Simulation]
-  Application-domain: [Générique]
-
-- Name: Les Tontons Truqueurs
-  Description: "Prévisualisation et VFX en temps réels."
-  url: https://www.lestontonstruqueurs.com/
-  Place: 
-    - City: Paris
-  Scientific-domain: [Synthèse d'image, Vision, VR/AR]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: Focus Entrainment
-  Description: "Développement de jeu vidéos"
-  url: https://www.focus-entmt.com/fr
-  Jobs: https://focusentertainment.recruitee.com/
-  Place: 
-    - City: Paris
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
-  Application-domain: [Jeu Vidéo]
-
-- Name: GoPro Technology
-  Description: "Systèmes de caméras sportives."
-  Info: "Entité R&D en France à Issy Les Moulineaux."
-  url: https://gopro.com/fr/fr/
-  Place: 
-    - City: Paris
-    - International: True
-  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, Imagerie]
-  Application-domain: [Générique]
-
-- Name: DON'T NOD 
-  url: https://dont-nod.com/en/
-  Description: "Développement de jeu vidéos"
-  Jobs: https://dont-nod.com/en/careers/
-  Place:
-    - City: Paris
-    - Country: Canada
-      City: Montréal
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
-  Application-domain: [Jeu Vidéo]
-
-- Name: Amplitude Studios
-  url: https://www.amplitude-studios.com/
-  Description: "Développement de jeu vidéos"
-  Jobs: https://www.amplitude-studios.com/#Careers
-  Place: 
-    - City: Paris
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
-  Application-domain: [Jeu Vidéo]
-
-- Name: Quantic Dream
-  url: https://www.quanticdream.com/fr
-  Description: "Développement de jeu vidéos"
-  Jobs: https://jobs.eu.lever.co/quanticdream
-  Place: 
-    - City: Paris
-    - Country: Canada
-      City: Montréal
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
-  Application-domain: [Jeu Vidéo]
-
-- Name: Harfang3D
-  url: https://www.harfang3d.com/
-  Description: "Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement,"
-  Place:
-    - City: Orléans
-  Scientific-domain: [Visualisation, Simulation, VR/AR]
-  Application-domain: [Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game]
-
-- Name: Asobo
-  url: https://www.asobostudio.com/
-  Jobs: https://www.asobostudio.com/careers
-  Description: "Développement de jeu vidéos"
-  Products: "Microsoft Flight Simulator, The Crew"
-  Place: 
-    - City: Bordeaux
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
-  Application-domain: [Jeu Vidéo]
