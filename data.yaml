@@ -1,16 +1,36 @@
-# Documentation:
+# Fichier contenant la base des entreprises
+#  Modifiez ce fichier pour ajouter/éditer les données d'une entreprise
 #
-#  - Name: [CompanyName] // Doit toujours débuter par -Name
-#    Name-long: [LongName] // Optionnel - nom long
-#    url: 
-#    Description: 
-#    Place: 
-#    Product: 
-#    Jobs: 
-#    Scientific-domain: 
-#    Application-domain: 
-#    Employees: 
 #
+# Syntaxe générale
+#
+#  - Name: [CompanyName] // Nom court de l'entreprise. Une entrée doit toujours débuter par Name.
+#    url:          // URL du site de l'entreprise
+#    Description:  // Description rapide de l'entreprise
+#    Place:        // Localisation de l'entreprise
+#    Scientific-domain:   // Mots clés du domaine scientifique: voir choix dans keywords.yaml
+#    Application-domain:  // Mots clés du domaine applicatif: voir choix dans keywords.yaml
+#    // Les tags optionnels:
+#    Jobs:       // URL des offres d'emplois de l'entreprise
+#    Name-long: [LongName] // Optionnel - nom long complet de l'entreprise
+#    Info:       // Information supplémentaire autre que description générale.
+#    Product:    // Les produits principaux réalisés/vendus par l'entreprise.
+#    Employees:  // Nombre d'employés approximatifs
+#
+# Syntaxe de Place:
+#   Place: NomVille                        // Indique une ville en France
+#   Place: NomVille1, NomVille2, NomVille3 // Indique plusieurs villes en France
+#   Place: {Country: NomPays, City: NomVille} // Indique une ville dans un pays hors France
+#   Place: {Country: [NomPays1, NomPays2, NomPays3]} // Indique une suite de pays (sans ville)
+#   // Pays et villes peuvent s'enchainer avec plus ou moins de precision.
+#   Place: 
+#     - Country: NomPays1
+#     - Country: NomPays2
+#       City: [NomVille1-Pays2, NomVille2-Pays2]
+#     - Country: NomPays3
+#       City: NomVille1-Pays3
+#   L'ajout du tag: "International: True" indique une entreprise présente de manière internationale.
+
 
 - Name: "2d3D Animations"
   url: https://www.2d3d-animations.com
