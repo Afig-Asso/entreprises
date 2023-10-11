@@ -5,7 +5,8 @@
 ## Compléter/Modifier les informations 
   - Envoyez un email à contact[at]asso-afig.fr avec vos informations
   - Ou faites un push-request sur le dépot.
-    - _Modifiez le fichier data.yaml pour ajouter/modifier les informations d'une entreprise._
+    - _Pour cela: Modifiez le fichier **data.yaml** pour ajouter/modifier les informations d'une entreprise._
+    - _Les fichiers README.md, et json/data.json sont générés automatiquement à partir de data.yaml, il est donc inutile de les modifier._
 
 ## Utilisation de la base en locale 
 
@@ -561,7 +562,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Unity Technologies](https://unity.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développement du moteur de jeu Unity et produits associés_
-  * **Remarque**: _Equipes de développement en France: <a href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a href="https://unity.com/products/sentis">IA</a> (Lille)_
+  * **Remarque**: _Equipes de développement en France: <a target="_blank" href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a target="_blank" href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a target="_blank" href="https://unity.com/products/sentis">IA</a> (Lille)_
   * **Localisation**: USA, France/{Paris, Grenoble, Compiegne, Lille}, Canada, Denmark, Finland, UK, Lituanie, Germany, Belgique, Suisse, International
   * **Nombres d'employés**: 7000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation

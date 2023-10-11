@@ -720,7 +720,7 @@
 - Name: Unity Technologies
   url: https://unity.com/
   Description: "Développement du moteur de jeu Unity et produits associés"
-  Info: "Equipes de développement en France: <a href=\"https://unity.com/srp/High-Definition-Render-Pipeline\">rendu graphique</a> (Paris, Grenoble), <a href=\"https://unity.com/products/pixyz\">geometry processing</a> (Compiegne, Grenoble) et <a href=\"https://unity.com/products/sentis\">IA</a> (Lille)"
+  Info: "Equipes de développement en France: <a target=\"_blank\" href=\"https://unity.com/srp/High-Definition-Render-Pipeline\">rendu graphique</a> (Paris, Grenoble), <a target=\"_blank\" href=\"https://unity.com/products/pixyz\">geometry processing</a> (Compiegne, Grenoble) et <a target=\"_blank\" href=\"https://unity.com/products/sentis\">IA</a> (Lille)"
   Jobs: https://careers.unity.com/
   Place: 
     - Country: USA
