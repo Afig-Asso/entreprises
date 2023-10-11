@@ -30,7 +30,10 @@
 #     - Country: NomPays3
 #       City: NomVille1-Pays3
 #   L'ajout du tag: "International: True" indique une entreprise présente de manière internationale.
-
+#
+# Rem. 
+#   - Les entreprises n'ont pas besoin d'être ordonnées alphabétiquement, le script scripts/sort_data.py permet de ré-ordonner automatiquement.
+# 
 
 - Name: "2d3D Animations"
   url: https://www.2d3d-animations.com
@@ -659,4 +662,65 @@
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
+- Name: Movea Tech
+  url: https://www.movea-tech.com/
+  Description: "Motion tracking et interface utilisateur, AR/VR."
+  Place: Grenoble
+  Scientific-domain: [Acquisition, VR/AR, IHM/Haptique]
+  Application-domain: [Générique]
 
+- Name: Solid Anim
+  url: https://www.solidanim.com/en/
+  Description: "Studio spécialisé en animation 3D, MOCAP, et production virtuelle."
+  Place: Bordeaux, Angoulème
+  Scientific-domain: [Animation, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: MicroFilms
+  url: http://www.microfilms.fr/machinerie-tv/
+  Description: "Capture de video pour la télévision"
+  Place: Paris
+  Scientific-domain: [Acquisition, Imagerie]
+  Application-domain: [Art/Evenementiel, Cinéma/Films d'Animation/VFX]
+
+- Name: ZSpace
+  url: https://zspace.com/
+  Description: "Stylet d'interaction 3D"
+  Place: 
+    - Country: USA
+      City: San Jose
+  Scientific-domain: [IHM/Haptique]
+  Application-domain: [Générique]
+
+- Name: Chaos
+  url: https://www.chaos.com/
+  Description: "Logiciel de rendu et moteur de simulation"
+  Product: VRay
+  Jobs: https://careers.chaos.com/
+  Place: 
+    - International: True
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Luxion
+  url: https://www.luxion.com/
+  Description: "Logiciel de rendu d'images"
+  Place:
+    - Country: USA
+      City: Costa Mesa
+    - Country: Denmark
+      City: Aarhus
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Next Limit
+  url: https://nextlimit.com/
+  Description: "Moteur de rendu et de simulation"
+  Product: 
+    - Name: RealFlow
+      url: https://realflow.com/
+    - Name: Maxwell Render
+      url: https://maxwellrender.com/
+  Place: 
+    - Country: Spain
+      City: Madrid

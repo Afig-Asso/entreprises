@@ -183,6 +183,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
 
 
+* **[Chaos](https://www.chaos.com/)**  
+  * _Logiciel de rendu et moteur de simulation_
+  * **Produits**: VRay
+  * **Localisation**: International
+  * **Domaine scientifique/technique**: Synthèse d'image
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://careers.chaos.com/)
+
+
 * **[Christie](https://www.christiedigital.com/en-gb)**  
   * _Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc)._
   * **Localisation**: USA/California, Canada/Ontario
@@ -325,12 +334,26 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Luxion](https://www.luxion.com/)**  
+  * _Logiciel de rendu d'images_
+  * **Localisation**: USA/Costa Mesa, Denmark/Aarhus
+  * **Domaine scientifique/technique**: Synthèse d'image
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Mercenaries Engineering](http://guerillarender.com/)**  
   * _Développement de logiciel de rendu (Guerilla Render) et d'animation (Rumba) pour la création de films d'animation._
   * **Produits**: [Guerilla Render](http://guerillarender.com/), [Rumba Animation](https://rumba-animation.com/)
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Synthèse d'image, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[MicroFilms](http://www.microfilms.fr/machinerie-tv/)**  
+  * _Capture de video pour la télévision_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Acquisition, Imagerie
+  * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
 
 
 * **[Microsoft](https://www.microsoft.com/)**  
@@ -356,6 +379,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mode/Vêtements/Accessoires
 
 
+* **[Movea Tech](https://www.movea-tech.com/)**  
+  * _Motion tracking et interface utilisateur, AR/VR._
+  * **Localisation**: Grenoble
+  * **Domaine scientifique/technique**: Acquisition, VR/AR, IHM/Haptique
+  * **Domaine d'application**: Générique
+
+
 * **[NVidia](https://www.nvidia.com/)**  
   * _Développement de cartes graphiques materiel et logiciel_
   * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
@@ -363,6 +393,12 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 13000
   * **Domaine scientifique/technique**: Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation
   * **Domaine d'application**: Générique
+
+
+* **[Next Limit](https://nextlimit.com/)**  
+  * _Moteur de rendu et de simulation_
+  * **Produits**: [RealFlow](https://realflow.com/), [Maxwell Render](https://maxwellrender.com/)
+  * **Localisation**: Spain/Madrid
 
 
 * **[Pixel Wizards](https://pixel-wizards.com/)**  
@@ -411,6 +447,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.sidefx.com/careers/)
+
+
+* **[Solid Anim](https://www.solidanim.com/en/)**  
+  * _Studio spécialisé en animation 3D, MOCAP, et production virtuelle._
+  * **Localisation**: Bordeaux,  Angoulème
+  * **Domaine scientifique/technique**: Animation, Acquisition
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[SpirOPS](https://www.spirops.com/)**  
@@ -497,5 +540,12 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie
   * **Domaine d'application**: Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile
   * [_Jobs_](https://www.yellowscan-lidar.com/about/career/)
+
+
+* **[ZSpace](https://zspace.com/)**  
+  * _Stylet d'interaction 3D_
+  * **Localisation**: USA/San Jose
+  * **Domaine scientifique/technique**: IHM/Haptique
+  * **Domaine d'application**: Générique
 
 
