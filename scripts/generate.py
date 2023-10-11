@@ -95,7 +95,8 @@ def export_place_to_MD(data):
 
 def prettyMD_company(data):
     out = ''
-    
+
+   
     name = data['Name']
     url = data['url']
 
@@ -233,7 +234,15 @@ def check_keywords(data_keywords, data, exitOnError=False):
         exit(1)
 
 
+def check_validity_data(data, data_keywords):
 
+    required_keywords = ['Application-domain', 'Scientific-domain']
+    for entry in data:
+        assert 'Name' in entry
+        name = entry['Name']
+        for key in required_keywords:
+            if key not in entry:
+                print(f'!! Warning: Missing {key} in entry {name}\n')
 
 if __name__ == "__main__":
 
@@ -254,6 +263,8 @@ if __name__ == "__main__":
 
     data = liblisting.yaml_read_file(filename_yaml)
     data_keywords = liblisting.yaml_read_file(filename_yaml_keywords)
+
+    check_validity_data(data, data_keywords)
 
     if is_check:
         print('Check Keywords ...')
