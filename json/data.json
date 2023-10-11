@@ -1575,8 +1575,7 @@
         {
             "Name": "Unity Technologies",
             "url": "https://unity.com/",
-            "Info": "Equipes de d\u00e9veloppement en France: <a href=\"https://unity.com/srp/High-Definition-Render-Pipeline\">rendu graphique</a> (Paris, Grenoble), <a href=\"https://unity.com/products/pixyz\">geometry processing</a> (Compiegne, Grenoble) et <a href=\"https://unity.com/products/sentis\">IA</a> (Lille)"
-            "Description": "D\u00e9veloppement du moteur de jeu Unity et produits associés",
+            "Description": "D\u00e9veloppement du moteur de jeu Unity",
             "Jobs": "https://careers.unity.com/",
             "Place": [
                 {
@@ -1586,41 +1585,15 @@
                     "Country": "France",
                     "City": [
                         "Paris",
-                        "Grenoble",
-                        "Compiegne",
-                        "Lille"
+                        "Grenoble"
                     ]
-                },
-                {
-                    "Country": "Canada"
-                },
-                {
-                    "Country": "Danemark"
-                },
-                {
-                    "Country": "Finlande"
-                },
-                {
-                    "Country": "Royaume-Uni"
-                },
-                {
-                    "Country": "Lituanie"
-                },
-                {
-                    "Country": "Allemagne"
-                },
-                {
-                    "Country": "Belgique"
-                },
-                {
-                    "Country": "Suisse"
                 },
                 {
                     "International": true
                 }
             ],
             "Highlight": "Graphics, R&D",
-            "Employees": 7000,
+            "Employees": 5000,
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
