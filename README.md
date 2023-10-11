@@ -561,6 +561,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Unity Technologies](https://unity.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développement du moteur de jeu Unity_
+  * **Remarque**: _<a href="https://studios.disneyresearch.com/">Equipe de recherche</a> en France dans le domaine du rendu a Grenoble_
   * **Localisation**: USA, France/{Paris, Grenoble}, International
   * **Nombres d'employés**: 5000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
