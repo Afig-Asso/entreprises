@@ -719,16 +719,17 @@
 
 - Name: Unity Technologies
   url: https://unity.com/
-  Description: "Développement du moteur de jeu Unity"
-  Info: "<a href=\"https://studios.disneyresearch.com/\">Equipe de recherche</a> en France dans le domaine du rendu a Grenoble"
+  Description: "Développement du moteur de jeu Unity et produits associés"
+  Info: "Equipes de développement en France: <a href=\"https://unity.com/srp/High-Definition-Render-Pipeline\">rendu graphique</a> (Paris, Grenoble), <a href=\"https://unity.com/products/pixyz\">geometry processing</a> (Compiegne, Grenoble) et <a href=\"https://unity.com/products/sentis\">IA</a> (Lille)"
   Jobs: https://careers.unity.com/
   Place: 
     - Country: USA
     - Country: France
-      City: ["Paris", "Grenoble"]
+      City: ["Paris", "Grenoble", "Compiegne", "Lille"]
+    - Country: ["Canada", "Denmark", "Finland", "UK", "Lituanie", "Germany", "Belgique", "Suisse"]
     - International: True
   Highlight: Graphics, R&D
-  Employees: 5000
+  Employees: 7000
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
 
