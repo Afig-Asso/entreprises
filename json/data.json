@@ -514,6 +514,24 @@
             ]
         },
         {
+            "Name": "Chaos",
+            "url": "https://www.chaos.com/",
+            "Description": "Logiciel de rendu et moteur de simulation",
+            "Product": "VRay",
+            "Jobs": "https://careers.chaos.com/",
+            "Place": [
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
             "Name": "Christie",
             "url": "https://www.christiedigital.com/en-gb",
             "Description": "Syst\u00e8mes de projections vid\u00e9o et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
@@ -937,6 +955,40 @@
             ]
         },
         {
+            "Name": "Les f\u00e9es sp\u00e9ciales",
+            "url": "https://les-fees-speciales.coop/",
+            "Description": "Cr\u00e9ation d'animation 2D/3D, immersives et interactives.",
+            "Place": "Montpellier",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ]
+        },
+        {
+            "Name": "Luxion",
+            "url": "https://www.luxion.com/",
+            "Description": "Logiciel de rendu d'images",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Costa Mesa"
+                },
+                {
+                    "Country": "Denmark",
+                    "City": "Aarhus"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
             "Name": "Mercenaries Engineering",
             "url": "http://guerillarender.com/",
             "Description": "D\u00e9veloppement de logiciel de rendu (Guerilla Render) et d'animation (Rumba) pour la cr\u00e9ation de films d'animation.",
@@ -956,6 +1008,20 @@
                 "Animation"
             ],
             "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "MicroFilms",
+            "url": "http://www.microfilms.fr/machinerie-tv/",
+            "Description": "Capture de video pour la t\u00e9l\u00e9vision",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
@@ -1022,6 +1088,20 @@
             ]
         },
         {
+            "Name": "Movea Tech",
+            "url": "https://www.movea-tech.com/",
+            "Description": "Motion tracking et interface utilisateur, AR/VR.",
+            "Place": "Grenoble",
+            "Scientific-domain": [
+                "Acquisition",
+                "VR/AR",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "NVidia",
             "Description": "D\u00e9veloppement de cartes graphiques materiel et logiciel",
             "Info": "NVidia Research est pr\u00e9sent partout dans le monde, dont en France.",
@@ -1046,6 +1126,52 @@
                 "G\u00e9n\u00e9rique"
             ],
             "Employees": 13000
+        },
+        {
+            "Name": "Next Limit",
+            "url": "https://nextlimit.com/",
+            "Description": "Moteur de rendu et de simulation",
+            "Product": [
+                {
+                    "Name": "RealFlow",
+                    "url": "https://realflow.com/"
+                },
+                {
+                    "Name": "Maxwell Render",
+                    "url": "https://maxwellrender.com/"
+                }
+            ],
+            "Place": [
+                {
+                    "Country": "Spain",
+                    "City": "Madrid"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Otoy",
+            "url": "https://home.otoy.com/",
+            "Description": "Logiciel de rendu graphique sur le cloud, et capture",
+            "Product": "Octane Render",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Los Angeles"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         },
         {
             "Name": "Pixel Wizards",
@@ -1179,6 +1305,19 @@
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Solid Anim",
+            "url": "https://www.solidanim.com/en/",
+            "Description": "Studio sp\u00e9cialis\u00e9 en animation 3D, MOCAP, et production virtuelle.",
+            "Place": "Bordeaux, Angoul\u00e8me",
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -1346,6 +1485,20 @@
             ]
         },
         {
+            "Name": "The Yard VFX",
+            "url": "http://theyard-vfx.com/",
+            "Description": "Effets visuels pour le cin\u00e9ma.",
+            "Place": "Paris, Montpellier",
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
             "Name": "UVR",
             "Name-long": "United Visual Researchers",
             "Description": "Logiciel d'analyse optique et de rendu avanc\u00e9 (spectral, lumi\u00e8re polaris\u00e9e).",
@@ -1454,6 +1607,48 @@
             ]
         },
         {
+            "Name": "Virtuos",
+            "url": "https://www.virtuosgames.com/",
+            "Description": "Studio d\u00e9veloppement de jeu vid\u00e9o",
+            "Place": [
+                {
+                    "Country": "Singapore"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "VizGraphics",
+            "url": "https://www.vizgraphics.com/",
+            "Description": "Rendu de sc\u00e8nes sp\u00e9cialis\u00e9 dans l'architecture et les sc\u00e8nes d'int\u00e9rieur.",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Conifer"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Architecture/Immobilier"
+            ]
+        },
+        {
             "Name": "YellowScan",
             "url": "https://www.yellowscan-lidar.com/",
             "Description": "Scan LiDAR pour application industrielles",
@@ -1475,47 +1670,6 @@
             ]
         },
         {
-            "Name": "Movea Tech",
-            "url": "https://www.movea-tech.com/",
-            "Description": "Motion tracking et interface utilisateur, AR/VR.",
-            "Place": "Grenoble",
-            "Scientific-domain": [
-                "Acquisition",
-                "VR/AR",
-                "IHM/Haptique"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Solid Anim",
-            "url": "https://www.solidanim.com/en/",
-            "Description": "Studio sp\u00e9cialis\u00e9 en animation 3D, MOCAP, et production virtuelle.",
-            "Place": "Bordeaux, Angoul\u00e8me",
-            "Scientific-domain": [
-                "Animation",
-                "Acquisition"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "MicroFilms",
-            "url": "http://www.microfilms.fr/machinerie-tv/",
-            "Description": "Capture de video pour la t\u00e9l\u00e9vision",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Acquisition",
-                "Imagerie"
-            ],
-            "Application-domain": [
-                "Art/Evenementiel",
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
             "Name": "ZSpace",
             "url": "https://zspace.com/",
             "Description": "Stylet d'interaction 3D",
@@ -1530,72 +1684,6 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Chaos",
-            "url": "https://www.chaos.com/",
-            "Description": "Logiciel de rendu et moteur de simulation",
-            "Product": "VRay",
-            "Jobs": "https://careers.chaos.com/",
-            "Place": [
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Luxion",
-            "url": "https://www.luxion.com/",
-            "Description": "Logiciel de rendu d'images",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Costa Mesa"
-                },
-                {
-                    "Country": "Denmark",
-                    "City": "Aarhus"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Next Limit",
-            "url": "https://nextlimit.com/",
-            "Description": "Moteur de rendu et de simulation",
-            "Product": [
-                {
-                    "Name": "RealFlow",
-                    "url": "https://realflow.com/"
-                },
-                {
-                    "Name": "Maxwell Render",
-                    "url": "https://maxwellrender.com/"
-                }
-            ],
-            "Place": [
-                {
-                    "Country": "Spain",
-                    "City": "Madrid"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         }
     ]

@@ -229,6 +229,16 @@
   Application-domain: [Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires]
 
 
+- Name: Chaos
+  url: https://www.chaos.com/
+  Description: "Logiciel de rendu et moteur de simulation"
+  Product: VRay
+  Jobs: https://careers.chaos.com/
+  Place: 
+    - International: True
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: Christie
   url: https://www.christiedigital.com/en-gb
   Description: Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
@@ -413,6 +423,24 @@
   Scientific-domain: [Synthèse d'image, Vision, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Les fées spéciales
+  url: https://les-fees-speciales.coop/
+  Description: "Création d'animation 2D/3D, immersives et interactives."
+  Place: Montpellier
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
+
+- Name: Luxion
+  url: https://www.luxion.com/
+  Description: "Logiciel de rendu d'images"
+  Place:
+    - Country: USA
+      City: Costa Mesa
+    - Country: Denmark
+      City: Aarhus
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: Mercenaries Engineering
   url: http://guerillarender.com/
   Description: Développement de logiciel de rendu (Guerilla Render) et d'animation (Rumba) pour la création de films d'animation.
@@ -424,6 +452,13 @@
   Place: Paris
   Scientific-domain: [Synthèse d'image, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: MicroFilms
+  url: http://www.microfilms.fr/machinerie-tv/
+  Description: "Capture de video pour la télévision"
+  Place: Paris
+  Scientific-domain: [Acquisition, Imagerie]
+  Application-domain: [Art/Evenementiel, Cinéma/Films d'Animation/VFX]
 
 - Name: Microsoft
   Info: <a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique.
@@ -454,6 +489,13 @@
   Application-domain: [Mode/Vêtements/Accessoires]
 
 
+- Name: Movea Tech
+  url: https://www.movea-tech.com/
+  Description: "Motion tracking et interface utilisateur, AR/VR."
+  Place: Grenoble
+  Scientific-domain: [Acquisition, VR/AR, IHM/Haptique]
+  Application-domain: [Générique]
+
 - Name: NVidia
   Description: "Développement de cartes graphiques materiel et logiciel"
   Info: "NVidia Research est présent partout dans le monde, dont en France."
@@ -464,6 +506,30 @@
   Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
   Application-domain: [Générique]
   Employees: 13000
+
+- Name: Next Limit
+  url: https://nextlimit.com/
+  Description: "Moteur de rendu et de simulation"
+  Product: 
+    - Name: RealFlow
+      url: https://realflow.com/
+    - Name: Maxwell Render
+      url: https://maxwellrender.com/
+  Place: 
+    - Country: Spain
+      City: Madrid
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Otoy
+  url: https://home.otoy.com/
+  Description: "Logiciel de rendu graphique sur le cloud, et capture"
+  Product: "Octane Render"
+  Place: 
+    - Country: USA
+      City: Los Angeles
+  Scientific-domain: [Synthèse d'image, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Pixel Wizards
   Description: "Studio de jeu vidéos indie, jeux en tours par tours"
@@ -528,6 +594,13 @@
     - Country: Canada
       City: Toronto
   Scientific-domain: [Modélisation, Animation, Simulation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Solid Anim
+  url: https://www.solidanim.com/en/
+  Description: "Studio spécialisé en animation 3D, MOCAP, et production virtuelle."
+  Place: Bordeaux, Angoulème
+  Scientific-domain: [Animation, Acquisition]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: SpirOPS
@@ -606,6 +679,13 @@
   Scientific-domain: [Synthèse d'image, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: The Yard VFX
+  url: http://theyard-vfx.com/
+  Description: "Effets visuels pour le cinéma."
+  Place: Paris, Montpellier
+  Scientific-domain: [Synthèse d'image, Animation, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: UVR
   Name-long: United Visual Researchers
   Description: "Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)."
@@ -652,6 +732,26 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
 
+- Name: Virtuos
+  url: https://www.virtuosgames.com/
+  Description: "Studio développement de jeu vidéo"
+  Place: 
+    - Country: Singapore
+    - Country: France
+      City: Paris
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
+- Name: VizGraphics
+  url: https://www.vizgraphics.com/
+  Description: "Rendu de scènes spécialisé dans l'architecture et les scènes d'intérieur."
+  Place: 
+    - Country: USA
+      City: Conifer
+  Scientific-domain: [Synthèse d'image, Modélisation, Visualisation]
+  Application-domain: [Architecture/Immobilier]
+
+
 - Name: YellowScan
   url: https://www.yellowscan-lidar.com/
   Description: "Scan LiDAR pour application industrielles"
@@ -662,27 +762,6 @@
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
-- Name: Movea Tech
-  url: https://www.movea-tech.com/
-  Description: "Motion tracking et interface utilisateur, AR/VR."
-  Place: Grenoble
-  Scientific-domain: [Acquisition, VR/AR, IHM/Haptique]
-  Application-domain: [Générique]
-
-- Name: Solid Anim
-  url: https://www.solidanim.com/en/
-  Description: "Studio spécialisé en animation 3D, MOCAP, et production virtuelle."
-  Place: Bordeaux, Angoulème
-  Scientific-domain: [Animation, Acquisition]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: MicroFilms
-  url: http://www.microfilms.fr/machinerie-tv/
-  Description: "Capture de video pour la télévision"
-  Place: Paris
-  Scientific-domain: [Acquisition, Imagerie]
-  Application-domain: [Art/Evenementiel, Cinéma/Films d'Animation/VFX]
-
 - Name: ZSpace
   url: https://zspace.com/
   Description: "Stylet d'interaction 3D"
@@ -692,37 +771,3 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
-- Name: Chaos
-  url: https://www.chaos.com/
-  Description: "Logiciel de rendu et moteur de simulation"
-  Product: VRay
-  Jobs: https://careers.chaos.com/
-  Place: 
-    - International: True
-  Scientific-domain: [Synthèse d'image]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: Luxion
-  url: https://www.luxion.com/
-  Description: "Logiciel de rendu d'images"
-  Place:
-    - Country: USA
-      City: Costa Mesa
-    - Country: Denmark
-      City: Aarhus
-  Scientific-domain: [Synthèse d'image]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: Next Limit
-  url: https://nextlimit.com/
-  Description: "Moteur de rendu et de simulation"
-  Product: 
-    - Name: RealFlow
-      url: https://realflow.com/
-    - Name: Maxwell Render
-      url: https://maxwellrender.com/
-  Place: 
-    - Country: Spain
-      City: Madrid
-  Scientific-domain: [Synthèse d'image]
-  Application-domain: [Cinéma/Films d'Animation/VFX]

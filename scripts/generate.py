@@ -139,43 +139,55 @@ def prettyMD_company(data):
 
 def prettyMD(data):
 
-    # badge Github check URL vality
-    out = '![URLs](https://github.com/Afig-Asso/entreprises/actions/workflows/url.yml/badge.svg) \n\n'
+    # # badge Github check URL vality
+    # out = '![URLs](https://github.com/Afig-Asso/entreprises/actions/workflows/url.yml/badge.svg) \n\n'
 
-    out += '# Listing d\'entreprises en Informatique Graphique \n'
+    # out += '# Listing d\'entreprises en Informatique Graphique \n'
   
-    out += '## Compléter/Modifier les informations \n'
-    out += '  - Envoyez un email à contact[at]asso-afig.fr avec vos informations\n' 
-    out += '  - Ou faites un push-request sur le dépot.\n'
-    out += '## Utilisation de la base en locale \n'
-    out += '  - `data.yaml`: Base de données des entreprises \n'
-    out += '  - `keywords.yaml`: Mots clés \n\n'
-    out += '### Générer un site après modification: \n'
-    out += '```\n'
-    out += 'python scripts/generate.py \n\n'
-    out += '```\n'
-    out += 'Génère les fichiers suivants: \n'
-    out += '- README.md: Vue des entreprises au format markdown pour github. \n'
-    out += '- json/data.json: Base de donnée accessible pour générer des pages web dynamique. \n'
-    out += '### Arguments \n'
-    out += '```\n'
-    out += 'generate.py [-c] [-C] \n'
-    out += '  -c --checkValidity: Check coherence of keyword and accessibility of URLs.\n'
-    out += '        Do not exit if errors are detected (see -C for this). \n'
-    out += '  -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs.\n'
-    out += '        Quit if errors are detected.\n'
-    out += '```\n'
-    out += '### Site web: \n'
-    out += 'Le répertoire site/ contient un example de page web dynamique chargée dynamiquement depuis le fichier json présent sur github.\n'
-    out += '### Action push sur github: \n'
-    out += 'Après un push sur github, les éléments suivants sont mis à jours:\n'
-    out += '- La nouvelle base est vérifiée localement avec `python generate.py -C`\n'
-    out += '- Le contenu de site/ est déployé sur une page github.io: https://afig-asso.github.io/entreprises/\n'
-    out += '\n\n'
+    # out += '## Compléter/Modifier les informations \n'
+    # out += '  - Envoyez un email à contact[at]asso-afig.fr avec vos informations\n' 
+    # out += '  - Ou faites un push-request sur le dépot.\n'
+    # out += '## Utilisation de la base en locale \n'
+    # out += '  - `data.yaml`: Base de données des entreprises \n'
+    # out += '  - `keywords.yaml`: Mots clés \n\n'
+    # out += '### Générer un site après modification: \n'
+    # out += '```\n'
+    # out += 'python scripts/generate.py \n\n'
+    # out += '```\n'
+    # out += 'Génère les fichiers suivants: \n'
+    # out += '- README.md: Vue des entreprises au format markdown pour github. \n'
+    # out += '- json/data.json: Base de donnée accessible pour générer des pages web dynamique. \n'
+    # out += '### Arguments \n'
+    # out += '```\n'
+    # out += 'generate.py [-c] [-C] \n'
+    # out += '  -c --checkValidity: Check coherence of keyword and accessibility of URLs.\n'
+    # out += '        Do not exit if errors are detected (see -C for this). \n'
+    # out += '  -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs.\n'
+    # out += '        Quit if errors are detected.\n'
+    # out += '```\n'
+    # out += '### Site web: \n'
+    # out += 'Le répertoire site/ contient un example de page web dynamique chargée dynamiquement depuis le fichier json présent sur github.\n'
+    # out += '### Action push sur github: \n'
+    # out += 'Après un push sur github, les éléments suivants sont mis à jours:\n'
+    # out += '- La nouvelle base est vérifiée localement avec `python generate.py -C`\n'
+    # out += '- Le contenu de site/ est déployé sur une page github.io: https://afig-asso.github.io/entreprises/\n'
+    # out += '\n\n'
 
 
-    out += '## Listing \n\n' 
+    # out += '## Listing \n\n' 
+
+    # Read existing README until "## Listing"
+    #  Then replace the remaining with the list of companies
+    with open(meta['filename_md_out']) as fid:
+        readme_txt = fid.read()
+        pos = readme_txt.find('## Listing')
+        new_readme = readme_txt[:pos]
+        print(readme_txt)
+    assert len(new_readme)>10
     
+    
+def listing_to_md(data):
+    out = ''
 
     companies = sorted(data, key=lambda x: x['Name'])
     print('Export Companies ...')
@@ -282,9 +294,23 @@ if __name__ == "__main__":
     with open(filename_json_out, 'w') as json_fid:
         json.dump(json_data, json_fid, indent=4)
 
-    # export pretty md
-    with open(filename_md_out, 'w') as md_fid:
-        mdTXT = prettyMD(data)
-        md_fid.write(mdTXT)
-    
+
+    # Update README.md
+    ###################
+
+    # Export listing as .md
+    listing_txt = listing_to_md(data)
+
+    # now read previous readme and update it
+    with open(meta['filename_md_out'], 'r') as fid:
+        readme_txt = fid.read()
+        pos = readme_txt.find('## Listing')
+        new_readme = readme_txt[:pos]
+    assert len(new_readme)>10
+    new_readme = new_readme + "## Listing \n\n" + listing_txt
+
+    # write the final file
+    with open(meta['filename_md_out'], 'w') as fid:
+        fid.write(new_readme)
+   
     print()

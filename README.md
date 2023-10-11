@@ -1,22 +1,29 @@
 ![URLs](https://github.com/Afig-Asso/entreprises/actions/workflows/url.yml/badge.svg) 
 
 # Listing d'entreprises en Informatique Graphique 
+
 ## Compléter/Modifier les informations 
   - Envoyez un email à contact[at]asso-afig.fr avec vos informations
   - Ou faites un push-request sur le dépot.
+    - _Modifiez le fichier data.yaml pour ajouter/modifier les informations d'une entreprise._
+
 ## Utilisation de la base en locale 
+
   - `data.yaml`: Base de données des entreprises 
   - `keywords.yaml`: Mots clés 
 
 ### Générer un site après modification: 
+
 ```
 python scripts/generate.py 
 
 ```
 Génère les fichiers suivants: 
 - README.md: Vue des entreprises au format markdown pour github. 
-- json/data.json: Base de donnée accessible pour générer des pages web dynamique. 
+- json/data.json: Base de donnée accessible pour générer des pages web dynamique.
+
 ### Arguments 
+
 ```
 generate.py [-c] [-C] 
   -c --checkValidity: Check coherence of keyword and accessibility of URLs.
@@ -24,9 +31,13 @@ generate.py [-c] [-C]
   -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs.
         Quit if errors are detected.
 ```
+
 ### Site web: 
+
 Le répertoire site/ contient un example de page web dynamique chargée dynamiquement depuis le fichier json présent sur github.
+
 ### Action push sur github: 
+
 Après un push sur github, les éléments suivants sont mis à jours:
 - La nouvelle base est vérifiée localement avec `python generate.py -C`
 - Le contenu de site/ est déployé sur une page github.io: https://afig-asso.github.io/entreprises/
@@ -334,6 +345,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Les fées spéciales](https://les-fees-speciales.coop/)**  
+  * _Création d'animation 2D/3D, immersives et interactives._
+  * **Localisation**: Montpellier
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+
+
 * **[Luxion](https://www.luxion.com/)**  
   * _Logiciel de rendu d'images_
   * **Localisation**: USA/Costa Mesa, Denmark/Aarhus
@@ -400,6 +418,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Produits**: [RealFlow](https://realflow.com/), [Maxwell Render](https://maxwellrender.com/)
   * **Localisation**: Spain/Madrid
   * **Domaine scientifique/technique**: Synthèse d'image
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Otoy](https://home.otoy.com/)**  
+  * _Logiciel de rendu graphique sur le cloud, et capture_
+  * **Produits**: Octane Render
+  * **Localisation**: USA/Los Angeles
+  * **Domaine scientifique/technique**: Synthèse d'image, Acquisition
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
@@ -508,6 +534,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://apply.workable.com/foundry/)
 
 
+* **[The Yard VFX](http://theyard-vfx.com/)**  
+  * _Effets visuels pour le cinéma._
+  * **Localisation**: Paris,  Montpellier
+  * **Domaine scientifique/technique**: Synthèse d'image, Animation, Acquisition
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[UVR](https://www.united-vr.com/)** (United Visual Researchers) 
   * _Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)._
   * **Localisation**: Paris
@@ -534,6 +567,20 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://careers.unity.com/)
+
+
+* **[Virtuos](https://www.virtuosgames.com/)**  
+  * _Studio développement de jeu vidéo_
+  * **Localisation**: Singapore, France/Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[VizGraphics](https://www.vizgraphics.com/)**  
+  * _Rendu de scènes spécialisé dans l'architecture et les scènes d'intérieur._
+  * **Localisation**: USA/Conifer
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Visualisation
+  * **Domaine d'application**: Architecture/Immobilier
 
 
 * **[YellowScan](https://www.yellowscan-lidar.com/)**  
