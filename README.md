@@ -314,6 +314,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://buf.com/jobs/)
 
 
+* **[InSimo](https://www.insimo.com/)**  
+  * _Logiciels de simulation pour la formation médicale et chirurgicale._
+  * **Localisation**: Strasbourg
+  * **Domaine scientifique/technique**: Simulation, Modélisation, Animation, Visualisation
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.insimo.com/fr/career-2/)
+
+
 * **[Kinetix](https://www.kinetix.tech/)**  
   * _Création d'animation 3D d'humain à partir de capture de video sur smartphone._
   * **Localisation**: Paris

@@ -1699,6 +1699,22 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "InSimo",
+            "url": "https://www.insimo.com/",
+            "Description": "Logiciels de simulation pour la formation m\u00e9dicale et chirurgicale.",
+            "Place": "Strasbourg",
+            "Scientific-domain": [
+                "Simulation",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.insimo.com/fr/career-2/"
         }
     ]
 }

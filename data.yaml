@@ -772,3 +772,10 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
+- Name: InSimo
+  url: https://www.insimo.com/
+  Description: "Logiciels de simulation pour la formation médicale et chirurgicale."
+  Place: Strasbourg
+  Scientific-domain: [Simulation, Modélisation, Animation, Visualisation]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.insimo.com/fr/career-2/
