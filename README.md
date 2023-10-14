@@ -271,6 +271,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.epicgames.com/site/en-US/careers/jobs)
 
 
+* **[Episkin](https://www.episkin.com/)**  
+  * _Modèle In-Vitro de peau_
+  * **Localisation**: Lyon
+  * **Domaine scientifique/technique**: Imagerie, Simulation
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Focus Entrainment](https://www.focus-entmt.com/fr)**  
   * _Développement de jeu vidéos_
   * **Localisation**: Paris

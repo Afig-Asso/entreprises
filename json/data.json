@@ -1783,6 +1783,19 @@
             "Application-domain": [
                 "Robotique/Syst\u00e8mes autonomes"
             ]
+        },
+        {
+            "Name": "Episkin",
+            "Description": "Mod\u00e8le In-Vitro de peau",
+            "Place": "Lyon",
+            "url": "https://www.episkin.com/",
+            "Scientific-domain": [
+                "Imagerie",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
         }
     ]
 }

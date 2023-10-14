@@ -813,3 +813,10 @@
   url: https://en.wandercraft.eu/
   Scientific-domain: [Simulation, IA]
   Application-domain: [Robotique/Systèmes autonomes]
+
+- Name: Episkin
+  Description: "Modèle In-Vitro de peau"
+  Place: Lyon
+  url: https://www.episkin.com/
+  Scientific-domain: [Imagerie, Simulation]
+  Application-domain: [Médical/Biologique]
