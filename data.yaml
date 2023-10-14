@@ -806,3 +806,10 @@
   url: https://studio-draconis.com/
   Scientific-domain: [IA]
   Application-domain: [Jeu Vidéo]
+
+- Name: Wandercraft
+  Description: "Systèmes d'exosquelettes"
+  Place: Paris
+  url: https://en.wandercraft.eu/
+  Scientific-domain: [Simulation, IA]
+  Application-domain: [Robotique/Systèmes autonomes]

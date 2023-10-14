@@ -508,6 +508,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.spirops.com/jobs.php?lg=en)
 
 
+* **[Studio Draconis](https://studio-draconis.com/)**  
+  * _Développement de jeux vidéos RPG_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: IA
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[SysNav](https://www.sysnav.fr/)**  
   * _Géolocalisation de personnes et véhicules_
   * **Localisation**: Paris
@@ -604,6 +611,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: USA/Conifer
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Visualisation
   * **Domaine d'application**: Architecture/Immobilier
+
+
+* **[Wandercraft](https://en.wandercraft.eu/)**  
+  * _Systèmes d'exosquelettes_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Simulation, IA
+  * **Domaine d'application**: Robotique/Systèmes autonomes
 
 
 * **[YellowScan](https://www.yellowscan-lidar.com/)**  

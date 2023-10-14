@@ -1758,6 +1758,31 @@
             "Application-domain": [
                 "M\u00e9dical/Biologique"
             ]
+        },
+        {
+            "Name": "Studio Draconis",
+            "Description": "D\u00e9veloppement de jeux vid\u00e9os RPG",
+            "Place": "Paris",
+            "url": "https://studio-draconis.com/",
+            "Scientific-domain": [
+                "IA"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Wandercraft",
+            "Description": "Syst\u00e8mes d'exosquelettes",
+            "Place": "Paris",
+            "url": "https://en.wandercraft.eu/",
+            "Scientific-domain": [
+                "Simulation",
+                "IA"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes"
+            ]
         }
     ]
 }
