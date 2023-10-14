@@ -799,3 +799,10 @@
       City: São Paulo
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Médical/Biologique]
+
+- Name: Studio Draconis
+  Description: "Développement de jeux vidéos RPG"
+  Place: Paris
+  url: https://studio-draconis.com/
+  Scientific-domain: [IA]
+  Application-domain: [Jeu Vidéo]
