@@ -501,6 +501,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.spirops.com/jobs.php?lg=en)
 
 
+* **[SysNav](https://www.sysnav.fr/)**  
+  * _Géolocalisation de personnes et véhicules_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction
+  * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique
+
+
 * **[TVPaint](https://www.tvpaint.com/)**  
   * _Logiciel d'animation 2D._
   * **Localisation**: Metz

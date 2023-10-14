@@ -779,3 +779,11 @@
   Scientific-domain: [Simulation, Modélisation, Animation, Visualisation]
   Application-domain: [Médical/Biologique]
   Jobs: https://www.insimo.com/fr/career-2/
+
+- Name: SysNav
+  url: https://www.sysnav.fr/
+  Description: "Géolocalisation de personnes et véhicules"
+  Place: Paris
+  Scientific-domain: [Acquisition, Reconstruction]
+  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
+
