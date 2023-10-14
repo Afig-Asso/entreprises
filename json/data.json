@@ -1730,6 +1730,34 @@
                 "Automobile/Navigation/Aviation",
                 "M\u00e9dical/Biologique"
             ]
+        },
+        {
+            "Name": "Align Technologies",
+            "url": "https://www.aligntech.com/",
+            "Description": "Dispositif et imagerie m\u00e9dicale pour l'orthodontie",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "Suisse",
+                    "City": "Rotkreuz"
+                },
+                {
+                    "Country": "Singapore"
+                },
+                {
+                    "Country": "Brazil",
+                    "City": "S\u00e3o Paulo"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
         }
     ]
 }

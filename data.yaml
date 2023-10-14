@@ -787,3 +787,15 @@
   Scientific-domain: [Acquisition, Reconstruction]
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
 
+- Name: Align Technologies
+  url: https://www.aligntech.com/
+  Description: "Dispositif et imagerie médicale pour l'orthodontie"
+  Place: 
+    - Country: USA
+    - Country: Suisse
+      City: Rotkreuz
+    - Country: Singapore
+    - Country: Brazil
+      City: São Paulo
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]

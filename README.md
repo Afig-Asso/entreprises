@@ -80,6 +80,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
 
 
+* **[Align Technologies](https://www.aligntech.com/)**  
+  * _Dispositif et imagerie médicale pour l'orthodontie_
+  * **Localisation**: USA, Suisse/Rotkreuz, Singapore, Brazil/São Paulo
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Alma](https://www.alma.fr/nos-activites/logiciels-cfao/)** (Alma Logiciels CFAO) 
   * _Edition de logiciels de Conception et Fabrication d'objets manufacturés._
   * **Localisation**: Grenoble,  Lyon,  Tarbes,  Paris,  Annecy
