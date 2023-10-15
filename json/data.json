@@ -186,6 +186,34 @@
             "Employees": 20000
         },
         {
+            "Name": "Align Technologies",
+            "url": "https://www.aligntech.com/",
+            "Description": "Dispositif et imagerie m\u00e9dicale pour l'orthodontie",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "Suisse",
+                    "City": "Rotkreuz"
+                },
+                {
+                    "Country": "Singapore"
+                },
+                {
+                    "Country": "Brazil",
+                    "City": "S\u00e3o Paulo"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "Alma",
             "Name-long": "Alma Logiciels CFAO",
             "url": "https://www.alma.fr/nos-activites/logiciels-cfao/",
@@ -723,6 +751,19 @@
             ]
         },
         {
+            "Name": "Episkin",
+            "Description": "Mod\u00e8le In-Vitro de peau",
+            "Place": "Lyon",
+            "url": "https://www.episkin.com/",
+            "Scientific-domain": [
+                "Imagerie",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "Focus Entrainment",
             "Description": "D\u00e9veloppement de jeu vid\u00e9os",
             "url": "https://www.focus-entmt.com/fr",
@@ -863,6 +904,22 @@
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Employees": 60
+        },
+        {
+            "Name": "InSimo",
+            "url": "https://www.insimo.com/",
+            "Description": "Logiciels de simulation pour la formation m\u00e9dicale et chirurgicale.",
+            "Place": "Strasbourg",
+            "Scientific-domain": [
+                "Simulation",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.insimo.com/fr/career-2/"
         },
         {
             "Name": "Kinetix",
@@ -1269,6 +1326,30 @@
             ]
         },
         {
+            "Name": "Roblox",
+            "Description": "Plateforme de jeu ouvert orient\u00e9 cr\u00e9ation et metavers",
+            "Info": "D\u00e9veloppe une entit\u00e9 de <a href=\"https://research.roblox.com/\">recherche internationale</a>",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Los Angeles"
+                }
+            ],
+            "url": "https://www.roblox.com/",
+            "Jobs": "https://careers.roblox.com/",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation",
+                "Web/Cloud/Big Data",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
             "Name": "Shot Over",
             "url": "https://shotover.com/",
             "Description": "Syst\u00e8me d'imagerie gyro stabilis\u00e9e pour des prises de vues sur v\u00e9hicules (cin\u00e9ma, s\u00e9curit\u00e9, d\u00e9fense, etc).",
@@ -1338,6 +1419,33 @@
                 "Loisir Interactif/Immersion/Metavers",
                 "Automobile/Navigation/Aviation",
                 "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Studio Draconis",
+            "Description": "D\u00e9veloppement de jeux vid\u00e9os RPG",
+            "Place": "Paris",
+            "url": "https://studio-draconis.com/",
+            "Scientific-domain": [
+                "IA"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "SysNav",
+            "url": "https://www.sysnav.fr/",
+            "Description": "G\u00e9olocalisation de personnes et v\u00e9hicules",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation",
+                "M\u00e9dical/Biologique"
             ]
         },
         {
@@ -1663,6 +1771,19 @@
             ]
         },
         {
+            "Name": "Wandercraft",
+            "Description": "Syst\u00e8mes d'exosquelettes",
+            "Place": "Paris",
+            "url": "https://en.wandercraft.eu/",
+            "Scientific-domain": [
+                "Simulation",
+                "IA"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes"
+            ]
+        },
+        {
             "Name": "YellowScan",
             "url": "https://www.yellowscan-lidar.com/",
             "Description": "Scan LiDAR pour application industrielles",
@@ -1698,103 +1819,6 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "InSimo",
-            "url": "https://www.insimo.com/",
-            "Description": "Logiciels de simulation pour la formation m\u00e9dicale et chirurgicale.",
-            "Place": "Strasbourg",
-            "Scientific-domain": [
-                "Simulation",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Visualisation"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ],
-            "Jobs": "https://www.insimo.com/fr/career-2/"
-        },
-        {
-            "Name": "SysNav",
-            "url": "https://www.sysnav.fr/",
-            "Description": "G\u00e9olocalisation de personnes et v\u00e9hicules",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Acquisition",
-                "Reconstruction"
-            ],
-            "Application-domain": [
-                "S\u00e9curit\u00e9/D\u00e9fense",
-                "Automobile/Navigation/Aviation",
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "Align Technologies",
-            "url": "https://www.aligntech.com/",
-            "Description": "Dispositif et imagerie m\u00e9dicale pour l'orthodontie",
-            "Place": [
-                {
-                    "Country": "USA"
-                },
-                {
-                    "Country": "Suisse",
-                    "City": "Rotkreuz"
-                },
-                {
-                    "Country": "Singapore"
-                },
-                {
-                    "Country": "Brazil",
-                    "City": "S\u00e3o Paulo"
-                }
-            ],
-            "Scientific-domain": [
-                "Imagerie",
-                "Analyse de donn\u00e9es"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "Studio Draconis",
-            "Description": "D\u00e9veloppement de jeux vid\u00e9os RPG",
-            "Place": "Paris",
-            "url": "https://studio-draconis.com/",
-            "Scientific-domain": [
-                "IA"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Wandercraft",
-            "Description": "Syst\u00e8mes d'exosquelettes",
-            "Place": "Paris",
-            "url": "https://en.wandercraft.eu/",
-            "Scientific-domain": [
-                "Simulation",
-                "IA"
-            ],
-            "Application-domain": [
-                "Robotique/Syst\u00e8mes autonomes"
-            ]
-        },
-        {
-            "Name": "Episkin",
-            "Description": "Mod\u00e8le In-Vitro de peau",
-            "Place": "Lyon",
-            "url": "https://www.episkin.com/",
-            "Scientific-domain": [
-                "Imagerie",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
             ]
         }
     ]

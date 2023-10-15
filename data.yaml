@@ -83,6 +83,19 @@
   Highlight: Graphics, R&D
   Employees: 20000
 
+- Name: Align Technologies
+  url: https://www.aligntech.com/
+  Description: "Dispositif et imagerie médicale pour l'orthodontie"
+  Place: 
+    - Country: USA
+    - Country: Suisse
+      City: Rotkreuz
+    - Country: Singapore
+    - Country: Brazil
+      City: São Paulo
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]
+
 - Name: "Alma"
   Name-long: Alma Logiciels CFAO
   url: https://www.alma.fr/nos-activites/logiciels-cfao/
@@ -319,6 +332,13 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
 
+- Name: Episkin
+  Description: "Modèle In-Vitro de peau"
+  Place: Lyon
+  url: https://www.episkin.com/
+  Scientific-domain: [Imagerie, Simulation]
+  Application-domain: [Médical/Biologique]
+
 - Name: Focus Entrainment
   Description: "Développement de jeu vidéos"
   url: https://www.focus-entmt.com/fr
@@ -383,6 +403,14 @@
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 60
   
+- Name: InSimo
+  url: https://www.insimo.com/
+  Description: "Logiciels de simulation pour la formation médicale et chirurgicale."
+  Place: Strasbourg
+  Scientific-domain: [Simulation, Modélisation, Animation, Visualisation]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.insimo.com/fr/career-2/
+
 - Name: Kinetix
   url: https://www.kinetix.tech/
   Description: "Création d'animation 3D d'humain à partir de capture de video sur smartphone."
@@ -576,6 +604,17 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
 
+- Name: Roblox
+  Description: "Plateforme de jeu ouvert orienté création et metavers"
+  Info: "Développe une entité de <a href=\"https://research.roblox.com/\">recherche internationale</a>"
+  Place:
+    - Country: USA
+      City: Los Angeles
+  url: https://www.roblox.com/
+  Jobs: https://careers.roblox.com/
+  Scientific-domain: [Modélisation, Animation, Simulation, Web/Cloud/Big Data, VR/AR]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
 - Name: Shot Over
   url: https://shotover.com/
   Description: Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc).
@@ -610,6 +649,20 @@
   Place: Paris
   Scientific-domain: [IA, Animation, Simulation]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo]
+
+- Name: Studio Draconis
+  Description: "Développement de jeux vidéos RPG"
+  Place: Paris
+  url: https://studio-draconis.com/
+  Scientific-domain: [IA]
+  Application-domain: [Jeu Vidéo]
+
+- Name: SysNav
+  url: https://www.sysnav.fr/
+  Description: "Géolocalisation de personnes et véhicules"
+  Place: Paris
+  Scientific-domain: [Acquisition, Reconstruction]
+  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
 
 - Name: TVPaint
   url: https://www.tvpaint.com/
@@ -753,6 +806,13 @@
   Application-domain: [Architecture/Immobilier]
 
 
+- Name: Wandercraft
+  Description: "Systèmes d'exosquelettes"
+  Place: Paris
+  url: https://en.wandercraft.eu/
+  Scientific-domain: [Simulation, IA]
+  Application-domain: [Robotique/Systèmes autonomes]
+
 - Name: YellowScan
   url: https://www.yellowscan-lidar.com/
   Description: "Scan LiDAR pour application industrielles"
@@ -772,51 +832,3 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
-- Name: InSimo
-  url: https://www.insimo.com/
-  Description: "Logiciels de simulation pour la formation médicale et chirurgicale."
-  Place: Strasbourg
-  Scientific-domain: [Simulation, Modélisation, Animation, Visualisation]
-  Application-domain: [Médical/Biologique]
-  Jobs: https://www.insimo.com/fr/career-2/
-
-- Name: SysNav
-  url: https://www.sysnav.fr/
-  Description: "Géolocalisation de personnes et véhicules"
-  Place: Paris
-  Scientific-domain: [Acquisition, Reconstruction]
-  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
-
-- Name: Align Technologies
-  url: https://www.aligntech.com/
-  Description: "Dispositif et imagerie médicale pour l'orthodontie"
-  Place: 
-    - Country: USA
-    - Country: Suisse
-      City: Rotkreuz
-    - Country: Singapore
-    - Country: Brazil
-      City: São Paulo
-  Scientific-domain: [Imagerie, Analyse de données]
-  Application-domain: [Médical/Biologique]
-
-- Name: Studio Draconis
-  Description: "Développement de jeux vidéos RPG"
-  Place: Paris
-  url: https://studio-draconis.com/
-  Scientific-domain: [IA]
-  Application-domain: [Jeu Vidéo]
-
-- Name: Wandercraft
-  Description: "Systèmes d'exosquelettes"
-  Place: Paris
-  url: https://en.wandercraft.eu/
-  Scientific-domain: [Simulation, IA]
-  Application-domain: [Robotique/Systèmes autonomes]
-
-- Name: Episkin
-  Description: "Modèle In-Vitro de peau"
-  Place: Lyon
-  url: https://www.episkin.com/
-  Scientific-domain: [Imagerie, Simulation]
-  Application-domain: [Médical/Biologique]

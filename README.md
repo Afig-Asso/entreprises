@@ -484,6 +484,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.eu.lever.co/quanticdream)
 
 
+* **[Roblox](https://www.roblox.com/)**  
+  * _Plateforme de jeu ouvert orienté création et metavers_
+  * **Remarque**: _Développe une entité de <a href="https://research.roblox.com/">recherche internationale</a>_
+  * **Localisation**: USA/Los Angeles
+  * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Web/Cloud/Big Data, VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://careers.roblox.com/)
+
+
 * **[Shot Over](https://shotover.com/)**  
   * _Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc)._
   * **Localisation**: USA/Colorado
