@@ -651,3 +651,11 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
+* **[nTop](https://www.ntop.com/)**  
+  * _Modélisation et simulation mécanique à partir de surfaces implicites._
+  * **Localisation**: USA/New York
+  * **Domaine scientifique/technique**: Modélisation, Design/Fabrication, Simulation
+  * **Domaine d'application**: Mécanique/Ingénierie civile
+  * [_Jobs_](https://boards.greenhouse.io/ntop)
+
+

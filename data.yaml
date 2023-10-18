@@ -832,3 +832,12 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
+- Name: nTop
+  url: https://www.ntop.com/
+  Description: "Modélisation et simulation mécanique à partir de surfaces implicites."
+  Jobs: https://boards.greenhouse.io/ntop
+  Place:
+    - Country: USA
+      City: New York
+  Scientific-domain: [Modélisation, Design/Fabrication, Simulation]
+  Application-domain: [Mécanique/Ingénierie civile]
