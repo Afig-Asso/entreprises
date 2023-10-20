@@ -1822,7 +1822,6 @@
             ]
         },
         {
-<<<<<<< HEAD
             "Name": "WetaFX",
             "url": "https://www.wetafx.co.nz/",
             "Description": "Effets visuels pour le cin\u00e9ma",
@@ -1832,21 +1831,10 @@
                 {
                     "Country": "New Zealand",
                     "City": "Wellington"
-=======
-            "Name": "nTop",
-            "url": "https://www.ntop.com/",
-            "Description": "Mod\u00e9lisation et simulation m\u00e9canique \u00e0 partir de surfaces implicites.",
-            "Jobs": "https://boards.greenhouse.io/ntop",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "New York"
->>>>>>> 79741faaa89de1b4b163b17c84c79f6d0fb24606
                 }
             ],
             "Scientific-domain": [
                 "Mod\u00e9lisation",
-<<<<<<< HEAD
                 "Animation",
                 "Simulation",
                 "Acquisition"
@@ -1995,13 +1983,26 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
-=======
+            ]
+        },
+        {
+            "Name": "nTop",
+            "url": "https://www.ntop.com/",
+            "Description": "Mod\u00e9lisation et simulation m\u00e9canique \u00e0 partir de surfaces implicites.",
+            "Jobs": "https://boards.greenhouse.io/ntop",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "New York"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
                 "Design/Fabrication",
                 "Simulation"
             ],
             "Application-domain": [
                 "M\u00e9canique/Ing\u00e9nierie civile"
->>>>>>> 79741faaa89de1b4b163b17c84c79f6d0fb24606
             ]
         }
     ]

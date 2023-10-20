@@ -465,6 +465,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[nTop](https://www.ntop.com/)**  
+  * _Modélisation et simulation mécanique à partir de surfaces implicites._
+  * **Localisation**: USA/New York
+  * **Domaine scientifique/technique**: Modélisation, Design/Fabrication, Simulation
+  * **Domaine d'application**: Mécanique/Ingénierie civile
+  * [_Jobs_](https://boards.greenhouse.io/ntop)
+
+
 * **[NVidia](https://www.nvidia.com/)**  
   * _Développement de cartes graphiques materiel et logiciel_
   * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
@@ -712,13 +720,5 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: USA/San Jose
   * **Domaine scientifique/technique**: IHM/Haptique
   * **Domaine d'application**: Générique
-
-
-* **[nTop](https://www.ntop.com/)**  
-  * _Modélisation et simulation mécanique à partir de surfaces implicites._
-  * **Localisation**: USA/New York
-  * **Domaine scientifique/technique**: Modélisation, Design/Fabrication, Simulation
-  * **Domaine d'application**: Mécanique/Ingénierie civile
-  * [_Jobs_](https://boards.greenhouse.io/ntop)
 
 
