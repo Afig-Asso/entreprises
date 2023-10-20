@@ -52,7 +52,7 @@ if __name__ == "__main__":
             paragraph[-1] += '\n\n'
 
         # extract name
-        splitted_text = sorted(paragraph, key = lambda paragraph: extract_name(paragraph))
+        splitted_text = sorted(paragraph, key = lambda paragraph: extract_name(paragraph).lower() )
         print(f'Found {len(splitted_text)} companies \n')
 
         for k, paragraph in enumerate(splitted_text):
