@@ -832,3 +832,93 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
+
+
+- Name: WetaFX
+  url: https://www.wetafx.co.nz/
+  Description: "Effets visuels pour le cinéma"
+  Info: "Entreprise majeure du domaine des VFX avec équipe de recherche active."
+  Jobs: https://careers.wetafx.co.nz/
+  Place:
+    - Country: New Zealand
+      City: Wellington
+  Scientific-domain: [Modélisation, Animation, Simulation, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Roboflow
+  url: https://roboflow.com/
+  Description: "Computer Vision models"
+  Jobs: https://roboflow.com/careers
+  Place:
+    - Country: USA
+      City: [New York, San Francisco]
+  Scientific-domain: [Analyse de données, Vision]
+  Application-domain: [Générique]
+
+- Name: AVT Simulation
+  url: https://www.avtsim.com/
+  Description: "VR simulation and serious game"
+  Jobs: https://www.avtsim.com/careers/
+  Place:
+    - Country: USA
+      City: Orlando
+  Scientific-domain: [VR/AR, Simulation]
+  Application-domain: [Entrainement/Formation/Serious Game, Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
+
+- Name: BrandXR
+  url: https://www.brandxr.io/
+  Description: "No Code VR platform"
+  Place:
+    - Country: USA
+      City: [Orlando, Detroit]
+  Scientific-domain: [VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: MassVirtual
+  url: https://massvirtual.com/
+  Description: "VR experience"
+  Place:
+    - Country: USA
+      City: Orlando
+  Scientific-domain: [VR/AR, Simulation]
+  Application-domain: [Automobile/Navigation/Aviation]
+
+- Name: Falcons Creatrive
+  url: https://falconscreativegroup.com/
+  Description: "Creation d'expérience immersive pour les parcs d'attractions"
+  Place:
+    - Country: USA
+      City: Orlando
+  Jobs: https://falconscreativegroup.com/about-us/careers/
+  Scientific-domain: [VR/AR, Autres]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Art/Evenementiel]
+
+- Name: StreamRoller 
+  url: https://www.steamrollerstudios.com/
+  Description: "Studio pour film d'animation, jeux et expérience immersive pour parc d'attraction"
+  Place:
+    - Country: USA
+      City: Mount Dora
+  Jobs: https://www.steamrollertechnologies.com/careers
+  Scientific-domain: [Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: Overlay
+  url: https://overlaymr.com/
+  Description: "Plateforme de réalité augmentée"
+  Product: Figmin XR
+  Place:
+    - Country: USA
+      City: Portland
+  Scientific-domain: [VR/AR]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: nTop
+  url: https://www.ntop.com/
+  Description: "Modélisation et simulation mécanique à partir de surfaces implicites."
+  Jobs: https://boards.greenhouse.io/ntop
+  Place:
+    - Country: USA
+      City: New York
+  Scientific-domain: [Modélisation, Design/Fabrication, Simulation]
+  Application-domain: [Mécanique/Ingénierie civile]
