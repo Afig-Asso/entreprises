@@ -1820,6 +1820,170 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "WetaFX",
+            "url": "https://www.wetafx.co.nz/",
+            "Description": "Effets visuels pour le cin\u00e9ma",
+            "Info": "Entreprise majeure du domaine des VFX avec \u00e9quipe de recherche active.",
+            "Jobs": "https://careers.wetafx.co.nz/",
+            "Place": [
+                {
+                    "Country": "New Zealand",
+                    "City": "Wellington"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Roboflow",
+            "url": "https://roboflow.com/",
+            "Description": "Computer Vision models",
+            "Jobs": "https://roboflow.com/careers",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": [
+                        "New York",
+                        "San Francisco"
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Analyse de donn\u00e9es",
+                "Vision"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "AVT Simulation",
+            "url": "https://www.avtsim.com/",
+            "Description": "VR simulation and serious game",
+            "Jobs": "https://www.avtsim.com/careers/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Orlando"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation",
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "BrandXR",
+            "url": "https://www.brandxr.io/",
+            "Description": "No Code VR platform",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": [
+                        "Orlando",
+                        "Detroit"
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "MassVirtual",
+            "url": "https://massvirtual.com/",
+            "Description": "VR experience",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Orlando"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
+            "Name": "Falcons Creatrive",
+            "url": "https://falconscreativegroup.com/",
+            "Description": "Creation d'exp\u00e9rience immersive pour les parcs d'attractions",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Orlando"
+                }
+            ],
+            "Jobs": "https://falconscreativegroup.com/about-us/careers/",
+            "Scientific-domain": [
+                "VR/AR",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Art/Evenementiel"
+            ]
+        },
+        {
+            "Name": "StreamRoller",
+            "url": "https://www.steamrollerstudios.com/",
+            "Description": "Studio pour film d'animation, jeux et exp\u00e9rience immersive pour parc d'attraction",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Mount Dora"
+                }
+            ],
+            "Jobs": "https://www.steamrollertechnologies.com/careers",
+            "Scientific-domain": [
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "Overlay",
+            "url": "https://overlaymr.com/",
+            "Description": "Plateforme de r\u00e9alit\u00e9 augment\u00e9e",
+            "Product": "Figmin XR",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Portland"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ]
         }
     ]
 }

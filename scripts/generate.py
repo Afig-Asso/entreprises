@@ -189,7 +189,7 @@ def prettyMD(data):
 def listing_to_md(data):
     out = ''
 
-    companies = sorted(data, key=lambda x: x['Name'])
+    companies = sorted(data, key=lambda x: x['Name'].lower() )
     print('Export Companies ...')
     for k in tqdm.tqdm(range(len(companies))):
         try:

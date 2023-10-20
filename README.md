@@ -61,15 +61,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.2d3d-animations.com/emploi/)
 
 
-* **[AMD](https://www.amd.com/)**  
-  * _Développement de processeurs et cartes graphiques: développement matériel et logiciel._
-  * **Localisation**: USA, International
-  * **Nombres d'employés**: 16000
-  * **Domaine scientifique/technique**: Hardware, Synthèse d'image, IA, Web/Cloud/Big Data, Visualisation, Autres
-  * **Domaine d'application**: Générique
-  * [_Jobs_](https://www.amd.com/en/corporate/careers)
-
-
 * **[Adobe](https://www.adobe.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Dévelopement d'outils créatifs_
   * **Remarque**: _Centre de recherche à Paris_
@@ -100,6 +91,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Mécanique/Ingénierie civile
   * [_Jobs_](https://alteia.com/company/#careers)
+
+
+* **[AMD](https://www.amd.com/)**  
+  * _Développement de processeurs et cartes graphiques: développement matériel et logiciel._
+  * **Localisation**: USA, International
+  * **Nombres d'employés**: 16000
+  * **Domaine scientifique/technique**: Hardware, Synthèse d'image, IA, Web/Cloud/Big Data, Visualisation, Autres
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.amd.com/en/corporate/careers)
 
 
 * **[Amplitude Studios](https://www.amplitude-studios.com/)**  
@@ -160,13 +160,12 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.autodesk.com/careers/overview)
 
 
-* **[BUF](https://buf.com/)**  
-  * _Création d'effets visuels (VFX) pour le cinéma._
-  * **Localisation**: Paris
-  * **Nombres d'employés**: 60
-  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Vision
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-  * [_Jobs_](https://buf.com/jobs/)
+* **[AVT Simulation](https://www.avtsim.com/)**  
+  * _VR simulation and serious game_
+  * **Localisation**: USA/Orlando
+  * **Domaine scientifique/technique**: VR/AR, Simulation
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique
+  * [_Jobs_](https://www.avtsim.com/careers/)
 
 
 * **[Beam Me Up Games](https://bmugames.com/)**  
@@ -193,13 +192,20 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.blippar.com/careers#Jobs)
 
 
-* **[CLO Virtual Fashion](https://www.clo3d.com/en/)**  
-  * _Logiciel de simulation de vêtements virtuels_
-  * **Produits**: Marvelous Designer,  Clo3D
-  * **Localisation**: Korea, USA, International
-  * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Design/Fabrication
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires
-  * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
+* **[BrandXR](https://www.brandxr.io/)**  
+  * _No Code VR platform_
+  * **Localisation**: USA/{Orlando, Detroit}
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+
+
+* **[BUF](https://buf.com/)**  
+  * _Création d'effets visuels (VFX) pour le cinéma._
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 60
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Vision
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://buf.com/jobs/)
 
 
 * **[Chaos](https://www.chaos.com/)**  
@@ -219,12 +225,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers
 
 
-* **[DON'T NOD](https://dont-nod.com/en/)**  
-  * _Développement de jeu vidéos_
-  * **Localisation**: Paris, Canada/Montréal
-  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
-  * **Domaine d'application**: Jeu Vidéo
-  * [_Jobs_](https://dont-nod.com/en/careers/)
+* **[CLO Virtual Fashion](https://www.clo3d.com/en/)**  
+  * _Logiciel de simulation de vêtements virtuels_
+  * **Produits**: Marvelous Designer,  Clo3D
+  * **Localisation**: Korea, USA, International
+  * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Design/Fabrication
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires
+  * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
 
 
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
@@ -246,13 +253,12 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.disneycareers.com/)
 
 
-* **[ESI](https://www.esi-group.com/)**  
-  * _Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie_
-  * **Localisation**: France/{Paris, Lyon, Bordeaux}, International
-  * **Nombres d'employés**: 1000
-  * **Domaine scientifique/technique**: Modélisation, Simulation
-  * **Domaine d'application**: Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile
-  * [_Jobs_](https://www.esi-group.com/join-us)
+* **[DON'T NOD](https://dont-nod.com/en/)**  
+  * _Développement de jeu vidéos_
+  * **Localisation**: Paris, Canada/Montréal
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://dont-nod.com/en/careers/)
 
 
 * **[Effigy 3D](https://effigy-3d.com/)**  
@@ -278,6 +284,23 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[ESI](https://www.esi-group.com/)**  
+  * _Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie_
+  * **Localisation**: France/{Paris, Lyon, Bordeaux}, International
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique/technique**: Modélisation, Simulation
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile
+  * [_Jobs_](https://www.esi-group.com/join-us)
+
+
+* **[Falcons Creatrive](https://falconscreativegroup.com/)**  
+  * _Creation d'expérience immersive pour les parcs d'attractions_
+  * **Localisation**: USA/Orlando
+  * **Domaine scientifique/technique**: VR/AR, Autres
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel
+  * [_Jobs_](https://falconscreativegroup.com/about-us/careers/)
+
+
 * **[Focus Entrainment](https://www.focus-entmt.com/fr)**  
   * _Développement de jeu vidéos_
   * **Localisation**: Paris
@@ -295,14 +318,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
 
 
-* **[GoPro Technology](https://gopro.com/fr/fr/)**  
-  * _Systèmes de caméras sportives._
-  * **Remarque**: _Entité R&D en France à Issy Les Moulineaux._
-  * **Localisation**: Paris, International
-  * **Domaine scientifique/technique**: Animation, Acquisition, Reconstruction, Vision, Imagerie
-  * **Domaine d'application**: Générique
-
-
 * **[Google](https://about.google/)**  
   * **Remarque**: _<a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique_
   * **Localisation**: USA/Mountain View, International
@@ -310,6 +325,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Web/Cloud/Big Data, IA, Vision, Autres
   * **Domaine d'application**: Générique
   * [_Jobs_](https://careers.google.com/)
+
+
+* **[GoPro Technology](https://gopro.com/fr/fr/)**  
+  * _Systèmes de caméras sportives._
+  * **Remarque**: _Entité R&D en France à Issy Les Moulineaux._
+  * **Localisation**: Paris, International
+  * **Domaine scientifique/technique**: Animation, Acquisition, Reconstruction, Vision, Imagerie
+  * **Domaine d'application**: Générique
 
 
 * **[Harfang3D](https://www.harfang3d.com/)**  
@@ -361,13 +384,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mode/Vêtements/Accessoires
 
 
-* **[Les Tontons Truqueurs](https://www.lestontonstruqueurs.com/)**  
-  * _Prévisualisation et VFX en temps réels._
-  * **Localisation**: Paris
-  * **Domaine scientifique/technique**: Synthèse d'image, Vision, VR/AR
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-
-
 * **[Les fées spéciales](https://les-fees-speciales.coop/)**  
   * _Création d'animation 2D/3D, immersives et interactives._
   * **Localisation**: Montpellier
@@ -375,11 +391,25 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
 
 
+* **[Les Tontons Truqueurs](https://www.lestontonstruqueurs.com/)**  
+  * _Prévisualisation et VFX en temps réels._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Vision, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Luxion](https://www.luxion.com/)**  
   * _Logiciel de rendu d'images_
   * **Localisation**: USA/Costa Mesa, Denmark/Aarhus
   * **Domaine scientifique/technique**: Synthèse d'image
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[MassVirtual](https://massvirtual.com/)**  
+  * _VR experience_
+  * **Localisation**: USA/Orlando
+  * **Domaine scientifique/technique**: VR/AR, Simulation
+  * **Domaine d'application**: Automobile/Navigation/Aviation
 
 
 * **[Mercenaries Engineering](http://guerillarender.com/)**  
@@ -427,6 +457,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
+* **[Next Limit](https://nextlimit.com/)**  
+  * _Moteur de rendu et de simulation_
+  * **Produits**: [RealFlow](https://realflow.com/), [Maxwell Render](https://maxwellrender.com/)
+  * **Localisation**: Spain/Madrid
+  * **Domaine scientifique/technique**: Synthèse d'image
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[NVidia](https://www.nvidia.com/)**  
   * _Développement de cartes graphiques materiel et logiciel_
   * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
@@ -436,20 +474,20 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
-* **[Next Limit](https://nextlimit.com/)**  
-  * _Moteur de rendu et de simulation_
-  * **Produits**: [RealFlow](https://realflow.com/), [Maxwell Render](https://maxwellrender.com/)
-  * **Localisation**: Spain/Madrid
-  * **Domaine scientifique/technique**: Synthèse d'image
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-
-
 * **[Otoy](https://home.otoy.com/)**  
   * _Logiciel de rendu graphique sur le cloud, et capture_
   * **Produits**: Octane Render
   * **Localisation**: USA/Los Angeles
   * **Domaine scientifique/technique**: Synthèse d'image, Acquisition
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Overlay](https://overlaymr.com/)**  
+  * _Plateforme de réalité augmentée_
+  * **Produits**: Figmin XR
+  * **Localisation**: USA/Portland
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
 * **[Pixel Wizards](https://pixel-wizards.com/)**  
@@ -493,6 +531,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://careers.roblox.com/)
 
 
+* **[Roboflow](https://roboflow.com/)**  
+  * _Computer Vision models_
+  * **Localisation**: USA/{New York, San Francisco}
+  * **Domaine scientifique/technique**: Analyse de données, Vision
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://roboflow.com/careers)
+
+
 * **[Shot Over](https://shotover.com/)**  
   * _Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc)._
   * **Localisation**: USA/Colorado
@@ -524,6 +570,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.spirops.com/jobs.php?lg=en)
 
 
+* **[StreamRoller](https://www.steamrollerstudios.com/)**  
+  * _Studio pour film d'animation, jeux et expérience immersive pour parc d'attraction_
+  * **Localisation**: USA/Mount Dora
+  * **Domaine scientifique/technique**: Animation, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.steamrollertechnologies.com/careers)
+
+
 * **[Studio Draconis](https://studio-draconis.com/)**  
   * _Développement de jeux vidéos RPG_
   * **Localisation**: Paris
@@ -536,13 +590,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Acquisition, Reconstruction
   * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique
-
-
-* **[TVPaint](https://www.tvpaint.com/)**  
-  * _Logiciel d'animation 2D._
-  * **Localisation**: Metz
-  * **Domaine scientifique/technique**: Animation
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Take-Two Interactive](https://www.take2games.com/)**  
@@ -587,12 +634,11 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
-* **[UVR](https://www.united-vr.com/)** (United Visual Researchers) 
-  * _Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)._
-  * **Localisation**: Paris
-  * **Domaine scientifique/technique**: Synthèse d'image, Simulation
-  * **Domaine d'application**: Générique
-  * [_Jobs_](https://uvr.welcomekit.co/)
+* **[TVPaint](https://www.tvpaint.com/)**  
+  * _Logiciel d'animation 2D._
+  * **Localisation**: Metz
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
@@ -615,6 +661,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://careers.unity.com/)
 
 
+* **[UVR](https://www.united-vr.com/)** (United Visual Researchers) 
+  * _Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Simulation
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://uvr.welcomekit.co/)
+
+
 * **[Virtuos](https://www.virtuosgames.com/)**  
   * _Studio développement de jeu vidéo_
   * **Localisation**: Singapore, France/Paris
@@ -634,6 +688,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Simulation, IA
   * **Domaine d'application**: Robotique/Systèmes autonomes
+
+
+* **[WetaFX](https://www.wetafx.co.nz/)**  
+  * _Effets visuels pour le cinéma_
+  * **Remarque**: _Entreprise majeure du domaine des VFX avec équipe de recherche active._
+  * **Localisation**: New Zealand/Wellington
+  * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Acquisition
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://careers.wetafx.co.nz/)
 
 
 * **[YellowScan](https://www.yellowscan-lidar.com/)**  
