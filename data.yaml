@@ -942,3 +942,33 @@
   Place: Paris
   Scientific-domain: [IA, Vision]
   Application-domain: [Générique]
+
+- Name: Sony CSL
+  url: https://csl.sony.fr/
+  Description: "Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability"
+  Place: Paris
+  Scientific-domain: [IA, Analyse de données, Vision, Imagerie, VR/AR]
+  Application-domain: [Générique]
+
+- Name: Strollhunt
+  url: https://strollhunt.com/
+  Description: "Jeux dans la ville en AR"
+  Place: 
+    - Country: UK
+      City: London
+  Scientific-domain: [Vision, VR/AR]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Imageens
+  url: https://www.imageens.com/
+  Description: "Dispositif médical pour la prévention d'accident cardiovasculaire"
+  Place: Paris
+  Scientific-domain: [Analyse de données, Imagerie, IA]
+  Application-domain: [Médical/Biologique]
+
+- Name: SolidAnim
+  url: https://www.solidanim.com/
+  Description: "Studio de production d'animation et Mocap"
+  Place: Paris
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]

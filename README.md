@@ -358,6 +358,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://buf.com/jobs/)
 
 
+* **[Imageens](https://www.imageens.com/)**  
+  * _Dispositif médical pour la prévention d'accident cardiovasculaire_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Analyse de données, Imagerie, IA
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[InitML](https://clipdrop.co/)**  
   * _Creation d'images par IA_
   * **Localisation**: Paris
@@ -591,6 +598,20 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[SolidAnim](https://www.solidanim.com/)**  
+  * _Studio de production d'animation et Mocap_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Sony CSL](https://csl.sony.fr/)**  
+  * _Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: IA, Analyse de données, Vision, Imagerie, VR/AR
+  * **Domaine d'application**: Générique
+
+
 * **[SpirOPS](https://www.spirops.com/)**  
   * _Approches d'IA pour l'industrie et le loisir: foule virtuelles, véhicules autonomes, assistants_
   * **Localisation**: Paris
@@ -605,6 +626,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://www.steamrollertechnologies.com/careers)
+
+
+* **[Strollhunt](https://strollhunt.com/)**  
+  * _Jeux dans la ville en AR_
+  * **Localisation**: UK/London
+  * **Domaine scientifique/technique**: Vision, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Studio Draconis](https://studio-draconis.com/)**  

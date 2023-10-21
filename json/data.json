@@ -2045,6 +2045,66 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "Sony CSL",
+            "url": "https://csl.sony.fr/",
+            "Description": "Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Analyse de donn\u00e9es",
+                "Vision",
+                "Imagerie",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Strollhunt",
+            "url": "https://strollhunt.com/",
+            "Description": "Jeux dans la ville en AR",
+            "Place": [
+                {
+                    "Country": "UK",
+                    "City": "London"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Imageens",
+            "url": "https://www.imageens.com/",
+            "Description": "Dispositif m\u00e9dical pour la pr\u00e9vention d'accident cardiovasculaire",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Analyse de donn\u00e9es",
+                "Imagerie",
+                "IA"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "SolidAnim",
+            "url": "https://www.solidanim.com/",
+            "Description": "Studio de production d'animation et Mocap",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         }
     ]
 }
