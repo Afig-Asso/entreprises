@@ -358,6 +358,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://buf.com/jobs/)
 
 
+* **[InitML](https://clipdrop.co/)**  
+  * _Creation d'images par IA_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: IA, Vision
+  * **Domaine d'application**: Générique
+
+
 * **[InSimo](https://www.insimo.com/)**  
   * _Logiciels de simulation pour la formation médicale et chirurgicale._
   * **Localisation**: Strasbourg
@@ -519,6 +526,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, IA, Analyse de données
   * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile
   * [_Jobs_](https://cae.wd3.myworkdayjobs.com/Presagis/jobs)
+
+
+* **[Primaa](https://www.primaalab.com/)**  
+  * _Detection de pathologies par IA_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: IA, Visualisation, Imagerie
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Qarnot Computing](https://qarnot.com/)**  

@@ -2018,6 +2018,33 @@
             "Application-domain": [
                 "M\u00e9dical/Biologique"
             ]
+        },
+        {
+            "Name": "Primaa",
+            "url": "https://www.primaalab.com/",
+            "Description": "Detection de pathologies par IA",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Visualisation",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "InitML",
+            "url": "https://clipdrop.co/",
+            "Description": "Creation d'images par IA",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Vision"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
         }
     ]
 }
