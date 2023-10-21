@@ -921,5 +921,11 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
-
+- Name: Gleamer
+  url: https://www.gleamer.ai/
+  Description: "Radiologie avec IA"
+  Place: Paris
+  Scientific-domain: [IA, Visualisation, Imagerie]
+  Application-domain: [Médical/Biologique]
+    
 

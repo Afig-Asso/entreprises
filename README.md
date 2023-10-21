@@ -318,6 +318,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
 
 
+* **[Gleamer](https://www.gleamer.ai/)**  
+  * _Radiologie avec IA_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: IA, Visualisation, Imagerie
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Google](https://about.google/)**  
   * **Remarque**: _<a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique_
   * **Localisation**: USA/Mountain View, International
