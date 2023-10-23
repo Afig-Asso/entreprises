@@ -527,6 +527,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://pixel-wizards.com/jobs/)
 
 
+* **[Praxinos](https://www.praxinos.coop/)**  
+  * _Développement d'outils créatifs pour l'animation._
+  * **Remarque**: _SARL Coopérative, mot clés: Animation 2D, Storyboard, Drawing, Realtime 3D_
+  * **Produits**: Iliad,  Epos,  Odyssey,  Ulis,  etc.
+  * **Localisation**: France, Metz
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Presagis](https://www.presagis.com/en/)**  
   * _Simulation d'environment dynamique pour la prédiction à large échelle (infrastructure, défense, désastre, etc)_
   * **Localisation**: Canada/Montréal, USA/Orlando, France/Paris, Italy, UK

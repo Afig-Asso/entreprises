@@ -883,6 +883,20 @@
             ]
         },
         {
+            "Name": "Gleamer",
+            "url": "https://www.gleamer.ai/",
+            "Description": "Radiologie avec IA",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Visualisation",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "Google",
             "url": "https://about.google/",
             "Jobs": "https://careers.google.com/",
@@ -966,6 +980,33 @@
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
             "Employees": 60
+        },
+        {
+            "Name": "Imageens",
+            "url": "https://www.imageens.com/",
+            "Description": "Dispositif m\u00e9dical pour la pr\u00e9vention d'accident cardiovasculaire",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Analyse de donn\u00e9es",
+                "Imagerie",
+                "IA"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "InitML",
+            "url": "https://clipdrop.co/",
+            "Description": "Creation d'images par IA",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Vision"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
         },
         {
             "Name": "InSimo",
@@ -1365,6 +1406,27 @@
             ]
         },
         {
+            "Name": "Praxinos",
+            "url": "https://www.praxinos.coop/",
+            "Description": "D\u00e9veloppement d'outils cr\u00e9atifs pour l'animation.",
+            "Place": [
+                {
+                    "Country": "France"
+                },
+                {
+                    "City": "Metz"
+                }
+            ],
+            "Product": "Iliad, Epos, Odyssey, Ulis, etc.",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Info": "SARL Coop\u00e9rative, mot cl\u00e9s: Animation 2D, Storyboard, Drawing, Realtime 3D"
+        },
+        {
             "Name": "Presagis",
             "Description": "Simulation d'environment dynamique pour la pr\u00e9diction \u00e0 large \u00e9chelle (infrastructure, d\u00e9fense, d\u00e9sastre, etc)",
             "url": "https://www.presagis.com/en/",
@@ -1400,6 +1462,20 @@
                 "S\u00e9curit\u00e9/D\u00e9fense",
                 "Automobile/Navigation/Aviation",
                 "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Primaa",
+            "url": "https://www.primaalab.com/",
+            "Description": "Detection de pathologies par IA",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Visualisation",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
             ]
         },
         {
@@ -1546,6 +1622,34 @@
             ]
         },
         {
+            "Name": "SolidAnim",
+            "url": "https://www.solidanim.com/",
+            "Description": "Studio de production d'animation et Mocap",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Sony CSL",
+            "url": "https://csl.sony.fr/",
+            "Description": "Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Analyse de donn\u00e9es",
+                "Vision",
+                "Imagerie",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "SpirOPS",
             "url": "https://www.spirops.com/",
             "Description": "Approches d'IA pour l'industrie et le loisir: foule virtuelles, v\u00e9hicules autonomes, assistants",
@@ -1581,6 +1685,24 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "Strollhunt",
+            "url": "https://strollhunt.com/",
+            "Description": "Jeux dans la ville en AR",
+            "Place": [
+                {
+                    "Country": "UK",
+                    "City": "London"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -2003,107 +2125,6 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Gleamer",
-            "url": "https://www.gleamer.ai/",
-            "Description": "Radiologie avec IA",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "IA",
-                "Visualisation",
-                "Imagerie"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "Primaa",
-            "url": "https://www.primaalab.com/",
-            "Description": "Detection de pathologies par IA",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "IA",
-                "Visualisation",
-                "Imagerie"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "InitML",
-            "url": "https://clipdrop.co/",
-            "Description": "Creation d'images par IA",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "IA",
-                "Vision"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Sony CSL",
-            "url": "https://csl.sony.fr/",
-            "Description": "Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "IA",
-                "Analyse de donn\u00e9es",
-                "Vision",
-                "Imagerie",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Strollhunt",
-            "url": "https://strollhunt.com/",
-            "Description": "Jeux dans la ville en AR",
-            "Place": [
-                {
-                    "Country": "UK",
-                    "City": "London"
-                }
-            ],
-            "Scientific-domain": [
-                "Vision",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Imageens",
-            "url": "https://www.imageens.com/",
-            "Description": "Dispositif m\u00e9dical pour la pr\u00e9vention d'accident cardiovasculaire",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Analyse de donn\u00e9es",
-                "Imagerie",
-                "IA"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "SolidAnim",
-            "url": "https://www.solidanim.com/",
-            "Description": "Studio de production d'animation et Mocap",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         }
     ]

@@ -393,6 +393,14 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
 
+- Name: Gleamer
+  url: https://www.gleamer.ai/
+  Description: "Radiologie avec IA"
+  Place: Paris
+  Scientific-domain: [IA, Visualisation, Imagerie]
+  Application-domain: [Médical/Biologique]
+
+
 - Name: Google
   url: https://about.google/
   Jobs: https://careers.google.com/
@@ -432,6 +440,20 @@
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 60
   
+- Name: Imageens
+  url: https://www.imageens.com/
+  Description: "Dispositif médical pour la prévention d'accident cardiovasculaire"
+  Place: Paris
+  Scientific-domain: [Analyse de données, Imagerie, IA]
+  Application-domain: [Médical/Biologique]
+
+- Name: InitML 
+  url: https://clipdrop.co/
+  Description: "Creation d'images par IA"
+  Place: Paris
+  Scientific-domain: [IA, Vision]
+  Application-domain: [Générique]
+
 - Name: InSimo
   url: https://www.insimo.com/
   Description: "Logiciels de simulation pour la formation médicale et chirurgicale."
@@ -625,6 +647,17 @@
   Scientific-domain: [Modélisation, Animation, IA]
   Application-domain: [Jeu Vidéo]
 
+- Name: Praxinos
+  url: https://www.praxinos.coop/
+  Description: "Développement d'outils créatifs pour l'animation."
+  Place: 
+    - Country: France
+    - City: Metz
+  Product: "Iliad, Epos, Odyssey, Ulis, etc."
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Info: "SARL Coopérative, mot clés: Animation 2D, Storyboard, Drawing, Realtime 3D"
+
 - Name: Presagis
   Description: "Simulation d'environment dynamique pour la prédiction à large échelle (infrastructure, défense, désastre, etc)"
   url: https://www.presagis.com/en/
@@ -640,6 +673,13 @@
     - Country: UK
   Scientific-domain: [Modélisation, Animation, Simulation, IA, Analyse de données]
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile]
+
+- Name: Primaa
+  url: https://www.primaalab.com/
+  Description: "Detection de pathologies par IA"
+  Place: Paris
+  Scientific-domain: [IA, Visualisation, Imagerie]
+  Application-domain: [Médical/Biologique]
 
 - Name: "Qarnot Computing"
   url: https://qarnot.com/
@@ -710,6 +750,20 @@
   Scientific-domain: [Animation, Acquisition]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: SolidAnim
+  url: https://www.solidanim.com/
+  Description: "Studio de production d'animation et Mocap"
+  Place: Paris
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Sony CSL
+  url: https://csl.sony.fr/
+  Description: "Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability"
+  Place: Paris
+  Scientific-domain: [IA, Analyse de données, Vision, Imagerie, VR/AR]
+  Application-domain: [Générique]
+
 - Name: SpirOPS
   url: https://www.spirops.com/
   Description: "Approches d'IA pour l'industrie et le loisir: foule virtuelles, véhicules autonomes, assistants"
@@ -727,6 +781,15 @@
   Jobs: https://www.steamrollertechnologies.com/careers
   Scientific-domain: [Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: Strollhunt
+  url: https://strollhunt.com/
+  Description: "Jeux dans la ville en AR"
+  Place: 
+    - Country: UK
+      City: London
+  Scientific-domain: [Vision, VR/AR]
+  Application-domain: [Jeu Vidéo]
 
 - Name: Studio Draconis
   Description: "Développement de jeux vidéos RPG"
@@ -921,54 +984,3 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
-- Name: Gleamer
-  url: https://www.gleamer.ai/
-  Description: "Radiologie avec IA"
-  Place: Paris
-  Scientific-domain: [IA, Visualisation, Imagerie]
-  Application-domain: [Médical/Biologique]
-
-
-- Name: Primaa
-  url: https://www.primaalab.com/
-  Description: "Detection de pathologies par IA"
-  Place: Paris
-  Scientific-domain: [IA, Visualisation, Imagerie]
-  Application-domain: [Médical/Biologique]
-
-- Name: InitML 
-  url: https://clipdrop.co/
-  Description: "Creation d'images par IA"
-  Place: Paris
-  Scientific-domain: [IA, Vision]
-  Application-domain: [Générique]
-
-- Name: Sony CSL
-  url: https://csl.sony.fr/
-  Description: "Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability"
-  Place: Paris
-  Scientific-domain: [IA, Analyse de données, Vision, Imagerie, VR/AR]
-  Application-domain: [Générique]
-
-- Name: Strollhunt
-  url: https://strollhunt.com/
-  Description: "Jeux dans la ville en AR"
-  Place: 
-    - Country: UK
-      City: London
-  Scientific-domain: [Vision, VR/AR]
-  Application-domain: [Jeu Vidéo]
-
-- Name: Imageens
-  url: https://www.imageens.com/
-  Description: "Dispositif médical pour la prévention d'accident cardiovasculaire"
-  Place: Paris
-  Scientific-domain: [Analyse de données, Imagerie, IA]
-  Application-domain: [Médical/Biologique]
-
-- Name: SolidAnim
-  url: https://www.solidanim.com/
-  Description: "Studio de production d'animation et Mocap"
-  Place: Paris
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
