@@ -722,7 +722,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[The Mill](https://www.themill.com/)**  
   * _Creation de VFX pour la publicité_
   * **Remarque**: _Sous-groupe de Technicolor_
-  * **Localisation**: France/Paris, USA/{New York, Los Angeles}, Chine/Shanghai, Corée/Seoul
+  * **Localisation**: France/Paris, USA/{New York, Los Angeles}, China/Shanghai, Korea/Seoul
   * **Domaine scientifique/technique**: Synthèse d'image, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.themill.com/people-and-culture/careers/)

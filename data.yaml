@@ -917,9 +917,9 @@
       City: Paris
     - Country: USA
       City: [New York, Los Angeles]
-    - Country: Chine
+    - Country: China
       City: Shanghai
-    - Country: Corée
+    - Country: Korea
       City: Seoul
   Scientific-domain: [Synthèse d'image, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
