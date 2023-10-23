@@ -684,7 +684,7 @@
   Description: "Développement d'outils créatifs pour l'animation."
   Place: 
     - Country: France
-    - City: Metz
+      City: Metz
   Product: "Iliad, Epos, Odyssey, Ulis, etc."
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
