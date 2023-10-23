@@ -457,6 +457,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.amd.com/en/corporate/careers)
 
 
+* **[Mikros Animation](https://www.mikrosanimation.com/fr/)**  
+  * _Creation d'Animation 3D_
+  * **Remarque**: _Sous-groupe de Technicolor_
+  * **Localisation**: Canada/Montreal, France/Paris, USA/Los Angeles, UK/London
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.mikrosanimation.com/en/people-and-culture/careers/)
+
+
 * **[MocapLab](https://www.mocaplab.com/)**  
   * _Studio et R&amp;D pour la capture de mouvement._
   * **Localisation**: Paris (Aubervilliers)
@@ -476,6 +485,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Grenoble
   * **Domaine scientifique/technique**: Acquisition, VR/AR, IHM/Haptique
   * **Domaine d'application**: Générique
+
+
+* **[MPC](https://www.mpcfilm.com/fr/)**  
+  * _Creation de VFX pour le cinéma_
+  * **Remarque**: _Sous-groupe de Technicolor_
+  * **Localisation**: France/Paris, Belgique/Liège, Canada/Montreal
+  * **Domaine scientifique/technique**: Synthèse d'image, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.mpcvfx.com/careers/)
 
 
 * **[Next Limit](https://nextlimit.com/)**  
@@ -668,12 +686,20 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 
 * **[Technicolor Creative Studios](https://www.technicolorcreative.com/)**  
-  * _Entreprise d'animation et de VFX international possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games._
+  * _Entreprise d'animation et de VFX internationale possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games._
   * **Localisation**: France/Paris, Canada/{Montréal, Toronto}, USA/{New York, Chicago, Los Angeles}, UK/London, International
   * **Nombres d'employés**: 12000
   * **Domaine scientifique/technique**: Synthèse d'image, Animation, Modélisation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://www.technicolorcreative.com/jobs/)
+
+
+* **[Technicolor Games](https://www.technicolorcreative.com/fr/studios/technicolor-games/)**  
+  * _Creation de Jeux Vidéos_
+  * **Remarque**: _Sous-groupe de Technicolor_
+  * **Localisation**: Canada/Paris, UK/London
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Thales](https://www.thalesgroup.com/fr)**   :small_orange_diamond: _[Entreprise majeure avec R&D avancée en France]_
@@ -691,6 +717,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://apply.workable.com/foundry/)
+
+
+* **[The Mill](https://www.themill.com/)**  
+  * _Creation de VFX pour la publicité_
+  * **Remarque**: _Sous-groupe de Technicolor_
+  * **Localisation**: France/Paris, USA/{New York, Los Angeles}, Chine/Shanghai, Corée/Seoul
+  * **Domaine scientifique/technique**: Synthèse d'image, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.themill.com/people-and-culture/careers/)
 
 
 * **[The Yard VFX](http://theyard-vfx.com/)**  

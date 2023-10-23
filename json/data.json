@@ -1229,6 +1229,39 @@
             "Employees": 180000
         },
         {
+            "Name": "Mikros Animation",
+            "url": "https://www.mikrosanimation.com/fr/",
+            "Description": "Creation d'Animation 3D",
+            "Jobs": "https://www.mikrosanimation.com/en/people-and-culture/careers/",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montreal"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "USA",
+                    "City": "Los Angeles"
+                },
+                {
+                    "Country": "UK",
+                    "City": "London"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Info": "Sous-groupe de Technicolor"
+        },
+        {
             "Name": "MocapLab",
             "url": "https://www.mocaplab.com/",
             "Description": "Studio et R&amp;D pour la capture de mouvement.",
@@ -1278,6 +1311,34 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "MPC",
+            "url": "https://www.mpcfilm.com/fr/",
+            "Description": "Creation de VFX pour le cin\u00e9ma",
+            "Jobs": "https://www.mpcvfx.com/careers/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Li\u00e8ge"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montreal"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Info": "Sous-groupe de Technicolor"
         },
         {
             "Name": "Next Limit",
@@ -1763,7 +1824,7 @@
         },
         {
             "Name": "Technicolor Creative Studios",
-            "Description": "Entreprise d'animation et de VFX international poss\u00e9dant les studios MPC, The Mill, Mikros Animation, et Technocolor Games.",
+            "Description": "Entreprise d'animation et de VFX internationale poss\u00e9dant les studios MPC, The Mill, Mikros Animation, et Technocolor Games.",
             "url": "https://www.technicolorcreative.com/",
             "Jobs": "https://www.technicolorcreative.com/jobs/",
             "Place": [
@@ -1805,6 +1866,28 @@
                 "Loisir Interactif/Immersion/Metavers"
             ],
             "Employees": 12000
+        },
+        {
+            "Name": "Technicolor Games",
+            "url": "https://www.technicolorcreative.com/fr/studios/technicolor-games/",
+            "Description": "Creation de Jeux Vid\u00e9os",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "UK",
+                    "City": "London"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Info": "Sous-groupe de Technicolor"
         },
         {
             "Name": "Thales",
@@ -1863,6 +1946,41 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ]
+        },
+        {
+            "Name": "The Mill",
+            "url": "https://www.themill.com/",
+            "Description": "Creation de VFX pour la publicit\u00e9",
+            "Jobs": "https://www.themill.com/people-and-culture/careers/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "USA",
+                    "City": [
+                        "New York",
+                        "Los Angeles"
+                    ]
+                },
+                {
+                    "Country": "Chine",
+                    "City": "Shanghai"
+                },
+                {
+                    "Country": "Cor\u00e9e",
+                    "City": "Seoul"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Info": "Sous-groupe de Technicolor"
         },
         {
             "Name": "The Yard VFX",

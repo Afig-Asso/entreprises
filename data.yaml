@@ -560,6 +560,23 @@
   Application-domain: [Générique]
   Employees: 180000
 
+- Name: Mikros Animation 
+  url: https://www.mikrosanimation.com/fr/
+  Description: "Creation d'Animation 3D"
+  Jobs: https://www.mikrosanimation.com/en/people-and-culture/careers/
+  Place:
+    - Country: Canada
+      City: Montreal
+    - Country: France
+      City: Paris
+    - Country: USA
+      City: Los Angeles
+    - Country: UK
+      City: London
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Info: "Sous-groupe de Technicolor"
+
 - Name: MocapLab
   url: https://www.mocaplab.com/
   Description: "Studio et R&amp;D pour la capture de mouvement."
@@ -583,6 +600,21 @@
   Place: Grenoble
   Scientific-domain: [Acquisition, VR/AR, IHM/Haptique]
   Application-domain: [Générique]
+
+- Name: MPC 
+  url: https://www.mpcfilm.com/fr/
+  Description: "Creation de VFX pour le cinéma"
+  Jobs: https://www.mpcvfx.com/careers/
+  Place:
+    - Country: France
+      City: Paris
+    - Country: Belgique
+      City: Liège
+    - Country: Canada
+      City: Montreal
+  Scientific-domain: [Synthèse d'image, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Info: "Sous-groupe de Technicolor"
 
 - Name: Next Limit
   url: https://nextlimit.com/
@@ -820,7 +852,7 @@
   Application-domain: [Jeu Vidéo]
 
 - Name: Technicolor Creative Studios
-  Description: "Entreprise d'animation et de VFX international possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games."
+  Description: "Entreprise d'animation et de VFX internationale possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games."
   url: https://www.technicolorcreative.com/
   Jobs: https://www.technicolorcreative.com/jobs/
   Place:
@@ -837,6 +869,17 @@
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
   Employees: 12000
 
+- Name: Technicolor Games
+  url: https://www.technicolorcreative.com/fr/studios/technicolor-games/
+  Description: "Creation de Jeux Vidéos"
+  Place: 
+    - Country: Canada
+      City: Paris
+    - Country: UK
+      City: London
+  Scientific-domain: [Animation]
+  Application-domain: [Jeu Vidéo]
+  Info: "Sous-groupe de Technicolor"
 - Name: Thales
   url: https://www.thalesgroup.com/fr
   Description: "Multi-nationale française à forte composante R&amp;D développant des produits pour l'aérospatiale, la défense, et la sécurité tel que la biométrie."
@@ -864,6 +907,23 @@
     - Country: [UK, USA, Australia]
   Scientific-domain: [Synthèse d'image, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: The Mill 
+  url: https://www.themill.com/
+  Description: "Creation de VFX pour la publicité"
+  Jobs: https://www.themill.com/people-and-culture/careers/
+  Place:
+    - Country: France
+      City: Paris
+    - Country: USA
+      City: [New York, Los Angeles]
+    - Country: Chine
+      City: Shanghai
+    - Country: Corée
+      City: Seoul
+  Scientific-domain: [Synthèse d'image, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Info: "Sous-groupe de Technicolor"
 
 - Name: The Yard VFX
   url: http://theyard-vfx.com/
