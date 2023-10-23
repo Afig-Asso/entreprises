@@ -549,7 +549,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * _Développement d'outils créatifs pour l'animation._
   * **Remarque**: _SARL Coopérative, mot clés: Animation 2D, Storyboard, Drawing, Realtime 3D_
   * **Produits**: Iliad,  Epos,  Odyssey,  Ulis,  etc.
-  * **Localisation**: France, Metz
+  * **Localisation**: France/Metz
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
