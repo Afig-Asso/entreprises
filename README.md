@@ -349,6 +349,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game
 
 
+* **[Ikigai Games](https://www.gfc.ikigai.games/)**  
+  * _Association pour la création de jeux vidéo pédagogiques._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Analyse de données, Web/Cloud/Big Data, Autres
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.gfc.ikigai.games/recrutement)
+
+
 * **[Illumination MacGuff](https://www.macguff.com/)**  
   * _Création de films d'animation et d'effets visels._
   * **Localisation**: Paris
@@ -789,6 +797,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Simulation, IA
   * **Domaine d'application**: Robotique/Systèmes autonomes
+
+
+* **[Wassa](https://wassa.io/fr/)**  
+  * _Agence digitale pour applications mobiles, traitement d'image et Data Science_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: IHM/Haptique, Web/Cloud/Big Data
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://wassa.io/fr/offres-emploi/)
 
 
 * **[WetaFX](https://www.wetafx.co.nz/)**  

@@ -965,6 +965,21 @@
             ]
         },
         {
+            "Name": "Ikigai Games",
+            "url": "https://www.gfc.ikigai.games/",
+            "Description": "Association pour la cr\u00e9ation de jeux vid\u00e9o p\u00e9dagogiques.",
+            "Place": "Paris",
+            "Jobs": "https://www.gfc.ikigai.games/recrutement",
+            "Scientific-domain": [
+                "Analyse de donn\u00e9es",
+                "Web/Cloud/Big Data",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Illumination MacGuff",
             "url": "https://www.macguff.com/",
             "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
@@ -2181,6 +2196,20 @@
             ],
             "Application-domain": [
                 "Robotique/Syst\u00e8mes autonomes"
+            ]
+        },
+        {
+            "Name": "Wassa",
+            "url": "https://wassa.io/fr/",
+            "Description": "Agence digitale pour applications mobiles, traitement d'image et Data Science",
+            "Place": "Paris",
+            "Jobs": "https://wassa.io/fr/offres-emploi/",
+            "Scientific-domain": [
+                "IHM/Haptique",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
             ]
         },
         {

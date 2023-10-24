@@ -431,6 +431,14 @@
   Scientific-domain: [Visualisation, Simulation, VR/AR]
   Application-domain: [Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game]
 
+- Name: Ikigai Games
+  url: https://www.gfc.ikigai.games/
+  Description: "Association pour la création de jeux vidéo pédagogiques."
+  Place: Paris
+  Jobs: https://www.gfc.ikigai.games/recrutement
+  Scientific-domain: [Analyse de données, Web/Cloud/Big Data, Autres]
+  Application-domain: [Jeu Vidéo]
+
 - Name: Illumination MacGuff
   url: https://www.macguff.com/
   Description: "Création de films d'animation et d'effets visels."
@@ -1013,6 +1021,14 @@
   url: https://en.wandercraft.eu/
   Scientific-domain: [Simulation, IA]
   Application-domain: [Robotique/Systèmes autonomes]
+
+- Name: Wassa
+  url: https://wassa.io/fr/
+  Description: "Agence digitale pour applications mobiles, traitement d'image et Data Science"
+  Place: Paris
+  Jobs: https://wassa.io/fr/offres-emploi/
+  Scientific-domain: [IHM/Haptique, Web/Cloud/Big Data]
+  Application-domain: [Générique]
 
 - Name: WetaFX
   url: https://www.wetafx.co.nz/
