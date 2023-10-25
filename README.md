@@ -504,7 +504,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.mpcvfx.com/careers/)
 
 
-* **[Newtone Technologies](https://www.linkedin.com/company/newtone-technologies/?originalSubdomain=fr)**  
+* **[Newtone Technologies](https://www.linkedin.com/company/newtone-technologies/)**  
   * _Research & Innovation company expert in Image Analysis for skin and hair appearance._
   * **Localisation**: Lyon
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
