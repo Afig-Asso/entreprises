@@ -504,6 +504,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.mpcvfx.com/careers/)
 
 
+* **[Newtone Technologies](https://www.linkedin.com/company/newtone-technologies/?originalSubdomain=fr)**  
+  * _Research & Innovation company expert in Image Analysis for skin and hair appearance._
+  * **Localisation**: Lyon
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Next Limit](https://nextlimit.com/)**  
   * _Moteur de rendu et de simulation_
   * **Produits**: [RealFlow](https://realflow.com/), [Maxwell Render](https://maxwellrender.com/)
@@ -523,7 +530,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[NVidia](https://www.nvidia.com/)**  
   * _Développement de cartes graphiques materiel et logiciel_
   * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
-  * **Localisation**: USA, International
+  * **Localisation**: USA, France, International
   * **Nombres d'employés**: 13000
   * **Domaine scientifique/technique**: Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation
   * **Domaine d'application**: Générique
@@ -543,6 +550,12 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: USA/Portland
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
+* **[Perception4D](https://perception4d.com/)**  
+  * **Localisation**: Lyon
+  * **Domaine scientifique/technique**: Vision, Acquisition, Visualisation, Géométrie, IA
+  * **Domaine d'application**: Générique
 
 
 * **[Pixel Wizards](https://pixel-wizards.com/)**  

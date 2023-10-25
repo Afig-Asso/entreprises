@@ -1412,6 +1412,9 @@
                     "Country": "USA"
                 },
                 {
+                    "Country": "France"
+                },
+                {
                     "International": true
                 }
             ],
@@ -2267,6 +2270,35 @@
             ],
             "Scientific-domain": [
                 "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Newtone Technologies",
+            "url": "https://www.linkedin.com/company/newtone-technologies/?originalSubdomain=fr",
+            "Description": "Research & Innovation company expert in Image Analysis for skin and hair appearance.",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "Perception4D",
+            "url": "https://perception4d.com/",
+            "Descrption": "Syst\u00e8me d'acquisition par cam\u00e9ra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision.",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Visualisation",
+                "G\u00e9om\u00e9trie",
+                "IA"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"

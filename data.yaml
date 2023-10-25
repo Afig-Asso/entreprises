@@ -654,6 +654,7 @@
   url: https://www.nvidia.com/
   Place: 
     - Country: USA
+    - Country: France
     - International: True
   Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
   Application-domain: [Générique]
@@ -1058,5 +1059,19 @@
     - Country: USA
       City: San Jose
   Scientific-domain: [IHM/Haptique]
+  Application-domain: [Générique]
+
+- Name: Newtone Technologies
+  url: https://www.linkedin.com/company/newtone-technologies/?originalSubdomain=fr
+  Description: "Research & Innovation company expert in Image Analysis for skin and hair appearance."
+  Place: Lyon
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]
+
+- Name: Perception4D
+  url: https://perception4d.com/
+  Descrption: "Système d'acquisition par caméra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision."
+  Place: Lyon
+  Scientific-domain: [Vision, Acquisition, Visualisation, Géométrie, IA]
   Application-domain: [Générique]
 
