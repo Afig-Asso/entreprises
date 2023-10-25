@@ -623,6 +623,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://roboflow.com/careers)
 
 
+* **[Saint-Gobain](https://www.saint-gobain.com/fr)**  
+  * _Construction de bâtiments_
+  * **Localisation**: Frace, International
+  * **Domaine scientifique/technique**: Synthèse d'image, Simulation, Visualisation
+  * **Domaine d'application**: Architecture/Immobilier, Mécanique/Ingénierie civile
+
+
 * **[Shot Over](https://shotover.com/)**  
   * _Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc)._
   * **Localisation**: USA/Colorado
@@ -831,7 +838,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[YellowScan](https://www.yellowscan-lidar.com/)**  
   * _Scan LiDAR pour application industrielles_
-  * **Localisation**: Montpellier (Saint-Clément-de-Rivière)
+  * **Localisation**: Montpellier (Saint-Clément-de-RiviInterère)
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie
   * **Domaine d'application**: Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile
   * [_Jobs_](https://www.yellowscan-lidar.com/about/career/)

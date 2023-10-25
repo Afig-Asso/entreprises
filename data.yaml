@@ -1048,7 +1048,7 @@
   Jobs: https://www.yellowscan-lidar.com/about/career/
   Place: 
     - City: Montpellier
-      Exact: Saint-Clément-de-Rivière
+      Exact: Saint-Clément-de-RiviInterère
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
@@ -1075,3 +1075,12 @@
   Scientific-domain: [Vision, Acquisition, Visualisation, Géométrie, IA]
   Application-domain: [Générique]
 
+- Name: Saint-Gobain
+  url: https://www.saint-gobain.com/fr
+  Description: "Construction de bâtiments"
+  Place:
+    - Country: Frace
+      Place: Paris
+    - International: True
+  Scientific-domain: [Synthèse d'image, Simulation, Visualisation]
+  Application-domain: [Architecture/Immobilier, Mécanique/Ingénierie civile]

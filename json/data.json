@@ -2245,7 +2245,7 @@
             "Place": [
                 {
                     "City": "Montpellier",
-                    "Exact": "Saint-Cl\u00e9ment-de-Rivi\u00e8re"
+                    "Exact": "Saint-Cl\u00e9ment-de-RiviInter\u00e8re"
                 }
             ],
             "Scientific-domain": [
@@ -2302,6 +2302,29 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Saint-Gobain",
+            "url": "https://www.saint-gobain.com/fr",
+            "Description": "Construction de b\u00e2timents",
+            "Place": [
+                {
+                    "Country": "Frace",
+                    "Place": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Simulation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Architecture/Immobilier",
+                "M\u00e9canique/Ing\u00e9nierie civile"
             ]
         }
     ]
