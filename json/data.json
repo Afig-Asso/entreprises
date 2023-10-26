@@ -114,6 +114,64 @@
             ]
         },
         {
+            "Name": "3.0 Studio",
+            "Description": "Studio d'animation pour films courts, TV, et cr\u00e9ation artisitques.",
+            "url": "https://www.3point0studio.com/en/home/",
+            "Place": "Angoul\u00eame",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "3DVF",
+            "Description": "Site/magazine sp\u00e9cialis\u00e9 dans la production graphique",
+            "url": "https://3dvf.com/",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Autres"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "4D Fun",
+            "Description": "Studio d'immersion virtuelle",
+            "url": "https://4dfun.io/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Los Angeles"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "4Dviews",
+            "Description": "Capture volum\u00e9trique",
+            "url": "https://www.4dviews.com/",
+            "Place": "Grenoble",
+            "Scientific-domain": [
+                "Autres"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
             "Name": "Adobe",
             "url": "https://www.adobe.com/fr/",
             "Description": "D\u00e9velopement d'outils cr\u00e9atifs",
@@ -519,6 +577,33 @@
             ]
         },
         {
+            "Name": "Blue Spirit",
+            "Description": "Studio d'animation",
+            "Place": [
+                "Paris",
+                "Angoul\u00eame"
+            ],
+            "url": "https://www.spirit-prod.com/",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Bobbypills",
+            "Description": "Studio d'animation",
+            "url": "https://www.bobbypills.com/",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
             "Name": "BrandXR",
             "url": "https://www.brandxr.io/",
             "Description": "No Code VR platform",
@@ -626,6 +711,43 @@
             ]
         },
         {
+            "Name": "Cube Creative",
+            "Description": "Studio d'animaiton",
+            "Place": "Paris",
+            "url": "https://www.cube-creative.com/",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Cyber Group Studios",
+            "url": "https://www.cybergroupstudios.com/",
+            "Jobs": "https://www.cybergroupstudios.com/about-us/#jobs",
+            "Description": "Studio de cr\u00e9ation d'animation pour enfants",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Burbank"
+                },
+                {
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Roubaix"
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
             "Name": "Dassault Syst\u00e8mes",
             "url": "https://www.3ds.com/fr/",
             "Description": "Logiciels de CAO, Design et Simulation.",
@@ -716,6 +838,24 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "DreamWall",
+            "url": "https://www.dreamwall.be/en",
+            "Description": "Cr\u00e9ation d'histoires anim\u00e9es",
+            "Jobs": "https://www.dreamwall.be/en/jobs",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Charleroix"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -1356,6 +1496,19 @@
             "Info": "Sous-groupe de Technicolor"
         },
         {
+            "Name": "Newtone Technologies",
+            "url": "https://www.linkedin.com/company/newtone-technologies/",
+            "Description": "Research & Innovation company expert in Image Analysis for skin and hair appearance.",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "Next Limit",
             "url": "https://nextlimit.com/",
             "Description": "Moteur de rendu et de simulation",
@@ -1467,6 +1620,22 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "Perception4D",
+            "url": "https://perception4d.com/",
+            "Descrption": "Syst\u00e8me d'acquisition par cam\u00e9ra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision.",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Visualisation",
+                "G\u00e9om\u00e9trie",
+                "IA"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -1641,6 +1810,29 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Saint-Gobain",
+            "url": "https://www.saint-gobain.com/fr",
+            "Description": "Construction de b\u00e2timents",
+            "Place": [
+                {
+                    "Country": "Frace",
+                    "Place": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Simulation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Architecture/Immobilier",
+                "M\u00e9canique/Ing\u00e9nierie civile"
             ]
         },
         {
@@ -2273,198 +2465,6 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Newtone Technologies",
-            "url": "https://www.linkedin.com/company/newtone-technologies/",
-            "Description": "Research & Innovation company expert in Image Analysis for skin and hair appearance.",
-            "Place": "Lyon",
-            "Scientific-domain": [
-                "Imagerie",
-                "Analyse de donn\u00e9es"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "Perception4D",
-            "url": "https://perception4d.com/",
-            "Descrption": "Syst\u00e8me d'acquisition par cam\u00e9ra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision.",
-            "Place": "Lyon",
-            "Scientific-domain": [
-                "Vision",
-                "Acquisition",
-                "Visualisation",
-                "G\u00e9om\u00e9trie",
-                "IA"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Saint-Gobain",
-            "url": "https://www.saint-gobain.com/fr",
-            "Description": "Construction de b\u00e2timents",
-            "Place": [
-                {
-                    "Country": "Frace",
-                    "Place": "Paris"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Simulation",
-                "Visualisation"
-            ],
-            "Application-domain": [
-                "Architecture/Immobilier",
-                "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
-        },
-        {
-            "Name": "3.0 Studio",
-            "Description": "Studio d'animation pour films courts, TV, et cr\u00e9ation artisitques.",
-            "url": "https://www.3point0studio.com/en/home/",
-            "Place": "Angoul\u00eame",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "3DVF",
-            "Description": "Site/magazine sp\u00e9cialis\u00e9 dans la production graphique",
-            "url": "https://3dvf.com/",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Autres"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX",
-                "Jeu Vid\u00e9o",
-                "Loisir Interactif/Immersion/Metavers"
-            ]
-        },
-        {
-            "Name": "4Dviews",
-            "Description": "Capture volum\u00e9trique",
-            "url": "https://www.4dviews.com/",
-            "Place": "Grenoble",
-            "Scientific-domain": [
-                "Autres"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX",
-                "Jeu Vid\u00e9o",
-                "Loisir Interactif/Immersion/Metavers"
-            ]
-        },
-        {
-            "Name": "4D Fun",
-            "Description": "Studio d'immersion virtuelle",
-            "url": "https://4dfun.io/",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Los Angeles"
-                }
-            ],
-            "Scientific-domain": [
-                "Acquisition",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers"
-            ]
-        },
-        {
-            "Name": "Blue Spirit",
-            "Description": "Studio d'animation",
-            "Place": [
-                "Paris",
-                "Angoul\u00eame"
-            ],
-            "url": "https://www.spirit-prod.com/",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Cube Creative",
-            "Description": "Studio d'animaiton",
-            "Place": "Paris",
-            "url": "https://www.cube-creative.com/",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Bobbypills",
-            "Description": "Studio d'animation",
-            "url": "https://www.bobbypills.com/",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Cyber Group Studios",
-            "url": "https://www.cybergroupstudios.com/",
-            "Jobs": "https://www.cybergroupstudios.com/about-us/#jobs",
-            "Description": "Studio de cr\u00e9ation d'animation pour enfants",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Burbank"
-                },
-                {
-                    "Country": "France",
-                    "City": [
-                        "Paris",
-                        "Roubaix"
-                    ]
-                }
-            ],
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "DreamWall",
-            "url": "https://www.dreamwall.be/en",
-            "Description": "Cr\u00e9ation d'histoires anim\u00e9es",
-            "Jobs": "https://www.dreamwall.be/en/jobs",
-            "Place": [
-                {
-                    "Country": "Belgique",
-                    "City": "Charleroix"
-                }
-            ],
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         }
     ]

@@ -54,6 +54,36 @@
   Scientific-domain: [Modélisation, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: 3.0 Studio
+  Description: "Studio d'animation pour films courts, TV, et création artisitques."
+  url: https://www.3point0studio.com/en/home/
+  Place: Angoulême
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: 3DVF
+  Description: "Site/magazine spécialisé dans la production graphique"
+  url:  https://3dvf.com/
+  Place: Paris
+  Scientific-domain: [Autres]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: 4D Fun
+  Description: "Studio d'immersion virtuelle"
+  url: https://4dfun.io/
+  Place: 
+    - Country: USA
+      City: Los Angeles
+  Scientific-domain: [Acquisition, VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: 4Dviews
+  Description: "Capture volumétrique"
+  url: https://www.4dviews.com/
+  Place: Grenoble
+  Scientific-domain: [Autres]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
 - Name: "Adobe"
   url: https://www.adobe.com/fr/
   Description: Dévelopement d'outils créatifs
@@ -230,6 +260,20 @@
   Scientific-domain: [VR/AR, Modélisation, Web/Cloud/Big Data]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
 
+- Name: Blue Spirit
+  Description: "Studio d'animation"
+  Place: ['Paris', 'Angoulême']
+  url: https://www.spirit-prod.com/
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Bobbypills
+  Description: "Studio d'animation"
+  url: https://www.bobbypills.com/
+  Place: Paris
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: BrandXR
   url: https://www.brandxr.io/
   Description: "No Code VR platform"
@@ -279,6 +323,25 @@
   Application-domain: [Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires]
 
 
+- Name: Cube Creative
+  Description: "Studio d'animaiton"
+  Place: Paris
+  url: https://www.cube-creative.com/
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Cyber Group Studios
+  url: https://www.cybergroupstudios.com/
+  Jobs: https://www.cybergroupstudios.com/about-us/#jobs
+  Description: "Studio de création d'animation pour enfants"
+  Place:
+    - Country: USA
+      City: Burbank
+    - Country: France
+      City: ['Paris','Roubaix']
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: "Dassault Systèmes"
   url: https://www.3ds.com/fr/
   Description: Logiciels de CAO, Design et Simulation.
@@ -317,6 +380,16 @@
       City: Montréal
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
+
+- Name: DreamWall
+  url: https://www.dreamwall.be/en
+  Description: "Création d'histoires animées"
+  Jobs: https://www.dreamwall.be/en/jobs
+  Place: 
+    - Country: Belgique
+      City: Charleroix
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Effigy 3D
   url: https://effigy-3d.com/
@@ -624,6 +697,13 @@
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Info: "Sous-groupe de Technicolor"
 
+- Name: Newtone Technologies
+  url: https://www.linkedin.com/company/newtone-technologies/
+  Description: "Research & Innovation company expert in Image Analysis for skin and hair appearance."
+  Place: Lyon
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]
+
 - Name: Next Limit
   url: https://nextlimit.com/
   Description: "Moteur de rendu et de simulation"
@@ -679,6 +759,13 @@
       City: Portland
   Scientific-domain: [VR/AR]
   Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: Perception4D
+  url: https://perception4d.com/
+  Descrption: "Système d'acquisition par caméra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision."
+  Place: Lyon
+  Scientific-domain: [Vision, Acquisition, Visualisation, Géométrie, IA]
+  Application-domain: [Générique]
 
 - Name: Pixel Wizards
   Description: "Studio de jeu vidéos indie, jeux en tours par tours"
@@ -763,6 +850,16 @@
       City: [New York, San Francisco]
   Scientific-domain: [Analyse de données, Vision]
   Application-domain: [Générique]
+
+- Name: Saint-Gobain
+  url: https://www.saint-gobain.com/fr
+  Description: "Construction de bâtiments"
+  Place:
+    - Country: Frace
+      Place: Paris
+    - International: True
+  Scientific-domain: [Synthèse d'image, Simulation, Visualisation]
+  Application-domain: [Architecture/Immobilier, Mécanique/Ingénierie civile]
 
 - Name: Shot Over
   url: https://shotover.com/
@@ -1061,99 +1158,3 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
-- Name: Newtone Technologies
-  url: https://www.linkedin.com/company/newtone-technologies/
-  Description: "Research & Innovation company expert in Image Analysis for skin and hair appearance."
-  Place: Lyon
-  Scientific-domain: [Imagerie, Analyse de données]
-  Application-domain: [Médical/Biologique]
-
-- Name: Perception4D
-  url: https://perception4d.com/
-  Descrption: "Système d'acquisition par caméra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision."
-  Place: Lyon
-  Scientific-domain: [Vision, Acquisition, Visualisation, Géométrie, IA]
-  Application-domain: [Générique]
-
-- Name: Saint-Gobain
-  url: https://www.saint-gobain.com/fr
-  Description: "Construction de bâtiments"
-  Place:
-    - Country: Frace
-      Place: Paris
-    - International: True
-  Scientific-domain: [Synthèse d'image, Simulation, Visualisation]
-  Application-domain: [Architecture/Immobilier, Mécanique/Ingénierie civile]
-
-- Name: 3.0 Studio
-  Description: "Studio d'animation pour films courts, TV, et création artisitques."
-  url: https://www.3point0studio.com/en/home/
-  Place: Angoulême
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: 3DVF
-  Description: "Site/magazine spécialisé dans la production graphique"
-  url:  https://3dvf.com/
-  Place: Paris
-  Scientific-domain: [Autres]
-  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
-
-- Name: 4Dviews
-  Description: "Capture volumétrique"
-  url: https://www.4dviews.com/
-  Place: Grenoble
-  Scientific-domain: [Autres]
-  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
-
-- Name: 4D Fun
-  Description: "Studio d'immersion virtuelle"
-  url: https://4dfun.io/
-  Place: 
-    - Country: USA
-      City: Los Angeles
-  Scientific-domain: [Acquisition, VR/AR]
-  Application-domain: [Loisir Interactif/Immersion/Metavers]
-
-- Name: Blue Spirit
-  Description: "Studio d'animation"
-  Place: ['Paris', 'Angoulême']
-  url: https://www.spirit-prod.com/
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: Cube Creative
-  Description: "Studio d'animaiton"
-  Place: Paris
-  url: https://www.cube-creative.com/
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: Bobbypills
-  Description: "Studio d'animation"
-  url: https://www.bobbypills.com/
-  Place: Paris
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: Cyber Group Studios
-  url: https://www.cybergroupstudios.com/
-  Jobs: https://www.cybergroupstudios.com/about-us/#jobs
-  Description: "Studio de création d'animation pour enfants"
-  Place:
-    - Country: USA
-      City: Burbank
-    - Country: France
-      City: ['Paris','Roubaix']
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: DreamWall
-  url: https://www.dreamwall.be/en
-  Description: "Création d'histoires animées"
-  Jobs: https://www.dreamwall.be/en/jobs
-  Place: 
-    - Country: Belgique
-      City: Charleroix
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
