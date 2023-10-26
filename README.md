@@ -61,6 +61,34 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.2d3d-animations.com/emploi/)
 
 
+* **[3.0 Studio](https://www.3point0studio.com/en/home/)**  
+  * _Studio d'animation pour films courts, TV, et création artisitques._
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[3DVF](https://3dvf.com/)**  
+  * _Site/magazine spécialisé dans la production graphique_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Autres
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
+* **[4D Fun](https://4dfun.io/)**  
+  * _Studio d'immersion virtuelle_
+  * **Localisation**: USA/Los Angeles
+  * **Domaine scientifique/technique**: Acquisition, VR/AR
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+
+
+* **[4Dviews](https://www.4dviews.com/)**  
+  * _Capture volumétrique_
+  * **Localisation**: Grenoble
+  * **Domaine scientifique/technique**: Autres
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
 * **[Adobe](https://www.adobe.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Dévelopement d'outils créatifs_
   * **Remarque**: _Centre de recherche à Paris_
@@ -192,6 +220,19 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.blippar.com/careers#Jobs)
 
 
+* **[Blue Spirit](https://www.spirit-prod.com/)**  
+  * _Studio d'animation_
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Bobbypills](https://www.bobbypills.com/)**  
+  * _Studio d'animation_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[BrandXR](https://www.brandxr.io/)**  
   * _No Code VR platform_
   * **Localisation**: USA/{Orlando, Detroit}
@@ -234,6 +275,21 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
 
 
+* **[Cube Creative](https://www.cube-creative.com/)**  
+  * _Studio d'animaiton_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Cyber Group Studios](https://www.cybergroupstudios.com/)**  
+  * _Studio de création d'animation pour enfants_
+  * **Localisation**: USA/Burbank, France/{Paris, Roubaix}
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.cybergroupstudios.com/about-us/#jobs)
+
+
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Logiciels de CAO, Design et Simulation._
   * **Produits**: Catia,  SolidWorks
@@ -259,6 +315,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://dont-nod.com/en/careers/)
+
+
+* **[DreamWall](https://www.dreamwall.be/en)**  
+  * _Création d'histoires animées_
+  * **Localisation**: Belgique/Charleroix
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.dreamwall.be/en/jobs)
 
 
 * **[Effigy 3D](https://effigy-3d.com/)**  

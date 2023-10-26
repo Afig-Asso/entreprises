@@ -1084,3 +1084,76 @@
     - International: True
   Scientific-domain: [Synthèse d'image, Simulation, Visualisation]
   Application-domain: [Architecture/Immobilier, Mécanique/Ingénierie civile]
+
+- Name: 3.0 Studio
+  Description: "Studio d'animation pour films courts, TV, et création artisitques."
+  url: https://www.3point0studio.com/en/home/
+  Place: Angoulême
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: 3DVF
+  Description: "Site/magazine spécialisé dans la production graphique"
+  url:  https://3dvf.com/
+  Place: Paris
+  Scientific-domain: [Autres]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: 4Dviews
+  Description: "Capture volumétrique"
+  url: https://www.4dviews.com/
+  Place: Grenoble
+  Scientific-domain: [Autres]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: 4D Fun
+  Description: "Studio d'immersion virtuelle"
+  url: https://4dfun.io/
+  Place: 
+    - Country: USA
+      City: Los Angeles
+  Scientific-domain: [Acquisition, VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: Blue Spirit
+  Description: "Studio d'animation"
+  Place: ['Paris', 'Angoulême']
+  url: https://www.spirit-prod.com/
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Cube Creative
+  Description: "Studio d'animaiton"
+  Place: Paris
+  url: https://www.cube-creative.com/
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Bobbypills
+  Description: "Studio d'animation"
+  url: https://www.bobbypills.com/
+  Place: Paris
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Cyber Group Studios
+  url: https://www.cybergroupstudios.com/
+  Jobs: https://www.cybergroupstudios.com/about-us/#jobs
+  Description: "Studio de création d'animation pour enfants"
+  Place:
+    - Country: USA
+      City: Burbank
+    - Country: France
+      City: ['Paris','Roubaix']
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: DreamWall
+  url: https://www.dreamwall.be/en
+  Description: "Création d'histoires animées"
+  Jobs: https://www.dreamwall.be/en/jobs
+  Place: 
+    - Country: Belgique
+      City: Charleroix
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
