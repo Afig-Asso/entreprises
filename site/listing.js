@@ -320,13 +320,24 @@ function display_company(data, sorted_type) {
             HTML_txt += `<h2 class="title-place">France</h2>\n`
             HTML_txt += '<div class="container-place">\n'
             const all_city = Object.keys(french_entries).sort();
+
+            // Display Paris first
+            HTML_txt += `<h2 class="title-place title-city">Paris</h2>\n`
+            HTML_txt += '<div class="container-place-city">\n'
+            for(let entry_city of data['France']['Paris']) {
+                HTML_txt += display_company_entry(entry_city);
+            }
+            HTML_txt += '</div>\n'
+
             for(let city of all_city) {
-                HTML_txt += `<h2 class="title-place title-city">${city}</h2>\n`
-                HTML_txt += '<div class="container-place-city">\n'
-                for(let entry_city of data['France'][city]) {
-                    HTML_txt += display_company_entry(entry_city);
+                if(city!='Paris'){
+                    HTML_txt += `<h2 class="title-place title-city">${city}</h2>\n`
+                    HTML_txt += '<div class="container-place-city">\n'
+                    for(let entry_city of data['France'][city]) {
+                        HTML_txt += display_company_entry(entry_city);
+                    }
+                    HTML_txt += '</div>\n'
                 }
-                HTML_txt += '</div>\n'
             }
             HTML_txt += '</div>\n'
         }

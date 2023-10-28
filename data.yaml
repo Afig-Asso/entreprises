@@ -859,7 +859,7 @@
   url: https://www.saint-gobain.com/fr
   Description: "Construction de bâtiments"
   Place:
-    - Country: Frace
+    - Country: France
       Place: Paris
     - International: True
   Scientific-domain: [Synthèse d'image, Simulation, Visualisation]
@@ -1062,7 +1062,7 @@
       City: [Montreal, Toronto]
     - Country: USA
       City: [San Francisco, New York, Atlanta]
-    - Country: Inde
+    - Country: India
     - Country: Allemagne
     - Country: Pologne
     - International: True
