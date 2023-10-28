@@ -279,6 +279,7 @@ if __name__ == "__main__":
     check_validity_data(data, data_keywords)
 
     if is_check:
+        print('Found',len(data),'Companies\n')
         print('Check Keywords ...')
         check_keywords(data_keywords, data)
         print('Check Keywords done\n')

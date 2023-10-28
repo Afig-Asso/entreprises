@@ -732,9 +732,13 @@
   Description: "Développement de cartes graphiques materiel et logiciel"
   Info: "NVidia Research est présent partout dans le monde, dont en France."
   url: https://www.nvidia.com/
+  Jobs: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
   Place: 
     - Country: USA
+      State: California
+      City: Santa Clara
     - Country: France
+      City: Paris
     - International: True
   Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
   Application-domain: [Générique]

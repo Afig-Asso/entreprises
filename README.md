@@ -618,10 +618,11 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[NVidia](https://www.nvidia.com/)**  
   * _Développement de cartes graphiques materiel et logiciel_
   * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
-  * **Localisation**: USA, France, International
+  * **Localisation**: USA/California/Santa Clara, France/Paris, International
   * **Nombres d'employés**: 13000
   * **Domaine scientifique/technique**: Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
 
 
 * **[OptiTrack](https://optitrack.com/)**  
