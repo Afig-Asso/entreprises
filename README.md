@@ -89,6 +89,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
+* **[Activision](https://www.activision.com/)**  
+  * _Développeur de jeux vidéo_
+  * **Localisation**: USA/Los Angeles, International
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.activision.com/)
+
+
 * **[Adobe](https://www.adobe.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Dévelopement d'outils créatifs_
   * **Remarque**: _Centre de recherche à Paris_
@@ -300,6 +308,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://careers.3ds.com/)
 
 
+* **[DigitalFish](https://www.digitalfish.com/)**  
+  * _Outils pour l'animation 3D, 2D et VR_
+  * **Localisation**: USA/California/San Mateo
+  * **Domaine scientifique/technique**: Animation, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.digitalfish.com/careers/)
+
+
 * **[Disney](https://www.disneystudios.com/)**  
   * **Remarque**: _<a href="https://studios.disneyresearch.com/">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique._
   * **Localisation**: USA, International
@@ -462,6 +478,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Kitware](https://www.kitware.com/)**  
   * _Développement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de développement open-source._
+  * **Produits**: ParaView,  VTK,  3D Slicer,  ITK,  CMake
   * **Localisation**: USA, France/Lyon
   * **Nombres d'employés**: 200
   * **Domaine scientifique/technique**: Visualisation, Reconstruction, Simulation, Géométrie, Imagerie, Vision, IA, Analyse de données
@@ -496,6 +513,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: USA/Costa Mesa, Denmark/Aarhus
   * **Domaine scientifique/technique**: Synthèse d'image
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Manus](https://www.manus-meta.com/)**  
+  * _Motion capture and extended reality system_
+  * **Localisation**: Netherlands/Eindhoven
+  * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game
 
 
 * **[MassVirtual](https://massvirtual.com/)**  
@@ -598,6 +622,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 13000
   * **Domaine scientifique/technique**: Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation
   * **Domaine d'application**: Générique
+
+
+* **[OptiTrack](https://optitrack.com/)**  
+  * _Motion capture pour les effets spéciaux au cinéma_
+  * **Localisation**: USA/Oregon/Corvallis
+  * **Domaine scientifique/technique**: Acquisition, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46)
 
 
 * **[Otoy](https://home.otoy.com/)**  
@@ -862,6 +894,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://uvr.welcomekit.co/)
 
 
+* **[Vicon](https://www.vicon.com/)**  
+  * _Système de Motion Capture_
+  * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.vicon.com/careers/)
+
+
 * **[Virtuos](https://www.virtuosgames.com/)**  
   * _Studio développement de jeu vidéo_
   * **Localisation**: Singapore, France/Paris
@@ -874,6 +913,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: USA/Conifer
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Visualisation
   * **Domaine d'application**: Architecture/Immobilier
+
+
+* **[Wacom](https://www.wacom.com/)**  
+  * _Tablettes et écran tactile pour la création graphique_
+  * **Localisation**: Japan/Saitama, Germany/Dusseldorf, USA/Oregon/Portland, International
+  * **Domaine scientifique/technique**: Hardware, Acquisition
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.wacom.com/en-us/about-wacom/careers-at-wacom)
 
 
 * **[Wandercraft](https://en.wandercraft.eu/)**  

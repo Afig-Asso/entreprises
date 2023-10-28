@@ -554,7 +554,7 @@
 - Name: Kitware
   url: https://www.kitware.com/
   Description: "Développement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de développement open-source."
-  Products: ParaView, VTK, 3D Slicer, ITK, CMake
+  Product: ParaView, VTK, 3D Slicer, ITK, CMake
   Jobs: https://www.kitware.com/careers/
   Place: 
     - Country: USA
@@ -1156,5 +1156,78 @@
     - Country: USA
       City: San Jose
   Scientific-domain: [IHM/Haptique]
+  Application-domain: [Générique]
+
+- Name: OptiTrack
+  url: https://optitrack.com/
+  Description: "Motion capture pour les effets spéciaux au cinéma"
+  Jobs: https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46
+  Place: 
+    - Country: USA
+      State: Oregon
+      City: Corvallis
+  Scientific-domain: [Acquisition, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Vicon
+  url: https://www.vicon.com/
+  Description: "Système de Motion Capture"
+  Jobs: https://www.vicon.com/careers/
+  Place:
+    - Coutry: UK
+      State: Oxford
+  Scientific-domain: [Acquisition, Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game]
+
+- Name: Manus
+  url: https://www.manus-meta.com/
+  Description: "Motion capture and extended reality system"
+  Place:
+    - Country: Netherlands
+      City: Eindhoven
+  Scientific-domain: [Acquisition, Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
+
+- Name: DigitalFish
+  url: https://www.digitalfish.com/
+  Description: "Outils pour l'animation 3D, 2D et VR"
+  Products:
+    - Name: Reflex
+      url: https://www.digitalfish.com/reflex/
+    - Name: Lune
+      url: https://www.digitalfish.com/lune/
+  Place: 
+    - Country: USA
+      State: California
+      City: San Mateo
+  Jobs: https://www.digitalfish.com/careers/
+  Scientific-domain: [Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  
+- Name: Activision
+  url: https://www.activision.com/
+  Description: "Développeur de jeux vidéo"
+  Jobs: https://careers.activision.com/
+  Place:
+    - Country: USA
+      City: ["Los Angeles"]
+    - International: True
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Wacom
+  url: https://www.wacom.com/
+  Description: "Tablettes et écran tactile pour la création graphique"
+  Jobs: https://www.wacom.com/en-us/about-wacom/careers-at-wacom
+  Place:
+    - Country: Japan
+      City: Saitama
+    - Country: Germany
+      City: Dusseldorf
+    - Country: USA
+      State: Oregon
+      City: Portland
+    - International: True
+  Scientific-domain: [Hardware, Acquisition]
   Application-domain: [Générique]
 

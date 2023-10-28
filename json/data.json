@@ -1199,7 +1199,7 @@
             "Name": "Kitware",
             "url": "https://www.kitware.com/",
             "Description": "D\u00e9veloppement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de d\u00e9veloppement open-source.",
-            "Products": "ParaView, VTK, 3D Slicer, ITK, CMake",
+            "Product": "ParaView, VTK, 3D Slicer, ITK, CMake",
             "Jobs": "https://www.kitware.com/careers/",
             "Place": [
                 {
@@ -2462,6 +2462,155 @@
             ],
             "Scientific-domain": [
                 "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "OptiTrack",
+            "url": "https://optitrack.com/",
+            "Description": "Motion capture pour les effets sp\u00e9ciaux au cin\u00e9ma",
+            "Jobs": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Oregon",
+                    "City": "Corvallis"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Vicon",
+            "url": "https://www.vicon.com/",
+            "Description": "Syst\u00e8me de Motion Capture",
+            "Jobs": "https://www.vicon.com/careers/",
+            "Place": [
+                {
+                    "Coutry": "UK",
+                    "State": "Oxford"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Manus",
+            "url": "https://www.manus-meta.com/",
+            "Description": "Motion capture and extended reality system",
+            "Place": [
+                {
+                    "Country": "Netherlands",
+                    "City": "Eindhoven"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "DigitalFish",
+            "url": "https://www.digitalfish.com/",
+            "Description": "Outils pour l'animation 3D, 2D et VR",
+            "Products": [
+                {
+                    "Name": "Reflex",
+                    "url": "https://www.digitalfish.com/reflex/"
+                },
+                {
+                    "Name": "Lune",
+                    "url": "https://www.digitalfish.com/lune/"
+                }
+            ],
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "San Mateo"
+                }
+            ],
+            "Jobs": "https://www.digitalfish.com/careers/",
+            "Scientific-domain": [
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Activision",
+            "url": "https://www.activision.com/",
+            "Description": "D\u00e9veloppeur de jeux vid\u00e9o",
+            "Jobs": "https://careers.activision.com/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": [
+                        "Los Angeles"
+                    ]
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Wacom",
+            "url": "https://www.wacom.com/",
+            "Description": "Tablettes et \u00e9cran tactile pour la cr\u00e9ation graphique",
+            "Jobs": "https://www.wacom.com/en-us/about-wacom/careers-at-wacom",
+            "Place": [
+                {
+                    "Country": "Japan",
+                    "City": "Saitama"
+                },
+                {
+                    "Country": "Germany",
+                    "City": "Dusseldorf"
+                },
+                {
+                    "Country": "USA",
+                    "State": "Oregon",
+                    "City": "Portland"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Acquisition"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
