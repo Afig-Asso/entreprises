@@ -897,6 +897,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Vicon](https://www.vicon.com/)**  
   * _Système de Motion Capture_
+  * **Localisation**: Oxford
   * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game
   * [_Jobs_](https://www.vicon.com/careers/)
