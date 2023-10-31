@@ -306,6 +306,7 @@ function display_company(data, sorted_type) {
 
     if(UX['sorting']['alphabetical'].checked) {
         let N = data.length;
+        HTML_txt += `<strong>${N} Entreprises affichées</strong><br>`;
         for(let k=0; k<N; ++k){
             let entry = data[k];
             HTML_txt += display_company_entry(entry);
@@ -322,7 +323,8 @@ function display_company(data, sorted_type) {
             const all_city = Object.keys(french_entries).sort();
 
             // Display Paris first
-            HTML_txt += `<h2 class="title-place title-city">Paris</h2>\n`
+            const N_companies = data['France']['Paris'].length;
+            HTML_txt += `<h2 class="title-place title-city">Paris (${N_companies} entreprises) </h2>\n`
             HTML_txt += '<div class="container-place-city">\n'
             for(let entry_city of data['France']['Paris']) {
                 HTML_txt += display_company_entry(entry_city);
@@ -331,7 +333,8 @@ function display_company(data, sorted_type) {
 
             for(let city of all_city) {
                 if(city!='Paris'){
-                    HTML_txt += `<h2 class="title-place title-city">${city}</h2>\n`
+                    const N_companies = data['France'][city].length;
+                    HTML_txt += `<h2 class="title-place title-city">${city} (${N_companies} entreprises)</h2>\n`
                     HTML_txt += '<div class="container-place-city">\n'
                     for(let entry_city of data['France'][city]) {
                         HTML_txt += display_company_entry(entry_city);
@@ -344,7 +347,8 @@ function display_company(data, sorted_type) {
 
         for(const country of all_countries) {
             if(country!='France') {
-                HTML_txt += `<h2 class="title-place">${country}</h2>\n`
+                const N_companies = data[country].length;
+                HTML_txt += `<h2 class="title-place">${country} (${N_companies} entreprises)</h2>\n`
                 HTML_txt += '<div class="container-place">\n'
                 for(let entry_country of data[country]) {
                     HTML_txt += display_company_entry(entry_country);

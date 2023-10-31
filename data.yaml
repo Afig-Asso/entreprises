@@ -210,7 +210,7 @@
   Description: Logiciels 3D, CAO, Conception, Design
   Product: Maya, 3DS Max, AutoCAD
   Place: 
-    - Country: [USA, Canada, India, UK, Singapor, Norway]
+    - Country: [USA, Canada, India, UK, Singapore, Norway]
     - International: True
   Jobs: https://www.autodesk.com/careers/overview
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication]
@@ -1234,4 +1234,82 @@
     - International: True
   Scientific-domain: [Hardware, Acquisition]
   Application-domain: [Générique]
+
+- Name: Cavrnus
+  url: https://www.cavrnus.com/
+  Description: "Plateforme de Metaverse"
+  Place:
+    - Country: USA
+      State: California
+      City: Carlsbad
+  Scientific-domain: [VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: 4D Pipeline
+  url: https://www.4dpipeline.com/
+  Description: "Consulting pour application 3D"
+  Jobs: https://www.4dpipeline.com/jobs
+  Place: 
+    - Country: USA
+      State: California
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Générique]
+
+- Name: GridRaster 
+  url: https://gridraster.com/
+  Jobs: https://gridraster.com/careers-jobs/
+  Description: "Spatial Mapping, Recognition and Alignment for XR"
+  Place:
+    - Country: USA
+      State: California
+      City: Mountain View
+    - Country: India
+      City: Bengaluru
+  Scientific-domain: [Synthèse d'image, Modélisation, VR/AR]
+  Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation]
+
+- Name: Cesium
+  url: https://cesium.com/
+  Jobs: https://cesium.com/careers/#opportunities
+  Description: "Open Plateform for 3D Geospatial data"
+  Place:
+    - Country: USA
+      State: Pennsylvania
+      City: Philadelphia
+  Scientific-domain: [Modélisation, Imagerie, Analyse de données]
+  Application-domain: [Générique]
+
+- Name: Theia
+  url: https://www.theiamarkerless.ca/
+  Description: "Markeless Motion Capture System"
+  Jobs: https://www.theiamarkerless.ca/jobs/
+  Place:
+    - Country: Canada
+      State: Ontario
+      City: Kingston
+  Scientific-domain: [Animation, Acquisition]
+  Application-domain: [Générique]
+
+- Name: Magic Leap
+  url: https://www.magicleap.com/en-us/
+  Description: "Lunettes de réalité augmentée"
+  Jobs: https://resources.magicleap.com/en-us/careers
+  Place:
+    - Country: USA
+      State: Florida
+    - Country: USA
+      State: Colorado
+  Scientific-domain: [VR/AR]
+  Application-domain: [Générique]
+
+- Name: Simerics
+  url: https://www.simerics.com/
+  Description: "CAD simulation"
+  Jobs: https://www.simerics.com/careers/
+  Place: 
+    - Country: USA
+      State: Washington
+      City: Seatle
+  Scientific-domain: [Simulation, Design/Fabrication]
+  Application-domain: [Automobile/Navigation/Aviation]
 

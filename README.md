@@ -82,6 +82,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
 
+* **[4D Pipeline](https://www.4dpipeline.com/)**  
+  * _Consulting pour application 3D_
+  * **Localisation**: USA/California
+  * **Domaine scientifique/technique**: Synthèse d'image
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.4dpipeline.com/jobs)
+
+
 * **[4Dviews](https://www.4dviews.com/)**  
   * _Capture volumétrique_
   * **Localisation**: Grenoble
@@ -189,7 +197,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Autodesk](https://www.autodesk.com/)**  
   * _Logiciels 3D, CAO, Conception, Design_
   * **Produits**: Maya,  3DS Max,  AutoCAD
-  * **Localisation**: USA, Canada, India, UK, Singapor, Norway, International
+  * **Localisation**: USA, Canada, India, UK, Singapore, Norway, International
   * **Nombres d'employés**: 10000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile
@@ -255,6 +263,21 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://buf.com/jobs/)
+
+
+* **[Cavrnus](https://www.cavrnus.com/)**  
+  * _Plateforme de Metaverse_
+  * **Localisation**: USA/California/Carlsbad
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+
+
+* **[Cesium](https://cesium.com/)**  
+  * _Open Plateform for 3D Geospatial data_
+  * **Localisation**: USA/Pennsylvania/Philadelphia
+  * **Domaine scientifique/technique**: Modélisation, Imagerie, Analyse de données
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://cesium.com/careers/#opportunities)
 
 
 * **[Chaos](https://www.chaos.com/)**  
@@ -422,6 +445,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
+* **[GridRaster](https://gridraster.com/)**  
+  * _Spatial Mapping, Recognition and Alignment for XR_
+  * **Localisation**: USA/California/Mountain View, India/Bengaluru
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, VR/AR
+  * **Domaine d'application**: Mécanique/Ingénierie civile, Automobile/Navigation/Aviation
+  * [_Jobs_](https://gridraster.com/careers-jobs/)
+
+
 * **[Harfang3D](https://www.harfang3d.com/)**  
   * _Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement,_
   * **Localisation**: Orléans
@@ -513,6 +544,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: USA/Costa Mesa, Denmark/Aarhus
   * **Domaine scientifique/technique**: Synthèse d'image
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Magic Leap](https://www.magicleap.com/en-us/)**  
+  * _Lunettes de réalité augmentée_
+  * **Localisation**: USA/Florida, USA/Colorado
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://resources.magicleap.com/en-us/careers)
 
 
 * **[Manus](https://www.manus-meta.com/)**  
@@ -722,7 +761,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Saint-Gobain](https://www.saint-gobain.com/fr)**  
   * _Construction de bâtiments_
-  * **Localisation**: Frace, International
+  * **Localisation**: France, International
   * **Domaine scientifique/technique**: Synthèse d'image, Simulation, Visualisation
   * **Domaine d'application**: Architecture/Immobilier, Mécanique/Ingénierie civile
 
@@ -741,6 +780,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.sidefx.com/careers/)
+
+
+* **[Simerics](https://www.simerics.com/)**  
+  * _CAD simulation_
+  * **Localisation**: USA/Washington/Seatle
+  * **Domaine scientifique/technique**: Simulation, Design/Fabrication
+  * **Domaine d'application**: Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.simerics.com/careers/)
 
 
 * **[Solid Anim](https://www.solidanim.com/en/)**  
@@ -860,6 +907,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Theia](https://www.theiamarkerless.ca/)**  
+  * _Markeless Motion Capture System_
+  * **Localisation**: Canada/Ontario/Kingston
+  * **Domaine scientifique/technique**: Animation, Acquisition
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.theiamarkerless.ca/jobs/)
+
+
 * **[TVPaint](https://www.tvpaint.com/)**  
   * _Logiciel d'animation 2D._
   * **Localisation**: Metz
@@ -870,7 +925,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développeur de jeux vidéo Français, possédant de nombreux studios à l'international_
   * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal._
-  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montreal, Toronto}, USA/{San Francisco, New York, Atlanta}, Inde, Allemagne, Pologne, International
+  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montreal, Toronto}, USA/{San Francisco, New York, Atlanta}, India, Allemagne, Pologne, International
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -897,7 +952,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Vicon](https://www.vicon.com/)**  
   * _Système de Motion Capture_
-  * **Localisation**: Oxford
+  * **Localisation**: UK/Oxford
   * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game
   * [_Jobs_](https://www.vicon.com/careers/)

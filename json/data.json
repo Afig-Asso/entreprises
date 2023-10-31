@@ -450,7 +450,7 @@
                         "Canada",
                         "India",
                         "UK",
-                        "Singapor",
+                        "Singapore",
                         "Norway"
                     ]
                 },
@@ -1822,7 +1822,7 @@
             "Description": "Construction de b\u00e2timents",
             "Place": [
                 {
-                    "Country": "Frace",
+                    "Country": "France",
                     "Place": "Paris"
                 },
                 {
@@ -2251,7 +2251,7 @@
                     ]
                 },
                 {
-                    "Country": "Inde"
+                    "Country": "India"
                 },
                 {
                     "Country": "Allemagne"
@@ -2498,7 +2498,7 @@
             "Jobs": "https://www.vicon.com/careers/",
             "Place": [
                 {
-                    "Coutry": "UK",
+                    "Country": "UK",
                     "City": "Oxford"
                 }
             ],
@@ -2618,6 +2618,151 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Cavrnus",
+            "url": "https://www.cavrnus.com/",
+            "Description": "Plateforme de Metaverse",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "Carlsbad"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "4D Pipeline",
+            "url": "https://www.4dpipeline.com/",
+            "Description": "Consulting pour application 3D",
+            "Jobs": "https://www.4dpipeline.com/jobs",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "GridRaster",
+            "url": "https://gridraster.com/",
+            "Jobs": "https://gridraster.com/careers-jobs/",
+            "Description": "Spatial Mapping, Recognition and Alignment for XR",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "Mountain View"
+                },
+                {
+                    "Country": "India",
+                    "City": "Bengaluru"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
+            "Name": "Cesium",
+            "url": "https://cesium.com/",
+            "Jobs": "https://cesium.com/careers/#opportunities",
+            "Description": "Open Plateform for 3D Geospatial data",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Pennsylvania",
+                    "City": "Philadelphia"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Theia",
+            "url": "https://www.theiamarkerless.ca/",
+            "Description": "Markeless Motion Capture System",
+            "Jobs": "https://www.theiamarkerless.ca/jobs/",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "State": "Ontario",
+                    "City": "Kingston"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Magic Leap",
+            "url": "https://www.magicleap.com/en-us/",
+            "Description": "Lunettes de r\u00e9alit\u00e9 augment\u00e9e",
+            "Jobs": "https://resources.magicleap.com/en-us/careers",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Florida"
+                },
+                {
+                    "Country": "USA",
+                    "State": "Colorado"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Simerics",
+            "url": "https://www.simerics.com/",
+            "Description": "CAD simulation",
+            "Jobs": "https://www.simerics.com/careers/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Washington",
+                    "City": "Seatle"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation"
             ]
         }
     ]
