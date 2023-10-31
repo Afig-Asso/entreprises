@@ -860,7 +860,7 @@
   Description: "Construction de bâtiments"
   Place:
     - Country: France
-      Place: Paris
+      City: Paris
     - International: True
   Scientific-domain: [Synthèse d'image, Simulation, Visualisation]
   Application-domain: [Architecture/Immobilier, Mécanique/Ingénierie civile]
