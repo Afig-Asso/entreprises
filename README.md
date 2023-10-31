@@ -761,7 +761,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Saint-Gobain](https://www.saint-gobain.com/fr)**  
   * _Construction de bâtiments_
-  * **Localisation**: France, International
+  * **Localisation**: France/Paris, International
   * **Domaine scientifique/technique**: Synthèse d'image, Simulation, Visualisation
   * **Domaine d'application**: Architecture/Immobilier, Mécanique/Ingénierie civile
 
