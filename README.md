@@ -1012,6 +1012,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.yellowscan-lidar.com/about/career/)
 
 
+* **[Yokai](https://www.yokai.ai/)**  
+  * _Generation de photos modifiées par IA_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: IA, Vision
+  * **Domaine d'application**: Autres
+
+
 * **[ZSpace](https://zspace.com/)**  
   * _Stylet d'interaction 3D_
   * **Localisation**: USA/San Jose

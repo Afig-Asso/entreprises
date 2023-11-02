@@ -77,12 +77,33 @@
   Scientific-domain: [Acquisition, VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
 
+- Name: 4D Pipeline
+  url: https://www.4dpipeline.com/
+  Description: "Consulting pour application 3D"
+  Jobs: https://www.4dpipeline.com/jobs
+  Place: 
+    - Country: USA
+      State: California
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Générique]
+
 - Name: 4Dviews
   Description: "Capture volumétrique"
   url: https://www.4dviews.com/
   Place: Grenoble
   Scientific-domain: [Autres]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: Activision
+  url: https://www.activision.com/
+  Description: "Développeur de jeux vidéo"
+  Jobs: https://careers.activision.com/
+  Place:
+    - Country: USA
+      City: ["Los Angeles"]
+    - International: True
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
 
 - Name: "Adobe"
   url: https://www.adobe.com/fr/
@@ -292,6 +313,27 @@
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 60
 
+- Name: Cavrnus
+  url: https://www.cavrnus.com/
+  Description: "Plateforme de Metaverse"
+  Place:
+    - Country: USA
+      State: California
+      City: Carlsbad
+  Scientific-domain: [VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: Cesium
+  url: https://cesium.com/
+  Jobs: https://cesium.com/careers/#opportunities
+  Description: "Open Plateform for 3D Geospatial data"
+  Place:
+    - Country: USA
+      State: Pennsylvania
+      City: Philadelphia
+  Scientific-domain: [Modélisation, Imagerie, Analyse de données]
+  Application-domain: [Générique]
+
 - Name: Chaos
   url: https://www.chaos.com/
   Description: "Logiciel de rendu et moteur de simulation"
@@ -358,6 +400,22 @@
   Highlight: Graphics, R&D
   Employees: 20000
 
+- Name: DigitalFish
+  url: https://www.digitalfish.com/
+  Description: "Outils pour l'animation 3D, 2D et VR"
+  Products:
+    - Name: Reflex
+      url: https://www.digitalfish.com/reflex/
+    - Name: Lune
+      url: https://www.digitalfish.com/lune/
+  Place: 
+    - Country: USA
+      State: California
+      City: San Mateo
+  Jobs: https://www.digitalfish.com/careers/
+  Scientific-domain: [Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  
 - Name: Disney
   Info: "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique."
   url: https://www.disneystudios.com/
@@ -496,6 +554,19 @@
   Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, Imagerie]
   Application-domain: [Générique]
 
+- Name: GridRaster 
+  url: https://gridraster.com/
+  Jobs: https://gridraster.com/careers-jobs/
+  Description: "Spatial Mapping, Recognition and Alignment for XR"
+  Place:
+    - Country: USA
+      State: California
+      City: Mountain View
+    - Country: India
+      City: Bengaluru
+  Scientific-domain: [Synthèse d'image, Modélisation, VR/AR]
+  Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation]
+
 - Name: Harfang3D
   url: https://www.harfang3d.com/
   Description: "Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement,"
@@ -600,6 +671,27 @@
       City: Aarhus
   Scientific-domain: [Synthèse d'image]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Magic Leap
+  url: https://www.magicleap.com/en-us/
+  Description: "Lunettes de réalité augmentée"
+  Jobs: https://resources.magicleap.com/en-us/careers
+  Place:
+    - Country: USA
+      State: Florida
+    - Country: USA
+      State: Colorado
+  Scientific-domain: [VR/AR]
+  Application-domain: [Générique]
+
+- Name: Manus
+  url: https://www.manus-meta.com/
+  Description: "Motion capture and extended reality system"
+  Place:
+    - Country: Netherlands
+      City: Eindhoven
+  Scientific-domain: [Acquisition, Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
 
 - Name: MassVirtual
   url: https://massvirtual.com/
@@ -744,6 +836,17 @@
   Application-domain: [Générique]
   Employees: 13000
 
+- Name: OptiTrack
+  url: https://optitrack.com/
+  Description: "Motion capture pour les effets spéciaux au cinéma"
+  Jobs: https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46
+  Place: 
+    - Country: USA
+      State: Oregon
+      City: Corvallis
+  Scientific-domain: [Acquisition, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: Otoy
   url: https://home.otoy.com/
   Description: "Logiciel de rendu graphique sur le cloud, et capture"
@@ -885,6 +988,17 @@
   Scientific-domain: [Modélisation, Animation, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Simerics
+  url: https://www.simerics.com/
+  Description: "CAD simulation"
+  Jobs: https://www.simerics.com/careers/
+  Place: 
+    - Country: USA
+      State: Washington
+      City: Seatle
+  Scientific-domain: [Simulation, Design/Fabrication]
+  Application-domain: [Automobile/Navigation/Aviation]
+
 - Name: Solid Anim
   url: https://www.solidanim.com/en/
   Description: "Studio spécialisé en animation 3D, MOCAP, et production virtuelle."
@@ -1018,6 +1132,17 @@
   Scientific-domain: [Synthèse d'image, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Theia
+  url: https://www.theiamarkerless.ca/
+  Description: "Markeless Motion Capture System"
+  Jobs: https://www.theiamarkerless.ca/jobs/
+  Place:
+    - Country: Canada
+      State: Ontario
+      City: Kingston
+  Scientific-domain: [Animation, Acquisition]
+  Application-domain: [Générique]
+
 - Name: The Mill 
   url: https://www.themill.com/
   Description: "Creation de VFX pour la publicité"
@@ -1097,6 +1222,16 @@
   Scientific-domain: [Synthèse d'image, Simulation]
   Application-domain: [Générique]
 
+- Name: Vicon
+  url: https://www.vicon.com/
+  Description: "Système de Motion Capture"
+  Jobs: https://www.vicon.com/careers/
+  Place:
+    - Country: UK
+      City: Oxford
+  Scientific-domain: [Acquisition, Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game]
+
 - Name: Virtuos
   url: https://www.virtuosgames.com/
   Description: "Studio développement de jeu vidéo"
@@ -1116,6 +1251,22 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Visualisation]
   Application-domain: [Architecture/Immobilier]
 
+
+- Name: Wacom
+  url: https://www.wacom.com/
+  Description: "Tablettes et écran tactile pour la création graphique"
+  Jobs: https://www.wacom.com/en-us/about-wacom/careers-at-wacom
+  Place:
+    - Country: Japan
+      City: Saitama
+    - Country: Germany
+      City: Dusseldorf
+    - Country: USA
+      State: Oregon
+      City: Portland
+    - International: True
+  Scientific-domain: [Hardware, Acquisition]
+  Application-domain: [Générique]
 
 - Name: Wandercraft
   Description: "Systèmes d'exosquelettes"
@@ -1153,6 +1304,13 @@
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
+- Name: Yokai
+  url: https://www.yokai.ai/
+  Description: "Generation de photos modifiées par IA"
+  Place: Paris
+  Scientific-domain: [IA, Vision]
+  Application-domain: [Autres]
+
 - Name: ZSpace
   url: https://zspace.com/
   Description: "Stylet d'interaction 3D"
@@ -1161,155 +1319,4 @@
       City: San Jose
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
-
-- Name: OptiTrack
-  url: https://optitrack.com/
-  Description: "Motion capture pour les effets spéciaux au cinéma"
-  Jobs: https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46
-  Place: 
-    - Country: USA
-      State: Oregon
-      City: Corvallis
-  Scientific-domain: [Acquisition, Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
-- Name: Vicon
-  url: https://www.vicon.com/
-  Description: "Système de Motion Capture"
-  Jobs: https://www.vicon.com/careers/
-  Place:
-    - Country: UK
-      City: Oxford
-  Scientific-domain: [Acquisition, Animation, VR/AR]
-  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game]
-
-- Name: Manus
-  url: https://www.manus-meta.com/
-  Description: "Motion capture and extended reality system"
-  Place:
-    - Country: Netherlands
-      City: Eindhoven
-  Scientific-domain: [Acquisition, Animation, VR/AR]
-  Application-domain: [Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
-
-- Name: DigitalFish
-  url: https://www.digitalfish.com/
-  Description: "Outils pour l'animation 3D, 2D et VR"
-  Products:
-    - Name: Reflex
-      url: https://www.digitalfish.com/reflex/
-    - Name: Lune
-      url: https://www.digitalfish.com/lune/
-  Place: 
-    - Country: USA
-      State: California
-      City: San Mateo
-  Jobs: https://www.digitalfish.com/careers/
-  Scientific-domain: [Animation, VR/AR]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-  
-- Name: Activision
-  url: https://www.activision.com/
-  Description: "Développeur de jeux vidéo"
-  Jobs: https://careers.activision.com/
-  Place:
-    - Country: USA
-      City: ["Los Angeles"]
-    - International: True
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
-  Application-domain: [Jeu Vidéo]
-
-- Name: Wacom
-  url: https://www.wacom.com/
-  Description: "Tablettes et écran tactile pour la création graphique"
-  Jobs: https://www.wacom.com/en-us/about-wacom/careers-at-wacom
-  Place:
-    - Country: Japan
-      City: Saitama
-    - Country: Germany
-      City: Dusseldorf
-    - Country: USA
-      State: Oregon
-      City: Portland
-    - International: True
-  Scientific-domain: [Hardware, Acquisition]
-  Application-domain: [Générique]
-
-- Name: Cavrnus
-  url: https://www.cavrnus.com/
-  Description: "Plateforme de Metaverse"
-  Place:
-    - Country: USA
-      State: California
-      City: Carlsbad
-  Scientific-domain: [VR/AR]
-  Application-domain: [Loisir Interactif/Immersion/Metavers]
-
-- Name: 4D Pipeline
-  url: https://www.4dpipeline.com/
-  Description: "Consulting pour application 3D"
-  Jobs: https://www.4dpipeline.com/jobs
-  Place: 
-    - Country: USA
-      State: California
-  Scientific-domain: [Synthèse d'image]
-  Application-domain: [Générique]
-
-- Name: GridRaster 
-  url: https://gridraster.com/
-  Jobs: https://gridraster.com/careers-jobs/
-  Description: "Spatial Mapping, Recognition and Alignment for XR"
-  Place:
-    - Country: USA
-      State: California
-      City: Mountain View
-    - Country: India
-      City: Bengaluru
-  Scientific-domain: [Synthèse d'image, Modélisation, VR/AR]
-  Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation]
-
-- Name: Cesium
-  url: https://cesium.com/
-  Jobs: https://cesium.com/careers/#opportunities
-  Description: "Open Plateform for 3D Geospatial data"
-  Place:
-    - Country: USA
-      State: Pennsylvania
-      City: Philadelphia
-  Scientific-domain: [Modélisation, Imagerie, Analyse de données]
-  Application-domain: [Générique]
-
-- Name: Theia
-  url: https://www.theiamarkerless.ca/
-  Description: "Markeless Motion Capture System"
-  Jobs: https://www.theiamarkerless.ca/jobs/
-  Place:
-    - Country: Canada
-      State: Ontario
-      City: Kingston
-  Scientific-domain: [Animation, Acquisition]
-  Application-domain: [Générique]
-
-- Name: Magic Leap
-  url: https://www.magicleap.com/en-us/
-  Description: "Lunettes de réalité augmentée"
-  Jobs: https://resources.magicleap.com/en-us/careers
-  Place:
-    - Country: USA
-      State: Florida
-    - Country: USA
-      State: Colorado
-  Scientific-domain: [VR/AR]
-  Application-domain: [Générique]
-
-- Name: Simerics
-  url: https://www.simerics.com/
-  Description: "CAD simulation"
-  Jobs: https://www.simerics.com/careers/
-  Place: 
-    - Country: USA
-      State: Washington
-      City: Seatle
-  Scientific-domain: [Simulation, Design/Fabrication]
-  Application-domain: [Automobile/Navigation/Aviation]
 
