@@ -820,6 +820,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.spirops.com/jobs.php?lg=en)
 
 
+* **[Stability AI](https://stability.ai/)**  
+  * _IA générative pour le son, l'image et les modèles 3D._
+  * **Localisation**: UK/London, Japan/Tokyo
+  * **Domaine scientifique/technique**: IA, Vision, Autres
+  * **Domaine d'application**: Autres
+
+
 * **[StreamRoller](https://www.steamrollerstudios.com/)**  
   * _Studio pour film d'animation, jeux et expérience immersive pour parc d'attraction_
   * **Localisation**: USA/Mount Dora

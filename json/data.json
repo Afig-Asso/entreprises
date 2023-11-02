@@ -2777,6 +2777,29 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "Stability AI",
+            "url": "https://stability.ai/",
+            "Description": "IA g\u00e9n\u00e9rative pour le son, l'image et les mod\u00e8les 3D.",
+            "Place": [
+                {
+                    "Country": "UK",
+                    "City": "London"
+                },
+                {
+                    "Country": "Japan",
+                    "City": "Tokyo"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Vision",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Autres"
+            ]
         }
     ]
 }

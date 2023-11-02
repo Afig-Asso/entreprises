@@ -286,7 +286,7 @@ if __name__ == "__main__":
 
         print('Check URLs ...')
         urls = liblisting.get_all_urls(data)
-        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/', 'https://www.clo3d.com/en/', 'https://shotover.com/', 'https://www.lestontonstruqueurs.com/', 'https://www.united-vr.com/','https://www.linkedin.com/company/newtone-technologies/', 'https://www.activision.com/','https://www.theiamarkerless.ca/','https://www.theiamarkerless.ca/','https://www.cube-creative.com/'}
+        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/', 'https://www.clo3d.com/en/', 'https://shotover.com/', 'https://www.lestontonstruqueurs.com/', 'https://www.united-vr.com/','https://www.linkedin.com/company/newtone-technologies/', 'https://www.activision.com/','https://www.theiamarkerless.ca/','https://www.theiamarkerless.ca/','https://www.cube-creative.com/','https://www.2d3d-animations.com'}
         liblisting.check_urls(urls, exitOnError=exit_on_failure, exceptions=exceptions)
         print('Check URLs done\n')
 

@@ -1320,3 +1320,14 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
+
+- Name: Stability AI
+  url: https://stability.ai/
+  Description: "IA générative pour le son, l'image et les modèles 3D."
+  Place:
+    - Country: UK
+      City: London
+    - Country: Japan
+      City: Tokyo
+  Scientific-domain: [IA, Vision, Autres]
+  Application-domain: [Autres]
