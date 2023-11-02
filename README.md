@@ -42,6 +42,7 @@ Le répertoire site/ contient un example de page web dynamique chargée dynamiqu
 Après un push sur github, les éléments suivants sont mis à jours:
 - La nouvelle base est vérifiée localement avec `python generate.py -C`
 - Le contenu de site/ est déployé sur une page github.io: https://afig-asso.github.io/entreprises/
+  - Cette page est accessible par le site de l'AFIG: https://www.asso-afig.fr/site/entreprises/
 
 
 ## Listing 
