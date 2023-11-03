@@ -489,6 +489,15 @@
   Scientific-domain: [Modélisation, Simulation]
   Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile]
 
+- Name: EVA
+  Name-long: Esports Virtual Arenas
+  url: https://www.eva.gg/fr/
+  Jobs: https://www.eva.gg/fr/careers/jobs/list
+  Description: "Scenes virtuelles et compétitions pour des jeux de eSports"
+  Place: Paris
+  Scientific-domain: [Modélisation, VR/AR, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+
 - Name: Falcons Creatrive
   url: https://falconscreativegroup.com/
   Description: "Creation d'expérience immersive pour les parcs d'attractions"
@@ -1028,6 +1037,17 @@
   Scientific-domain: [IA, Animation, Simulation]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo]
 
+- Name: Stability AI
+  url: https://stability.ai/
+  Description: "IA générative pour le son, l'image et les modèles 3D."
+  Place:
+    - Country: UK
+      City: London
+    - Country: Japan
+      City: Tokyo
+  Scientific-domain: [IA, Vision, Autres]
+  Application-domain: [Autres]
+
 - Name: StreamRoller 
   url: https://www.steamrollerstudios.com/
   Description: "Studio pour film d'animation, jeux et expérience immersive pour parc d'attraction"
@@ -1320,24 +1340,4 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
-
-- Name: Stability AI
-  url: https://stability.ai/
-  Description: "IA générative pour le son, l'image et les modèles 3D."
-  Place:
-    - Country: UK
-      City: London
-    - Country: Japan
-      City: Tokyo
-  Scientific-domain: [IA, Vision, Autres]
-  Application-domain: [Autres]
-
-- Name: EVA
-  Name-long: Esports Virtual Arenas
-  url: https://www.eva.gg/fr/
-  Jobs: https://www.eva.gg/fr/careers/jobs/list
-  Description: "Scenes virtuelles et compétitions pour des jeux de eSports"
-  Place: Paris
-  Scientific-domain: [Modélisation, VR/AR, Analyse de données]
-  Application-domain: [Jeu Vidéo]
 
