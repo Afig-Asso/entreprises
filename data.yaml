@@ -1331,3 +1331,13 @@
       City: Tokyo
   Scientific-domain: [IA, Vision, Autres]
   Application-domain: [Autres]
+
+- Name: EVA
+  Name-long: Esports Virtual Arenas
+  url: https://www.eva.gg/fr/
+  Jobs: https://www.eva.gg/fr/careers/jobs/list
+  Description: "Scenes virtuelles et compétitions pour des jeux de eSports"
+  Place: Paris
+  Scientific-domain: [Modélisation, VR/AR, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+

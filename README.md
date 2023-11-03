@@ -397,6 +397,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.esi-group.com/join-us)
 
 
+* **[EVA](https://www.eva.gg/fr/)** (Esports Virtual Arenas) 
+  * _Scenes virtuelles et compétitions pour des jeux de eSports_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Modélisation, VR/AR, Analyse de données
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.eva.gg/fr/careers/jobs/list)
+
+
 * **[Falcons Creatrive](https://falconscreativegroup.com/)**  
   * _Creation d'expérience immersive pour les parcs d'attractions_
   * **Localisation**: USA/Orlando

@@ -2800,6 +2800,22 @@
             "Application-domain": [
                 "Autres"
             ]
+        },
+        {
+            "Name": "EVA",
+            "Name-long": "Esports Virtual Arenas",
+            "url": "https://www.eva.gg/fr/",
+            "Jobs": "https://www.eva.gg/fr/careers/jobs/list",
+            "Description": "Scenes virtuelles et comp\u00e9titions pour des jeux de eSports",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
         }
     ]
 }
