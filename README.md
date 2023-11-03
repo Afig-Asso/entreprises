@@ -907,6 +907,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://apply.workable.com/foundry/)
 
 
+* **[The Game Bakers](https://www.thegamebakers.com/)**  
+  * _Studio de jeux vidéo indépendant pour jeux 2D_
+  * **Localisation**: Montpellier
+  * **Domaine scientifique/technique**: Autres
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.thegamebakers.com/category/jobs/)
+
+
 * **[The Mill](https://www.themill.com/)**  
   * _Creation de VFX pour la publicité_
   * **Remarque**: _Sous-groupe de Technicolor_

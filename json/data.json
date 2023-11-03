@@ -1059,6 +1059,22 @@
             ]
         },
         {
+            "Name": "EVA",
+            "Name-long": "Esports Virtual Arenas",
+            "url": "https://www.eva.gg/fr/",
+            "Jobs": "https://www.eva.gg/fr/careers/jobs/list",
+            "Description": "Scenes virtuelles et comp\u00e9titions pour des jeux de eSports",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Falcons Creatrive",
             "url": "https://falconscreativegroup.com/",
             "Description": "Creation d'exp\u00e9rience immersive pour les parcs d'attractions",
@@ -2161,6 +2177,29 @@
             ]
         },
         {
+            "Name": "Stability AI",
+            "url": "https://stability.ai/",
+            "Description": "IA g\u00e9n\u00e9rative pour le son, l'image et les mod\u00e8les 3D.",
+            "Place": [
+                {
+                    "Country": "UK",
+                    "City": "London"
+                },
+                {
+                    "Country": "Japan",
+                    "City": "Tokyo"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Vision",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Autres"
+            ]
+        },
+        {
             "Name": "StreamRoller",
             "url": "https://www.steamrollerstudios.com/",
             "Description": "Studio pour film d'animation, jeux et exp\u00e9rience immersive pour parc d'attraction",
@@ -2779,39 +2818,13 @@
             ]
         },
         {
-            "Name": "Stability AI",
-            "url": "https://stability.ai/",
-            "Description": "IA g\u00e9n\u00e9rative pour le son, l'image et les mod\u00e8les 3D.",
-            "Place": [
-                {
-                    "Country": "UK",
-                    "City": "London"
-                },
-                {
-                    "Country": "Japan",
-                    "City": "Tokyo"
-                }
-            ],
+            "Name": "The Game Bakers",
+            "Place": "Montpellier",
+            "Description": "Studio de jeux vid\u00e9o ind\u00e9pendant pour jeux 2D",
+            "url": "https://www.thegamebakers.com/",
+            "Jobs": "https://www.thegamebakers.com/category/jobs/",
             "Scientific-domain": [
-                "IA",
-                "Vision",
                 "Autres"
-            ],
-            "Application-domain": [
-                "Autres"
-            ]
-        },
-        {
-            "Name": "EVA",
-            "Name-long": "Esports Virtual Arenas",
-            "url": "https://www.eva.gg/fr/",
-            "Jobs": "https://www.eva.gg/fr/careers/jobs/list",
-            "Description": "Scenes virtuelles et comp\u00e9titions pour des jeux de eSports",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "VR/AR",
-                "Analyse de donn\u00e9es"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
