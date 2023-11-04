@@ -179,6 +179,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.apple.com)
 
 
+* **[Arkane Studio](https://www.arkane-studios.com/fr)**  
+  * _Développeur de jeu vidéo_
+  * **Localisation**: France/Lyon, USA/Texas/Austin
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.arkane-studios.com/fr#studios)
+
+
 * **[Artefacto](https://www.artefacto-ar.com/)**  
   * _Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement._
   * **Localisation**: Rennes (Betton)
@@ -826,6 +834,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: IA, Animation, Simulation
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo
   * [_Jobs_](https://www.spirops.com/jobs.php?lg=en)
+
+
+* **[Square Enix](https://www.square-enix-games.com/fr_FR/home)**  
+  * _Editeur de jeu vidéos_
+  * **Localisation**: USA/California/Los Angeles, UK/London, France/Paris, Allemagne/Hamburg, Japan/Tokyo
+  * **Domaine scientifique/technique**: Autres
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://apply.workable.com/square-enix/)
 
 
 * **[Stability AI](https://stability.ai/)**  

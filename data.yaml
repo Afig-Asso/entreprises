@@ -207,6 +207,18 @@
   Application-domain: [Générique]
   Employees: 160000
 
+- Name: Arkane Studio
+  Description: "Développeur de jeu vidéo"
+  url: https://www.arkane-studios.com/fr
+  Jobs: https://www.arkane-studios.com/fr#studios
+  Place:
+    - Country: France
+      City: Lyon
+    - Country: USA
+      State: Texas
+      City: Austin
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
 - Name: Artefacto
   url: https://www.artefacto-ar.com/
   Description: Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.
@@ -1037,6 +1049,25 @@
   Scientific-domain: [IA, Animation, Simulation]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo]
 
+- Name: Square Enix
+  url: https://www.square-enix-games.com/fr_FR/home
+  Place: 
+    - Country: USA
+      State: California
+      City: Los Angeles
+    - Country: UK
+      City: London
+    - Country: France
+      City: Paris
+    - Country: Allemagne
+      City: Hamburg
+    - Country: Japan
+      City: Tokyo
+  Description: "Editeur de jeu vidéos"
+  Jobs: https://apply.workable.com/square-enix/
+  Scientific-domain: [Autres]
+  Application-domain: [Jeu Vidéo]
+
 - Name: Stability AI
   url: https://stability.ai/
   Description: "IA générative pour le son, l'image et les modèles 3D."
@@ -1151,6 +1182,14 @@
     - Country: [UK, USA, Australia]
   Scientific-domain: [Synthèse d'image, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: The Game Bakers
+  Place: Montpellier
+  Description: "Studio de jeux vidéo indépendant pour jeux 2D"
+  url: https://www.thegamebakers.com/
+  Jobs: https://www.thegamebakers.com/category/jobs/
+  Scientific-domain: [Autres]
+  Application-domain: [Jeu Vidéo]
 
 - Name: Theia
   url: https://www.theiamarkerless.ca/
@@ -1339,12 +1378,4 @@
       City: San Jose
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
-
-- Name: The Game Bakers
-  Place: Montpellier
-  Description: "Studio de jeux vidéo indépendant pour jeux 2D"
-  url: https://www.thegamebakers.com/
-  Jobs: https://www.thegamebakers.com/category/jobs/
-  Scientific-domain: [Autres]
-  Application-domain: [Jeu Vidéo]
 

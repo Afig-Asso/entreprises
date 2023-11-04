@@ -2829,6 +2829,66 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o"
             ]
+        },
+        {
+            "Name": "Square Enix",
+            "url": "https://www.square-enix-games.com/fr_FR/home",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "Los Angeles"
+                },
+                {
+                    "Country": "UK",
+                    "City": "London"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Allemagne",
+                    "City": "Hamburg"
+                },
+                {
+                    "Country": "Japan",
+                    "City": "Tokyo"
+                }
+            ],
+            "Description": "Editeur de jeu vid\u00e9os",
+            "Jobs": "https://apply.workable.com/square-enix/",
+            "Scientific-domain": [
+                "Autres"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Arkane Studio",
+            "Description": "D\u00e9veloppeur de jeu vid\u00e9o",
+            "url": "https://www.arkane-studios.com/fr",
+            "Jobs": "https://www.arkane-studios.com/fr#studios",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Lyon"
+                },
+                {
+                    "Country": "USA",
+                    "State": "Texas",
+                    "City": "Austin"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
         }
     ]
 }
