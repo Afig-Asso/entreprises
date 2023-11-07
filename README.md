@@ -373,6 +373,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.dreamwall.be/en/jobs)
 
 
+* **[Easy Mile](https://easymile.com/)**  
+  * _Logiciels et traitement de données pour la voiture autonome_
+  * **Localisation**: France/Toulouse, Germany/Berlin
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Analyse de données
+  * **Domaine d'application**: Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.welcometothejungle.com/en/companies/easymile/jobs)
+
+
 * **[Effigy 3D](https://effigy-3d.com/)**  
   * _Studio de creation digitale 3D: Scan 3D, Mocap, Avatars._
   * **Localisation**: Paris

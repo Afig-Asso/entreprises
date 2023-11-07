@@ -461,6 +461,17 @@
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Easy Mile
+  Description: "Logiciels et traitement de données pour la voiture autonome"
+  url: https://easymile.com/
+  Jobs: https://www.welcometothejungle.com/en/companies/easymile/jobs
+  Place: 
+    - Country: France
+      City: Toulouse
+    - Country: Germany
+      City: Berlin
+  Scientific-domain: [Acquisition, Reconstruction, Analyse de données]
+  Application-domain: [Automobile/Navigation/Aviation]
 - Name: Effigy 3D
   url: https://effigy-3d.com/
   Description: "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars."
