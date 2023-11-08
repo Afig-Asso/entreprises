@@ -698,6 +698,7 @@
   Description: "Prévisualisation et VFX en temps réels."
   url: https://www.lestontonstruqueurs.com/
   Place: 
+    - City: Montpellier
     - City: Paris
   Scientific-domain: [Synthèse d'image, Vision, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX]
