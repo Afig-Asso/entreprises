@@ -405,6 +405,16 @@
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Dark Matters
+  Description: "Studio de films et VFX"
+  url: https://www.darkmatters.one/
+  Jobs: https://www.darkmatters.one/jobs/
+  Place:
+    - Country: France
+      City: Paris
+      Precise: Tigery
+  Scientific-domain: [Acquisition, Reconstruction]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 - Name: "Dassault Systèmes"
   url: https://www.3ds.com/fr/
   Description: Logiciels de CAO, Design et Simulation.
@@ -1400,13 +1410,3 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
-- Name: Dark Matters
-  Description: "Studio de films et VFX"
-  url: https://www.darkmatters.one/
-  Jobs: https://www.darkmatters.one/jobs/
-  Place:
-    - Country: France
-      City: Paris
-      Precise: Tigery
-  Scientific-domain: [Acquisition, Reconstruction]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
