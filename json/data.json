@@ -2913,6 +2913,24 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "Circle Dental",
+            "url": "https://www.circle.dental/",
+            "Description": "Plateforme num\u00e9rique pour l'orthodontie",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
         }
     ]
 }

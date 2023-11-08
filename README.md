@@ -306,6 +306,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers
 
 
+* **[Circle Dental](https://www.circle.dental/)**  
+  * _Plateforme numérique pour l'orthodontie_
+  * **Localisation**: France/Montpellier
+  * **Domaine scientifique/technique**: Imagerie, Design/Fabrication
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[CLO Virtual Fashion](https://www.clo3d.com/en/)**  
   * _Logiciel de simulation de vêtements virtuels_
   * **Produits**: Marvelous Designer,  Clo3D

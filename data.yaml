@@ -364,6 +364,15 @@
   Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
   Employees: 2000
 
+- Name: Circle Dental
+  url: https://www.circle.dental/
+  Description: "Plateforme numérique pour l'orthodontie"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [Imagerie, Design/Fabrication]
+  Application-domain: [Médical/Biologique]
+
 - Name: CLO Virtual Fashion
   url: https://www.clo3d.com/en/
   Product: Marvelous Designer, Clo3D
