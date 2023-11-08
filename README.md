@@ -337,6 +337,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.cybergroupstudios.com/about-us/#jobs)
 
 
+* **[Dark Matters](https://www.darkmatters.one/)**  
+  * _Studio de films et VFX_
+  * **Localisation**: France/Paris
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.darkmatters.one/jobs/)
+
+
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Logiciels de CAO, Design et Simulation._
   * **Produits**: Catia,  SolidWorks
@@ -393,6 +401,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Animation, Acquisition, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Emersya](https://emersya.com/en/home)**  
+  * _Creation de modèles de produits en 3D et d'expériences interactives_
+  * **Localisation**: France/Montpellier
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Design/Fabrication
+  * **Domaine d'application**: Générique
 
 
 * **[Epic Games](https://www.epicgames.com/site/en-US/home)**  
@@ -492,6 +507,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game
 
 
+* **[IGO](https://www.igo.fr/)**  
+  * _Données géographiques 3D_
+  * **Localisation**: France/Montpellier
+  * **Domaine scientifique/technique**: Modélisation, VR/AR
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+
+
 * **[Ikigai Games](https://www.gfc.ikigai.games/)**  
   * _Association pour la création de jeux vidéo pédagogiques._
   * **Localisation**: Paris
@@ -566,7 +588,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Les Tontons Truqueurs](https://www.lestontonstruqueurs.com/)**  
   * _Prévisualisation et VFX en temps réels._
-  * **Localisation**: Paris
+  * **Localisation**: Montpellier, Paris
   * **Domaine scientifique/technique**: Synthèse d'image, Vision, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
@@ -764,6 +786,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Web/Cloud/Big Data
   * **Domaine d'application**: Générique
   * [_Jobs_](https://qarnot.com/en/recruiting)
+
+
+* **[Quantacell](https://www.quantacell.com/)**  
+  * _Artificial Intelligence for Biomedical Analysis_
+  * **Localisation**: France/Montpellier
+  * **Domaine scientifique/technique**: IA, Imagerie
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Quantic Dream](https://www.quanticdream.com/fr)**  
@@ -1013,9 +1042,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.vicon.com/careers/)
 
 
+* **[Virtualis](https://virtualisvr.com/)**  
+  * _Rééducation en réalité virtuelle_
+  * **Localisation**: France/Montpellier
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Virtuos](https://www.virtuosgames.com/)**  
   * _Studio développement de jeu vidéo_
-  * **Localisation**: Singapore, France/Paris
+  * **Localisation**: China/Shangai, Singapore, France/Paris, France/Montpellier
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
 

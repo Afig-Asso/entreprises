@@ -791,6 +791,24 @@
             "Employees": 2000
         },
         {
+            "Name": "Circle Dental",
+            "url": "https://www.circle.dental/",
+            "Description": "Plateforme num\u00e9rique pour l'orthodontie",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "CLO Virtual Fashion",
             "url": "https://www.clo3d.com/en/",
             "Product": "Marvelous Designer, Clo3D",
@@ -850,6 +868,26 @@
             ],
             "Scientific-domain": [
                 "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Dark Matters",
+            "Description": "Studio de films et VFX",
+            "url": "https://www.darkmatters.one/",
+            "Jobs": "https://www.darkmatters.one/jobs/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris",
+                    "Precise": "Tigery"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -1473,6 +1511,9 @@
             "Description": "Pr\u00e9visualisation et VFX en temps r\u00e9els.",
             "url": "https://www.lestontonstruqueurs.com/",
             "Place": [
+                {
+                    "City": "Montpellier"
+                },
                 {
                     "City": "Paris"
                 }
@@ -2747,11 +2788,19 @@
             "Description": "Studio d\u00e9veloppement de jeu vid\u00e9o",
             "Place": [
                 {
+                    "Country": "China",
+                    "City": "Shangai"
+                },
+                {
                     "Country": "Singapore"
                 },
                 {
                     "Country": "France",
                     "City": "Paris"
+                },
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -2915,9 +2964,9 @@
             ]
         },
         {
-            "Name": "Circle Dental",
-            "url": "https://www.circle.dental/",
-            "Description": "Plateforme num\u00e9rique pour l'orthodontie",
+            "Name": "Emersya",
+            "url": "https://emersya.com/en/home",
+            "Description": "Creation de mod\u00e8les de produits en 3D et d'exp\u00e9riences interactives",
             "Place": [
                 {
                     "Country": "France",
@@ -2925,11 +2974,65 @@
                 }
             ],
             "Scientific-domain": [
-                "Imagerie",
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
                 "Design/Fabrication"
             ],
             "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Quantacell",
+            "url": "https://www.quantacell.com/",
+            "Description": "Artificial Intelligence for Biomedical Analysis",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Imagerie"
+            ],
+            "Application-domain": [
                 "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "Virtualis",
+            "url": "https://virtualisvr.com/",
+            "Description": "R\u00e9\u00e9ducation en r\u00e9alit\u00e9 virtuelle",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "IGO",
+            "url": "https://www.igo.fr/",
+            "Description": "Donn\u00e9es g\u00e9ographiques 3D",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
             ]
         }
     ]
