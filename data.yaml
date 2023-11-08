@@ -1326,9 +1326,13 @@
   url: https://www.virtuosgames.com/
   Description: "Studio développement de jeu vidéo"
   Place: 
+    - Country: China
+      City: Shangai
     - Country: Singapore
     - Country: France
       City: Paris
+    - Country: France
+      City: Montpellier
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
 
@@ -1409,4 +1413,35 @@
       City: San Jose
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
+
+- Name: Emersya
+  url: https://emersya.com/en/home
+  Description: "Creation de modèles de produits en 3D et d'expériences interactives"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [Synthèse d'image, Modélisation, Design/Fabrication]
+  Application-domain: [Générique]
+
+- Name: Quantacell
+  url: https://www.quantacell.com/
+  Description: "Artificial Intelligence for Biomedical Analysis"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [IA, Imagerie]
+  Application-domain: [Médical/Biologique]
+
+- Name: Virtualis
+  url: https://virtualisvr.com/
+  Description: "Rééducation en réalité virtuelle"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [VR/AR]
+  Application-domain: [Médical/Biologique]
+
+
+
+
 
