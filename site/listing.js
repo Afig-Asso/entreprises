@@ -287,7 +287,7 @@ function display_company_entry(entry) {
     txt += display_div(product, 'products', '<strong>Produits</strong>: ');
     txt += display_div(place_txt, 'place', '<strong>Localisation</strong>: ');
 
-    txt += display_div(number_txt, 'employees', "<strong>Nombre employés</strong>: ");
+    txt += display_div(number_txt, 'employees', "<strong>Nombre d'employés</strong>: ");
   
     txt += display_div(scientific_domain, 'scientific-domain', '<strong>Domaine scientifique</strong>: ');
     txt += display_div(application_domain, 'application-domain', "<strong>Domaine d'application</strong>: ");
