@@ -1283,11 +1283,14 @@
 
 - Name: The Yard VFX
   url: http://theyard-vfx.com/
-  Description: "Effets visuels pour le cinéma."
+  Description: "Création d'effets visuels photoréalistes pour le cinéma (VFX)"
   Place: Paris, Montpellier
-  Scientific-domain: [Synthèse d'image, Animation, Acquisition]
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Acquisition, Reconstruction, Simulation, Géométrie, Vision, Imagerie, IA]
   Application-domain: [Cinéma/Films d'Animation/VFX]
-
+  Jobs: https://theyard-vfx.com/contacts/
+  Employees: 150
+  Highlight: Graphics, VFX, Pipeline
+  
 - Name: TVPaint
   url: https://www.tvpaint.com/
   Description: "Logiciel d'animation 2D."
