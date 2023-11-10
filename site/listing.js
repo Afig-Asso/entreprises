@@ -261,6 +261,7 @@ function display_company_entry(entry) {
     }
     let description = get_string(entry['Description']);
     let info = get_string(entry['Info']);
+    const keywords = get_string(entry['Keywords'])
     const scientific_domain = get_string(entry['Scientific-domain']);
     const application_domain = get_string(entry['Application-domain']);
     const product = get_string(entry['Product']);
@@ -281,6 +282,7 @@ function display_company_entry(entry) {
     txt += `<h3><a target="_blank" href="${url}">${name}</a></h3> ${name_long} <br>\n`;
     txt += `<div class="content">\n`;
     txt += display_div(description, 'description');
+    txt += display_div(keywords, 'keywords', '<strong>Mot clés</strong>: ')
     txt += display_div(info, 'info', '<strong>Remarque</strong>: ');
     txt += display_div(product, 'products', '<strong>Produits</strong>: ');
     txt += display_div(place_txt, 'place', '<strong>Localisation</strong>: ');
