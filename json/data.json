@@ -1073,6 +1073,25 @@
             ]
         },
         {
+            "Name": "Emersya",
+            "url": "https://emersya.com/en/home",
+            "Description": "Creation de mod\u00e8les de produits en 3D et d'exp\u00e9riences interactives",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "Epic Games",
             "url": "https://www.epicgames.com/site/en-US/home",
             "Description": "D\u00e9veloppeur de jeu et du moteur 3D Unreal Engine",
@@ -1344,6 +1363,24 @@
             "Application-domain": [
                 "M\u00e9canique/Ing\u00e9nierie civile",
                 "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "IGO",
+            "url": "https://www.igo.fr/",
+            "Description": "Donn\u00e9es g\u00e9ographiques 3D",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
             ]
         },
         {
@@ -2054,6 +2091,24 @@
             ]
         },
         {
+            "Name": "Quantacell",
+            "url": "https://www.quantacell.com/",
+            "Description": "Artificial Intelligence for Biomedical Analysis",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "Quantic Dream",
             "url": "https://www.quanticdream.com/fr",
             "Description": "D\u00e9veloppement de jeu vid\u00e9os",
@@ -2615,16 +2670,27 @@
         {
             "Name": "The Yard VFX",
             "url": "http://theyard-vfx.com/",
-            "Description": "Effets visuels pour le cin\u00e9ma.",
+            "Description": "Cr\u00e9ation d'effets visuels photor\u00e9alistes pour le cin\u00e9ma (VFX)",
             "Place": "Paris, Montpellier",
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
                 "Animation",
-                "Acquisition"
+                "Visualisation",
+                "Acquisition",
+                "Reconstruction",
+                "Simulation",
+                "G\u00e9om\u00e9trie",
+                "Vision",
+                "Imagerie",
+                "IA"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Jobs": "https://theyard-vfx.com/contacts/",
+            "Employees": 150,
+            "Keywords": "Graphics, VFX, Pipeline"
         },
         {
             "Name": "TVPaint",
@@ -2780,6 +2846,23 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Jeu Vid\u00e9o",
                 "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Virtualis",
+            "url": "https://virtualisvr.com/",
+            "Description": "R\u00e9\u00e9ducation en r\u00e9alit\u00e9 virtuelle",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
             ]
         },
         {
@@ -2961,78 +3044,6 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Emersya",
-            "url": "https://emersya.com/en/home",
-            "Description": "Creation de mod\u00e8les de produits en 3D et d'exp\u00e9riences interactives",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Montpellier"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Design/Fabrication"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Quantacell",
-            "url": "https://www.quantacell.com/",
-            "Description": "Artificial Intelligence for Biomedical Analysis",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Montpellier"
-                }
-            ],
-            "Scientific-domain": [
-                "IA",
-                "Imagerie"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "Virtualis",
-            "url": "https://virtualisvr.com/",
-            "Description": "R\u00e9\u00e9ducation en r\u00e9alit\u00e9 virtuelle",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Montpellier"
-                }
-            ],
-            "Scientific-domain": [
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "IGO",
-            "url": "https://www.igo.fr/",
-            "Description": "Donn\u00e9es g\u00e9ographiques 3D",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Montpellier"
-                }
-            ],
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers"
             ]
         }
     ]

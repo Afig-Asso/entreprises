@@ -985,10 +985,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 
 * **[The Yard VFX](http://theyard-vfx.com/)**  
-  * _Effets visuels pour le cinéma._
+  * _Création d'effets visuels photoréalistes pour le cinéma (VFX)_
+  * **Mots clés**: _Graphics, VFX, Pipeline_
   * **Localisation**: Paris,  Montpellier
-  * **Domaine scientifique/technique**: Synthèse d'image, Animation, Acquisition
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Visualisation, Acquisition, Reconstruction, Simulation, Géométrie, Vision, Imagerie, IA
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://theyard-vfx.com/contacts/)
 
 
 * **[Theia](https://www.theiamarkerless.ca/)**  

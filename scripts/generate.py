@@ -112,6 +112,7 @@ def prettyMD_company(data):
     information = liblisting.get_optional('Info',data)
     highlight = liblisting.get_optional('Highlight',data)
     employees = liblisting.get_optional('Employees',data)
+    keywords = liblisting.get_optional('Keywords',data)
 
     nom_long_str = ''
     if nom_long!='':
@@ -126,6 +127,7 @@ def prettyMD_company(data):
 
     out += f'* **[{name}]({url})** {nom_long_str} {highlight_txt}\n'
     out += liblisting.display_optional(descriptif, pre='* _', post='_')
+    out += liblisting.display_optional(keywords, pre='* **Mots clés**: _', post='_')
     out += liblisting.display_optional(information, pre='* **Remarque**: _', post='_')
     out += liblisting.display_optional(product, pre='* **Produits**: ')
     out += liblisting.display_optional(place, pre='* **Localisation**: ')
@@ -286,7 +288,7 @@ if __name__ == "__main__":
 
         print('Check URLs ...')
         urls = liblisting.get_all_urls(data)
-        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/', 'https://www.clo3d.com/en/', 'https://shotover.com/', 'https://www.lestontonstruqueurs.com/', 'https://www.united-vr.com/','https://www.linkedin.com/company/newtone-technologies/', 'https://www.activision.com/','https://www.theiamarkerless.ca/','https://www.theiamarkerless.ca/','https://www.cube-creative.com/','https://www.2d3d-animations.com','https://www.macguff.com/'}
+        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/', 'https://www.clo3d.com/en/', 'https://shotover.com/', 'https://www.lestontonstruqueurs.com/', 'https://www.united-vr.com/','https://www.linkedin.com/company/newtone-technologies/', 'https://www.activision.com/','https://www.theiamarkerless.ca/','https://www.theiamarkerless.ca/','https://www.cube-creative.com/','https://www.2d3d-animations.com','https://www.macguff.com/', 'https://www.darkmatters.one/'}
         liblisting.check_urls(urls, exitOnError=exit_on_failure, exceptions=exceptions)
         print('Check URLs done\n')
 
