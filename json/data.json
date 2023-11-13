@@ -1399,11 +1399,12 @@
             ]
         },
         {
-            "Name": "Illumination MacGuff",
-            "url": "https://www.macguff.com/",
+            "Name": "Illumination Studios Paris",
+            "url": "https://www.illuminationstudiosparis.com/",
             "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
+            "Note": "Ancienncement Illumination Mac Guff.",
             "Place": "Paris",
-            "Jobs": "https://buf.com/jobs/",
+            "Jobs": "https://www.illuminationstudiosparis.com/careers/",
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
@@ -1413,7 +1414,7 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Employees": 60
+            "Employees": 700
         },
         {
             "Name": "Imageens",

@@ -656,14 +656,15 @@
   Scientific-domain: [Analyse de données, Web/Cloud/Big Data, Autres]
   Application-domain: [Jeu Vidéo]
 
-- Name: Illumination MacGuff
-  url: https://www.macguff.com/
+- Name: Illumination Studios Paris
+  url: https://www.illuminationstudiosparis.com/
   Description: "Création de films d'animation et d'effets visels."
+  Note: Ancienncement Illumination Mac Guff.
   Place: Paris
-  Jobs: https://buf.com/jobs/
+  Jobs: https://www.illuminationstudiosparis.com/careers/
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX]
-  Employees: 60
+  Employees: 700
   
 - Name: Imageens
   url: https://www.imageens.com/

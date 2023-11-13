@@ -522,13 +522,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.gfc.ikigai.games/recrutement)
 
 
-* **[Illumination MacGuff](https://www.macguff.com/)**  
+* **[Illumination Studios Paris](https://www.illuminationstudiosparis.com/)**  
   * _Création de films d'animation et d'effets visels._
   * **Localisation**: Paris
-  * **Nombres d'employés**: 60
+  * **Nombres d'employés**: 700
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-  * [_Jobs_](https://buf.com/jobs/)
+  * [_Jobs_](https://www.illuminationstudiosparis.com/careers/)
 
 
 * **[Imageens](https://www.imageens.com/)**  
