@@ -592,6 +592,12 @@
   Application-domain: [Médical/Biologique]
 
 
+- Name: Golaem
+  url: https://golaem.com/
+  Description: "Logiciel de creation et controle de foules de personnes. Utilisé dans de nombreux films avec VFX"
+  Place: Rennes
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 - Name: Google
   url: https://about.google/
   Jobs: https://careers.google.com/

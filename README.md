@@ -268,7 +268,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[BUF](https://buf.com/)**  
   * _Création d'effets visuels (VFX) pour le cinéma._
   * **Localisation**: Paris
-  * **Nombres d'employés**: 60
+  * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://buf.com/jobs/)
@@ -473,6 +473,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: IA, Visualisation, Imagerie
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Golaem](https://golaem.com/)**  
+  * _Logiciel de creation et controle de foules de personnes. Utilisé dans de nombreux films avec VFX_
+  * **Localisation**: Rennes
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Google](https://about.google/)**  

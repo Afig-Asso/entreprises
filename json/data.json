@@ -707,7 +707,7 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Employees": 60
+            "Employees": 150
         },
         {
             "Name": "Cavrnus",
@@ -1269,6 +1269,18 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "Golaem",
+            "url": "https://golaem.com/",
+            "Description": "Logiciel de creation et controle de foules de personnes. Utilis\u00e9 dans de nombreux films avec VFX",
+            "Place": "Rennes",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
