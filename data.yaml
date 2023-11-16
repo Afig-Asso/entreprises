@@ -641,6 +641,15 @@
   Scientific-domain: [Visualisation, Simulation, VR/AR]
   Application-domain: [Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game]
 
+- Name: I-MC
+  url: https://www.i-mc.fr/
+  Description: "Machine autonomes pour des environnement contraints: aeronotique, spatial, défense"
+  Place:
+    - Country: France
+      City: Pertuis
+  Scientific-domain: [Simulation, Design/Fabrication]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense]  
+
 - Name: IGO
   url: https://www.igo.fr/
   Description: "Données géographiques 3D"

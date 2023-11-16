@@ -514,6 +514,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game
 
 
+* **[I-MC](https://www.i-mc.fr/)**  
+  * _Machine autonomes pour des environnement contraints: aeronotique, spatial, défense_
+  * **Localisation**: France/Pertuis
+  * **Domaine scientifique/technique**: Simulation, Design/Fabrication
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense
+
+
 * **[IGO](https://www.igo.fr/)**  
   * _Données géographiques 3D_
   * **Localisation**: France/Montpellier

@@ -1378,6 +1378,26 @@
             ]
         },
         {
+            "Name": "I-MC",
+            "url": "https://www.i-mc.fr/",
+            "Description": "Machine autonomes pour des environnement contraints: aeronotique, spatial, d\u00e9fense",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Pertuis"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ]
+        },
+        {
             "Name": "IGO",
             "url": "https://www.igo.fr/",
             "Description": "Donn\u00e9es g\u00e9ographiques 3D",
