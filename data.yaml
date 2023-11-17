@@ -1474,3 +1474,13 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
+- Name: Dynamixyz
+  url: https://www.linkedin.com/company/dynamixyz
+  Description: "Markerless Facial Motion Capture"
+  Note: "Team active de R&D pubiant dans les conférences de graphique, et liens académiques."
+  Place: 
+    - Country: France
+      City: Rennes
+  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+

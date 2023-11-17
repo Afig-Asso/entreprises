@@ -388,6 +388,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.dreamwall.be/en/jobs)
 
 
+* **[Dynamixyz](https://www.linkedin.com/company/dynamixyz)**  
+  * _Markerless Facial Motion Capture_
+  * **Localisation**: France/Rennes
+  * **Domaine scientifique/technique**: Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Easy Mile](https://easymile.com/)**  
   * _Logiciels et traitement de données pour la voiture autonome_
   * **Localisation**: France/Toulouse, Germany/Berlin
