@@ -946,7 +946,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 
 * **[Take-Two Interactive](https://www.take2games.com/)**  
-  * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K)._
+  * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K) ainsi que l'équipe de R&D Dynamixyz à Rennes._
   * **Localisation**: USA, France/Paris (Palaiseau), International
   * **Nombres d'employés**: 6000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
