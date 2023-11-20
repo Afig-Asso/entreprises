@@ -475,6 +475,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.gameloft.com/corporate/fr/jobs/apply/)
 
 
+* **[GeometryFactory](https://geometryfactory.com/)**  
+  * _Développement de bibliothèque logicielle open-source de calcul géométrique._
+  * **Produits**: [the Computational Geometry Algorithms Library (CGAL)](https://www.cgal.org/)
+  * **Localisation**: France/Sophia Antipolis
+  * **Domaine scientifique/technique**: Reconstruction, Géométrie
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://geometryfactory.com/open-positions/)
+
+
 * **[Gleamer](https://www.gleamer.ai/)**  
   * _Radiologie avec IA_
   * **Localisation**: Paris

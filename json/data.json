@@ -1258,6 +1258,31 @@
             ]
         },
         {
+            "Name": "GeometryFactory",
+            "Description": "D\u00e9veloppement de biblioth\u00e8que logicielle open-source de calcul g\u00e9om\u00e9trique.",
+            "url": "https://geometryfactory.com/",
+            "Product": [
+                {
+                    "Name": "the Computational Geometry Algorithms Library (CGAL)",
+                    "url": "https://www.cgal.org/"
+                }
+            ],
+            "Jobs": "https://geometryfactory.com/open-positions/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Sophia Antipolis"
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "Gleamer",
             "url": "https://www.gleamer.ai/",
             "Description": "Radiologie avec IA",
