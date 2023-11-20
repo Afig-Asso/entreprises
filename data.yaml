@@ -584,6 +584,19 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
 
+- Name: GeometryFactory
+  Description: "Développement de bibliothèque logicielle open-source de calcul géométrique."
+  url: https://geometryfactory.com/
+  Product:
+    - Name: the Computational Geometry Algorithms Library (CGAL)
+      url: https://www.cgal.org/
+  Jobs: https://geometryfactory.com/open-positions/
+  Place:
+    - Country: France
+      City: Sophia Antipolis
+  Scientific-domain: [Reconstruction, Géométrie]
+  Application-domain: [Générique]
+
 - Name: Gleamer
   url: https://www.gleamer.ai/
   Description: "Radiologie avec IA"
