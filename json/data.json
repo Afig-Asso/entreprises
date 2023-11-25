@@ -1035,6 +1035,29 @@
             ]
         },
         {
+            "Name": "Dynamixyz",
+            "url": "https://www.linkedin.com/company/dynamixyz",
+            "Description": "Markerless Facial Motion Capture",
+            "Note": "Team active de R&D pubiant dans les conf\u00e9rences de graphique, et liens acad\u00e9miques.",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Rennes"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition",
+                "Reconstruction",
+                "Vision",
+                "IA",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Easy Mile",
             "Description": "Logiciels et traitement de donn\u00e9es pour la voiture autonome",
             "url": "https://easymile.com/",
@@ -2415,6 +2438,27 @@
             ]
         },
         {
+            "Name": "Square Enix",
+            "url": "https://www.square-enix-games.com/",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Stability AI",
             "url": "https://stability.ai/",
             "Description": "IA g\u00e9n\u00e9rative pour le son, l'image et les mod\u00e8les 3D.",
@@ -3102,29 +3146,6 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Dynamixyz",
-            "url": "https://www.linkedin.com/company/dynamixyz",
-            "Description": "Markerless Facial Motion Capture",
-            "Note": "Team active de R&D pubiant dans les conf\u00e9rences de graphique, et liens acad\u00e9miques.",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Rennes"
-                }
-            ],
-            "Scientific-domain": [
-                "Animation",
-                "Acquisition",
-                "Reconstruction",
-                "Vision",
-                "IA",
-                "Analyse de donn\u00e9es"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
             ]
         }
     ]

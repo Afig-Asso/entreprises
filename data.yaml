@@ -480,6 +480,16 @@
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Dynamixyz
+  url: https://www.linkedin.com/company/dynamixyz
+  Description: "Markerless Facial Motion Capture"
+  Note: "Team active de R&D pubiant dans les conférences de graphique, et liens académiques."
+  Place: 
+    - Country: France
+      City: Rennes
+  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+
 - Name: Easy Mile
   Description: "Logiciels et traitement de données pour la voiture autonome"
   url: https://easymile.com/
@@ -1159,6 +1169,15 @@
   Scientific-domain: [Autres]
   Application-domain: [Jeu Vidéo]
 
+- Name: Square Enix
+  url: https://www.square-enix-games.com/
+  Description: "Développement de jeu vidéos"
+  Place:
+    - Country: France
+      City: Paris
+    - International: True
+  Scientific-domain: [Animation, Synthèse d'image]
+  Application-domain: [Jeu Vidéo]
 - Name: Stability AI
   url: https://stability.ai/
   Description: "IA générative pour le son, l'image et les modèles 3D."
@@ -1485,14 +1504,4 @@
       City: San Jose
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
-
-- Name: Dynamixyz
-  url: https://www.linkedin.com/company/dynamixyz
-  Description: "Markerless Facial Motion Capture"
-  Note: "Team active de R&D pubiant dans les conférences de graphique, et liens académiques."
-  Place: 
-    - Country: France
-      City: Rennes
-  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données]
-  Application-domain: [Jeu Vidéo]
 

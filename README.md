@@ -918,6 +918,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://apply.workable.com/square-enix/)
 
 
+* **[Square Enix](https://www.square-enix-games.com/)**  
+  * _Développement de jeu vidéos_
+  * **Localisation**: France/Paris, International
+  * **Domaine scientifique/technique**: Animation, Synthèse d'image
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Stability AI](https://stability.ai/)**  
   * _IA générative pour le son, l'image et les modèles 3D._
   * **Localisation**: UK/London, Japan/Tokyo
