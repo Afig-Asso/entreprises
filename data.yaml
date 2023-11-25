@@ -1169,15 +1169,7 @@
   Scientific-domain: [Autres]
   Application-domain: [Jeu Vidéo]
 
-- Name: Square Enix
-  url: https://www.square-enix-games.com/
-  Description: "Développement de jeu vidéos"
-  Place:
-    - Country: France
-      City: Paris
-    - International: True
-  Scientific-domain: [Animation, Synthèse d'image]
-  Application-domain: [Jeu Vidéo]
+
 - Name: Stability AI
   url: https://stability.ai/
   Description: "IA générative pour le son, l'image et les modèles 3D."
