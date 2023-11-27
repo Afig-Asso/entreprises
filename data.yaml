@@ -77,12 +77,33 @@
   Scientific-domain: [Acquisition, VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
 
+- Name: 4D Pipeline
+  url: https://www.4dpipeline.com/
+  Description: "Consulting pour application 3D"
+  Jobs: https://www.4dpipeline.com/jobs
+  Place: 
+    - Country: USA
+      State: California
+  Scientific-domain: [Synthèse d'image]
+  Application-domain: [Générique]
+
 - Name: 4Dviews
   Description: "Capture volumétrique"
   url: https://www.4dviews.com/
   Place: Grenoble
   Scientific-domain: [Autres]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: Activision
+  url: https://www.activision.com/
+  Description: "Développeur de jeux vidéo"
+  Jobs: https://careers.activision.com/
+  Place:
+    - Country: USA
+      City: ["Los Angeles"]
+    - International: True
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
 
 - Name: "Adobe"
   url: https://www.adobe.com/fr/
@@ -186,6 +207,18 @@
   Application-domain: [Générique]
   Employees: 160000
 
+- Name: Arkane Studio
+  Description: "Développeur de jeu vidéo"
+  url: https://www.arkane-studios.com/fr
+  Jobs: https://www.arkane-studios.com/fr#studios
+  Place:
+    - Country: France
+      City: Lyon
+    - Country: USA
+      State: Texas
+      City: Austin
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
 - Name: Artefacto
   url: https://www.artefacto-ar.com/
   Description: Développement d'applications pour la Réalité augmentée pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.
@@ -210,7 +243,7 @@
   Description: Logiciels 3D, CAO, Conception, Design
   Product: Maya, 3DS Max, AutoCAD
   Place: 
-    - Country: [USA, Canada, India, UK, Singapor, Norway]
+    - Country: [USA, Canada, India, UK, Singapore, Norway]
     - International: True
   Jobs: https://www.autodesk.com/careers/overview
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication]
@@ -290,7 +323,28 @@
   Jobs: https://buf.com/jobs/
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX]
-  Employees: 60
+  Employees: 150
+
+- Name: Cavrnus
+  url: https://www.cavrnus.com/
+  Description: "Plateforme de Metaverse"
+  Place:
+    - Country: USA
+      State: California
+      City: Carlsbad
+  Scientific-domain: [VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: Cesium
+  url: https://cesium.com/
+  Jobs: https://cesium.com/careers/#opportunities
+  Description: "Open Plateform for 3D Geospatial data"
+  Place:
+    - Country: USA
+      State: Pennsylvania
+      City: Philadelphia
+  Scientific-domain: [Modélisation, Imagerie, Analyse de données]
+  Application-domain: [Générique]
 
 - Name: Chaos
   url: https://www.chaos.com/
@@ -309,6 +363,15 @@
   Scientific-domain: [VR/AR, Visualisation]
   Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
   Employees: 2000
+
+- Name: Circle Dental
+  url: https://www.circle.dental/
+  Description: "Plateforme numérique pour l'orthodontie"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [Imagerie, Design/Fabrication]
+  Application-domain: [Médical/Biologique]
 
 - Name: CLO Virtual Fashion
   url: https://www.clo3d.com/en/
@@ -349,6 +412,17 @@
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Dark Matters
+  Description: "Studio de films et VFX"
+  url: https://www.darkmatters.one/
+  Jobs: https://www.darkmatters.one/jobs/
+  Place:
+    - Country: France
+      City: Paris
+      Precise: Tigery
+  Scientific-domain: [Acquisition, Reconstruction]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  
 - Name: "Dassault Systèmes"
   url: https://www.3ds.com/fr/
   Description: Logiciels de CAO, Design et Simulation.
@@ -365,6 +439,22 @@
   Highlight: Graphics, R&D
   Employees: 20000
 
+- Name: DigitalFish
+  url: https://www.digitalfish.com/
+  Description: "Outils pour l'animation 3D, 2D et VR"
+  Products:
+    - Name: Reflex
+      url: https://www.digitalfish.com/reflex/
+    - Name: Lune
+      url: https://www.digitalfish.com/lune/
+  Place: 
+    - Country: USA
+      State: California
+      City: San Mateo
+  Jobs: https://www.digitalfish.com/careers/
+  Scientific-domain: [Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  
 - Name: Disney
   Info: "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique."
   url: https://www.disneystudios.com/
@@ -398,12 +488,42 @@
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Dynamixyz
+  url: https://www.linkedin.com/company/dynamixyz
+  Description: "Markerless Facial Motion Capture"
+  Note: "Team active de R&D pubiant dans les conférences de graphique, et liens académiques."
+  Place: 
+    - Country: France
+      City: Rennes
+  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Easy Mile
+  Description: "Logiciels et traitement de données pour la voiture autonome"
+  url: https://easymile.com/
+  Jobs: https://www.welcometothejungle.com/en/companies/easymile/jobs
+  Place: 
+    - Country: France
+      City: Toulouse
+    - Country: Germany
+      City: Berlin
+  Scientific-domain: [Acquisition, Reconstruction, Analyse de données]
+  Application-domain: [Automobile/Navigation/Aviation]
 - Name: Effigy 3D
   url: https://effigy-3d.com/
   Description: "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars."
   Place: Paris
   Scientific-domain: [Animation, Acquisition, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Emersya
+  url: https://emersya.com/en/home
+  Description: "Creation de modèles de produits en 3D et d'expériences interactives"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [Synthèse d'image, Modélisation, Design/Fabrication]
+  Application-domain: [Générique]
 
 - Name: Epic Games
   url: https://www.epicgames.com/site/en-US/home
@@ -437,6 +557,15 @@
     - International: True
   Scientific-domain: [Modélisation, Simulation]
   Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense, Mécanique/Ingénierie civile]
+
+- Name: EVA
+  Name-long: Esports Virtual Arenas
+  url: https://www.eva.gg/fr/
+  Jobs: https://www.eva.gg/fr/careers/jobs/list
+  Description: "Scenes virtuelles et compétitions pour des jeux de eSports"
+  Place: Paris
+  Scientific-domain: [Modélisation, VR/AR, Analyse de données]
+  Application-domain: [Jeu Vidéo]
 
 - Name: Falcons Creatrive
   url: https://falconscreativegroup.com/
@@ -473,6 +602,19 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
 
+- Name: GeometryFactory
+  Description: "Développement de bibliothèque logicielle open-source de calcul géométrique."
+  url: https://geometryfactory.com/
+  Product:
+    - Name: the Computational Geometry Algorithms Library (CGAL)
+      url: https://www.cgal.org/
+  Jobs: https://geometryfactory.com/open-positions/
+  Place:
+    - Country: France
+      City: Sophia Antipolis
+  Scientific-domain: [Reconstruction, Géométrie]
+  Application-domain: [Générique]
+
 - Name: Gleamer
   url: https://www.gleamer.ai/
   Description: "Radiologie avec IA"
@@ -481,6 +623,12 @@
   Application-domain: [Médical/Biologique]
 
 
+- Name: Golaem
+  url: https://golaem.com/
+  Description: "Logiciel de creation et controle de foules de personnes. Utilisé dans de nombreux films avec VFX"
+  Place: Rennes
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 - Name: Google
   url: https://about.google/
   Jobs: https://careers.google.com/
@@ -503,6 +651,19 @@
   Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, Imagerie]
   Application-domain: [Générique]
 
+- Name: GridRaster 
+  url: https://gridraster.com/
+  Jobs: https://gridraster.com/careers-jobs/
+  Description: "Spatial Mapping, Recognition and Alignment for XR"
+  Place:
+    - Country: USA
+      State: California
+      City: Mountain View
+    - Country: India
+      City: Bengaluru
+  Scientific-domain: [Synthèse d'image, Modélisation, VR/AR]
+  Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation]
+
 - Name: Harfang3D
   url: https://www.harfang3d.com/
   Description: "Outils de visualisation 3D en temps réel, C++ et Python, pour l'industrie, la recherche et l'enseignement,"
@@ -510,6 +671,28 @@
     - City: Orléans
   Scientific-domain: [Visualisation, Simulation, VR/AR]
   Application-domain: [Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game]
+
+- Name: I-MC
+  url: https://www.i-mc.fr/
+  Description: "Machine autonomes pour des environnement contraints: aeronotique, spatial, défense"
+  Place:
+    - Country: France
+      City: Pertuis
+  Scientific-domain: [Simulation, Design/Fabrication]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense]  
+
+- Name: IGO
+  url: https://www.igo.fr/
+  Description: "Données géographiques 3D"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [Modélisation, VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+
+
+
 
 - Name: Ikigai Games
   url: https://www.gfc.ikigai.games/
@@ -519,14 +702,15 @@
   Scientific-domain: [Analyse de données, Web/Cloud/Big Data, Autres]
   Application-domain: [Jeu Vidéo]
 
-- Name: Illumination MacGuff
-  url: https://www.macguff.com/
+- Name: Illumination Studios Paris
+  url: https://www.illuminationstudiosparis.com/
   Description: "Création de films d'animation et d'effets visels."
+  Note: Ancienncement Illumination Mac Guff.
   Place: Paris
-  Jobs: https://buf.com/jobs/
+  Jobs: https://www.illuminationstudiosparis.com/careers/
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX]
-  Employees: 60
+  Employees: 700
   
 - Name: Imageens
   url: https://www.imageens.com/
@@ -561,7 +745,7 @@
 - Name: Kitware
   url: https://www.kitware.com/
   Description: "Développement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de développement open-source."
-  Products: ParaView, VTK, 3D Slicer, ITK, CMake
+  Product: ParaView, VTK, 3D Slicer, ITK, CMake
   Jobs: https://www.kitware.com/careers/
   Place: 
     - Country: USA
@@ -601,6 +785,7 @@
   Description: "Prévisualisation et VFX en temps réels."
   url: https://www.lestontonstruqueurs.com/
   Place: 
+    - City: Montpellier
     - City: Paris
   Scientific-domain: [Synthèse d'image, Vision, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -615,6 +800,27 @@
       City: Aarhus
   Scientific-domain: [Synthèse d'image]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Magic Leap
+  url: https://www.magicleap.com/en-us/
+  Description: "Lunettes de réalité augmentée"
+  Jobs: https://resources.magicleap.com/en-us/careers
+  Place:
+    - Country: USA
+      State: Florida
+    - Country: USA
+      State: Colorado
+  Scientific-domain: [VR/AR]
+  Application-domain: [Générique]
+
+- Name: Manus
+  url: https://www.manus-meta.com/
+  Description: "Motion capture and extended reality system"
+  Place:
+    - Country: Netherlands
+      City: Eindhoven
+  Scientific-domain: [Acquisition, Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
 
 - Name: MassVirtual
   url: https://massvirtual.com/
@@ -747,13 +953,28 @@
   Description: "Développement de cartes graphiques materiel et logiciel"
   Info: "NVidia Research est présent partout dans le monde, dont en France."
   url: https://www.nvidia.com/
+  Jobs: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
   Place: 
     - Country: USA
+      State: California
+      City: Santa Clara
     - Country: France
+      City: Paris
     - International: True
   Scientific-domain: [Synthèse d'image, IA, Hardware, Simulation, Web/Cloud/Big Data, Visualisation]
   Application-domain: [Générique]
   Employees: 13000
+
+- Name: OptiTrack
+  url: https://optitrack.com/
+  Description: "Motion capture pour les effets spéciaux au cinéma"
+  Jobs: https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46
+  Place: 
+    - Country: USA
+      State: Oregon
+      City: Corvallis
+  Scientific-domain: [Acquisition, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Otoy
   url: https://home.otoy.com/
@@ -834,6 +1055,15 @@
   Scientific-domain: [Web/Cloud/Big Data]
   Application-domain: [Générique]
 
+- Name: Quantacell
+  url: https://www.quantacell.com/
+  Description: "Artificial Intelligence for Biomedical Analysis"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [IA, Imagerie]
+  Application-domain: [Médical/Biologique]
+
 - Name: Quantic Dream
   url: https://www.quanticdream.com/fr
   Description: "Développement de jeu vidéos"
@@ -870,8 +1100,8 @@
   url: https://www.saint-gobain.com/fr
   Description: "Construction de bâtiments"
   Place:
-    - Country: Frace
-      Place: Paris
+    - Country: France
+      City: Paris
     - International: True
   Scientific-domain: [Synthèse d'image, Simulation, Visualisation]
   Application-domain: [Architecture/Immobilier, Mécanique/Ingénierie civile]
@@ -895,6 +1125,17 @@
       City: Toronto
   Scientific-domain: [Modélisation, Animation, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Simerics
+  url: https://www.simerics.com/
+  Description: "CAD simulation"
+  Jobs: https://www.simerics.com/careers/
+  Place: 
+    - Country: USA
+      State: Washington
+      City: Seatle
+  Scientific-domain: [Simulation, Design/Fabrication]
+  Application-domain: [Automobile/Navigation/Aviation]
 
 - Name: Solid Anim
   url: https://www.solidanim.com/en/
@@ -924,6 +1165,37 @@
   Place: Paris
   Scientific-domain: [IA, Animation, Simulation]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Automobile/Navigation/Aviation, Jeu Vidéo]
+
+- Name: Square Enix
+  url: https://www.square-enix-games.com/fr_FR/home
+  Place: 
+    - Country: USA
+      State: California
+      City: Los Angeles
+    - Country: UK
+      City: London
+    - Country: France
+      City: Paris
+    - Country: Allemagne
+      City: Hamburg
+    - Country: Japan
+      City: Tokyo
+  Description: "Editeur de jeu vidéos"
+  Jobs: https://apply.workable.com/square-enix/
+  Scientific-domain: [Autres]
+  Application-domain: [Jeu Vidéo]
+
+
+- Name: Stability AI
+  url: https://stability.ai/
+  Description: "IA générative pour le son, l'image et les modèles 3D."
+  Place:
+    - Country: UK
+      City: London
+    - Country: Japan
+      City: Tokyo
+  Scientific-domain: [IA, Vision, Autres]
+  Application-domain: [Autres]
 
 - Name: StreamRoller 
   url: https://www.steamrollerstudios.com/
@@ -971,7 +1243,7 @@
 
 - Name: Take-Two Interactive
   url: https://www.take2games.com/
-  Description: "Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K)."
+  Description: "Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K) ainsi que l'équipe de R&D Dynamixyz à Rennes."
   Jobs: https://careers.take2games.com/jobs
   Employees: 6000
   Place: 
@@ -1040,6 +1312,25 @@
   Scientific-domain: [Synthèse d'image, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: The Game Bakers
+  Place: Montpellier
+  Description: "Studio de jeux vidéo indépendant pour jeux 2D"
+  url: https://www.thegamebakers.com/
+  Jobs: https://www.thegamebakers.com/category/jobs/
+  Scientific-domain: [Autres]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Theia
+  url: https://www.theiamarkerless.ca/
+  Description: "Markeless Motion Capture System"
+  Jobs: https://www.theiamarkerless.ca/jobs/
+  Place:
+    - Country: Canada
+      State: Ontario
+      City: Kingston
+  Scientific-domain: [Animation, Acquisition]
+  Application-domain: [Générique]
+
 - Name: The Mill 
   url: https://www.themill.com/
   Description: "Creation de VFX pour la publicité"
@@ -1059,11 +1350,14 @@
 
 - Name: The Yard VFX
   url: http://theyard-vfx.com/
-  Description: "Effets visuels pour le cinéma."
+  Description: "Création d'effets visuels photoréalistes pour le cinéma (VFX)"
   Place: Paris, Montpellier
-  Scientific-domain: [Synthèse d'image, Animation, Acquisition]
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Acquisition, Reconstruction, Simulation, Géométrie, Vision, Imagerie, IA]
   Application-domain: [Cinéma/Films d'Animation/VFX]
-
+  Jobs: https://theyard-vfx.com/contacts/
+  Employees: 150
+  Keywords: Graphics, VFX, Pipeline
+  
 - Name: TVPaint
   url: https://www.tvpaint.com/
   Description: "Logiciel d'animation 2D."
@@ -1084,7 +1378,7 @@
       City: [Montreal, Toronto]
     - Country: USA
       City: [San Francisco, New York, Atlanta]
-    - Country: Inde
+    - Country: India
     - Country: Allemagne
     - Country: Pologne
     - International: True
@@ -1119,13 +1413,36 @@
   Scientific-domain: [Synthèse d'image, Simulation]
   Application-domain: [Générique]
 
+- Name: Vicon
+  url: https://www.vicon.com/
+  Description: "Système de Motion Capture"
+  Jobs: https://www.vicon.com/careers/
+  Place:
+    - Country: UK
+      City: Oxford
+  Scientific-domain: [Acquisition, Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game]
+
+- Name: Virtualis
+  url: https://virtualisvr.com/
+  Description: "Rééducation en réalité virtuelle"
+  Place:
+    - Country: France
+      City: Montpellier
+  Scientific-domain: [VR/AR]
+  Application-domain: [Médical/Biologique]
+
 - Name: Virtuos
   url: https://www.virtuosgames.com/
   Description: "Studio développement de jeu vidéo"
   Place: 
+    - Country: China
+      City: Shangai
     - Country: Singapore
     - Country: France
       City: Paris
+    - Country: France
+      City: Montpellier
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
 
@@ -1138,6 +1455,22 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Visualisation]
   Application-domain: [Architecture/Immobilier]
 
+
+- Name: Wacom
+  url: https://www.wacom.com/
+  Description: "Tablettes et écran tactile pour la création graphique"
+  Jobs: https://www.wacom.com/en-us/about-wacom/careers-at-wacom
+  Place:
+    - Country: Japan
+      City: Saitama
+    - Country: Germany
+      City: Dusseldorf
+    - Country: USA
+      State: Oregon
+      City: Portland
+    - International: True
+  Scientific-domain: [Hardware, Acquisition]
+  Application-domain: [Générique]
 
 - Name: Wandercraft
   Description: "Systèmes d'exosquelettes"
@@ -1174,6 +1507,13 @@
       Exact: Saint-Clément-de-RiviInterère
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
+
+- Name: Yokai
+  url: https://www.yokai.ai/
+  Description: "Generation de photos modifiées par IA"
+  Place: Paris
+  Scientific-domain: [IA, Vision]
+  Application-domain: [Autres]
 
 - Name: ZSpace
   url: https://zspace.com/

@@ -158,6 +158,24 @@
             ]
         },
         {
+            "Name": "4D Pipeline",
+            "url": "https://www.4dpipeline.com/",
+            "Description": "Consulting pour application 3D",
+            "Jobs": "https://www.4dpipeline.com/jobs",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "4Dviews",
             "Description": "Capture volum\u00e9trique",
             "url": "https://www.4dviews.com/",
@@ -169,6 +187,32 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "Activision",
+            "url": "https://www.activision.com/",
+            "Description": "D\u00e9veloppeur de jeux vid\u00e9o",
+            "Jobs": "https://careers.activision.com/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": [
+                        "Los Angeles"
+                    ]
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -397,6 +441,31 @@
             "Employees": 160000
         },
         {
+            "Name": "Arkane Studio",
+            "Description": "D\u00e9veloppeur de jeu vid\u00e9o",
+            "url": "https://www.arkane-studios.com/fr",
+            "Jobs": "https://www.arkane-studios.com/fr#studios",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Lyon"
+                },
+                {
+                    "Country": "USA",
+                    "State": "Texas",
+                    "City": "Austin"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Artefacto",
             "url": "https://www.artefacto-ar.com/",
             "Description": "D\u00e9veloppement d'applications pour la R\u00e9alit\u00e9 augment\u00e9e pour la visualisation dans le domaine de l'immobilier, de l'industrie, ou de l'entrainement.",
@@ -450,7 +519,7 @@
                         "Canada",
                         "India",
                         "UK",
-                        "Singapor",
+                        "Singapore",
                         "Norway"
                     ]
                 },
@@ -638,7 +707,46 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Employees": 60
+            "Employees": 150
+        },
+        {
+            "Name": "Cavrnus",
+            "url": "https://www.cavrnus.com/",
+            "Description": "Plateforme de Metaverse",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "Carlsbad"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
+            "Name": "Cesium",
+            "url": "https://cesium.com/",
+            "Jobs": "https://cesium.com/careers/#opportunities",
+            "Description": "Open Plateform for 3D Geospatial data",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Pennsylvania",
+                    "City": "Philadelphia"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
         },
         {
             "Name": "Chaos",
@@ -681,6 +789,24 @@
                 "Loisir Interactif/Immersion/Metavers"
             ],
             "Employees": 2000
+        },
+        {
+            "Name": "Circle Dental",
+            "url": "https://www.circle.dental/",
+            "Description": "Plateforme num\u00e9rique pour l'orthodontie",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
         },
         {
             "Name": "CLO Virtual Fashion",
@@ -748,6 +874,26 @@
             ]
         },
         {
+            "Name": "Dark Matters",
+            "Description": "Studio de films et VFX",
+            "url": "https://www.darkmatters.one/",
+            "Jobs": "https://www.darkmatters.one/jobs/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris",
+                    "Precise": "Tigery"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
             "Name": "Dassault Syst\u00e8mes",
             "url": "https://www.3ds.com/fr/",
             "Description": "Logiciels de CAO, Design et Simulation.",
@@ -785,6 +931,36 @@
             ],
             "Highlight": "Graphics, R&D",
             "Employees": 20000
+        },
+        {
+            "Name": "DigitalFish",
+            "url": "https://www.digitalfish.com/",
+            "Description": "Outils pour l'animation 3D, 2D et VR",
+            "Products": [
+                {
+                    "Name": "Reflex",
+                    "url": "https://www.digitalfish.com/reflex/"
+                },
+                {
+                    "Name": "Lune",
+                    "url": "https://www.digitalfish.com/lune/"
+                }
+            ],
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "San Mateo"
+                }
+            ],
+            "Jobs": "https://www.digitalfish.com/careers/",
+            "Scientific-domain": [
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         },
         {
             "Name": "Disney",
@@ -859,6 +1035,53 @@
             ]
         },
         {
+            "Name": "Dynamixyz",
+            "url": "https://www.linkedin.com/company/dynamixyz",
+            "Description": "Markerless Facial Motion Capture",
+            "Note": "Team active de R&D pubiant dans les conf\u00e9rences de graphique, et liens acad\u00e9miques.",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Rennes"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition",
+                "Reconstruction",
+                "Vision",
+                "IA",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Easy Mile",
+            "Description": "Logiciels et traitement de donn\u00e9es pour la voiture autonome",
+            "url": "https://easymile.com/",
+            "Jobs": "https://www.welcometothejungle.com/en/companies/easymile/jobs",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Toulouse"
+                },
+                {
+                    "Country": "Germany",
+                    "City": "Berlin"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
             "Name": "Effigy 3D",
             "url": "https://effigy-3d.com/",
             "Description": "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars.",
@@ -870,6 +1093,25 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Emersya",
+            "url": "https://emersya.com/en/home",
+            "Description": "Creation de mod\u00e8les de produits en 3D et d'exp\u00e9riences interactives",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -943,6 +1185,22 @@
                 "Automobile/Navigation/Aviation",
                 "S\u00e9curit\u00e9/D\u00e9fense",
                 "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "EVA",
+            "Name-long": "Esports Virtual Arenas",
+            "url": "https://www.eva.gg/fr/",
+            "Jobs": "https://www.eva.gg/fr/careers/jobs/list",
+            "Description": "Scenes virtuelles et comp\u00e9titions pour des jeux de eSports",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -1023,6 +1281,31 @@
             ]
         },
         {
+            "Name": "GeometryFactory",
+            "Description": "D\u00e9veloppement de biblioth\u00e8que logicielle open-source de calcul g\u00e9om\u00e9trique.",
+            "url": "https://geometryfactory.com/",
+            "Product": [
+                {
+                    "Name": "the Computational Geometry Algorithms Library (CGAL)",
+                    "url": "https://www.cgal.org/"
+                }
+            ],
+            "Jobs": "https://geometryfactory.com/open-positions/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Sophia Antipolis"
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "Gleamer",
             "url": "https://www.gleamer.ai/",
             "Description": "Radiologie avec IA",
@@ -1034,6 +1317,18 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "Golaem",
+            "url": "https://golaem.com/",
+            "Description": "Logiciel de creation et controle de foules de personnes. Utilis\u00e9 dans de nombreux films avec VFX",
+            "Place": "Rennes",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -1086,6 +1381,32 @@
             ]
         },
         {
+            "Name": "GridRaster",
+            "url": "https://gridraster.com/",
+            "Jobs": "https://gridraster.com/careers-jobs/",
+            "Description": "Spatial Mapping, Recognition and Alignment for XR",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "Mountain View"
+                },
+                {
+                    "Country": "India",
+                    "City": "Bengaluru"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
             "Name": "Harfang3D",
             "url": "https://www.harfang3d.com/",
             "Description": "Outils de visualisation 3D en temps r\u00e9el, C++ et Python, pour l'industrie, la recherche et l'enseignement,",
@@ -1105,6 +1426,44 @@
             ]
         },
         {
+            "Name": "I-MC",
+            "url": "https://www.i-mc.fr/",
+            "Description": "Machine autonomes pour des environnement contraints: aeronotique, spatial, d\u00e9fense",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Pertuis"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ]
+        },
+        {
+            "Name": "IGO",
+            "url": "https://www.igo.fr/",
+            "Description": "Donn\u00e9es g\u00e9ographiques 3D",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
             "Name": "Ikigai Games",
             "url": "https://www.gfc.ikigai.games/",
             "Description": "Association pour la cr\u00e9ation de jeux vid\u00e9o p\u00e9dagogiques.",
@@ -1120,11 +1479,12 @@
             ]
         },
         {
-            "Name": "Illumination MacGuff",
-            "url": "https://www.macguff.com/",
+            "Name": "Illumination Studios Paris",
+            "url": "https://www.illuminationstudiosparis.com/",
             "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
+            "Note": "Ancienncement Illumination Mac Guff.",
             "Place": "Paris",
-            "Jobs": "https://buf.com/jobs/",
+            "Jobs": "https://www.illuminationstudiosparis.com/careers/",
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
@@ -1134,7 +1494,7 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Employees": 60
+            "Employees": 700
         },
         {
             "Name": "Imageens",
@@ -1199,7 +1559,7 @@
             "Name": "Kitware",
             "url": "https://www.kitware.com/",
             "Description": "D\u00e9veloppement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de d\u00e9veloppement open-source.",
-            "Products": "ParaView, VTK, 3D Slicer, ITK, CMake",
+            "Product": "ParaView, VTK, 3D Slicer, ITK, CMake",
             "Jobs": "https://www.kitware.com/careers/",
             "Place": [
                 {
@@ -1270,6 +1630,9 @@
             "url": "https://www.lestontonstruqueurs.com/",
             "Place": [
                 {
+                    "City": "Montpellier"
+                },
+                {
                     "City": "Paris"
                 }
             ],
@@ -1301,6 +1664,48 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Magic Leap",
+            "url": "https://www.magicleap.com/en-us/",
+            "Description": "Lunettes de r\u00e9alit\u00e9 augment\u00e9e",
+            "Jobs": "https://resources.magicleap.com/en-us/careers",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Florida"
+                },
+                {
+                    "Country": "USA",
+                    "State": "Colorado"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Manus",
+            "url": "https://www.manus-meta.com/",
+            "Description": "Motion capture and extended reality system",
+            "Place": [
+                {
+                    "Country": "Netherlands",
+                    "City": "Eindhoven"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Entrainement/Formation/Serious Game"
             ]
         },
         {
@@ -1560,12 +1965,16 @@
             "Description": "D\u00e9veloppement de cartes graphiques materiel et logiciel",
             "Info": "NVidia Research est pr\u00e9sent partout dans le monde, dont en France.",
             "url": "https://www.nvidia.com/",
+            "Jobs": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "Santa Clara"
                 },
                 {
-                    "Country": "France"
+                    "Country": "France",
+                    "City": "Paris"
                 },
                 {
                     "International": true
@@ -1583,6 +1992,26 @@
                 "G\u00e9n\u00e9rique"
             ],
             "Employees": 13000
+        },
+        {
+            "Name": "OptiTrack",
+            "url": "https://optitrack.com/",
+            "Description": "Motion capture pour les effets sp\u00e9ciaux au cin\u00e9ma",
+            "Jobs": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Oregon",
+                    "City": "Corvallis"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         },
         {
             "Name": "Otoy",
@@ -1743,6 +2172,24 @@
             ]
         },
         {
+            "Name": "Quantacell",
+            "url": "https://www.quantacell.com/",
+            "Description": "Artificial Intelligence for Biomedical Analysis",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "Quantic Dream",
             "url": "https://www.quanticdream.com/fr",
             "Description": "D\u00e9veloppement de jeu vid\u00e9os",
@@ -1818,8 +2265,8 @@
             "Description": "Construction de b\u00e2timents",
             "Place": [
                 {
-                    "Country": "Frace",
-                    "Place": "Paris"
+                    "Country": "France",
+                    "City": "Paris"
                 },
                 {
                     "International": true
@@ -1878,6 +2325,26 @@
             ]
         },
         {
+            "Name": "Simerics",
+            "url": "https://www.simerics.com/",
+            "Description": "CAD simulation",
+            "Jobs": "https://www.simerics.com/careers/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "Washington",
+                    "City": "Seatle"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
             "Name": "Solid Anim",
             "url": "https://www.solidanim.com/en/",
             "Description": "Studio sp\u00e9cialis\u00e9 en animation 3D, MOCAP, et production virtuelle.",
@@ -1933,6 +2400,85 @@
                 "Loisir Interactif/Immersion/Metavers",
                 "Automobile/Navigation/Aviation",
                 "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Square Enix",
+            "url": "https://www.square-enix-games.com/fr_FR/home",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "State": "California",
+                    "City": "Los Angeles"
+                },
+                {
+                    "Country": "UK",
+                    "City": "London"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "Allemagne",
+                    "City": "Hamburg"
+                },
+                {
+                    "Country": "Japan",
+                    "City": "Tokyo"
+                }
+            ],
+            "Description": "Editeur de jeu vid\u00e9os",
+            "Jobs": "https://apply.workable.com/square-enix/",
+            "Scientific-domain": [
+                "Autres"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Square Enix",
+            "url": "https://www.square-enix-games.com/",
+            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Stability AI",
+            "url": "https://stability.ai/",
+            "Description": "IA g\u00e9n\u00e9rative pour le son, l'image et les mod\u00e8les 3D.",
+            "Place": [
+                {
+                    "Country": "UK",
+                    "City": "London"
+                },
+                {
+                    "Country": "Japan",
+                    "City": "Tokyo"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Vision",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Autres"
             ]
         },
         {
@@ -2004,7 +2550,7 @@
         {
             "Name": "Take-Two Interactive",
             "url": "https://www.take2games.com/",
-            "Description": "D\u00e9veloppement de jeux vid\u00e9o, et d\u00e9tenant d'autres entreprises (Rockstar, 2K).",
+            "Description": "D\u00e9veloppement de jeux vid\u00e9o, et d\u00e9tenant d'autres entreprises (Rockstar, 2K) ainsi que l'\u00e9quipe de R&D Dynamixyz \u00e0 Rennes.",
             "Jobs": "https://careers.take2games.com/jobs",
             "Employees": 6000,
             "Place": [
@@ -2156,6 +2702,39 @@
             ]
         },
         {
+            "Name": "The Game Bakers",
+            "Place": "Montpellier",
+            "Description": "Studio de jeux vid\u00e9o ind\u00e9pendant pour jeux 2D",
+            "url": "https://www.thegamebakers.com/",
+            "Jobs": "https://www.thegamebakers.com/category/jobs/",
+            "Scientific-domain": [
+                "Autres"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Theia",
+            "url": "https://www.theiamarkerless.ca/",
+            "Description": "Markeless Motion Capture System",
+            "Jobs": "https://www.theiamarkerless.ca/jobs/",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "State": "Ontario",
+                    "City": "Kingston"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "The Mill",
             "url": "https://www.themill.com/",
             "Description": "Creation de VFX pour la publicit\u00e9",
@@ -2193,16 +2772,27 @@
         {
             "Name": "The Yard VFX",
             "url": "http://theyard-vfx.com/",
-            "Description": "Effets visuels pour le cin\u00e9ma.",
+            "Description": "Cr\u00e9ation d'effets visuels photor\u00e9alistes pour le cin\u00e9ma (VFX)",
             "Place": "Paris, Montpellier",
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
                 "Animation",
-                "Acquisition"
+                "Visualisation",
+                "Acquisition",
+                "Reconstruction",
+                "Simulation",
+                "G\u00e9om\u00e9trie",
+                "Vision",
+                "Imagerie",
+                "IA"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Jobs": "https://theyard-vfx.com/contacts/",
+            "Employees": 150,
+            "Keywords": "Graphics, VFX, Pipeline"
         },
         {
             "Name": "TVPaint",
@@ -2247,7 +2837,7 @@
                     ]
                 },
                 {
-                    "Country": "Inde"
+                    "Country": "India"
                 },
                 {
                     "Country": "Allemagne"
@@ -2339,16 +2929,63 @@
             ]
         },
         {
+            "Name": "Vicon",
+            "url": "https://www.vicon.com/",
+            "Description": "Syst\u00e8me de Motion Capture",
+            "Jobs": "https://www.vicon.com/careers/",
+            "Place": [
+                {
+                    "Country": "UK",
+                    "City": "Oxford"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Virtualis",
+            "url": "https://virtualisvr.com/",
+            "Description": "R\u00e9\u00e9ducation en r\u00e9alit\u00e9 virtuelle",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
             "Name": "Virtuos",
             "url": "https://www.virtuosgames.com/",
             "Description": "Studio d\u00e9veloppement de jeu vid\u00e9o",
             "Place": [
+                {
+                    "Country": "China",
+                    "City": "Shangai"
+                },
                 {
                     "Country": "Singapore"
                 },
                 {
                     "Country": "France",
                     "City": "Paris"
+                },
+                {
+                    "Country": "France",
+                    "City": "Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -2378,6 +3015,37 @@
             ],
             "Application-domain": [
                 "Architecture/Immobilier"
+            ]
+        },
+        {
+            "Name": "Wacom",
+            "url": "https://www.wacom.com/",
+            "Description": "Tablettes et \u00e9cran tactile pour la cr\u00e9ation graphique",
+            "Jobs": "https://www.wacom.com/en-us/about-wacom/careers-at-wacom",
+            "Place": [
+                {
+                    "Country": "Japan",
+                    "City": "Saitama"
+                },
+                {
+                    "Country": "Germany",
+                    "City": "Dusseldorf"
+                },
+                {
+                    "Country": "USA",
+                    "State": "Oregon",
+                    "City": "Portland"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -2448,6 +3116,19 @@
             "Application-domain": [
                 "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
                 "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Yokai",
+            "url": "https://www.yokai.ai/",
+            "Description": "Generation de photos modifi\u00e9es par IA",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Autres"
             ]
         },
         {

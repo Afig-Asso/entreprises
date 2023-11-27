@@ -261,6 +261,7 @@ function display_company_entry(entry) {
     }
     let description = get_string(entry['Description']);
     let info = get_string(entry['Info']);
+    const keywords = get_string(entry['Keywords'])
     const scientific_domain = get_string(entry['Scientific-domain']);
     const application_domain = get_string(entry['Application-domain']);
     const product = get_string(entry['Product']);
@@ -281,11 +282,12 @@ function display_company_entry(entry) {
     txt += `<h3><a target="_blank" href="${url}">${name}</a></h3> ${name_long} <br>\n`;
     txt += `<div class="content">\n`;
     txt += display_div(description, 'description');
+    txt += display_div(keywords, 'keywords', '<strong>Mot clés</strong>: ')
     txt += display_div(info, 'info', '<strong>Remarque</strong>: ');
     txt += display_div(product, 'products', '<strong>Produits</strong>: ');
     txt += display_div(place_txt, 'place', '<strong>Localisation</strong>: ');
 
-    txt += display_div(number_txt, 'employees', "<strong>Nombre employés</strong>: ");
+    txt += display_div(number_txt, 'employees', "<strong>Nombre d'employés</strong>: ");
   
     txt += display_div(scientific_domain, 'scientific-domain', '<strong>Domaine scientifique</strong>: ');
     txt += display_div(application_domain, 'application-domain', "<strong>Domaine d'application</strong>: ");
@@ -306,6 +308,7 @@ function display_company(data, sorted_type) {
 
     if(UX['sorting']['alphabetical'].checked) {
         let N = data.length;
+        HTML_txt += `<br><strong>${N} Entreprises affichées</strong><br>`;
         for(let k=0; k<N; ++k){
             let entry = data[k];
             HTML_txt += display_company_entry(entry);
@@ -320,20 +323,34 @@ function display_company(data, sorted_type) {
             HTML_txt += `<h2 class="title-place">France</h2>\n`
             HTML_txt += '<div class="container-place">\n'
             const all_city = Object.keys(french_entries).sort();
+
+            // Display Paris first
+            const N_companies = data['France']['Paris'].length;
+            HTML_txt += `<h2 class="title-place title-city">Paris (${N_companies} entreprises) </h2>\n`
+            HTML_txt += '<div class="container-place-city">\n'
+            for(let entry_city of data['France']['Paris']) {
+                HTML_txt += display_company_entry(entry_city);
+            }
+            HTML_txt += '</div>\n'
+
             for(let city of all_city) {
-                HTML_txt += `<h2 class="title-place title-city">${city}</h2>\n`
-                HTML_txt += '<div class="container-place-city">\n'
-                for(let entry_city of data['France'][city]) {
-                    HTML_txt += display_company_entry(entry_city);
+                if(city!='Paris'){
+                    const N_companies = data['France'][city].length;
+                    HTML_txt += `<h2 class="title-place title-city">${city} (${N_companies} entreprises)</h2>\n`
+                    HTML_txt += '<div class="container-place-city">\n'
+                    for(let entry_city of data['France'][city]) {
+                        HTML_txt += display_company_entry(entry_city);
+                    }
+                    HTML_txt += '</div>\n'
                 }
-                HTML_txt += '</div>\n'
             }
             HTML_txt += '</div>\n'
         }
 
         for(const country of all_countries) {
             if(country!='France') {
-                HTML_txt += `<h2 class="title-place">${country}</h2>\n`
+                const N_companies = data[country].length;
+                HTML_txt += `<h2 class="title-place">${country} (${N_companies} entreprises)</h2>\n`
                 HTML_txt += '<div class="container-place">\n'
                 for(let entry_country of data[country]) {
                     HTML_txt += display_company_entry(entry_country);
