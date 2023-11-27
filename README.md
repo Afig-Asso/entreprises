@@ -290,6 +290,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.cybergroupstudios.com/about-us/#jobs)
 
 
+* **[Dada! Animation](https://www.dada-animation.com/)**  
+  * _Studio d'animation: Storytelling et conception créative, animation 3D, immersion et interactivité._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Logiciels de CAO, Design et Simulation._
   * **Produits**: Catia,  SolidWorks
@@ -475,6 +482,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 1500
   * **Domaine scientifique/technique**: Modélisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Mode/Vêtements/Accessoires
+
+
+* **[Left Angle](https://www.left-angle.com/?language=en)**  
+  * _Développeur d'outils de VFX, Compositing et Motion Design_
+  * **Localisation**: Grenoble
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Les fées spéciales](https://les-fees-speciales.coop/)**  
@@ -759,6 +773,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: IA
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Superprod Animation](https://www.superprod.net/fr)**  
+  * _Producteur indépendant européen de films et des séries d'animation et de fiction._
+  * **Localisation**: France/Paris, France/Angoulême
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[SysNav](https://www.sysnav.fr/)**  

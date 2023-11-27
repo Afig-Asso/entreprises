@@ -342,6 +342,13 @@
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Dada! Animation
+  url: https://www.dada-animation.com/
+  Description: "Studio d'animation: Storytelling et conception créative, animation 3D, immersion et interactivité."
+  Place: Paris
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+
 - Name: "Dassault Systèmes"
   url: https://www.3ds.com/fr/
   Description: Logiciels de CAO, Design et Simulation.
@@ -574,6 +581,14 @@
   Scientific-domain: [Modélisation, Simulation, Design/Fabrication]
   Application-domain: [Mode/Vêtements/Accessoires]
   Employees: 1500
+
+- Name: Left Angle
+  url: https://www.left-angle.com/?language=en
+  Description: "Développeur d'outils de VFX, Compositing et Motion Design"
+  Note: "Société et fondateur à la base du projet Open Source de compositing <a href=\"https://natron.fr/\">Natron</a>."
+  Place: Grenoble
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Les fées spéciales
   url: https://les-fees-speciales.coop/
@@ -935,6 +950,17 @@
   url: https://studio-draconis.com/
   Scientific-domain: [IA]
   Application-domain: [Jeu Vidéo]
+
+- Name: Superprod Animation
+  url: https://www.superprod.net/fr
+  Description: "Producteur indépendant européen de films et des séries d'animation et de fiction."
+  Place: 
+    - Country: France
+      City: Paris
+    - Country: France
+      City: Angoulême
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: SysNav
   url: https://www.sysnav.fr/

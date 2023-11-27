@@ -2466,6 +2466,52 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "Superprod Animation",
+            "url": "https://www.superprod.net/fr",
+            "Description": "Producteur ind\u00e9pendant europ\u00e9en de films et des s\u00e9ries d'animation et de fiction.",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "France",
+                    "City": "Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Left Angle",
+            "url": "https://www.left-angle.com/?language=en",
+            "Description": "D\u00e9veloppeur d'outils de VFX, Compositing et Motion Design",
+            "Note": "Soci\u00e9t\u00e9 et fondateur \u00e0 la base du projet Open Source de compositing <a href=\"https://natron.fr/\">Natron</a>.",
+            "Place": "Grenoble",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Dada! Animation",
+            "url": "https://www.dada-animation.com/",
+            "Description": "Studio d'animation: Storytelling et conception cr\u00e9ative, animation 3D, immersion et interactivit\u00e9.",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         }
     ]
 }
