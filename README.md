@@ -337,20 +337,19 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.cybergroupstudios.com/about-us/#jobs)
 
 
-<<<<<<< HEAD
 * **[Dada! Animation](https://www.dada-animation.com/)**  
   * _Studio d'animation: Storytelling et conception créative, animation 3D, immersion et interactivité._
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-=======
+
+
 * **[Dark Matters](https://www.darkmatters.one/)**  
   * _Studio de films et VFX_
   * **Localisation**: France/Paris
   * **Domaine scientifique/technique**: Acquisition, Reconstruction
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.darkmatters.one/jobs/)
->>>>>>> 3beb8f70854729695c1e97bc3547fdfbc0512dd2
 
 
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
@@ -931,13 +930,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Autres
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://apply.workable.com/square-enix/)
-
-
-* **[Square Enix](https://www.square-enix-games.com/)**  
-  * _Développement de jeu vidéos_
-  * **Localisation**: France/Paris, International
-  * **Domaine scientifique/technique**: Animation, Synthèse d'image
-  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Stability AI](https://stability.ai/)**  
