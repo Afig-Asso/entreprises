@@ -69,6 +69,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[3DVerse](https://3dverse.com/)**  
+  * _Multi-user 3D web applications_
+  * **Localisation**: Montreal
+  * **Domaine scientifique/technique**: Modélisation, Web/Cloud/Big Data
+  * **Domaine d'application**: Générique
+
+
 * **[3DVF](https://3dvf.com/)**  
   * _Site/magazine spécialisé dans la production graphique_
   * **Localisation**: Paris
@@ -590,7 +597,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.insimo.com/fr/career-2/)
 
 
-* **[Kinetix](https://www.kinetix.tech/)**  
+* **[Kinetix](https://kinetix.tech/)**  
   * _Création d'animation 3D d'humain à partir de capture de video sur smartphone._
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Vision, Animation, IA, Acquisition
@@ -1155,13 +1162,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie
   * **Domaine d'application**: Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile
   * [_Jobs_](https://www.yellowscan-lidar.com/about/career/)
-
-
-* **[Yokai](https://www.yokai.ai/)**  
-  * _Generation de photos modifiées par IA_
-  * **Localisation**: Paris
-  * **Domaine scientifique/technique**: IA, Vision
-  * **Domaine d'application**: Autres
 
 
 * **[ZSpace](https://zspace.com/)**  

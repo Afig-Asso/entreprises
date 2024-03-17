@@ -1553,7 +1553,7 @@
         },
         {
             "Name": "Kinetix",
-            "url": "https://www.kinetix.tech/",
+            "url": "https://kinetix.tech/",
             "Description": "Cr\u00e9ation d'animation 3D d'humain \u00e0 partir de capture de video sur smartphone.",
             "Place": "Paris",
             "Jobs": "https://kinetix-tech.welcomekit.co/",
@@ -3144,19 +3144,6 @@
             ]
         },
         {
-            "Name": "Yokai",
-            "url": "https://www.yokai.ai/",
-            "Description": "Generation de photos modifi\u00e9es par IA",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "IA",
-                "Vision"
-            ],
-            "Application-domain": [
-                "Autres"
-            ]
-        },
-        {
             "Name": "ZSpace",
             "url": "https://zspace.com/",
             "Description": "Stylet d'interaction 3D",
@@ -3168,6 +3155,19 @@
             ],
             "Scientific-domain": [
                 "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "3DVerse",
+            "url": "https://3dverse.com/",
+            "Description": "Multi-user 3D web applications",
+            "Place": "Montreal",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"

@@ -735,7 +735,7 @@
   Jobs: https://www.insimo.com/fr/career-2/
 
 - Name: Kinetix
-  url: https://www.kinetix.tech/
+  url: https://kinetix.tech/
   Description: "Création d'animation 3D d'humain à partir de capture de video sur smartphone."
   Place: Paris
   Jobs: https://kinetix-tech.welcomekit.co/
@@ -1508,12 +1508,12 @@
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Histoire/Archéologie/Muséographie, Mécanique/Ingénierie civile]
 
-- Name: Yokai
-  url: https://www.yokai.ai/
-  Description: "Generation de photos modifiées par IA"
-  Place: Paris
-  Scientific-domain: [IA, Vision]
-  Application-domain: [Autres]
+# - Name: Yokai
+#   url: https://www.yokai.ai/
+#   Description: "Generation de photos modifiées par IA"
+#   Place: Paris
+#   Scientific-domain: [IA, Vision]
+#   Application-domain: [Autres]
 
 - Name: ZSpace
   url: https://zspace.com/
@@ -1524,3 +1524,9 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
+- Name: 3DVerse
+  url: https://3dverse.com/
+  Description: Multi-user 3D web applications
+  Place: Montreal
+  Scientific-domain: [Modélisation, Web/Cloud/Big Data]
+  Application-domain: [Générique]
