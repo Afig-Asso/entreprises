@@ -802,7 +802,7 @@
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Magic Leap
-  url: https://www.magicleap.com/en-us/
+  url: https://www.magicleap.com/
   Description: "Lunettes de réalité augmentée"
   Jobs: https://resources.magicleap.com/en-us/careers
   Place:
@@ -1526,7 +1526,7 @@
 
 - Name: 3DVerse
   url: https://3dverse.com/
-  Description: Multi-user 3D web applications
+  Description: Cloud-Native Real-Time 3D Development Platform
   Place: Montreal
   Scientific-domain: [Modélisation, Web/Cloud/Big Data]
   Application-domain: [Générique]
