@@ -1530,3 +1530,20 @@
   Place: Montreal
   Scientific-domain: [Modélisation, Web/Cloud/Big Data]
   Application-domain: [Générique]
+
+
+- Name: Technodigit
+  url: https://www.linkedin.com/company/technodigit-sarl/
+  Description: 3D point cloud processing from measurement points. Part of Hexagon company.
+  Place: Lyon
+  Scientific-domain: [Acquisition, Reconstruction, Géométrie, Vision, VR/AR]
+  Application-domain: [Générique]
+
+- Name: Hexagon
+  url: https://hexagon.com/
+  Description: "Measuring technology and geospatial tools and software"
+  Place:
+    - Country: Sweden
+      City: Stockholm
+  Scientific-domain: [Acquisition, Reconstruction, Géométrie, Vision, VR/AR]
+  Application-domain: [Générique]

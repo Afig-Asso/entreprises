@@ -1693,7 +1693,7 @@
         },
         {
             "Name": "Magic Leap",
-            "url": "https://www.magicleap.com/en-us/",
+            "url": "https://www.magicleap.com/",
             "Description": "Lunettes de r\u00e9alit\u00e9 augment\u00e9e",
             "Jobs": "https://resources.magicleap.com/en-us/careers",
             "Place": [
@@ -3163,11 +3163,48 @@
         {
             "Name": "3DVerse",
             "url": "https://3dverse.com/",
-            "Description": "Multi-user 3D web applications",
+            "Description": "Cloud-Native Real-Time 3D Development Platform",
             "Place": "Montreal",
             "Scientific-domain": [
                 "Mod\u00e9lisation",
                 "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Technodigit",
+            "url": "https://www.linkedin.com/company/technodigit-sarl/",
+            "Description": "3D point cloud processing from measurement points. Part of Hexagon company.",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "G\u00e9om\u00e9trie",
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Hexagon",
+            "url": "https://hexagon.com/",
+            "Description": "Measuring technology and geospatial tools and software",
+            "Place": [
+                {
+                    "Country": "Sweden",
+                    "City": "Stockholm"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "G\u00e9om\u00e9trie",
+                "Vision",
+                "VR/AR"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"

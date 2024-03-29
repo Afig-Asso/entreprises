@@ -70,7 +70,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 
 * **[3DVerse](https://3dverse.com/)**  
-  * _Multi-user 3D web applications_
+  * _Cloud-Native Real-Time 3D Development Platform_
   * **Localisation**: Montreal
   * **Domaine scientifique/technique**: Modélisation, Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -544,6 +544,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mécanique/Ingénierie civile, Entrainement/Formation/Serious Game
 
 
+* **[Hexagon](https://hexagon.com/)**  
+  * _Measuring technology and geospatial tools and software_
+  * **Localisation**: Sweden/Stockholm
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie, Vision, VR/AR
+  * **Domaine d'application**: Générique
+
+
 * **[I-MC](https://www.i-mc.fr/)**  
   * _Machine autonomes pour des environnement contraints: aeronotique, spatial, défense_
   * **Localisation**: France/Pertuis
@@ -651,7 +658,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
-* **[Magic Leap](https://www.magicleap.com/en-us/)**  
+* **[Magic Leap](https://www.magicleap.com/)**  
   * _Lunettes de réalité augmentée_
   * **Localisation**: USA/Florida, USA/Colorado
   * **Domaine scientifique/technique**: VR/AR
@@ -1006,6 +1013,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Canada/Paris, UK/London
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Technodigit](https://www.linkedin.com/company/technodigit-sarl/)**  
+  * _3D point cloud processing from measurement points. Part of Hexagon company._
+  * **Localisation**: Lyon
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie, Vision, VR/AR
+  * **Domaine d'application**: Générique
 
 
 * **[Thales](https://www.thalesgroup.com/fr)**   :small_orange_diamond: _[Entreprise majeure avec R&D avancée en France]_
