@@ -3295,6 +3295,29 @@
                 "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
             ]
+        },
+        {
+            "Name": "Zag",
+            "url": "https://www.zag.com/",
+            "Description": "Studio d'animation 3D",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Santa Monica"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         }
     ]
 }

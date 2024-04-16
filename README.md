@@ -1227,6 +1227,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.yellowscan-lidar.com/about/career/)
 
 
+* **[Zag](https://www.zag.com/)**  
+  * _Studio d'animation 3D_
+  * **Localisation**: USA/Santa Monica, France/Paris
+  * **Domaine scientifique/technique**: Animation, Synthèse d'image, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[ZSpace](https://zspace.com/)**  
   * _Stylet d'interaction 3D_
   * **Localisation**: USA/San Jose

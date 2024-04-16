@@ -1598,3 +1598,14 @@
   Place: Paris
   Scientific-domain: [VR/AR]
   Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+
+- Name: Zag
+  url: https://www.zag.com/
+  Description: "Studio d'animation 3D"
+  Place: 
+    - Country: USA
+      City: Santa Monica
+    - Country: France
+      City: Paris
+  Scientific-domain: [Animation, Synthèse d'image, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
