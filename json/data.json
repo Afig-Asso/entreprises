@@ -3221,6 +3221,19 @@
             "Application-domain": [
                 "Art/Evenementiel"
             ]
+        },
+        {
+            "Name": "Prophesee.AI",
+            "url": "https://www.prophesee.ai/",
+            "Description": "Dedicated vision sensors and AI for machines",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
         }
     ]
 }

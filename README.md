@@ -845,6 +845,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Prophesee.AI](https://www.prophesee.ai/)**  
+  * _Dedicated vision sensors and AI for machines_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Générique
+
+
 * **[Qarnot Computing](https://qarnot.com/)**  
   * _Calculs sur le Cloud._
   * **Localisation**: Paris (Montrouge)
