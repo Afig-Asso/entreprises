@@ -228,13 +228,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.avtsim.com/careers/)
 
 
-* **[Beam Me Up Games](https://bmugames.com/)**  
-  * _Analyse de comportement pour le jeu vidéo._
-  * **Localisation**: Canada/Montréal
-  * **Domaine scientifique/technique**: Analyse de données, IA
-  * **Domaine d'application**: Jeu Vidéo
-
-
 * **[Bentley](https://www.bentley.com/)**  
   * _Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D"._
   * **Localisation**: USA, UK, Netherlands, France/{Paris, Sophia}, Singapore, New Zealand, India
@@ -608,6 +601,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: IA, Vision
   * **Domaine d'application**: Générique
+
+
+* **[InnerSpace VR](https://www.innerspacevr.com/)**  
+  * _Studio de création d'espace immersifs_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
 * **[InSimo](https://www.insimo.com/)**  

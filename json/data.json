@@ -566,22 +566,6 @@
             ]
         },
         {
-            "Name": "Beam Me Up Games",
-            "Description": "Analyse de comportement pour le jeu vid\u00e9o.",
-            "url": "https://bmugames.com/",
-            "Place": {
-                "City": "Montr\u00e9al",
-                "Country": "Canada"
-            },
-            "Scientific-domain": [
-                "Analyse de donn\u00e9es",
-                "IA"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
             "Name": "Bentley",
             "Description": "D\u00e9veloppement de logiciels pour l'ing\u00e9nierie civile (simulation, visualisation, acquisition). D\u00e9tient l'ancienne entreprise Francaise de reconstruction 3D \"Acute 3D\".",
             "url": "https://www.bentley.com/",
@@ -3297,6 +3281,19 @@
             ],
             "Application-domain": [
                 "Art/Evenementiel"
+            ]
+        },
+        {
+            "Name": "InnerSpace VR",
+            "url": "https://www.innerspacevr.com/",
+            "Description": "Studio de cr\u00e9ation d'espace immersifs",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
             ]
         }
     ]

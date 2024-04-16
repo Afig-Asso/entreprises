@@ -261,12 +261,7 @@
   Scientific-domain: [VR/AR, Simulation]
   Application-domain: [Entrainement/Formation/Serious Game, Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
 
-- Name: Beam Me Up Games
-  Description: Analyse de comportement pour le jeu vidéo.
-  url: https://bmugames.com/
-  Place: {City: Montréal, Country: Canada}
-  Scientific-domain: [Analyse de données, IA]
-  Application-domain: [Jeu Vidéo]
+
 
 - Name: Bentley
   Description: Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D".
@@ -1596,3 +1591,10 @@
   Place: Bordeaux
   Scientific-domain: [Acquisition, VR/AR]
   Application-domain: [Art/Evenementiel]
+
+- Name: InnerSpace VR
+  url: https://www.innerspacevr.com/
+  Description: "Studio de création d'espace immersifs"
+  Place: Paris
+  Scientific-domain: [VR/AR]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
