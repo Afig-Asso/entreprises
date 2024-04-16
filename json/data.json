@@ -3209,6 +3209,18 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "Modulo Pi",
+            "url": "https://www.modulo-pi.com/",
+            "Description": "Media server solutions",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel"
+            ]
         }
     ]
 }

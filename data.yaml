@@ -1547,3 +1547,10 @@
       City: Stockholm
   Scientific-domain: [Acquisition, Reconstruction, Géométrie, Vision, VR/AR]
   Application-domain: [Générique]
+
+- Name: Modulo Pi
+  url: https://www.modulo-pi.com/
+  Description: "Media server solutions"
+  Place: Paris
+  Scientific-domain: [VR/AR]
+  Application-domain: [Art/Evenementiel]

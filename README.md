@@ -727,6 +727,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mode/Vêtements/Accessoires
 
 
+* **[Modulo Pi](https://www.modulo-pi.com/)**  
+  * _Media server solutions_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Art/Evenementiel
+
+
 * **[Movea Tech](https://www.movea-tech.com/)**  
   * _Motion tracking et interface utilisateur, AR/VR._
   * **Localisation**: Grenoble
