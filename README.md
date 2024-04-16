@@ -472,6 +472,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://falconscreativegroup.com/about-us/careers/)
 
 
+* **[Fix Studio](https://www.fixstudio.com)**  
+  * _Studio d'animation_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Focus Entrainment](https://www.focus-entmt.com/fr)**  
   * _Développement de jeu vidéos_
   * **Localisation**: Paris

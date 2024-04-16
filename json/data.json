@@ -3247,6 +3247,19 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "Fix Studio",
+            "url": "https://www.fixstudio.com",
+            "Description": "Studio d'animation",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
         }
     ]
 }

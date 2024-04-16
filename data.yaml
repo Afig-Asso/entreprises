@@ -1568,3 +1568,10 @@
   Place: Paris
   Scientific-domain: [Vision, IA]
   Application-domain: [Générique]
+
+- Name: Fix Studio
+  url: https://www.fixstudio.com
+  Description: "Studio d'animation"
+  Place: Paris
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
