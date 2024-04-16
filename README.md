@@ -1002,6 +1002,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Autres
 
 
+* **[Stormancer](https://www.stormancer.com/)**  
+  * _Jeux vidéos multi-joueurs_
+  * **Localisation**: France/Lille (Tourcoing)
+  * **Domaine scientifique/technique**: Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[StreamRoller](https://www.steamrollerstudios.com/)**  
   * _Studio pour film d'animation, jeux et expérience immersive pour parc d'attraction_
   * **Localisation**: USA/Mount Dora

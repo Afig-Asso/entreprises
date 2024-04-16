@@ -1609,3 +1609,13 @@
       City: Paris
   Scientific-domain: [Animation, Synthèse d'image, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Stormancer
+  url: https://www.stormancer.com/
+  Description: "Jeux vidéos multi-joueurs"
+  Place: 
+    - Country: France
+      City: Lille
+      Exact: Tourcoing
+  Scientific-domain: [Web/Cloud/Big Data]
+  Application-domain: [Jeu Vidéo]

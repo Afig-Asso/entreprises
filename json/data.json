@@ -3318,6 +3318,24 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ]
+        },
+        {
+            "Name": "Stormancer",
+            "url": "https://www.stormancer.com/",
+            "Description": "Jeux vid\u00e9os multi-joueurs",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Lille",
+                    "Exact": "Tourcoing"
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
         }
     ]
 }
