@@ -1561,3 +1561,10 @@
   Place: Paris
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Générique]
+
+- Name: M-Covision 
+  url: https://fr.mcovision.com/
+  Description: "Consulting de R&D en vision et ML"
+  Place: Paris
+  Scientific-domain: [Vision, IA]
+  Application-domain: [Générique]
