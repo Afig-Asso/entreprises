@@ -1575,3 +1575,10 @@
   Place: Paris
   Scientific-domain: [Animation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
+
+- Name: Karyrros
+  url: https://www.kayrros.com/
+  Description: "Satellite-based technology to measrure the footprint of human activity on the environment"
+  Place: Paris
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Autres]

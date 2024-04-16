@@ -3260,6 +3260,19 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ]
+        },
+        {
+            "Name": "Karyrros",
+            "url": "https://www.kayrros.com/",
+            "Description": "Satellite-based technology to measrure the footprint of human activity on the environment",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Autres"
+            ]
         }
     ]
 }

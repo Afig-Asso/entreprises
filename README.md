@@ -611,6 +611,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.insimo.com/fr/career-2/)
 
 
+* **[Karyrros](https://www.kayrros.com/)**  
+  * _Satellite-based technology to measrure the footprint of human activity on the environment_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Autres
+
+
 * **[Kinetix](https://kinetix.tech/)**  
   * _Création d'animation 3D d'humain à partir de capture de video sur smartphone._
   * **Localisation**: Paris
