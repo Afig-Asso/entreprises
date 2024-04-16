@@ -658,6 +658,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[M-Covision](https://fr.mcovision.com/)**  
+  * _Consulting de R&D en vision et ML_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Vision, IA
+  * **Domaine d'application**: Générique
+
+
 * **[Magic Leap](https://www.magicleap.com/)**  
   * _Lunettes de réalité augmentée_
   * **Localisation**: USA/Florida, USA/Colorado

@@ -3234,6 +3234,19 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ]
+        },
+        {
+            "Name": "M-Covision",
+            "url": "https://fr.mcovision.com/",
+            "Description": "Consulting de R&D en vision et ML",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Vision",
+                "IA"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
         }
     ]
 }
