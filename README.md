@@ -402,6 +402,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.dreamwall.be/en/jobs)
 
 
+* **[Dronisos](https://www.dronisos.com/)**  
+  * _Spectacle de drones_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Acquisition, VR/AR
+  * **Domaine d'application**: Art/Evenementiel
+
+
 * **[Dynamixyz](https://www.linkedin.com/company/dynamixyz)**  
   * _Markerless Facial Motion Capture_
   * **Localisation**: France/Rennes

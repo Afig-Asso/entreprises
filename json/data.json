@@ -3285,6 +3285,19 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o"
             ]
+        },
+        {
+            "Name": "Dronisos",
+            "url": "https://www.dronisos.com/",
+            "Description": "Spectacle de drones",
+            "Place": "Bordeaux",
+            "Scientific-domain": [
+                "Acquisition",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel"
+            ]
         }
     ]
 }

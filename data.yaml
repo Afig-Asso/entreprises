@@ -1589,3 +1589,10 @@
   Place: Paris
   Scientific-domain: [Autres]
   Application-domain: [Jeu Vidéo]
+
+- Name: Dronisos 
+  url: https://www.dronisos.com/
+  Description: "Spectacle de drones"
+  Place: Bordeaux
+  Scientific-domain: [Acquisition, VR/AR]
+  Application-domain: [Art/Evenementiel]
