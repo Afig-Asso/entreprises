@@ -3336,6 +3336,55 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o"
             ]
+        },
+        {
+            "Name": "Neural Concept",
+            "Description": "AI for engineering design",
+            "url": "https://www.neuralconcept.com/",
+            "Jobs": "https://www.neuralconcept.com/careers",
+            "Place": [
+                {
+                    "Country": "Switzerland",
+                    "City": "Lausanne"
+                },
+                {
+                    "Country": "Germany",
+                    "City": "Munich"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Mod\u00e9lisation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "NovaQuark",
+            "Description": "Developpement de jeux vid\u00e9os",
+            "url": "https://www.novaquark.com/",
+            "Jobs": "https://www.welcometothejungle.com/en/companies/novaquark/jobs",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montreal"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Animation",
+                "Mod\u00e9lisation",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
         }
     ]
 }

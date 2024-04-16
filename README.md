@@ -785,6 +785,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.mpcvfx.com/careers/)
 
 
+* **[Neural Concept](https://www.neuralconcept.com/)**  
+  * _AI for engineering design_
+  * **Localisation**: Switzerland/Lausanne, Germany/Munich
+  * **Domaine scientifique/technique**: IA, Modélisation, Design/Fabrication
+  * **Domaine d'application**: Mécanique/Ingénierie civile
+  * [_Jobs_](https://www.neuralconcept.com/careers)
+
+
 * **[Newtone Technologies](https://www.linkedin.com/company/newtone-technologies/)**  
   * _Research & Innovation company expert in Image Analysis for skin and hair appearance._
   * **Localisation**: Lyon
@@ -798,6 +806,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Spain/Madrid
   * **Domaine scientifique/technique**: Synthèse d'image
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[NovaQuark](https://www.novaquark.com/)**  
+  * _Developpement de jeux vidéos_
+  * **Localisation**: Canada/Montreal, France/Paris
+  * **Domaine scientifique/technique**: Simulation, Animation, Modélisation, Synthèse d'image
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.welcometothejungle.com/en/companies/novaquark/jobs)
 
 
 * **[nTop](https://www.ntop.com/)**  
