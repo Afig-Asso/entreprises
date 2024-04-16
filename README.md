@@ -665,6 +665,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Lightbulb Crew](https://lightbulbcrew.fr/)**  
+  * _Video Game development_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Autres
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Luxion](https://www.luxion.com/)**  
   * _Logiciel de rendu d'images_
   * **Localisation**: USA/Costa Mesa, Denmark/Aarhus

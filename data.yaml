@@ -1582,3 +1582,10 @@
   Place: Paris
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Autres]
+
+- Name: Lightbulb Crew
+  url: https://lightbulbcrew.fr/
+  Description: "Video Game development"
+  Place: Paris
+  Scientific-domain: [Autres]
+  Application-domain: [Jeu Vidéo]
