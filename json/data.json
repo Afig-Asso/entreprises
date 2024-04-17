@@ -126,6 +126,19 @@
             ]
         },
         {
+            "Name": "3DVerse",
+            "url": "https://3dverse.com/",
+            "Description": "Cloud-Native Real-Time 3D Development Platform",
+            "Place": "Montreal",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "3DVF",
             "Description": "Site/magazine sp\u00e9cialis\u00e9 dans la production graphique",
             "url": "https://3dvf.com/",
@@ -1031,6 +1044,19 @@
             ]
         },
         {
+            "Name": "Dronisos",
+            "url": "https://www.dronisos.com/",
+            "Description": "Spectacle de drones",
+            "Place": "Bordeaux",
+            "Scientific-domain": [
+                "Acquisition",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel"
+            ]
+        },
+        {
             "Name": "Dynamixyz",
             "url": "https://www.linkedin.com/company/dynamixyz",
             "Description": "Markerless Facial Motion Capture",
@@ -1217,6 +1243,19 @@
             "Application-domain": [
                 "Loisir Interactif/Immersion/Metavers",
                 "Art/Evenementiel"
+            ]
+        },
+        {
+            "Name": "Fix Studio",
+            "url": "https://www.fixstudio.com",
+            "Description": "Studio d'animation",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -1422,6 +1461,27 @@
             ]
         },
         {
+            "Name": "Hexagon",
+            "url": "https://hexagon.com/",
+            "Description": "Measuring technology and geospatial tools and software",
+            "Place": [
+                {
+                    "Country": "Sweden",
+                    "City": "Stockholm"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "G\u00e9om\u00e9trie",
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "I-MC",
             "url": "https://www.i-mc.fr/",
             "Description": "Machine autonomes pour des environnement contraints: aeronotique, spatial, d\u00e9fense",
@@ -1520,6 +1580,19 @@
             ]
         },
         {
+            "Name": "InnerSpace VR",
+            "url": "https://www.innerspacevr.com/",
+            "Description": "Studio de cr\u00e9ation d'espace immersifs",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
             "Name": "InSimo",
             "url": "https://www.insimo.com/",
             "Description": "Logiciels de simulation pour la formation m\u00e9dicale et chirurgicale.",
@@ -1534,6 +1607,19 @@
                 "M\u00e9dical/Biologique"
             ],
             "Jobs": "https://www.insimo.com/fr/career-2/"
+        },
+        {
+            "Name": "Kayrros",
+            "url": "https://www.kayrros.com/",
+            "Description": "Satellite-based technology to measrure the footprint of human activity on the environment",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Autres"
+            ]
         },
         {
             "Name": "Kinetix",
@@ -1655,6 +1741,18 @@
             ]
         },
         {
+            "Name": "Lightbulb Crew",
+            "url": "https://lightbulbcrew.fr/",
+            "Description": "Video Game development",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Autres"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Luxion",
             "url": "https://www.luxion.com/",
             "Description": "Logiciel de rendu d'images",
@@ -1673,6 +1771,19 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "M-Covision",
+            "url": "https://fr.mcovision.com/",
+            "Description": "Consulting de R&D en vision et ML",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Vision",
+                "IA"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -1714,6 +1825,21 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Manzalab",
+            "url": "https://www.manzalab.com/",
+            "Description": "Serious Game et creation d'environnement immersifs",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
                 "Entrainement/Formation/Serious Game"
             ]
         },
@@ -1868,6 +1994,18 @@
             ]
         },
         {
+            "Name": "Modulo Pi",
+            "url": "https://www.modulo-pi.com/",
+            "Description": "Media server solutions",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel"
+            ]
+        },
+        {
             "Name": "Movea Tech",
             "url": "https://www.movea-tech.com/",
             "Description": "Motion tracking et interface utilisateur, AR/VR.",
@@ -1910,6 +2048,30 @@
             "Info": "Sous-groupe de Technicolor"
         },
         {
+            "Name": "Neural Concept",
+            "Description": "AI for engineering design",
+            "url": "https://www.neuralconcept.com/",
+            "Jobs": "https://www.neuralconcept.com/careers",
+            "Place": [
+                {
+                    "Country": "Switzerland",
+                    "City": "Lausanne"
+                },
+                {
+                    "Country": "Germany",
+                    "City": "Munich"
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Mod\u00e9lisation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
             "Name": "Newtone Technologies",
             "url": "https://www.linkedin.com/company/newtone-technologies/",
             "Description": "Research & Innovation company expert in Image Analysis for skin and hair appearance.",
@@ -1947,6 +2109,31 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "NovaQuark",
+            "Description": "Developpement de jeux vid\u00e9os",
+            "url": "https://www.novaquark.com/",
+            "Jobs": "https://www.welcometothejungle.com/en/companies/novaquark/jobs",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montreal"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Animation",
+                "Mod\u00e9lisation",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -2160,6 +2347,19 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "Prophesee.AI",
+            "url": "https://www.prophesee.ai/",
+            "Description": "Dedicated vision sensors and AI for machines",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -2470,6 +2670,24 @@
             ]
         },
         {
+            "Name": "Stormancer",
+            "url": "https://www.stormancer.com/",
+            "Description": "Jeux vid\u00e9os multi-joueurs",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Lille",
+                    "Exact": "Tourcoing"
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "StreamRoller",
             "url": "https://www.steamrollerstudios.com/",
             "Description": "Studio pour film d'animation, jeux et exp\u00e9rience immersive pour parc d'attraction",
@@ -2651,6 +2869,22 @@
                 "Jeu Vid\u00e9o"
             ],
             "Info": "Sous-groupe de Technicolor"
+        },
+        {
+            "Name": "Technodigit",
+            "url": "https://www.linkedin.com/company/technodigit-sarl/",
+            "Description": "3D point cloud processing from measurement points. Part of Hexagon company.",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "G\u00e9om\u00e9trie",
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
         },
         {
             "Name": "Thales",
@@ -3128,175 +3362,6 @@
             ]
         },
         {
-            "Name": "ZSpace",
-            "url": "https://zspace.com/",
-            "Description": "Stylet d'interaction 3D",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "San Jose"
-                }
-            ],
-            "Scientific-domain": [
-                "IHM/Haptique"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "3DVerse",
-            "url": "https://3dverse.com/",
-            "Description": "Cloud-Native Real-Time 3D Development Platform",
-            "Place": "Montreal",
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Web/Cloud/Big Data"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Technodigit",
-            "url": "https://www.linkedin.com/company/technodigit-sarl/",
-            "Description": "3D point cloud processing from measurement points. Part of Hexagon company.",
-            "Place": "Lyon",
-            "Scientific-domain": [
-                "Acquisition",
-                "Reconstruction",
-                "G\u00e9om\u00e9trie",
-                "Vision",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Hexagon",
-            "url": "https://hexagon.com/",
-            "Description": "Measuring technology and geospatial tools and software",
-            "Place": [
-                {
-                    "Country": "Sweden",
-                    "City": "Stockholm"
-                }
-            ],
-            "Scientific-domain": [
-                "Acquisition",
-                "Reconstruction",
-                "G\u00e9om\u00e9trie",
-                "Vision",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Modulo Pi",
-            "url": "https://www.modulo-pi.com/",
-            "Description": "Media server solutions",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Art/Evenementiel"
-            ]
-        },
-        {
-            "Name": "Prophesee.AI",
-            "url": "https://www.prophesee.ai/",
-            "Description": "Dedicated vision sensors and AI for machines",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Imagerie",
-                "Vision"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "M-Covision",
-            "url": "https://fr.mcovision.com/",
-            "Description": "Consulting de R&D en vision et ML",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Vision",
-                "IA"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Fix Studio",
-            "url": "https://www.fixstudio.com",
-            "Description": "Studio d'animation",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Animation",
-                "Mod\u00e9lisation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Kayrros",
-            "url": "https://www.kayrros.com/",
-            "Description": "Satellite-based technology to measrure the footprint of human activity on the environment",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Imagerie",
-                "Analyse de donn\u00e9es"
-            ],
-            "Application-domain": [
-                "Autres"
-            ]
-        },
-        {
-            "Name": "Lightbulb Crew",
-            "url": "https://lightbulbcrew.fr/",
-            "Description": "Video Game development",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Autres"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Dronisos",
-            "url": "https://www.dronisos.com/",
-            "Description": "Spectacle de drones",
-            "Place": "Bordeaux",
-            "Scientific-domain": [
-                "Acquisition",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Art/Evenementiel"
-            ]
-        },
-        {
-            "Name": "InnerSpace VR",
-            "url": "https://www.innerspacevr.com/",
-            "Description": "Studio de cr\u00e9ation d'espace immersifs",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o",
-                "Loisir Interactif/Immersion/Metavers"
-            ]
-        },
-        {
             "Name": "Zag",
             "url": "https://www.zag.com/",
             "Description": "Studio d'animation 3D",
@@ -3320,70 +3385,20 @@
             ]
         },
         {
-            "Name": "Stormancer",
-            "url": "https://www.stormancer.com/",
-            "Description": "Jeux vid\u00e9os multi-joueurs",
+            "Name": "ZSpace",
+            "url": "https://zspace.com/",
+            "Description": "Stylet d'interaction 3D",
             "Place": [
                 {
-                    "Country": "France",
-                    "City": "Lille",
-                    "Exact": "Tourcoing"
+                    "Country": "USA",
+                    "City": "San Jose"
                 }
             ],
             "Scientific-domain": [
-                "Web/Cloud/Big Data"
+                "IHM/Haptique"
             ],
             "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Neural Concept",
-            "Description": "AI for engineering design",
-            "url": "https://www.neuralconcept.com/",
-            "Jobs": "https://www.neuralconcept.com/careers",
-            "Place": [
-                {
-                    "Country": "Switzerland",
-                    "City": "Lausanne"
-                },
-                {
-                    "Country": "Germany",
-                    "City": "Munich"
-                }
-            ],
-            "Scientific-domain": [
-                "IA",
-                "Mod\u00e9lisation",
-                "Design/Fabrication"
-            ],
-            "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
-        },
-        {
-            "Name": "NovaQuark",
-            "Description": "Developpement de jeux vid\u00e9os",
-            "url": "https://www.novaquark.com/",
-            "Jobs": "https://www.welcometothejungle.com/en/companies/novaquark/jobs",
-            "Place": [
-                {
-                    "Country": "Canada",
-                    "City": "Montreal"
-                },
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Simulation",
-                "Animation",
-                "Mod\u00e9lisation",
-                "Synth\u00e8se d'image"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
+                "G\u00e9n\u00e9rique"
             ]
         }
     ]

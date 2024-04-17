@@ -876,6 +876,12 @@
   Scientific-domain: [Acquisition, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
 
+- Name: Manzalab
+  url: https://www.manzalab.com/
+  Description: "Serious Game et creation d'environnement immersifs"
+  Place: Paris
+  Scientific-domain: [Modélisation, VR/AR, Web/Cloud/Big Data]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game]
 - Name: MassVirtual
   url: https://massvirtual.com/
   Description: "VR experience"

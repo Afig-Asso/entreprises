@@ -708,6 +708,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game
 
 
+* **[Manzalab](https://www.manzalab.com/)**  
+  * _Serious Game et creation d'environnement immersifs_
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Modélisation, VR/AR, Web/Cloud/Big Data
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game
+
+
 * **[MassVirtual](https://massvirtual.com/)**  
   * _VR experience_
   * **Localisation**: USA/Orlando
