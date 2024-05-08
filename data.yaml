@@ -1283,7 +1283,7 @@
       City: London
     - Country: France
       City: Paris
-    - Country: Allemagne
+    - Country: Germany
       City: Hamburg
     - Country: Japan
       City: Tokyo
@@ -1503,7 +1503,7 @@
     - Country: USA
       City: [San Francisco, New York, Atlanta]
     - Country: India
-    - Country: Allemagne
+    - Country: Germany
     - Country: Pologne
     - International: True
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]

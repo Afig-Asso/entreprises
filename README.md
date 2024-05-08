@@ -1020,7 +1020,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Square Enix](https://www.square-enix-games.com/fr_FR/home)**  
   * _Editeur de jeu vidéos_
-  * **Localisation**: USA/California/Los Angeles, UK/London, France/Paris, Allemagne/Hamburg, Japan/Tokyo
+  * **Localisation**: USA/California/Los Angeles, UK/London, France/Paris, Germany/Hamburg, Japan/Tokyo
   * **Domaine scientifique/technique**: Autres
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://apply.workable.com/square-enix/)
@@ -1171,7 +1171,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développeur de jeux vidéo Français, possédant de nombreux studios à l'international_
   * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal._
-  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montreal, Toronto}, USA/{San Francisco, New York, Atlanta}, India, Allemagne, Pologne, International
+  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montreal, Toronto}, USA/{San Francisco, New York, Atlanta}, India, Germany, Pologne, International
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
