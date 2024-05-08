@@ -903,6 +903,15 @@
   Scientific-domain: [Synthèse d'image, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
+- Name: Meshcapade
+  url: https://meshcapade.com/
+  Description: "Graphics and Vision for interaction in 3D metaverse"
+  Jobs: https://jobs.lever.co/meshcapade
+  Place:
+    - Country: Germany
+      City: Tuebingen
+  Scientific-domain: [Vision, Modélisation, Animation, VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
 - Name: MicroFilms
   url: http://www.microfilms.fr/machinerie-tv/
   Description: "Capture de video pour la télévision"

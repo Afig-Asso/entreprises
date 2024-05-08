@@ -730,6 +730,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Meshcapade](https://meshcapade.com/)**  
+  * _Graphics and Vision for interaction in 3D metaverse_
+  * **Localisation**: Germany/Tuebingen
+  * **Domaine scientifique/technique**: Vision, Modélisation, Animation, VR/AR
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://jobs.lever.co/meshcapade)
+
+
 * **[MicroFilms](http://www.microfilms.fr/machinerie-tv/)**  
   * _Capture de video pour la télévision_
   * **Localisation**: Paris

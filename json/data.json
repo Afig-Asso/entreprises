@@ -1885,6 +1885,27 @@
             ]
         },
         {
+            "Name": "Meshcapade",
+            "url": "https://meshcapade.com/",
+            "Description": "Graphics and Vision for interaction in 3D metaverse",
+            "Jobs": "https://jobs.lever.co/meshcapade",
+            "Place": [
+                {
+                    "Country": "Germany",
+                    "City": "Tuebingen"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Mod\u00e9lisation",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ]
+        },
+        {
             "Name": "MicroFilms",
             "url": "http://www.microfilms.fr/machinerie-tv/",
             "Description": "Capture de video pour la t\u00e9l\u00e9vision",
