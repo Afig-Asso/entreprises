@@ -308,7 +308,7 @@ function display_company(data, sorted_type) {
 
     if(UX['sorting']['alphabetical'].checked) {
         let N = data.length;
-        HTML_txt += `<br><strong>${N} Entreprises affichées</strong><br>`;
+        HTML_txt += `<br><strong>${N} Entreprises repertoriées</strong><br>`;
         for(let k=0; k<N; ++k){
             let entry = data[k];
             HTML_txt += display_company_entry(entry);
