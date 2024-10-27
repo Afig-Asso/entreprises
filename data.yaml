@@ -1659,3 +1659,131 @@
   Scientific-domain: [IHM/Haptique]
   Application-domain: [Générique]
 
+- Name: Marmoset
+  url: https://marmoset.co/
+  Description: "Modeleur et rendu 3D"
+  Place: 
+    - Country: USA
+    - International: True
+  Scientific-domain: [Synthèse d'image, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+
+- Name: Maxon
+  url: https://www.maxon.net/
+  Jobs: https://www.maxon.net/fr/about-maxon/careers
+  Product: [ZBrush, Cinema4D, etc.]
+  Description: "Modeleur 3D"
+  Place: 
+    - Country: USA
+    - Country: Canada
+    - Country: Allemagne
+  Scientific-domain: [Synthèse d'image, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+
+- Name: Imagination Technologies
+  url: https://www.imaginationtech.com/
+  Jobs: https://www.imaginationtech.com/careers/vacancies/
+  Description: "Développement sur GPU d'optimisation graphique"
+  Place: 
+    - Country: UK
+    - Country: Pologne
+  Scientific-domain: [Synthèse d'image, Hardware]
+  Application-domain: [Générique]
+
+- Name: Tech Soft 3D
+  url: https://www.techsoft3d.com/
+  Jobs: https://www.imaginationtech.com/careers/vacancies/
+  Description: "Outils de développements pour la CAO"
+  Place: 
+    - Country: France
+      City: Lyon
+  Scientific-domain: [Design/Fabrication]
+  Application-domain: [Mécanique/Ingénierie civile, Générique]
+
+- Name: Avatar Medical
+  url: https://avatarmedical.ai/
+  Jobs: https://avatarmedical.ai/jobs/
+  Description: "Representations et visualisation en imagerie médicale"
+  Place: 
+    - Country: France
+      City: Paris
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Médical/Biologique]
+
+- Name: LS Group
+  url: https://www.ls-group.fr/
+  Description: "Projets de réalité virtuelle et augmentée"
+  Place: 
+    - Country: France
+      City: Paris
+  Scientific-domain: [VR/AR]
+  Application-domain: [Générique]
+
+- Name: NDunes
+  url: https://www.ls-group.fr/
+  Description: "Outils de visualisation 3D pour l'environnement"
+  Place: 
+    - Country: France
+      City: Paris
+  Scientific-domain: [Visualisation, Synthèse d'image]
+  Application-domain: [Autres]
+
+- Name: Techviz
+  url: https://www.techviz.net/
+  Jobs: https://www.techviz.net/en/careers/
+  Description: "Solution de visualisation 3D par VR/AR"
+  Place: 
+    - Country: France
+      City: Paris
+    - Country: USA
+  Scientific-domain: [VR/AR, Visualisation]
+  Application-domain: [Générique]
+
+
+- Name: Novelab
+  url: https://www.novelab.io/
+  Description: "Studio de création d'expériences VR/AR"
+  Place: 
+    - Country: France
+      City: Paris
+  Scientific-domain: [VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+
+- Name: Agenium
+  url: https://www.agenium.com/
+  Description: "Simulation numérique"
+  Place: 
+    - Country: France
+      City: Toulouse, Paris, Rennes
+  Scientific-domain: [Simulation, Design/Fabrication, Modélisation, Animation]
+  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game]
+
+- Name: Kylotoon
+  url: https://www.kylotonn.com/
+  Description: "Studio de développement de jeux vidéo en sport mécanique"
+  Jobs: https://kylotonn.com/carrieres/
+  Place: 
+    - Country: France
+      City: Paris
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Cyanide Studio
+  url: https://www.cyanide-studio.com/
+  Jobs: https://cyanide-studio.com/fr/nous-rejoindre/
+  Description: "Studio de développement de jeux vidéo"
+  Place: 
+    - Country: France
+      City: Paris
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]
+
+- Name: Eden Games
+  url: https://www.edengames.com/
+  Jobs: https://www.edengames.com/career/
+  Description: "Studio de développement de jeux vidéo"
+  Place: 
+    - Country: France
+      City: Lyon
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Application-domain: [Jeu Vidéo]

@@ -123,6 +123,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
 
 
+* **[Agenium](https://www.agenium.com/)**  
+  * _Simulation numérique_
+  * **Localisation**: France/{Toulouse,  Paris,  Rennes}
+  * **Domaine scientifique/technique**: Simulation, Design/Fabrication, Modélisation, Animation
+  * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game
+
+
 * **[Align Technologies](https://www.aligntech.com/)**  
   * _Dispositif et imagerie médicale pour l'orthodontie_
   * **Localisation**: USA, Suisse/Rotkreuz, Singapore, Brazil/São Paulo
@@ -218,6 +225,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile
   * [_Jobs_](https://www.autodesk.com/careers/overview)
+
+
+* **[Avatar Medical](https://avatarmedical.ai/)**  
+  * _Representations et visualisation en imagerie médicale_
+  * **Localisation**: France/Paris
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://avatarmedical.ai/jobs/)
 
 
 * **[AVT Simulation](https://www.avtsim.com/)**  
@@ -329,6 +344,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Cyanide Studio](https://www.cyanide-studio.com/)**  
+  * _Studio de développement de jeux vidéo_
+  * **Localisation**: France/Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://cyanide-studio.com/fr/nous-rejoindre/)
+
+
 * **[Cyber Group Studios](https://www.cybergroupstudios.com/)**  
   * _Studio de création d'animation pour enfants_
   * **Localisation**: USA/Burbank, France/{Paris, Roubaix}
@@ -415,6 +438,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Analyse de données
   * **Domaine d'application**: Automobile/Navigation/Aviation
   * [_Jobs_](https://www.welcometothejungle.com/en/companies/easymile/jobs)
+
+
+* **[Eden Games](https://www.edengames.com/)**  
+  * _Studio de développement de jeux vidéo_
+  * **Localisation**: France/Lyon
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.edengames.com/career/)
 
 
 * **[Effigy 3D](https://effigy-3d.com/)**  
@@ -596,6 +627,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Imagination Technologies](https://www.imaginationtech.com/)**  
+  * _Développement sur GPU d'optimisation graphique_
+  * **Localisation**: UK, Pologne
+  * **Domaine scientifique/technique**: Synthèse d'image, Hardware
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.imaginationtech.com/careers/vacancies/)
+
+
 * **[InitML](https://clipdrop.co/)**  
   * _Creation d'images par IA_
   * **Localisation**: Paris
@@ -643,6 +682,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.kitware.com/careers/)
 
 
+* **[Kylotoon](https://www.kylotonn.com/)**  
+  * _Studio de développement de jeux vidéo en sport mécanique_
+  * **Localisation**: France/Paris
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://kylotonn.com/carrieres/)
+
+
 * **[Lectra](https://www.lectra.com/fr)**  
   * _Logiciels de conceptions professionels: Model, Automobile, Ameublement_
   * **Localisation**: France/Paris, International
@@ -677,6 +724,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Autres
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[LS Group](https://www.ls-group.fr/)**  
+  * _Projets de réalité virtuelle et augmentée_
+  * **Localisation**: France/Paris
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Générique
 
 
 * **[Luxion](https://www.luxion.com/)**  
@@ -715,11 +769,27 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game
 
 
+* **[Marmoset](https://marmoset.co/)**  
+  * _Modeleur et rendu 3D_
+  * **Localisation**: USA, International
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+
+
 * **[MassVirtual](https://massvirtual.com/)**  
   * _VR experience_
   * **Localisation**: USA/Orlando
   * **Domaine scientifique/technique**: VR/AR, Simulation
   * **Domaine d'application**: Automobile/Navigation/Aviation
+
+
+* **[Maxon](https://www.maxon.net/)**  
+  * _Modeleur 3D_
+  * **Produits**: ZBrush, Cinema4D, etc.
+  * **Localisation**: USA, Canada, Allemagne
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+  * [_Jobs_](https://www.maxon.net/fr/about-maxon/careers)
 
 
 * **[Mercenaries Engineering](http://guerillarender.com/)**  
@@ -800,6 +870,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.mpcvfx.com/careers/)
 
 
+* **[NDunes](https://www.ls-group.fr/)**  
+  * _Outils de visualisation 3D pour l'environnement_
+  * **Localisation**: France/Paris
+  * **Domaine scientifique/technique**: Visualisation, Synthèse d'image
+  * **Domaine d'application**: Autres
+
+
 * **[Neural Concept](https://www.neuralconcept.com/)**  
   * _AI for engineering design_
   * **Localisation**: Switzerland/Lausanne, Germany/Munich
@@ -829,6 +906,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Simulation, Animation, Modélisation, Synthèse d'image
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.welcometothejungle.com/en/companies/novaquark/jobs)
+
+
+* **[Novelab](https://www.novelab.io/)**  
+  * _Studio de création d'expériences VR/AR_
+  * **Localisation**: France/Paris
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
 
 * **[nTop](https://www.ntop.com/)**  
@@ -1085,6 +1169,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://careers.take2games.com/jobs)
 
 
+* **[Tech Soft 3D](https://www.techsoft3d.com/)**  
+  * _Outils de développements pour la CAO_
+  * **Localisation**: France/Lyon
+  * **Domaine scientifique/technique**: Design/Fabrication
+  * **Domaine d'application**: Mécanique/Ingénierie civile, Générique
+  * [_Jobs_](https://www.imaginationtech.com/careers/vacancies/)
+
+
 * **[Technicolor Creative Studios](https://www.technicolorcreative.com/)**  
   * _Entreprise d'animation et de VFX internationale possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games._
   * **Localisation**: France/Paris, Canada/{Montréal, Toronto}, USA/{New York, Chicago, Los Angeles}, UK/London, International
@@ -1107,6 +1199,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Lyon
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie, Vision, VR/AR
   * **Domaine d'application**: Générique
+
+
+* **[Techviz](https://www.techviz.net/)**  
+  * _Solution de visualisation 3D par VR/AR_
+  * **Localisation**: France/Paris, USA
+  * **Domaine scientifique/technique**: VR/AR, Visualisation
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.techviz.net/en/careers/)
 
 
 * **[Thales](https://www.thalesgroup.com/fr)**   :small_orange_diamond: _[Entreprise majeure avec R&D avancée en France]_
