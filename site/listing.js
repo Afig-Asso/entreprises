@@ -250,7 +250,7 @@ function display_company_entry(entry) {
     if(UX['details'].checked==false) {
         return `
         <div id="${id}">\n
-        <h3><a target="_blank" href="${url}">${name}</a></h3> <br>\n
+        <h3><a target="_blank" href="${url}">${name}</a></h3>\n
         </div>
         `;
     }
@@ -279,7 +279,7 @@ function display_company_entry(entry) {
     let txt = ''
 
     txt += `<div id="${id}">\n`;
-    txt += `<h3><a target="_blank" href="${url}">${name}</a></h3> ${name_long} <br>\n`;
+    txt += `<h3><a target="_blank" href="${url}">${name}</a></h3> ${name_long} \n`;
     txt += `<div class="content">\n`;
     txt += display_div(description, 'description');
     txt += display_div(keywords, 'keywords', '<strong>Mot clés</strong>: ')
