@@ -275,6 +275,28 @@
             "Employees": 20000
         },
         {
+            "Name": "Agenium",
+            "url": "https://www.agenium.com/",
+            "Description": "Simulation num\u00e9rique",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Toulouse, Paris, Rennes"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation",
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
             "Name": "Align Technologies",
             "url": "https://www.aligntech.com/",
             "Description": "Dispositif et imagerie m\u00e9dicale pour l'orthodontie",
@@ -555,6 +577,25 @@
                 "M\u00e9canique/Ing\u00e9nierie civile"
             ],
             "Employees": 10000
+        },
+        {
+            "Name": "Avatar Medical",
+            "url": "https://avatarmedical.ai/",
+            "Jobs": "https://avatarmedical.ai/jobs/",
+            "Description": "Representations et visualisation en imagerie m\u00e9dicale",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
         },
         {
             "Name": "AVT Simulation",
@@ -846,6 +887,27 @@
             ]
         },
         {
+            "Name": "Cyanide Studio",
+            "url": "https://www.cyanide-studio.com/",
+            "Jobs": "https://cyanide-studio.com/fr/nous-rejoindre/",
+            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Cyber Group Studios",
             "url": "https://www.cybergroupstudios.com/",
             "Jobs": "https://www.cybergroupstudios.com/about-us/#jobs",
@@ -1101,6 +1163,27 @@
             ],
             "Application-domain": [
                 "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
+            "Name": "Eden Games",
+            "url": "https://www.edengames.com/",
+            "Jobs": "https://www.edengames.com/career/",
+            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Lyon"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -1567,6 +1650,27 @@
             ]
         },
         {
+            "Name": "Imagination Technologies",
+            "url": "https://www.imaginationtech.com/",
+            "Jobs": "https://www.imaginationtech.com/careers/vacancies/",
+            "Description": "D\u00e9veloppement sur GPU d'optimisation graphique",
+            "Place": [
+                {
+                    "Country": "UK"
+                },
+                {
+                    "Country": "Pologne"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
             "Name": "InitML",
             "url": "https://clipdrop.co/",
             "Description": "Creation d'images par IA",
@@ -1671,6 +1775,27 @@
             ]
         },
         {
+            "Name": "Kylotoon",
+            "url": "https://www.kylotonn.com/",
+            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o en sport m\u00e9canique",
+            "Jobs": "https://kylotonn.com/carrieres/",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "Lectra",
             "url": "https://www.lectra.com/fr",
             "Description": "Logiciels de conceptions professionels: Model, Automobile, Ameublement",
@@ -1750,6 +1875,23 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "LS Group",
+            "url": "https://www.ls-group.fr/",
+            "Description": "Projets de r\u00e9alit\u00e9 virtuelle et augment\u00e9e",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
             ]
         },
         {
@@ -1844,6 +1986,27 @@
             ]
         },
         {
+            "Name": "Marmoset",
+            "url": "https://marmoset.co/",
+            "Description": "Modeleur et rendu 3D",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
             "Name": "MassVirtual",
             "url": "https://massvirtual.com/",
             "Description": "VR experience",
@@ -1859,6 +2022,36 @@
             ],
             "Application-domain": [
                 "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
+            "Name": "Maxon",
+            "url": "https://www.maxon.net/",
+            "Jobs": "https://www.maxon.net/fr/about-maxon/careers",
+            "Product": [
+                "ZBrush",
+                "Cinema4D",
+                "etc."
+            ],
+            "Description": "Modeleur 3D",
+            "Place": [
+                {
+                    "Country": "USA"
+                },
+                {
+                    "Country": "Canada"
+                },
+                {
+                    "Country": "Allemagne"
+                }
+            ],
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
             ]
         },
         {
@@ -2042,9 +2235,9 @@
         },
         {
             "Name": "MPC",
-            "url": "https://www.mpcfilm.com/fr/",
+            "url": "https://www.mpcvfx.com/fr/",
             "Description": "Creation de VFX pour le cin\u00e9ma",
-            "Jobs": "https://www.mpcvfx.com/careers/",
+            "Jobs": "https://www.mpcvfx.com/fr/carrieres/",
             "Place": [
                 {
                     "Country": "France",
@@ -2069,13 +2262,31 @@
             "Info": "Sous-groupe de Technicolor"
         },
         {
+            "Name": "NDunes",
+            "url": "https://www.ls-group.fr/",
+            "Description": "Outils de visualisation 3D pour l'environnement",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Autres"
+            ]
+        },
+        {
             "Name": "Neural Concept",
             "Description": "AI for engineering design",
             "url": "https://www.neuralconcept.com/",
             "Jobs": "https://www.neuralconcept.com/careers",
             "Place": [
                 {
-                    "Country": "Switzerland",
+                    "Country": "Suisse",
                     "City": "Lausanne"
                 },
                 {
@@ -2155,6 +2366,23 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Novelab",
+            "url": "https://www.novelab.io/",
+            "Description": "Studio de cr\u00e9ation d'exp\u00e9riences VR/AR",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
             ]
         },
         {
@@ -2321,8 +2549,8 @@
         {
             "Name": "Presagis",
             "Description": "Simulation d'environment dynamique pour la pr\u00e9diction \u00e0 large \u00e9chelle (infrastructure, d\u00e9fense, d\u00e9sastre, etc)",
-            "url": "https://www.presagis.com/en/",
-            "Jobs": "https://cae.wd3.myworkdayjobs.com/Presagis/jobs",
+            "url": "https://www.cae.com/fr/defense-et-securite/ce-que-nous-faisons/systemes-d-entrainement/suites-de-modelisation-et-de-simulation-presagis/",
+            "Jobs": "https://cae.wd3.myworkdayjobs.com/fr-CA/career",
             "Place": [
                 {
                     "Country": "Canada",
@@ -2825,53 +3053,8 @@
             ]
         },
         {
-            "Name": "Technicolor Creative Studios",
-            "Description": "Entreprise d'animation et de VFX internationale poss\u00e9dant les studios MPC, The Mill, Mikros Animation, et Technocolor Games.",
-            "url": "https://www.technicolorcreative.com/",
-            "Jobs": "https://www.technicolorcreative.com/jobs/",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                },
-                {
-                    "Country": "Canada",
-                    "City": [
-                        "Montr\u00e9al",
-                        "Toronto"
-                    ]
-                },
-                {
-                    "Country": "USA",
-                    "City": [
-                        "New York",
-                        "Chicago",
-                        "Los Angeles"
-                    ]
-                },
-                {
-                    "Country": "UK",
-                    "City": "London"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Animation",
-                "Mod\u00e9lisation",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX",
-                "Loisir Interactif/Immersion/Metavers"
-            ],
-            "Employees": 12000
-        },
-        {
             "Name": "Technicolor Games",
-            "url": "https://www.technicolorcreative.com/fr/studios/technicolor-games/",
+            "url": "https://www.technicolorgames.com/",
             "Description": "Creation de Jeux Vid\u00e9os",
             "Place": [
                 {
@@ -2902,6 +3085,47 @@
                 "G\u00e9om\u00e9trie",
                 "Vision",
                 "VR/AR"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Tech Soft 3D",
+            "url": "https://www.techsoft3d.com/",
+            "Jobs": "https://www.imaginationtech.com/careers/vacancies/",
+            "Description": "Outils de d\u00e9veloppements pour la CAO",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Lyon"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Techviz",
+            "url": "https://www.techviz.net/",
+            "Jobs": "https://www.techviz.net/en/careers/",
+            "Description": "Solution de visualisation 3D par VR/AR",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "Country": "USA"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Visualisation"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -3420,275 +3644,6 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Marmoset",
-            "url": "https://marmoset.co/",
-            "Description": "Modeleur et rendu 3D",
-            "Place": [
-                {
-                    "Country": "USA"
-                },
-                {
-                    "International": true
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX",
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Maxon",
-            "url": "https://www.maxon.net/",
-            "Jobs": "https://www.maxon.net/fr/about-maxon/careers",
-            "Product": [
-                "ZBrush",
-                "Cinema4D",
-                "etc."
-            ],
-            "Description": "Modeleur 3D",
-            "Place": [
-                {
-                    "Country": "USA"
-                },
-                {
-                    "Country": "Canada"
-                },
-                {
-                    "Country": "Allemagne"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX",
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Imagination Technologies",
-            "url": "https://www.imaginationtech.com/",
-            "Jobs": "https://www.imaginationtech.com/careers/vacancies/",
-            "Description": "D\u00e9veloppement sur GPU d'optimisation graphique",
-            "Place": [
-                {
-                    "Country": "UK"
-                },
-                {
-                    "Country": "Pologne"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Hardware"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Tech Soft 3D",
-            "url": "https://www.techsoft3d.com/",
-            "Jobs": "https://www.imaginationtech.com/careers/vacancies/",
-            "Description": "Outils de d\u00e9veloppements pour la CAO",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Lyon"
-                }
-            ],
-            "Scientific-domain": [
-                "Design/Fabrication"
-            ],
-            "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Avatar Medical",
-            "url": "https://avatarmedical.ai/",
-            "Jobs": "https://avatarmedical.ai/jobs/",
-            "Description": "Representations et visualisation en imagerie m\u00e9dicale",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Imagerie",
-                "Vision"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
-            "Name": "LS Group",
-            "url": "https://www.ls-group.fr/",
-            "Description": "Projets de r\u00e9alit\u00e9 virtuelle et augment\u00e9e",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "NDunes",
-            "url": "https://www.ls-group.fr/",
-            "Description": "Outils de visualisation 3D pour l'environnement",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Visualisation",
-                "Synth\u00e8se d'image"
-            ],
-            "Application-domain": [
-                "Autres"
-            ]
-        },
-        {
-            "Name": "Techviz",
-            "url": "https://www.techviz.net/",
-            "Jobs": "https://www.techviz.net/en/careers/",
-            "Description": "Solution de visualisation 3D par VR/AR",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                },
-                {
-                    "Country": "USA"
-                }
-            ],
-            "Scientific-domain": [
-                "VR/AR",
-                "Visualisation"
-            ],
-            "Application-domain": [
-                "G\u00e9n\u00e9rique"
-            ]
-        },
-        {
-            "Name": "Novelab",
-            "url": "https://www.novelab.io/",
-            "Description": "Studio de cr\u00e9ation d'exp\u00e9riences VR/AR",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers"
-            ]
-        },
-        {
-            "Name": "Agenium",
-            "url": "https://www.agenium.com/",
-            "Description": "Simulation num\u00e9rique",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Toulouse, Paris, Rennes"
-                }
-            ],
-            "Scientific-domain": [
-                "Simulation",
-                "Design/Fabrication",
-                "Mod\u00e9lisation",
-                "Animation"
-            ],
-            "Application-domain": [
-                "S\u00e9curit\u00e9/D\u00e9fense",
-                "Automobile/Navigation/Aviation",
-                "Entrainement/Formation/Serious Game"
-            ]
-        },
-        {
-            "Name": "Kylotoon",
-            "url": "https://www.kylotonn.com/",
-            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o en sport m\u00e9canique",
-            "Jobs": "https://kylotonn.com/carrieres/",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Cyanide Studio",
-            "url": "https://www.cyanide-studio.com/",
-            "Jobs": "https://cyanide-studio.com/fr/nous-rejoindre/",
-            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Eden Games",
-            "url": "https://www.edengames.com/",
-            "Jobs": "https://www.edengames.com/career/",
-            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Lyon"
-                }
-            ],
-            "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
             ]
         }
     ]

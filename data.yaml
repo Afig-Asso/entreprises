@@ -1069,9 +1069,9 @@
   Application-domain: [Générique]
 
 - Name: MPC 
-  url: https://www.mpcfilm.com/fr/
+  url: https://www.mpcvfx.com/fr/
   Description: "Creation de VFX pour le cinéma"
-  Jobs: https://www.mpcvfx.com/careers/
+  Jobs: https://www.mpcvfx.com/fr/carrieres/
   Place:
     - Country: France
       City: Paris
@@ -1231,8 +1231,8 @@
 
 - Name: Presagis
   Description: "Simulation d'environment dynamique pour la prédiction à large échelle (infrastructure, défense, désastre, etc)"
-  url: https://www.presagis.com/en/
-  Jobs: https://cae.wd3.myworkdayjobs.com/Presagis/jobs
+  url: https://www.cae.com/fr/defense-et-securite/ce-que-nous-faisons/systemes-d-entrainement/suites-de-modelisation-et-de-simulation-presagis/
+  Jobs: https://cae.wd3.myworkdayjobs.com/fr-CA/career
   Place: 
     - Country: Canada
       City: Montréal
@@ -1479,26 +1479,8 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
 
-- Name: Technicolor Creative Studios
-  Description: "Entreprise d'animation et de VFX internationale possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games."
-  url: https://www.technicolorcreative.com/
-  Jobs: https://www.technicolorcreative.com/jobs/
-  Place:
-    - Country: France
-      City: Paris
-    - Country: Canada
-      City: [Montréal,Toronto]
-    - Country: USA
-      City: [New York, Chicago, Los Angeles]
-    - Country: UK
-      City: London
-    - International: True
-  Scientific-domain: [Synthèse d'image, Animation, Modélisation, VR/AR]
-  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
-  Employees: 12000
-
 - Name: Technicolor Games
-  url: https://www.technicolorcreative.com/fr/studios/technicolor-games/
+  url: https://www.technicolorgames.com/
   Description: "Creation de Jeux Vidéos"
   Place: 
     - Country: Canada

@@ -861,13 +861,13 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
-* **[MPC](https://www.mpcfilm.com/fr/)**  
+* **[MPC](https://www.mpcvfx.com/fr/)**  
   * _Creation de VFX pour le cinéma_
   * **Remarque**: _Sous-groupe de Technicolor_
   * **Localisation**: France/Paris, Belgique/Liège, Canada/Montreal
   * **Domaine scientifique/technique**: Synthèse d'image, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-  * [_Jobs_](https://www.mpcvfx.com/careers/)
+  * [_Jobs_](https://www.mpcvfx.com/fr/carrieres/)
 
 
 * **[NDunes](https://www.ls-group.fr/)**  
@@ -879,7 +879,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Neural Concept](https://www.neuralconcept.com/)**  
   * _AI for engineering design_
-  * **Localisation**: Switzerland/Lausanne, Germany/Munich
+  * **Localisation**: Suisse/Lausanne, Germany/Munich
   * **Domaine scientifique/technique**: IA, Modélisation, Design/Fabrication
   * **Domaine d'application**: Mécanique/Ingénierie civile
   * [_Jobs_](https://www.neuralconcept.com/careers)
@@ -980,12 +980,12 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
-* **[Presagis](https://www.presagis.com/en/)**  
+* **[Presagis](https://www.cae.com/fr/defense-et-securite/ce-que-nous-faisons/systemes-d-entrainement/suites-de-modelisation-et-de-simulation-presagis/)**  
   * _Simulation d'environment dynamique pour la prédiction à large échelle (infrastructure, défense, désastre, etc)_
   * **Localisation**: Canada/Montréal, USA/Orlando, France/Paris, Italy, UK
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, IA, Analyse de données
   * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile
-  * [_Jobs_](https://cae.wd3.myworkdayjobs.com/Presagis/jobs)
+  * [_Jobs_](https://cae.wd3.myworkdayjobs.com/fr-CA/career)
 
 
 * **[Primaa](https://www.primaalab.com/)**  
@@ -1177,16 +1177,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.imaginationtech.com/careers/vacancies/)
 
 
-* **[Technicolor Creative Studios](https://www.technicolorcreative.com/)**  
-  * _Entreprise d'animation et de VFX internationale possédant les studios MPC, The Mill, Mikros Animation, et Technocolor Games._
-  * **Localisation**: France/Paris, Canada/{Montréal, Toronto}, USA/{New York, Chicago, Los Angeles}, UK/London, International
-  * **Nombres d'employés**: 12000
-  * **Domaine scientifique/technique**: Synthèse d'image, Animation, Modélisation, VR/AR
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
-  * [_Jobs_](https://www.technicolorcreative.com/jobs/)
-
-
-* **[Technicolor Games](https://www.technicolorcreative.com/fr/studios/technicolor-games/)**  
+* **[Technicolor Games](https://www.technicolorgames.com/)**  
   * _Creation de Jeux Vidéos_
   * **Remarque**: _Sous-groupe de Technicolor_
   * **Localisation**: Canada/Paris, UK/London
