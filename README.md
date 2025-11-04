@@ -344,7 +344,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
-* **[Cyanide Studio](https://www.cyanide-studio.com/)**  
+* **[Cyanide Studio](https://cyanide-studio.com/fr/)**  
   * _Studio de développement de jeux vidéo_
   * **Localisation**: France/Paris
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
@@ -487,7 +487,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.esi-group.com/join-us)
 
 
-* **[EVA](https://www.eva.gg/fr/)** (Esports Virtual Arenas) 
+* **[EVA](https://www.eva.gg/en-FR)** (Esports Virtual Arenas) 
   * _Scenes virtuelles et compétitions pour des jeux de eSports_
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Modélisation, VR/AR, Analyse de données
