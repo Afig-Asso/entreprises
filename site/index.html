@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Listing des entreprises en lien avec l'informatique graphique en France (rendu, VFX, animation, jeu vidéo, CAO, simulation, vision, XR...), maintenu par l'AFIG.">
     <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="listing.css">
     <script src="iframeResizer/iframeResizer.contentWindow.min.js" defer></script>
     <script src="listing.js" defer></script>
-    <title> Listing </title>
+    <title>Entreprises en informatique graphique - AFIG</title>
 </head>
 
-<body> 
+<body>
     <div id="selection-listing-company"></div>
-    <div id="listing-company"></div>
+    <div id="listing-company">
+        <p class="loading-message" role="status">Chargement de la liste des entreprises...</p>
+    </div>
 
     <script src="bootstrap/popper.min.js"></script>
     <script src="bootstrap/bootstrap.min.js"></script>

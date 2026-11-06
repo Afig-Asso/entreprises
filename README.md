@@ -55,7 +55,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[2 minutes](https://2minutes.fr/)**  
   * _Studio production dessins animés._
-  * **Localisation**: Paris, Angoulême, Canada/Montréal, China/Nanjing
+  * **Localisation**: Paris, Angoulême, Canada/Montréal, Chine/Nanjing
   * **Domaine scientifique/technique**: Modélisation, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
@@ -83,14 +83,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[4D Fun](https://4dfun.io/)**  
   * _Capture volumétrique, streaming 4D et expériences XR_
-  * **Localisation**: USA/Los Angeles
+  * **Localisation**: États-Unis/Los Angeles
   * **Domaine scientifique/technique**: Acquisition, VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
 
 * **[4D Pipeline](https://www.4dpipeline.com/)**  
   * _Consulting pour application 3D_
-  * **Localisation**: USA/California
+  * **Localisation**: États-Unis/California
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
   * **Domaine d'application**: Générique
   * [_Jobs_](https://www.4dpipeline.com/jobs)
@@ -106,7 +106,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Activision](https://www.activision.com/)**  
   * _Développeur de jeux vidéo_
   * **Remarque**: _Filiale de Microsoft (Xbox) depuis le rachat d'Activision Blizzard en octobre 2023._
-  * **Localisation**: USA/Los Angeles, International
+  * **Localisation**: États-Unis/Los Angeles, International
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://careers.activision.com/)
@@ -116,7 +116,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * _Dévelopement d'outils créatifs_
   * **Remarque**: _Centre de recherche à Paris_
   * **Produits**: Photoshop, Substance 3D, Premiere, Illustrator, etc.
-  * **Localisation**: USA, Canada, France/Paris, UK, India, International
+  * **Localisation**: États-Unis, Canada, France/Paris, Royaume-Uni, Inde, International
   * **Nombres d'employés**: 31000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Design/Fabrication
   * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
@@ -131,7 +131,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Align Technology](https://www.aligntech.com/)**  
   * _Dispositif et imagerie médicale pour l'orthodontie_
-  * **Localisation**: USA, Suisse/Rotkreuz, Singapore, Brazil/São Paulo
+  * **Localisation**: États-Unis, Suisse/Rotkreuz, Singapour, Brésil/São Paulo
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Médical/Biologique
@@ -156,7 +156,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[AMD](https://www.amd.com/)**  
   * _Développement de processeurs et cartes graphiques: développement matériel et logiciel._
-  * **Localisation**: USA, International
+  * **Localisation**: États-Unis, International
   * **Nombres d'employés**: 31000
   * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D, Rendu offline/VFX
   * **Domaine d'application**: Générique
@@ -184,7 +184,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Animal Logic](https://animallogic.com/)**  
   * _Studio de création d'animation et effets visuels._
   * **Remarque**: _Racheté par Netflix (2022) ; fait partie de Netflix Animation Studios depuis 2024._
-  * **Localisation**: Australia/Sydney, Canada/Vancouver, USA/Burbank
+  * **Localisation**: Australie/Sydney, Canada/Vancouver, États-Unis/Burbank
   * **Nombres d'employés**: 1300
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -199,14 +199,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Ansys](https://ansys.synopsys.com/products/optics/ansys-speos)** (Ansys, part of Synopsys (ex-OPTIS)) 
   * _Éditeur de simulation numérique (groupe Synopsys depuis 2025) ; le centre R&D de La Farlède (ex-OPTIS) développe Speos, logiciel de simulation physique de la lumière et de rendu photoréaliste._
-  * **Localisation**: USA/Canonsburg, France/La Farlède, International
+  * **Localisation**: États-Unis/Canonsburg, France/La Farlède, International
   * **Domaine scientifique/technique**: Simulation, Rendu offline/VFX, Visualisation
   * **Domaine d'application**: Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO, Générique
   * [_Jobs_](https://careers.ansys.com/)
 
 
 * **[Apple](https://www.apple.com/)**  
-  * **Localisation**: USA/Cupertino, International
+  * **Localisation**: États-Unis/Cupertino, International
   * **Nombres d'employés**: 160000
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Hardware, Vision
   * **Domaine d'application**: Générique
@@ -246,7 +246,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * _Logiciels 3D, CAO, Conception, Design_
   * **Remarque**: _Équipe à Rennes issue de Golaem (logiciel de simulation de foules pour les VFX), rachetée par Autodesk en août 2024._
   * **Produits**: Maya, 3DS Max, AutoCAD, Golaem
-  * **Localisation**: USA, Canada, India, UK, Singapore, Norway, France/Rennes, International
+  * **Localisation**: États-Unis, Canada, Inde, Royaume-Uni, Singapour, Norvège, France/Rennes, International
   * **Nombres d'employés**: 15000
   * **Domaine scientifique/technique**: Modélisation, Animation, Design/Fabrication, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO
@@ -263,7 +263,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[AVT Simulation](https://www.avtsim.com/)**  
   * _VR simulation and serious game_
-  * **Localisation**: USA/Orlando
+  * **Localisation**: États-Unis/Orlando
   * **Domaine scientifique/technique**: VR/AR, Simulation
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique
   * [_Jobs_](https://www.avtsim.com/careers/)
@@ -273,7 +273,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * _Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D"._
   * **Remarque**: _Cesium (plateforme ouverte de données géospatiales 3D, Philadelphie) racheté en septembre 2024 et intégré à iTwin._
   * **Produits**: iTwin, Cesium
-  * **Localisation**: USA, UK, Netherlands, France/{Paris, Sophia}, Singapore, New Zealand, India
+  * **Localisation**: États-Unis, Royaume-Uni, Pays-Bas, France/{Paris, Sophia Antipolis}, Singapour, Nouvelle-Zélande, Inde
   * **Nombres d'employés**: 5000
   * **Domaine scientifique/technique**: Modélisation, Simulation, Reconstruction, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Géospatial/Cartographie, Automobile/Navigation/Aviation
@@ -282,7 +282,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Blippar](https://www.blipparstudios.com/)**  
   * _Développement d'outils pour la création de contenu en AR sur smartphone_
-  * **Localisation**: UK/Londres
+  * **Localisation**: Royaume-Uni/Londres
   * **Domaine scientifique/technique**: VR/AR, Modélisation, Web/Cloud/Big Data
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité
 
@@ -304,7 +304,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[BrandXR](https://www.brandxr.io/)**  
   * _No Code VR platform_
-  * **Localisation**: USA/{Orlando, Detroit}
+  * **Localisation**: États-Unis/{Orlando, Detroit}
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
@@ -320,7 +320,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Cavrnus](https://www.cavrnus.com/)**  
   * _Plateforme de Metaverse_
-  * **Localisation**: USA/California/Carlsbad
+  * **Localisation**: États-Unis/California/Carlsbad
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
@@ -336,7 +336,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Christie](https://www.christiedigital.com/en-gb)**  
   * _Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc)._
-  * **Localisation**: USA/California, Canada/Ontario
+  * **Localisation**: États-Unis/California, Canada/Ontario
   * **Nombres d'employés**: 2000
   * **Domaine scientifique/technique**: VR/AR, Visualisation
   * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers
@@ -369,7 +369,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[CLO Virtual Fashion](https://www.clo3d.com/en/)**  
   * _Logiciel de simulation de vêtements virtuels_
   * **Produits**: Marvelous Designer, Clo3D
-  * **Localisation**: Korea, USA, International
+  * **Localisation**: Corée du Sud, États-Unis, International
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Design/Fabrication
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires
   * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
@@ -396,7 +396,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Logiciels de CAO, Design et Simulation._
   * **Produits**: Catia, SolidWorks
-  * **Localisation**: France/{Paris, Aix en Provence}, USA, China, International
+  * **Localisation**: France/{Paris, Aix-en-Provence}, États-Unis, Chine, International
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Modélisation, Simulation, Géométrie, Design/Fabrication
   * **Domaine d'application**: Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO, Médical/Biologique
@@ -421,7 +421,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[DigitalFish](https://www.digitalfish.com/)**  
   * _Outils pour l'animation 3D, 2D et VR_
   * **Produits**: [Reflex](https://www.digitalfish.com/reflex/), [Lune](https://www.digitalfish.com/lune/)
-  * **Localisation**: USA/California/San Mateo
+  * **Localisation**: États-Unis/California/San Mateo
   * **Domaine scientifique/technique**: Animation, VR/AR, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.digitalfish.com/careers/)
@@ -429,7 +429,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Disney](https://www.disneystudios.com/)**  
   * **Remarque**: _<a href="https://studios.disneyresearch.com/">Disney Research</a> implanté à Zurich est l'un des plus gros centre de R&amp;D en graphique._
-  * **Localisation**: USA, International
+  * **Localisation**: États-Unis, International
   * **Nombres d'employés**: 220000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Simulation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes
@@ -455,7 +455,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Dronisos](https://www.dronisos.com/)**  
   * _Spectacle de drones_
-  * **Localisation**: France/Bordeaux, USA/Orlando
+  * **Localisation**: France/Bordeaux, États-Unis/Orlando
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Acquisition, VR/AR
   * **Domaine d'application**: Art/Evenementiel
@@ -471,7 +471,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Easy Mile](https://easymile.com/)**  
   * _Véhicules autonomes industriels (logistique, aéroports, sites industriels) : perception et logiciels de conduite autonome._
-  * **Localisation**: France/Toulouse, Germany/Berlin
+  * **Localisation**: France/Toulouse, Allemagne/Berlin
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Analyse de données
   * **Domaine d'application**: Automobile/Navigation/Aviation
@@ -507,7 +507,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Epic Games](https://www.epicgames.com/site/en-US/home)**  
   * _Développeur de jeu et du moteur 3D Unreal Engine_
   * **Produits**: [Unreal Engine](https://www.unrealengine.com/)
-  * **Localisation**: USA, International
+  * **Localisation**: États-Unis, International
   * **Nombres d'employés**: 2000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
@@ -558,7 +558,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Falcon's Creative Group](https://falconscreativegroup.com/)**  
   * _Creation d'expérience immersive pour les parcs d'attractions_
   * **Remarque**: _Division de Falcon's Beyond Global (Nasdaq : FBYD)._
-  * **Localisation**: USA/Orlando
+  * **Localisation**: États-Unis/Orlando
   * **Domaine scientifique/technique**: VR/AR, Animation
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel
   * [_Jobs_](https://falconscreativegroup.com/careers/)
@@ -583,7 +583,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Gameloft](https://www.gameloft.com/)**  
   * _Développement de jeux vidéos orientés mobile._
-  * **Localisation**: France/Paris, USA, Canada, Spain, India, International
+  * **Localisation**: France/Paris, États-Unis, Canada, Espagne, Inde, International
   * **Nombres d'employés**: 2400
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
@@ -618,7 +618,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Google](https://about.google/)**  
   * **Remarque**: _<a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique_
-  * **Localisation**: USA/Mountain View, International
+  * **Localisation**: États-Unis/Mountain View, International
   * **Nombres d'employés**: 140000
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -635,7 +635,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[GridRaster](https://gridraster.com/)**  
   * _Spatial Mapping, Recognition and Alignment for XR_
-  * **Localisation**: USA/California/Mountain View, India/Bengaluru
+  * **Localisation**: États-Unis/California/Mountain View, Inde/Bengaluru
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, VR/AR
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
   * [_Jobs_](https://gridraster.com/careers-jobs/)
@@ -657,7 +657,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Hexagon](https://hexagon.com/)**  
   * _Measuring technology and geospatial tools and software_
-  * **Localisation**: Sweden/Stockholm
+  * **Localisation**: Suède/Stockholm
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie, Vision
   * **Domaine d'application**: Géospatial/Cartographie, Industrie/Manufacturing/CAO
 
@@ -710,7 +710,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Imagination Technologies](https://www.imaginationtech.com/)**  
   * _Développement sur GPU d'optimisation graphique_
-  * **Localisation**: UK, Pologne
+  * **Localisation**: Royaume-Uni, Pologne
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware
   * **Domaine d'application**: Générique
   * [_Jobs_](https://www.imaginationtech.com/careers/vacancies/)
@@ -732,7 +732,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[inHEART](https://www.inheartmedical.com/)**  
   * _Jumeau numérique 3D du coeur du patient construit à partir de l'imagerie médicale (IA et simulation) pour guider l'ablation des arythmies._
-  * **Localisation**: Pessac, USA/Boston
+  * **Localisation**: Pessac, États-Unis/Boston
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Simulation
   * **Domaine d'application**: Médical/Biologique
 
@@ -767,7 +767,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * _Logiciel de rendu d'images (KeyShot Studio) et gestion d'actifs numériques_
   * **Remarque**: _Luxion a fusionné avec Digizuite et a été renommée KeyShot en 2024._
   * **Produits**: KeyShot Studio, KeyShot Dock
-  * **Localisation**: USA/Costa Mesa, Denmark/Aarhus
+  * **Localisation**: États-Unis/Costa Mesa, Danemark/Aarhus
   * **Domaine scientifique/technique**: Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.keyshot.com/careers/)
@@ -785,7 +785,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Kitware](https://www.kitware.com/)**  
   * _Développement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de développement open-source._
   * **Produits**: ParaView, VTK, 3D Slicer, ITK, CMake
-  * **Localisation**: USA, France/Lyon
+  * **Localisation**: États-Unis, France/Lyon
   * **Nombres d'employés**: 200
   * **Domaine scientifique/technique**: Visualisation, Imagerie, Vision, Reconstruction
   * **Domaine d'application**: Médical/Biologique, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO
@@ -867,14 +867,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Magic Leap](https://www.magicleap.com/)**  
   * _Optique pour la réalité augmentée (guides d'onde) et prototypage de lunettes AR_
   * **Remarque**: _En 2026, Magic Leap abandonne ses propres casques pour devenir fournisseur de guides d'onde (partenariat avec Google) ; plusieurs centaines de licenciements._
-  * **Localisation**: USA/Florida, USA/Colorado
+  * **Localisation**: États-Unis/Florida, États-Unis/Colorado
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Générique
 
 
 * **[Manus](https://www.manus-meta.com/)**  
   * _Motion capture and extended reality system_
-  * **Localisation**: Netherlands/Eindhoven
+  * **Localisation**: Pays-Bas/Eindhoven
   * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game
 
@@ -889,14 +889,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Marmoset](https://marmoset.co/)**  
   * _Modeleur et rendu 3D_
-  * **Localisation**: USA, International
+  * **Localisation**: États-Unis, International
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
 
 
 * **[MassVirtual](https://massvirtual.com/)**  
   * _VR experience_
-  * **Localisation**: USA/Orlando
+  * **Localisation**: États-Unis/Orlando
   * **Nombres d'employés**: 100
   * **Domaine scientifique/technique**: VR/AR, Simulation
   * **Domaine d'application**: Automobile/Navigation/Aviation
@@ -913,7 +913,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Maxon](https://www.maxon.net/)**  
   * _Modeleur 3D_
   * **Produits**: ZBrush, Cinema4D, etc.
-  * **Localisation**: USA, Canada, Allemagne
+  * **Localisation**: États-Unis, Canada, Allemagne
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
   * [_Jobs_](https://www.maxon.net/fr/about-maxon/careers)
@@ -930,7 +930,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Meta](https://ai.meta.com/research/)**  
   * _Groupe technologique ; son laboratoire FAIR Paris (ouvert en 2015) mène des recherches en IA et vision par ordinateur (DINOv2/DINOv3)._
-  * **Localisation**: USA/Menlo Park, France/Paris, International
+  * **Localisation**: États-Unis/Menlo Park, France/Paris, International
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, VR/AR, Reconstruction
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Générique
   * [_Jobs_](https://www.metacareers.com/)
@@ -946,7 +946,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Microsoft](https://www.microsoft.com/)**  
   * **Remarque**: _<a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique._
-  * **Localisation**: USA/Redmond, International
+  * **Localisation**: États-Unis/Redmond, International
   * **Nombres d'employés**: 228000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, IA générative (image/3D), Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -956,7 +956,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Mikros Animation](https://www.mikrosanimation.com/fr/)**  
   * _Creation d'Animation 3D_
   * **Remarque**: _Société du groupe Rodeo FX depuis 2025 (rachat après la faillite de Technicolor)._
-  * **Localisation**: France/Paris, Canada/Montreal, India/Bangalore
+  * **Localisation**: France/Paris, Canada/Montréal, Inde/Bangalore
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.mikrosanimation.com/en/people-and-culture/careers/)
@@ -997,7 +997,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[MPC / The Mill](https://www.themill.com/)**  
   * _Création de VFX pour le cinéma, les séries et la publicité (studios MPC et The Mill)_
   * **Remarque**: _MPC et The Mill, anciens studios du groupe Technicolor, ont été repris par TransPerfect en 2025 après la faillite de Technicolor, puis réunis sous la marque The Mill en juin 2026. Le site <a href="https://www.mpcvfx.com/fr/">MPC Paris</a> reste actif._
-  * **Localisation**: France/Paris, UK/London, Belgique/Liège, India/Bangalore
+  * **Localisation**: France/Paris, Royaume-Uni/London, Belgique/Liège, Inde/Bangalore
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
   * [_Jobs_](https://www.mpcvfx.com/fr/carrieres/)
@@ -1020,7 +1020,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Neural Concept](https://www.neuralconcept.com/)**  
   * _AI for engineering design_
-  * **Localisation**: Suisse/Lausanne, Germany/Munich
+  * **Localisation**: Suisse/Lausanne, Allemagne/Munich
   * **Nombres d'employés**: 100
   * **Domaine scientifique/technique**: Modélisation, Design/Fabrication, Simulation
   * **Domaine d'application**: Industrie/Manufacturing/CAO
@@ -1038,14 +1038,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Next Limit](https://nextlimit.com/)**  
   * _Moteur de rendu et de simulation_
   * **Produits**: [RealFlow](https://realflow.com/), [Maxwell Render](https://maxwellrender.com/)
-  * **Localisation**: Spain/Madrid
+  * **Localisation**: Espagne/Madrid
   * **Domaine scientifique/technique**: Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[NovaQuark](https://www.novaquark.com/)**  
   * _Developpement de jeux vidéos_
-  * **Localisation**: Canada/Montreal, France/Paris
+  * **Localisation**: Canada/Montréal, France/Paris
   * **Nombres d'employés**: 70
   * **Domaine scientifique/technique**: Simulation, Animation, Modélisation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
@@ -1062,7 +1062,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[nTop](https://www.ntop.com/)**  
   * _Modélisation et simulation mécanique à partir de surfaces implicites._
-  * **Localisation**: USA/New York
+  * **Localisation**: États-Unis/New York
   * **Domaine scientifique/technique**: Modélisation, Design/Fabrication, Simulation
   * **Domaine d'application**: Industrie/Manufacturing/CAO
   * [_Jobs_](https://jobs.gem.com/ntop)
@@ -1071,7 +1071,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[NVidia](https://www.nvidia.com/)**  
   * _Développement de cartes graphiques materiel et logiciel_
   * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
-  * **Localisation**: USA/California/Santa Clara, France/Paris, International
+  * **Localisation**: États-Unis/California/Santa Clara, France/Paris, International
   * **Nombres d'employés**: 42000
   * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D, IA générative (image/3D), Simulation
   * **Domaine d'application**: Générique
@@ -1087,7 +1087,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[OptiTrack](https://optitrack.com/)**  
   * _Motion capture pour les effets spéciaux au cinéma_
-  * **Localisation**: USA/Oregon/Corvallis
+  * **Localisation**: États-Unis/Oregon/Corvallis
   * **Domaine scientifique/technique**: Acquisition, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://optitrack.com/careers)
@@ -1104,7 +1104,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Otoy](https://home.otoy.com/)**  
   * _Logiciel de rendu graphique sur le cloud, et capture_
   * **Produits**: Octane Render
-  * **Localisation**: USA/Los Angeles
+  * **Localisation**: États-Unis/Los Angeles
   * **Domaine scientifique/technique**: Rendu offline/VFX, Acquisition
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
@@ -1120,7 +1120,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Overlay](https://www.figmin.com/)**  
   * _Plateforme de réalité augmentée_
   * **Produits**: Figmin XR
-  * **Localisation**: USA/Portland
+  * **Localisation**: États-Unis/Portland
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
@@ -1222,7 +1222,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Roblox](https://www.roblox.com/)**  
   * _Plateforme de jeu ouvert orienté création et metavers_
   * **Remarque**: _Développe une entité de <a href="https://research.roblox.com/">recherche internationale</a>_
-  * **Localisation**: USA/San Mateo
+  * **Localisation**: États-Unis/San Mateo
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://careers.roblox.com/)
@@ -1230,7 +1230,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Roboflow](https://roboflow.com/)**  
   * _Computer Vision models_
-  * **Localisation**: USA/{New York, San Francisco}
+  * **Localisation**: États-Unis/{New York, San Francisco}
   * **Domaine scientifique/technique**: Analyse de données, Vision
   * **Domaine d'application**: Générique
   * [_Jobs_](https://roboflow.com/careers)
@@ -1261,7 +1261,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Shot Over](https://shotover.com/)** (SHOTOVER Systems) 
   * _Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc)._
   * **Remarque**: _Issu de la fusion en 2020 de SHOTOVER Camera Systems (Queenstown, Nouvelle-Zélande) et Churchill Navigation (Boulder, Colorado)._
-  * **Localisation**: USA/Colorado/Boulder, New Zealand/Queenstown
+  * **Localisation**: États-Unis/Colorado/Boulder, Nouvelle-Zélande/Queenstown
   * **Domaine scientifique/technique**: Acquisition, Imagerie, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel, Sécurité/Défense
 
@@ -1285,7 +1285,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Simerics](https://www.simerics.com/)**  
   * _CAD simulation_
-  * **Localisation**: USA/Washington/Bellevue
+  * **Localisation**: États-Unis/Washington/Bellevue
   * **Domaine scientifique/technique**: Simulation, Design/Fabrication
   * **Domaine d'application**: Automobile/Navigation/Aviation
   * [_Jobs_](https://www.simerics.com/careers/)
@@ -1316,7 +1316,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Square Enix](https://www.square-enix-games.com/fr_FR/home)**  
   * _Editeur de jeu vidéos_
-  * **Localisation**: USA/California/Los Angeles, UK/London, France/Paris, Germany/Hamburg, Japan/Tokyo
+  * **Localisation**: États-Unis/California/Los Angeles, Royaume-Uni/London, France/Paris, Allemagne/Hamburg, Japon/Tokyo
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://apply.workable.com/square-enix/)
@@ -1324,14 +1324,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Stability AI](https://stability.ai/)**  
   * _IA générative pour le son, l'image et les modèles 3D._
-  * **Localisation**: UK/London, Japan/Tokyo
+  * **Localisation**: Royaume-Uni/London, Japon/Tokyo
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision
   * **Domaine d'application**: Générique, Cinéma/Films d'Animation/VFX
 
 
 * **[Steamroller Studios](https://www.steamrollerstudios.com/)**  
   * _Studio pour film d'animation, jeux et expérience immersive pour parc d'attraction_
-  * **Localisation**: USA/Mount Dora, Canada/Vancouver, Mauritius
+  * **Localisation**: États-Unis/Mount Dora, Canada/Vancouver, Maurice
   * **Nombres d'employés**: 260
   * **Domaine scientifique/technique**: Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
@@ -1347,7 +1347,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Strollhunt](https://strollhunt.com/)**  
   * _Jeux dans la ville en AR_
-  * **Localisation**: UK/London
+  * **Localisation**: Royaume-Uni/London
   * **Domaine scientifique/technique**: Vision, VR/AR
   * **Domaine d'application**: Jeu Vidéo
 
@@ -1381,7 +1381,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Take-Two Interactive](https://www.take2games.com/)**  
   * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K) ainsi que l'équipe de R&D Dynamixyz à Rennes._
   * **Remarque**: _Équipe de R&D à Cesson-Sévigné (Rennes) issue de Dynamixyz (capture faciale sans marqueurs), rachetée en 2021 : travaille pour les studios du groupe (Rockstar, 2K) et publie dans les conférences de graphique._
-  * **Localisation**: USA/New York, France/Rennes (Cesson-Sévigné), France/Paris, International
+  * **Localisation**: États-Unis/New York, France/Rennes (Cesson-Sévigné), France/Paris, International
   * **Nombres d'employés**: 12900
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition, Vision
   * **Domaine d'application**: Jeu Vidéo
@@ -1406,7 +1406,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Tech Soft 3D](https://www.techsoft3d.com/)**  
   * _Outils de développement (SDK HOOPS, échange de données CAO, visualisation 3D) pour la CAO/IAO_
-  * **Localisation**: France/{Lyon, Sophia Antipolis}, USA/Oregon/Bend, International
+  * **Localisation**: France/{Lyon, Sophia Antipolis}, États-Unis/Oregon/Bend, International
   * **Domaine scientifique/technique**: Design/Fabrication, Visualisation, Géométrie
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Générique
   * [_Jobs_](https://www.techsoft3d.com/company/#careers)
@@ -1415,7 +1415,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Technicolor Games](https://www.technicolorgames.com/)**  
   * _Creation de Jeux Vidéos_
   * **Remarque**: _Racheté en mars 2025 par TransPerfect (division TransPerfect Gaming) après la faillite du groupe Technicolor._
-  * **Localisation**: India/Bangalore, International
+  * **Localisation**: Inde/Bangalore, International
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Jeu Vidéo
 
@@ -1430,7 +1430,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Techviz](https://www.techviz.net/)**  
   * _Solution de visualisation 3D par VR/AR_
-  * **Localisation**: France/Paris, USA
+  * **Localisation**: France/Paris, États-Unis
   * **Nombres d'employés**: 30
   * **Domaine scientifique/technique**: VR/AR, Visualisation
   * **Domaine d'application**: Générique
@@ -1449,7 +1449,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[The Foundry](https://www.foundry.com/)**  
   * _Développement de logiciels pour la création 3D et VFX_
   * **Produits**: [Nuke](https://www.foundry.com/products/nuke-family), [Katana](https://www.foundry.com/products/katana), [Mari](https://www.foundry.com/products/mari)
-  * **Localisation**: UK, USA, Australia
+  * **Localisation**: Royaume-Uni, États-Unis, Australie
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://apply.workable.com/foundry/)
@@ -1467,7 +1467,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[The Yard VFX](https://theyard-vfx.com/)**  
   * _Création d'effets visuels photoréalistes pour le cinéma (VFX)_
   * **Mots clés**: _Graphics, VFX, Pipeline_
-  * **Localisation**: France/{Paris, Montpellier} (Vanves), UK/London
+  * **Localisation**: France/{Paris, Montpellier} (Vanves), Royaume-Uni/London
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Simulation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1492,7 +1492,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Thermo Fisher Scientific](https://www.thermofisher.com/amira-avizo)**  
   * _Groupe d'instrumentation scientifique ; son site de Bordeaux (FEI SAS, ex-Visualization Sciences Group) développe les logiciels de visualisation et d'analyse 3D Amira et Avizo._
-  * **Localisation**: USA/Waltham, France/Bordeaux, International
+  * **Localisation**: États-Unis/Waltham, France/Bordeaux, International
   * **Domaine scientifique/technique**: Visualisation, Imagerie
   * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO
   * [_Jobs_](https://jobs.thermofisher.com/)
@@ -1516,7 +1516,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développeur de jeux vidéo Français, possédant de nombreux studios à l'international_
   * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal. Depuis fin 2025, les licences Assassin's Creed, Far Cry et Rainbow Six sont gérées par la filiale Vantage Studios (participation de Tencent). Restructuration importante en 2026 (fermetures de studios hors de France)._
-  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montreal, Toronto}, USA/{San Francisco, New York, Atlanta}, India, Germany, Pologne, International
+  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montréal, Toronto}, États-Unis/{San Francisco, New York, Atlanta}, Inde, Allemagne, Pologne, International
   * **Nombres d'employés**: 16500
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -1534,7 +1534,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Unity Technologies](https://unity.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développement du moteur de jeu Unity et produits associés_
   * **Remarque**: _Equipes de développement en France: <a target="_blank" href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a target="_blank" href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a target="_blank" href="https://unity.com/products/sentis">IA</a> (Lille)_
-  * **Localisation**: USA, France/{Paris, Grenoble, Compiegne, Lille}, Canada, Denmark, Finland, UK, Lituanie, Germany, Belgique, Suisse, International
+  * **Localisation**: États-Unis, France/{Paris, Grenoble, Compiègne, Lille}, Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse, International
   * **Nombres d'employés**: 7000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
@@ -1554,7 +1554,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Vicon](https://www.vicon.com/)**  
   * _Système de Motion Capture_
   * **Remarque**: _Filiale du groupe Oxford Metrics._
-  * **Localisation**: UK/Oxford
+  * **Localisation**: Royaume-Uni/Oxford
   * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game
   * [_Jobs_](https://www.vicon.com/careers/)
@@ -1570,7 +1570,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Virtuos](https://www.virtuosgames.com/)**  
   * _Studio de co-développement de jeux vidéo (portages, remasters, production d'art 3D)_
-  * **Localisation**: China/Shanghai, Singapore, France/{Paris, Lyon, Montpellier} (Cergy), International
+  * **Localisation**: Chine/Shanghai, Singapour, France/{Paris, Lyon, Montpellier} (Cergy), International
   * **Nombres d'employés**: 3600
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -1586,14 +1586,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[VizGraphics](https://vizgraphics.com/)**  
   * _Visualisation architecturale : rendus 3D photoréalistes, animations, visites virtuelles et expériences VR pour l'immobilier._
-  * **Localisation**: USA/Conifer
+  * **Localisation**: États-Unis/Conifer
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
 
 
 * **[Wacom](https://www.wacom.com/)**  
   * _Tablettes et écran tactile pour la création graphique_
-  * **Localisation**: Japan/Saitama, Germany/Dusseldorf, USA/Oregon/Portland, International
+  * **Localisation**: Japon/Saitama, Allemagne/Dusseldorf, États-Unis/Oregon/Portland, International
   * **Domaine scientifique/technique**: Hardware, Acquisition
   * **Domaine d'application**: Générique
   * [_Jobs_](https://www.wacom.com/en-us/about-wacom/careers-at-wacom)
@@ -1620,7 +1620,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[WetaFX](https://www.wetafx.co.nz/)**  
   * _Effets visuels pour le cinéma_
   * **Remarque**: _Entreprise majeure du domaine des VFX avec équipe de recherche active._
-  * **Localisation**: New Zealand/Wellington
+  * **Localisation**: Nouvelle-Zélande/Wellington
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Acquisition
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://careers.wetafx.co.nz/)
@@ -1645,14 +1645,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Zag](https://www.zag.com/)**  
   * _Studio d'animation 3D (Miraculous, les aventures de Ladybug et Chat Noir)_
   * **Remarque**: _La franchise Miraculous est gérée depuis 2024 par Miraculous Corp., coentreprise de Mediawan et Zag._
-  * **Localisation**: France/Paris, USA/Santa Monica
+  * **Localisation**: France/Paris, États-Unis/Santa Monica
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[ZSpace](https://zspace.com/)**  
   * _Ordinateurs portables de réalité augmentée/3D stéréoscopique sans casque, avec stylet d'interaction 3D, pour l'éducation (STEM, formation technique)_
-  * **Localisation**: USA/San Jose
+  * **Localisation**: États-Unis/San Jose
   * **Domaine scientifique/technique**: IHM/Haptique, VR/AR
   * **Domaine d'application**: Entrainement/Formation/Serious Game
 

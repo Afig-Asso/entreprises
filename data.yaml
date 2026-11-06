@@ -47,7 +47,7 @@
     - City: Angoulême
     - Country: Canada
       City: Montréal
-    - Country: China
+    - Country: Chine
       City: Nanjing
   Scientific-domain: [Modélisation, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -79,7 +79,7 @@
   Description: Capture volumétrique, streaming 4D et expériences XR
   url: https://4dfun.io/
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Los Angeles
   Scientific-domain: [Acquisition, VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
@@ -89,7 +89,7 @@
   Description: Consulting pour application 3D
   Jobs: https://www.4dpipeline.com/jobs
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: California
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production]
   Application-domain: [Générique]
@@ -106,7 +106,7 @@
   Description: Développeur de jeux vidéo
   Jobs: https://careers.activision.com/
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: [Los Angeles]
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
@@ -117,12 +117,12 @@
   url: https://www.adobe.com/fr/
   Description: Dévelopement d'outils créatifs
   Place:
-    - Country: USA
+    - Country: États-Unis
     - Country: Canada
     - Country: France
       City: Paris
-    - Country: UK
-    - Country: India
+    - Country: Royaume-Uni
+    - Country: Inde
     - International: true
   Product: [Photoshop, Substance 3D, Premiere, Illustrator, etc.]
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation, Design/Fabrication]
@@ -142,11 +142,11 @@
   url: https://www.aligntech.com/
   Description: Dispositif et imagerie médicale pour l'orthodontie
   Place:
-    - Country: USA
+    - Country: États-Unis
     - Country: Suisse
       City: Rotkreuz
-    - Country: Singapore
-    - Country: Brazil
+    - Country: Singapour
+    - Country: Brésil
       City: São Paulo
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Médical/Biologique]
@@ -176,7 +176,7 @@
   url: https://www.amd.com/
   Jobs: https://careers.amd.com/careers-home/jobs
   Place:
-    - Country: USA
+    - Country: États-Unis
     - International: true
   Scientific-domain: [Hardware, Rendu temps réel/Moteurs 3D, Rendu offline/VFX]
   Application-domain: [Générique]
@@ -205,11 +205,11 @@
   url: https://animallogic.com/
   Description: Studio de création d'animation et effets visuels.
   Place:
-    - Country: Australia
+    - Country: Australie
       City: Sydney
     - Country: Canada
       City: Vancouver
-    - Country: USA
+    - Country: États-Unis
       City: Burbank
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -220,7 +220,7 @@
   url: https://www.apple.com/
   Jobs: https://jobs.apple.com
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Cupertino
     - International: true
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Hardware, Vision]
@@ -264,7 +264,7 @@
   Description: Logiciels 3D, CAO, Conception, Design
   Product: Maya, 3DS Max, AutoCAD, Golaem
   Place:
-    - Country: [USA, Canada, India, UK, Singapore, Norway]
+    - Country: [États-Unis, Canada, Inde, Royaume-Uni, Singapour, Norvège]
     - Country: France
       City: Rennes
     - International: true
@@ -289,7 +289,7 @@
   Description: "VR simulation and serious game"
   Jobs: https://www.avtsim.com/careers/
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Orlando
   Scientific-domain: [VR/AR, Simulation]
   Application-domain: [Entrainement/Formation/Serious Game, Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
@@ -301,14 +301,14 @@
   url: https://www.bentley.com/
   Jobs: https://bentleysystems.wd5.myworkdayjobs.com/bentley
   Place:
-    - Country: USA
-    - Country: UK
-    - Country: Netherlands
+    - Country: États-Unis
+    - Country: Royaume-Uni
+    - Country: Pays-Bas
     - Country: France
-      City: [Paris, Sophia]
-    - Country: Singapore
-    - Country: New Zealand
-    - Country: India
+      City: [Paris, Sophia Antipolis]
+    - Country: Singapour
+    - Country: Nouvelle-Zélande
+    - Country: Inde
   Scientific-domain: [Modélisation, Simulation, Reconstruction, Visualisation]
   Application-domain: [Architecture/BTP/Urbanisme, Géospatial/Cartographie, Automobile/Navigation/Aviation]
   Employees: 5000
@@ -319,7 +319,7 @@
   Description: Développement d'outils pour la création de contenu en AR sur smartphone
   url: https://www.blipparstudios.com/
   Place:
-    Country: UK
+    Country: Royaume-Uni
     City: Londres
   Scientific-domain: [VR/AR, Modélisation, Web/Cloud/Big Data]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité]
@@ -347,7 +347,7 @@
   url: https://www.brandxr.io/
   Description: "No Code VR platform"
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: [Orlando, Detroit]
   Scientific-domain: [VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
@@ -365,7 +365,7 @@
   url: https://www.cavrnus.com/
   Description: "Plateforme de Metaverse"
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: California
       City: Carlsbad
   Scientific-domain: [VR/AR]
@@ -384,7 +384,7 @@
 - Name: Christie
   url: https://www.christiedigital.com/en-gb
   Description: Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
-  Place: [{Country: USA, State: California}, {Country: Canada, State: Ontario}]
+  Place: [{Country: États-Unis, State: California}, {Country: Canada, State: Ontario}]
   Scientific-domain: [VR/AR, Visualisation]
   Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
   Employees: 2000
@@ -405,8 +405,8 @@
   Description: "Logiciel de simulation de vêtements virtuels"
   Jobs: https://jobs.lever.co/clovirtualfashion
   Place:
-    - Country: Korea
-    - Country: USA
+    - Country: Corée du Sud
+    - Country: États-Unis
     - International: True
   Scientific-domain: [Modélisation, Animation, Simulation, Design/Fabrication]
   Application-domain: [Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires]
@@ -437,9 +437,9 @@
   Description: Logiciels de CAO, Design et Simulation.
   Place:
     - Country: France
-      City: [Paris, Aix en Provence]
-    - Country: USA
-    - Country: China
+      City: [Paris, Aix-en-Provence]
+    - Country: États-Unis
+    - Country: Chine
     - International: true
   Product: Catia, SolidWorks
   Jobs: https://careers.3ds.com/
@@ -457,7 +457,7 @@
     - Name: Lune
       url: https://www.digitalfish.com/lune/
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: California
       City: San Mateo
   Jobs: https://www.digitalfish.com/careers/
@@ -469,7 +469,7 @@
   url: https://www.disneystudios.com/
   Jobs: https://join.disneycareers.com/global/en
   Place:
-    - Country: USA
+    - Country: États-Unis
     - International: true
   Scientific-domain: [Rendu offline/VFX, Animation, Simulation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
@@ -503,7 +503,7 @@
   Place:
     - Country: France
       City: Bordeaux
-    - Country: USA
+    - Country: États-Unis
       City: Orlando
   Scientific-domain: [Acquisition, VR/AR]
   Application-domain: [Art/Evenementiel]
@@ -517,7 +517,7 @@
   Place:
     - Country: France
       City: Toulouse
-    - Country: Germany
+    - Country: Allemagne
       City: Berlin
   Scientific-domain: [Acquisition, Reconstruction, Analyse de données]
   Application-domain: [Automobile/Navigation/Aviation]
@@ -562,7 +562,7 @@
   Jobs: https://www.epicgames.com/site/en-US/careers/jobs
   Employees: 2000
   Place:
-    - Country: USA
+    - Country: États-Unis
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
@@ -593,7 +593,7 @@
   url: https://falconscreativegroup.com/
   Description: Creation d'expérience immersive pour les parcs d'attractions
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Orlando
   Jobs: https://falconscreativegroup.com/careers/
   Scientific-domain: [VR/AR, Animation]
@@ -617,10 +617,10 @@
   Place:
     - Country: France
       City: Paris
-    - Country: USA
+    - Country: États-Unis
     - Country: Canada
-    - Country: Spain
-    - Country: India
+    - Country: Espagne
+    - Country: Inde
     - International: true
   Employees: 2400
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Web/Cloud/Big Data]
@@ -653,7 +653,7 @@
   Jobs: https://careers.google.com/
   Info: <a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Mountain View
     - International: true
   Scientific-domain: [IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data]
@@ -675,10 +675,10 @@
   Jobs: https://gridraster.com/careers-jobs/
   Description: Spatial Mapping, Recognition and Alignment for XR
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: California
       City: Mountain View
-    - Country: India
+    - Country: Inde
       City: Bengaluru
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, VR/AR]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
@@ -695,7 +695,7 @@
   url: https://hexagon.com/
   Description: Measuring technology and geospatial tools and software
   Place:
-    - Country: Sweden
+    - Country: Suède
       City: Stockholm
   Scientific-domain: [Acquisition, Reconstruction, Géométrie, Vision]
   Application-domain: [Géospatial/Cartographie, Industrie/Manufacturing/CAO]
@@ -748,7 +748,7 @@
   Jobs: https://www.imaginationtech.com/careers/vacancies/
   Description: Développement sur GPU d'optimisation graphique
   Place:
-    - Country: UK
+    - Country: Royaume-Uni
     - Country: Pologne
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Hardware]
   Application-domain: [Générique]
@@ -802,7 +802,7 @@
   Product: ParaView, VTK, 3D Slicer, ITK, CMake
   Jobs: https://www.kitware.com/careers/
   Place:
-    - Country: USA
+    - Country: États-Unis
     - Country: France
       City: Lyon
   Employees: 200
@@ -876,9 +876,9 @@
   url: https://www.keyshot.com/
   Description: Logiciel de rendu d'images (KeyShot Studio) et gestion d'actifs numériques
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Costa Mesa
-    - Country: Denmark
+    - Country: Danemark
       City: Aarhus
   Scientific-domain: [Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -898,9 +898,9 @@
   url: https://www.magicleap.com/
   Description: Optique pour la réalité augmentée (guides d'onde) et prototypage de lunettes AR
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: Florida
-    - Country: USA
+    - Country: États-Unis
       State: Colorado
   Scientific-domain: [VR/AR]
   Application-domain: [Générique]
@@ -910,7 +910,7 @@
   url: https://www.manus-meta.com/
   Description: "Motion capture and extended reality system"
   Place:
-    - Country: Netherlands
+    - Country: Pays-Bas
       City: Eindhoven
   Scientific-domain: [Acquisition, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
@@ -927,7 +927,7 @@
   url: https://marmoset.co/
   Description: Modeleur et rendu 3D
   Place:
-    - Country: USA
+    - Country: États-Unis
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
@@ -936,7 +936,7 @@
   url: https://massvirtual.com/
   Description: VR experience
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Orlando
   Scientific-domain: [VR/AR, Simulation]
   Application-domain: [Automobile/Navigation/Aviation]
@@ -948,7 +948,7 @@
   Product: [ZBrush, Cinema4D, etc.]
   Description: Modeleur 3D
   Place:
-    - Country: USA
+    - Country: États-Unis
     - Country: Canada
     - Country: Allemagne
   Scientific-domain: [Rendu offline/VFX, Modélisation]
@@ -982,7 +982,7 @@
   url: https://www.microsoft.com/
   Jobs: https://careers.microsoft.com/
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Redmond
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, IA générative (image/3D), Web/Cloud/Big Data]
@@ -997,8 +997,8 @@
     - Country: France
       City: Paris
     - Country: Canada
-      City: Montreal
-    - Country: India
+      City: Montréal
+    - Country: Inde
       City: Bangalore
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1057,7 +1057,7 @@
   Place:
     - Country: Suisse
       City: Lausanne
-    - Country: Germany
+    - Country: Allemagne
       City: Munich
   Scientific-domain: [Modélisation, Design/Fabrication, Simulation]
   Application-domain: [Industrie/Manufacturing/CAO]
@@ -1080,7 +1080,7 @@
     - Name: Maxwell Render
       url: https://maxwellrender.com/
   Place:
-    - Country: Spain
+    - Country: Espagne
       City: Madrid
   Scientific-domain: [Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1091,7 +1091,7 @@
   Jobs: https://www.welcometothejungle.com/en/companies/novaquark/jobs
   Place:
     - Country: Canada
-      City: Montreal
+      City: Montréal
     - Country: France
       City: Paris
   Scientific-domain: [Simulation, Animation, Modélisation, Rendu temps réel/Moteurs 3D]
@@ -1111,7 +1111,7 @@
   Description: Modélisation et simulation mécanique à partir de surfaces implicites.
   Jobs: https://jobs.gem.com/ntop
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: New York
   Scientific-domain: [Modélisation, Design/Fabrication, Simulation]
   Application-domain: [Industrie/Manufacturing/CAO]
@@ -1122,7 +1122,7 @@
   url: https://www.nvidia.com/
   Jobs: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: California
       City: Santa Clara
     - Country: France
@@ -1137,7 +1137,7 @@
   Description: Motion capture pour les effets spéciaux au cinéma
   Jobs: https://optitrack.com/careers
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: Oregon
       City: Corvallis
   Scientific-domain: [Acquisition, Animation]
@@ -1148,7 +1148,7 @@
   Description: Logiciel de rendu graphique sur le cloud, et capture
   Product: Octane Render
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Los Angeles
   Scientific-domain: [Rendu offline/VFX, Acquisition]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1158,7 +1158,7 @@
   Description: Plateforme de réalité augmentée
   Product: Figmin XR
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Portland
   Scientific-domain: [VR/AR]
   Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
@@ -1246,7 +1246,7 @@
   Description: Plateforme de jeu ouvert orienté création et metavers
   Info: Développe une entité de <a href="https://research.roblox.com/">recherche internationale</a>
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: San Mateo
   url: https://www.roblox.com/
   Jobs: https://careers.roblox.com/
@@ -1258,7 +1258,7 @@
   Description: "Computer Vision models"
   Jobs: https://roboflow.com/careers
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: [New York, San Francisco]
   Scientific-domain: [Analyse de données, Vision]
   Application-domain: [Générique]
@@ -1277,10 +1277,10 @@
   url: https://shotover.com/
   Description: Système d'imagerie gyro stabilisée pour des prises de vues sur véhicules (cinéma, sécurité, défense, etc).
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: Colorado
       City: Boulder
-    - Country: New Zealand
+    - Country: Nouvelle-Zélande
       City: Queenstown
   Scientific-domain: [Acquisition, Imagerie, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel, Sécurité/Défense]
@@ -1303,7 +1303,7 @@
   Description: CAD simulation
   Jobs: https://www.simerics.com/careers/
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: Washington
       City: Bellevue
   Scientific-domain: [Simulation, Design/Fabrication]
@@ -1327,16 +1327,16 @@
 - Name: Square Enix
   url: https://www.square-enix-games.com/fr_FR/home
   Place:
-    - Country: USA
+    - Country: États-Unis
       State: California
       City: Los Angeles
-    - Country: UK
+    - Country: Royaume-Uni
       City: London
     - Country: France
       City: Paris
-    - Country: Germany
+    - Country: Allemagne
       City: Hamburg
-    - Country: Japan
+    - Country: Japon
       City: Tokyo
   Description: Editeur de jeu vidéos
   Jobs: https://apply.workable.com/square-enix/
@@ -1347,9 +1347,9 @@
   url: https://stability.ai/
   Description: IA générative pour le son, l'image et les modèles 3D.
   Place:
-    - Country: UK
+    - Country: Royaume-Uni
       City: London
-    - Country: Japan
+    - Country: Japon
       City: Tokyo
   Scientific-domain: [IA générative (image/3D), Vision]
   Application-domain: [Générique, Cinéma/Films d'Animation/VFX]
@@ -1368,11 +1368,11 @@
   url: https://www.steamrollerstudios.com/
   Description: Studio pour film d'animation, jeux et expérience immersive pour parc d'attraction
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Mount Dora
     - Country: Canada
       City: Vancouver
-    - Country: Mauritius
+    - Country: Maurice
   Jobs: https://www.steamrolleranimation.com/careers
   Scientific-domain: [Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
@@ -1382,7 +1382,7 @@
   url: https://strollhunt.com/
   Description: "Jeux dans la ville en AR"
   Place: 
-    - Country: UK
+    - Country: Royaume-Uni
       City: London
   Scientific-domain: [Vision, VR/AR]
   Application-domain: [Jeu Vidéo]
@@ -1423,7 +1423,7 @@
   Jobs: https://careers.take2games.com/jobs
   Employees: 12900
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: New York
     - Country: France
       City: Rennes
@@ -1439,7 +1439,7 @@
   url: https://www.technicolorgames.com/
   Description: Creation de Jeux Vidéos
   Place:
-    - Country: India
+    - Country: Inde
       City: Bangalore
     - International: true
   Scientific-domain: [Animation]
@@ -1461,7 +1461,7 @@
   Place:
     - Country: France
       City: [Lyon, Sophia Antipolis]
-    - Country: USA
+    - Country: États-Unis
       State: Oregon
       City: Bend
     - International: true
@@ -1475,7 +1475,7 @@
   Place:
     - Country: France
       City: Paris
-    - Country: USA
+    - Country: États-Unis
   Scientific-domain: [VR/AR, Visualisation]
   Application-domain: [Générique]
   Employees: 30
@@ -1506,7 +1506,7 @@
       url: https://www.foundry.com/products/mari
   Jobs: https://apply.workable.com/foundry/
   Place:
-    - Country: [UK, USA, Australia]
+    - Country: [Royaume-Uni, États-Unis, Australie]
   Scientific-domain: [Rendu offline/VFX, Modélisation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
@@ -1537,11 +1537,11 @@
   Place:
     - Country: France
       City: Paris
-    - Country: UK
+    - Country: Royaume-Uni
       City: London
     - Country: Belgique
       City: Liège
-    - Country: India
+    - Country: Inde
       City: Bangalore
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
@@ -1554,7 +1554,7 @@
     - Country: France
       City: [Paris, Montpellier]
       Exact: Vanves
-    - Country: UK
+    - Country: Royaume-Uni
       City: London
   Scientific-domain: [Rendu offline/VFX, Animation, Simulation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1579,11 +1579,11 @@
     - Country: France
       City: [Paris, Bordeaux, Annecy]
     - Country: Canada
-      City: [Montreal, Toronto]
-    - Country: USA
+      City: [Montréal, Toronto]
+    - Country: États-Unis
       City: [San Francisco, New York, Atlanta]
-    - Country: India
-    - Country: Germany
+    - Country: Inde
+    - Country: Allemagne
     - Country: Pologne
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
@@ -1597,10 +1597,10 @@
   Info: 'Equipes de développement en France: <a target="_blank" href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a target="_blank" href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a target="_blank" href="https://unity.com/products/sentis">IA</a> (Lille)'
   Jobs: https://unity.com/careers
   Place:
-    - Country: USA
+    - Country: États-Unis
     - Country: France
-      City: [Paris, Grenoble, Compiegne, Lille]
-    - Country: [Canada, Denmark, Finland, UK, Lituanie, Germany, Belgique, Suisse]
+      City: [Paris, Grenoble, Compiègne, Lille]
+    - Country: [Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse]
     - International: true
   Highlight: Graphics, R&D
   Employees: 7000
@@ -1627,7 +1627,7 @@
   Description: Système de Motion Capture
   Jobs: https://www.vicon.com/careers/
   Place:
-    - Country: UK
+    - Country: Royaume-Uni
       City: Oxford
   Scientific-domain: [Acquisition, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game]
@@ -1647,9 +1647,9 @@
   url: https://www.virtuosgames.com/
   Description: Studio de co-développement de jeux vidéo (portages, remasters, production d'art 3D)
   Place:
-    - Country: China
+    - Country: Chine
       City: Shanghai
-    - Country: Singapore
+    - Country: Singapour
     - Country: France
       City: [Paris, Lyon, Montpellier]
       Exact: Cergy
@@ -1663,7 +1663,7 @@
   url: https://vizgraphics.com/
   Description: 'Visualisation architecturale : rendus 3D photoréalistes, animations, visites virtuelles et expériences VR pour l''immobilier.'
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Conifer
   Scientific-domain: [Rendu offline/VFX, Modélisation, Visualisation]
   Application-domain: [Architecture/BTP/Urbanisme]
@@ -1673,11 +1673,11 @@
   Description: "Tablettes et écran tactile pour la création graphique"
   Jobs: https://www.wacom.com/en-us/about-wacom/careers-at-wacom
   Place:
-    - Country: Japan
+    - Country: Japon
       City: Saitama
-    - Country: Germany
+    - Country: Allemagne
       City: Dusseldorf
-    - Country: USA
+    - Country: États-Unis
       State: Oregon
       City: Portland
     - International: True
@@ -1711,7 +1711,7 @@
   Info: "Entreprise majeure du domaine des VFX avec équipe de recherche active."
   Jobs: https://careers.wetafx.co.nz/
   Place:
-    - Country: New Zealand
+    - Country: Nouvelle-Zélande
       City: Wellington
   Scientific-domain: [Modélisation, Animation, Simulation, Acquisition]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1741,7 +1741,7 @@
   Place:
     - Country: France
       City: Paris
-    - Country: USA
+    - Country: États-Unis
       City: Santa Monica
   Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1751,7 +1751,7 @@
   url: https://zspace.com/
   Description: Ordinateurs portables de réalité augmentée/3D stéréoscopique sans casque, avec stylet d'interaction 3D, pour l'éducation (STEM, formation technique)
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: San Jose
   Scientific-domain: [IHM/Haptique, VR/AR]
   Application-domain: [Entrainement/Formation/Serious Game]
@@ -1771,7 +1771,7 @@
   Description: Groupe technologique ; son laboratoire FAIR Paris (ouvert en 2015) mène des recherches en IA et vision par ordinateur (DINOv2/DINOv3).
   Jobs: https://www.metacareers.com/
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Menlo Park
     - Country: France
       City: Paris
@@ -1785,7 +1785,7 @@
   Description: Éditeur de simulation numérique (groupe Synopsys depuis 2025) ; le centre R&D de La Farlède (ex-OPTIS) développe Speos, logiciel de simulation physique de la lumière et de rendu photoréaliste.
   Jobs: https://careers.ansys.com/
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Canonsburg
     - Country: France
       City: La Farlède
@@ -1858,7 +1858,7 @@
   Description: Jumeau numérique 3D du coeur du patient construit à partir de l'imagerie médicale (IA et simulation) pour guider l'ablation des arythmies.
   Place:
     - City: Pessac
-    - Country: USA
+    - Country: États-Unis
       City: Boston
   Scientific-domain: [Imagerie, Reconstruction, Simulation]
   Application-domain: [Médical/Biologique]
@@ -1876,7 +1876,7 @@
   Description: Groupe d'instrumentation scientifique ; son site de Bordeaux (FEI SAS, ex-Visualization Sciences Group) développe les logiciels de visualisation et d'analyse 3D Amira et Avizo.
   Jobs: https://jobs.thermofisher.com/
   Place:
-    - Country: USA
+    - Country: États-Unis
       City: Waltham
     - Country: France
       City: Bordeaux

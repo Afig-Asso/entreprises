@@ -1,4 +1,5 @@
 {
+    "Updated": "2026-11-06",
     "Keywords": {
         "Scientific-domain": [
             {
@@ -98,7 +99,7 @@
                     "City": "Montr\u00e9al"
                 },
                 {
-                    "Country": "China",
+                    "Country": "Chine",
                     "City": "Nanjing"
                 }
             ],
@@ -161,7 +162,7 @@
             "url": "https://4dfun.io/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Los Angeles"
                 }
             ],
@@ -180,7 +181,7 @@
             "Jobs": "https://www.4dpipeline.com/jobs",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "California"
                 }
             ],
@@ -214,7 +215,7 @@
             "Jobs": "https://careers.activision.com/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": [
                         "Los Angeles"
                     ]
@@ -240,7 +241,7 @@
             "Description": "D\u00e9velopement d'outils cr\u00e9atifs",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "Country": "Canada"
@@ -250,10 +251,10 @@
                     "City": "Paris"
                 },
                 {
-                    "Country": "UK"
+                    "Country": "Royaume-Uni"
                 },
                 {
-                    "Country": "India"
+                    "Country": "Inde"
                 },
                 {
                     "International": true
@@ -303,17 +304,17 @@
             "Description": "Dispositif et imagerie m\u00e9dicale pour l'orthodontie",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "Country": "Suisse",
                     "City": "Rotkreuz"
                 },
                 {
-                    "Country": "Singapore"
+                    "Country": "Singapour"
                 },
                 {
-                    "Country": "Brazil",
+                    "Country": "Br\u00e9sil",
                     "City": "S\u00e3o Paulo"
                 }
             ],
@@ -371,7 +372,7 @@
             "Jobs": "https://careers.amd.com/careers-home/jobs",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "International": true
@@ -431,7 +432,7 @@
             "Description": "Studio de cr\u00e9ation d'animation et effets visuels.",
             "Place": [
                 {
-                    "Country": "Australia",
+                    "Country": "Australie",
                     "City": "Sydney"
                 },
                 {
@@ -439,7 +440,7 @@
                     "City": "Vancouver"
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Burbank"
                 }
             ],
@@ -461,7 +462,7 @@
             "Jobs": "https://jobs.apple.com",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Cupertino"
                 },
                 {
@@ -548,12 +549,12 @@
             "Place": [
                 {
                     "Country": [
-                        "USA",
+                        "\u00c9tats-Unis",
                         "Canada",
-                        "India",
-                        "UK",
-                        "Singapore",
-                        "Norway"
+                        "Inde",
+                        "Royaume-Uni",
+                        "Singapour",
+                        "Norv\u00e8ge"
                     ]
                 },
                 {
@@ -605,7 +606,7 @@
             "Jobs": "https://www.avtsim.com/careers/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Orlando"
                 }
             ],
@@ -627,29 +628,29 @@
             "Jobs": "https://bentleysystems.wd5.myworkdayjobs.com/bentley",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
-                    "Country": "UK"
+                    "Country": "Royaume-Uni"
                 },
                 {
-                    "Country": "Netherlands"
+                    "Country": "Pays-Bas"
                 },
                 {
                     "Country": "France",
                     "City": [
                         "Paris",
-                        "Sophia"
+                        "Sophia Antipolis"
                     ]
                 },
                 {
-                    "Country": "Singapore"
+                    "Country": "Singapour"
                 },
                 {
-                    "Country": "New Zealand"
+                    "Country": "Nouvelle-Z\u00e9lande"
                 },
                 {
-                    "Country": "India"
+                    "Country": "Inde"
                 }
             ],
             "Scientific-domain": [
@@ -672,7 +673,7 @@
             "Description": "D\u00e9veloppement d'outils pour la cr\u00e9ation de contenu en AR sur smartphone",
             "url": "https://www.blipparstudios.com/",
             "Place": {
-                "Country": "UK",
+                "Country": "Royaume-Uni",
                 "City": "Londres"
             },
             "Scientific-domain": [
@@ -727,7 +728,7 @@
             "Description": "No Code VR platform",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": [
                         "Orlando",
                         "Detroit"
@@ -764,7 +765,7 @@
             "Description": "Plateforme de Metaverse",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "California",
                     "City": "Carlsbad"
                 }
@@ -801,7 +802,7 @@
             "Description": "Syst\u00e8mes de projections vid\u00e9o et d'immersion (projecteur de cin\u00e9ma, ecrans g\u00e9ants, projection immersive, etc).",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "California"
                 },
                 {
@@ -847,10 +848,10 @@
             "Jobs": "https://jobs.lever.co/clovirtualfashion",
             "Place": [
                 {
-                    "Country": "Korea"
+                    "Country": "Cor\u00e9e du Sud"
                 },
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "International": true
@@ -912,14 +913,14 @@
                     "Country": "France",
                     "City": [
                         "Paris",
-                        "Aix en Provence"
+                        "Aix-en-Provence"
                     ]
                 },
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
-                    "Country": "China"
+                    "Country": "Chine"
                 },
                 {
                     "International": true
@@ -957,7 +958,7 @@
             ],
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "California",
                     "City": "San Mateo"
                 }
@@ -979,7 +980,7 @@
             "Jobs": "https://join.disneycareers.com/global/en",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "International": true
@@ -1051,7 +1052,7 @@
                     "City": "Bordeaux"
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Orlando"
                 }
             ],
@@ -1076,7 +1077,7 @@
                     "City": "Toulouse"
                 },
                 {
-                    "Country": "Germany",
+                    "Country": "Allemagne",
                     "City": "Berlin"
                 }
             ],
@@ -1164,7 +1165,7 @@
             "Employees": 2000,
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "International": true
@@ -1233,7 +1234,7 @@
             "Description": "Creation d'exp\u00e9rience immersive pour les parcs d'attractions",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Orlando"
                 }
             ],
@@ -1280,16 +1281,16 @@
                     "City": "Paris"
                 },
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "Country": "Canada"
                 },
                 {
-                    "Country": "Spain"
+                    "Country": "Espagne"
                 },
                 {
-                    "Country": "India"
+                    "Country": "Inde"
                 },
                 {
                     "International": true
@@ -1353,7 +1354,7 @@
             "Info": "<a href=\"https://ai.google/\">Google AI</a> est une entit\u00e9 de recherche d\u00e9veloppant des projets en graphique",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Mountain View"
                 },
                 {
@@ -1400,12 +1401,12 @@
             "Description": "Spatial Mapping, Recognition and Alignment for XR",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "California",
                     "City": "Mountain View"
                 },
                 {
-                    "Country": "India",
+                    "Country": "Inde",
                     "City": "Bengaluru"
                 }
             ],
@@ -1444,7 +1445,7 @@
             "Description": "Measuring technology and geospatial tools and software",
             "Place": [
                 {
-                    "Country": "Sweden",
+                    "Country": "Su\u00e8de",
                     "City": "Stockholm"
                 }
             ],
@@ -1552,7 +1553,7 @@
             "Description": "D\u00e9veloppement sur GPU d'optimisation graphique",
             "Place": [
                 {
-                    "Country": "UK"
+                    "Country": "Royaume-Uni"
                 },
                 {
                     "Country": "Pologne"
@@ -1653,7 +1654,7 @@
             "Jobs": "https://www.kitware.com/careers/",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "Country": "France",
@@ -1799,11 +1800,11 @@
             "Description": "Logiciel de rendu d'images (KeyShot Studio) et gestion d'actifs num\u00e9riques",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Costa Mesa"
                 },
                 {
-                    "Country": "Denmark",
+                    "Country": "Danemark",
                     "City": "Aarhus"
                 }
             ],
@@ -1840,11 +1841,11 @@
             "Description": "Optique pour la r\u00e9alit\u00e9 augment\u00e9e (guides d'onde) et prototypage de lunettes AR",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "Florida"
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "Colorado"
                 }
             ],
@@ -1862,7 +1863,7 @@
             "Description": "Motion capture and extended reality system",
             "Place": [
                 {
-                    "Country": "Netherlands",
+                    "Country": "Pays-Bas",
                     "City": "Eindhoven"
                 }
             ],
@@ -1898,7 +1899,7 @@
             "Description": "Modeleur et rendu 3D",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "International": true
@@ -1919,7 +1920,7 @@
             "Description": "VR experience",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Orlando"
                 }
             ],
@@ -1944,7 +1945,7 @@
             "Description": "Modeleur 3D",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "Country": "Canada"
@@ -2014,7 +2015,7 @@
             "Jobs": "https://careers.microsoft.com/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Redmond"
                 },
                 {
@@ -2044,10 +2045,10 @@
                 },
                 {
                     "Country": "Canada",
-                    "City": "Montreal"
+                    "City": "Montr\u00e9al"
                 },
                 {
-                    "Country": "India",
+                    "Country": "Inde",
                     "City": "Bangalore"
                 }
             ],
@@ -2163,7 +2164,7 @@
                     "City": "Lausanne"
                 },
                 {
-                    "Country": "Germany",
+                    "Country": "Allemagne",
                     "City": "Munich"
                 }
             ],
@@ -2207,7 +2208,7 @@
             ],
             "Place": [
                 {
-                    "Country": "Spain",
+                    "Country": "Espagne",
                     "City": "Madrid"
                 }
             ],
@@ -2226,7 +2227,7 @@
             "Place": [
                 {
                     "Country": "Canada",
-                    "City": "Montreal"
+                    "City": "Montr\u00e9al"
                 },
                 {
                     "Country": "France",
@@ -2264,7 +2265,7 @@
             "Jobs": "https://jobs.gem.com/ntop",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "New York"
                 }
             ],
@@ -2285,7 +2286,7 @@
             "Jobs": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "California",
                     "City": "Santa Clara"
                 },
@@ -2315,7 +2316,7 @@
             "Jobs": "https://optitrack.com/careers",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "Oregon",
                     "City": "Corvallis"
                 }
@@ -2335,7 +2336,7 @@
             "Product": "Octane Render",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Los Angeles"
                 }
             ],
@@ -2354,7 +2355,7 @@
             "Product": "Figmin XR",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Portland"
                 }
             ],
@@ -2517,7 +2518,7 @@
             "Info": "D\u00e9veloppe une entit\u00e9 de <a href=\"https://research.roblox.com/\">recherche internationale</a>",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "San Mateo"
                 }
             ],
@@ -2541,7 +2542,7 @@
             "Jobs": "https://roboflow.com/careers",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": [
                         "New York",
                         "San Francisco"
@@ -2585,12 +2586,12 @@
             "Description": "Syst\u00e8me d'imagerie gyro stabilis\u00e9e pour des prises de vues sur v\u00e9hicules (cin\u00e9ma, s\u00e9curit\u00e9, d\u00e9fense, etc).",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "Colorado",
                     "City": "Boulder"
                 },
                 {
-                    "Country": "New Zealand",
+                    "Country": "Nouvelle-Z\u00e9lande",
                     "City": "Queenstown"
                 }
             ],
@@ -2636,7 +2637,7 @@
             "Jobs": "https://www.simerics.com/careers/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "Washington",
                     "City": "Bellevue"
                 }
@@ -2685,12 +2686,12 @@
             "url": "https://www.square-enix-games.com/fr_FR/home",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "California",
                     "City": "Los Angeles"
                 },
                 {
-                    "Country": "UK",
+                    "Country": "Royaume-Uni",
                     "City": "London"
                 },
                 {
@@ -2698,11 +2699,11 @@
                     "City": "Paris"
                 },
                 {
-                    "Country": "Germany",
+                    "Country": "Allemagne",
                     "City": "Hamburg"
                 },
                 {
-                    "Country": "Japan",
+                    "Country": "Japon",
                     "City": "Tokyo"
                 }
             ],
@@ -2723,11 +2724,11 @@
             "Description": "IA g\u00e9n\u00e9rative pour le son, l'image et les mod\u00e8les 3D.",
             "Place": [
                 {
-                    "Country": "UK",
+                    "Country": "Royaume-Uni",
                     "City": "London"
                 },
                 {
-                    "Country": "Japan",
+                    "Country": "Japon",
                     "City": "Tokyo"
                 }
             ],
@@ -2764,7 +2765,7 @@
             "Description": "Studio pour film d'animation, jeux et exp\u00e9rience immersive pour parc d'attraction",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Mount Dora"
                 },
                 {
@@ -2772,7 +2773,7 @@
                     "City": "Vancouver"
                 },
                 {
-                    "Country": "Mauritius"
+                    "Country": "Maurice"
                 }
             ],
             "Jobs": "https://www.steamrolleranimation.com/careers",
@@ -2793,7 +2794,7 @@
             "Description": "Jeux dans la ville en AR",
             "Place": [
                 {
-                    "Country": "UK",
+                    "Country": "Royaume-Uni",
                     "City": "London"
                 }
             ],
@@ -2867,7 +2868,7 @@
             "Employees": 12900,
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "New York"
                 },
                 {
@@ -2900,7 +2901,7 @@
             "Description": "Creation de Jeux Vid\u00e9os",
             "Place": [
                 {
-                    "Country": "India",
+                    "Country": "Inde",
                     "City": "Bangalore"
                 },
                 {
@@ -2945,7 +2946,7 @@
                     ]
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "Oregon",
                     "City": "Bend"
                 },
@@ -2974,7 +2975,7 @@
                     "City": "Paris"
                 },
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 }
             ],
             "Scientific-domain": [
@@ -3034,9 +3035,9 @@
             "Place": [
                 {
                     "Country": [
-                        "UK",
-                        "USA",
-                        "Australia"
+                        "Royaume-Uni",
+                        "\u00c9tats-Unis",
+                        "Australie"
                     ]
                 }
             ],
@@ -3095,7 +3096,7 @@
                     "City": "Paris"
                 },
                 {
-                    "Country": "UK",
+                    "Country": "Royaume-Uni",
                     "City": "London"
                 },
                 {
@@ -3103,7 +3104,7 @@
                     "City": "Li\u00e8ge"
                 },
                 {
-                    "Country": "India",
+                    "Country": "Inde",
                     "City": "Bangalore"
                 }
             ],
@@ -3131,7 +3132,7 @@
                     "Exact": "Vanves"
                 },
                 {
-                    "Country": "UK",
+                    "Country": "Royaume-Uni",
                     "City": "London"
                 }
             ],
@@ -3178,12 +3179,12 @@
                 {
                     "Country": "Canada",
                     "City": [
-                        "Montreal",
+                        "Montr\u00e9al",
                         "Toronto"
                     ]
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": [
                         "San Francisco",
                         "New York",
@@ -3191,10 +3192,10 @@
                     ]
                 },
                 {
-                    "Country": "India"
+                    "Country": "Inde"
                 },
                 {
-                    "Country": "Germany"
+                    "Country": "Allemagne"
                 },
                 {
                     "Country": "Pologne"
@@ -3223,25 +3224,25 @@
             "Jobs": "https://unity.com/careers",
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "\u00c9tats-Unis"
                 },
                 {
                     "Country": "France",
                     "City": [
                         "Paris",
                         "Grenoble",
-                        "Compiegne",
+                        "Compi\u00e8gne",
                         "Lille"
                     ]
                 },
                 {
                     "Country": [
                         "Canada",
-                        "Denmark",
-                        "Finland",
-                        "UK",
+                        "Danemark",
+                        "Finlande",
+                        "Royaume-Uni",
                         "Lituanie",
-                        "Germany",
+                        "Allemagne",
                         "Belgique",
                         "Suisse"
                     ]
@@ -3300,7 +3301,7 @@
             "Jobs": "https://www.vicon.com/careers/",
             "Place": [
                 {
-                    "Country": "UK",
+                    "Country": "Royaume-Uni",
                     "City": "Oxford"
                 }
             ],
@@ -3340,11 +3341,11 @@
             "Description": "Studio de co-d\u00e9veloppement de jeux vid\u00e9o (portages, remasters, production d'art 3D)",
             "Place": [
                 {
-                    "Country": "China",
+                    "Country": "Chine",
                     "City": "Shanghai"
                 },
                 {
-                    "Country": "Singapore"
+                    "Country": "Singapour"
                 },
                 {
                     "Country": "France",
@@ -3377,7 +3378,7 @@
             "Description": "Visualisation architecturale : rendus 3D photor\u00e9alistes, animations, visites virtuelles et exp\u00e9riences VR pour l'immobilier.",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Conifer"
                 }
             ],
@@ -3397,15 +3398,15 @@
             "Jobs": "https://www.wacom.com/en-us/about-wacom/careers-at-wacom",
             "Place": [
                 {
-                    "Country": "Japan",
+                    "Country": "Japon",
                     "City": "Saitama"
                 },
                 {
-                    "Country": "Germany",
+                    "Country": "Allemagne",
                     "City": "Dusseldorf"
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "State": "Oregon",
                     "City": "Portland"
                 },
@@ -3466,7 +3467,7 @@
             "Jobs": "https://careers.wetafx.co.nz/",
             "Place": [
                 {
-                    "Country": "New Zealand",
+                    "Country": "Nouvelle-Z\u00e9lande",
                     "City": "Wellington"
                 }
             ],
@@ -3514,7 +3515,7 @@
                     "City": "Paris"
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Santa Monica"
                 }
             ],
@@ -3534,7 +3535,7 @@
             "Description": "Ordinateurs portables de r\u00e9alit\u00e9 augment\u00e9e/3D st\u00e9r\u00e9oscopique sans casque, avec stylet d'interaction 3D, pour l'\u00e9ducation (STEM, formation technique)",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "San Jose"
                 }
             ],
@@ -3568,7 +3569,7 @@
             "Jobs": "https://www.metacareers.com/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Menlo Park"
                 },
                 {
@@ -3598,7 +3599,7 @@
             "Jobs": "https://careers.ansys.com/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Canonsburg"
                 },
                 {
@@ -3753,7 +3754,7 @@
                     "City": "Pessac"
                 },
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Boston"
                 }
             ],
@@ -3789,7 +3790,7 @@
             "Jobs": "https://jobs.thermofisher.com/",
             "Place": [
                 {
-                    "Country": "USA",
+                    "Country": "\u00c9tats-Unis",
                     "City": "Waltham"
                 },
                 {

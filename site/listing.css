@@ -94,13 +94,83 @@ h2.title-place {
 }
 
 .dropdown-menu {
-    background-color: rgba(255,255,255,0.9);
+    background-color: white;
     padding: 1em;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    max-width: calc(100vw - 2em);
+    max-height: 80vh;
+    overflow-y: auto;
 }
 
 #selection-listing-company {
     display: flex;
     justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0.75em 1.5em;
+}
+
+.ux-middle {
+    flex: 1 1 16em;
+    max-width: 28em;
+}
+.search-input {
+    width: 100%;
+    padding: 0.35em 0.6em;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+.france-only-checkbox {
+    margin-left: 0.75em;
+}
+
+.listing-summary {
+    margin-top: 1.25em;
+    margin-bottom: 0;
+}
+.listing-updated {
+    font-weight: normal;
+    font-size: 85%;
+}
+.no-result, .loading-message {
+    margin-top: 1.5em;
+    font-style: italic;
+}
+.loading-error {
+    color: darkred;
+    font-style: normal;
+}
+
+.highlight-badge {
+    display: inline-block;
+    margin-left: 0.6em;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background-color: #fff3d6;
+    border: 1px solid #e0b850;
+    color: #7a5a00;
+    font-size: 65%;
+    font-weight: normal;
+    vertical-align: middle;
+}
+
+.keyword-count {
+    color: gray;
+    font-size: 85%;
+}
+.keyword-only {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: white;
+    color: gray;
+    font-size: 75%;
+    padding: 0 4px;
+    margin-left: 0.3em;
+}
+.keyword-only:hover {
+    color: black;
+    border-color: gray;
+    background: #dbf691;
 }
 
 .check-all-container {
@@ -123,4 +193,20 @@ label:hover .question-mark {
 }
 label:hover {
     color: blue;
+}
+
+@media (max-width: 600px) {
+    .check-all-container {
+        margin-right: 0;
+    }
+    .container-checkbox {
+        display: block;
+        margin-bottom: 1em;
+    }
+    .content {
+        margin-left: 0.75em;
+    }
+    .container-place, .container-place-city {
+        margin-left: 0.5em;
+    }
 }

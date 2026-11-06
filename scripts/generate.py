@@ -1,5 +1,6 @@
 import os, sys
 import json
+import datetime
 import argparse
 import tqdm
 
@@ -212,6 +213,11 @@ def check_keywords(data_keywords, data, exitOnError=False):
 REQUIRED_KEYS = ['Name', 'url', 'Place', 'Scientific-domain', 'Application-domain']
 OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords', 'Highlight']
 PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International']
+# Country names are written in French (the site groups companies by country name)
+COUNTRIES = ['Allemagne', 'Australie', 'Belgique', 'Brésil', 'Canada', 'Chine', 'Corée du Sud', 'Danemark',
+             'Espagne', 'États-Unis', 'Finlande', 'France', 'Inde', 'Israël', 'Italie', 'Japon', 'Lituanie',
+             'Maurice', 'Norvège', 'Nouvelle-Zélande', 'Pays-Bas', 'Pologne', 'Portugal', 'Royaume-Uni',
+             'Singapour', 'Suède', 'Suisse', 'Taïwan']
 PRODUCT_KEYS = ['Name', 'url']
 MAX_SCIENTIFIC_DOMAINS = 4  # keep only the core themes, otherwise the filters of the site become meaningless
 
@@ -244,6 +250,11 @@ def check_validity_data(data):
                 for key in (place if isinstance(place, dict) else {}):
                     if key not in PLACE_KEYS:
                         print(f'!! Warning: Unknown Place key [{key}] in entry {name} (allowed: {", ".join(PLACE_KEYS)})\n')
+                        valid = False
+                countries = place.get('Country', []) if isinstance(place, dict) else []
+                for country in (countries if isinstance(countries, list) else [countries]):
+                    if country not in COUNTRIES:
+                        print(f'!! Warning: Unknown country [{country}] in entry {name}, use the French name (see COUNTRIES in generate.py)\n')
                         valid = False
 
         products = entry.get('Product')
@@ -309,7 +320,17 @@ if __name__ == "__main__":
         print('Check URLs done\n')
 
     # export json
-    json_data = {'Keywords':data_keywords, 'Listing':data}
+    # 'Updated' only changes when the content changes, so that regenerating does not create a diff
+    updated = datetime.date.today().isoformat()
+    if os.path.isfile(filename_json_out):
+        with open(filename_json_out) as fid:
+            try:
+                previous = json.load(fid)
+                if previous.get('Keywords') == data_keywords and previous.get('Listing') == data and 'Updated' in previous:
+                    updated = previous['Updated']
+            except json.JSONDecodeError:
+                pass
+    json_data = {'Updated':updated, 'Keywords':data_keywords, 'Listing':data}
     with open(filename_json_out, 'w') as json_fid:
         json.dump(json_data, json_fid, indent=4)
 
