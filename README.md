@@ -217,6 +217,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Asobo](https://www.asobostudio.com/)**  
   * _Développement de jeu vidéos_
+  * **Produits**: Microsoft Flight Simulator, The Crew
   * **Localisation**: Bordeaux
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -375,7 +376,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Dark Matters](https://www.darkmatters.one/)**  
   * _Studio de films et VFX_
-  * **Localisation**: France/Paris
+  * **Localisation**: France/Paris (Tigery)
   * **Domaine scientifique/technique**: Acquisition, Reconstruction
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.darkmatters.one/jobs/)
@@ -393,6 +394,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[DigitalFish](https://www.digitalfish.com/)**  
   * _Outils pour l'animation 3D, 2D et VR_
+  * **Produits**: [Reflex](https://www.digitalfish.com/reflex/), [Lune](https://www.digitalfish.com/lune/)
   * **Localisation**: USA/California/San Mateo
   * **Domaine scientifique/technique**: Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -433,6 +435,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Dynamixyz](https://www.linkedin.com/company/dynamixyz)**  
   * _Markerless Facial Motion Capture_
+  * **Remarque**: _Team active de R&D publiant dans les conférences de graphique, et liens académiques._
   * **Localisation**: France/Rennes
   * **Domaine scientifique/technique**: Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données
   * **Domaine d'application**: Jeu Vidéo
@@ -470,6 +473,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Epic Games](https://www.epicgames.com/site/en-US/home)**  
   * _Développeur de jeu et du moteur 3D Unreal Engine_
+  * **Produits**: [Unreal Engine](https://www.unrealengine.com/)
   * **Localisation**: USA, International
   * **Nombres d'employés**: 2000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
@@ -619,6 +623,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Illumination Studios Paris](https://www.illuminationstudiosparis.com/)**  
   * _Création de films d'animation et d'effets visels._
+  * **Remarque**: _Anciennement Illumination Mac Guff._
   * **Localisation**: Paris
   * **Nombres d'employés**: 700
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Vision
@@ -706,6 +711,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Left Angle](https://www.left-angle.com/?language=en)**  
   * _Développeur d'outils de VFX, Compositing et Motion Design_
+  * **Remarque**: _Société et fondateur à la base du projet Open Source de compositing <a href="https://natron.fr/">Natron</a>._
   * **Localisation**: Grenoble
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -964,6 +970,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 
 * **[Perception4D](https://perception4d.com/)**  
+  * _Système d'acquisition par caméra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision._
   * **Localisation**: Lyon
   * **Domaine scientifique/technique**: Vision, Acquisition, Visualisation, Géométrie, IA
   * **Domaine d'application**: Générique
@@ -1217,6 +1224,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[The Foundry](https://www.foundry.com/)**  
   * _Développement de logiciels pour la création 3D et VFX_
+  * **Produits**: [Nuke](https://www.foundry.com/products/nuke-family), [Modo](https://www.foundry.com/products/modo)
   * **Localisation**: UK, USA, Australia
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX

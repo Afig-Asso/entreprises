@@ -16,6 +16,10 @@
 #    Info:       // Information supplémentaire autre que description générale.
 #    Product:    // Les produits principaux réalisés/vendus par l'entreprise.
 #    Employees:  // Nombre d'employés approximatifs
+#    Keywords:   // Mots clés libres (ex. Graphics, VFX, Pipeline)
+#    Highlight:  // Réservé: "Graphics, R&D" ou "R&D" pour signaler une entreprise majeure avec R&D avancée en France
+#
+#  Toute autre clé est signalée comme erreur par scripts/generate.py -C (faute de frappe probable).
 #
 # Syntaxe de Place:
 #   Place: NomVille                        // Indique une ville en France
@@ -250,7 +254,7 @@
   url: https://www.asobostudio.com/
   Jobs: https://www.asobostudio.com/careers
   Description: "Développement de jeu vidéos"
-  Products: "Microsoft Flight Simulator, The Crew"
+  Product: "Microsoft Flight Simulator, The Crew"
   Place: 
     - City: Bordeaux
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
@@ -451,7 +455,7 @@
   Place:
     - Country: France
       City: Paris
-      Precise: Tigery
+      Exact: Tigery
   Scientific-domain: [Acquisition, Reconstruction]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   
@@ -474,7 +478,7 @@
 - Name: DigitalFish
   url: https://www.digitalfish.com/
   Description: "Outils pour l'animation 3D, 2D et VR"
-  Products:
+  Product:
     - Name: Reflex
       url: https://www.digitalfish.com/reflex/
     - Name: Lune
@@ -530,7 +534,7 @@
 - Name: Dynamixyz
   url: https://www.linkedin.com/company/dynamixyz
   Description: "Markerless Facial Motion Capture"
-  Note: "Team active de R&D pubiant dans les conférences de graphique, et liens académiques."
+  Info: "Team active de R&D publiant dans les conférences de graphique, et liens académiques."
   Place: 
     - Country: France
       City: Rennes
@@ -577,7 +581,7 @@
 - Name: Epic Games
   url: https://www.epicgames.com/site/en-US/home
   Description: "Développeur de jeu et du moteur 3D Unreal Engine"
-  Products: 
+  Product: 
     - Name: Unreal Engine
       url: https://www.unrealengine.com/
   Jobs: https://www.epicgames.com/site/en-US/careers/jobs
@@ -770,7 +774,7 @@
 - Name: Illumination Studios Paris
   url: https://www.illuminationstudiosparis.com/
   Description: "Création de films d'animation et d'effets visels."
-  Note: Ancienncement Illumination Mac Guff.
+  Info: Anciennement Illumination Mac Guff.
   Place: Paris
   Jobs: https://www.illuminationstudiosparis.com/careers/
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Vision]
@@ -868,7 +872,7 @@
 - Name: Left Angle
   url: https://www.left-angle.com/?language=en
   Description: "Développeur d'outils de VFX, Compositing et Motion Design"
-  Note: "Société et fondateur à la base du projet Open Source de compositing <a href=\"https://natron.fr/\">Natron</a>."
+  Info: "Société et fondateur à la base du projet Open Source de compositing <a href=\"https://natron.fr/\">Natron</a>."
   Place: Grenoble
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1205,7 +1209,7 @@
 
 - Name: Perception4D
   url: https://perception4d.com/
-  Descrption: "Système d'acquisition par caméra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision."
+  Description: "Système d'acquisition par caméra et scanners, de visualisation scientifique et d'approches d'IA pour la Vision."
   Place: Lyon
   Scientific-domain: [Vision, Acquisition, Visualisation, Géométrie, IA]
   Application-domain: [Générique]
@@ -1536,7 +1540,7 @@
 - Name: The Foundry
   Description: "Développement de logiciels pour la création 3D et VFX"
   url: https://www.foundry.com/
-  Products: 
+  Product: 
     - Name: Nuke
       url: https://www.foundry.com/products/nuke-family
     - Name: Modo

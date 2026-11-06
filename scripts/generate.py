@@ -208,15 +208,46 @@ def check_keywords(data_keywords, data, exitOnError=False):
         exit(1)
 
 
-def check_validity_data(data):
+# Keys accepted in data.yaml (anything else is most likely a typo)
+REQUIRED_KEYS = ['Name', 'url', 'Place', 'Scientific-domain', 'Application-domain']
+OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords', 'Highlight']
+PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International']
+PRODUCT_KEYS = ['Name', 'url']
 
-    required_keywords = ['Application-domain', 'Scientific-domain']
+def check_validity_data(data):
+    """Check required and unknown keys of each entry. Return True if no problem was found."""
+    valid = True
+    allowed_keys = set(REQUIRED_KEYS + OPTIONAL_KEYS)
     for entry in data:
         assert 'Name' in entry
         name = entry['Name']
-        for key in required_keywords:
+        for key in REQUIRED_KEYS:
             if key not in entry:
                 print(f'!! Warning: Missing {key} in entry {name}\n')
+                valid = False
+        for key in entry:
+            if key not in allowed_keys:
+                print(f'!! Warning: Unknown key [{key}] in entry {name} (allowed: {", ".join(sorted(allowed_keys))})\n')
+                valid = False
+
+        places = entry.get('Place')
+        if isinstance(places, dict):
+            places = [places]
+        if isinstance(places, list):
+            for place in places:
+                for key in (place if isinstance(place, dict) else {}):
+                    if key not in PLACE_KEYS:
+                        print(f'!! Warning: Unknown Place key [{key}] in entry {name} (allowed: {", ".join(PLACE_KEYS)})\n')
+                        valid = False
+
+        products = entry.get('Product')
+        if isinstance(products, list):
+            for product in products:
+                for key in (product if isinstance(product, dict) else {}):
+                    if key not in PRODUCT_KEYS:
+                        print(f'!! Warning: Unknown Product key [{key}] in entry {name} (allowed: {", ".join(PRODUCT_KEYS)})\n')
+                        valid = False
+    return valid
 
 def load_url_exceptions(filename, urls):
     """Read url_exceptions.yaml (list of {url, reason, since}) and return the set of urls."""
@@ -254,7 +285,10 @@ if __name__ == "__main__":
     data = liblisting.yaml_read_file(filename_yaml)
     data_keywords = liblisting.yaml_read_file(filename_yaml_keywords)
 
-    check_validity_data(data)
+    is_data_valid = check_validity_data(data)
+    if exit_on_failure and not is_data_valid:
+        print('Invalid data.yaml (see warnings above), exit')
+        exit(1)
 
     if is_check:
         print('Found',len(data),'Companies\n')
