@@ -12,6 +12,7 @@
 
   - `data.yaml`: Base de données des entreprises 
   - `keywords.yaml`: Mots clés 
+  - `url_exceptions.yaml`: URLs ignorées par la vérification d'accessibilité (avec la raison et la date d'ajout)
 
 ### Générer un site après modification: 
 
@@ -32,6 +33,11 @@ generate.py [-c] [-C]
   -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs.
         Quit if errors are detected.
 ```
+
+Vérification des URLs : seules les pages disparues (HTTP 404/410) et les domaines introuvables
+font échouer la vérification. Les erreurs temporaires ou invérifiables (403, 429, 5xx, timeout,
+certificat SSL) sont affichées comme simples avertissements. Pour ignorer un site valide que le
+vérificateur ne sait pas tester, l'ajouter dans `url_exceptions.yaml`.
 
 ### Site web: 
 

@@ -1,7 +1,9 @@
 import os
+import socket
+import time
 import yaml # pip3 install pyyaml
 import urllib.request, urllib.error
-from joblib import Parallel, delayed # pip3 install joblib
+from concurrent.futures import ThreadPoolExecutor
 
 
 def yaml_read_file(pathname):
@@ -34,43 +36,62 @@ def get_all_urls(data):
     return all_urls
 
 
-def is_url_valid(url):
+USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36'
+
+# HTTP codes meaning the page really does not exist anymore
+HARD_HTTP_ERRORS = {404, 410}
+
+
+def classify_url(url):
+    """Return (status, message) with status in 'ok', 'warn' (temporary or
+    unverifiable, does not fail the check) or 'fail' (page or domain gone)."""
+    request = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
     try:
-        with urllib.request.urlopen(url, timeout=25):
+        with urllib.request.urlopen(request, timeout=25):
             pass
     except urllib.error.HTTPError as e:
-        if e.code==403: # server that doesn't allow non browser request
-            return True
-        print(f'\n\nWarning: URL seems down {url}')
-        print('Error code: ', e.code)
-        return False
+        if e.code in HARD_HTTP_ERRORS:
+            return 'fail', f'HTTP {e.code}'
+        return 'warn', f'HTTP {e.code}'
     except urllib.error.URLError as e:
-        # Not accessible but not an error
-        if str(e.reason).find('SSL: WRONG_SIGNATURE_TYPE')!=-1: 
-            return True
-        if str(e.reason).find('SSL: CERTIFICATE_VERIFY_FAILED')!=-1: 
-            return True
-
-        print(f'\n\nWarning: URL seems wrong: {url}')
-        print('Reason: ', e.reason)
-        return False
+        if isinstance(e.reason, socket.gaierror):
+            return 'fail', f'domain not found ({e.reason})'
+        return 'warn', str(e.reason)
     except Exception as e:
-        print(f'\n\nWarning: URL check failed for: {url}')
-        print(e.args)
-        print()
-        return False
-    else:
-        return True
+        return 'warn', f'{type(e).__name__}: {e}'
+    return 'ok', ''
 
 
+def classify_url_with_retry(url, retry_delay=3):
+    """Retry once a 'fail' result to avoid transient DNS errors."""
+    status, message = classify_url(url)
+    if status == 'fail':
+        time.sleep(retry_delay)
+        status, message = classify_url(url)
+    return status, message
 
 
-def check_urls(urls, exitOnError=False, exceptions={}):
-    results = Parallel(n_jobs=20)(delayed(is_url_valid)(url) for url in urls if url not in exceptions)
+def is_url_valid(url):
+    return classify_url(url)[0] != 'fail'
 
-    if exitOnError==True and not all(results):
-        print("Exit due to Error")
+
+def check_urls(urls, exitOnError=False, exceptions=()):
+    to_check = sorted(set(u for u in urls if u not in exceptions))
+    with ThreadPoolExecutor(max_workers=20) as pool:
+        results = list(pool.map(classify_url_with_retry, to_check))
+
+    warnings = [(u, m) for u, (s, m) in zip(to_check, results) if s == 'warn']
+    failures = [(u, m) for u, (s, m) in zip(to_check, results) if s == 'fail']
+    print(f'{len(to_check)} URLs checked, {len(exceptions)} ignored (url_exceptions.yaml)')
+    for u, m in warnings:
+        print(f'  Warning (not blocking): {u} -> {m}')
+    for u, m in failures:
+        print(f'  ERROR: {u} -> {m}')
+
+    if exitOnError==True and len(failures)>0:
+        print(f"Exit due to {len(failures)} unreachable URL(s)")
         exit(1)
+    return len(failures)==0
 
 
 def get_key_list_to_string(key, data, separator=', '):

@@ -10,6 +10,7 @@ import liblisting
 meta = {
     'filename_yaml': 'data.yaml',
     'filename_yaml_keywords': 'keywords.yaml',
+    'filename_yaml_url_exceptions': 'url_exceptions.yaml',
     'filename_json_out': 'json/data.json',
     'filename_md_out': 'README.md'
 }
@@ -217,6 +218,21 @@ def check_validity_data(data):
             if key not in entry:
                 print(f'!! Warning: Missing {key} in entry {name}\n')
 
+def load_url_exceptions(filename, urls):
+    """Read url_exceptions.yaml (list of {url, reason, since}) and return the set of urls."""
+    if not os.path.isfile(filename):
+        return set()
+    entries = liblisting.yaml_read_file(filename) or []
+    exceptions = set()
+    for entry in entries:
+        assert isinstance(entry, dict) and 'url' in entry, f'Invalid entry in {filename}: {entry}'
+        if 'reason' not in entry:
+            print(f"!! Warning: no 'reason' for url exception {entry['url']}")
+        exceptions.add(entry['url'])
+    for url in sorted(exceptions - set(urls)):
+        print(f'!! Warning: url exception {url} is not used in data.yaml anymore, it can be removed')
+    return exceptions
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Generate Listing')
@@ -230,6 +246,7 @@ if __name__ == "__main__":
 
     filename_yaml = root_path+'/../'+meta['filename_yaml']
     filename_yaml_keywords = root_path+'/../'+meta['filename_yaml_keywords']
+    filename_yaml_url_exceptions = root_path+'/../'+meta['filename_yaml_url_exceptions']
     filename_json_out = root_path+'/../'+meta['filename_json_out']
     filename_md_out = root_path+'/../'+meta['filename_md_out']
 
@@ -247,7 +264,7 @@ if __name__ == "__main__":
 
         print('Check URLs ...')
         urls = liblisting.get_all_urls(data)
-        exceptions = {'https://www.amd.com/', 'https://www.microsoft.com/', 'https://www.clo3d.com/en/', 'https://shotover.com/', 'https://www.lestontonstruqueurs.com/', 'https://www.united-vr.com/','https://www.linkedin.com/company/newtone-technologies/', 'https://www.activision.com/','https://www.theiamarkerless.ca/','https://www.theiamarkerless.ca/','https://www.cube-creative.com/','https://www.2d3d-animations.com','https://www.macguff.com/', 'https://www.darkmatters.one/', 'https://www.movea-tech.com/', 'https://www.linkedin.com/company/dynamixyz', 'https://www.linkedin.com/company/technodigit-sarl/', 'https://www.tvpaint.com/','https://kylotonn.com/'}
+        exceptions = load_url_exceptions(filename_yaml_url_exceptions, urls)
         liblisting.check_urls(urls, exitOnError=exit_on_failure, exceptions=exceptions)
         print('Check URLs done\n')
 
