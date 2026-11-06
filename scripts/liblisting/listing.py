@@ -1,7 +1,6 @@
-import os, sys
+import os
 import yaml # pip3 install pyyaml
 import urllib.request, urllib.error
-import tqdm
 from joblib import Parallel, delayed # pip3 install joblib
 
 
@@ -37,7 +36,8 @@ def get_all_urls(data):
 
 def is_url_valid(url):
     try:
-        url_open = urllib.request.urlopen(url, timeout=25)
+        with urllib.request.urlopen(url, timeout=25):
+            pass
     except urllib.error.HTTPError as e:
         if e.code==403: # server that doesn't allow non browser request
             return True
@@ -66,7 +66,6 @@ def is_url_valid(url):
 
 
 def check_urls(urls, exitOnError=False, exceptions={}):
-    success = True
     results = Parallel(n_jobs=20)(delayed(is_url_valid)(url) for url in urls if url not in exceptions)
 
     if exitOnError==True and not all(results):
@@ -78,7 +77,7 @@ def get_key_list_to_string(key, data, separator=', '):
 
     element = data[key]
     if isinstance(element,list):
-        out = ', '.join(element)
+        out = separator.join(element)
     else:
         out = str(element)
     return out
@@ -90,20 +89,11 @@ def get_optional(key, data):
     else:
         return ''
 
-def display_optional(s, indent=2, pre='* ', post='', bold=False, italic=False):
-
-    additional_pre = ''
-    additional_post = ''
-    if bold==True:
-        additional_pre = '**'
-        additional_post = '**'
-    if italic==True:
-        additional_pre = '_'
-        additional_post = '_'
+def display_optional(s, indent=2, pre='* ', post=''):
 
     if s!='':
         space_fill = ' '*indent
-        out = f'{space_fill}{pre}{additional_pre}{s}{additional_post}{post}\n'
+        out = f'{space_fill}{pre}{s}{post}\n'
         return out
     else:
         return ''

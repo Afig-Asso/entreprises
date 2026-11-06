@@ -1,6 +1,5 @@
 import os
 import shutil
-import re
 
 meta = {
     'filename_yaml': 'data.yaml',
