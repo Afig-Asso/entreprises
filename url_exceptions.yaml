@@ -13,18 +13,12 @@
 # indique l'état observé le 2026-11-06 avec un navigateur. Une exception qui
 # répond 200 peut probablement être retirée.
 
-- url: https://www.linkedin.com/company/newtone-technologies/
-  reason: LinkedIn bloque les robots (403)
-  since: 2023-10-25
 - url: https://www.linkedin.com/company/dynamixyz
   reason: LinkedIn bloque les robots (403)
   since: 2023-11-17
 - url: https://www.linkedin.com/company/technodigit-sarl/
   reason: LinkedIn bloque les robots (403)
   since: 2024-03-29
-- url: https://www.cube-creative.com/
-  reason: raison non notée ; injoignable le 2026-11-06, à vérifier
-  since: 2023-11-01
 - url: https://www.2d3d-animations.com
   reason: raison non notée ; injoignable le 2026-11-06, à vérifier
   since: 2023-11-02
@@ -41,24 +35,12 @@
 - url: https://shotover.com/
   reason: raison non notée ; répond 200 le 2026-11-06
   since: 2023-10-11
-- url: https://www.lestontonstruqueurs.com/
-  reason: raison non notée ; répond 200 le 2026-11-06
-  since: 2023-10-12
 - url: https://www.united-vr.com/
   reason: raison non notée ; répond 200 le 2026-11-06
   since: 2023-10-20
 - url: https://www.activision.com/
   reason: raison non notée ; répond 200 le 2026-11-06
   since: 2023-10-28
-- url: https://www.theiamarkerless.ca/
-  reason: raison non notée ; répond 200 le 2026-11-06
-  since: 2023-10-31
-- url: https://www.darkmatters.one/
-  reason: raison non notée ; répond 200 le 2026-11-06
-  since: 2023-11-10
-- url: https://www.movea-tech.com/
-  reason: raison non notée ; répond 200 le 2026-11-06
-  since: 2023-11-17
 - url: https://www.tvpaint.com/
   reason: raison non notée ; répond 200 le 2026-11-06
   since: 2024-10-27

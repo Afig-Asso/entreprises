@@ -77,32 +77,33 @@
             "Name": "2d3D Animations",
             "url": "https://www.2d3d-animations.com",
             "Description": "Studio de production de films d'animations.",
-            "Place": "Angoul\u00e8me",
+            "Place": "Angoul\u00eame",
             "Scientific-domain": [
                 "Mod\u00e9lisation",
                 "Animation"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ],
-            "Jobs": "https://www.2d3d-animations.com/emploi/"
+            ]
         },
         {
             "Name": "2 minutes",
-            "url": "http://2minutes.fr/",
+            "url": "https://2minutes.fr/",
             "Description": "Studio production dessins anim\u00e9s.",
             "Place": [
                 {
                     "City": "Paris"
                 },
                 {
-                    "City": "Angoul\u00e8me"
+                    "City": "Angoul\u00eame"
                 },
                 {
-                    "Country": "Canada"
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 },
                 {
-                    "Country": "China"
+                    "Country": "China",
+                    "City": "Nanjing"
                 }
             ],
             "Scientific-domain": [
@@ -115,7 +116,7 @@
         },
         {
             "Name": "3.0 Studio",
-            "Description": "Studio d'animation pour films courts, TV, et cr\u00e9ation artisitques.",
+            "Description": "Studio d'animation pour films courts, TV, et cr\u00e9ations artistiques.",
             "url": "https://www.3point0studio.com/en/home/",
             "Place": "Angoul\u00eame",
             "Scientific-domain": [
@@ -129,7 +130,10 @@
             "Name": "3DVerse",
             "url": "https://3dverse.com/",
             "Description": "Cloud-Native Real-Time 3D Development Platform",
-            "Place": "Montreal",
+            "Place": {
+                "Country": "Canada",
+                "City": "Montr\u00e9al"
+            },
             "Scientific-domain": [
                 "Mod\u00e9lisation",
                 "Web/Cloud/Big Data"
@@ -154,7 +158,7 @@
         },
         {
             "Name": "4D Fun",
-            "Description": "Studio d'immersion virtuelle",
+            "Description": "Capture volum\u00e9trique, streaming 4D et exp\u00e9riences XR",
             "url": "https://4dfun.io/",
             "Place": [
                 {
@@ -226,7 +230,8 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Info": "Filiale de Microsoft (Xbox) depuis le rachat d'Activision Blizzard en octobre 2023."
         },
         {
             "Name": "Adobe",
@@ -272,18 +277,13 @@
             ],
             "Info": "Centre de recherche \u00e0 Paris",
             "Highlight": "Graphics, R&D",
-            "Employees": 20000
+            "Employees": 31000
         },
         {
             "Name": "Agenium",
             "url": "https://www.agenium.com/",
             "Description": "Simulation num\u00e9rique",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Toulouse, Paris, Rennes"
-                }
-            ],
+            "Place": "Toulouse, Saint-Germain-en-Laye, Rennes",
             "Scientific-domain": [
                 "Simulation",
                 "Design/Fabrication",
@@ -297,7 +297,7 @@
             ]
         },
         {
-            "Name": "Align Technologies",
+            "Name": "Align Technology",
             "url": "https://www.aligntech.com/",
             "Description": "Dispositif et imagerie m\u00e9dicale pour l'orthodontie",
             "Place": [
@@ -322,7 +322,8 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Employees": 20000
         },
         {
             "Name": "Alma",
@@ -330,7 +331,7 @@
             "url": "https://www.alma.fr/nos-activites/logiciels-cfao/",
             "Description": "Edition de logiciels de Conception et Fabrication d'objets manufactur\u00e9s.",
             "Place": "Grenoble, Lyon, Tarbes, Paris, Annecy",
-            "Jobs": "https://recrutement.alma.fr/cv/",
+            "Jobs": "https://recrutement.alma.fr/",
             "Scientific-domain": [
                 "Mod\u00e9lisation",
                 "Design/Fabrication"
@@ -345,7 +346,7 @@
             "Name": "Alteia",
             "url": "https://alteia.com/",
             "Description": "Logiciels de Vision et IA.",
-            "Jobs": "https://alteia.com/company/#careers",
+            "Jobs": "https://careers.alteia.com/",
             "Place": [
                 "Toulouse",
                 "Paris"
@@ -356,13 +357,15 @@
             ],
             "Application-domain": [
                 "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
+            ],
+            "Info": "Rachet\u00e9 par GE Vernova en 2025 (int\u00e9gr\u00e9 \u00e0 GridOS Visual Intelligence).",
+            "Employees": 80
         },
         {
             "Name": "AMD",
             "Description": "D\u00e9veloppement de processeurs et cartes graphiques: d\u00e9veloppement mat\u00e9riel et logiciel.",
             "url": "https://www.amd.com/",
-            "Jobs": "https://www.amd.com/en/corporate/careers",
+            "Jobs": "https://careers.amd.com/careers-home/jobs",
             "Place": [
                 {
                     "Country": "USA"
@@ -382,7 +385,7 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ],
-            "Employees": 16000
+            "Employees": 31000
         },
         {
             "Name": "Amplitude Studios",
@@ -402,13 +405,14 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Info": "Studio redevenu ind\u00e9pendant en novembre 2024 (rachat \u00e0 Sega par son \u00e9quipe dirigeante).",
+            "Employees": 150
         },
         {
             "Name": "Anatoscope",
             "Description": "Logiciels pour l'anatomie 3D num\u00e9rique personnalis\u00e9 (orthopedie, dentaire, radiologique).",
             "url": "https://www.anatoscope.com/",
-            "Jobs": "https://www.anatoscope.com/offres-demploi-grenoble-montpellier/",
             "Place": "Grenoble, Montpellier",
             "Scientific-domain": [
                 "Mod\u00e9lisation",
@@ -421,7 +425,8 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Info": "Filiales : Circle Dental, COPOPSA, Capteo Tech, Anatopass. Si\u00e8ge \u00e0 Meylan."
         },
         {
             "Name": "Animal Logic",
@@ -438,7 +443,7 @@
                 },
                 {
                     "Country": "USA",
-                    "City": "Los Angeles"
+                    "City": "Burbank"
                 }
             ],
             "Scientific-domain": [
@@ -450,7 +455,8 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Employees": 1300
+            "Employees": 1300,
+            "Info": "Rachet\u00e9 par Netflix (2022) ; fait partie de Netflix Animation Studios depuis 2024."
         },
         {
             "Name": "Apple",
@@ -476,21 +482,11 @@
             "Employees": 160000
         },
         {
-            "Name": "Arkane Studio",
+            "Name": "Arkane Studios",
             "Description": "D\u00e9veloppeur de jeu vid\u00e9o",
             "url": "https://www.arkane-studios.com/fr",
             "Jobs": "https://www.arkane-studios.com/fr#studios",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Lyon"
-                },
-                {
-                    "Country": "USA",
-                    "State": "Texas",
-                    "City": "Austin"
-                }
-            ],
+            "Place": "Lyon",
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
@@ -498,7 +494,8 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Info": "Arkane Austin ferm\u00e9 par Microsoft en mai 2024. Fin 2026, Arkane Lyon (Marvel's Blade) est menac\u00e9 de fermeture : Microsoft cherche un repreneur (\u00e9ch\u00e9ance repouss\u00e9e au 13/12/2026)."
         },
         {
             "Name": "Artefacto",
@@ -510,7 +507,7 @@
                     "Exact": "Betton"
                 }
             ],
-            "Jobs": "https://www.artefacto-ar.com/en/carrieres/",
+            "Jobs": "https://www.artefacto-ar.com/entreprise/carrieres/",
             "Scientific-domain": [
                 "VR/AR",
                 "Visualisation",
@@ -519,7 +516,9 @@
             "Application-domain": [
                 "Architecture/Immobilier",
                 "Entrainement/Formation/Serious Game"
-            ]
+            ],
+            "Info": "Le site annonce qu'Artefacto devient INVELON France.",
+            "Employees": 35
         },
         {
             "Name": "Asobo",
@@ -540,7 +539,8 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 300
         },
         {
             "Name": "Autodesk",
@@ -576,12 +576,12 @@
                 "Automobile/Navigation/Aviation",
                 "M\u00e9canique/Ing\u00e9nierie civile"
             ],
-            "Employees": 10000
+            "Employees": 15000
         },
         {
             "Name": "Avatar Medical",
-            "url": "https://avatarmedical.ai/",
-            "Jobs": "https://avatarmedical.ai/jobs/",
+            "url": "https://www.avatarmedical.ai/",
+            "Jobs": "https://www.avatarmedical.ai/careers",
             "Description": "Representations et visualisation en imagerie m\u00e9dicale",
             "Place": [
                 {
@@ -623,7 +623,7 @@
             "Name": "Bentley",
             "Description": "D\u00e9veloppement de logiciels pour l'ing\u00e9nierie civile (simulation, visualisation, acquisition). D\u00e9tient l'ancienne entreprise Francaise de reconstruction 3D \"Acute 3D\".",
             "url": "https://www.bentley.com/",
-            "Jobs": "https://jobs.bentley.com/search",
+            "Jobs": "https://bentleysystems.wd5.myworkdayjobs.com/bentley",
             "Place": [
                 {
                     "Country": "USA"
@@ -663,17 +663,16 @@
                 "M\u00e9canique/Ing\u00e9nierie civile",
                 "Automobile/Navigation/Aviation"
             ],
-            "Employees": 4000
+            "Employees": 5000
         },
         {
             "Name": "Blippar",
             "Description": "D\u00e9veloppement d'outils pour la cr\u00e9ation de contenu en AR sur smartphone",
-            "url": "https://www.blippar.com/",
+            "url": "https://www.blipparstudios.com/",
             "Place": {
                 "Country": "UK",
                 "City": "Londres"
             },
-            "Jobs": "https://www.blippar.com/careers#Jobs",
             "Scientific-domain": [
                 "VR/AR",
                 "Mod\u00e9lisation",
@@ -687,8 +686,16 @@
             "Name": "Blue Spirit",
             "Description": "Studio d'animation",
             "Place": [
-                "Paris",
-                "Angoul\u00eame"
+                {
+                    "City": "Paris"
+                },
+                {
+                    "City": "Angoul\u00eame"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
+                }
             ],
             "url": "https://www.spirit-prod.com/",
             "Scientific-domain": [
@@ -696,7 +703,8 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Jobs": "https://www.spirit-prod.com/en/jobs/"
         },
         {
             "Name": "Bobbypills",
@@ -784,13 +792,14 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Info": "Rachet\u00e9 par Bentley Systems en septembre 2024 (int\u00e9gr\u00e9 \u00e0 la plateforme iTwin)."
         },
         {
             "Name": "Chaos",
             "url": "https://www.chaos.com/",
             "Description": "Logiciel de rendu et moteur de simulation",
-            "Product": "VRay",
+            "Product": "V-Ray, Corona, Enscape",
             "Jobs": "https://careers.chaos.com/",
             "Place": [
                 {
@@ -801,7 +810,8 @@
                 "Synth\u00e8se d'image"
             ],
             "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Architecture/Immobilier"
             ]
         },
         {
@@ -831,7 +841,7 @@
         {
             "Name": "Circle Dental",
             "url": "https://www.circle.dental/",
-            "Description": "Plateforme num\u00e9rique pour l'orthodontie",
+            "Description": "Logiciel de conception dentaire au fauteuil (Circle One) : IA, jumeau num\u00e9rique et simulation biom\u00e9canique.",
             "Place": [
                 {
                     "Country": "France",
@@ -840,11 +850,14 @@
             ],
             "Scientific-domain": [
                 "Imagerie",
-                "Design/Fabrication"
+                "Design/Fabrication",
+                "Simulation",
+                "IA"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Product": "Circle One"
         },
         {
             "Name": "CLO Virtual Fashion",
@@ -875,18 +888,6 @@
             ]
         },
         {
-            "Name": "Cube Creative",
-            "Description": "Studio d'animaiton",
-            "Place": "Paris",
-            "url": "https://www.cube-creative.com/",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
             "Name": "Cyanide Studio",
             "url": "https://cyanide-studio.com/fr/",
             "Jobs": "https://cyanide-studio.com/fr/nous-rejoindre/",
@@ -905,32 +906,9 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
-        },
-        {
-            "Name": "Cyber Group Studios",
-            "url": "https://www.cybergroupstudios.com/",
-            "Jobs": "https://www.cybergroupstudios.com/about-us/#jobs",
-            "Description": "Studio de cr\u00e9ation d'animation pour enfants",
-            "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Burbank"
-                },
-                {
-                    "Country": "France",
-                    "City": [
-                        "Paris",
-                        "Roubaix"
-                    ]
-                }
             ],
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            "Employees": 150,
+            "Info": "Filiale du groupe Nacon."
         },
         {
             "Name": "Dada! Animation",
@@ -942,27 +920,8 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Dark Matters",
-            "Description": "Studio de films et VFX",
-            "url": "https://www.darkmatters.one/",
-            "Jobs": "https://www.darkmatters.one/jobs/",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris",
-                    "Exact": "Tigery"
-                }
             ],
-            "Scientific-domain": [
-                "Acquisition",
-                "Reconstruction"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            "Employees": 15
         },
         {
             "Name": "Dassault Syst\u00e8mes",
@@ -1037,7 +996,7 @@
             "Name": "Disney",
             "Info": "<a href=\"https://studios.disneyresearch.com/\">Disney Research</a> implant\u00e9 \u00e0 Zurich est l'un des plus gros centre de R&amp;D en graphique.",
             "url": "https://www.disneystudios.com/",
-            "Jobs": "https://jobs.disneycareers.com/",
+            "Jobs": "https://join.disneycareers.com/global/en",
             "Place": [
                 {
                     "Country": "USA"
@@ -1085,7 +1044,8 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 250
         },
         {
             "Name": "DreamWall",
@@ -1095,7 +1055,7 @@
             "Place": [
                 {
                     "Country": "Belgique",
-                    "City": "Charleroix"
+                    "City": "Charleroi"
                 }
             ],
             "Scientific-domain": [
@@ -1109,24 +1069,36 @@
             "Name": "Dronisos",
             "url": "https://www.dronisos.com/",
             "Description": "Spectacle de drones",
-            "Place": "Bordeaux",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Bordeaux"
+                },
+                {
+                    "Country": "USA",
+                    "City": "Orlando"
+                }
+            ],
             "Scientific-domain": [
                 "Acquisition",
                 "VR/AR"
             ],
             "Application-domain": [
                 "Art/Evenementiel"
-            ]
+            ],
+            "Jobs": "https://www.welcometothejungle.com/fr/companies/dronisos",
+            "Employees": 35
         },
         {
             "Name": "Dynamixyz",
             "url": "https://www.linkedin.com/company/dynamixyz",
             "Description": "Markerless Facial Motion Capture",
-            "Info": "Team active de R&D publiant dans les conf\u00e9rences de graphique, et liens acad\u00e9miques.",
+            "Info": "Rachet\u00e9 par Take-Two Interactive en 2021 ; travaille d\u00e9sormais exclusivement pour les studios du groupe (Rockstar, 2K). Team active de R&D publiant dans les conf\u00e9rences de graphique, et liens acad\u00e9miques.",
             "Place": [
                 {
                     "Country": "France",
-                    "City": "Rennes"
+                    "City": "Rennes",
+                    "Exact": "Cesson-S\u00e9vign\u00e9"
                 }
             ],
             "Scientific-domain": [
@@ -1139,11 +1111,12 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 15
         },
         {
             "Name": "Easy Mile",
-            "Description": "Logiciels et traitement de donn\u00e9es pour la voiture autonome",
+            "Description": "V\u00e9hicules autonomes industriels (logistique, a\u00e9roports, sites industriels) : perception et logiciels de conduite autonome.",
             "url": "https://easymile.com/",
             "Jobs": "https://www.welcometothejungle.com/en/companies/easymile/jobs",
             "Place": [
@@ -1163,7 +1136,8 @@
             ],
             "Application-domain": [
                 "Automobile/Navigation/Aviation"
-            ]
+            ],
+            "Employees": 150
         },
         {
             "Name": "Eden Games",
@@ -1184,16 +1158,19 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 75,
+            "Info": "Filiale d'Animoca Brands."
         },
         {
             "Name": "Effigy 3D",
             "url": "https://effigy-3d.com/",
-            "Description": "Studio de creation digitale 3D: Scan 3D, Mocap, Avatars.",
+            "Description": "Studio de cr\u00e9ation 3D et d'humains num\u00e9riques : avatars IA conversationnels, vid\u00e9o volum\u00e9trique (4DGS), scan 3D, Mocap, production virtuelle.",
             "Place": "Paris",
             "Scientific-domain": [
                 "Animation",
                 "Acquisition",
+                "Reconstruction",
                 "VR/AR"
             ],
             "Application-domain": [
@@ -1202,8 +1179,8 @@
         },
         {
             "Name": "Emersya",
-            "url": "https://emersya.com/en/home",
-            "Description": "Creation de mod\u00e8les de produits en 3D et d'exp\u00e9riences interactives",
+            "url": "https://www.emersya.com/",
+            "Description": "Plateforme 3D et AR pour le e-commerce : configurateurs et visualiseurs 3D interactifs, AR web, rendu automatis\u00e9 de produits.",
             "Place": [
                 {
                     "Country": "France",
@@ -1217,7 +1194,9 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Jobs": "https://www.emersya.com/join-us/",
+            "Employees": 30
         },
         {
             "Name": "Epic Games",
@@ -1265,9 +1244,9 @@
         },
         {
             "Name": "ESI",
-            "url": "https://www.esi-group.com/",
+            "url": "https://www.keysight.com/us/en/products/design-engineering-software/computer-aided-engineering-software.html",
             "Description": "Entreprise Francaise de simulation, prototypage virtuel, et Double num\u00e9rique pour l'industrie",
-            "Jobs": "https://www.esi-group.com/join-us",
+            "Jobs": "https://jobs.keysight.com/",
             "Employees": 1000,
             "Place": [
                 {
@@ -1290,7 +1269,8 @@
                 "Automobile/Navigation/Aviation",
                 "S\u00e9curit\u00e9/D\u00e9fense",
                 "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
+            ],
+            "Info": "Rachet\u00e9 par Keysight Technologies (finalis\u00e9 en janvier 2024) ; l'entit\u00e9 fran\u00e7aise est devenue Keysight Technologies France. Le site esi-group.com redirige vers Keysight."
         },
         {
             "Name": "EVA",
@@ -1309,7 +1289,7 @@
             ]
         },
         {
-            "Name": "Falcons Creatrive",
+            "Name": "Falcon's Creative Group",
             "url": "https://falconscreativegroup.com/",
             "Description": "Creation d'exp\u00e9rience immersive pour les parcs d'attractions",
             "Place": [
@@ -1318,7 +1298,7 @@
                     "City": "Orlando"
                 }
             ],
-            "Jobs": "https://falconscreativegroup.com/about-us/careers/",
+            "Jobs": "https://falconscreativegroup.com/careers/",
             "Scientific-domain": [
                 "VR/AR",
                 "Autres"
@@ -1326,7 +1306,8 @@
             "Application-domain": [
                 "Loisir Interactif/Immersion/Metavers",
                 "Art/Evenementiel"
-            ]
+            ],
+            "Info": "Division de Falcon's Beyond Global (Nasdaq : FBYD)."
         },
         {
             "Name": "Fix Studio",
@@ -1342,8 +1323,8 @@
             ]
         },
         {
-            "Name": "Focus Entrainment",
-            "Description": "D\u00e9veloppement de jeu vid\u00e9os",
+            "Name": "Focus Entertainment",
+            "Description": "\u00c9dition et d\u00e9veloppement de jeux vid\u00e9o.",
             "url": "https://www.focus-entmt.com/fr",
             "Jobs": "https://focusentertainment.recruitee.com/",
             "Place": [
@@ -1359,13 +1340,14 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Info": "Branche \u00e9dition (Focus Entertainment Publishing) du groupe <a href=\"https://pullupent.com/\">PULLUP Entertainment</a>, nouveau nom de Focus Entertainment depuis avril 2024."
         },
         {
             "Name": "Gameloft",
             "Description": "D\u00e9veloppement de jeux vid\u00e9os orient\u00e9s mobile.",
             "url": "https://www.gameloft.com/",
-            "Jobs": "https://www.gameloft.com/corporate/fr/jobs/apply/",
+            "Jobs": "https://www.gameloft.com/jobs",
             "Place": [
                 {
                     "Country": "France",
@@ -1387,7 +1369,7 @@
                     "International": true
                 }
             ],
-            "Employees": 3600,
+            "Employees": 2400,
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
@@ -1421,7 +1403,8 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Employees": 8
         },
         {
             "Name": "Gleamer",
@@ -1435,11 +1418,12 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Employees": 75
         },
         {
             "Name": "Golaem",
-            "url": "https://golaem.com/",
+            "url": "https://www.autodesk.com/solutions/golaem",
             "Description": "Logiciel de creation et controle de foules de personnes. Utilis\u00e9 dans de nombreux films avec VFX",
             "Place": "Rennes",
             "Scientific-domain": [
@@ -1447,7 +1431,8 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Info": "Propri\u00e9t\u00e9 intellectuelle et \u00e9quipe rachet\u00e9es par Autodesk en ao\u00fbt 2024 ; l'\u00e9quipe reste \u00e0 Rennes (Autodesk France). Golaem est d\u00e9sormais inclus dans la Media & Entertainment Collection d'Autodesk."
         },
         {
             "Name": "Google",
@@ -1566,8 +1551,8 @@
         },
         {
             "Name": "I-MC",
-            "url": "https://www.i-mc.fr/",
-            "Description": "Machine autonomes pour des environnement contraints: aeronotique, spatial, d\u00e9fense",
+            "url": "https://www.mistralis.fr/",
+            "Description": "Solutions de contr\u00f4le et d'inspection industrielle automatis\u00e9es par capteur optique (marque Mistralis).",
             "Place": [
                 {
                     "Country": "France",
@@ -1575,6 +1560,8 @@
                 }
             ],
             "Scientific-domain": [
+                "Vision",
+                "Acquisition",
                 "Simulation",
                 "Design/Fabrication"
             ],
@@ -1587,7 +1574,7 @@
         {
             "Name": "IGO",
             "url": "https://www.igo.fr/",
-            "Description": "Donn\u00e9es g\u00e9ographiques 3D",
+            "Description": "Jumeau num\u00e9rique et exploitation de donn\u00e9es g\u00e9ospatiales 3D.",
             "Place": [
                 {
                     "Country": "France",
@@ -1620,7 +1607,7 @@
         {
             "Name": "Illumination Studios Paris",
             "url": "https://www.illuminationstudiosparis.com/",
-            "Description": "Cr\u00e9ation de films d'animation et d'effets visels.",
+            "Description": "Cr\u00e9ation de films d'animation et d'effets visuels.",
             "Info": "Anciennement Illumination Mac Guff.",
             "Place": "Paris",
             "Jobs": "https://www.illuminationstudiosparis.com/careers/",
@@ -1671,7 +1658,7 @@
             ]
         },
         {
-            "Name": "InitML",
+            "Name": "Clipdrop",
             "url": "https://clipdrop.co/",
             "Description": "Creation d'images par IA",
             "Place": "Paris",
@@ -1681,7 +1668,8 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Info": "Clipdrop a \u00e9t\u00e9 cr\u00e9\u00e9 par la start-up parisienne Init ML, rachet\u00e9e par Stability AI en 2023 ; Clipdrop a ensuite \u00e9t\u00e9 rachet\u00e9 par Jasper en 2024, l'\u00e9quipe restant \u00e0 Paris."
         },
         {
             "Name": "InnerSpace VR",
@@ -1694,7 +1682,8 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
-            ]
+            ],
+            "Employees": 15
         },
         {
             "Name": "InSimo",
@@ -1710,12 +1699,13 @@
             "Application-domain": [
                 "M\u00e9dical/Biologique"
             ],
-            "Jobs": "https://www.insimo.com/fr/career-2/"
+            "Jobs": "https://www.insimo.com/fr/career-2/",
+            "Employees": 30
         },
         {
             "Name": "Kayrros",
             "url": "https://www.kayrros.com/",
-            "Description": "Satellite-based technology to measrure the footprint of human activity on the environment",
+            "Description": "Mesure par satellite de l'empreinte environnementale des activit\u00e9s humaines (analyse d'images satellitaires, g\u00e9ospatial).",
             "Place": "Paris",
             "Scientific-domain": [
                 "Imagerie",
@@ -1723,12 +1713,14 @@
             ],
             "Application-domain": [
                 "Autres"
-            ]
+            ],
+            "Info": "Rachet\u00e9e en 2026 par Energy Aspects (Londres) ; la marque et l'\u00e9quipe parisienne sont maintenues.",
+            "Employees": 75
         },
         {
             "Name": "Kinetix",
             "url": "https://kinetix.tech/",
-            "Description": "Cr\u00e9ation d'animation 3D d'humain \u00e0 partir de capture de video sur smartphone.",
+            "Description": "G\u00e9n\u00e9ration d'animations 3D d'humains par IA \u00e0 partir de vid\u00e9o ou de texte (emotes pour jeux vid\u00e9o et mondes virtuels).",
             "Place": "Paris",
             "Jobs": "https://kinetix-tech.welcomekit.co/",
             "Scientific-domain": [
@@ -1738,8 +1730,10 @@
                 "Acquisition"
             ],
             "Application-domain": [
+                "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
-            ]
+            ],
+            "Employees": 35
         },
         {
             "Name": "Kitware",
@@ -1775,7 +1769,7 @@
             ]
         },
         {
-            "Name": "Kylotoon",
+            "Name": "Kylotonn",
             "url": "https://www.kylotonn.com/",
             "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o en sport m\u00e9canique",
             "Jobs": "https://kylotonn.com/carrieres/",
@@ -1783,6 +1777,10 @@
                 {
                     "Country": "France",
                     "City": "Paris"
+                },
+                {
+                    "Country": "France",
+                    "City": "Lyon"
                 }
             ],
             "Scientific-domain": [
@@ -1793,7 +1791,9 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Name-long": "KT Racing",
+            "Info": "Filiale de Nacon. Plac\u00e9e en redressement judiciaire en mars 2026 dans le cadre des difficult\u00e9s du groupe Nacon."
         },
         {
             "Name": "Lectra",
@@ -1816,7 +1816,7 @@
             "Application-domain": [
                 "Mode/V\u00eatements/Accessoires"
             ],
-            "Employees": 1500
+            "Employees": 2800
         },
         {
             "Name": "Left Angle",
@@ -1842,12 +1842,13 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Art/Evenementiel"
-            ]
+            ],
+            "Employees": 8
         },
         {
-            "Name": "Les Tontons Truqueurs",
+            "Name": "LTT (Les Tontons Truqueurs)",
             "Description": "Pr\u00e9visualisation et VFX en temps r\u00e9els.",
-            "url": "https://www.lestontonstruqueurs.com/",
+            "url": "https://www.ltt-vfx.com/",
             "Place": [
                 {
                     "City": "Montpellier"
@@ -1863,28 +1864,30 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Employees": 15
         },
         {
             "Name": "Lightbulb Crew",
             "url": "https://lightbulbcrew.fr/",
-            "Description": "Video Game development",
+            "Description": "D\u00e9veloppement de jeux vid\u00e9o ind\u00e9pendants.",
             "Place": "Paris",
             "Scientific-domain": [
                 "Autres"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 15
         },
         {
             "Name": "LS Group",
             "url": "https://www.ls-group.fr/",
-            "Description": "Projets de r\u00e9alit\u00e9 virtuelle et augment\u00e9e",
+            "Description": "Solutions 3D temps r\u00e9el : jumeaux num\u00e9riques, VR/AR et visuels pour la conception, la fabrication et la vente",
             "Place": [
                 {
-                    "Country": "France",
-                    "City": "Paris"
+                    "City": "Paris",
+                    "Exact": "Suresnes"
                 }
             ],
             "Scientific-domain": [
@@ -1892,12 +1895,15 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Name-long": "LS Group (ex Light and Shadows)",
+            "Jobs": "https://www.ls-group.fr/careers",
+            "Employees": 75
         },
         {
-            "Name": "Luxion",
-            "url": "https://www.luxion.com/",
-            "Description": "Logiciel de rendu d'images",
+            "Name": "KeyShot",
+            "url": "https://www.keyshot.com/",
+            "Description": "Logiciel de rendu d'images (KeyShot Studio) et gestion d'actifs num\u00e9riques",
             "Place": [
                 {
                     "Country": "USA",
@@ -1913,7 +1919,14 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Name-long": "KeyShot (ex Luxion)",
+            "Product": [
+                "KeyShot Studio",
+                "KeyShot Dock"
+            ],
+            "Jobs": "https://www.keyshot.com/careers/",
+            "Info": "Luxion a fusionn\u00e9 avec Digizuite et a \u00e9t\u00e9 renomm\u00e9e KeyShot en 2024."
         },
         {
             "Name": "M-Covision",
@@ -1931,8 +1944,7 @@
         {
             "Name": "Magic Leap",
             "url": "https://www.magicleap.com/",
-            "Description": "Lunettes de r\u00e9alit\u00e9 augment\u00e9e",
-            "Jobs": "https://resources.magicleap.com/en-us/careers",
+            "Description": "Optique pour la r\u00e9alit\u00e9 augment\u00e9e (guides d'onde) et prototypage de lunettes AR",
             "Place": [
                 {
                     "Country": "USA",
@@ -1948,7 +1960,8 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Info": "En 2026, Magic Leap abandonne ses propres casques pour devenir fournisseur de guides d'onde (partenariat avec Google) ; plusieurs centaines de licenciements."
         },
         {
             "Name": "Manus",
@@ -1983,7 +1996,8 @@
             "Application-domain": [
                 "Loisir Interactif/Immersion/Metavers",
                 "Entrainement/Formation/Serious Game"
-            ]
+            ],
+            "Employees": 8
         },
         {
             "Name": "Marmoset",
@@ -2022,7 +2036,8 @@
             ],
             "Application-domain": [
                 "Automobile/Navigation/Aviation"
-            ]
+            ],
+            "Employees": 100
         },
         {
             "Name": "Maxon",
@@ -2075,34 +2090,19 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "Meshcapade",
-            "url": "https://meshcapade.com/",
-            "Description": "Graphics and Vision for interaction in 3D metaverse",
-            "Jobs": "https://jobs.lever.co/meshcapade",
-            "Place": [
-                {
-                    "Country": "Germany",
-                    "City": "Tuebingen"
-                }
             ],
-            "Scientific-domain": [
-                "Vision",
-                "Mod\u00e9lisation",
-                "Animation",
-                "VR/AR"
-            ],
-            "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers"
-            ]
+            "Employees": 15
         },
         {
             "Name": "MicroFilms",
-            "url": "http://www.microfilms.fr/machinerie-tv/",
-            "Description": "Capture de video pour la t\u00e9l\u00e9vision",
-            "Place": "Paris",
+            "url": "https://www.microfilms.fr/",
+            "Description": "Machinerie de prise de vue (grues, t\u00eates gyrostabilis\u00e9es track\u00e9es) pour la t\u00e9l\u00e9vision et la production virtuelle",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Exact": "Saint-Denis"
+                }
+            ],
             "Scientific-domain": [
                 "Acquisition",
                 "Imagerie"
@@ -2110,13 +2110,14 @@
             "Application-domain": [
                 "Art/Evenementiel",
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Employees": 15
         },
         {
             "Name": "Microsoft",
             "Info": "<a href=\\\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\\\">Microsoft research</a> est active en informatique graphique.",
             "url": "https://www.microsoft.com/",
-            "Jobs": "https://www.amd.com/en/corporate/careers",
+            "Jobs": "https://careers.microsoft.com/",
             "Place": [
                 {
                     "Country": "USA",
@@ -2135,7 +2136,7 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ],
-            "Employees": 180000
+            "Employees": 228000
         },
         {
             "Name": "Mikros Animation",
@@ -2144,20 +2145,16 @@
             "Jobs": "https://www.mikrosanimation.com/en/people-and-culture/careers/",
             "Place": [
                 {
-                    "Country": "Canada",
-                    "City": "Montreal"
-                },
-                {
                     "Country": "France",
                     "City": "Paris"
                 },
                 {
-                    "Country": "USA",
-                    "City": "Los Angeles"
+                    "Country": "Canada",
+                    "City": "Montreal"
                 },
                 {
-                    "Country": "UK",
-                    "City": "London"
+                    "Country": "India",
+                    "City": "Bangalore"
                 }
             ],
             "Scientific-domain": [
@@ -2168,7 +2165,7 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Info": "Sous-groupe de Technicolor"
+            "Info": "Soci\u00e9t\u00e9 du groupe Rodeo FX depuis 2025 (rachat apr\u00e8s la faillite de Technicolor)."
         },
         {
             "Name": "MocapLab",
@@ -2189,7 +2186,8 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Loisir Interactif/Immersion/Metavers",
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 15
         },
         {
             "Name": "ModaLive",
@@ -2205,23 +2203,30 @@
             ],
             "Application-domain": [
                 "Mode/V\u00eatements/Accessoires"
-            ]
+            ],
+            "Employees": 4
         },
         {
             "Name": "Modulo Pi",
             "url": "https://www.modulo-pi.com/",
             "Description": "Media server solutions",
-            "Place": "Paris",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Exact": "Saint-Denis"
+                }
+            ],
             "Scientific-domain": [
                 "VR/AR"
             ],
             "Application-domain": [
                 "Art/Evenementiel"
-            ]
+            ],
+            "Employees": 15
         },
         {
-            "Name": "Movea Tech",
-            "url": "https://www.movea-tech.com/",
+            "Name": "Movea (TDK InvenSense)",
+            "url": "https://invensense.tdk.com/",
             "Description": "Motion tracking et interface utilisateur, AR/VR.",
             "Place": "Grenoble",
             "Scientific-domain": [
@@ -2231,7 +2236,8 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Info": "Movea, spin-off du CEA-L\u00e9ti, a \u00e9t\u00e9 rachet\u00e9e par InvenSense en 2014, elle-m\u00eame filiale de TDK depuis 2017 ; le site R&D de Grenoble reste actif."
         },
         {
             "Name": "MPC",
@@ -2246,10 +2252,6 @@
                 {
                     "Country": "Belgique",
                     "City": "Li\u00e8ge"
-                },
-                {
-                    "Country": "Canada",
-                    "City": "Montreal"
                 }
             ],
             "Scientific-domain": [
@@ -2259,12 +2261,12 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Info": "Sous-groupe de Technicolor"
+            "Info": "Studios de Paris et Li\u00e8ge repris par TransPerfect en 2025 apr\u00e8s la faillite de Technicolor ; MPC et The Mill r\u00e9unis sous une m\u00eame marque en 2026."
         },
         {
             "Name": "NDunes",
-            "url": "https://www.ls-group.fr/",
-            "Description": "Outils de visualisation 3D pour l'environnement",
+            "url": "https://www.ndunes.com/",
+            "Description": "Logiciel de visualisation 3D pour les projets d'\u00e9nergies renouvelables (\u00e9olien, solaire, stockage)",
             "Place": [
                 {
                     "Country": "France",
@@ -2277,7 +2279,8 @@
             ],
             "Application-domain": [
                 "Autres"
-            ]
+            ],
+            "Employees": 4
         },
         {
             "Name": "Neural Concept",
@@ -2301,11 +2304,12 @@
             ],
             "Application-domain": [
                 "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
+            ],
+            "Employees": 100
         },
         {
             "Name": "Newtone Technologies",
-            "url": "https://www.linkedin.com/company/newtone-technologies/",
+            "url": "https://qima-lifesciences.com/",
             "Description": "Research & Innovation company expert in Image Analysis for skin and hair appearance.",
             "Place": "Lyon",
             "Scientific-domain": [
@@ -2314,7 +2318,8 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Info": "Int\u00e9gr\u00e9e au groupe QIMA Life Sciences depuis 2021."
         },
         {
             "Name": "Next Limit",
@@ -2366,30 +2371,27 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 70
         },
         {
             "Name": "Novelab",
             "url": "https://www.novelab.io/",
             "Description": "Studio de cr\u00e9ation d'exp\u00e9riences VR/AR",
-            "Place": [
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                }
-            ],
+            "Place": "Paris, Lyon",
             "Scientific-domain": [
                 "VR/AR"
             ],
             "Application-domain": [
                 "Loisir Interactif/Immersion/Metavers"
-            ]
+            ],
+            "Employees": 30
         },
         {
             "Name": "nTop",
             "url": "https://www.ntop.com/",
             "Description": "Mod\u00e9lisation et simulation m\u00e9canique \u00e0 partir de surfaces implicites.",
-            "Jobs": "https://boards.greenhouse.io/ntop",
+            "Jobs": "https://jobs.gem.com/ntop",
             "Place": [
                 {
                     "Country": "USA",
@@ -2436,13 +2438,13 @@
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
             ],
-            "Employees": 13000
+            "Employees": 42000
         },
         {
             "Name": "OptiTrack",
             "url": "https://optitrack.com/",
             "Description": "Motion capture pour les effets sp\u00e9ciaux au cin\u00e9ma",
-            "Jobs": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=PLANAR&cws=46",
+            "Jobs": "https://optitrack.com/careers",
             "Place": [
                 {
                     "Country": "USA",
@@ -2479,7 +2481,7 @@
         },
         {
             "Name": "Overlay",
-            "url": "https://overlaymr.com/",
+            "url": "https://www.figmin.com/",
             "Description": "Plateforme de r\u00e9alit\u00e9 augment\u00e9e",
             "Product": "Figmin XR",
             "Place": [
@@ -2510,7 +2512,8 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Employees": 5
         },
         {
             "Name": "Pixel Wizards",
@@ -2530,7 +2533,7 @@
         {
             "Name": "Praxinos",
             "url": "https://www.praxinos.coop/",
-            "Description": "D\u00e9veloppement d'outils cr\u00e9atifs pour l'animation.",
+            "Description": "D\u00e9veloppement d'outils cr\u00e9atifs 2D pour l'animation sous Unreal Engine (Odyssey) et services de d\u00e9veloppement Unreal.",
             "Place": [
                 {
                     "Country": "France",
@@ -2544,50 +2547,14 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Info": "SARL Coop\u00e9rative, mot cl\u00e9s: Animation 2D, Storyboard, Drawing, Realtime 3D"
-        },
-        {
-            "Name": "Presagis",
-            "Description": "Simulation d'environment dynamique pour la pr\u00e9diction \u00e0 large \u00e9chelle (infrastructure, d\u00e9fense, d\u00e9sastre, etc)",
-            "url": "https://www.cae.com/fr/defense-et-securite/ce-que-nous-faisons/systemes-d-entrainement/suites-de-modelisation-et-de-simulation-presagis/",
-            "Jobs": "https://cae.wd3.myworkdayjobs.com/fr-CA/career",
-            "Place": [
-                {
-                    "Country": "Canada",
-                    "City": "Montr\u00e9al"
-                },
-                {
-                    "Country": "USA",
-                    "City": "Orlando"
-                },
-                {
-                    "Country": "France",
-                    "City": "Paris"
-                },
-                {
-                    "Country": "Italy"
-                },
-                {
-                    "Country": "UK"
-                }
-            ],
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Animation",
-                "Simulation",
-                "IA",
-                "Analyse de donn\u00e9es"
-            ],
-            "Application-domain": [
-                "S\u00e9curit\u00e9/D\u00e9fense",
-                "Automobile/Navigation/Aviation",
-                "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
+            "Info": "SARL Coop\u00e9rative, mot cl\u00e9s: Animation 2D, Storyboard, Drawing, Realtime 3D",
+            "Jobs": "https://www.praxinos.coop/job.php",
+            "Employees": 8
         },
         {
             "Name": "Primaa",
-            "url": "https://www.primaalab.com/",
-            "Description": "Detection de pathologies par IA",
+            "url": "https://primaalab.com/",
+            "Description": "Diagnostic du cancer par IA et analyse d'images de lames histologiques (Cleo Breast, Cleo Skin).",
             "Place": "Paris",
             "Scientific-domain": [
                 "IA",
@@ -2596,7 +2563,8 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Employees": 30
         },
         {
             "Name": "Prophesee.AI",
@@ -2609,7 +2577,8 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Employees": 150
         },
         {
             "Name": "Qarnot Computing",
@@ -2621,18 +2590,19 @@
                     "Exact": "Montrouge"
                 }
             ],
-            "Jobs": "https://qarnot.com/en/recruiting",
             "Scientific-domain": [
                 "Web/Cloud/Big Data"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Info": "Rachet\u00e9 par Scaleway (groupe Iliad) en juillet 2026.",
+            "Employees": 70
         },
         {
             "Name": "Quantacell",
             "url": "https://www.quantacell.com/",
-            "Description": "Artificial Intelligence for Biomedical Analysis",
+            "Description": "Analyse d'images biom\u00e9dicales par IA (histologie, organo\u00efdes 3D) : logiciels HistoMetriX, AssayScope.",
             "Place": [
                 {
                     "Country": "France",
@@ -2645,7 +2615,8 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Employees": 5
         },
         {
             "Name": "Quantic Dream",
@@ -2669,7 +2640,9 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 400,
+            "Info": "Filiale de NetEase Games depuis 2022."
         },
         {
             "Name": "Roblox",
@@ -2678,7 +2651,7 @@
             "Place": [
                 {
                     "Country": "USA",
-                    "City": "Los Angeles"
+                    "City": "San Mateo"
                 }
             ],
             "url": "https://www.roblox.com/",
@@ -2747,7 +2720,12 @@
             "Place": [
                 {
                     "Country": "USA",
-                    "State": "Colorado"
+                    "State": "Colorado",
+                    "City": "Boulder"
+                },
+                {
+                    "Country": "New Zealand",
+                    "City": "Queenstown"
                 }
             ],
             "Scientific-domain": [
@@ -2759,14 +2737,16 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Art/Evenementiel",
                 "S\u00e9curit\u00e9/D\u00e9fense"
-            ]
+            ],
+            "Name-long": "SHOTOVER Systems",
+            "Info": "Issu de la fusion en 2020 de SHOTOVER Camera Systems (Queenstown, Nouvelle-Z\u00e9lande) et Churchill Navigation (Boulder, Colorado)."
         },
         {
             "Name": "SideFX",
             "url": "https://www.sidefx.com/",
             "Product": "Houdini",
             "Description": "D\u00e9veloppement du logiciel de VFX Houdini - Mod\u00e9lisation et Animation proc\u00e9durale, simulation.",
-            "Jobs": "https://www.sidefx.com/careers/",
+            "Jobs": "https://www.sidefx.com/company/careers/",
             "Place": [
                 {
                     "Country": "Canada",
@@ -2791,7 +2771,7 @@
                 {
                     "Country": "USA",
                     "State": "Washington",
-                    "City": "Seatle"
+                    "City": "Bellevue"
                 }
             ],
             "Scientific-domain": [
@@ -2800,31 +2780,6 @@
             ],
             "Application-domain": [
                 "Automobile/Navigation/Aviation"
-            ]
-        },
-        {
-            "Name": "Solid Anim",
-            "url": "https://www.solidanim.com/en/",
-            "Description": "Studio sp\u00e9cialis\u00e9 en animation 3D, MOCAP, et production virtuelle.",
-            "Place": "Bordeaux, Angoul\u00e8me",
-            "Scientific-domain": [
-                "Animation",
-                "Acquisition"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
-            "Name": "SolidAnim",
-            "url": "https://www.solidanim.com/",
-            "Description": "Studio de production d'animation et Mocap",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -2847,7 +2802,7 @@
             "Name": "SpirOPS",
             "url": "https://www.spirops.com/",
             "Description": "Approches d'IA pour l'industrie et le loisir: foule virtuelles, v\u00e9hicules autonomes, assistants",
-            "Jobs": "https://www.spirops.com/jobs.php?lg=en",
+            "Jobs": "https://www.spirops.com/en/jobs.php",
             "Place": "Paris",
             "Scientific-domain": [
                 "IA",
@@ -2937,16 +2892,23 @@
             ]
         },
         {
-            "Name": "StreamRoller",
+            "Name": "Steamroller Studios",
             "url": "https://www.steamrollerstudios.com/",
             "Description": "Studio pour film d'animation, jeux et exp\u00e9rience immersive pour parc d'attraction",
             "Place": [
                 {
                     "Country": "USA",
                     "City": "Mount Dora"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                },
+                {
+                    "Country": "Mauritius"
                 }
             ],
-            "Jobs": "https://www.steamrollertechnologies.com/careers",
+            "Jobs": "https://www.steamrolleranimation.com/careers",
             "Scientific-domain": [
                 "Animation",
                 "VR/AR"
@@ -2955,7 +2917,8 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Jeu Vid\u00e9o",
                 "Loisir Interactif/Immersion/Metavers"
-            ]
+            ],
+            "Employees": 260
         },
         {
             "Name": "Strollhunt",
@@ -2977,7 +2940,7 @@
         },
         {
             "Name": "Studio Draconis",
-            "Description": "D\u00e9veloppement de jeux vid\u00e9os RPG",
+            "Description": "D\u00e9veloppement de jeux vid\u00e9o RPG tactiques (Zodiac Legion).",
             "Place": "Paris",
             "url": "https://studio-draconis.com/",
             "Scientific-domain": [
@@ -2985,7 +2948,8 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 2
         },
         {
             "Name": "Superprod Animation",
@@ -3006,13 +2970,15 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Jobs": "https://careers.werecruit.io/en/superprod",
+            "Info": "Studios d'animation \u00e0 Paris, Angoul\u00eame, Milan et Luxembourg, bureau \u00e0 Los Angeles."
         },
         {
             "Name": "SysNav",
             "url": "https://www.sysnav.fr/",
             "Description": "G\u00e9olocalisation de personnes et v\u00e9hicules",
-            "Place": "Paris",
+            "Place": "Vernon, Paris",
             "Scientific-domain": [
                 "Acquisition",
                 "Reconstruction"
@@ -3021,22 +2987,29 @@
                 "S\u00e9curit\u00e9/D\u00e9fense",
                 "Automobile/Navigation/Aviation",
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Employees": 120,
+            "Jobs": "https://www.welcometothejungle.com/fr/companies/sysnav/jobs"
         },
         {
             "Name": "Take-Two Interactive",
             "url": "https://www.take2games.com/",
             "Description": "D\u00e9veloppement de jeux vid\u00e9o, et d\u00e9tenant d'autres entreprises (Rockstar, 2K) ainsi que l'\u00e9quipe de R&D Dynamixyz \u00e0 Rennes.",
             "Jobs": "https://careers.take2games.com/jobs",
-            "Employees": 6000,
+            "Employees": 12900,
             "Place": [
                 {
-                    "Country": "USA"
+                    "Country": "USA",
+                    "City": "New York"
                 },
                 {
                     "Country": "France",
-                    "City": "Paris",
-                    "Exact": "Palaiseau"
+                    "City": "Rennes",
+                    "Exact": "Cesson-S\u00e9vign\u00e9"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
                 },
                 {
                     "International": true
@@ -3058,12 +3031,11 @@
             "Description": "Creation de Jeux Vid\u00e9os",
             "Place": [
                 {
-                    "Country": "Canada",
-                    "City": "Paris"
+                    "Country": "India",
+                    "City": "Bangalore"
                 },
                 {
-                    "Country": "UK",
-                    "City": "London"
+                    "International": true
                 }
             ],
             "Scientific-domain": [
@@ -3072,12 +3044,12 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o"
             ],
-            "Info": "Sous-groupe de Technicolor"
+            "Info": "Rachet\u00e9 en mars 2025 par TransPerfect (division TransPerfect Gaming) apr\u00e8s la faillite du groupe Technicolor."
         },
         {
             "Name": "Technodigit",
             "url": "https://www.linkedin.com/company/technodigit-sarl/",
-            "Description": "3D point cloud processing from measurement points. Part of Hexagon company.",
+            "Description": "Traitement de nuages de points 3D issus de mesures (Cyclone 3DR, 3DReshaper). Filiale du groupe Hexagon.",
             "Place": "Lyon",
             "Scientific-domain": [
                 "Acquisition",
@@ -3088,17 +3060,29 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Jobs": "https://www.welcometothejungle.com/fr/companies/technodigit"
         },
         {
             "Name": "Tech Soft 3D",
             "url": "https://www.techsoft3d.com/",
-            "Jobs": "https://www.imaginationtech.com/careers/vacancies/",
-            "Description": "Outils de d\u00e9veloppements pour la CAO",
+            "Jobs": "https://www.techsoft3d.com/company/#careers",
+            "Description": "Outils de d\u00e9veloppement (SDK HOOPS, \u00e9change de donn\u00e9es CAO, visualisation 3D) pour la CAO/IAO",
             "Place": [
                 {
                     "Country": "France",
-                    "City": "Lyon"
+                    "City": [
+                        "Lyon",
+                        "Sophia Antipolis"
+                    ]
+                },
+                {
+                    "Country": "USA",
+                    "State": "Oregon",
+                    "City": "Bend"
+                },
+                {
+                    "International": true
                 }
             ],
             "Scientific-domain": [
@@ -3112,7 +3096,7 @@
         {
             "Name": "Techviz",
             "url": "https://www.techviz.net/",
-            "Jobs": "https://www.techviz.net/en/careers/",
+            "Jobs": "https://www.techviz.net/careers/",
             "Description": "Solution de visualisation 3D par VR/AR",
             "Place": [
                 {
@@ -3129,7 +3113,8 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Employees": 30
         },
         {
             "Name": "Thales",
@@ -3167,8 +3152,12 @@
                     "url": "https://www.foundry.com/products/nuke-family"
                 },
                 {
-                    "Name": "Modo",
-                    "url": "https://www.foundry.com/products/modo"
+                    "Name": "Katana",
+                    "url": "https://www.foundry.com/products/katana"
+                },
+                {
+                    "Name": "Mari",
+                    "url": "https://www.foundry.com/products/mari"
                 }
             ],
             "Jobs": "https://apply.workable.com/foundry/",
@@ -3192,7 +3181,7 @@
         {
             "Name": "The Game Bakers",
             "Place": "Montpellier",
-            "Description": "Studio de jeux vid\u00e9o ind\u00e9pendant pour jeux 2D",
+            "Description": "Studio de jeux vid\u00e9o ind\u00e9pendant (Squids, Furi, Haven)",
             "url": "https://www.thegamebakers.com/",
             "Jobs": "https://www.thegamebakers.com/category/jobs/",
             "Scientific-domain": [
@@ -3200,13 +3189,14 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Employees": 30
         },
         {
             "Name": "Theia",
-            "url": "https://www.theiamarkerless.ca/",
-            "Description": "Markeless Motion Capture System",
-            "Jobs": "https://www.theiamarkerless.ca/jobs/",
+            "url": "https://www.theiamarkerless.com/",
+            "Description": "Syst\u00e8me de capture de mouvement sans marqueurs (markerless) par vid\u00e9o",
+            "Jobs": "https://www.theiamarkerless.com/careers",
             "Place": [
                 {
                     "Country": "Canada",
@@ -3225,27 +3215,23 @@
         {
             "Name": "The Mill",
             "url": "https://www.themill.com/",
-            "Description": "Creation de VFX pour la publicit\u00e9",
-            "Jobs": "https://www.themill.com/people-and-culture/careers/",
+            "Description": "Cr\u00e9ation de VFX pour la publicit\u00e9, le cin\u00e9ma et les s\u00e9ries",
             "Place": [
                 {
                     "Country": "France",
                     "City": "Paris"
                 },
                 {
-                    "Country": "USA",
-                    "City": [
-                        "New York",
-                        "Los Angeles"
-                    ]
+                    "Country": "UK",
+                    "City": "London"
                 },
                 {
-                    "Country": "China",
-                    "City": "Shanghai"
+                    "Country": "Belgique",
+                    "City": "Li\u00e8ge"
                 },
                 {
-                    "Country": "Korea",
-                    "City": "Seoul"
+                    "Country": "India",
+                    "City": "Bangalore"
                 }
             ],
             "Scientific-domain": [
@@ -3255,13 +3241,26 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Info": "Sous-groupe de Technicolor"
+            "Info": "Rachet\u00e9 par TransPerfect en 2025 apr\u00e8s la faillite du groupe Technicolor ; fusionn\u00e9 avec MPC sous la marque The Mill en juin 2026."
         },
         {
             "Name": "The Yard VFX",
-            "url": "http://theyard-vfx.com/",
+            "url": "https://theyard-vfx.com/",
             "Description": "Cr\u00e9ation d'effets visuels photor\u00e9alistes pour le cin\u00e9ma (VFX)",
-            "Place": "Paris, Montpellier",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Montpellier"
+                    ],
+                    "Exact": "Vanves"
+                },
+                {
+                    "Country": "UK",
+                    "City": "London"
+                }
+            ],
             "Scientific-domain": [
                 "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
@@ -3278,7 +3277,7 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Jobs": "https://theyard-vfx.com/contacts/",
+            "Jobs": "https://careers.theyard-vfx.com/en-GB",
             "Employees": 150,
             "Keywords": "Graphics, VFX, Pipeline"
         },
@@ -3297,7 +3296,7 @@
         {
             "Name": "Ubisoft",
             "Description": "D\u00e9veloppeur de jeux vid\u00e9o Fran\u00e7ais, poss\u00e9dant de nombreux studios \u00e0 l'international",
-            "Info": "Ubisoft a cr\u00e9\u00e9 une entit\u00e9 de recherche \u00e0 Bordeaux appel\u00e9e \"La Forge\" \u00e0 l'image de celle existante \u00e0 Montr\u00e9al.",
+            "Info": "Ubisoft a cr\u00e9\u00e9 une entit\u00e9 de recherche \u00e0 Bordeaux appel\u00e9e \"La Forge\" \u00e0 l'image de celle existante \u00e0 Montr\u00e9al. Depuis fin 2025, les licences Assassin's Creed, Far Cry et Rainbow Six sont g\u00e9r\u00e9es par la filiale Vantage Studios (participation de Tencent). Restructuration importante en 2026 (fermetures de studios hors de France).",
             "url": "https://www.ubisoft.com/",
             "Jobs": "https://www.ubisoft.com/en-us/company/careers",
             "Place": [
@@ -3346,7 +3345,7 @@
             "Application-domain": [
                 "Jeu Vid\u00e9o"
             ],
-            "Employees": 20000,
+            "Employees": 16500,
             "Highlight": "Graphics, R&D"
         },
         {
@@ -3354,7 +3353,7 @@
             "url": "https://unity.com/",
             "Description": "D\u00e9veloppement du moteur de jeu Unity et produits associ\u00e9s",
             "Info": "Equipes de d\u00e9veloppement en France: <a target=\"_blank\" href=\"https://unity.com/srp/High-Definition-Render-Pipeline\">rendu graphique</a> (Paris, Grenoble), <a target=\"_blank\" href=\"https://unity.com/products/pixyz\">geometry processing</a> (Compiegne, Grenoble) et <a target=\"_blank\" href=\"https://unity.com/products/sentis\">IA</a> (Lille)",
-            "Jobs": "https://careers.unity.com/",
+            "Jobs": "https://unity.com/careers",
             "Place": [
                 {
                     "Country": "USA"
@@ -3402,10 +3401,14 @@
             "Name-long": "United Visual Researchers",
             "Description": "Logiciel d'analyse optique et de rendu avanc\u00e9 (spectral, lumi\u00e8re polaris\u00e9e).",
             "url": "https://www.united-vr.com/",
-            "Jobs": "https://uvr.welcomekit.co/",
+            "Jobs": "https://www.welcometothejungle.com/fr/companies/united-visual-researchers",
             "Place": [
                 {
-                    "City": "Paris"
+                    "Country": "France",
+                    "City": [
+                        "Paris",
+                        "Laval"
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -3414,7 +3417,14 @@
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Product": [
+                {
+                    "Name": "Predict",
+                    "url": "https://www.united-vr.com/home"
+                }
+            ],
+            "Employees": 15
         },
         {
             "Name": "Vicon",
@@ -3436,11 +3446,12 @@
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Jeu Vid\u00e9o",
                 "Entrainement/Formation/Serious Game"
-            ]
+            ],
+            "Info": "Filiale du groupe Oxford Metrics."
         },
         {
             "Name": "Virtualis",
-            "url": "https://virtualisvr.com/",
+            "url": "https://www.virtualisvr.com/",
             "Description": "R\u00e9\u00e9ducation en r\u00e9alit\u00e9 virtuelle",
             "Place": [
                 {
@@ -3453,27 +3464,32 @@
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
-            ]
+            ],
+            "Employees": 30
         },
         {
             "Name": "Virtuos",
             "url": "https://www.virtuosgames.com/",
-            "Description": "Studio d\u00e9veloppement de jeu vid\u00e9o",
+            "Description": "Studio de co-d\u00e9veloppement de jeux vid\u00e9o (portages, remasters, production d'art 3D)",
             "Place": [
                 {
                     "Country": "China",
-                    "City": "Shangai"
+                    "City": "Shanghai"
                 },
                 {
                     "Country": "Singapore"
                 },
                 {
                     "Country": "France",
-                    "City": "Paris"
+                    "City": [
+                        "Paris",
+                        "Lyon",
+                        "Montpellier"
+                    ],
+                    "Exact": "Cergy"
                 },
                 {
-                    "Country": "France",
-                    "City": "Montpellier"
+                    "International": true
                 }
             ],
             "Scientific-domain": [
@@ -3484,12 +3500,14 @@
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
-            ]
+            ],
+            "Jobs": "https://www.welcometothejungle.com/en/companies/virtuos",
+            "Employees": 3600
         },
         {
             "Name": "VizGraphics",
-            "url": "https://www.vizgraphics.com/",
-            "Description": "Rendu de sc\u00e8nes sp\u00e9cialis\u00e9 dans l'architecture et les sc\u00e8nes d'int\u00e9rieur.",
+            "url": "https://vizgraphics.com/",
+            "Description": "Visualisation architecturale : rendus 3D photor\u00e9alistes, animations, visites virtuelles et exp\u00e9riences VR pour l'immobilier.",
             "Place": [
                 {
                     "Country": "USA",
@@ -3547,21 +3565,32 @@
             ],
             "Application-domain": [
                 "Robotique/Syst\u00e8mes autonomes"
-            ]
+            ],
+            "Jobs": "https://www.welcometothejungle.com/en/companies/wandercraft/jobs",
+            "Employees": 100
         },
         {
             "Name": "Wassa",
             "url": "https://wassa.io/fr/",
             "Description": "Agence digitale pour applications mobiles, traitement d'image et Data Science",
-            "Place": "Paris",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Paris",
+                    "Exact": "Boulogne-Billancourt"
+                }
+            ],
             "Jobs": "https://wassa.io/fr/offres-emploi/",
             "Scientific-domain": [
                 "IHM/Haptique",
-                "Web/Cloud/Big Data"
+                "Web/Cloud/Big Data",
+                "Vision",
+                "IA"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
-            ]
+            ],
+            "Employees": 15
         },
         {
             "Name": "WetaFX",
@@ -3587,13 +3616,14 @@
         },
         {
             "Name": "YellowScan",
-            "url": "https://www.yellowscan-lidar.com/",
-            "Description": "Scan LiDAR pour application industrielles",
-            "Jobs": "https://www.yellowscan-lidar.com/about/career/",
+            "url": "https://www.yellowscan.com/",
+            "Description": "Syst\u00e8mes LiDAR embarqu\u00e9s sur drone pour la cartographie et la topographie",
+            "Jobs": "https://www.yellowscan.com/career/",
             "Place": [
                 {
+                    "Country": "France",
                     "City": "Montpellier",
-                    "Exact": "Saint-Cl\u00e9ment-de-RiviInter\u00e8re"
+                    "Exact": "Saint-Cl\u00e9ment-de-Rivi\u00e8re"
                 }
             ],
             "Scientific-domain": [
@@ -3604,20 +3634,21 @@
             "Application-domain": [
                 "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
                 "M\u00e9canique/Ing\u00e9nierie civile"
-            ]
+            ],
+            "Employees": 70
         },
         {
             "Name": "Zag",
             "url": "https://www.zag.com/",
-            "Description": "Studio d'animation 3D",
+            "Description": "Studio d'animation 3D (Miraculous, les aventures de Ladybug et Chat Noir)",
             "Place": [
-                {
-                    "Country": "USA",
-                    "City": "Santa Monica"
-                },
                 {
                     "Country": "France",
                     "City": "Paris"
+                },
+                {
+                    "Country": "USA",
+                    "City": "Santa Monica"
                 }
             ],
             "Scientific-domain": [
@@ -3627,12 +3658,13 @@
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
+            ],
+            "Info": "La franchise Miraculous est g\u00e9r\u00e9e depuis 2024 par Miraculous Corp., coentreprise de Mediawan et Zag."
         },
         {
             "Name": "ZSpace",
             "url": "https://zspace.com/",
-            "Description": "Stylet d'interaction 3D",
+            "Description": "Ordinateurs portables de r\u00e9alit\u00e9 augment\u00e9e/3D st\u00e9r\u00e9oscopique sans casque, avec stylet d'interaction 3D, pour l'\u00e9ducation (STEM, formation technique)",
             "Place": [
                 {
                     "Country": "USA",
@@ -3640,10 +3672,432 @@
                 }
             ],
             "Scientific-domain": [
+                "IHM/Haptique",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Naver Labs Europe",
+            "url": "https://europe.naverlabs.com/",
+            "Description": "Centre de recherche europ\u00e9en de Naver en IA, vision par ordinateur 3D et robotique (DUSt3R, MASt3R).",
+            "Place": "Meylan",
+            "Scientific-domain": [
+                "Vision",
+                "Reconstruction",
+                "IA",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Meta",
+            "url": "https://ai.meta.com/research/",
+            "Description": "Groupe technologique ; son laboratoire FAIR Paris (ouvert en 2015) m\u00e8ne des recherches en IA et vision par ordinateur (DINOv2/DINOv3).",
+            "Jobs": "https://www.metacareers.com/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Menlo Park"
+                },
+                {
+                    "Country": "France",
+                    "City": "Paris"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "IA",
+                "Vision",
+                "VR/AR",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Ansys",
+            "Name-long": "Ansys, part of Synopsys (ex-OPTIS)",
+            "url": "https://ansys.synopsys.com/products/optics/ansys-speos",
+            "Description": "\u00c9diteur de simulation num\u00e9rique (groupe Synopsys depuis 2025) ; le centre R&D de La Farl\u00e8de (ex-OPTIS) d\u00e9veloppe Speos, logiciel de simulation physique de la lumi\u00e8re et de rendu photor\u00e9aliste.",
+            "Jobs": "https://careers.ansys.com/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Canonsburg"
+                },
+                {
+                    "Country": "France",
+                    "City": "La Farl\u00e8de"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Synth\u00e8se d'image",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "TopSolid",
+            "Name-long": "TopSolid (ex-Missler Software)",
+            "url": "https://www.topsolid.com/",
+            "Description": "\u00c9diteur fran\u00e7ais de logiciels de CAO/FAO int\u00e9gr\u00e9s (TopSolid) pour la m\u00e9canique, l'outillage, le bois et la t\u00f4lerie.",
+            "Place": "\u00c9vry-Courcouronnes",
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ],
+            "Employees": 420
+        },
+        {
+            "Name": "Datakit",
+            "url": "https://www.datakit.com/",
+            "Description": "\u00c9diteur de convertisseurs et biblioth\u00e8ques d'\u00e9change de donn\u00e9es CAO 3D (B-Rep et maillages) entre formats natifs et standards.",
+            "Place": "Lyon",
+            "Scientific-domain": [
+                "G\u00e9om\u00e9trie",
+                "Design/Fabrication",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "G\u00e9n\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Oktal-SE",
+            "Name-long": "OKTAL Synthetic Environment",
+            "url": "https://www.oktal-se.fr/",
+            "Description": "\u00c9diteur de SE-Workbench, simulation physique de capteurs (visible, infrarouge, lidar, radar) par rendu de sc\u00e8nes 3D. Groupe Sogeclair.",
+            "Place": "Toulouse",
+            "Scientific-domain": [
+                "Simulation",
+                "Synth\u00e8se d'image",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
+            "Name": "Cintoo",
+            "url": "https://cintoo.com/",
+            "Description": "Plateforme cloud de gestion et de diffusion de nuages de points de scans laser, convertis en maillages l\u00e9gers et compar\u00e9s aux maquettes BIM (jumeau num\u00e9rique).",
+            "Jobs": "https://cintoo.factorial.fr/",
+            "Place": "Biot",
+            "Scientific-domain": [
+                "Reconstruction",
+                "G\u00e9om\u00e9trie",
+                "Web/Cloud/Big Data",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Architecture/Immobilier",
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Iconem",
+            "url": "https://iconem.com/",
+            "Description": "Num\u00e9risation 3D du patrimoine par photogramm\u00e9trie, drones et lidar ; plateforme web de visualisation (nuages de points, maillages, Gaussian splats).",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Histoire/Arch\u00e9ologie/Mus\u00e9ographie"
+            ]
+        },
+        {
+            "Name": "Exwayz",
+            "url": "https://www.exwayz.com/",
+            "Description": "Logiciel de localisation et cartographie 3D (SLAM lidar) temps r\u00e9el pour la robotique autonome et la cartographie mobile.",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Vision",
+                "Reconstruction",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
+            "Name": "Haption",
+            "url": "https://www.haption.com/",
+            "Description": "Conception et fabrication de syst\u00e8mes haptiques \u00e0 retour d'effort (gamme Virtuose) et logiciels de simulation interactive pour la r\u00e9alit\u00e9 virtuelle.",
+            "Place": "Laval",
+            "Scientific-domain": [
+                "IHM/Haptique",
+                "VR/AR",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "M\u00e9dical/Biologique",
+                "M\u00e9canique/Ing\u00e9nierie civile"
+            ]
+        },
+        {
+            "Name": "Visible Patient",
+            "url": "https://www.visiblepatient.com/",
+            "Description": "Mod\u00e9lisation 3D personnalis\u00e9e des patients \u00e0 partir d'imagerie m\u00e9dicale (scanner, IRM) pour la planification chirurgicale.",
+            "Place": "Strasbourg",
+            "Scientific-domain": [
+                "Imagerie",
+                "Reconstruction",
+                "Visualisation",
+                "IA"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "inHEART",
+            "url": "https://www.inheartmedical.com/",
+            "Description": "Jumeau num\u00e9rique 3D du coeur du patient construit \u00e0 partir de l'imagerie m\u00e9dicale (IA et simulation) pour guider l'ablation des arythmies.",
+            "Place": [
+                {
+                    "City": "Pessac"
+                },
+                {
+                    "Country": "USA",
+                    "City": "Boston"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Reconstruction",
+                "Simulation",
+                "IA"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ]
+        },
+        {
+            "Name": "Photoroom",
+            "url": "https://www.photoroom.com/",
+            "Description": "\u00c9diteur d'une application et d'API d'\u00e9dition d'images par IA g\u00e9n\u00e9rative (d\u00e9tourage, g\u00e9n\u00e9ration de fonds et de visuels produits).",
+            "Jobs": "https://www.welcometothejungle.com/fr/companies/photoroom",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "IA",
+                "Imagerie",
+                "Vision",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Mode/V\u00eatements/Accessoires"
+            ]
+        },
+        {
+            "Name": "Thermo Fisher Scientific",
+            "url": "https://www.thermofisher.com/amira-avizo",
+            "Description": "Groupe d'instrumentation scientifique ; son site de Bordeaux (FEI SAS, ex-Visualization Sciences Group) d\u00e9veloppe les logiciels de visualisation et d'analyse 3D Amira et Avizo.",
+            "Jobs": "https://jobs.thermofisher.com/",
+            "Place": [
+                {
+                    "Country": "USA",
+                    "City": "Waltham"
+                },
+                {
+                    "Country": "France",
+                    "City": "Bordeaux"
+                },
+                {
+                    "International": true
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Imagerie",
+                "IA"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Autres"
+            ]
+        },
+        {
+            "Name": "Immersion",
+            "url": "https://www.immersion.fr/",
+            "Description": "Int\u00e9grateur et \u00e9diteur de solutions de r\u00e9alit\u00e9 virtuelle et augment\u00e9e et de collaboration 3D pour l'industrie et la recherche (Shariiing, Shariiing Review).",
+            "Place": "Bordeaux",
+            "Scientific-domain": [
+                "VR/AR",
+                "Visualisation",
                 "IHM/Haptique"
             ],
             "Application-domain": [
-                "G\u00e9n\u00e9rique"
+                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Entrainement/Formation/Serious Game"
+            ]
+        },
+        {
+            "Name": "Inbolt",
+            "url": "https://www.inbolt.com/",
+            "Description": "Guidage de robots industriels en temps r\u00e9el par vision 3D et IA (localisation d'objets \u00e0 partir de capteurs de profondeur).",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Vision",
+                "IA",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation"
+            ]
+        },
+        {
+            "Name": "Sandfall Interactive",
+            "url": "https://www.sandfall.co",
+            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o, cr\u00e9ateur de Clair Obscur: Expedition 33 (Unreal Engine 5).",
+            "Place": "Montpellier",
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Fortiche Production",
+            "url": "https://forticheprod.com",
+            "Description": "Studio d'animation 2D/3D, r\u00e9alisateur de la s\u00e9rie Arcane.",
+            "Place": "Paris, Montpellier",
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": "50-99 (plus intermittents)"
+        },
+        {
+            "Name": "Xilam",
+            "Name-long": "Xilam Animation",
+            "url": "https://xilam.com",
+            "Description": "Studio de production et de distribution de s\u00e9ries et films d'animation 2D et 3D.",
+            "Place": "Paris, Lyon, Angoul\u00eame",
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Dwarf Animation",
+            "Name-long": "Dwarf Animation Studio",
+            "url": "https://www.dwarfanimation.com",
+            "Description": "Studio d'animation 3D (s\u00e9ries, longs m\u00e9trages, cin\u00e9matiques).",
+            "Place": "Montpellier",
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Mac Guff",
+            "Name-long": "Mac Guff Ligne",
+            "url": "https://macguff.com",
+            "Description": "Studio d'effets visuels pour le cin\u00e9ma, les s\u00e9ries et la publicit\u00e9.",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ]
+        },
+        {
+            "Name": "Sloclap",
+            "url": "https://www.sloclap.com",
+            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o (Absolver, Sifu, Rematch).",
+            "Place": "Paris",
+            "Scientific-domain": [
+                "Animation",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": "100-199"
+        },
+        {
+            "Name": "Shiro Games",
+            "url": "https://shirogames.com",
+            "Description": "Studio de d\u00e9veloppement et d'\u00e9dition de jeux vid\u00e9o (Northgard, Dune: Spice Wars, Wartales), moteur maison Heaps.",
+            "Place": "Bordeaux",
+            "Scientific-domain": [
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": "50-99"
+        },
+        {
+            "Name": "TeamTO",
+            "url": "https://www.teamto.com",
+            "Description": "Studio d'animation 3D et 2D (s\u00e9ries et longs m\u00e9trages), d\u00e9veloppant ses propres outils de production (suite Citrus : Tangerine, Yuzu).",
+            "Place": "Paris, Valence",
+            "Scientific-domain": [
+                "Animation",
+                "Synth\u00e8se d'image"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Info": "Repris par RIVA Studios en d\u00e9cembre 2024 (nouvelle structure TeamTO Animation / TeamTO Technology)."
+        },
+        {
+            "Name": "Ankama",
+            "url": "https://www.ankama.com",
+            "Description": "Studio transm\u00e9dia : jeux vid\u00e9o en ligne (Dofus, Wakfu, Waven), films et s\u00e9ries d'animation, \u00e9dition.",
+            "Place": "Roubaix",
+            "Scientific-domain": [
+                "Synth\u00e8se d'image",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         }
     ]
