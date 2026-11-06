@@ -2,7 +2,10 @@
     "Keywords": {
         "Scientific-domain": [
             {
-                "Synth\u00e8se d'image": "Rendu d'images, Effets visuels, Mod\u00e8le de refl\u00e9ctance, etc."
+                "Rendu temps r\u00e9el/Moteurs 3D": "Moteurs de jeu et 3D temps r\u00e9el, rasterisation, ray tracing temps r\u00e9el, GPU, optimisation"
+            },
+            {
+                "Rendu offline/VFX": "Rendu photor\u00e9aliste, path tracing, mod\u00e8les de r\u00e9flectance, compositing, effets visuels"
             },
             {
                 "Mod\u00e9lisation": "G\u00e9n\u00e9ration de formes et sc\u00e8nes 3D, 2D, Mod\u00e8les proc\u00e9duraux, etc"
@@ -17,7 +20,7 @@
                 "Acquisition": "Syst\u00e8mes de capture 3D, MOCAP, capture d'image, de vid\u00e9o, etc"
             },
             {
-                "Reconstruction": "Reconstruction 3D, Probl\u00e8mes inverses, NeRF, Double num\u00e9rique, etc"
+                "Reconstruction": "Reconstruction 3D, Probl\u00e8mes inverses, Photogramm\u00e9trie, NeRF, Gaussian splatting, Jumeau num\u00e9rique, etc"
             },
             {
                 "Simulation": "Simulation num\u00e9rique, Mod\u00e8les bas\u00e9s physiques, etc"
@@ -32,13 +35,16 @@
                 "Vision": "Computer Vision, Classification et reconnaissance d'\u00e9l\u00e9ments visuels"
             },
             {
-                "Imagerie": "Modalit\u00e9 d'imagerie, Analyse et traitement d'images"
+                "Imagerie": "Imagerie m\u00e9dicale et scientifique, Analyse et traitement d'images"
             },
             {
                 "VR/AR": "R\u00e9alit\u00e9 virtuelle, augment\u00e9e et mixte"
             },
             {
-                "IA": "Intelligence Artificielle, Syst\u00e8mes Intelligents, Evolutifs, Apprentissage, etc."
+                "IA g\u00e9n\u00e9rative (image/3D)": "G\u00e9n\u00e9ration d'images, de vid\u00e9os, de mod\u00e8les 3D et d'animations par apprentissage"
+            },
+            {
+                "Pipeline/Outils de production": "Outils et pipeline de production (TD, plugins, gestion d'assets, int\u00e9gration logicielle)"
             },
             {
                 "Analyse de donn\u00e9es": "Analyse et traitement de donn\u00e9es g\u00e9n\u00e9rique, de signal"
@@ -61,13 +67,16 @@
             "Entrainement/Formation/Serious Game",
             "Loisir Interactif/Immersion/Metavers",
             "Robotique/Syst\u00e8mes autonomes",
-            "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
+            "Patrimoine/Culture",
             "S\u00e9curit\u00e9/D\u00e9fense",
             "Automobile/Navigation/Aviation",
             "M\u00e9dical/Biologique",
             "Mode/V\u00eatements/Accessoires",
-            "Architecture/Immobilier",
-            "M\u00e9canique/Ing\u00e9nierie civile",
+            "Architecture/BTP/Urbanisme",
+            "Industrie/Manufacturing/CAO",
+            "G\u00e9ospatial/Cartographie",
+            "Commerce/Marketing/Publicit\u00e9",
+            "\u00c9nergie/Environnement",
             "Autres",
             "G\u00e9n\u00e9rique"
         ]
@@ -135,7 +144,10 @@
             "url": "https://3dvf.com/",
             "Place": "Paris",
             "Scientific-domain": [
-                "Autres"
+                "Rendu offline/VFX",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
@@ -173,7 +185,8 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -185,7 +198,8 @@
             "url": "https://www.4dviews.com/",
             "Place": "Grenoble",
             "Scientific-domain": [
-                "Autres"
+                "Acquisition",
+                "Reconstruction"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
@@ -210,7 +224,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -253,7 +267,7 @@
                 "etc."
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Design/Fabrication"
@@ -324,7 +338,7 @@
                 "Design/Fabrication"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "Automobile/Navigation/Aviation",
                 "Robotique/Syst\u00e8mes autonomes"
             ]
@@ -343,7 +357,9 @@
                 "Vision"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "G\u00e9ospatial/Cartographie",
+                "Industrie/Manufacturing/CAO",
+                "\u00c9nergie/Environnement"
             ],
             "Info": "Rachet\u00e9 par GE Vernova en 2025 (int\u00e9gr\u00e9 \u00e0 GridOS Visual Intelligence).",
             "Employees": 80
@@ -363,11 +379,8 @@
             ],
             "Scientific-domain": [
                 "Hardware",
-                "Synth\u00e8se d'image",
-                "IA",
-                "Web/Cloud/Big Data",
-                "Visualisation",
-                "Autres"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Rendu offline/VFX"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -385,7 +398,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -403,12 +416,9 @@
             "Place": "Grenoble, Montpellier",
             "Scientific-domain": [
                 "Mod\u00e9lisation",
-                "Visualisation",
-                "Simulation",
                 "G\u00e9om\u00e9trie",
-                "Imagerie",
-                "Reconstruction",
-                "Analyse de donn\u00e9es"
+                "Simulation",
+                "Imagerie"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -434,7 +444,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -459,9 +469,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Web/Cloud/Big Data",
-                "IA",
-                "Autres"
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Hardware",
+                "Vision"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -475,7 +486,7 @@
             "Jobs": "https://www.arkane-studios.com/fr#studios",
             "Place": "Lyon",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation"
             ],
@@ -501,7 +512,7 @@
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
-                "Architecture/Immobilier",
+                "Architecture/BTP/Urbanisme",
                 "Entrainement/Formation/Serious Game"
             ],
             "Info": "Le site annonce qu'Artefacto devient INVELON France.",
@@ -519,7 +530,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -555,17 +566,15 @@
             ],
             "Jobs": "https://www.autodesk.com/careers/overview",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
                 "Mod\u00e9lisation",
                 "Animation",
-                "Visualisation",
-                "Simulation",
-                "Design/Fabrication"
+                "Design/Fabrication",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
                 "Automobile/Navigation/Aviation",
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Industrie/Manufacturing/CAO"
             ],
             "Employees": 15000,
             "Info": "\u00c9quipe \u00e0 Rennes issue de Golaem (logiciel de simulation de foules pour les VFX), rachet\u00e9e par Autodesk en ao\u00fbt 2024."
@@ -644,16 +653,14 @@
                 }
             ],
             "Scientific-domain": [
-                "Visualisation",
-                "Simulation",
-                "Vision",
                 "Mod\u00e9lisation",
+                "Simulation",
                 "Reconstruction",
-                "Design/Fabrication",
-                "Imagerie"
+                "Visualisation"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Architecture/BTP/Urbanisme",
+                "G\u00e9ospatial/Cartographie",
                 "Automobile/Navigation/Aviation"
             ],
             "Employees": 5000,
@@ -674,7 +681,8 @@
                 "Web/Cloud/Big Data"
             ],
             "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers"
+                "Loisir Interactif/Immersion/Metavers",
+                "Commerce/Marketing/Publicit\u00e9"
             ]
         },
         {
@@ -740,7 +748,7 @@
             "Place": "Paris",
             "Jobs": "https://buf.com/jobs/",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Vision"
@@ -780,11 +788,11 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image"
+                "Rendu offline/VFX"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
-                "Architecture/Immobilier"
+                "Architecture/BTP/Urbanisme"
             ]
         },
         {
@@ -824,8 +832,7 @@
             "Scientific-domain": [
                 "Imagerie",
                 "Design/Fabrication",
-                "Simulation",
-                "IA"
+                "Simulation"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -872,7 +879,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -923,13 +930,12 @@
             "Scientific-domain": [
                 "Mod\u00e9lisation",
                 "Simulation",
-                "Visualisation",
                 "G\u00e9om\u00e9trie",
                 "Design/Fabrication"
             ],
             "Application-domain": [
                 "Automobile/Navigation/Aviation",
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "M\u00e9dical/Biologique"
             ],
             "Highlight": "Graphics, R&D",
@@ -959,7 +965,8 @@
             "Jobs": "https://www.digitalfish.com/careers/",
             "Scientific-domain": [
                 "Animation",
-                "VR/AR"
+                "VR/AR",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -979,14 +986,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
+                "Rendu offline/VFX",
                 "Animation",
-                "Visualisation",
-                "Design/Fabrication",
-                "VR/AR",
-                "IA",
-                "Autres"
+                "Simulation",
+                "VR/AR"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
@@ -1010,7 +1013,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -1099,7 +1102,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -1136,12 +1139,13 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Design/Fabrication"
             ],
             "Application-domain": [
-                "G\u00e9n\u00e9rique"
+                "Commerce/Marketing/Publicit\u00e9",
+                "Industrie/Manufacturing/CAO"
             ],
             "Jobs": "https://www.emersya.com/join-us/",
             "Employees": 30
@@ -1167,7 +1171,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -1203,7 +1207,7 @@
             "Application-domain": [
                 "Automobile/Navigation/Aviation",
                 "S\u00e9curit\u00e9/D\u00e9fense",
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Industrie/Manufacturing/CAO"
             ],
             "Info": "Rachet\u00e9 par Keysight Technologies (finalis\u00e9 en janvier 2024) ; l'entit\u00e9 fran\u00e7aise est devenue Keysight Technologies France. Le site esi-group.com redirige vers Keysight."
         },
@@ -1236,7 +1240,7 @@
             "Jobs": "https://falconscreativegroup.com/careers/",
             "Scientific-domain": [
                 "VR/AR",
-                "Autres"
+                "Animation"
             ],
             "Application-domain": [
                 "Loisir Interactif/Immersion/Metavers",
@@ -1255,7 +1259,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -1293,7 +1297,7 @@
             ],
             "Employees": 2400,
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Web/Cloud/Big Data"
@@ -1334,9 +1338,8 @@
             "Description": "Radiologie avec IA",
             "Place": "Paris",
             "Scientific-domain": [
-                "IA",
-                "Visualisation",
-                "Imagerie"
+                "Imagerie",
+                "Vision"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -1358,10 +1361,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Web/Cloud/Big Data",
-                "IA",
+                "IA g\u00e9n\u00e9rative (image/3D)",
                 "Vision",
-                "Autres"
+                "Reconstruction",
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -1382,11 +1385,9 @@
                 }
             ],
             "Scientific-domain": [
-                "Animation",
                 "Acquisition",
-                "Reconstruction",
-                "Vision",
-                "Imagerie"
+                "Imagerie",
+                "Vision"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -1409,12 +1410,12 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "VR/AR"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "Automobile/Navigation/Aviation"
             ]
         },
@@ -1433,7 +1434,7 @@
                 "VR/AR"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "Entrainement/Formation/Serious Game"
             ]
         },
@@ -1451,11 +1452,11 @@
                 "Acquisition",
                 "Reconstruction",
                 "G\u00e9om\u00e9trie",
-                "Vision",
-                "VR/AR"
+                "Vision"
             ],
             "Application-domain": [
-                "G\u00e9n\u00e9rique"
+                "G\u00e9ospatial/Cartographie",
+                "Industrie/Manufacturing/CAO"
             ]
         },
         {
@@ -1495,7 +1496,8 @@
                 "VR/AR"
             ],
             "Application-domain": [
-                "Loisir Interactif/Immersion/Metavers"
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme"
             ]
         },
         {
@@ -1505,9 +1507,8 @@
             "Place": "Paris",
             "Jobs": "https://www.gfc.ikigai.games/recrutement",
             "Scientific-domain": [
-                "Analyse de donn\u00e9es",
-                "Web/Cloud/Big Data",
-                "Autres"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -1521,7 +1522,7 @@
             "Place": "Paris",
             "Jobs": "https://www.illuminationstudiosparis.com/careers/",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Vision"
@@ -1538,8 +1539,7 @@
             "Place": "Paris",
             "Scientific-domain": [
                 "Analyse de donn\u00e9es",
-                "Imagerie",
-                "IA"
+                "Imagerie"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -1559,7 +1559,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Hardware"
             ],
             "Application-domain": [
@@ -1572,7 +1572,7 @@
             "Description": "Creation d'images par IA",
             "Place": "Paris",
             "Scientific-domain": [
-                "IA",
+                "IA g\u00e9n\u00e9rative (image/3D)",
                 "Vision"
             ],
             "Application-domain": [
@@ -1621,7 +1621,8 @@
                 "Analyse de donn\u00e9es"
             ],
             "Application-domain": [
-                "Autres"
+                "\u00c9nergie/Environnement",
+                "G\u00e9ospatial/Cartographie"
             ],
             "Info": "Rachet\u00e9e en 2026 par Energy Aspects (Londres) ; la marque et l'\u00e9quipe parisienne sont maintenues.",
             "Employees": 75
@@ -1633,9 +1634,9 @@
             "Place": "Paris",
             "Jobs": "https://kinetix-tech.welcomekit.co/",
             "Scientific-domain": [
-                "Vision",
                 "Animation",
-                "IA",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Vision",
                 "Acquisition"
             ],
             "Application-domain": [
@@ -1662,19 +1663,14 @@
             "Employees": 200,
             "Scientific-domain": [
                 "Visualisation",
-                "Reconstruction",
-                "Simulation",
-                "G\u00e9om\u00e9trie",
                 "Imagerie",
                 "Vision",
-                "IA",
-                "Analyse de donn\u00e9es"
+                "Reconstruction"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique",
                 "Automobile/Navigation/Aviation",
-                "M\u00e9canique/Ing\u00e9nierie civile",
-                "Autres"
+                "Industrie/Manufacturing/CAO"
             ]
         },
         {
@@ -1693,7 +1689,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -1754,7 +1750,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Vision",
                 "VR/AR"
             ],
@@ -1769,7 +1765,8 @@
             "Description": "D\u00e9veloppement de jeux vid\u00e9o ind\u00e9pendants.",
             "Place": "Paris",
             "Scientific-domain": [
-                "Autres"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -1811,7 +1808,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image"
+                "Rendu offline/VFX"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -1831,7 +1828,7 @@
             "Place": "Paris",
             "Scientific-domain": [
                 "Vision",
-                "IA"
+                "Analyse de donn\u00e9es"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -1908,7 +1905,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
@@ -1957,7 +1954,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
@@ -1981,8 +1978,9 @@
             ],
             "Place": "Paris",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Animation"
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -2024,10 +2022,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Web/Cloud/Big Data",
-                "IA",
-                "Synth\u00e8se d'image",
-                "Autres"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -2054,7 +2052,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation",
                 "Animation"
             ],
@@ -2093,7 +2091,6 @@
             "Scientific-domain": [
                 "Acquisition",
                 "Reconstruction",
-                "G\u00e9om\u00e9trie",
                 "Vision",
                 "Mod\u00e9lisation"
             ],
@@ -2147,10 +2144,11 @@
             ],
             "Scientific-domain": [
                 "Visualisation",
-                "Synth\u00e8se d'image"
+                "Rendu temps r\u00e9el/Moteurs 3D"
             ],
             "Application-domain": [
-                "Autres"
+                "\u00c9nergie/Environnement",
+                "Architecture/BTP/Urbanisme"
             ],
             "Employees": 4
         },
@@ -2170,12 +2168,12 @@
                 }
             ],
             "Scientific-domain": [
-                "IA",
                 "Mod\u00e9lisation",
-                "Design/Fabrication"
+                "Design/Fabrication",
+                "Simulation"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Industrie/Manufacturing/CAO"
             ],
             "Employees": 100
         },
@@ -2214,7 +2212,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image"
+                "Rendu offline/VFX"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -2239,7 +2237,7 @@
                 "Simulation",
                 "Animation",
                 "Mod\u00e9lisation",
-                "Synth\u00e8se d'image"
+                "Rendu temps r\u00e9el/Moteurs 3D"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -2276,7 +2274,7 @@
                 "Simulation"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Industrie/Manufacturing/CAO"
             ]
         },
         {
@@ -2300,12 +2298,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "IA",
                 "Hardware",
-                "Simulation",
-                "Web/Cloud/Big Data",
-                "Visualisation"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Simulation"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -2344,7 +2340,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Acquisition"
             ],
             "Application-domain": [
@@ -2379,8 +2375,7 @@
                 "Vision",
                 "Acquisition",
                 "Visualisation",
-                "G\u00e9om\u00e9trie",
-                "IA"
+                "G\u00e9om\u00e9trie"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -2394,9 +2389,9 @@
             "Place": "Paris",
             "Jobs": "https://pixel-wizards.com/jobs/",
             "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
-                "Animation",
-                "IA"
+                "Animation"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -2414,7 +2409,8 @@
             ],
             "Product": "Iliad, Epos, Odyssey, Ulis, etc.",
             "Scientific-domain": [
-                "Animation"
+                "Animation",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -2429,9 +2425,8 @@
             "Description": "Diagnostic du cancer par IA et analyse d'images de lames histologiques (Cleo Breast, Cleo Skin).",
             "Place": "Paris",
             "Scientific-domain": [
-                "IA",
-                "Visualisation",
-                "Imagerie"
+                "Imagerie",
+                "Vision"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -2482,8 +2477,8 @@
                 }
             ],
             "Scientific-domain": [
-                "IA",
-                "Imagerie"
+                "Imagerie",
+                "Vision"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -2505,7 +2500,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -2529,11 +2524,10 @@
             "url": "https://www.roblox.com/",
             "Jobs": "https://careers.roblox.com/",
             "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
-                "Simulation",
-                "Web/Cloud/Big Data",
-                "VR/AR"
+                "Web/Cloud/Big Data"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o",
@@ -2576,13 +2570,13 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Simulation",
                 "Visualisation"
             ],
             "Application-domain": [
-                "Architecture/Immobilier",
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Architecture/BTP/Urbanisme",
+                "Industrie/Manufacturing/CAO"
             ]
         },
         {
@@ -2628,7 +2622,8 @@
             "Scientific-domain": [
                 "Mod\u00e9lisation",
                 "Animation",
-                "Simulation"
+                "Simulation",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -2660,11 +2655,10 @@
             "Description": "Centre de recherche de Sony - Computer Science Laboratories: Creativy, Music, Language, Sustainability",
             "Place": "Paris",
             "Scientific-domain": [
-                "IA",
-                "Analyse de donn\u00e9es",
+                "IA g\u00e9n\u00e9rative (image/3D)",
                 "Vision",
                 "Imagerie",
-                "VR/AR"
+                "Analyse de donn\u00e9es"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -2677,7 +2671,6 @@
             "Jobs": "https://www.spirops.com/en/jobs.php",
             "Place": "Paris",
             "Scientific-domain": [
-                "IA",
                 "Animation",
                 "Simulation"
             ],
@@ -2716,7 +2709,9 @@
             "Description": "Editeur de jeu vid\u00e9os",
             "Jobs": "https://apply.workable.com/square-enix/",
             "Scientific-domain": [
-                "Autres"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Rendu offline/VFX",
+                "Animation"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -2737,12 +2732,12 @@
                 }
             ],
             "Scientific-domain": [
-                "IA",
-                "Vision",
-                "Autres"
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Vision"
             ],
             "Application-domain": [
-                "Autres"
+                "G\u00e9n\u00e9rique",
+                "Cin\u00e9ma/Films d'Animation/VFX"
             ]
         },
         {
@@ -2816,7 +2811,8 @@
             "Place": "Paris",
             "url": "https://studio-draconis.com/",
             "Scientific-domain": [
-                "IA"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -2888,13 +2884,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Animation",
-                "Simulation",
                 "Acquisition",
-                "Vision",
-                "IA"
+                "Vision"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -2930,12 +2923,11 @@
             "Scientific-domain": [
                 "Acquisition",
                 "Reconstruction",
-                "G\u00e9om\u00e9trie",
-                "Vision",
-                "VR/AR"
+                "G\u00e9om\u00e9trie"
             ],
             "Application-domain": [
-                "G\u00e9n\u00e9rique"
+                "Industrie/Manufacturing/CAO",
+                "Architecture/BTP/Urbanisme"
             ],
             "Jobs": "https://www.welcometothejungle.com/fr/companies/technodigit"
         },
@@ -2962,10 +2954,12 @@
                 }
             ],
             "Scientific-domain": [
-                "Design/Fabrication"
+                "Design/Fabrication",
+                "Visualisation",
+                "G\u00e9om\u00e9trie"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "G\u00e9n\u00e9rique"
             ]
         },
@@ -3047,8 +3041,9 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation"
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -3061,7 +3056,8 @@
             "url": "https://www.thegamebakers.com/",
             "Jobs": "https://www.thegamebakers.com/category/jobs/",
             "Scientific-domain": [
-                "Autres"
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -3112,11 +3108,12 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Animation"
             ],
             "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
             ],
             "Info": "MPC et The Mill, anciens studios du groupe Technicolor, ont \u00e9t\u00e9 repris par TransPerfect en 2025 apr\u00e8s la faillite de Technicolor, puis r\u00e9unis sous la marque The Mill en juin 2026. Le site <a href=\"https://www.mpcvfx.com/fr/\">MPC Paris</a> reste actif."
         },
@@ -3139,17 +3136,10 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
-                "Mod\u00e9lisation",
+                "Rendu offline/VFX",
                 "Animation",
-                "Visualisation",
-                "Acquisition",
-                "Reconstruction",
                 "Simulation",
-                "G\u00e9om\u00e9trie",
-                "Vision",
-                "Imagerie",
-                "IA"
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -3214,7 +3204,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -3263,7 +3253,7 @@
             "Highlight": "Graphics, R&D",
             "Employees": 7000,
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -3289,7 +3279,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Simulation"
             ],
             "Application-domain": [
@@ -3370,7 +3360,7 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Mod\u00e9lisation",
                 "Animation",
                 "Simulation"
@@ -3392,12 +3382,12 @@
                 }
             ],
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation",
                 "Visualisation"
             ],
             "Application-domain": [
-                "Architecture/Immobilier"
+                "Architecture/BTP/Urbanisme"
             ]
         },
         {
@@ -3438,7 +3428,7 @@
             "url": "https://en.wandercraft.eu/",
             "Scientific-domain": [
                 "Simulation",
-                "IA"
+                "IHM/Haptique"
             ],
             "Application-domain": [
                 "Robotique/Syst\u00e8mes autonomes"
@@ -3461,8 +3451,7 @@
             "Scientific-domain": [
                 "IHM/Haptique",
                 "Web/Cloud/Big Data",
-                "Vision",
-                "IA"
+                "Vision"
             ],
             "Application-domain": [
                 "G\u00e9n\u00e9rique"
@@ -3509,8 +3498,9 @@
                 "G\u00e9om\u00e9trie"
             ],
             "Application-domain": [
-                "Histoire/Arch\u00e9ologie/Mus\u00e9ographie",
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "G\u00e9ospatial/Cartographie",
+                "Patrimoine/Culture",
+                "Architecture/BTP/Urbanisme"
             ],
             "Employees": 70
         },
@@ -3530,7 +3520,7 @@
             ],
             "Scientific-domain": [
                 "Animation",
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
@@ -3564,7 +3554,6 @@
             "Scientific-domain": [
                 "Vision",
                 "Reconstruction",
-                "IA",
                 "Acquisition"
             ],
             "Application-domain": [
@@ -3591,7 +3580,7 @@
                 }
             ],
             "Scientific-domain": [
-                "IA",
+                "IA g\u00e9n\u00e9rative (image/3D)",
                 "Vision",
                 "VR/AR",
                 "Reconstruction"
@@ -3622,12 +3611,12 @@
             ],
             "Scientific-domain": [
                 "Simulation",
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Visualisation"
             ],
             "Application-domain": [
                 "Automobile/Navigation/Aviation",
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "G\u00e9n\u00e9rique"
             ]
         },
@@ -3643,7 +3632,7 @@
                 "G\u00e9om\u00e9trie"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Industrie/Manufacturing/CAO"
             ],
             "Employees": 420
         },
@@ -3658,7 +3647,7 @@
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "G\u00e9n\u00e9rique"
             ]
         },
@@ -3670,7 +3659,7 @@
             "Place": "Toulouse",
             "Scientific-domain": [
                 "Simulation",
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Mod\u00e9lisation"
             ],
             "Application-domain": [
@@ -3691,8 +3680,8 @@
                 "Visualisation"
             ],
             "Application-domain": [
-                "Architecture/Immobilier",
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Architecture/BTP/Urbanisme",
+                "Industrie/Manufacturing/CAO"
             ]
         },
         {
@@ -3706,7 +3695,8 @@
                 "Visualisation"
             ],
             "Application-domain": [
-                "Histoire/Arch\u00e9ologie/Mus\u00e9ographie"
+                "Patrimoine/Culture",
+                "G\u00e9ospatial/Cartographie"
             ]
         },
         {
@@ -3737,7 +3727,7 @@
             "Application-domain": [
                 "Entrainement/Formation/Serious Game",
                 "M\u00e9dical/Biologique",
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "Industrie/Manufacturing/CAO"
             ]
         },
         {
@@ -3748,8 +3738,7 @@
             "Scientific-domain": [
                 "Imagerie",
                 "Reconstruction",
-                "Visualisation",
-                "IA"
+                "Visualisation"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -3771,8 +3760,7 @@
             "Scientific-domain": [
                 "Imagerie",
                 "Reconstruction",
-                "Simulation",
-                "IA"
+                "Simulation"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -3785,13 +3773,12 @@
             "Jobs": "https://www.welcometothejungle.com/fr/companies/photoroom",
             "Place": "Paris",
             "Scientific-domain": [
-                "IA",
+                "IA g\u00e9n\u00e9rative (image/3D)",
                 "Imagerie",
-                "Vision",
-                "Synth\u00e8se d'image"
+                "Vision"
             ],
             "Application-domain": [
-                "G\u00e9n\u00e9rique",
+                "Commerce/Marketing/Publicit\u00e9",
                 "Mode/V\u00eatements/Accessoires"
             ]
         },
@@ -3815,12 +3802,11 @@
             ],
             "Scientific-domain": [
                 "Visualisation",
-                "Imagerie",
-                "IA"
+                "Imagerie"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique",
-                "Autres"
+                "Industrie/Manufacturing/CAO"
             ]
         },
         {
@@ -3834,7 +3820,7 @@
                 "IHM/Haptique"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "Entrainement/Formation/Serious Game"
             ]
         },
@@ -3845,7 +3831,6 @@
             "Place": "Paris",
             "Scientific-domain": [
                 "Vision",
-                "IA",
                 "Acquisition"
             ],
             "Application-domain": [
@@ -3859,7 +3844,7 @@
             "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o, cr\u00e9ateur de Clair Obscur: Expedition 33 (Unreal Engine 5).",
             "Place": "Montpellier",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Animation"
             ],
             "Application-domain": [
@@ -3872,7 +3857,7 @@
             "Description": "Studio d'animation 2D/3D, r\u00e9alisateur de la s\u00e9rie Arcane.",
             "Place": "Paris, Montpellier",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Animation"
             ],
             "Application-domain": [
@@ -3901,7 +3886,7 @@
             "Description": "Studio d'animation 3D (s\u00e9ries, longs m\u00e9trages, cin\u00e9matiques).",
             "Place": "Montpellier",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Animation"
             ],
             "Application-domain": [
@@ -3915,11 +3900,12 @@
             "Description": "Studio d'effets visuels pour le cin\u00e9ma, les s\u00e9ries et la publicit\u00e9.",
             "Place": "Paris",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Simulation"
             ],
             "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
             ]
         },
         {
@@ -3929,7 +3915,7 @@
             "Place": "Paris",
             "Scientific-domain": [
                 "Animation",
-                "Synth\u00e8se d'image"
+                "Rendu temps r\u00e9el/Moteurs 3D"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -3942,7 +3928,7 @@
             "Description": "Studio de d\u00e9veloppement et d'\u00e9dition de jeux vid\u00e9o (Northgard, Dune: Spice Wars, Wartales), moteur maison Heaps.",
             "Place": "Bordeaux",
             "Scientific-domain": [
-                "Synth\u00e8se d'image"
+                "Rendu temps r\u00e9el/Moteurs 3D"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -3956,7 +3942,8 @@
             "Place": "Paris, Valence",
             "Scientific-domain": [
                 "Animation",
-                "Synth\u00e8se d'image"
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -3969,7 +3956,8 @@
             "Description": "Studio transm\u00e9dia : jeux vid\u00e9o en ligne (Dofus, Wakfu, Waven), films et s\u00e9ries d'animation, \u00e9dition.",
             "Place": "Roubaix",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Rendu offline/VFX",
                 "Animation"
             ],
             "Application-domain": [
@@ -3989,7 +3977,7 @@
             ],
             "Application-domain": [
                 "Robotique/Syst\u00e8mes autonomes",
-                "Autres"
+                "Automobile/Navigation/Aviation"
             ],
             "Employees": 75
         },
@@ -4016,8 +4004,7 @@
             "Scientific-domain": [
                 "Imagerie",
                 "Visualisation",
-                "VR/AR",
-                "IA"
+                "VR/AR"
             ],
             "Application-domain": [
                 "M\u00e9dical/Biologique"
@@ -4050,7 +4037,7 @@
                 "Hardware"
             ],
             "Application-domain": [
-                "M\u00e9canique/Ing\u00e9nierie civile",
+                "Industrie/Manufacturing/CAO",
                 "Automobile/Navigation/Aviation"
             ],
             "Employees": 35
@@ -4066,8 +4053,8 @@
                 "G\u00e9om\u00e9trie"
             ],
             "Application-domain": [
-                "Architecture/Immobilier",
-                "M\u00e9canique/Ing\u00e9nierie civile"
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme"
             ],
             "Employees": 35
         },
@@ -4077,12 +4064,14 @@
             "Description": "Studio de cr\u00e9ation visuelle : effets visuels, animation, production virtuelle et temps r\u00e9el.",
             "Place": "Paris",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Animation",
                 "VR/AR"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9",
                 "Art/Evenementiel"
             ],
             "Employees": 150
@@ -4093,11 +4082,12 @@
             "Description": "Studio d'effets visuels et de post-production pour le cin\u00e9ma, les s\u00e9ries et la publicit\u00e9.",
             "Place": "Paris",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Simulation"
             ],
             "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
             ],
             "Employees": 75
         },
@@ -4108,7 +4098,7 @@
             "Place": "Bordeaux",
             "Scientific-domain": [
                 "Animation",
-                "Synth\u00e8se d'image"
+                "Rendu temps r\u00e9el/Moteurs 3D"
             ],
             "Application-domain": [
                 "Jeu Vid\u00e9o"
@@ -4121,7 +4111,7 @@
             "Description": "Studio d'animation 3D et d'effets visuels (cin\u00e9matiques de jeux vid\u00e9o, s\u00e9ries, publicit\u00e9).",
             "Place": "Paris",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu offline/VFX",
                 "Animation"
             ],
             "Application-domain": [
@@ -4136,7 +4126,7 @@
             "Description": "Studio de d\u00e9veloppement de jeux de strat\u00e9gie temps r\u00e9el (Steel Division, WARNO), moteur maison IRISZOOM.",
             "Place": "Paris",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Simulation"
             ],
             "Application-domain": [
@@ -4150,7 +4140,7 @@
             "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o (Curse of the Dead Gods, Ravenswatch).",
             "Place": "Villeurbanne",
             "Scientific-domain": [
-                "Synth\u00e8se d'image",
+                "Rendu temps r\u00e9el/Moteurs 3D",
                 "Animation"
             ],
             "Application-domain": [
@@ -4177,7 +4167,7 @@
             ],
             "Scientific-domain": [
                 "Animation",
-                "Synth\u00e8se d'image"
+                "Rendu offline/VFX"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
@@ -4192,7 +4182,7 @@
             "Place": "Toulouse",
             "Scientific-domain": [
                 "Animation",
-                "Synth\u00e8se d'image"
+                "Rendu offline/VFX"
             ],
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"

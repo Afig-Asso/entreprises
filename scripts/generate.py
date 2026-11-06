@@ -213,6 +213,7 @@ REQUIRED_KEYS = ['Name', 'url', 'Place', 'Scientific-domain', 'Application-domai
 OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords', 'Highlight']
 PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International']
 PRODUCT_KEYS = ['Name', 'url']
+MAX_SCIENTIFIC_DOMAINS = 4  # keep only the core themes, otherwise the filters of the site become meaningless
 
 def check_validity_data(data):
     """Check required and unknown keys of each entry. Return True if no problem was found."""
@@ -229,6 +230,11 @@ def check_validity_data(data):
             if key not in allowed_keys:
                 print(f'!! Warning: Unknown key [{key}] in entry {name} (allowed: {", ".join(sorted(allowed_keys))})\n')
                 valid = False
+
+        scientific = entry.get('Scientific-domain', [])
+        if isinstance(scientific, list) and len(scientific) > MAX_SCIENTIFIC_DOMAINS:
+            print(f'!! Warning: {len(scientific)} Scientific-domain in entry {name}, keep at most {MAX_SCIENTIFIC_DOMAINS} (core themes only)\n')
+            valid = False
 
         places = entry.get('Place')
         if isinstance(places, dict):

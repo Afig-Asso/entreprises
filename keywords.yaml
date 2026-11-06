@@ -1,18 +1,20 @@
 
 Scientific-domain:
-  - Synthèse d'image: "Rendu d'images, Effets visuels, Modèle de refléctance, etc."
+  - Rendu temps réel/Moteurs 3D: "Moteurs de jeu et 3D temps réel, rasterisation, ray tracing temps réel, GPU, optimisation"
+  - Rendu offline/VFX: "Rendu photoréaliste, path tracing, modèles de réflectance, compositing, effets visuels"
   - Modélisation: "Génération de formes et scènes 3D, 2D, Modèles procéduraux, etc"
   - Animation: "Génération d'animation, Analyse et traitement d'animation"
   - Visualisation: "Visualisation de données, scientifique, de modèles 3D, etc"
   - Acquisition: "Systèmes de capture 3D, MOCAP, capture d'image, de vidéo, etc"
-  - Reconstruction: "Reconstruction 3D, Problèmes inverses, NeRF, Double numérique, etc"
+  - Reconstruction: "Reconstruction 3D, Problèmes inverses, Photogrammétrie, NeRF, Gaussian splatting, Jumeau numérique, etc"
   - Simulation: "Simulation numérique, Modèles basés physiques, etc"
   - Géométrie: "Analyse et Traitement de géométrie"
   - Design/Fabrication: "Design interactif, Fabrication 3D, CAO, CFAO, etc."
   - Vision: "Computer Vision, Classification et reconnaissance d'éléments visuels"
-  - Imagerie: "Modalité d'imagerie, Analyse et traitement d'images"
+  - Imagerie: "Imagerie médicale et scientifique, Analyse et traitement d'images"
   - VR/AR: "Réalité virtuelle, augmentée et mixte"
-  - IA: "Intelligence Artificielle, Systèmes Intelligents, Evolutifs, Apprentissage, etc."
+  - IA générative (image/3D): "Génération d'images, de vidéos, de modèles 3D et d'animations par apprentissage"
+  - Pipeline/Outils de production: "Outils et pipeline de production (TD, plugins, gestion d'assets, intégration logicielle)"
   - Analyse de données: "Analyse et traitement de données générique, de signal"
   - IHM/Haptique: "Interaction Homme Machine, Interfaces, Système haptique, Retour d'effort, Systèmes tangibles."
   - Hardware: "Systèmes embarqués, IoT, Cartes graphiques, FPGA, etc"
@@ -27,13 +29,15 @@ Application-domain:
   - Entrainement/Formation/Serious Game
   - Loisir Interactif/Immersion/Metavers
   - Robotique/Systèmes autonomes
-  - Histoire/Archéologie/Muséographie
+  - Patrimoine/Culture
   - Sécurité/Défense
   - Automobile/Navigation/Aviation
   - Médical/Biologique
   - Mode/Vêtements/Accessoires
-  - Architecture/Immobilier
-  - Mécanique/Ingénierie civile
+  - Architecture/BTP/Urbanisme
+  - Industrie/Manufacturing/CAO
+  - Géospatial/Cartographie
+  - Commerce/Marketing/Publicité
+  - Énergie/Environnement
   - Autres
   - Générique
-  
