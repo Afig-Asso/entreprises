@@ -262,14 +262,17 @@
 - Name: Autodesk
   url: https://www.autodesk.com/
   Description: Logiciels 3D, CAO, Conception, Design
-  Product: Maya, 3DS Max, AutoCAD
+  Product: Maya, 3DS Max, AutoCAD, Golaem
   Place:
     - Country: [USA, Canada, India, UK, Singapore, Norway]
+    - Country: France
+      City: Rennes
     - International: true
   Jobs: https://www.autodesk.com/careers/overview
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication]
   Application-domain: [Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile]
   Employees: 15000
+  Info: Équipe à Rennes issue de Golaem (logiciel de simulation de foules pour les VFX), rachetée par Autodesk en août 2024.
 
 - Name: Avatar Medical
   url: https://www.avatarmedical.ai/
@@ -306,9 +309,11 @@
     - Country: Singapore
     - Country: New Zealand
     - Country: India
-  Scientific-domain: [Visualisation, Simulation, Vision, Modélisation, Reconstruction, Design/Fabrication]
+  Scientific-domain: [Visualisation, Simulation, Vision, Modélisation, Reconstruction, Design/Fabrication, Imagerie]
   Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation]
   Employees: 5000
+  Product: iTwin, Cesium
+  Info: Cesium (plateforme ouverte de données géospatiales 3D, Philadelphie) racheté en septembre 2024 et intégré à iTwin.
 
 - Name: Blippar
   Description: Développement d'outils pour la création de contenu en AR sur smartphone
@@ -365,18 +370,6 @@
       City: Carlsbad
   Scientific-domain: [VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
-
-- Name: Cesium
-  url: https://cesium.com/
-  Jobs: https://cesium.com/careers/#opportunities
-  Description: Open Plateform for 3D Geospatial data
-  Place:
-    - Country: USA
-      State: Pennsylvania
-      City: Philadelphia
-  Scientific-domain: [Modélisation, Imagerie, Analyse de données]
-  Application-domain: [Générique]
-  Info: Racheté par Bentley Systems en septembre 2024 (intégré à la plateforme iTwin).
 
 - Name: Chaos
   url: https://www.chaos.com/
@@ -517,18 +510,6 @@
   Jobs: https://www.welcometothejungle.com/fr/companies/dronisos
   Employees: 35
 
-- Name: Dynamixyz
-  url: https://www.linkedin.com/company/dynamixyz
-  Description: Markerless Facial Motion Capture
-  Info: Racheté par Take-Two Interactive en 2021 ; travaille désormais exclusivement pour les studios du groupe (Rockstar, 2K). Team active de R&D publiant dans les conférences de graphique, et liens académiques.
-  Place:
-    - Country: France
-      City: Rennes
-      Exact: Cesson-Sévigné
-  Scientific-domain: [Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données]
-  Application-domain: [Jeu Vidéo]
-  Employees: 15
-
 - Name: Easy Mile
   Description: 'Véhicules autonomes industriels (logistique, aéroports, sites industriels) : perception et logiciels de conduite autonome.'
   url: https://easymile.com/
@@ -666,14 +647,6 @@
   Scientific-domain: [IA, Visualisation, Imagerie]
   Application-domain: [Médical/Biologique]
   Employees: 75
-
-- Name: Golaem
-  url: https://www.autodesk.com/solutions/golaem
-  Description: Logiciel de creation et controle de foules de personnes. Utilisé dans de nombreux films avec VFX
-  Place: Rennes
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-  Info: Propriété intellectuelle et équipe rachetées par Autodesk en août 2024 ; l'équipe reste à Rennes (Autodesk France). Golaem est désormais inclus dans la Media & Entertainment Collection d'Autodesk.
 
 - Name: Google
   url: https://about.google/
@@ -1067,19 +1040,6 @@
   Application-domain: [Générique]
   Info: Movea, spin-off du CEA-Léti, a été rachetée par InvenSense en 2014, elle-même filiale de TDK depuis 2017 ; le site R&D de Grenoble reste actif.
 
-- Name: MPC
-  url: https://www.mpcvfx.com/fr/
-  Description: Creation de VFX pour le cinéma
-  Jobs: https://www.mpcvfx.com/fr/carrieres/
-  Place:
-    - Country: France
-      City: Paris
-    - Country: Belgique
-      City: Liège
-  Scientific-domain: [Synthèse d'image, Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-  Info: Studios de Paris et Liège repris par TransPerfect en 2025 après la faillite de Technicolor ; MPC et The Mill réunis sous une même marque en 2026.
-
 - Name: NDunes
   url: https://www.ndunes.com/
   Description: Logiciel de visualisation 3D pour les projets d'énergies renouvelables (éolien, solaire, stockage)
@@ -1472,8 +1432,9 @@
     - Country: France
       City: Paris
     - International: true
-  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
+  Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation, Acquisition, Vision, IA]
   Application-domain: [Jeu Vidéo]
+  Info: 'Équipe de R&D à Cesson-Sévigné (Rennes) issue de Dynamixyz (capture faciale sans marqueurs), rachetée en 2021 : travaille pour les studios du groupe (Rockstar, 2K) et publie dans les conférences de graphique.'
 
 - Name: Technicolor Games
   url: https://www.technicolorgames.com/
@@ -1570,9 +1531,10 @@
   Scientific-domain: [Animation, Acquisition]
   Application-domain: [Générique]
 
-- Name: The Mill
+- Name: MPC / The Mill
   url: https://www.themill.com/
-  Description: Création de VFX pour la publicité, le cinéma et les séries
+  Description: Création de VFX pour le cinéma, les séries et la publicité (studios MPC et The Mill)
+  Jobs: https://www.mpcvfx.com/fr/carrieres/
   Place:
     - Country: France
       City: Paris
@@ -1584,7 +1546,7 @@
       City: Bangalore
   Scientific-domain: [Synthèse d'image, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
-  Info: Racheté par TransPerfect en 2025 après la faillite du groupe Technicolor ; fusionné avec MPC sous la marque The Mill en juin 2026.
+  Info: MPC et The Mill, anciens studios du groupe Technicolor, ont été repris par TransPerfect en 2025 après la faillite de Technicolor, puis réunis sous la marque The Mill en juin 2026. Le site <a href="https://www.mpcvfx.com/fr/">MPC Paris</a> reste actif.
 
 - Name: The Yard VFX
   url: https://theyard-vfx.com/
@@ -2006,4 +1968,120 @@
   Place: Roubaix
   Scientific-domain: [Synthèse d'image, Animation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
+
+- Name: Outsight
+  url: https://www.outsight.ai/
+  Description: Plateforme logicielle de traitement de données lidar 3D (perception, suivi, analyse de flux) pour aéroports, gares et industrie.
+  Place: Paris
+  Scientific-domain: [Vision, Acquisition, Analyse de données]
+  Application-domain: [Robotique/Systèmes autonomes, Autres]
+  Employees: 75
+
+- Name: Pixee Medical
+  url: https://pixee-medical.com/
+  Description: Navigation chirurgicale en réalité augmentée par lunettes connectées et vision par ordinateur pour la chirurgie orthopédique.
+  Place: Besançon
+  Scientific-domain: [VR/AR, Vision, Imagerie]
+  Application-domain: [Médical/Biologique]
+  Employees: 75
+
+- Name: Therenva
+  url: https://www.therenva.com/
+  Description: Logiciels de planification et de navigation 3D par fusion d'images pour la chirurgie vasculaire endovasculaire (EndoNaut, EndoSize).
+  Place: Rennes
+  Scientific-domain: [Imagerie, Visualisation, VR/AR, IA]
+  Application-domain: [Médical/Biologique]
+  Employees: 35
+
+- Name: Sim&Cure
+  url: https://www.sim-and-cure.com/
+  Description: Logiciel de modélisation 3D et de simulation numérique pour le traitement endovasculaire des anévrismes intracrâniens (Sim&Size).
+  Place: Montpellier
+  Scientific-domain: [Simulation, Imagerie, Reconstruction]
+  Application-domain: [Médical/Biologique]
+  Employees: 35
+
+- Name: Kreon Technologies
+  url: https://www.kreon3d.com/
+  Description: Conception et fabrication de scanners laser 3D et de bras de mesure pour la métrologie et le contrôle dimensionnel.
+  Place: Limoges
+  Scientific-domain: [Acquisition, Reconstruction, Hardware]
+  Application-domain: [Mécanique/Ingénierie civile, Automobile/Navigation/Aviation]
+  Employees: 35
+
+- Name: Oslandia
+  url: https://oslandia.com/
+  Description: Société de services et d'édition open source en SIG et 3D géospatiale (QGIS, Giro3D, py3dtiles, PostGIS).
+  Place: Paris, Lyon
+  Scientific-domain: [Visualisation, Web/Cloud/Big Data, Géométrie]
+  Application-domain: [Architecture/Immobilier, Mécanique/Ingénierie civile]
+  Employees: 35
+
+- Name: Mathematic
+  url: https://mathematic.tv
+  Description: 'Studio de création visuelle : effets visuels, animation, production virtuelle et temps réel.'
+  Place: Paris
+  Scientific-domain: [Synthèse d'image, Animation, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
+  Employees: 150
+
+- Name: Digital District
+  url: https://www.digital-district.fr
+  Description: Studio d'effets visuels et de post-production pour le cinéma, les séries et la publicité.
+  Place: Paris
+  Scientific-domain: [Synthèse d'image, Simulation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 75
+
+- Name: Evil Empire
+  url: https://evilempire.com/
+  Description: Studio de développement de jeux vidéo (Dead Cells, The Rogue Prince of Persia).
+  Place: Bordeaux
+  Scientific-domain: [Animation, Synthèse d'image]
+  Application-domain: [Jeu Vidéo]
+  Employees: 65
+
+- Name: Unit Image
+  url: https://www.unit-image.fr/
+  Description: Studio d'animation 3D et d'effets visuels (cinématiques de jeux vidéo, séries, publicité).
+  Place: Paris
+  Scientific-domain: [Synthèse d'image, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+  Employees: 35
+
+- Name: Eugen Systems
+  url: https://eugensystems.com
+  Description: Studio de développement de jeux de stratégie temps réel (Steel Division, WARNO), moteur maison IRISZOOM.
+  Place: Paris
+  Scientific-domain: [Synthèse d'image, Simulation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 35
+
+- Name: Passtech Games
+  url: https://www.passtechgames.com
+  Description: Studio de développement de jeux vidéo (Curse of the Dead Gods, Ravenswatch).
+  Place: Villeurbanne
+  Scientific-domain: [Synthèse d'image, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 35
+
+- Name: Gao Shan Pictures
+  url: https://www.gaoshanpictures.com
+  Description: Studio d'animation 3D ayant participé à des longs métrages (Mars Express, J'ai perdu mon corps).
+  Place:
+    - Country: France
+      City: [Saint-Paul (La Réunion), Angoulême, Annecy]
+    - Country: Maurice
+  Scientific-domain: [Animation, Synthèse d'image]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 35
+
+- Name: TAT
+  Name-long: TAT Productions
+  url: https://www.tatprod.com
+  Description: 'Studio de production et de fabrication de films et séries d''animation 3D (Les As de la Jungle, Astérix et Obélix : le Combat des Chefs).'
+  Place: Toulouse
+  Scientific-domain: [Animation, Synthèse d'image]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 15
 

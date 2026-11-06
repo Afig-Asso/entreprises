@@ -13,9 +13,6 @@
 # indique l'état observé le 2026-11-06 avec un navigateur. Une exception qui
 # répond 200 peut probablement être retirée.
 
-- url: https://www.linkedin.com/company/dynamixyz
-  reason: LinkedIn bloque les robots (403)
-  since: 2023-11-17
 - url: https://www.linkedin.com/company/technodigit-sarl/
   reason: LinkedIn bloque les robots (403)
   since: 2024-03-29

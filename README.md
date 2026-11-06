@@ -244,8 +244,9 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Autodesk](https://www.autodesk.com/)**  
   * _Logiciels 3D, CAO, Conception, Design_
-  * **Produits**: Maya, 3DS Max, AutoCAD
-  * **Localisation**: USA, Canada, India, UK, Singapore, Norway, International
+  * **Remarque**: _Équipe à Rennes issue de Golaem (logiciel de simulation de foules pour les VFX), rachetée par Autodesk en août 2024._
+  * **Produits**: Maya, 3DS Max, AutoCAD, Golaem
+  * **Localisation**: USA, Canada, India, UK, Singapore, Norway, France/Rennes, International
   * **Nombres d'employés**: 15000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Mécanique/Ingénierie civile
@@ -270,9 +271,11 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Bentley](https://www.bentley.com/)**  
   * _Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D"._
+  * **Remarque**: _Cesium (plateforme ouverte de données géospatiales 3D, Philadelphie) racheté en septembre 2024 et intégré à iTwin._
+  * **Produits**: iTwin, Cesium
   * **Localisation**: USA, UK, Netherlands, France/{Paris, Sophia}, Singapore, New Zealand, India
   * **Nombres d'employés**: 5000
-  * **Domaine scientifique/technique**: Visualisation, Simulation, Vision, Modélisation, Reconstruction, Design/Fabrication
+  * **Domaine scientifique/technique**: Visualisation, Simulation, Vision, Modélisation, Reconstruction, Design/Fabrication, Imagerie
   * **Domaine d'application**: Mécanique/Ingénierie civile, Automobile/Navigation/Aviation
   * [_Jobs_](https://bentleysystems.wd5.myworkdayjobs.com/bentley)
 
@@ -320,15 +323,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: USA/California/Carlsbad
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
-
-
-* **[Cesium](https://cesium.com/)**  
-  * _Open Plateform for 3D Geospatial data_
-  * **Remarque**: _Racheté par Bentley Systems en septembre 2024 (intégré à la plateforme iTwin)._
-  * **Localisation**: USA/Pennsylvania/Philadelphia
-  * **Domaine scientifique/technique**: Modélisation, Imagerie, Analyse de données
-  * **Domaine d'application**: Générique
-  * [_Jobs_](https://cesium.com/careers/#opportunities)
 
 
 * **[Chaos](https://www.chaos.com/)**  
@@ -416,6 +410,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Mécanique/Ingénierie civile, Générique
 
 
+* **[Digital District](https://www.digital-district.fr)**  
+  * _Studio d'effets visuels et de post-production pour le cinéma, les séries et la publicité._
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Synthèse d'image, Simulation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[DigitalFish](https://www.digitalfish.com/)**  
   * _Outils pour l'animation 3D, 2D et VR_
   * **Produits**: [Reflex](https://www.digitalfish.com/reflex/), [Lune](https://www.digitalfish.com/lune/)
@@ -465,15 +467,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Montpellier
   * **Domaine scientifique/technique**: Synthèse d'image, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-
-
-* **[Dynamixyz](https://www.linkedin.com/company/dynamixyz)**  
-  * _Markerless Facial Motion Capture_
-  * **Remarque**: _Racheté par Take-Two Interactive en 2021 ; travaille désormais exclusivement pour les studios du groupe (Rockstar, 2K). Team active de R&D publiant dans les conférences de graphique, et liens académiques._
-  * **Localisation**: France/Rennes (Cesson-Sévigné)
-  * **Nombres d'employés**: 15
-  * **Domaine scientifique/technique**: Animation, Acquisition, Reconstruction, Vision, IA, Analyse de données
-  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Easy Mile](https://easymile.com/)**  
@@ -531,12 +524,28 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.keysight.com/)
 
 
+* **[Eugen Systems](https://eugensystems.com)**  
+  * _Studio de développement de jeux de stratégie temps réel (Steel Division, WARNO), moteur maison IRISZOOM._
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Synthèse d'image, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[EVA](https://www.eva.gg/en-FR)** (Esports Virtual Arenas) 
   * _Scenes virtuelles et compétitions pour des jeux de eSports_
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Modélisation, VR/AR, Analyse de données
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.eva.gg/fr/careers/jobs/list)
+
+
+* **[Evil Empire](https://evilempire.com/)**  
+  * _Studio de développement de jeux vidéo (Dead Cells, The Rogue Prince of Persia)._
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 65
+  * **Domaine scientifique/technique**: Animation, Synthèse d'image
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Exwayz](https://www.exwayz.com/)**  
@@ -581,6 +590,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.gameloft.com/jobs)
 
 
+* **[Gao Shan Pictures](https://www.gaoshanpictures.com)**  
+  * _Studio d'animation 3D ayant participé à des longs métrages (Mars Express, J'ai perdu mon corps)._
+  * **Localisation**: France/{Saint-Paul (La Réunion), Angoulême, Annecy}, Maurice
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Animation, Synthèse d'image
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[GeometryFactory](https://geometryfactory.com/)**  
   * _Développement de bibliothèque logicielle open-source de calcul géométrique._
   * **Produits**: [the Computational Geometry Algorithms Library (CGAL)](https://www.cgal.org/)
@@ -597,14 +614,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: IA, Visualisation, Imagerie
   * **Domaine d'application**: Médical/Biologique
-
-
-* **[Golaem](https://www.autodesk.com/solutions/golaem)**  
-  * _Logiciel de creation et controle de foules de personnes. Utilisé dans de nombreux films avec VFX_
-  * **Remarque**: _Propriété intellectuelle et équipe rachetées par Autodesk en août 2024 ; l'équipe reste à Rennes (Autodesk France). Golaem est désormais inclus dans la Media & Entertainment Collection d'Autodesk._
-  * **Localisation**: Rennes
-  * **Domaine scientifique/technique**: Animation
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Google](https://about.google/)**  
@@ -783,6 +792,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.kitware.com/careers/)
 
 
+* **[Kreon Technologies](https://www.kreon3d.com/)**  
+  * _Conception et fabrication de scanners laser 3D et de bras de mesure pour la métrologie et le contrôle dimensionnel._
+  * **Localisation**: Limoges
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Hardware
+  * **Domaine d'application**: Mécanique/Ingénierie civile, Automobile/Navigation/Aviation
+
+
 * **[Kylotonn](https://www.kylotonn.com/)** (KT Racing) 
   * _Studio de développement de jeux vidéo en sport mécanique_
   * **Remarque**: _Filiale de Nacon. Placée en redressement judiciaire en mars 2026 dans le cadre des difficultés du groupe Nacon._
@@ -885,6 +902,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Automobile/Navigation/Aviation
 
 
+* **[Mathematic](https://mathematic.tv)**  
+  * _Studio de création visuelle : effets visuels, animation, production virtuelle et temps réel._
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Synthèse d'image, Animation, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+
+
 * **[Maxon](https://www.maxon.net/)**  
   * _Modeleur 3D_
   * **Produits**: ZBrush, Cinema4D, etc.
@@ -969,10 +994,10 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
-* **[MPC](https://www.mpcvfx.com/fr/)**  
-  * _Creation de VFX pour le cinéma_
-  * **Remarque**: _Studios de Paris et Liège repris par TransPerfect en 2025 après la faillite de Technicolor ; MPC et The Mill réunis sous une même marque en 2026._
-  * **Localisation**: France/Paris, Belgique/Liège
+* **[MPC / The Mill](https://www.themill.com/)**  
+  * _Création de VFX pour le cinéma, les séries et la publicité (studios MPC et The Mill)_
+  * **Remarque**: _MPC et The Mill, anciens studios du groupe Technicolor, ont été repris par TransPerfect en 2025 après la faillite de Technicolor, puis réunis sous la marque The Mill en juin 2026. Le site <a href="https://www.mpcvfx.com/fr/">MPC Paris</a> reste actif._
+  * **Localisation**: France/Paris, UK/London, Belgique/Liège, India/Bangalore
   * **Domaine scientifique/technique**: Synthèse d'image, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.mpcvfx.com/fr/carrieres/)
@@ -1068,6 +1093,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://optitrack.com/careers)
 
 
+* **[Oslandia](https://oslandia.com/)**  
+  * _Société de services et d'édition open source en SIG et 3D géospatiale (QGIS, Giro3D, py3dtiles, PostGIS)._
+  * **Localisation**: Paris, Lyon
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Visualisation, Web/Cloud/Big Data, Géométrie
+  * **Domaine d'application**: Architecture/Immobilier, Mécanique/Ingénierie civile
+
+
 * **[Otoy](https://home.otoy.com/)**  
   * _Logiciel de rendu graphique sur le cloud, et capture_
   * **Produits**: Octane Render
@@ -1076,12 +1109,28 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Outsight](https://www.outsight.ai/)**  
+  * _Plateforme logicielle de traitement de données lidar 3D (perception, suivi, analyse de flux) pour aéroports, gares et industrie._
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Vision, Acquisition, Analyse de données
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Autres
+
+
 * **[Overlay](https://www.figmin.com/)**  
   * _Plateforme de réalité augmentée_
   * **Produits**: Figmin XR
   * **Localisation**: USA/Portland
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
+* **[Passtech Games](https://www.passtechgames.com)**  
+  * _Studio de développement de jeux vidéo (Curse of the Dead Gods, Ravenswatch)._
+  * **Localisation**: Villeurbanne
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Synthèse d'image, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Perception4D](https://perception4d.com/)**  
@@ -1098,6 +1147,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: IA, Imagerie, Vision, Synthèse d'image
   * **Domaine d'application**: Générique, Mode/Vêtements/Accessoires
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/photoroom)
+
+
+* **[Pixee Medical](https://pixee-medical.com/)**  
+  * _Navigation chirurgicale en réalité augmentée par lunettes connectées et vision par ordinateur pour la chirurgie orthopédique._
+  * **Localisation**: Besançon
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: VR/AR, Vision, Imagerie
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Pixel Wizards](https://pixel-wizards.com/)**  
@@ -1218,6 +1275,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.sidefx.com/company/careers/)
 
 
+* **[Sim&Cure](https://www.sim-and-cure.com/)**  
+  * _Logiciel de modélisation 3D et de simulation numérique pour le traitement endovasculaire des anévrismes intracrâniens (Sim&Size)._
+  * **Localisation**: Montpellier
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Simulation, Imagerie, Reconstruction
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Simerics](https://www.simerics.com/)**  
   * _CAD simulation_
   * **Localisation**: USA/Washington/Bellevue
@@ -1315,11 +1380,20 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Take-Two Interactive](https://www.take2games.com/)**  
   * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K) ainsi que l'équipe de R&D Dynamixyz à Rennes._
+  * **Remarque**: _Équipe de R&D à Cesson-Sévigné (Rennes) issue de Dynamixyz (capture faciale sans marqueurs), rachetée en 2021 : travaille pour les studios du groupe (Rockstar, 2K) et publie dans les conférences de graphique._
   * **Localisation**: USA/New York, France/Rennes (Cesson-Sévigné), France/Paris, International
   * **Nombres d'employés**: 12900
-  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
+  * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation, Acquisition, Vision, IA
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://careers.take2games.com/jobs)
+
+
+* **[TAT](https://www.tatprod.com)** (TAT Productions) 
+  * _Studio de production et de fabrication de films et séries d'animation 3D (Les As de la Jungle, Astérix et Obélix : le Combat des Chefs)._
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation, Synthèse d'image
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[TeamTO](https://www.teamto.com)**  
@@ -1390,14 +1464,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.thegamebakers.com/category/jobs/)
 
 
-* **[The Mill](https://www.themill.com/)**  
-  * _Création de VFX pour la publicité, le cinéma et les séries_
-  * **Remarque**: _Racheté par TransPerfect en 2025 après la faillite du groupe Technicolor ; fusionné avec MPC sous la marque The Mill en juin 2026._
-  * **Localisation**: France/Paris, UK/London, Belgique/Liège, India/Bangalore
-  * **Domaine scientifique/technique**: Synthèse d'image, Animation
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-
-
 * **[The Yard VFX](https://theyard-vfx.com/)**  
   * _Création d'effets visuels photoréalistes pour le cinéma (VFX)_
   * **Mots clés**: _Graphics, VFX, Pipeline_
@@ -1414,6 +1480,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Animation, Acquisition
   * **Domaine d'application**: Générique
   * [_Jobs_](https://www.theiamarkerless.com/careers)
+
+
+* **[Therenva](https://www.therenva.com/)**  
+  * _Logiciels de planification et de navigation 3D par fusion d'images pour la chirurgie vasculaire endovasculaire (EndoNaut, EndoSize)._
+  * **Localisation**: Rennes
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Imagerie, Visualisation, VR/AR, IA
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Thermo Fisher Scientific](https://www.thermofisher.com/amira-avizo)**  
@@ -1447,6 +1521,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
+
+
+* **[Unit Image](https://www.unit-image.fr/)**  
+  * _Studio d'animation 3D et d'effets visuels (cinématiques de jeux vidéo, séries, publicité)._
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Synthèse d'image, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
 
 
 * **[Unity Technologies](https://unity.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
