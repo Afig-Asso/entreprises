@@ -118,7 +118,8 @@ def get_list_name_url(key, data):
     L = []
     if isinstance(element,str):
         for token in element.split(','): # Product: "ProdA, ProdB, ProdC, etc."
-            L.append({'Name':token})
+            if token.strip()!='':
+                L.append({'Name':token.strip()})
         return L
 
     elif isinstance(element, list):

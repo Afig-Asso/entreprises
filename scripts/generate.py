@@ -15,7 +15,7 @@ meta = {
     'filename_json_out': 'json/data.json',
     'filename_md_out': 'README.md'
 }
-root_path = os.path.join(os.path.dirname(__file__))
+root_path = os.path.dirname(os.path.realpath(__file__))
 
 
 
@@ -45,7 +45,8 @@ def get_list_places(data):
     if isinstance(data, str): # City1, City2, etc
         token = data.split(',')
         for t in token:
-            L.append({'City':t})
+            if t.strip()!='':
+                L.append({'City':t.strip()})
     elif isinstance(data, dict):
         # wrap in a list and restart
         return get_list_places([data])
@@ -60,19 +61,20 @@ def export_place_to_MD(data):
         if 'Country' in element:
             country_entry = element['Country']
             if isinstance(country_entry, str):
-                country_entry = country_entry.split(',')
+                country_entry = [c.strip() for c in country_entry.split(',')]
             assert isinstance(country_entry, list)
             entry_txt += ', '.join(country_entry)
             
         if 'State' in element:
             if entry_txt!='':
-                entry_txt += '/'+element['State']
+                entry_txt += '/'
+            entry_txt += element['State']
         if 'City' in element:
             city_entry = element['City']
             if isinstance(city_entry, str):
-                city_entry = city_entry.split(',')
+                city_entry = [c.strip() for c in city_entry.split(',')]
             assert isinstance(city_entry, list)
-            if 'Country' not in element:
+            if entry_txt=='':
                 entry_txt += ', '.join(city_entry)
             else:
                 if len(city_entry)==1:
@@ -82,7 +84,9 @@ def export_place_to_MD(data):
         if 'Exact' in element:
             entry_txt += ' ('+element['Exact']+')'
         if ('International' in element) and (element['International']==True):
-                entry_txt += 'International'
+            if entry_txt!='':
+                entry_txt += ', '
+            entry_txt += 'International'
 
 
 
@@ -197,9 +201,9 @@ def listing_to_md(data):
         try:
             out += prettyMD_company(companies[k])
         except KeyError as keyError:
-            print('Key '+str(keyError)+' cannot be found in entry \n', company,'\n\n')
+            print('Key '+str(keyError)+' cannot be found in entry \n', companies[k],'\n\n')
         except Exception as e:
-            print("Undefined Problem with entry ",company)
+            print("Undefined Problem with entry ",companies[k])
             print(e)
             print()
 
@@ -233,17 +237,23 @@ def check_keywords(data_keywords, data, exitOnError=False):
             print("\n !! Warning Application-domain missing for entry: ",name)
             res = False
 
-        scientific = entry['Scientific-domain']
-        application = entry['Application-domain']
-        
+        scientific = entry.get('Scientific-domain', [])
+        application = entry.get('Application-domain', [])
+        if isinstance(scientific, str):
+            scientific = [scientific]
+        if isinstance(application, str):
+            application = [application]
+
         for s in scientific:
             if s not in scientific_keywords and s!='Arbitraire':
                 print(f"\n !! Warning cannot find scientific keyword [{s}] in entry [{name}]")
+                res = False
         for s in application:
             if s not in application_keywords and s!='Arbitraire':
                 print(f"\n !! Warning cannot find application keyword [{s}] in entry [{name}]")
+                res = False
 
-    if res==False and exit_on_failure==True:
+    if res==False and exitOnError==True:
         print("Check failed, exit")
         exit(1)
 
@@ -283,7 +293,7 @@ if __name__ == "__main__":
     if is_check:
         print('Found',len(data),'Companies\n')
         print('Check Keywords ...')
-        check_keywords(data_keywords, data)
+        check_keywords(data_keywords, data, exitOnError=exit_on_failure)
         print('Check Keywords done\n')
 
         print('Check URLs ...')
@@ -305,15 +315,18 @@ if __name__ == "__main__":
     listing_txt = listing_to_md(data)
 
     # now read previous readme and update it
-    with open(meta['filename_md_out'], 'r') as fid:
+    with open(filename_md_out, 'r', encoding='utf-8') as fid:
         readme_txt = fid.read()
         pos = readme_txt.find('## Listing')
-        new_readme = readme_txt[:pos]
+    if pos==-1:
+        print(f"Error: cannot find '## Listing' in {filename_md_out}, README not updated")
+        exit(1)
+    new_readme = readme_txt[:pos]
     assert len(new_readme)>10
     new_readme = new_readme + "## Listing \n\n" + listing_txt
 
     # write the final file
-    with open(meta['filename_md_out'], 'w') as fid:
+    with open(filename_md_out, 'w', encoding='utf-8') as fid:
         fid.write(new_readme)
    
     print()

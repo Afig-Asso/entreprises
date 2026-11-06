@@ -125,7 +125,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Agenium](https://www.agenium.com/)**  
   * _Simulation numérique_
-  * **Localisation**: France/{Toulouse,  Paris,  Rennes}
+  * **Localisation**: France/{Toulouse, Paris, Rennes}
   * **Domaine scientifique/technique**: Simulation, Design/Fabrication, Modélisation, Animation
   * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game
 
@@ -139,7 +139,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Alma](https://www.alma.fr/nos-activites/logiciels-cfao/)** (Alma Logiciels CFAO) 
   * _Edition de logiciels de Conception et Fabrication d'objets manufacturés._
-  * **Localisation**: Grenoble,  Lyon,  Tarbes,  Paris,  Annecy
+  * **Localisation**: Grenoble, Lyon, Tarbes, Paris, Annecy
   * **Domaine scientifique/technique**: Modélisation, Design/Fabrication
   * **Domaine d'application**: Mécanique/Ingénierie civile, Automobile/Navigation/Aviation, Robotique/Systèmes autonomes
   * [_Jobs_](https://recrutement.alma.fr/cv/)
@@ -171,7 +171,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Anatoscope](https://www.anatoscope.com/)**  
   * _Logiciels pour l'anatomie 3D numérique personnalisé (orthopedie, dentaire, radiologique)._
-  * **Localisation**: Grenoble,  Montpellier
+  * **Localisation**: Grenoble, Montpellier
   * **Domaine scientifique/technique**: Modélisation, Visualisation, Simulation, Géométrie, Imagerie, Reconstruction, Analyse de données
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://www.anatoscope.com/offres-demploi-grenoble-montpellier/)
@@ -219,7 +219,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Autodesk](https://www.autodesk.com/)**  
   * _Logiciels 3D, CAO, Conception, Design_
-  * **Produits**: Maya,  3DS Max,  AutoCAD
+  * **Produits**: Maya, 3DS Max, AutoCAD
   * **Localisation**: USA, Canada, India, UK, Singapore, Norway, International
   * **Nombres d'employés**: 10000
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Visualisation, Simulation, Design/Fabrication
@@ -330,7 +330,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[CLO Virtual Fashion](https://www.clo3d.com/en/)**  
   * _Logiciel de simulation de vêtements virtuels_
-  * **Produits**: Marvelous Designer,  Clo3D
+  * **Produits**: Marvelous Designer, Clo3D
   * **Localisation**: Korea, USA, International
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Design/Fabrication
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires
@@ -377,7 +377,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Logiciels de CAO, Design et Simulation._
-  * **Produits**: Catia,  SolidWorks
+  * **Produits**: Catia, SolidWorks
   * **Localisation**: France/{Paris, Aix en Provence}, USA, China, International
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Modélisation, Simulation, Visualisation, Géométrie, Design/Fabrication
@@ -674,7 +674,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Kitware](https://www.kitware.com/)**  
   * _Développement de logiciels scientifique, de visualisation, et de compilation. Beaucoup de développement open-source._
-  * **Produits**: ParaView,  VTK,  3D Slicer,  ITK,  CMake
+  * **Produits**: ParaView, VTK, 3D Slicer, ITK, CMake
   * **Localisation**: USA, France/Lyon
   * **Nombres d'employés**: 200
   * **Domaine scientifique/technique**: Visualisation, Reconstruction, Simulation, Géométrie, Imagerie, Vision, IA, Analyse de données
@@ -974,7 +974,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Praxinos](https://www.praxinos.coop/)**  
   * _Développement d'outils créatifs pour l'animation._
   * **Remarque**: _SARL Coopérative, mot clés: Animation 2D, Storyboard, Drawing, Realtime 3D_
-  * **Produits**: Iliad,  Epos,  Odyssey,  Ulis,  etc.
+  * **Produits**: Iliad, Epos, Odyssey, Ulis, etc.
   * **Localisation**: France/Metz
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1075,7 +1075,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Solid Anim](https://www.solidanim.com/en/)**  
   * _Studio spécialisé en animation 3D, MOCAP, et production virtuelle._
-  * **Localisation**: Bordeaux,  Angoulème
+  * **Localisation**: Bordeaux, Angoulème
   * **Domaine scientifique/technique**: Animation, Acquisition
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
@@ -1237,7 +1237,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[The Yard VFX](http://theyard-vfx.com/)**  
   * _Création d'effets visuels photoréalistes pour le cinéma (VFX)_
   * **Mots clés**: _Graphics, VFX, Pipeline_
-  * **Localisation**: Paris,  Montpellier
+  * **Localisation**: Paris, Montpellier
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Visualisation, Acquisition, Reconstruction, Simulation, Géométrie, Vision, Imagerie, IA
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
