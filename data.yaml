@@ -39,13 +39,6 @@
 #   - Les entreprises n'ont pas besoin d'être ordonnées alphabétiquement, le script scripts/sort_data.py permet de ré-ordonner automatiquement.
 # 
 
-- Name: 2d3D Animations
-  url: https://www.2d3d-animations.com
-  Description: Studio de production de films d'animations.
-  Place: Angoulême
-  Scientific-domain: [Modélisation, Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
-
 - Name: 2 minutes
   url: https://2minutes.fr/
   Description: Studio production dessins animés.
@@ -361,7 +354,7 @@
   Jobs: https://buf.com/jobs/
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX]
-  Employees: 150
+  Employees: 50
 
 - Name: Cavrnus
   url: https://www.cavrnus.com/
@@ -593,13 +586,6 @@
   Scientific-domain: [Synthèse d'image, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
 
-- Name: Episkin
-  Description: "Modèle In-Vitro de peau"
-  Place: Lyon
-  url: https://www.episkin.com/
-  Scientific-domain: [Imagerie, Simulation]
-  Application-domain: [Médical/Biologique]
-
 - Name: ESI
   url: https://www.keysight.com/us/en/products/design-engineering-software/computer-aided-engineering-software.html
   Description: Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie
@@ -632,13 +618,6 @@
   Scientific-domain: [VR/AR, Autres]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Art/Evenementiel]
   Info: 'Division de Falcon''s Beyond Global (Nasdaq : FBYD).'
-
-- Name: Fix Studio
-  url: https://www.fixstudio.com
-  Description: "Studio d'animation"
-  Place: Paris
-  Scientific-domain: [Animation, Modélisation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Focus Entertainment
   Description: Édition et développement de jeux vidéo.
@@ -881,14 +860,6 @@
   Scientific-domain: [Modélisation, Simulation, Design/Fabrication]
   Application-domain: [Mode/Vêtements/Accessoires]
   Employees: 2800
-
-- Name: Left Angle
-  url: https://www.left-angle.com/?language=en
-  Description: "Développeur d'outils de VFX, Compositing et Motion Design"
-  Info: "Société et fondateur à la base du projet Open Source de compositing <a href=\"https://natron.fr/\">Natron</a>."
-  Place: Grenoble
-  Scientific-domain: [Animation]
-  Application-domain: [Cinéma/Films d'Animation/VFX]
 
 - Name: Les fées spéciales
   url: https://les-fees-speciales.coop/

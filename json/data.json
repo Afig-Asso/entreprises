@@ -74,19 +74,6 @@
     },
     "Listing": [
         {
-            "Name": "2d3D Animations",
-            "url": "https://www.2d3d-animations.com",
-            "Description": "Studio de production de films d'animations.",
-            "Place": "Angoul\u00eame",
-            "Scientific-domain": [
-                "Mod\u00e9lisation",
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
-        },
-        {
             "Name": "2 minutes",
             "url": "https://2minutes.fr/",
             "Description": "Studio production dessins anim\u00e9s.",
@@ -753,7 +740,7 @@
             "Application-domain": [
                 "Cin\u00e9ma/Films d'Animation/VFX"
             ],
-            "Employees": 150
+            "Employees": 50
         },
         {
             "Name": "Cavrnus",
@@ -1230,19 +1217,6 @@
             ]
         },
         {
-            "Name": "Episkin",
-            "Description": "Mod\u00e8le In-Vitro de peau",
-            "Place": "Lyon",
-            "url": "https://www.episkin.com/",
-            "Scientific-domain": [
-                "Imagerie",
-                "Simulation"
-            ],
-            "Application-domain": [
-                "M\u00e9dical/Biologique"
-            ]
-        },
-        {
             "Name": "ESI",
             "url": "https://www.keysight.com/us/en/products/design-engineering-software/computer-aided-engineering-software.html",
             "Description": "Entreprise Francaise de simulation, prototypage virtuel, et Double num\u00e9rique pour l'industrie",
@@ -1308,19 +1282,6 @@
                 "Art/Evenementiel"
             ],
             "Info": "Division de Falcon's Beyond Global (Nasdaq : FBYD)."
-        },
-        {
-            "Name": "Fix Studio",
-            "url": "https://www.fixstudio.com",
-            "Description": "Studio d'animation",
-            "Place": "Paris",
-            "Scientific-domain": [
-                "Animation",
-                "Mod\u00e9lisation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
         },
         {
             "Name": "Focus Entertainment",
@@ -1817,19 +1778,6 @@
                 "Mode/V\u00eatements/Accessoires"
             ],
             "Employees": 2800
-        },
-        {
-            "Name": "Left Angle",
-            "url": "https://www.left-angle.com/?language=en",
-            "Description": "D\u00e9veloppeur d'outils de VFX, Compositing et Motion Design",
-            "Info": "Soci\u00e9t\u00e9 et fondateur \u00e0 la base du projet Open Source de compositing <a href=\"https://natron.fr/\">Natron</a>.",
-            "Place": "Grenoble",
-            "Scientific-domain": [
-                "Animation"
-            ],
-            "Application-domain": [
-                "Cin\u00e9ma/Films d'Animation/VFX"
-            ]
         },
         {
             "Name": "Les f\u00e9es sp\u00e9ciales",

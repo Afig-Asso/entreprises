@@ -60,13 +60,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
-* **[2d3D Animations](https://www.2d3d-animations.com)**  
-  * _Studio de production de films d'animations._
-  * **Localisation**: Angoulême
-  * **Domaine scientifique/technique**: Modélisation, Animation
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
-
-
 * **[3.0 Studio](https://www.3point0studio.com/en/home/)**  
   * _Studio d'animation pour films courts, TV, et créations artistiques._
   * **Localisation**: Angoulême
@@ -316,7 +309,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[BUF](https://buf.com/)**  
   * _Création d'effets visuels (VFX) pour le cinéma._
   * **Localisation**: Paris
-  * **Nombres d'employés**: 150
+  * **Nombres d'employés**: 50
   * **Domaine scientifique/technique**: Synthèse d'image, Modélisation, Animation, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://buf.com/jobs/)
@@ -528,13 +521,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.epicgames.com/site/en-US/careers/jobs)
 
 
-* **[Episkin](https://www.episkin.com/)**  
-  * _Modèle In-Vitro de peau_
-  * **Localisation**: Lyon
-  * **Domaine scientifique/technique**: Imagerie, Simulation
-  * **Domaine d'application**: Médical/Biologique
-
-
 * **[ESI](https://www.keysight.com/us/en/products/design-engineering-software/computer-aided-engineering-software.html)**  
   * _Entreprise Francaise de simulation, prototypage virtuel, et Double numérique pour l'industrie_
   * **Remarque**: _Racheté par Keysight Technologies (finalisé en janvier 2024) ; l'entité française est devenue Keysight Technologies France. Le site esi-group.com redirige vers Keysight._
@@ -567,13 +553,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: VR/AR, Autres
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel
   * [_Jobs_](https://falconscreativegroup.com/careers/)
-
-
-* **[Fix Studio](https://www.fixstudio.com)**  
-  * _Studio d'animation_
-  * **Localisation**: Paris
-  * **Domaine scientifique/technique**: Animation, Modélisation
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Focus Entertainment](https://www.focus-entmt.com/fr)**  
@@ -819,14 +798,6 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 2800
   * **Domaine scientifique/technique**: Modélisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Mode/Vêtements/Accessoires
-
-
-* **[Left Angle](https://www.left-angle.com/?language=en)**  
-  * _Développeur d'outils de VFX, Compositing et Motion Design_
-  * **Remarque**: _Société et fondateur à la base du projet Open Source de compositing <a href="https://natron.fr/">Natron</a>._
-  * **Localisation**: Grenoble
-  * **Domaine scientifique/technique**: Animation
-  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Les fées spéciales](https://les-fees-speciales.coop/)**  

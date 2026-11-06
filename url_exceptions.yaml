@@ -19,9 +19,6 @@
 - url: https://www.linkedin.com/company/technodigit-sarl/
   reason: LinkedIn bloque les robots (403)
   since: 2024-03-29
-- url: https://www.2d3d-animations.com
-  reason: raison non notée ; injoignable le 2026-11-06, à vérifier
-  since: 2023-11-02
 
 - url: https://www.amd.com/
   reason: raison non notée ; répond 200 le 2026-11-06
