@@ -11,6 +11,7 @@ const summary_element = document.querySelector('#listing-summary');
 // Controls of the toolbar (static HTML in index.html)
 const UX = {
     'sorting': {
+        'list': document.querySelector('#view-list'),  // view: list (sorted by name or place), map or graph
         'alphabetical': document.querySelector('#sort-alphabetical'),
         'place': document.querySelector('#sort-place'),
         'map': document.querySelector('#sort-map'),
@@ -351,6 +352,32 @@ function company_id_attribute(name) {
     return ` id="${id}"`;
 }
 
+// Index of a company in the listing (used by the links between the list, the map and the graph)
+function company_index(entry) {
+    if(Global['index']==undefined) {
+        Global['index'] = new Map(company_data['Listing'].map((e, k) => [e, k]));
+    }
+    return Global['index'].get(entry);
+}
+
+// True if the company has at least one place with coordinates (shown on the map)
+function company_on_map(entry) {
+    const places = company_data['Places'] || {};
+    return expand_places(entry['Place']).some((loc) => loc['Coordinates'] || places[map_place_key(loc['Country'], loc['City'])]);
+}
+
+// Links of a card to the same company on the map and in the graph
+function company_links(entry) {
+    const k = company_index(entry);
+    const name = esc(entry['Name']);
+    let txt = '<div class="company-goto">';
+    if(company_on_map(entry)) {
+        txt += `<button type="button" class="goto-map" data-k="${k}">Carte<span class="visually-hidden"> : ${name}</span></button>`;
+    }
+    txt += `<button type="button" class="goto-graph" data-k="${k}">Graphe<span class="visually-hidden"> : entreprises proches de ${name}</span></button>`;
+    return txt + '</div>\n';
+}
+
 function display_company_entry(entry, level) {
 
     const name = entry['Name'];
@@ -372,6 +399,7 @@ function display_company_entry(entry, level) {
         let txt = `<li${id_attribute} class="company company-compact${has_jobs}">${title}`;
         txt += place_div;
         txt += jobs_txt;
+        txt += company_links(entry);
         return txt + '</li>\n';
     }
 
@@ -395,6 +423,7 @@ function display_company_entry(entry, level) {
         txt += `<div class="employees">${number_txt} employés</div>\n`;
     }
     txt += jobs_txt;
+    txt += company_links(entry);
     txt += '</div>\n'; // end company-id
     // Right column: what the company does
     txt += '<div class="content">\n';
@@ -582,7 +611,10 @@ function jump_to_target(target) {
         window.parentIFrame.scrollToOffset(0, Math.max(0, top - 16));
     }
     else {
-        target.scrollIntoView({block: 'start'});
+        // keep the target below the sticky green toolbar
+        const toolbar = document.querySelector('#toolbar');
+        const offset = getComputedStyle(toolbar).position=='sticky' ? toolbar.getBoundingClientRect().height + 12 : 12;
+        window.scrollTo({'top': Math.max(0, target.getBoundingClientRect().top + window.scrollY - offset)});
     }
     target.focus({preventScroll: true});
 }
@@ -712,9 +744,10 @@ function update_display() {
     document.documentElement.classList.toggle('view-graph', graph_view);
     map_element.hidden = !map_view;
     GRAPH['element'].hidden = !graph_view;
+    if(!map_view) MAP['focus'] = null;  // the focus on one company only lasts while the map is shown
     if(map_view) {
         listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
-        display_map(data_to_display);
+        display_map(MAP['focus']!=null ? [company_data['Listing'][MAP['focus']]] : data_to_display);
     }
     else if(graph_view) {
         listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
@@ -930,7 +963,7 @@ UX['search'].addEventListener('search', () => { // clear button of the search fi
     update_display();
 });
 
-for(const element of [UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['map'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only']]) {
+for(const element of [UX['sorting']['list'], UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['map'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only']]) {
     element.addEventListener('change', update_display);
 }
 
@@ -987,6 +1020,16 @@ UX['active-filters'].addEventListener('click', (event) => {
 });
 
 listing_element.addEventListener('click', (event) => {
+    const goto_map = event.target.closest('.goto-map');
+    if(goto_map) {
+        show_on_map(+goto_map.dataset.k);
+        return;
+    }
+    const goto_graph = event.target.closest('.goto-graph');
+    if(goto_graph) {
+        show_in_graph(+goto_graph.dataset.k);
+        return;
+    }
     const place_link = event.target.closest('.place-link');
     if(place_link) {
         event.preventDefault();
@@ -1072,7 +1115,7 @@ function answer(data) {
 // ---------------------------------------------------------------------------
 
 const map_element = document.querySelector('#map-view');
-const MAP = {'map': null, 'cluster': null, 'loading': null, 'bounds': null, 'framed': false, 'stacks': []};
+const MAP = {'map': null, 'cluster': null, 'loading': null, 'bounds': null, 'framed': false, 'stacks': [], 'focus': null};
 const MAP_DOTS_ZOOM = 10;  // from this zoom: one dot per company, no groups
 const MAP_FRAMES = {
     'world': [[-45, -130], [65, 150]],
@@ -1171,8 +1214,13 @@ function create_map() {
     map.on('mouseout blur', () => map.scrollWheelZoom.disable());
     // Leaflet stops the clicks inside a popup: bind its button when it opens
     map.on('popupopen', (event) => {
-        const button = event.popup.getElement().querySelector('.map-to-list');
+        const element = event.popup.getElement();
+        const button = element.querySelector('.map-to-list');
         if(button) button.addEventListener('click', () => show_in_list(button.dataset.target));
+        const card = element.querySelector('.map-to-card');
+        if(card) card.addEventListener('click', () => { MAP['map'].closePopup(); show_card(+card.dataset.k); });
+        const graph = element.querySelector('.map-to-graph');
+        if(graph) graph.addEventListener('click', () => { MAP['map'].closePopup(); show_in_graph(+graph.dataset.k); });
     });
     MAP['cluster'] = L.markerClusterGroup({
         'showCoverageOnHover': false, 'maxClusterRadius': 45, 'spiderfyOnMaxZoom': true,
@@ -1248,7 +1296,9 @@ function map_popup(group) {
         if(jobs!='') {
             txt += `<a class="map-popup-jobs" target="_blank" href="${jobs}">Offres d'emploi<span class="visually-hidden"> chez ${esc(entry['Name'])} (nouvel onglet)</span></a>`;
         }
-        txt += `<button type="button" class="map-to-list" data-target="${group['list_id']}">Voir dans la liste</button></p></div>`;
+        const k = company_index(entry);
+        txt += `<button type="button" class="map-to-card" data-k="${k}">Fiche</button>`;
+        txt += `<button type="button" class="map-to-graph" data-k="${k}">Graphe</button></p></div>`;
         return txt;
     }
     let txt = `<div class="map-popup"><p class="map-popup-title">${group['label']} <span class="map-popup-count">${plural_companies(N)}</span></p>`;
@@ -1274,12 +1324,13 @@ function map_popup(group) {
 }
 
 function display_map(entries) {
-    load_map_library().then(() => {
+    MAP['ready'] = load_map_library().then(() => {
         if(MAP['map']==null) create_map();
         const [groups, N_unplaced] = map_groups(entries);
         MAP['cluster'].clearLayers();
         const markers = [];
         MAP['stacks'] = [];
+        MAP['by-company'] = new Map();
         for(const group of groups.values()) {
             // one dot per company: the companies of a group (same position) are spread by map_spread
             const stack = {'coords': group['coords'], 'markers': []};
@@ -1296,6 +1347,9 @@ function display_map(entries) {
                 });
                 marker.bindPopup(() => map_popup(single), {'maxWidth': 300, 'autoPanPadding': [20, 20]});
                 markers.push(marker);
+                const ki = company_index(entry);
+                if(!MAP['by-company'].has(ki)) MAP['by-company'].set(ki, []);
+                MAP['by-company'].get(ki).push({'marker': marker, 'coords': group['coords'], 'france': group['label'].indexOf('(')<0 && !group['country_only']});
                 stack.markers.push(marker);
             });
             if(stack.markers.length>1) MAP['stacks'].push(stack);
@@ -1307,7 +1361,17 @@ function display_map(entries) {
         map_frame(MAP['framed'] ? 'fit' : 'france');
         MAP['framed'] = true;
         map_spread();
-        document.querySelector('#map-note').textContent = '';
+        // focus on one company (link "Carte" of a card): say it, with a way back to all the companies
+        const note = document.querySelector('#map-note');
+        if(MAP['focus']!=null) {
+            const entry = company_data['Listing'][MAP['focus']];
+            const N = markers.length;
+            note.innerHTML = `<span class="map-focus">Établissement${N>1 ? 's' : ''} de <strong>${esc(entry['Name'])}</strong> (${N}).</span> `
+                + '<button type="button" class="map-focus-reset">Afficher toutes les entreprises</button>';
+        }
+        else {
+            note.textContent = '';
+        }
     }).catch((error) => {
         document.querySelector('#map-note').textContent = 'La carte ne peut pas être chargée. ' + error.message;
     });
@@ -1331,9 +1395,78 @@ map_element.addEventListener('click', (event) => {
     }
 });
 
+// ---------------------------------------------------------------------------
+// Links between the list, the map and the graph
+// ---------------------------------------------------------------------------
+
+function scroll_to(element) {
+    const go = () => jump_to_target(element);
+    if(document.documentElement.classList.contains('embedded') && window.parentIFrame!=undefined) {
+        window.parentIFrame.size();
+        setTimeout(go, 250);
+    }
+    else {
+        go();
+    }
+}
+
+// The card of a company in the alphabetical list, briefly highlighted
+function show_card(k) {
+    UX['sorting']['list'].checked = true;
+    UX['sorting']['alphabetical'].checked = true;
+    update_display();
+    const card = document.getElementById(company_data['Listing'][k]['Name'].replace(/[^A-Z0-9]/ig, '_'));
+    if(card==null) return;
+    card.setAttribute('tabindex', '-1');
+    card.classList.remove('is-target');
+    void card.offsetWidth; // restart the highlight animation
+    card.classList.add('is-target');
+    scroll_to(card);
+}
+
+// The establishments of a company on the map (in France when it has some), with the popup of the first one
+// The map shows only the establishments of the company (in France when it has some); a single one is opened
+function show_on_map(k) {
+    MAP['focus'] = k;
+    UX['sorting']['map'].checked = true;
+    update_display();
+    MAP['ready'].then(() => {
+        const places = MAP['by-company'].get(k) || [];
+        if(places.length==0) return;
+        const french = places.filter((p) => p['france']);
+        const shown = french.length>0 ? french : places;
+        const map = MAP['map'];
+        if(shown.length==1) {
+            map.setView(shown[0]['coords'], 13);
+            setTimeout(() => MAP['cluster'].zoomToShowLayer(shown[0]['marker'], () => shown[0]['marker'].openPopup()), 350);
+        }
+        else {
+            map.fitBounds(L.latLngBounds(shown.map((p) => p['coords'])), {'padding': [40, 40], 'maxZoom': 12});
+        }
+        scroll_to(map_element);
+    });
+}
+
+map_element.addEventListener('click', (event) => {
+    if(event.target.closest('.map-focus-reset')) {
+        MAP['focus'] = null;
+        update_display();
+    }
+});
+
+// The company and its closest neighbors in the graph
+function show_in_graph(k) {
+    UX['sorting']['graph'].checked = true;
+    update_display();
+    GRAPH['trail'] = [k];
+    graph_render();
+    scroll_to(GRAPH['element']);
+}
+
 // From a marker of the map to the heading of the place view
 function show_in_list(target_id) {
     MAP['map'].closePopup();
+    UX['sorting']['list'].checked = true;
     UX['sorting']['place'].checked = true;
     update_display();
     const jump = () => jump_to_target(document.getElementById(target_id));

@@ -379,7 +379,9 @@ function graph_neighbors(k0) {
     draw(k0, cx, cy, Math.max(12, node_radius(me.e)), listing[k0]['Name'], true);
 
     const themes = me.s.concat(me.a).join(', ');
-    GRAPH['info'].innerHTML = `<strong>${esc(listing[k0]['Name'])}</strong> · ${size_text(me.e)}${me.zones.length ? ' · ' + esc(me.zones.join(', ')) : ''}<br>`
+    const goto_map = company_on_map(listing[k0]) ? `<button type="button" class="graph-goto" data-goto="map" data-k="${k0}">Sur la carte</button>` : '';
+    GRAPH['info'].innerHTML = `<div class="graph-goto-row"><button type="button" class="graph-goto" data-goto="card" data-k="${k0}">Fiche</button>${goto_map}</div>`
+        + `<strong>${esc(listing[k0]['Name'])}</strong> · ${size_text(me.e)}${me.zones.length ? ' · ' + esc(me.zones.join(', ')) : ''}<br>`
         + `${esc(themes)}${me.k.length ? '<br><span class="graph-keywords">' + esc(me.k.join(', ')) + '</span>' : ''}`
         + `<p class="graph-legend">Ressemblance : ${GRAPH_WEIGHTS.map((w) => `<span class="graph-swatch" style="background:${w.color}"></span>${w.label} (${Math.round(100*w.w)} %)`).join(' ')}</p>`;
     GRAPH['rows'].innerHTML = place.map((n) => {
@@ -446,3 +448,9 @@ GRAPH['crumb'].addEventListener('click', (event) => {
     graph_render();
 });
 GRAPH['zone'].addEventListener('change', () => { GRAPH['trail'] = []; graph_render(); });
+GRAPH['info'].addEventListener('click', (event) => {
+    const button = event.target.closest('.graph-goto');
+    if(!button) return;
+    if(button.dataset.goto=='card') show_card(+button.dataset.k);
+    else show_on_map(+button.dataset.k);
+});

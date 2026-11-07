@@ -136,6 +136,16 @@ a:hover { text-decoration: underline; text-decoration-thickness: 2px; text-under
 .sorting_input label:hover { background: rgba(255, 255, 255, 0.35); }
 .sorting_input input:checked + label { background: white; font-weight: 700; box-shadow: var(--shadow-sm), 0 0 0 1px rgba(29, 42, 0, 0.18); }
 
+/* Tri de la liste : secondaire, visible seulement dans la vue Liste */
+.order_input { display: inline-flex; align-items: center; gap: 2px; font-size: 0.82rem; }
+.order_input:has(input:focus-visible) { outline: 3px solid var(--ink); outline-offset: 2px; border-radius: 999px; }
+.order_input input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.order-label { color: var(--ink-2); font-weight: 600; margin-right: 0.3rem; }
+.order_input label { padding: 0.2rem 0.65rem; border-radius: 999px; cursor: pointer; color: var(--ink); font-weight: 600; }
+.order_input label:hover { background: rgba(255, 255, 255, 0.35); }
+.order_input input:checked + label { background: rgba(255, 255, 255, 0.7); box-shadow: inset 0 0 0 1px rgba(29, 42, 0, 0.25); }
+.view-map .order_input, .view-graph .order_input { display: none; }
+
 /* Cases a cocher en puces (la case reste native, donc accessible) */
 .toggle { position: relative; display: inline-flex; }
 .toggle input { position: absolute; opacity: 0; width: 1px; height: 1px; margin: 0; }
@@ -594,6 +604,33 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     min-height: 32px; padding: 0 1rem; font-weight: 700; font-size: 0.8rem;
 }
 .map-to-list:hover { background: #33470a; }
+.map-to-card, .map-to-graph {
+    border: 0; background: var(--ink); color: var(--afig); border-radius: 999px;
+    min-height: 32px; padding: 0 1rem; font-weight: 700; font-size: 0.8rem; cursor: pointer;
+}
+.map-to-card:hover, .map-to-graph:hover { background: #33470a; }
+.map-focus { color: var(--text); }
+.map-focus-reset {
+    font: inherit; font-weight: 600; color: var(--afig-800); background: white; cursor: pointer;
+    border: 1px solid var(--afig-700); border-radius: 999px; padding: 0.1rem 0.7rem; margin-left: 0.3rem;
+}
+.map-focus-reset:hover { background: var(--afig-50); }
+
+/* Liens d'une fiche vers la carte et le graphe */
+.company-goto { display: flex; gap: 0.35rem; margin-top: 0.45rem; }
+.company-goto button {
+    font: inherit; font-size: 0.75rem; font-weight: 600; color: var(--afig-800); background: white;
+    border: 1px solid var(--line-2); border-radius: 999px; padding: 0.1rem 0.6rem; cursor: pointer;
+}
+.company-goto button:hover, .company-goto button:focus-visible { border-color: var(--afig-700); background: var(--afig-50); }
+.company.is-target { animation: company-target 2.4s ease-out; border-radius: var(--radius); }
+@keyframes company-target { 0%, 40% { box-shadow: 0 0 0 3px var(--afig); background: var(--afig-50); } 100% { box-shadow: 0 0 0 3px transparent; } }
+.graph-goto-row { float: right; display: flex; gap: 0.35rem; }
+.graph-goto {
+    font: inherit; font-size: 0.78rem; font-weight: 600; color: var(--afig-800); background: white;
+    border: 1px solid var(--line-2); border-radius: 999px; padding: 0.15rem 0.7rem; cursor: pointer;
+}
+.graph-goto:hover, .graph-goto:focus-visible { border-color: var(--afig-700); background: var(--afig-50); }
 
 /* ======================================================================
    Integration en iframe (site de l'AFIG) : la page parente defile

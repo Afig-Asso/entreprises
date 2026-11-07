@@ -29,15 +29,20 @@
     <div id="toolbar" class="toolbar">
         <div id="selection-listing-company">
             <div class="ux-left">
-                <div class="sorting_input" role="radiogroup" aria-label="Ordre d'affichage">
+                <div class="sorting_input" role="radiogroup" aria-label="Vue">
+                    <input type="radio" id="view-list" name="view" value="List" checked>
+                    <label for="view-list">Liste</label>
+                    <input type="radio" id="sort-map" name="view" value="Map">
+                    <label for="sort-map">Carte</label>
+                    <input type="radio" id="sort-graph" name="view" value="Graph">
+                    <label for="sort-graph">Graphe</label>
+                </div>
+                <div class="order_input" role="radiogroup" aria-label="Ordre de la liste">
+                    <span class="order-label" aria-hidden="true">Tri</span>
                     <input type="radio" id="sort-alphabetical" name="sort" value="Alphabetical" checked>
                     <label for="sort-alphabetical">Alphabétique</label>
                     <input type="radio" id="sort-place" name="sort" value="Localization">
                     <label for="sort-place">Localité</label>
-                    <input type="radio" id="sort-map" name="sort" value="Map">
-                    <label for="sort-map">Carte</label>
-                    <input type="radio" id="sort-graph" name="sort" value="Graph">
-                    <label for="sort-graph">Graphe</label>
                 </div>
                 <div class="toggles">
                     <span class="toggle toggle-jobs"><input type="checkbox" id="jobs-only"><label for="jobs-only">Offres d'emploi <span class="toggle-count" id="jobs-count"></span></label></span>
