@@ -214,7 +214,7 @@ def check_keywords(data_keywords, data, exitOnError=False):
 # Keys accepted in data.yaml (anything else is most likely a typo)
 REQUIRED_KEYS = ['Name', 'url', 'Place', 'Scientific-domain', 'Application-domain']
 OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords', 'Highlight']
-PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International', 'Coordinates']
+PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International', 'Coordinates', 'SIREN']
 # Country names are written in French (the site groups companies by country name)
 COUNTRIES = ['Allemagne', 'Australie', 'Belgique', 'Brésil', 'Canada', 'Chine', 'Corée du Sud', 'Danemark',
              'Espagne', 'États-Unis', 'Finlande', 'France', 'Inde', 'Israël', 'Italie', 'Japon', 'Lituanie',
@@ -253,6 +253,11 @@ def check_validity_data(data):
                     if key not in PLACE_KEYS:
                         print(f'!! Warning: Unknown Place key [{key}] in entry {name} (allowed: {", ".join(PLACE_KEYS)})\n')
                         valid = False
+                coordinates = place.get('Coordinates') if isinstance(place, dict) else None
+                if coordinates is not None and not (isinstance(coordinates, list) and len(coordinates) == 2
+                        and all(isinstance(c, (int, float)) for c in coordinates)):
+                    print(f'!! Warning: Coordinates must be [latitude, longitude] in entry {name}, found {coordinates}\n')
+                    valid = False
                 countries = place.get('Country', []) if isinstance(place, dict) else []
                 for country in (countries if isinstance(countries, list) else [countries]):
                     if country not in COUNTRIES:

@@ -148,6 +148,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Alteia](https://alteia.com/)**  
   * _Logiciels de Vision et IA._
   * **Remarque**: _Racheté par GE Vernova en 2025 (intégré à GridOS Visual Intelligence)._
+  * **Localisation**: Toulouse, Paris
   * **Nombres d'employés**: 80
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Géospatial/Cartographie, Industrie/Manufacturing/CAO, Énergie/Environnement
@@ -396,7 +397,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Logiciels de CAO, Design et Simulation._
   * **Produits**: Catia, SolidWorks
-  * **Localisation**: France/{Paris, Aix-en-Provence}, États-Unis, Chine, International
+  * **Localisation**: France/Paris, France/Aix-en-Provence, États-Unis, Chine, International
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Modélisation, Simulation, Géométrie, Design/Fabrication
   * **Domaine d'application**: Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO, Médical/Biologique
@@ -592,7 +593,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Gao Shan Pictures](https://www.gaoshanpictures.com)**  
   * _Studio d'animation 3D ayant participé à des longs métrages (Mars Express, J'ai perdu mon corps)._
-  * **Localisation**: France/{Saint-Paul (La Réunion), Angoulême, Annecy}, Maurice
+  * **Localisation**: France/Saint-Paul (La Réunion), France/Angoulême, France/Annecy, Maurice
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1406,7 +1407,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Tech Soft 3D](https://www.techsoft3d.com/)**  
   * _Outils de développement (SDK HOOPS, échange de données CAO, visualisation 3D) pour la CAO/IAO_
-  * **Localisation**: France/{Lyon, Sophia Antipolis}, États-Unis/Oregon/Bend, International
+  * **Localisation**: France/Lyon, France/Sophia Antipolis, États-Unis/Oregon/Bend, International
   * **Domaine scientifique/technique**: Design/Fabrication, Visualisation, Géométrie
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Générique
   * [_Jobs_](https://www.techsoft3d.com/company/#careers)
@@ -1516,7 +1517,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développeur de jeux vidéo Français, possédant de nombreux studios à l'international_
   * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal. Depuis fin 2025, les licences Assassin's Creed, Far Cry et Rainbow Six sont gérées par la filiale Vantage Studios (participation de Tencent). Restructuration importante en 2026 (fermetures de studios hors de France)._
-  * **Localisation**: France/{Paris, Bordeaux, Annecy}, Canada/{Montréal, Toronto}, États-Unis/{San Francisco, New York, Atlanta}, Inde, Allemagne, Pologne, International
+  * **Localisation**: France/Paris, France/Bordeaux, France/Annecy, Canada/{Montréal, Toronto}, États-Unis/{San Francisco, New York, Atlanta}, Inde, Allemagne, Pologne, International
   * **Nombres d'employés**: 16500
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -1534,7 +1535,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[Unity Technologies](https://unity.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Développement du moteur de jeu Unity et produits associés_
   * **Remarque**: _Equipes de développement en France: <a target="_blank" href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a target="_blank" href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a target="_blank" href="https://unity.com/products/sentis">IA</a> (Lille)_
-  * **Localisation**: États-Unis, France/{Paris, Grenoble, Compiègne, Lille}, Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse, International
+  * **Localisation**: États-Unis, France/Paris, France/Grenoble, France/Compiègne, France/Lille, Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse, International
   * **Nombres d'employés**: 7000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
@@ -1544,7 +1545,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[UVR](https://www.united-vr.com/)** (United Visual Researchers) 
   * _Logiciel d'analyse optique et de rendu avancé (spectral, lumière polarisée)._
   * **Produits**: [Predict](https://www.united-vr.com/home)
-  * **Localisation**: France/{Paris, Laval}
+  * **Localisation**: France/Paris, France/Laval
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
   * **Domaine d'application**: Générique

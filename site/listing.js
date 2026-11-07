@@ -1194,7 +1194,7 @@ function display_map(entries) {
         MAP['map'].invalidateSize();
         map_frame('fit');
         const note = document.querySelector('#map-note');
-        let txt = 'Un marqueur par ville ; un cercle en pointillés indique un pays sans ville précisée. La vue « Localité » donne les mêmes informations sous forme de liste.';
+        let txt = "Un marqueur à l'adresse de l'établissement quand elle est connue (registre SIRENE), sinon au centre de la ville ; un cercle en pointillés indique un pays sans ville précisée. La vue « Localité » donne les mêmes informations sous forme de liste.";
         if(N_unplaced>0) {
             txt = (N_unplaced>1 ? `${N_unplaced} entreprises présentes à l'international sans lieu précis ne sont pas sur la carte. `
                 : "1 entreprise présente à l'international sans lieu précis n'est pas sur la carte. ") + txt;
