@@ -331,8 +331,16 @@ function display_company_entry(entry, level) {
     const badge = highlight_badge(entry);
     const title = `<h${level} class="company-name"><a target="_blank" href="${url}">${name}${NEW_TAB}</a>${badge}</h${level}>`;
 
+    const jobs = get_string(entry['Jobs']);
+    const jobs_txt = jobs=='' ? '' :
+        `<div class="jobs"><a class="jobs-link" target="_blank" href="${jobs}">Offres d'emploi<span class="visually-hidden"> chez ${esc(name)} (nouvel onglet)</span></a></div>\n`;
+    const place_txt = export_places_to_txt(get_list_places(entry['Place']));
+
     if(UX['details'].checked==false) {
-        return `<li${id_attribute} class="company company-compact">${title}</li>\n`;
+        let txt = `<li${id_attribute} class="company company-compact">${title}`;
+        txt += display_div(place_txt, 'place');
+        txt += jobs_txt;
+        return txt + '</li>\n';
     }
 
     const name_long = get_string(entry['Name-long']);
@@ -340,14 +348,11 @@ function display_company_entry(entry, level) {
     const info = get_string(entry['Info']);
     const keywords = get_string(entry['Keywords'])
     const product = get_string(entry['Product']);
-    const jobs = get_string(entry['Jobs']);
     const employees = get_string(entry['Employees']);
     let number_txt='';
     if(employees!='' && Number(employees)>100) {
         number_txt = String(Number(employees).toLocaleString('fr'));
     }
-    const place_txt = export_places_to_txt(get_list_places(entry['Place']));
-
     let txt = `<li${id_attribute} class="company">\n${title}`;
     if(name_long!='') {
         txt += `<div class="name-long">(${name_long})</div>`;
@@ -361,9 +366,7 @@ function display_company_entry(entry, level) {
     txt += display_div(number_txt, 'employees', "Nombre d'employés");
     txt += display_div(display_tags(entry['Scientific-domain'], 'scientific'), 'scientific-domain', 'Domaine scientifique');
     txt += display_div(display_tags(entry['Application-domain'], 'application'), 'application-domain', "Domaine d'application");
-    if(jobs!=''){
-        txt += `<div class="jobs"><a class="jobs-link" target="_blank" href="${jobs}">Offres d'emploi<span class="visually-hidden"> chez ${esc(name)} (nouvel onglet)</span></a></div>\n`
-    }
+    txt += jobs_txt;
     txt += '</div>\n'; // end content
     txt += '</li>\n';
 
@@ -410,7 +413,8 @@ function display_no_result() {
 }
 
 function display_list(entries, level) {
-    let txt = '<ul class="company-list" role="list">\n';
+    const compact = UX['details'].checked ? '' : ' compact';
+    let txt = `<ul class="company-list${compact}" role="list">\n`;
     for(const entry of entries) {
         txt += display_company_entry(entry, level);
     }
