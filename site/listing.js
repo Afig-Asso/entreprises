@@ -1395,8 +1395,9 @@ function display_map(entries) {
         MAP['cluster'].addLayers(markers);
         MAP['bounds'] = markers.length>0 ? L.latLngBounds(markers.map((m) => m.getLatLng())) : null;
         MAP['map'].invalidateSize();
-        // the map opens on France (where most companies are); then it follows the selection
-        map_frame(MAP['framed'] ? 'fit' : 'france');
+        // the map opens on France (where most companies are); then the view stays where the user left it
+        // when a filter changes (the buttons above the map reframe on demand)
+        if(!MAP['framed']) map_frame('france');
         MAP['framed'] = true;
         map_spread();
         // focus on one company (link "Carte" of a card): say it, with a way back to all the companies
