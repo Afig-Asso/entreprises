@@ -70,6 +70,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[3Deus Dynamics](https://3deusdynamics.com/)**  
+  * _Industriel de Rillieux-la-Pape qui imprime en 3D des pièces en silicone grâce à un procédé breveté de moulage dynamique en milieu granulaire (modèles anatomiques, dispositifs médicaux, aéronautique)._
+  * **Mots clés**: _fabrication additive, silicone, dispositif médical, aéronautique_
+  * **Localisation**: Rillieux-la-Pape
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Design/Fabrication
+  * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO
+
+
 * **[3DVerse](https://3dverse.com/)**  
   * _Plateforme cloud et moteur 3D temps réel pour construire et diffuser sur le web des jumeaux numériques et applications 3D collaboratives, intégrant IoT, IA et ERP._
   * **Mots clés**: _jumeau numérique, cloud/streaming, rendu temps réel, web 3D, plateforme collaborative, industrie/usinage_
@@ -264,6 +273,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://careers.ansys.com/)
 
 
+* **[Apologue FX](https://www.apologuefx.com/)**  
+  * _Studio lyonnais d'effets visuels temps réel pour le jeu vidéo, les cinématiques et la XR (Unreal, Unity, moteurs propriétaires, Houdini, EmberGen)._
+  * **Mots clés**: _effets temps réel, Houdini, Unreal Engine, AAA_
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation, Rendu offline/VFX
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+
+
 * **[Apple](https://www.apple.com/)**  
   * _Constructeur américain d'appareils grand public (Mac, iPhone, iPad, Vision Pro) conçus autour de ses propres puces Apple Silicon à GPU intégré._
   * **Mots clés**: _matériel grand public, puce/semi-conducteur, GPU, réalité mixte, Apple Vision Pro, écrans_
@@ -272,6 +290,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Hardware, Vision
   * **Domaine d'application**: Générique
   * [_Jobs_](https://jobs.apple.com)
+
+
+* **[Archi Graphi](https://archi-graphi.fr/)**  
+  * _Studio d'infographie 3D fondé en 2003 (Lyon et Paris) réalisant perspectives, films, maquettes interactives et phasages 4D pour l'architecture, la construction et l'immobilier._
+  * **Mots clés**: _architecture, rendu photoréaliste, immobilier, ferme de rendu_
+  * **Localisation**: Lyon, Paris
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Visualisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme
+  * [_Jobs_](https://join.com/companies/archi-graphi)
 
 
 * **[Arkane Studios](https://www.arkane-studios.com/fr)**  
@@ -313,6 +341,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.artefacto-ar.com/entreprise/carrieres/)
 
 
+* **[Artefacts Studio](https://www.artefacts-studio.fr/)**  
+  * _Studio indépendant de jeux vidéo PC/consoles fondé en 2003 à Villeurbanne (Le Donjon de Naheulbeuk, Space Hulk Tactics, Disciples: Domination), en propre et pour des éditeurs._
+  * **Mots clés**: _console/PC, co-développement, jeu de stratégie, RPG tactique_
+  * **Localisation**: Villeurbanne
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.artefacts-studio.fr/en/career)
+
+
 * **[Asobo](https://www.asobostudio.com/)**  
   * _Studio bordelais de jeux AAA à moteur maison, créateur de la série A Plague Tale et développeur de Microsoft Flight Simulator._
   * **Mots clés**: _AAA, console/PC, moteur maison, co-développement, simulation de vol, A Plague Tale, Microsoft Flight Simulator_
@@ -331,6 +369,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel, Jeu Vidéo
+
+
+* **[Augmenta](https://augmenta.tech/)**  
+  * _Société villeurbannaise (Pôle Pixel) éditant une solution matérielle et logicielle de suivi de personnes sans marqueur pour rendre interactifs sols, murs et espaces immersifs._
+  * **Mots clés**: _tracking de personnes, installations interactives, vision par ordinateur, événementiel/mapping_
+  * **Remarque**: _Technologie issue du studio Théoriz (même adresse au Pôle Pixel) ; société créée en 2023._
+  * **Localisation**: Villeurbanne
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Acquisition, Vision, IHM/Haptique
+  * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers, Patrimoine/Culture
 
 
 * **[Autodesk](https://www.autodesk.com/)**  
@@ -352,6 +400,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[AVA](https://www.ava-ux.com/)**  
+  * _Éditeur près de Lyon d'instructions de travail digitales qui transforment les modèles 3D CAO en guides d'assemblage et de maintenance interactifs pour les opérateurs industriels._
+  * **Mots clés**: _CAO, instructions de travail 3D, visualiseur 3D, industrie/usinage, web 3D_
+  * **Localisation**: Saint-Bonnet-de-Mure
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Visualisation, Web/Cloud/Big Data
+  * **Domaine d'application**: Industrie/Manufacturing/CAO
 
 
 * **[Avatar Medical](https://www.avatarmedical.ai/)**  
@@ -382,6 +439,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Modélisation, Simulation, Reconstruction, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Géospatial/Cartographie, Automobile/Navigation/Aviation
   * [_Jobs_](https://bentleysystems.wd5.myworkdayjobs.com/bentley)
+
+
+* **[Big Company](https://www.bigcompany.fr/)**  
+  * _Studio lyonnais fondé en 2001 de production audiovisuelle, d'animation 2D/3D et de contenus interactifs et immersifs (3D temps réel, VR/AR, mapping, serious games)._
+  * **Mots clés**: _animation 3D, rendu temps réel, événementiel/mapping, publicité_
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.bigcompany.fr/news-jobs/)
 
 
 * **[Black Cog](https://black-cog.com/)**  
@@ -452,6 +519,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: États-Unis/{Orlando, Detroit}
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+
+
+* **[Break First Games](https://www.breakfirst.games/)** (Break First) 
+  * _Studio indépendant fondé en 2009 dans la métropole lyonnaise, spécialisé dans les jeux familiaux et multijoueurs coopératifs (Instant Sports, Sheep & Socks, King of Tokyo) sur consoles, PC et mobile._
+  * **Mots clés**: _console/PC, jeu indépendant, jeu casual, multijoueur local_
+  * **Remarque**: _Siège social au registre : Bron ; adresse du studio sur le site : Vaulx-en-Velin._
+  * **Localisation**: Bron
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Vision
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Brunch Studio](https://www.brunchstudio.tv/)**  
@@ -565,6 +642,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
 
 
+* **[CoreTechnologie](https://coretechnologie.com/)** (CT CoreTechnologie France) 
+  * _Éditeur de logiciels de conversion et d'analyse CAO (3D_Evolution, 3D_Analyzer, SDK 3D_Kernel_IO) et de préparation pour l'impression 3D (4D_Additive), avec une filiale française près de Lyon._
+  * **Mots clés**: _CAO, conversion de formats 3D, SDK, fabrication additive, maillage_
+  * **Localisation**: Lyon, Saint-Genis-Laval
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Design/Fabrication, Géométrie, Visualisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO
+  * [_Jobs_](https://coretechnologie.com/ct-core-technologie-company-profile/career/)
+
+
 * **[Cousin Bizarre](https://www.cousinbizarre.com/)**  
   * _Studio d'effets visuels : 3D/CGI, FX (simulations de fluides, particules, cheveux, destruction), compositing et matte painting._
   * **Mots clés**: _effets visuels, compositing, matte painting, simulation de fluides, long métrage, séries TV, look development_
@@ -583,6 +670,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://cyanide-studio.com/fr/nous-rejoindre/)
+
+
+* **[Cyclife Digital Solutions](https://www.cyclife-edf.com/en/our-governance/cyclife-digital-solutions)**  
+  * _Filiale du groupe EDF (Cyclife) qui édite DEMplus, logiciel de simulation 3D temps réel collaboratif pour préparer les interventions et le démantèlement nucléaires (jumeaux numériques, planification 4D)._
+  * **Mots clés**: _nucléaire, jumeau numérique, simulation physique, rendu temps réel, réalité virtuelle, formation professionnelle_
+  * **Localisation**: Bagnols-sur-Cèze, Lyon
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Simulation, Visualisation, VR/AR
+  * **Domaine d'application**: Énergie/Environnement, Industrie/Manufacturing/CAO
 
 
 * **[Dada! Animation](https://www.dada-animation.com/)**  
@@ -611,6 +707,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Lyon
   * **Domaine scientifique/technique**: Géométrie, Design/Fabrication, Modélisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Générique
+
+
+* **[Diagnoly](https://www.diagnoly.com/)**  
+  * _Medtech lyonnaise qui développe Fetoly, assistant d'IA embarqué temps réel pour l'échographie prénatale (sélection d'images, mesures, contrôle de complétude), intégré aux échographes GE HealthCare._
+  * **Mots clés**: _imagerie médicale, échographie, deep learning, diagnostic, dispositif médical_
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.diagnoly.com/careers/)
 
 
 * **[Digital District](https://www.digital-district.fr)**  
@@ -660,6 +766,24 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://dont-nod.com/en/careers/)
+
+
+* **[Dowino](https://www.dowino.com/)**  
+  * _Studio lyonnais de serious games et d'outils pédagogiques (jeux mobiles et web, VR et réalité mixte, films d'animation) sur la santé, le handicap et la RSE._
+  * **Mots clés**: _serious game, e-santé, réalité virtuelle, éducation_
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Médical/Biologique
+
+
+* **[Draw Me A Pixel](https://drawmeapixel.com/)**  
+  * _Studio indépendant de jeux vidéo fondé en 2017 par des vétérans de l'industrie, auteur de There Is No Game: Wrong Dimension et Crushed In Time._
+  * **Mots clés**: _jeu indépendant, console/PC, jeu narratif, point-and-click_
+  * **Localisation**: Villeurbanne
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[DreamWall](https://www.dreamwall.be/en)**  
@@ -717,6 +841,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
 
 
+* **[EDAP TMS](https://focalone.com/)** (EDAP-TMS France) 
+  * _Fabricant de Vaulx-en-Velin de dispositifs à ultrasons focalisés (HIFU) robotisés, dont Focal One qui fusionne en 3D IRM, biopsies et échographie temps réel pour traiter le cancer de la prostate._
+  * **Mots clés**: _imagerie médicale, échographie, fusion d'images, chirurgie assistée, dispositif médical_
+  * **Localisation**: Vaulx-en-Velin
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Imagerie, Hardware
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Eden Games](https://www.edengames.com/)**  
   * _Studio lyonnais spécialisé depuis 25 ans dans les jeux de course (V-Rally, Test Drive Unlimited, Gear.Club, Smurfs Kart), sur consoles et mobile, filiale d'Animoca Brands._
   * **Mots clés**: _jeu de course, console/PC, mobile, Gear.Club, Animoca Brands_
@@ -753,6 +886,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Elcia](https://www.elcia.com/)**  
+  * _Éditeur de Brignais de logiciels pour la menuiserie et la fermeture, dont des configurateurs 3D en ligne (MyConfigurator) pour chiffrer et visualiser les produits._
+  * **Mots clés**: _e-commerce/configurateur 3D, web 3D, menuiserie, architecture_
+  * **Localisation**: Brignais
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Visualisation, Web/Cloud/Big Data
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
+  * [_Jobs_](https://www.elcia.com/nos-offres-demploi/)
 
 
 * **[Emersya](https://www.emersya.com/)**  
@@ -812,6 +955,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Modélisation, VR/AR, Analyse de données
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.eva.gg/fr/careers/jobs/list)
+
+
+* **[Evaveo](https://evaveo.com/)**  
+  * _Studio d'innovation numérique de la métropole lyonnaise développant des applications 3D temps réel, VR/AR, jumeaux numériques de formation et maquettes en réalité mixte (Plateau 3D)._
+  * **Mots clés**: _rendu temps réel, réalité mixte, jumeau numérique, formation professionnelle_
+  * **Localisation**: Saint-Didier-au-Mont-d'Or
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Patrimoine/Culture, Industrie/Manufacturing/CAO
 
 
 * **[Evil Empire](https://evilempire.com/)**  
@@ -895,6 +1047,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Gameleon Studio](https://gameleon-studio.fr/)**  
+  * _Studio lyonnais de production d'art 2D/3D pour le jeu vidéo (personnages, environnements, FX, optimisation) sous Unity, Unreal et moteurs propriétaires, qui développe aussi ses propres jeux._
+  * **Mots clés**: _game art, co-développement, environnements numériques_
+  * **Remarque**: _Bureaux affichés au 91 cours Charlemagne, Lyon 2e ; siège au registre à Sainte-Foy-lès-Lyon._
+  * **Localisation**: Sainte-Foy-lès-Lyon
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Modélisation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Gameloft](https://www.gameloft.com/)**  
@@ -1075,6 +1237,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
 
 
+* **[IHMTEK](https://www.ihmtek.com/)**  
+  * _Agence de développement en réalité étendue fondée en 2012 au sud de Lyon (Les Roches-de-Condrieu), réalisant serious games, simulateurs VR de formation, showrooms virtuels et modélisation 3D._
+  * **Mots clés**: _réalité virtuelle, simulateur d'entraînement, serious game, formation professionnelle_
+  * **Localisation**: Les Roches-de-Condrieu
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+
+
 * **[Ikigai Games](https://www.gfc.ikigai.games/)**  
   * _Pôle national de production et de recherche en gamification (Games for Citizens) soutenu par le ministère de l'Enseignement supérieur, créant des jeux pour l'apprentissage et la médiation culturelle._
   * **Mots clés**: _serious game, ludopédagogie, éducation, médiation scientifique_
@@ -1137,6 +1308,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
 
 
+* **[InfinyTech3D](https://infinytech3d.com/)**  
+  * _Start-up lyonnaise de simulation physique temps réel (framework SOFA, intégrations Unity/Unreal, haptique) pour simulateurs chirurgicaux en réalité virtuelle._
+  * **Mots clés**: _simulation physique, simulation médicale, haptique, réalité virtuelle, SOFA, Unity_
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Simulation, VR/AR, IHM/Haptique
+  * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
+
+
 * **[inHEART](https://www.inheartmedical.com/)**  
   * _Jumeau numérique 3D du coeur du patient construit à partir de l'imagerie médicale (IA et simulation) pour guider l'ablation des arythmies._
   * **Mots clés**: _imagerie médicale, jumeau numérique, cardiologie, planification chirurgicale, deep learning, segmentation, dispositif médical_
@@ -1152,6 +1332,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
+* **[Innodura](https://www.innodura.fr/)** (Innodura TB) 
+  * _Société d'ingénierie de Rillieux-la-Pape spécialisée en vision 3D et IA : contrôle 3D, bin-picking robotisé, détection d'obstacles et cartographie pour véhicules._
+  * **Mots clés**: _vision par ordinateur, robotique, bin-picking, métrologie, véhicule autonome_
+  * **Localisation**: Rillieux-la-Pape
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Vision, Acquisition
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.innodura.fr/recrutement-2/)
 
 
 * **[InSimo](https://www.insimo.com/)**  
@@ -1269,6 +1459,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 2800
   * **Domaine scientifique/technique**: Modélisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Mode/Vêtements/Accessoires
+
+
+* **[Les Ateliers BK](https://ateliers-bk.com/)**  
+  * _Studio lyonnais créant des spectacles vidéo monumentaux, parcours lumière et expériences immersives patrimoniales (Fête des Lumières, Notre-Dame de Fourvière, Mont-Saint-Michel, Let's Glow SF)._
+  * **Mots clés**: _événementiel/mapping, patrimoine/musée, Fête des Lumières_
+  * **Remarque**: _Lien probable avec Studio BK (https://studio-bk.com/, créé en 2012), non vérifié._
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture
 
 
 * **[Les fées spéciales](https://les-fees-speciales.coop/)**  
@@ -1441,6 +1641,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.maxon.net/fr/about-maxon/careers)
 
 
+* **[Medicrea](https://www.medicrea.com/)** (Medicrea International (Medtronic)) 
+  * _Medtech de Rillieux-la-Pape (groupe Medtronic) pionnière de la chirurgie du rachis personnalisée : planification préopératoire UNiD ASI et implants sur mesure imprimés en 3D._
+  * **Mots clés**: _planification chirurgicale, imagerie médicale, fabrication additive, orthopédie, dispositif médical_
+  * **Localisation**: Rillieux-la-Pape
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Imagerie, Design/Fabrication
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Mercenaries Engineering](http://guerillarender.com/)**  
   * _Développement de logiciel de rendu (Guerilla Render) et d'animation (Rumba) pour la création de films d'animation._
   * **Mots clés**: _path tracing, Guerilla Render, animation 3D, long métrage, plugin/logiciel pour artistes, look development, Rumba_
@@ -1515,6 +1724,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.mikrosanimation.com/en/people-and-culture/careers/)
+
+
+* **[Million Victories](https://millionvictories.com/)**  
+  * _Studio villeurbannais de jeux mobiles massivement multijoueurs, créateur du MMORTS Million Lords._
+  * **Mots clés**: _mobile, multijoueur en ligne, jeu de stratégie, free-to-play_
+  * **Localisation**: Villeurbanne
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://millionvictories.com/join-us/)
 
 
 * **[Mimbus](https://mimbus.com/)**  
@@ -1599,6 +1818,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Architecture/BTP/Urbanisme
 
 
+* **[MyFit Solutions](https://myfit-solutions.com/)** (Myned Corporation (MyFit Solutions)) 
+  * _Start-up lyonnaise de scan 3D du corps humain par smartphone (applications et SDK marque blanche) pour la conception d'orthèses, prothèses et vêtements de compression._
+  * **Mots clés**: _scanner 3D, mobile, SDK, orthopédie, mode/textile_
+  * **Localisation**: Saint-Genis-Laval
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction
+  * **Domaine d'application**: Médical/Biologique, Mode/Vêtements/Accessoires
+
+
 * **[Nacon](https://www.nacongaming.com/)**  
   * _Éditeur de jeux vidéo et fabricant d'accessoires, maison mère de nombreux studios de développement._
   * **Mots clés**: _édition de jeux, console/PC, accessoires de jeu, manettes, jeu de sport_
@@ -1615,6 +1843,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Meylan, Paris
   * **Domaine scientifique/technique**: Vision, Reconstruction, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Générique
+
+
+* **[Navya](https://www.navya.tech/)** (Navya Mobility) 
+  * _Concepteur villeurbannais de véhicules autonomes (navettes, tracteurs) et de leur pile logicielle Navya Drive, dont la perception multi-capteurs._
+  * **Mots clés**: _véhicule autonome, lidar, vision par ordinateur, robotique_
+  * **Localisation**: Villeurbanne
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Vision, Acquisition
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
 
 
 * **[NDunes](https://www.ndunes.com/)**  
@@ -1731,6 +1968,17 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
 
 
+* **[Ocellus](https://ocellus-studio.com/)** (Ocellus Services) 
+  * _Studio lyonnais de game art stylisé 2D/3D et de développement (Ocellus Services) ayant travaillé sur Fortnite, Clash of Clans ou Brawl Stars, qui développe aussi ses propres jeux (Ocellus Games)._
+  * **Mots clés**: _game art, co-développement, cinématiques de jeu, rendu stylisé, mobile_
+  * **Remarque**: _Le site mentionne aussi une entité Ocellus d.o.o. (Croatie) ; Ocellus Games (SIREN 901239269) porte les IP propres._
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Modélisation, Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://ocellus-studio.com/careers)
+
+
 * **[Oh BiBi](https://www.ohbibi.com/)**  
   * _Studio parisien de jeux mobiles free-to-play multijoueurs, dont Ratchet & Clank: Ranger Rumble développé avec PlayStation Studios et Insomniac Games._
   * **Mots clés**: _mobile, free-to-play, multijoueur en ligne, jeu casual, adaptation de licences_
@@ -1757,6 +2005,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[OneOrtho Medical](https://oneortho-medical.com)** (One Ortho) 
+  * _Medtech de Saint-Genis-Laval qui crée des jumeaux numériques 3D de patients à partir d'imagerie (segmentation par IA) pour la planification chirurgicale, les guides sur mesure imprimés en 3D et la réalité mixte._
+  * **Mots clés**: _imagerie médicale, segmentation, jumeau numérique, planification chirurgicale, fabrication additive, réalité mixte_
+  * **Localisation**: Saint-Genis-Laval
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Imagerie, Reconstruction, Design/Fabrication, VR/AR
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[OptiTrack](https://optitrack.com/)**  
   * _Fabricant américain (NaturalPoint) de systèmes de motion capture optique utilisés en production virtuelle, tracking VR, biomécanique et robotique._
   * **Mots clés**: _motion capture, caméras infrarouges, production virtuelle, tracking caméra, réalité virtuelle, biomécanique, robotique_
@@ -1773,6 +2030,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Visualisation, Web/Cloud/Big Data, Géométrie
   * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
+
+
+* **[OSome Studio](https://www.osome-studio.com/)**  
+  * _Studio lyonnais fondé en 2013 qui développe des jeux PC et consoles sous licence (Astérix & Obélix XXL 2/3, Les Schtroumpfs, Garfield)._
+  * **Mots clés**: _console/PC, jeu sous licence, jeunesse, jeu d'action_
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Otoy](https://home.otoy.com/)**  
@@ -1905,6 +2171,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
+* **[Pump](https://www.univers-pump.fr/)** (Arfmat Studio (Pump)) 
+  * _Studio de création 3D et motion design basé à Lyon et Paris (images et animations 3D, VFX, réalité virtuelle) pour l'industrie, les marques et l'audiovisuel._
+  * **Mots clés**: _animation 3D, motion design, effets visuels, publicité_
+  * **Remarque**: _Studio VFX associé : Behind (https://behind-studio.fr/, SIREN 884799529, même adresse 1 impasse Brachet, Lyon 8e)._
+  * **Localisation**: Lyon, Paris
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+
+
 * **[Qarnot Computing](https://qarnot.com/)**  
   * _Fournisseur français de cloud HPC bas carbone (récupération de chaleur des serveurs) pour les simulations d'ingénieurs et le rendu, racheté par Scaleway._
   * **Mots clés**: _calcul haute performance, cloud/streaming, bas carbone, simulation physique, ferme de rendu, Scaleway_
@@ -1982,6 +2258,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://roboflow.com/careers)
 
 
+* **[Roboptic](https://www.roboptic.fr/)**  
+  * _Spécialiste stéphanois de la vision industrielle et intégrateur robotique : systèmes de vision standards, cellules robotisées guidées par caméra et postes de contrôle sur mesure avec IA._
+  * **Mots clés**: _vision par ordinateur, robotique, contrôle qualité, industrie/usinage, deep learning_
+  * **Localisation**: Saint-Étienne
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Vision
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
+
+
 * **[Saint-Gobain](https://www.saint-gobain.com/fr)**  
   * _Groupe industriel français de matériaux de construction (vitrage, isolation Isover, plâtre Placo, Weber) et de matériaux haute performance (céramiques, abrasifs, vitrage automobile)._
   * **Mots clés**: _matériaux de construction, vitrage, isolation thermique, plaques de plâtre, céramiques, vitrage automobile_
@@ -2005,6 +2290,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Montpellier
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Sandflow](https://sandflow.ai/)** (Chat3D (Sandflow)) 
+  * _Start-up stéphanoise (ex-Chat3D, fondée à Lyon en 2023) qui développe des modèles d'IA générative fondationnels pour créer des objets 3D à partir de texte, d'images ou de croquis._
+  * **Mots clés**: _IA générative, génération 3D, text-to-3D, maillage, deep learning_
+  * **Localisation**: Saint-Étienne
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: IA générative (image/3D), Modélisation
+  * **Domaine d'application**: Jeu Vidéo, Industrie/Manufacturing/CAO, Commerce/Marketing/Publicité
 
 
 * **[Shiro Games](https://shirogames.com)**  
@@ -2033,6 +2327,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.sidefx.com/company/careers/)
+
+
+* **[Siléane](https://www.sileane.com/)**  
+  * _Concepteur stéphanois de robots intelligents guidés par vision 3D et IA (bin-picking Kamido, pick-and-place Flowpick, Rovaldy) pour environnements non structurés._
+  * **Mots clés**: _vision par ordinateur, robotique, bin-picking, deep learning, industrie/usinage_
+  * **Localisation**: Saint-Étienne
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Vision, Acquisition
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://careers.werecruit.io/fr/sileane)
 
 
 * **[Sim&Cure](https://www.sim-and-cure.com/)**  
@@ -2338,6 +2642,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.thegamebakers.com/category/jobs/)
 
 
+* **[The Tiny Digital Factory](https://tinydigitalfactory.com/)**  
+  * _Studio lyonnais (et montréalais) de jeux mobiles de course et de sports mécaniques (GT Manager, Revv Racing, Shell Racing Legends), ayant contribué à Fallout Shelter et Gear.Club._
+  * **Mots clés**: _mobile, jeu de course, free-to-play_
+  * **Localisation**: Lyon
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[The Yard VFX](https://theyard-vfx.com/)**  
   * _Studio français d'effets visuels photoréalistes pour longs métrages et séries, internationaux comme indépendants, implanté en France et à l'étranger._
   * **Mots clés**: _effets visuels, long métrage, séries, compositing_
@@ -2373,6 +2686,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Visualisation, Imagerie
   * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO
   * [_Jobs_](https://jobs.thermofisher.com/)
+
+
+* **[Théoriz](https://www.theoriz.com/)**  
+  * _Studio de création villeurbannais (Pôle Pixel) fondé en 2013 réalisant mapping vidéo, installations interactives et espaces immersifs pour musées, marques et événements (dont la Fête des Lumières)._
+  * **Mots clés**: _événementiel/mapping, installations interactives, exposition immersive, Fête des Lumières_
+  * **Localisation**: Villeurbanne
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, IHM/Haptique
+  * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.theoriz.com/fr/jobs/)
 
 
 * **[TopSolid](https://www.topsolid.com/)** (TopSolid (ex-Missler Software)) 
@@ -2497,6 +2820,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.welcometothejungle.com/en/companies/virtuos)
+
+
+* **[Visiativ](https://www.visiativ.com/)**  
+  * _Groupe lyonnais intégrateur des solutions Dassault Systèmes (SOLIDWORKS, CATIA, 3DEXPERIENCE, SIMULIA) et éditeur de logiciels PLM/CPQ pour l'industrie._
+  * **Mots clés**: _CAO, PLM, SOLIDWORKS, 3DEXPERIENCE, simulation physique_
+  * **Localisation**: Charbonnières-les-Bains
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Design/Fabrication, Simulation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO
+  * [_Jobs_](https://jobs.visiativ.com/jobs)
 
 
 * **[Visible Patient](https://www.visiblepatient.com/)**  

@@ -4174,3 +4174,496 @@
   Keywords: [conception générative, optimisation topologique, fabrication additive, CAO, aéronautique, allègement structurel]
   Employees: 15
 
+
+# Entreprises de la région lyonnaise ajoutées le 7 novembre 2026 (détail et sources : audits/entreprises_2026-11/recherche_lyon_2026-11-07)
+
+- Name: Artefacts Studio
+  url: https://www.artefacts-studio.fr/
+  Description: 'Studio indépendant de jeux vidéo PC/consoles fondé en 2003 à Villeurbanne (Le Donjon de Naheulbeuk, Space Hulk Tactics, Disciples: Domination), en propre et pour des éditeurs.'
+  Jobs: https://www.artefacts-studio.fr/en/career
+  Place:
+    - City: Villeurbanne
+      Coordinates: [45.77268, 4.87230]
+      SIREN: '450815709'
+      Address: 52 Rue Descartes, 69100 Villeurbanne
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [console/PC, co-développement, jeu de stratégie, RPG tactique]
+  Employees: 75
+
+- Name: Ocellus
+  Name-long: Ocellus Services
+  url: https://ocellus-studio.com/
+  Description: Studio lyonnais de game art stylisé 2D/3D et de développement (Ocellus Services) ayant travaillé sur Fortnite, Clash of Clans ou Brawl Stars, qui développe aussi ses propres jeux (Ocellus Games).
+  Info: Le site mentionne aussi une entité Ocellus d.o.o. (Croatie) ; Ocellus Games (SIREN 901239269) porte les IP propres.
+  Jobs: https://ocellus-studio.com/careers
+  Place:
+    - City: Lyon
+      Coordinates: [45.76723, 4.81451]
+      SIREN: '843126988'
+      Address: 15 Quai Pierre Scize, 69009 Lyon
+  Scientific-domain: [Modélisation, Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [game art, co-développement, cinématiques de jeu, rendu stylisé, mobile]
+  Employees: 35
+
+- Name: OSome Studio
+  url: https://www.osome-studio.com/
+  Description: Studio lyonnais fondé en 2013 qui développe des jeux PC et consoles sous licence (Astérix & Obélix XXL 2/3, Les Schtroumpfs, Garfield).
+  Place:
+    - City: Lyon
+      Coordinates: [45.76049, 4.83664]
+      SIREN: '792049967'
+      Address: 10 Rue Stella, 69002 Lyon
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [console/PC, jeu sous licence, jeunesse, jeu d'action]
+  Employees: 35
+
+- Name: Million Victories
+  url: https://millionvictories.com/
+  Description: Studio villeurbannais de jeux mobiles massivement multijoueurs, créateur du MMORTS Million Lords.
+  Jobs: https://millionvictories.com/join-us/
+  Place:
+    - City: Villeurbanne
+      Coordinates: [45.77154, 4.87562]
+      SIREN: '830912051'
+      Address: 1 Rue Hippolyte Kahn, 69100 Villeurbanne
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [mobile, multijoueur en ligne, jeu de stratégie, free-to-play]
+  Employees: 35
+
+- Name: Break First Games
+  Name-long: Break First
+  url: https://www.breakfirst.games/
+  Description: Studio indépendant fondé en 2009 dans la métropole lyonnaise, spécialisé dans les jeux familiaux et multijoueurs coopératifs (Instant Sports, Sheep & Socks, King of Tokyo) sur consoles, PC et mobile.
+  Info: 'Siège social au registre : Bron ; adresse du studio sur le site : Vaulx-en-Velin.'
+  Place:
+    - City: Bron
+      Coordinates: [45.73390, 4.89800]
+      SIREN: '511004707'
+      Address: 52 Rue de la Paix, 69500 Bron
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Vision]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [console/PC, jeu indépendant, jeu casual, multijoueur local]
+  Employees: 35
+
+- Name: The Tiny Digital Factory
+  url: https://tinydigitalfactory.com/
+  Description: Studio lyonnais (et montréalais) de jeux mobiles de course et de sports mécaniques (GT Manager, Revv Racing, Shell Racing Legends), ayant contribué à Fallout Shelter et Gear.Club.
+  Place:
+    - City: Lyon
+      Coordinates: [45.74275, 4.81817]
+      SIREN: '832939375'
+      Address: 59 Rue Denuzière, 69002 Lyon
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [mobile, jeu de course, free-to-play]
+  Employees: 15
+
+- Name: Big Company
+  url: https://www.bigcompany.fr/
+  Description: Studio lyonnais fondé en 2001 de production audiovisuelle, d'animation 2D/3D et de contenus interactifs et immersifs (3D temps réel, VR/AR, mapping, serious games).
+  Jobs: https://www.bigcompany.fr/news-jobs/
+  Place:
+    - City: Lyon
+      Coordinates: [45.77756, 4.80408]
+      SIREN: '439393000'
+      Address: 22 Rue Chinard, 69009 Lyon
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D, VR/AR]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Entrainement/Formation/Serious Game]
+  Keywords: [animation 3D, rendu temps réel, événementiel/mapping, publicité]
+  Employees: 15
+
+- Name: Dowino
+  url: https://www.dowino.com/
+  Description: Studio lyonnais de serious games et d'outils pédagogiques (jeux mobiles et web, VR et réalité mixte, films d'animation) sur la santé, le handicap et la RSE.
+  Place:
+    - City: Lyon
+      Coordinates: [45.76837, 4.83442]
+      SIREN: '798322723'
+      Address: 27 Rue Romarin, 69001 Lyon
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR]
+  Application-domain: [Entrainement/Formation/Serious Game, Médical/Biologique]
+  Keywords: [serious game, e-santé, réalité virtuelle, éducation]
+  Employees: 15
+
+- Name: Théoriz
+  url: https://www.theoriz.com/
+  Description: Studio de création villeurbannais (Pôle Pixel) fondé en 2013 réalisant mapping vidéo, installations interactives et espaces immersifs pour musées, marques et événements (dont la Fête des Lumières).
+  Jobs: https://www.theoriz.com/fr/jobs/
+  Place:
+    - City: Villeurbanne
+      Coordinates: [45.75661, 4.89961]
+      SIREN: '799885728'
+      Address: 36 Rue Emile Decorps, 69100 Villeurbanne
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, IHM/Haptique]
+  Application-domain: [Art/Evenementiel, Patrimoine/Culture, Loisir Interactif/Immersion/Metavers]
+  Keywords: [événementiel/mapping, installations interactives, exposition immersive, Fête des Lumières]
+  Employees: 4
+
+- Name: Augmenta
+  url: https://augmenta.tech/
+  Description: Société villeurbannaise (Pôle Pixel) éditant une solution matérielle et logicielle de suivi de personnes sans marqueur pour rendre interactifs sols, murs et espaces immersifs.
+  Info: Technologie issue du studio Théoriz (même adresse au Pôle Pixel) ; société créée en 2023.
+  Place:
+    - City: Villeurbanne
+      Coordinates: [45.75661, 4.89961]
+      SIREN: '978143048'
+      Address: 36 Rue Emile Decorps, 69100 Villeurbanne
+  Scientific-domain: [Acquisition, Vision, IHM/Haptique]
+  Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers, Patrimoine/Culture]
+  Keywords: [tracking de personnes, installations interactives, vision par ordinateur, événementiel/mapping]
+  Employees: 2
+
+- Name: Apologue FX
+  url: https://www.apologuefx.com/
+  Description: Studio lyonnais d'effets visuels temps réel pour le jeu vidéo, les cinématiques et la XR (Unreal, Unity, moteurs propriétaires, Houdini, EmberGen).
+  Place:
+    - City: Lyon
+      Coordinates: [45.73424, 4.84268]
+      SIREN: '918455809'
+      Address: 26bis Boulevard de l'Artillerie, 69007 Lyon
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation, Rendu offline/VFX]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
+  Keywords: [effets temps réel, Houdini, Unreal Engine, AAA]
+  Employees: 4
+
+- Name: Gameleon Studio
+  url: https://gameleon-studio.fr/
+  Description: Studio lyonnais de production d'art 2D/3D pour le jeu vidéo (personnages, environnements, FX, optimisation) sous Unity, Unreal et moteurs propriétaires, qui développe aussi ses propres jeux.
+  Info: Bureaux affichés au 91 cours Charlemagne, Lyon 2e ; siège au registre à Sainte-Foy-lès-Lyon.
+  Place:
+    - City: Sainte-Foy-lès-Lyon
+      Coordinates: [45.73541, 4.80208]
+      SIREN: '842790610'
+      Address: 13 Rue Sainte Marguerite, 69110 Sainte-Foy-lès-Lyon
+  Scientific-domain: [Modélisation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [game art, co-développement, environnements numériques]
+  Employees: 8
+
+- Name: Pump
+  Name-long: Arfmat Studio (Pump)
+  url: https://www.univers-pump.fr/
+  Description: Studio de création 3D et motion design basé à Lyon et Paris (images et animations 3D, VFX, réalité virtuelle) pour l'industrie, les marques et l'audiovisuel.
+  Info: 'Studio VFX associé : Behind (https://behind-studio.fr/, SIREN 884799529, même adresse 1 impasse Brachet, Lyon 8e).'
+  Place:
+    - City: Lyon
+      Coordinates: [45.73693, 4.85079]
+      SIREN: '489972281'
+      Address: 1 Impasse Brachet, 69008 Lyon
+    - City: Paris
+  Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
+  Keywords: [animation 3D, motion design, effets visuels, publicité]
+  Employees: 15
+
+- Name: Draw Me A Pixel
+  url: https://drawmeapixel.com/
+  Description: 'Studio indépendant de jeux vidéo fondé en 2017 par des vétérans de l''industrie, auteur de There Is No Game: Wrong Dimension et Crushed In Time.'
+  Place:
+    - City: Villeurbanne
+      Coordinates: [45.77193, 4.87217]
+      SIREN: '830608782'
+      Address: 49 Rue Francis de Pressensé, 69100 Villeurbanne
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, console/PC, jeu narratif, point-and-click]
+  Employees: 8
+
+- Name: Evaveo
+  url: https://evaveo.com/
+  Description: Studio d'innovation numérique de la métropole lyonnaise développant des applications 3D temps réel, VR/AR, jumeaux numériques de formation et maquettes en réalité mixte (Plateau 3D).
+  Place:
+    - City: Saint-Didier-au-Mont-d'Or
+      Coordinates: [45.79821, 4.80763]
+      SIREN: '822798344'
+      Address: 17 Avenue Charles de Gaulle, 69370 Saint-Didier-au-Mont-d'Or
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR]
+  Application-domain: [Entrainement/Formation/Serious Game, Patrimoine/Culture, Industrie/Manufacturing/CAO]
+  Keywords: [rendu temps réel, réalité mixte, jumeau numérique, formation professionnelle]
+  Employees: 8
+
+- Name: IHMTEK
+  url: https://www.ihmtek.com/
+  Description: Agence de développement en réalité étendue fondée en 2012 au sud de Lyon (Les Roches-de-Condrieu), réalisant serious games, simulateurs VR de formation, showrooms virtuels et modélisation 3D.
+  Place:
+    - City: Les Roches-de-Condrieu
+      Coordinates: [45.45467, 4.76877]
+      SIREN: '539997783'
+      Address: 8 Rue Bayard, 38370 Les Roches-de-Condrieu
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
+  Keywords: [réalité virtuelle, simulateur d'entraînement, serious game, formation professionnelle]
+  Employees: 8
+
+- Name: Les Ateliers BK
+  url: https://ateliers-bk.com/
+  Description: Studio lyonnais créant des spectacles vidéo monumentaux, parcours lumière et expériences immersives patrimoniales (Fête des Lumières, Notre-Dame de Fourvière, Mont-Saint-Michel, Let's Glow SF).
+  Info: Lien probable avec Studio BK (https://studio-bk.com/, créé en 2012), non vérifié.
+  Place:
+    - City: Lyon
+      Coordinates: [45.75355, 4.84249]
+      SIREN: '891263147'
+      Address: 8 Rue Béchevelin, 69007 Lyon
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Art/Evenementiel, Patrimoine/Culture]
+  Keywords: [événementiel/mapping, patrimoine/musée, Fête des Lumières]
+  Employees: 15
+
+- Name: Archi Graphi
+  url: https://archi-graphi.fr/
+  Description: Studio d'infographie 3D fondé en 2003 (Lyon et Paris) réalisant perspectives, films, maquettes interactives et phasages 4D pour l'architecture, la construction et l'immobilier.
+  Jobs: https://join.com/companies/archi-graphi
+  Place:
+    - City: Lyon
+      Coordinates: [45.77670, 4.79698]
+      SIREN: '451106371'
+      Address: 31 Rue Saint Simon, 69009 Lyon
+    - City: Paris
+  Scientific-domain: [Rendu offline/VFX, Modélisation, Visualisation]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Keywords: [architecture, rendu photoréaliste, immobilier, ferme de rendu]
+  Employees: 35
+
+- Name: Sandflow
+  Name-long: Chat3D (Sandflow)
+  url: https://sandflow.ai/
+  Description: Start-up stéphanoise (ex-Chat3D, fondée à Lyon en 2023) qui développe des modèles d'IA générative fondationnels pour créer des objets 3D à partir de texte, d'images ou de croquis.
+  Place:
+    - City: Saint-Étienne
+      Coordinates: [45.42767, 4.40470]
+      SIREN: '978242329'
+      Address: 35 Rue Pierre et Dominique Ponchardier, 42100 Saint-Étienne
+  Scientific-domain: [IA générative (image/3D), Modélisation]
+  Application-domain: [Jeu Vidéo, Industrie/Manufacturing/CAO, Commerce/Marketing/Publicité]
+  Keywords: [IA générative, génération 3D, text-to-3D, maillage, deep learning]
+  Employees: 4
+
+- Name: InfinyTech3D
+  url: https://infinytech3d.com/
+  Description: Start-up lyonnaise de simulation physique temps réel (framework SOFA, intégrations Unity/Unreal, haptique) pour simulateurs chirurgicaux en réalité virtuelle.
+  Place:
+    - City: Lyon
+      Coordinates: [45.74013, 4.88843]
+      SIREN: '837736784'
+      Address: 60 Avenue Rockefeller, 69008 Lyon
+  Scientific-domain: [Simulation, VR/AR, IHM/Haptique]
+  Application-domain: [Médical/Biologique, Entrainement/Formation/Serious Game]
+  Keywords: [simulation physique, simulation médicale, haptique, réalité virtuelle, SOFA, Unity]
+  Employees: 2
+
+- Name: CoreTechnologie
+  Name-long: CT CoreTechnologie France
+  url: https://coretechnologie.com/
+  Description: Éditeur de logiciels de conversion et d'analyse CAO (3D_Evolution, 3D_Analyzer, SDK 3D_Kernel_IO) et de préparation pour l'impression 3D (4D_Additive), avec une filiale française près de Lyon.
+  Jobs: https://coretechnologie.com/ct-core-technologie-company-profile/career/
+  Place:
+    - City: Lyon
+      Coordinates: [45.74158, 4.86555]
+      SIREN: '441455110'
+      Address: 37 Rue Saint Romain, 69008 Lyon
+    - City: Saint-Genis-Laval
+      Coordinates: [45.67786, 4.78868]
+      SIREN: '449054402'
+      Address: 151 Route de Vourles, 69230 Saint-Genis-Laval
+  Scientific-domain: [Design/Fabrication, Géométrie, Visualisation]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Keywords: [CAO, conversion de formats 3D, SDK, fabrication additive, maillage]
+  Employees: 35
+
+- Name: Siléane
+  url: https://www.sileane.com/
+  Description: Concepteur stéphanois de robots intelligents guidés par vision 3D et IA (bin-picking Kamido, pick-and-place Flowpick, Rovaldy) pour environnements non structurés.
+  Jobs: https://careers.werecruit.io/fr/sileane
+  Place:
+    - City: Saint-Étienne
+      Coordinates: [45.45099, 4.41615]
+      SIREN: '442004461'
+      Address: 17 Rue Descartes, 42000 Saint-Étienne
+  Scientific-domain: [Vision, Acquisition]
+  Application-domain: [Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO]
+  Keywords: [vision par ordinateur, robotique, bin-picking, deep learning, industrie/usinage]
+  Employees: 150
+
+- Name: OneOrtho Medical
+  Name-long: One Ortho
+  url: https://oneortho-medical.com
+  Description: Medtech de Saint-Genis-Laval qui crée des jumeaux numériques 3D de patients à partir d'imagerie (segmentation par IA) pour la planification chirurgicale, les guides sur mesure imprimés en 3D et la réalité mixte.
+  Place:
+    - City: Saint-Genis-Laval
+      Coordinates: [45.67351, 4.78322]
+      SIREN: '795284355'
+      Address: 206 Route de Vourles, 69230 Saint-Genis-Laval
+  Scientific-domain: [Imagerie, Reconstruction, Design/Fabrication, VR/AR]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie médicale, segmentation, jumeau numérique, planification chirurgicale, fabrication additive, réalité mixte]
+  Employees: 35
+
+- Name: MyFit Solutions
+  Name-long: Myned Corporation (MyFit Solutions)
+  url: https://myfit-solutions.com/
+  Description: Start-up lyonnaise de scan 3D du corps humain par smartphone (applications et SDK marque blanche) pour la conception d'orthèses, prothèses et vêtements de compression.
+  Place:
+    - City: Saint-Genis-Laval
+      Coordinates: [45.68981, 4.79997]
+      SIREN: '837707769'
+      Address: 5bis Rue de la Solidarité, 69230 Saint-Genis-Laval
+  Scientific-domain: [Acquisition, Reconstruction]
+  Application-domain: [Médical/Biologique, Mode/Vêtements/Accessoires]
+  Keywords: [scanner 3D, mobile, SDK, orthopédie, mode/textile]
+  Employees: 15
+
+- Name: Innodura
+  Name-long: Innodura TB
+  url: https://www.innodura.fr/
+  Description: 'Société d''ingénierie de Rillieux-la-Pape spécialisée en vision 3D et IA : contrôle 3D, bin-picking robotisé, détection d''obstacles et cartographie pour véhicules.'
+  Jobs: https://www.innodura.fr/recrutement-2/
+  Place:
+    - City: Rillieux-la-Pape
+      Coordinates: [45.82208, 4.88309]
+      SIREN: '751102450'
+      Address: 206 Rue des Terres Bourdin, 69140 Rillieux-la-Pape
+  Scientific-domain: [Vision, Acquisition]
+  Application-domain: [Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Keywords: [vision par ordinateur, robotique, bin-picking, métrologie, véhicule autonome]
+  Employees: 35
+
+- Name: Cyclife Digital Solutions
+  url: https://www.cyclife-edf.com/en/our-governance/cyclife-digital-solutions
+  Description: Filiale du groupe EDF (Cyclife) qui édite DEMplus, logiciel de simulation 3D temps réel collaboratif pour préparer les interventions et le démantèlement nucléaires (jumeaux numériques, planification 4D).
+  Place:
+    - City: Bagnols-sur-Cèze
+      Coordinates: [44.15437, 4.64090]
+      SIREN: '524681996'
+      Address: ZI du Berret, Avenue de la Roquette, 30200 Bagnols-sur-Cèze
+    - City: Lyon
+  Scientific-domain: [Simulation, Visualisation, VR/AR]
+  Application-domain: [Énergie/Environnement, Industrie/Manufacturing/CAO]
+  Keywords: [nucléaire, jumeau numérique, simulation physique, rendu temps réel, réalité virtuelle, formation professionnelle]
+  Employees: 75
+
+- Name: Diagnoly
+  url: https://www.diagnoly.com/
+  Description: Medtech lyonnaise qui développe Fetoly, assistant d'IA embarqué temps réel pour l'échographie prénatale (sélection d'images, mesures, contrôle de complétude), intégré aux échographes GE HealthCare.
+  Jobs: https://www.diagnoly.com/careers/
+  Place:
+    - City: Lyon
+      Coordinates: [45.76108, 4.86248]
+      SIREN: '882659360'
+      Address: 2 Place de Francfort, 69003 Lyon
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie médicale, échographie, deep learning, diagnostic, dispositif médical]
+  Employees: 4
+
+- Name: AVA
+  url: https://www.ava-ux.com/
+  Description: Éditeur près de Lyon d'instructions de travail digitales qui transforment les modèles 3D CAO en guides d'assemblage et de maintenance interactifs pour les opérateurs industriels.
+  Place:
+    - City: Saint-Bonnet-de-Mure
+      Coordinates: [45.70422, 5.01401]
+      SIREN: '912839362'
+      Address: 11bis Avenue Gaspard Monge, 69720 Saint-Bonnet-de-Mure
+  Scientific-domain: [Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Keywords: [CAO, instructions de travail 3D, visualiseur 3D, industrie/usinage, web 3D]
+  Employees: 4
+
+- Name: 3Deus Dynamics
+  url: https://3deusdynamics.com/
+  Description: Industriel de Rillieux-la-Pape qui imprime en 3D des pièces en silicone grâce à un procédé breveté de moulage dynamique en milieu granulaire (modèles anatomiques, dispositifs médicaux, aéronautique).
+  Place:
+    - City: Rillieux-la-Pape
+      Coordinates: [45.81764, 4.88081]
+      SIREN: '890216609'
+      Address: 466 Rue des Mercières, 69140 Rillieux-la-Pape
+  Scientific-domain: [Design/Fabrication]
+  Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO]
+  Keywords: [fabrication additive, silicone, dispositif médical, aéronautique]
+  Employees: 35
+
+- Name: Navya
+  Name-long: Navya Mobility
+  url: https://www.navya.tech/
+  Description: Concepteur villeurbannais de véhicules autonomes (navettes, tracteurs) et de leur pile logicielle Navya Drive, dont la perception multi-capteurs.
+  Place:
+    - City: Villeurbanne
+      Coordinates: [45.76449, 4.88321]
+      SIREN: '952055077'
+      Address: 1 Rue du Docteur Pierre-Fleury Papillon, 69100 Villeurbanne
+  Scientific-domain: [Vision, Acquisition]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
+  Keywords: [véhicule autonome, lidar, vision par ordinateur, robotique]
+  Employees: 150
+
+- Name: Medicrea
+  Name-long: Medicrea International (Medtronic)
+  url: https://www.medicrea.com/
+  Description: 'Medtech de Rillieux-la-Pape (groupe Medtronic) pionnière de la chirurgie du rachis personnalisée : planification préopératoire UNiD ASI et implants sur mesure imprimés en 3D.'
+  Place:
+    - City: Rillieux-la-Pape
+      Coordinates: [45.83790, 4.91438]
+      SIREN: '393175807'
+      Address: 5389 Route de Strasbourg, 69140 Rillieux-la-Pape
+  Scientific-domain: [Imagerie, Design/Fabrication]
+  Application-domain: [Médical/Biologique]
+  Keywords: [planification chirurgicale, imagerie médicale, fabrication additive, orthopédie, dispositif médical]
+  Employees: 150
+
+- Name: EDAP TMS
+  Name-long: EDAP-TMS France
+  url: https://focalone.com/
+  Description: Fabricant de Vaulx-en-Velin de dispositifs à ultrasons focalisés (HIFU) robotisés, dont Focal One qui fusionne en 3D IRM, biopsies et échographie temps réel pour traiter le cancer de la prostate.
+  Place:
+    - City: Vaulx-en-Velin
+      Coordinates: [45.75420, 4.92548]
+      SIREN: '394804447'
+      Address: 4-6 Rue du Dauphiné, 69120 Vaulx-en-Velin
+  Scientific-domain: [Imagerie, Hardware]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie médicale, échographie, fusion d'images, chirurgie assistée, dispositif médical]
+  Employees: 150
+
+- Name: Roboptic
+  url: https://www.roboptic.fr/
+  Description: 'Spécialiste stéphanois de la vision industrielle et intégrateur robotique : systèmes de vision standards, cellules robotisées guidées par caméra et postes de contrôle sur mesure avec IA.'
+  Place:
+    - City: Saint-Étienne
+      Coordinates: [45.46231, 4.41484]
+      SIREN: '820089316'
+      Address: 16 Rue de Méons, 42000 Saint-Étienne
+  Scientific-domain: [Vision]
+  Application-domain: [Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO]
+  Keywords: [vision par ordinateur, robotique, contrôle qualité, industrie/usinage, deep learning]
+  Employees: 8
+
+- Name: Visiativ
+  url: https://www.visiativ.com/
+  Description: Groupe lyonnais intégrateur des solutions Dassault Systèmes (SOLIDWORKS, CATIA, 3DEXPERIENCE, SIMULIA) et éditeur de logiciels PLM/CPQ pour l'industrie.
+  Jobs: https://jobs.visiativ.com/jobs
+  Place:
+    - City: Charbonnières-les-Bains
+      Coordinates: [45.77612, 4.74898]
+      SIREN: '395008246'
+      Address: 26 Rue Benoit Bennier, 69260 Charbonnières-les-Bains
+  Scientific-domain: [Design/Fabrication, Simulation]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Keywords: [CAO, PLM, SOLIDWORKS, 3DEXPERIENCE, simulation physique]
+  Employees: 150
+
+- Name: Elcia
+  url: https://www.elcia.com/
+  Description: Éditeur de Brignais de logiciels pour la menuiserie et la fermeture, dont des configurateurs 3D en ligne (MyConfigurator) pour chiffrer et visualiser les produits.
+  Jobs: https://www.elcia.com/nos-offres-demploi/
+  Place:
+    - City: Brignais
+      Coordinates: [45.68649, 4.76982]
+      SIREN: '421596016'
+      Address: 256 Avenue Marcel Merieux, 69530 Brignais
+  Scientific-domain: [Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
+  Keywords: [e-commerce/configurateur 3D, web 3D, menuiserie, architecture]
+  Employees: 150
