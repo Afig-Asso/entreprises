@@ -14,6 +14,7 @@ meta = {
     'filename_yaml_keywords': 'keywords.yaml',
     'filename_yaml_url_exceptions': 'url_exceptions.yaml',
     'filename_yaml_places': 'places.yaml',
+    'filename_yaml_zones': 'zones.yaml',
     'filename_json_out': 'json/data.json',
     'filename_md_out': 'README.md'
 }
@@ -303,6 +304,7 @@ if __name__ == "__main__":
     filename_yaml_keywords = root_path+'/../'+meta['filename_yaml_keywords']
     filename_yaml_url_exceptions = root_path+'/../'+meta['filename_yaml_url_exceptions']
     filename_yaml_places = root_path+'/../'+meta['filename_yaml_places']
+    filename_yaml_zones = root_path+'/../'+meta['filename_yaml_zones']
     filename_json_out = root_path+'/../'+meta['filename_json_out']
     filename_md_out = root_path+'/../'+meta['filename_md_out']
 
@@ -333,6 +335,12 @@ if __name__ == "__main__":
     for country, city in places_missing:
         print(f'!! Warning: no coordinates for place [{places.place_key(country, city)}] in places.yaml (run scripts/geocode_places.py)')
 
+    # Zones of the French cities, for the place view of the site (zones.yaml): ex. Villeurbanne -> Lyon
+    zones_yaml = liblisting.yaml_read_file(filename_yaml_zones) if os.path.isfile(filename_yaml_zones) else {}
+    zones, zones_problems = places.zones_table(data, zones_yaml)
+    for problem in zones_problems:
+        print(f'!! Warning: zones.yaml: {problem}')
+
     # export json
     # 'Updated' only changes when the content changes, so that regenerating does not create a diff
     updated = datetime.date.today().isoformat()
@@ -340,11 +348,11 @@ if __name__ == "__main__":
         with open(filename_json_out) as fid:
             try:
                 previous = json.load(fid)
-                if previous.get('Keywords') == data_keywords and previous.get('Listing') == data and previous.get('Places') == places_coordinates and 'Updated' in previous:
+                if previous.get('Keywords') == data_keywords and previous.get('Listing') == data and previous.get('Places') == places_coordinates and previous.get('Zones') == zones and 'Updated' in previous:
                     updated = previous['Updated']
             except json.JSONDecodeError:
                 pass
-    json_data = {'Updated':updated, 'Keywords':data_keywords, 'Places':places_coordinates, 'Listing':data}
+    json_data = {'Updated':updated, 'Keywords':data_keywords, 'Places':places_coordinates, 'Zones':zones, 'Listing':data}
     with open(filename_json_out, 'w') as json_fid:
         json.dump(json_data, json_fid, indent=4)
 

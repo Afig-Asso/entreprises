@@ -475,8 +475,32 @@ function place_count(N) {
     return `<span class="place-count">${plural_companies(N)}</span>`;
 }
 
+// Zone of a French city (zones.yaml, exported in data.json 'Zones'): ex. Villeurbanne -> Lyon.
+// A city absent from the table is its own zone.
+function french_zone(city) {
+    const zones = (company_data && company_data['Zones']) || {};
+    return zones[city] || city;
+}
+
+// Cities of a zone where the listed companies are, when they are not just the zone name
+function zone_cities(zone, entries) {
+    const cities = new Set();
+    for(const entry of entries) {
+        for(const p of get_list_places_exhaustive(get_list_places(entry['Place']))) {
+            const city = String(p['City'] || '').trim();
+            if((p['Country']==undefined || p['Country']=='France') && city!='' && french_zone(city)==zone) {
+                cities.add(city);
+            }
+        }
+    }
+    const list = [...cities].sort(compare_fr);
+    return (list.length==1 && list[0]==zone) ? [] : list;
+}
+
 function display_city(city, entries) {
-    let txt = `<h3 class="title-place title-city" id="${place_id('ville', city)}" tabindex="-1">${city} ${place_count(entries.length)}</h3>\n`;
+    const cities = zone_cities(city, entries);
+    const cities_txt = cities.length==0 ? '' : ` <span class="zone-cities">${cities.join(', ')}</span>`;
+    let txt = `<h3 class="title-place title-city" id="${place_id('ville', city)}" tabindex="-1">${city}${cities_txt} ${place_count(entries.length)}</h3>\n`;
     txt += '<div class="container-place-city">\n' + display_list(entries, 4) + '</div>\n';
     return txt;
 }
@@ -515,13 +539,14 @@ function display_company(data, N_displayed) {
     const all_countries = Object.keys(data).sort(compare_fr);
     const other_countries = all_countries.filter((c) => c!='France');
 
-    // Display France first, sorted by city, Paris first
+    // Display France first, sorted by zone (zones.yaml), the zone of Paris first
     const french_entries = data['France'];
     let cities = [];
     if(french_entries != undefined) {
-        cities = Object.keys(french_entries).sort(compare_fr).filter((c) => c!='Paris');
-        if(french_entries['Paris']!=undefined) {
-            cities.unshift('Paris');
+        const paris = french_zone('Paris');
+        cities = Object.keys(french_entries).sort(compare_fr).filter((c) => c!=paris);
+        if(french_entries[paris]!=undefined) {
+            cities.unshift(paris);
         }
     }
     HTML_txt += display_place_index(cities, french_entries, other_countries, data);
@@ -584,8 +609,8 @@ function sort_by_place(data) {
                 }
             }
 
-            if(country=='France') { // France is also sorted by city
-                const city = String(place['City'] || '').trim();
+            if(country=='France') { // France is also sorted by zone of cities (ex. Villeurbanne -> Lyon)
+                const city = french_zone(String(place['City'] || '').trim());
                 if(city=='') {
                     console.log("Error reading city for entry", entry);
                     continue;
@@ -1098,7 +1123,7 @@ function map_groups(entries) {
                 const country_only = loc['City']=='';
                 const label = country_only ? loc['Country'] : (loc['Country']=='France' ? loc['City'] : `${loc['City']} (${loc['Country']})`);
                 // heading of the place view to jump to: French city, or country
-                const list_id = (loc['Country']=='France' && !country_only) ? place_id('ville', loc['City']) : place_id('pays', loc['Country']);
+                const list_id = (loc['Country']=='France' && !country_only) ? place_id('ville', french_zone(loc['City'])) : place_id('pays', loc['Country']);
                 groups.set(group_key, {'label': label, 'coords': coords, 'country_only': country_only, 'list_id': list_id, 'entries': [], 'addresses': []});
             }
             groups.get(group_key)['entries'].push(entry);

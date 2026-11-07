@@ -74,6 +74,23 @@ def all_locations(data):
     return locations
 
 
+def zones_table(data, zones):
+    """Table French city -> zone name for data.json (zones.yaml), and the list of problems found.
+
+    Cities absent from zones.yaml are their own zone and are not in the table."""
+    table, problems = {}, []
+    french_cities = {city for country, city in all_locations(data) if country == 'France' and city != ''}
+    for zone, cities in (zones or {}).items():
+        for city in split_names(cities):
+            if city in table:
+                problems.append(f'city [{city}] is in two zones: [{table[city]}] and [{zone}]')
+                continue
+            if city not in french_cities:
+                problems.append(f'city [{city}] of zone [{zone}] is not used in data.yaml')
+            table[city] = zone
+    return table, problems
+
+
 def coordinates_table(data, places_table):
     """Table key -> [lat, lon] for data.json, and the list of locations without coordinates."""
     table, missing = {}, []

@@ -480,6 +480,8 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     font-size: 1.15rem; font-weight: 700; color: var(--afig-800);
     margin: 1.75rem 0 0.4rem; padding: 0 0.25rem 0.4rem; border-bottom: 0; align-items: center;
 }
+.title-city .zone-cities { font-family: var(--font); font-weight: 400; font-size: 0.85rem; color: var(--muted); letter-spacing: 0; }
+.title-city .zone-cities::before { content: '· '; }
 .title-city .place-count {
     padding: 1px 9px; border-radius: 999px; background: var(--afig-100);
     color: var(--afig-800); font-size: 0.72rem; font-weight: 700;
