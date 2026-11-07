@@ -302,6 +302,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://join.com/companies/archi-graphi)
 
 
+* **[Argolight](https://argolight.com/)**  
+  * _Société pessacaise qui conçoit des lames et microplaques de calibration fluorescentes (gravure laser) et le logiciel associé pour mesurer la résolution et contrôler la qualité des systèmes d'imagerie de fluorescence._
+  * **Mots clés**: _imagerie scientifique, microscopie, métrologie, calibration, analyse d'images_
+  * **Produits**: Calibration Slides, Daybook (logiciel)
+  * **Localisation**: Pessac
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Imagerie, Acquisition
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Arkane Studios](https://www.arkane-studios.com/fr)**  
   * _Studio lyonnais de jeux AAA en vue subjective (Dishonored, Prey, Deathloop), filiale de ZeniMax/Microsoft, actuellement sur Marvel's Blade._
   * **Mots clés**: _AAA, console/PC, jeu en vue subjective, immersive sim, moteur maison, Dishonored_
@@ -310,6 +320,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.arkane-studios.com/fr#studios)
+
+
+* **[Arkhênum](https://www.arkhenum.fr/)** (Memorist (Arkhênum)) 
+  * _Société bordelaise (groupe Memorist) de numérisation 2D, 3D et 360° du patrimoine (archives, bibliothèques, musées, collections industrielles) et de valorisation des fonds numérisés._
+  * **Mots clés**: _numérisation patrimoniale, photogrammétrie, scanner 3D, traitement d'images, archives_
+  * **Remarque**: _Entité légale MEMORIST (marque Arkhênum), établissement principal 7 rue Joseph Bonnet, Bordeaux._
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Acquisition, Imagerie, Web/Cloud/Big Data
+  * **Domaine d'application**: Patrimoine/Culture
 
 
 * **[Armada Studios](https://armada-studios.com/)**  
@@ -441,6 +461,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://bentleysystems.wd5.myworkdayjobs.com/bentley)
 
 
+* **[Beview](https://www.beview.fr/)**  
+  * _Agence du Barp (près de Bordeaux) associant ingénieurs et artistes pour concevoir des applications de réalité virtuelle et augmentée et des films et visuels en image de synthèse pour l'industrie (sécurité, maintenance, logistique)._
+  * **Mots clés**: _réalité virtuelle, réalité augmentée, animation 3D, serious game_
+  * **Localisation**: Le Barp
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: VR/AR, Animation, Visualisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+
+
 * **[Big Company](https://www.bigcompany.fr/)**  
   * _Studio lyonnais fondé en 2001 de production audiovisuelle, d'animation 2D/3D et de contenus interactifs et immersifs (3D temps réel, VR/AR, mapping, serious games)._
   * **Mots clés**: _animation 3D, rendu temps réel, événementiel/mapping, publicité_
@@ -548,6 +577,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://buf.com/jobs/)
+
+
+* **[Bureau 81](https://store.steampowered.com/app/1771980/The_Operator/)**  
+  * _Studio indépendant bordelais créé en 2024, développeur et éditeur du jeu d'enquête The Operator (2024)._
+  * **Mots clés**: _jeu indépendant, console/PC, jeu narratif_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Cavrnus](https://www.cavrnus.com/)**  
@@ -690,6 +728,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Damnatio Games](https://damnatiogames.com/)**  
+  * _Studio de jeux vidéo fondé à Bordeaux en 2021, auteur du jeu multijoueur en ligne Heat and Run (Steam, 2022) et de Teamcrafter, qui collabore aussi avec d'autres studios en game design et UX._
+  * **Mots clés**: _jeu indépendant, multijoueur en ligne, console/PC_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
   * _Éditeur français de logiciels de conception, simulation et gestion du cycle de vie produit (CATIA, SOLIDWORKS, SIMULIA, 3DEXPERIENCE) pour l'industrie et la santé._
   * **Mots clés**: _CAO, PLM, simulation physique, éléments finis, jumeau numérique, CATIA, SOLIDWORKS, aéronautique_
@@ -707,6 +753,26 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Lyon
   * **Domaine scientifique/technique**: Géométrie, Design/Fabrication, Modélisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Générique
+
+
+* **[Deepnight Games](https://deepnight.net/)**  
+  * _Studio bordelais de Sébastien Bénard (directeur de Dead Cells) qui développe des jeux indépendants (Nuclear Blaze) et l'éditeur de niveaux 2D open source LDtk._
+  * **Mots clés**: _jeu indépendant, console/PC, plugin/logiciel pour artistes, level design_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Pipeline/Outils de production, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[DESKi](https://www.heartfocus.ai/)**  
+  * _Healthtech bordelaise qui édite HeartFocus, logiciel d'échographie cardiaque assisté par IA (guidage 3D de la sonde en temps réel, superpositions visuelles, score de qualité d'image), autorisé par la FDA._
+  * **Mots clés**: _imagerie médicale, échographie, deep learning, guidage, réalité augmentée_
+  * **Remarque**: _HeartFocus est une marque de DESKi (le domaine deski.ai redirige vers heartfocus.ai)._
+  * **Produits**: HeartFocus, HeartFocus Link
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Imagerie, Vision, VR/AR
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.heartfocus.ai/careers)
 
 
 * **[Diagnoly](https://www.diagnoly.com/)**  
@@ -775,6 +841,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Médical/Biologique
+
+
+* **[Doxa Vision](https://www.doxa-vision.com/)**  
+  * _Entreprise de mapping vidéo créée en 2020 (Floirac, près de Bordeaux, et Lyon) qui conçoit des projections mapping sur bâtiments, objets et décors pour l'événementiel, le sport, les vignobles ou la restauration._
+  * **Mots clés**: _événementiel/mapping, motion design_
+  * **Localisation**: Floirac
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Art/Evenementiel
 
 
 * **[Draw Me A Pixel](https://drawmeapixel.com/)**  
@@ -1049,6 +1123,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Fygostudio](https://fygostudio.com/)**  
+  * _Studio d'animation et société de production bordelaise réalisant des films publicitaires et du brand content en animation 2D, 3D et techniques mixtes au rendu pictural._
+  * **Mots clés**: _animation 2D, animation 3D, publicité, motion design_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Commerce/Marketing/Publicité
+
+
 * **[Gameleon Studio](https://gameleon-studio.fr/)**  
   * _Studio lyonnais de production d'art 2D/3D pour le jeu vidéo (personnages, environnements, FX, optimisation) sous Unity, Unreal et moteurs propriétaires, qui développe aussi ses propres jeux._
   * **Mots clés**: _game art, co-développement, environnements numériques_
@@ -1098,6 +1180,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://geometryfactory.com/open-positions/)
 
 
+* **[Geosat](https://www.geo-sat.com/)**  
+  * _Groupe de géomètres-experts dont le siège est à Canéjan, spécialisé dans la mesure 3D : scan laser et modélisation BIM/CIM, cartographie mobile lidar, détection de réseaux et SIG._
+  * **Mots clés**: _scanner 3D, lidar, nuage de points, cartographie mobile, SIG, jumeau numérique_
+  * **Remarque**: _Réseau national de cabinets ; siège et principal établissement à Canéjan (Gironde)._
+  * **Localisation**: Canéjan, Bordeaux, Villenave-d'Ornon, Libourne
+  * **Nombres d'employés**: 375
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation
+  * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
+
+
 * **[Gleamer](https://www.gleamer.ai/)**  
   * _Éditeur français de logiciels d'IA pour la radiologie (BoneView, ChestView, BreastView...) d'aide à la détection sur radiographie, scanner, mammographie et IRM._
   * **Mots clés**: _imagerie médicale, diagnostic, deep learning, radiologie, dispositif médical_
@@ -1105,6 +1197,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Glitchr Studio](https://www.glitchr-studio.com/)**  
+  * _Studio indépendant bordelais d'ingénieurs multimédia et d'artistes spécialisé dans les jeux et expériences en réalité virtuelle et augmentée (Taiko Frenzy), les installations interactives et les applications mobiles._
+  * **Mots clés**: _réalité virtuelle, réalité augmentée, jeu indépendant, Unity_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
 * **[Goblinz Studio](https://goblinz.com/)**  
@@ -1180,6 +1280,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://hari-studios.com/recrutements/)
 
 
+* **[Hectiq](https://hectiq.games/)**  
+  * _Studio de développement de jeux vidéo fondé à Bordeaux en 2023, qui développe Painted Kingdoms en misant sur la créativité, le gameplay et l'innovation technique._
+  * **Mots clés**: _jeu indépendant, console/PC, multijoueur en ligne_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://hectiq.games/careers)
+
+
 * **[Hexagon](https://hexagon.com/)**  
   * _Groupe suédois de technologies de mesure et de géospatial (Leica Geosystems, Intergraph) : métrologie, scanners laser, positionnement, logiciels pour l'industrie et les infrastructures._
   * **Mots clés**: _métrologie, lidar, scanner 3D, SIG, jumeau numérique, Leica Geosystems, industrie/usinage_
@@ -1219,6 +1329,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: France/Pertuis
   * **Domaine scientifique/technique**: Vision, Acquisition, Simulation, Design/Fabrication
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense
+
+
+* **[i2S](https://i2s.fr/)** (Innovative Imaging Solutions (I2S)) 
+  * _Concepteur et fabricant pessacais de caméras techniques, de systèmes de vision intégrée et de scanners de numérisation patrimoniale (livres, documents grand format) avec leurs logiciels de traitement d'image._
+  * **Mots clés**: _vision par ordinateur, caméras, numérisation patrimoniale, scanner 3D, traitement d'images_
+  * **Localisation**: Pessac, Cestas
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Acquisition, Vision, Imagerie, Hardware
+  * **Domaine d'application**: Patrimoine/Culture, Industrie/Manufacturing/CAO, Sécurité/Défense
 
 
 * **[Iconem](https://iconem.com/)**  
@@ -1283,6 +1402,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.imaginationtech.com/careers/vacancies/)
 
 
+* **[Imagine Optic](https://www.imagine-optic.com/)**  
+  * _Fabricant d'analyseurs de front d'onde (Shack-Hartmann), de miroirs déformables et de logiciels d'optique adaptative et de métrologie optique, avec un établissement à Talence._
+  * **Mots clés**: _métrologie, optique adaptative, laser, microscopie, front d'onde_
+  * **Remarque**: _Siège à Orsay ; établissement actif de petite taille à Talence (l'ancien établissement de la Cité de la Photonique à Pessac est fermé). Effectif = tranche de l'entreprise._
+  * **Localisation**: Orsay, Talence
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Acquisition, Imagerie, Hardware
+  * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO, Générique
+
+
 * **[Imajing](https://imajing.eu/)**  
   * _Concepteur de systèmes de cartographie mobile (capteurs embarqués, images et lidar) et de logiciels d'exploitation 3D géoréférencée._
   * **Mots clés**: _cartographie mobile, lidar, SIG, gestion d'infrastructures, nuage de points, routes_
@@ -1298,6 +1427,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Bordeaux
   * **Domaine scientifique/technique**: VR/AR, Visualisation, IHM/Haptique
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+
+
+* **[In Extenso Studio](https://www.inextenso.studio/)**  
+  * _Agence bordelaise de visualisation architecturale fondée par un architecte-perspectiviste, produisant images et films 3D de projets publics et privés (écoles, EHPAD, équipements culturels)._
+  * **Mots clés**: _architecture, rendu photoréaliste, perspective_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme
 
 
 * **[Inbolt](https://www.inbolt.com/)**  
@@ -1499,6 +1636,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Logyline](https://logyline.com/)**  
+  * _Éditeur mérignacais de logiciels de conception 3D pour l'aménagement extérieur (piscines, ombrage, paysagisme, bâches) avec rendu 3D et visite en réalité virtuelle._
+  * **Mots clés**: _CAO, conception 3D, rendu temps réel, réalité virtuelle, e-commerce/configurateur 3D_
+  * **Produits**: Logyline Studio Piscine, Logyconcept3D, Logydraw
+  * **Localisation**: Mérignac
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Design/Fabrication, Modélisation, Visualisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
+
+
 * **[LS Group](https://www.ls-group.fr/)** (LS Group (ex Light and Shadows)) 
   * _Solutions 3D temps réel : jumeaux numériques, VR/AR et visuels pour la conception, la fabrication et la vente_
   * **Mots clés**: _jumeau numérique, rendu temps réel, réalité virtuelle, réalité augmentée, e-commerce/configurateur 3D, NVIDIA Omniverse, industrie/usinage_
@@ -1545,12 +1692,30 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense, Automobile/Navigation/Aviation
 
 
+* **[Lynxdrone](https://www.lynxdrone.fr/)**  
+  * _Fabricant girondin de drones et robots d'inspection en milieux confinés (réseaux d'eau, bâtiments, sites industriels) et prestataire de numérisation 3D._
+  * **Mots clés**: _drone, inspection, scanner 3D, nuage de points, robotique_
+  * **Localisation**: Canéjan, Saint-Médard-en-Jalles
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Hardware
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Architecture/BTP/Urbanisme, Énergie/Environnement
+
+
 * **[M-Covision](https://fr.mcovision.com/)**  
   * _Cabinet de conseil et R&D en IA spécialisé en vision par ordinateur (deep learning), avec des projets en imagerie médicale, biologie et industrie._
   * **Mots clés**: _vision par ordinateur, deep learning, conseil R&D, imagerie médicale, segmentation, formation professionnelle_
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Vision, Analyse de données
   * **Domaine d'application**: Générique
+
+
+* **[M4VFX](https://www.m4vfx.com/)**  
+  * _Studio de Pessac spécialisé en matchmove/tracking 3D, layout et modélisation pour les effets visuels de longs métrages, séries, publicités et jeux (John Wick 4, The Nun II, Les Animaux Fantastiques 3)._
+  * **Mots clés**: _effets visuels, matchmove, tracking caméra, layout, long métrage_
+  * **Localisation**: Pessac
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Reconstruction, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Mac Guff](https://macguff.com)** (Mac Guff Ligne) 
@@ -1570,6 +1735,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Maelstrom Studios](https://www.maelstrom-studios.fr/)**  
+  * _Studio de post-production de Bègles (étalonnage, VFX, 3D photoréaliste, motion design) intervenant sur des longs métrages, documentaires TV et films publicitaires._
+  * **Mots clés**: _effets visuels, post-production, motion design, long métrage, publicité_
+  * **Localisation**: Bègles
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
 * **[Magic Design Studios](https://www.magicdesignstudios.com/)**  
   * _Studio de jeux vidéo et d'animation fondé par d'anciens d'Ubisoft Montpellier (Unruly Heroes)._
   * **Mots clés**: _jeu indépendant, console/PC, jeu 2D, animation 2D, jeu d'action_
@@ -1586,6 +1760,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: États-Unis/Florida, États-Unis/Colorado
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Générique
+
+
+* **[Manufacture 43](https://manufacture43.com/)**  
+  * _Studio indépendant de jeux vidéo bordelais (Pawarumi, Highway to Heal) sortis sur PC, Switch, Xbox One et PS4, qui propose aussi des services de développement._
+  * **Mots clés**: _jeu indépendant, console/PC, co-développement_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Manus](https://www.manus-meta.com/)**  
@@ -1716,6 +1899,24 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
 
 
+* **[Midralgar](https://www.midralgar.fr/)**  
+  * _Maison de production bordelaise (SARL Marmitafilms, nom commercial Midralgar depuis 2020) de films d'animation, documentaires et fiction, dotée depuis 2015 d'un atelier d'animation dans ses locaux à Bordeaux._
+  * **Mots clés**: _animation 2D, court métrage, long métrage, séries d'animation_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Mikimo Studio](https://mikimostudio.com/)**  
+  * _Studio bordelais de motion design et VFX 2D/3D fondé en 2016 (films institutionnels, génériques et séquences 3D de documentaires, habillages TV) travaillant sous Cinema 4D, Arnold, RealFlow et X-Particles._
+  * **Mots clés**: _motion design, animation 3D, effets visuels, publicité_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+
+
 * **[Mikros Animation](https://www.mikrosanimation.com/fr/)**  
   * _Studio d'animation CG (groupe Rodeo FX) produisant longs métrages et séries au rendu stylisé, notamment Orion and the Dark, La Pat' Patrouille : le film et Teenage Mutant Ninja Turtles._
   * **Mots clés**: _animation 3D, long métrage, séries d'animation, rendu stylisé, Rodeo FX_
@@ -1724,6 +1925,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.mikrosanimation.com/en/people-and-culture/careers/)
+
+
+* **[Milk VFX](https://www.milk-vfx.com/)**  
+  * _Studio d'effets visuels britannique primé (séries haut de gamme et longs métrages) qui a ouvert en 2023 un studio à Bordeaux, aux côtés de Londres, Barcelone et Dublin._
+  * **Mots clés**: _effets visuels, long métrage, séries TV, compositing_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.milk-vfx.com/careers/)
 
 
 * **[Million Victories](https://millionvictories.com/)**  
@@ -1872,6 +2083,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Netcarbon](https://www.netcarbon.fr/)**  
+  * _Éditeur bordelais d'une application de cartographie environnementale qui analyse l'imagerie satellite et aérienne par IA pour mesurer et simuler l'impact de projets d'aménagement et de renaturation._
+  * **Mots clés**: _imagerie satellite, SIG, deep learning, cartographie, simulation_
+  * **Localisation**: Bordeaux, Mérignac
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Vision, Analyse de données, Web/Cloud/Big Data
+  * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement, Architecture/BTP/Urbanisme
+
+
 * **[Neural Concept](https://www.neuralconcept.com/)**  
   * _Plateforme d'IA pour l'ingénierie qui prédit les performances physiques de designs 3D (CFD, structure) afin d'accélérer la conception, utilisée par des constructeurs automobiles et aéronautiques._
   * **Mots clés**: _deep learning, simulation physique, CAO, conception assistée par IA, automobile, aéronautique_
@@ -1918,6 +2138,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.noid-studio.com/join-us)
+
+
+* **[Nova-box](https://www.nova-box.com/)**  
+  * _Studio et éditeur bordelais de jeux narratifs (romans graphiques interactifs After the Wane, End of Lines) pour PC, Mac, Linux et Switch, fondé en 2007._
+  * **Mots clés**: _jeu indépendant, console/PC, jeu narratif_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[NovaQuark](https://www.novaquark.com/)**  
@@ -2014,6 +2243,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[optim.aize](https://optimaize.fr/)**  
+  * _Start-up bordelaise qui édite YAAPS, plateforme de jumeau numérique d'infrastructures combinant capteurs IoT, imagerie drone et satellite (InSAR), IA et SIG._
+  * **Mots clés**: _jumeau numérique, SIG, imagerie satellite, drone, photogrammétrie_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Vision, Web/Cloud/Big Data, Analyse de données
+  * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement, Architecture/BTP/Urbanisme
+
+
 * **[OptiTrack](https://optitrack.com/)**  
   * _Fabricant américain (NaturalPoint) de systèmes de motion capture optique utilisés en production virtuelle, tracking VR, biomécanique et robotique._
   * **Mots clés**: _motion capture, caméras infrarouges, production virtuelle, tracking caméra, réalité virtuelle, biomécanique, robotique_
@@ -2021,6 +2259,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Acquisition, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://optitrack.com/careers)
+
+
+* **[Orbit Studio](https://orbit.studio/)**  
+  * _Studio d'animation 3D bordelais spécialisé dans les contenus haut de gamme : films de marque pour le luxe, projections monumentales et immersives, motion design 3D et VFX pour prise de vue réelle._
+  * **Mots clés**: _animation 3D, motion design, effets visuels, exposition immersive, publicité_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel
 
 
 * **[Oslandia](https://oslandia.com/)**  
@@ -2122,6 +2369,26 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://pixel-wizards.com/jobs/)
 
 
+* **[Playwing](https://www.playwing.com/)**  
+  * _Développeur et éditeur indépendant fondé en 2017 (Playwing Ltd, établissement à Bordeaux) auteur du jeu multijoueur en ligne de combats de dragons Century: Age of Ashes et du jeu de stratégie Instant War._
+  * **Mots clés**: _multijoueur en ligne, console/PC, mobile, Unreal Engine_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.playwing.com/#careers)
+
+
+* **[Pollen Robotics](https://pollen-robotics.com/)**  
+  * _Start-up bordelaise, filiale de Hugging Face depuis 2025, qui conçoit des robots humanoïdes et expressifs open source (Reachy 2, Reachy Mini) avec perception par caméras et téléopération en réalité virtuelle._
+  * **Mots clés**: _robotique, vision par ordinateur, téléopération, réalité virtuelle, open source_
+  * **Remarque**: _Rachetée par Hugging Face (non présente dans le listing)._
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Vision, VR/AR, Hardware
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Générique
+
+
 * **[PopcornFX](https://www.popcornfx.com/)**  
   * _Suite d'outils de création et moteur runtime d'effets de particules temps réel, intégrée à Unreal Engine, Unity, Godot et O3DE et utilisée dans des jeux AAA (Forza Horizon, WWE 2K)._
   * **Mots clés**: _middleware, effets de particules, rendu temps réel, Unreal Engine, Unity, plugin/logiciel pour artistes, programmation visuelle_
@@ -2211,6 +2478,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://jobs.eu.lever.co/quanticdream)
 
 
+* **[R&D Vision](https://www.rd-vision.com/)**  
+  * _Groupe spécialisé dans la conception de systèmes d'imagerie (caméras rapides, vision industrielle, solutions optiques et IA) pour l'aérospatial, le ferroviaire et l'industrie, avec un bureau à Bordeaux._
+  * **Mots clés**: _vision par ordinateur, caméras rapides, deep learning, aéronautique, métrologie_
+  * **Remarque**: _Siège à Saint-Maur-des-Fossés ; établissement bordelais de très petite taille (1-2 salariés). Effectif = tranche de l'entreprise._
+  * **Localisation**: Saint-Maur-des-Fossés, Bordeaux
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Acquisition, Vision, Imagerie
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO
+
+
 * **[Ranch Computing](https://www.ranchcomputing.com/)**  
   * _Ferme de rendu en ligne CPU/GPU pour les logiciels 3D (Arnold, V-Ray, Redshift, Octane, Cycles, RenderMan...)._
   * **Mots clés**: _ferme de rendu, cloud/streaming, GPU, path tracing, Blender, Houdini_
@@ -2218,6 +2495,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu offline/VFX, Web/Cloud/Big Data
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Générique
+
+
+* **[Ratel Studio](https://ratel-studio.com/)**  
+  * _Studio de jeux vidéo girondin (Espiet) qui développe Toria, MMORPG sandbox médiéval, ainsi que le jeu tactique spatial Hunter Oden et le jeu mobile Onima._
+  * **Mots clés**: _multijoueur en ligne, jeu indépendant, mobile, console/PC_
+  * **Localisation**: Espiet
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Reemo](https://reemo.io/)**  
@@ -2228,6 +2514,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Web/Cloud/Big Data, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Générique
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/reemo)
+
+
+* **[Revelt](https://www.revelt-vs.com/)**  
+  * _Studio de visualisation et de perspective 3D photoréaliste (Bordeaux et Paris) pour architectes, promoteurs et aménageurs._
+  * **Mots clés**: _architecture, rendu photoréaliste, perspective_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme
 
 
 * **[Ride FX](https://ride-fx.com/)**  
@@ -2392,6 +2686,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Générique
 
 
+* **[Soqut Imaging](https://soqut-imaging.com/)**  
+  * _Start-up de Bègles qui développe ELiBio, logiciel breveté de biopsie numérique du foie par analyse d'images IRM pour le diagnostic précoce de la MASH._
+  * **Mots clés**: _imagerie médicale, IRM, segmentation, analyse quantitative, diagnostic_
+  * **Produits**: ELiBio
+  * **Localisation**: Bègles
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[SpirOPS](https://www.spirops.com/)**  
   * _Laboratoire indépendant d'IA depuis 2004 : simulateur de foules, moteur d'animation procédurale temps réel, IA décisionnelle pour véhicules et trains autonomes (Stellantis, SNCF, Alstom)._
   * **Mots clés**: _simulation de foules, animation procédurale, véhicule autonome, agents autonomes, IA décisionnelle, ferroviaire_
@@ -2470,6 +2774,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Mots clés**: _réalité augmentée, jeu géolocalisé, tourisme, patrimoine/musée, mobile, chasse au trésor_
   * **Localisation**: Royaume-Uni/Londres
   * **Domaine scientifique/technique**: Vision, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Studio Black Flag](https://studioblackflag.com/)**  
+  * _Studio indépendant bordelais de jeux PC/Mac/Linux (Orphan Age, Yrminsul, Click of Cthulhu)._
+  * **Mots clés**: _jeu indépendant, console/PC, Mac/Linux_
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
 
 
@@ -2896,6 +3208,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://careers.wetafx.co.nz/)
 
 
+* **[Weviz](https://weviz.com/)** (Meshroom VR (Weviz)) 
+  * _Éditeur bordelais (ex-MeshroomVR) d'un logiciel de visualisation 3D et VR pour revoir des maquettes CAO industrielles en collaboratif sans être expert CAO._
+  * **Mots clés**: _CAO, réalité virtuelle, rendu temps réel, revue de projet, visualisation 3D_
+  * **Remarque**: _Entité légale MESHROOM VR active à Bordeaux, mais sans effectif déclaré ni comptes publiés récents : activité à confirmer._
+  * **Localisation**: Bordeaux
+  * **Domaine scientifique/technique**: Visualisation, VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
+
+
 * **[Wolcen Studio](https://wolcengame.com/)**  
   * _Studio indépendant de jeux d'action-RPG hack'n'slash sur PC et consoles (Wolcen: Lords of Mayhem)._
   * **Mots clés**: _jeu indépendant, console/PC, action-RPG, CryEngine_
@@ -2921,6 +3242,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie
   * **Domaine d'application**: Géospatial/Cartographie, Patrimoine/Culture, Architecture/BTP/Urbanisme
   * [_Jobs_](https://www.yellowscan.com/career/)
+
+
+* **[YZAR](https://yzar.fr/)** (YZAR (Smartbottle)) 
+  * _Start-up bordelaise qui développe des jumeaux numériques 3D, des applications de réalité virtuelle et augmentée pour la formation, la maintenance et la vente dans l'industrie._
+  * **Mots clés**: _jumeau numérique, réalité virtuelle, réalité augmentée, formation professionnelle, industrie 4.0_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Visualisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game, Énergie/Environnement
 
 
 * **[Zag](https://www.zag.com/)**  

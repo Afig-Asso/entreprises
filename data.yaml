@@ -4667,3 +4667,482 @@
   Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
   Keywords: [e-commerce/configurateur 3D, web 3D, menuiserie, architecture]
   Employees: 150
+
+# Entreprises de Bordeaux et de Gironde ajoutées le 7 novembre 2026 (détail et sources : audits/entreprises_2026-11/recherche_bordeaux_2026-11-07)
+
+- Name: Milk VFX
+  url: https://www.milk-vfx.com/
+  Description: Studio d'effets visuels britannique primé (séries haut de gamme et longs métrages) qui a ouvert en 2023 un studio à Bordeaux, aux côtés de Londres, Barcelone et Dublin.
+  Jobs: https://www.milk-vfx.com/careers/
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.85545, -0.57795]
+      SIREN: '921755328'
+      Address: 8 Cours de Luze, 33300 Bordeaux
+  Scientific-domain: [Rendu offline/VFX, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [effets visuels, long métrage, séries TV, compositing]
+  Employees: 4
+
+- Name: M4VFX
+  url: https://www.m4vfx.com/
+  Description: Studio de Pessac spécialisé en matchmove/tracking 3D, layout et modélisation pour les effets visuels de longs métrages, séries, publicités et jeux (John Wick 4, The Nun II, Les Animaux Fantastiques 3).
+  Place:
+    - City: Pessac
+      Coordinates: [44.80762, -0.65249]
+      SIREN: '802109736'
+      Address: 21 Rue de la Fon de Madran, 33600 Pessac
+  Scientific-domain: [Rendu offline/VFX, Reconstruction, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [effets visuels, matchmove, tracking caméra, layout, long métrage]
+  Employees: 2
+
+- Name: Maelstrom Studios
+  url: https://www.maelstrom-studios.fr/
+  Description: Studio de post-production de Bègles (étalonnage, VFX, 3D photoréaliste, motion design) intervenant sur des longs métrages, documentaires TV et films publicitaires.
+  Place:
+    - City: Bègles
+      Coordinates: [44.81373, -0.55462]
+      SIREN: '793477811'
+      Address: 406 Boulevard Jean-Jacques Bosc, 33130 Bègles
+  Scientific-domain: [Rendu offline/VFX, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Keywords: [effets visuels, post-production, motion design, long métrage, publicité]
+  Employees: 8
+
+- Name: Mikimo Studio
+  url: https://mikimostudio.com/
+  Description: Studio bordelais de motion design et VFX 2D/3D fondé en 2016 (films institutionnels, génériques et séquences 3D de documentaires, habillages TV) travaillant sous Cinema 4D, Arnold, RealFlow et X-Particles.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.83635, -0.56999]
+      SIREN: '823588736'
+      Address: 39 Rue Bouquière, 33000 Bordeaux
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
+  Keywords: [motion design, animation 3D, effets visuels, publicité]
+  Employees: 4
+
+- Name: Orbit Studio
+  url: https://orbit.studio/
+  Description: 'Studio d''animation 3D bordelais spécialisé dans les contenus haut de gamme : films de marque pour le luxe, projections monumentales et immersives, motion design 3D et VFX pour prise de vue réelle.'
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.85690, -0.58613]
+      SIREN: '983825571'
+      Address: 207 Rue Mandron, 33000 Bordeaux
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Commerce/Marketing/Publicité, Art/Evenementiel]
+  Keywords: [animation 3D, motion design, effets visuels, exposition immersive, publicité]
+  Employees: 2
+
+- Name: Fygostudio
+  url: https://fygostudio.com/
+  Description: Studio d'animation et société de production bordelaise réalisant des films publicitaires et du brand content en animation 2D, 3D et techniques mixtes au rendu pictural.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.85174, -0.59000]
+      SIREN: '799263926'
+      Address: 97 Rue Croix de Seguey, 33000 Bordeaux
+  Scientific-domain: [Animation]
+  Application-domain: [Commerce/Marketing/Publicité]
+  Keywords: [animation 2D, animation 3D, publicité, motion design]
+
+- Name: Midralgar
+  url: https://www.midralgar.fr/
+  Description: Maison de production bordelaise (SARL Marmitafilms, nom commercial Midralgar depuis 2020) de films d'animation, documentaires et fiction, dotée depuis 2015 d'un atelier d'animation dans ses locaux à Bordeaux.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.85163, -0.57002]
+      SIREN: '524344157'
+      Address: 15 Rue Raze, 33000 Bordeaux
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [animation 2D, court métrage, long métrage, séries d'animation]
+  Employees: 2
+
+- Name: Beview
+  url: https://www.beview.fr/
+  Description: Agence du Barp (près de Bordeaux) associant ingénieurs et artistes pour concevoir des applications de réalité virtuelle et augmentée et des films et visuels en image de synthèse pour l'industrie (sécurité, maintenance, logistique).
+  Place:
+    - City: Le Barp
+      Coordinates: [44.62300, -0.78755]
+      SIREN: '500745054'
+      Address: Parc Laseris, 1 Avenue du Médoc, 33114 Le Barp
+  Scientific-domain: [VR/AR, Animation, Visualisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game]
+  Keywords: [réalité virtuelle, réalité augmentée, animation 3D, serious game]
+  Employees: 2
+
+- Name: Doxa Vision
+  url: https://www.doxa-vision.com/
+  Description: Entreprise de mapping vidéo créée en 2020 (Floirac, près de Bordeaux, et Lyon) qui conçoit des projections mapping sur bâtiments, objets et décors pour l'événementiel, le sport, les vignobles ou la restauration.
+  Place:
+    - City: Floirac
+      Coordinates: [44.83123, -0.51352]
+      SIREN: '894924612'
+      Address: 11 Rue Jacques Duclos, 33270 Floirac
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Art/Evenementiel]
+  Keywords: [événementiel/mapping, motion design]
+
+- Name: Revelt
+  url: https://www.revelt-vs.com/
+  Description: Studio de visualisation et de perspective 3D photoréaliste (Bordeaux et Paris) pour architectes, promoteurs et aménageurs.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.84362, -0.57385]
+      SIREN: '949166268'
+      Address: 9 Rue de Condé, 33000 Bordeaux
+  Scientific-domain: [Rendu offline/VFX, Modélisation]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Keywords: [architecture, rendu photoréaliste, perspective]
+
+- Name: In Extenso Studio
+  url: https://www.inextenso.studio/
+  Description: Agence bordelaise de visualisation architecturale fondée par un architecte-perspectiviste, produisant images et films 3D de projets publics et privés (écoles, EHPAD, équipements culturels).
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.83245, -0.59416]
+      SIREN: '934884735'
+      Address: 1 Rue Mathieu, 33000 Bordeaux
+  Scientific-domain: [Rendu offline/VFX, Modélisation]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Keywords: [architecture, rendu photoréaliste, perspective]
+
+- Name: Glitchr Studio
+  url: https://www.glitchr-studio.com/
+  Description: Studio indépendant bordelais d'ingénieurs multimédia et d'artistes spécialisé dans les jeux et expériences en réalité virtuelle et augmentée (Taiko Frenzy), les installations interactives et les applications mobiles.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.82148, -0.55287]
+      SIREN: '808464929'
+      Address: 31 Rue d'Armagnac, 33800 Bordeaux
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Keywords: [réalité virtuelle, réalité augmentée, jeu indépendant, Unity]
+
+- Name: Playwing
+  url: https://www.playwing.com/
+  Description: 'Développeur et éditeur indépendant fondé en 2017 (Playwing Ltd, établissement à Bordeaux) auteur du jeu multijoueur en ligne de combats de dragons Century: Age of Ashes et du jeu de stratégie Instant War.'
+  Jobs: https://www.playwing.com/#careers
+  Place:
+    - City: Bordeaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [multijoueur en ligne, console/PC, mobile, Unreal Engine]
+  Employees: 15
+
+- Name: Manufacture 43
+  url: https://manufacture43.com/
+  Description: Studio indépendant de jeux vidéo bordelais (Pawarumi, Highway to Heal) sortis sur PC, Switch, Xbox One et PS4, qui propose aussi des services de développement.
+  Place:
+    - City: Bordeaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, console/PC, co-développement]
+  Employees: 2
+
+- Name: Damnatio Games
+  url: https://damnatiogames.com/
+  Description: Studio de jeux vidéo fondé à Bordeaux en 2021, auteur du jeu multijoueur en ligne Heat and Run (Steam, 2022) et de Teamcrafter, qui collabore aussi avec d'autres studios en game design et UX.
+  Place:
+    - City: Bordeaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, multijoueur en ligne, console/PC]
+
+- Name: Hectiq
+  url: https://hectiq.games/
+  Description: Studio de développement de jeux vidéo fondé à Bordeaux en 2023, qui développe Painted Kingdoms en misant sur la créativité, le gameplay et l'innovation technique.
+  Jobs: https://hectiq.games/careers
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.83840, -0.57072]
+      SIREN: '951659143'
+      Address: 38 Rue des Bahutiers, 33000 Bordeaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, console/PC, multijoueur en ligne]
+  Employees: 2
+
+- Name: Ratel Studio
+  url: https://ratel-studio.com/
+  Description: Studio de jeux vidéo girondin (Espiet) qui développe Toria, MMORPG sandbox médiéval, ainsi que le jeu tactique spatial Hunter Oden et le jeu mobile Onima.
+  Place:
+    - City: Espiet
+      Coordinates: [44.79853, -0.25227]
+      SIREN: '841654965'
+      Address: 12 la Grangeotte, 33420 Espiet
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [multijoueur en ligne, jeu indépendant, mobile, console/PC]
+  Employees: 4
+
+- Name: Deepnight Games
+  url: https://deepnight.net/
+  Description: Studio bordelais de Sébastien Bénard (directeur de Dead Cells) qui développe des jeux indépendants (Nuclear Blaze) et l'éditeur de niveaux 2D open source LDtk.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.86238, -0.56450]
+      SIREN: '883984213'
+      Address: 46 Rue de Leybardie, 33300 Bordeaux
+  Scientific-domain: [Pipeline/Outils de production, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, console/PC, plugin/logiciel pour artistes, level design]
+
+- Name: Studio Black Flag
+  url: https://studioblackflag.com/
+  Description: Studio indépendant bordelais de jeux PC/Mac/Linux (Orphan Age, Yrminsul, Click of Cthulhu).
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.86013, -0.56506]
+      SIREN: '793709577'
+      Address: 115 Cours Balguerie Stuttenberg, 33300 Bordeaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, console/PC, Mac/Linux]
+
+- Name: Bureau 81
+  url: https://store.steampowered.com/app/1771980/The_Operator/
+  Description: Studio indépendant bordelais créé en 2024, développeur et éditeur du jeu d'enquête The Operator (2024).
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.84362, -0.57385]
+      SIREN: '982850315'
+      Address: 9 Rue de Condé, 33000 Bordeaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, console/PC, jeu narratif]
+  Employees: 2
+
+- Name: Nova-box
+  url: https://www.nova-box.com/
+  Description: Studio et éditeur bordelais de jeux narratifs (romans graphiques interactifs After the Wane, End of Lines) pour PC, Mac, Linux et Switch, fondé en 2007.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.85421, -0.57113]
+      SIREN: '500358320'
+      Address: 21 Rue des Retaillons, 33300 Bordeaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu indépendant, console/PC, jeu narratif]
+  Employees: 2
+
+- Name: i2S
+  Name-long: Innovative Imaging Solutions (I2S)
+  url: https://i2s.fr/
+  Description: Concepteur et fabricant pessacais de caméras techniques, de systèmes de vision intégrée et de scanners de numérisation patrimoniale (livres, documents grand format) avec leurs logiciels de traitement d'image.
+  Place:
+    - City: Pessac
+      Coordinates: [44.77958, -0.65958]
+      SIREN: '315387688'
+      Address: 28-30 Rue Jean Perrin, 33600 Pessac
+    - City: Cestas
+  Scientific-domain: [Acquisition, Vision, Imagerie, Hardware]
+  Application-domain: [Patrimoine/Culture, Industrie/Manufacturing/CAO, Sécurité/Défense]
+  Keywords: [vision par ordinateur, caméras, numérisation patrimoniale, scanner 3D, traitement d'images]
+  Employees: 75
+
+- Name: Geosat
+  url: https://www.geo-sat.com/
+  Description: 'Groupe de géomètres-experts dont le siège est à Canéjan, spécialisé dans la mesure 3D : scan laser et modélisation BIM/CIM, cartographie mobile lidar, détection de réseaux et SIG.'
+  Info: Réseau national de cabinets ; siège et principal établissement à Canéjan (Gironde).
+  Place:
+    - City: Canéjan
+      Coordinates: [44.77774, -0.64944]
+      SIREN: '429123771'
+      Address: Lieu-dit La Pointe, 33610 Canéjan
+    - City: Bordeaux
+    - City: Villenave-d'Ornon
+    - City: Libourne
+  Scientific-domain: [Acquisition, Reconstruction, Modélisation]
+  Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme]
+  Keywords: [scanner 3D, lidar, nuage de points, cartographie mobile, SIG, jumeau numérique]
+  Employees: 375
+
+- Name: YZAR
+  Name-long: YZAR (Smartbottle)
+  url: https://yzar.fr/
+  Description: Start-up bordelaise qui développe des jumeaux numériques 3D, des applications de réalité virtuelle et augmentée pour la formation, la maintenance et la vente dans l'industrie.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.84422, -0.57482]
+      SIREN: '827614454'
+      Address: 11 Cours du XXX Juillet, 33000 Bordeaux
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Visualisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game, Énergie/Environnement]
+  Keywords: [jumeau numérique, réalité virtuelle, réalité augmentée, formation professionnelle, industrie 4.0]
+  Employees: 8
+
+- Name: DESKi
+  url: https://www.heartfocus.ai/
+  Description: Healthtech bordelaise qui édite HeartFocus, logiciel d'échographie cardiaque assisté par IA (guidage 3D de la sonde en temps réel, superpositions visuelles, score de qualité d'image), autorisé par la FDA.
+  Info: HeartFocus est une marque de DESKi (le domaine deski.ai redirige vers heartfocus.ai).
+  Product: HeartFocus, HeartFocus Link
+  Jobs: https://www.heartfocus.ai/careers
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.84103, -0.57051]
+      SIREN: '818145211'
+      Address: 2 Place de la Bourse, 33000 Bordeaux
+  Scientific-domain: [Imagerie, Vision, VR/AR]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie médicale, échographie, deep learning, guidage, réalité augmentée]
+  Employees: 15
+
+- Name: Weviz
+  Name-long: Meshroom VR (Weviz)
+  url: https://weviz.com/
+  Description: Éditeur bordelais (ex-MeshroomVR) d'un logiciel de visualisation 3D et VR pour revoir des maquettes CAO industrielles en collaboratif sans être expert CAO.
+  Info: 'Entité légale MESHROOM VR active à Bordeaux, mais sans effectif déclaré ni comptes publiés récents : activité à confirmer.'
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.88771, -0.56502]
+      SIREN: '828700690'
+      Address: 76 Rue Cardinal Richaud, 33300 Bordeaux
+  Scientific-domain: [Visualisation, VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
+  Keywords: [CAO, réalité virtuelle, rendu temps réel, revue de projet, visualisation 3D]
+
+- Name: Logyline
+  url: https://logyline.com/
+  Description: Éditeur mérignacais de logiciels de conception 3D pour l'aménagement extérieur (piscines, ombrage, paysagisme, bâches) avec rendu 3D et visite en réalité virtuelle.
+  Product: Logyline Studio Piscine, Logyconcept3D, Logydraw
+  Place:
+    - City: Mérignac
+      Coordinates: [44.85424, -0.67244]
+      SIREN: '489902965'
+      Address: 6 Rue Joule, 33700 Mérignac
+  Scientific-domain: [Design/Fabrication, Modélisation, Visualisation]
+  Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
+  Keywords: [CAO, conception 3D, rendu temps réel, réalité virtuelle, e-commerce/configurateur 3D]
+  Employees: 15
+
+- Name: Pollen Robotics
+  url: https://pollen-robotics.com/
+  Description: Start-up bordelaise, filiale de Hugging Face depuis 2025, qui conçoit des robots humanoïdes et expressifs open source (Reachy 2, Reachy Mini) avec perception par caméras et téléopération en réalité virtuelle.
+  Info: Rachetée par Hugging Face (non présente dans le listing).
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.84283, -0.57104]
+      SIREN: '820266211'
+      Address: 2 Place Jean Jaurès, 33000 Bordeaux
+  Scientific-domain: [Vision, VR/AR, Hardware]
+  Application-domain: [Robotique/Systèmes autonomes, Générique]
+  Keywords: [robotique, vision par ordinateur, téléopération, réalité virtuelle, open source]
+  Employees: 35
+
+- Name: Lynxdrone
+  url: https://www.lynxdrone.fr/
+  Description: Fabricant girondin de drones et robots d'inspection en milieux confinés (réseaux d'eau, bâtiments, sites industriels) et prestataire de numérisation 3D.
+  Place:
+    - City: Canéjan
+      Coordinates: [44.76273, -0.67147]
+      SIREN: '842833824'
+      Address: 7 Avenue de Guitayne, 33610 Canéjan
+    - City: Saint-Médard-en-Jalles
+  Scientific-domain: [Acquisition, Reconstruction, Hardware]
+  Application-domain: [Robotique/Systèmes autonomes, Architecture/BTP/Urbanisme, Énergie/Environnement]
+  Keywords: [drone, inspection, scanner 3D, nuage de points, robotique]
+  Employees: 15
+
+- Name: Argolight
+  url: https://argolight.com/
+  Description: Société pessacaise qui conçoit des lames et microplaques de calibration fluorescentes (gravure laser) et le logiciel associé pour mesurer la résolution et contrôler la qualité des systèmes d'imagerie de fluorescence.
+  Product: Calibration Slides, Daybook (logiciel)
+  Place:
+    - City: Pessac
+      Coordinates: [44.78548, -0.63180]
+      SIREN: '789895034'
+      Address: 11 Avenue de Canteranne, 33600 Pessac
+  Scientific-domain: [Imagerie, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie scientifique, microscopie, métrologie, calibration, analyse d'images]
+  Employees: 15
+
+- Name: Soqut Imaging
+  url: https://soqut-imaging.com/
+  Description: Start-up de Bègles qui développe ELiBio, logiciel breveté de biopsie numérique du foie par analyse d'images IRM pour le diagnostic précoce de la MASH.
+  Product: ELiBio
+  Place:
+    - City: Bègles
+      Coordinates: [44.81373, -0.55462]
+      SIREN: '907600621'
+      Address: 406 Boulevard Jean-Jacques Bosc, 33130 Bègles
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie médicale, IRM, segmentation, analyse quantitative, diagnostic]
+  Employees: 2
+
+- Name: Arkhênum
+  Name-long: Memorist (Arkhênum)
+  url: https://www.arkhenum.fr/
+  Description: Société bordelaise (groupe Memorist) de numérisation 2D, 3D et 360° du patrimoine (archives, bibliothèques, musées, collections industrielles) et de valorisation des fonds numérisés.
+  Info: Entité légale MEMORIST (marque Arkhênum), établissement principal 7 rue Joseph Bonnet, Bordeaux.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.85270, -0.54835]
+      SIREN: '422085480'
+      Address: 7 Rue Joseph Bonnet, 33100 Bordeaux
+  Scientific-domain: [Acquisition, Imagerie, Web/Cloud/Big Data]
+  Application-domain: [Patrimoine/Culture]
+  Keywords: [numérisation patrimoniale, photogrammétrie, scanner 3D, traitement d'images, archives]
+  Employees: 75
+
+- Name: Imagine Optic
+  url: https://www.imagine-optic.com/
+  Description: Fabricant d'analyseurs de front d'onde (Shack-Hartmann), de miroirs déformables et de logiciels d'optique adaptative et de métrologie optique, avec un établissement à Talence.
+  Info: Siège à Orsay ; établissement actif de petite taille à Talence (l'ancien établissement de la Cité de la Photonique à Pessac est fermé). Effectif = tranche de l'entreprise.
+  Place:
+    - City: Orsay
+      Coordinates: [48.70270, 2.19135]
+      SIREN: '410072532'
+      Address: 18 Rue Charles de Gaulle, 91400 Orsay
+    - City: Talence
+  Scientific-domain: [Acquisition, Imagerie, Hardware]
+  Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO, Générique]
+  Keywords: [métrologie, optique adaptative, laser, microscopie, front d'onde]
+  Employees: 75
+
+- Name: R&D Vision
+  url: https://www.rd-vision.com/
+  Description: Groupe spécialisé dans la conception de systèmes d'imagerie (caméras rapides, vision industrielle, solutions optiques et IA) pour l'aérospatial, le ferroviaire et l'industrie, avec un bureau à Bordeaux.
+  Info: Siège à Saint-Maur-des-Fossés ; établissement bordelais de très petite taille (1-2 salariés). Effectif = tranche de l'entreprise.
+  Place:
+    - City: Saint-Maur-des-Fossés
+      Coordinates: [48.79957, 2.47438]
+      SIREN: '440955300'
+      Address: 64 Rue Bourdignon, 94100 Saint-Maur-des-Fossés
+    - City: Bordeaux
+  Scientific-domain: [Acquisition, Vision, Imagerie]
+  Application-domain: [Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
+  Keywords: [vision par ordinateur, caméras rapides, deep learning, aéronautique, métrologie]
+  Employees: 35
+
+- Name: optim.aize
+  url: https://optimaize.fr/
+  Description: Start-up bordelaise qui édite YAAPS, plateforme de jumeau numérique d'infrastructures combinant capteurs IoT, imagerie drone et satellite (InSAR), IA et SIG.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.81529, -0.57243]
+      SIREN: '905256020'
+      Address: 366 Cours de la Somme, 33800 Bordeaux
+  Scientific-domain: [Vision, Web/Cloud/Big Data, Analyse de données]
+  Application-domain: [Géospatial/Cartographie, Énergie/Environnement, Architecture/BTP/Urbanisme]
+  Keywords: [jumeau numérique, SIG, imagerie satellite, drone, photogrammétrie]
+  Employees: 8
+
+- Name: Netcarbon
+  url: https://www.netcarbon.fr/
+  Description: Éditeur bordelais d'une application de cartographie environnementale qui analyse l'imagerie satellite et aérienne par IA pour mesurer et simuler l'impact de projets d'aménagement et de renaturation.
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.84103, -0.57051]
+      SIREN: '909287278'
+      Address: 2 Place de la Bourse, 33000 Bordeaux
+    - City: Mérignac
+  Scientific-domain: [Vision, Analyse de données, Web/Cloud/Big Data]
+  Application-domain: [Géospatial/Cartographie, Énergie/Environnement, Architecture/BTP/Urbanisme]
+  Keywords: [imagerie satellite, SIG, deep learning, cartographie, simulation]
+  Employees: 15

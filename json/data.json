@@ -299,6 +299,14 @@
             48.8953,
             2.2562
         ],
+        "France/Espiet": [
+            44.7984,
+            -0.2616
+        ],
+        "France/Floirac": [
+            44.8327,
+            -0.5208
+        ],
         "France/Fretin": [
             50.5596,
             3.1351
@@ -327,6 +335,10 @@
             48.0707,
             -0.7734
         ],
+        "France/Le Barp": [
+            44.6063,
+            -0.7697
+        ],
         "France/Les Lilas": [
             48.8796,
             2.4158
@@ -334,6 +346,10 @@
         "France/Les Roches-de-Condrieu": [
             45.453,
             4.7683
+        ],
+        "France/Libourne": [
+            44.9134,
+            -0.2427
         ],
         "France/Lille": [
             50.6366,
@@ -495,6 +511,14 @@
             45.1837,
             5.7545
         ],
+        "France/Saint-Maur-des-Foss\u00e9s": [
+            48.8033,
+            2.4853
+        ],
+        "France/Saint-M\u00e9dard-en-Jalles": [
+            44.8959,
+            -0.7171
+        ],
         "France/Saint-Ouen": [
             48.9119,
             2.334
@@ -530,6 +554,10 @@
         "France/Suresnes": [
             48.8709,
             2.2256
+        ],
+        "France/Talence": [
+            44.8088,
+            -0.588
         ],
         "France/Tarbes": [
             43.2329,
@@ -578,6 +606,10 @@
         "France/Vernon": [
             49.0932,
             1.4857
+        ],
+        "France/Villenave-d'Ornon": [
+            44.7738,
+            -0.5595
         ],
         "France/Villeneuve-d'Ascq": [
             50.6193,
@@ -838,6 +870,7 @@
         "Courbevoie": "Paris \u2013 \u00cele-de-France",
         "Nanterre": "Paris \u2013 \u00cele-de-France",
         "Suresnes": "Paris \u2013 \u00cele-de-France",
+        "Saint-Maur-des-Foss\u00e9s": "Paris \u2013 \u00cele-de-France",
         "Lyon": "Lyon",
         "Villeurbanne": "Lyon",
         "Champagne-au-Mont-d'Or": "Lyon",
@@ -866,6 +899,13 @@
         "Beychac-et-Caillau": "Bordeaux",
         "Cestas": "Bordeaux",
         "M\u00e9rignac": "Bordeaux",
+        "Floirac": "Bordeaux",
+        "Talence": "Bordeaux",
+        "Villenave-d'Ornon": "Bordeaux",
+        "Saint-M\u00e9dard-en-Jalles": "Bordeaux",
+        "Le Barp": "Bordeaux",
+        "Espiet": "Bordeaux",
+        "Libourne": "Bordeaux",
         "Lille": "Lille",
         "Roubaix": "Lille",
         "Tourcoing": "Lille",
@@ -12253,6 +12293,1141 @@
                 "architecture"
             ],
             "Employees": 150
+        },
+        {
+            "Name": "Milk VFX",
+            "url": "https://www.milk-vfx.com/",
+            "Description": "Studio d'effets visuels britannique prim\u00e9 (s\u00e9ries haut de gamme et longs m\u00e9trages) qui a ouvert en 2023 un studio \u00e0 Bordeaux, aux c\u00f4t\u00e9s de Londres, Barcelone et Dublin.",
+            "Jobs": "https://www.milk-vfx.com/careers/",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.85545,
+                        -0.57795
+                    ],
+                    "SIREN": "921755328",
+                    "Address": "8 Cours de Luze, 33300 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "long m\u00e9trage",
+                "s\u00e9ries TV",
+                "compositing"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "M4VFX",
+            "url": "https://www.m4vfx.com/",
+            "Description": "Studio de Pessac sp\u00e9cialis\u00e9 en matchmove/tracking 3D, layout et mod\u00e9lisation pour les effets visuels de longs m\u00e9trages, s\u00e9ries, publicit\u00e9s et jeux (John Wick 4, The Nun II, Les Animaux Fantastiques 3).",
+            "Place": [
+                {
+                    "City": "Pessac",
+                    "Coordinates": [
+                        44.80762,
+                        -0.65249
+                    ],
+                    "SIREN": "802109736",
+                    "Address": "21 Rue de la Fon de Madran, 33600 Pessac"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Reconstruction",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "matchmove",
+                "tracking cam\u00e9ra",
+                "layout",
+                "long m\u00e9trage"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Maelstrom Studios",
+            "url": "https://www.maelstrom-studios.fr/",
+            "Description": "Studio de post-production de B\u00e8gles (\u00e9talonnage, VFX, 3D photor\u00e9aliste, motion design) intervenant sur des longs m\u00e9trages, documentaires TV et films publicitaires.",
+            "Place": [
+                {
+                    "City": "B\u00e8gles",
+                    "Coordinates": [
+                        44.81373,
+                        -0.55462
+                    ],
+                    "SIREN": "793477811",
+                    "Address": "406 Boulevard Jean-Jacques Bosc, 33130 B\u00e8gles"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "post-production",
+                "motion design",
+                "long m\u00e9trage",
+                "publicit\u00e9"
+            ],
+            "Employees": 8
+        },
+        {
+            "Name": "Mikimo Studio",
+            "url": "https://mikimostudio.com/",
+            "Description": "Studio bordelais de motion design et VFX 2D/3D fond\u00e9 en 2016 (films institutionnels, g\u00e9n\u00e9riques et s\u00e9quences 3D de documentaires, habillages TV) travaillant sous Cinema 4D, Arnold, RealFlow et X-Particles.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.83635,
+                        -0.56999
+                    ],
+                    "SIREN": "823588736",
+                    "Address": "39 Rue Bouqui\u00e8re, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "motion design",
+                "animation 3D",
+                "effets visuels",
+                "publicit\u00e9"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Orbit Studio",
+            "url": "https://orbit.studio/",
+            "Description": "Studio d'animation 3D bordelais sp\u00e9cialis\u00e9 dans les contenus haut de gamme : films de marque pour le luxe, projections monumentales et immersives, motion design 3D et VFX pour prise de vue r\u00e9elle.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.8569,
+                        -0.58613
+                    ],
+                    "SIREN": "983825571",
+                    "Address": "207 Rue Mandron, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Art/Evenementiel"
+            ],
+            "Keywords": [
+                "animation 3D",
+                "motion design",
+                "effets visuels",
+                "exposition immersive",
+                "publicit\u00e9"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Fygostudio",
+            "url": "https://fygostudio.com/",
+            "Description": "Studio d'animation et soci\u00e9t\u00e9 de production bordelaise r\u00e9alisant des films publicitaires et du brand content en animation 2D, 3D et techniques mixtes au rendu pictural.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.85174,
+                        -0.59
+                    ],
+                    "SIREN": "799263926",
+                    "Address": "97 Rue Croix de Seguey, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "publicit\u00e9",
+                "motion design"
+            ]
+        },
+        {
+            "Name": "Midralgar",
+            "url": "https://www.midralgar.fr/",
+            "Description": "Maison de production bordelaise (SARL Marmitafilms, nom commercial Midralgar depuis 2020) de films d'animation, documentaires et fiction, dot\u00e9e depuis 2015 d'un atelier d'animation dans ses locaux \u00e0 Bordeaux.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.85163,
+                        -0.57002
+                    ],
+                    "SIREN": "524344157",
+                    "Address": "15 Rue Raze, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "court m\u00e9trage",
+                "long m\u00e9trage",
+                "s\u00e9ries d'animation"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Beview",
+            "url": "https://www.beview.fr/",
+            "Description": "Agence du Barp (pr\u00e8s de Bordeaux) associant ing\u00e9nieurs et artistes pour concevoir des applications de r\u00e9alit\u00e9 virtuelle et augment\u00e9e et des films et visuels en image de synth\u00e8se pour l'industrie (s\u00e9curit\u00e9, maintenance, logistique).",
+            "Place": [
+                {
+                    "City": "Le Barp",
+                    "Coordinates": [
+                        44.623,
+                        -0.78755
+                    ],
+                    "SIREN": "500745054",
+                    "Address": "Parc Laseris, 1 Avenue du M\u00e9doc, 33114 Le Barp"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Animation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "animation 3D",
+                "serious game"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Doxa Vision",
+            "url": "https://www.doxa-vision.com/",
+            "Description": "Entreprise de mapping vid\u00e9o cr\u00e9\u00e9e en 2020 (Floirac, pr\u00e8s de Bordeaux, et Lyon) qui con\u00e7oit des projections mapping sur b\u00e2timents, objets et d\u00e9cors pour l'\u00e9v\u00e9nementiel, le sport, les vignobles ou la restauration.",
+            "Place": [
+                {
+                    "City": "Floirac",
+                    "Coordinates": [
+                        44.83123,
+                        -0.51352
+                    ],
+                    "SIREN": "894924612",
+                    "Address": "11 Rue Jacques Duclos, 33270 Floirac"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel"
+            ],
+            "Keywords": [
+                "\u00e9v\u00e9nementiel/mapping",
+                "motion design"
+            ]
+        },
+        {
+            "Name": "Revelt",
+            "url": "https://www.revelt-vs.com/",
+            "Description": "Studio de visualisation et de perspective 3D photor\u00e9aliste (Bordeaux et Paris) pour architectes, promoteurs et am\u00e9nageurs.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.84362,
+                        -0.57385
+                    ],
+                    "SIREN": "949166268",
+                    "Address": "9 Rue de Cond\u00e9, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "architecture",
+                "rendu photor\u00e9aliste",
+                "perspective"
+            ]
+        },
+        {
+            "Name": "In Extenso Studio",
+            "url": "https://www.inextenso.studio/",
+            "Description": "Agence bordelaise de visualisation architecturale fond\u00e9e par un architecte-perspectiviste, produisant images et films 3D de projets publics et priv\u00e9s (\u00e9coles, EHPAD, \u00e9quipements culturels).",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.83245,
+                        -0.59416
+                    ],
+                    "SIREN": "934884735",
+                    "Address": "1 Rue Mathieu, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "architecture",
+                "rendu photor\u00e9aliste",
+                "perspective"
+            ]
+        },
+        {
+            "Name": "Glitchr Studio",
+            "url": "https://www.glitchr-studio.com/",
+            "Description": "Studio ind\u00e9pendant bordelais d'ing\u00e9nieurs multim\u00e9dia et d'artistes sp\u00e9cialis\u00e9 dans les jeux et exp\u00e9riences en r\u00e9alit\u00e9 virtuelle et augment\u00e9e (Taiko Frenzy), les installations interactives et les applications mobiles.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.82148,
+                        -0.55287
+                    ],
+                    "SIREN": "808464929",
+                    "Address": "31 Rue d'Armagnac, 33800 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "jeu ind\u00e9pendant",
+                "Unity"
+            ]
+        },
+        {
+            "Name": "Playwing",
+            "url": "https://www.playwing.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur ind\u00e9pendant fond\u00e9 en 2017 (Playwing Ltd, \u00e9tablissement \u00e0 Bordeaux) auteur du jeu multijoueur en ligne de combats de dragons Century: Age of Ashes et du jeu de strat\u00e9gie Instant War.",
+            "Jobs": "https://www.playwing.com/#careers",
+            "Place": [
+                {
+                    "City": "Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "multijoueur en ligne",
+                "console/PC",
+                "mobile",
+                "Unreal Engine"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Manufacture 43",
+            "url": "https://manufacture43.com/",
+            "Description": "Studio ind\u00e9pendant de jeux vid\u00e9o bordelais (Pawarumi, Highway to Heal) sortis sur PC, Switch, Xbox One et PS4, qui propose aussi des services de d\u00e9veloppement.",
+            "Place": [
+                {
+                    "City": "Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "co-d\u00e9veloppement"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Damnatio Games",
+            "url": "https://damnatiogames.com/",
+            "Description": "Studio de jeux vid\u00e9o fond\u00e9 \u00e0 Bordeaux en 2021, auteur du jeu multijoueur en ligne Heat and Run (Steam, 2022) et de Teamcrafter, qui collabore aussi avec d'autres studios en game design et UX.",
+            "Place": [
+                {
+                    "City": "Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "multijoueur en ligne",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Hectiq",
+            "url": "https://hectiq.games/",
+            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o fond\u00e9 \u00e0 Bordeaux en 2023, qui d\u00e9veloppe Painted Kingdoms en misant sur la cr\u00e9ativit\u00e9, le gameplay et l'innovation technique.",
+            "Jobs": "https://hectiq.games/careers",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.8384,
+                        -0.57072
+                    ],
+                    "SIREN": "951659143",
+                    "Address": "38 Rue des Bahutiers, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "multijoueur en ligne"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Ratel Studio",
+            "url": "https://ratel-studio.com/",
+            "Description": "Studio de jeux vid\u00e9o girondin (Espiet) qui d\u00e9veloppe Toria, MMORPG sandbox m\u00e9di\u00e9val, ainsi que le jeu tactique spatial Hunter Oden et le jeu mobile Onima.",
+            "Place": [
+                {
+                    "City": "Espiet",
+                    "Coordinates": [
+                        44.79853,
+                        -0.25227
+                    ],
+                    "SIREN": "841654965",
+                    "Address": "12 la Grangeotte, 33420 Espiet"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "multijoueur en ligne",
+                "jeu ind\u00e9pendant",
+                "mobile",
+                "console/PC"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Deepnight Games",
+            "url": "https://deepnight.net/",
+            "Description": "Studio bordelais de S\u00e9bastien B\u00e9nard (directeur de Dead Cells) qui d\u00e9veloppe des jeux ind\u00e9pendants (Nuclear Blaze) et l'\u00e9diteur de niveaux 2D open source LDtk.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.86238,
+                        -0.5645
+                    ],
+                    "SIREN": "883984213",
+                    "Address": "46 Rue de Leybardie, 33300 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Pipeline/Outils de production",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "plugin/logiciel pour artistes",
+                "level design"
+            ]
+        },
+        {
+            "Name": "Studio Black Flag",
+            "url": "https://studioblackflag.com/",
+            "Description": "Studio ind\u00e9pendant bordelais de jeux PC/Mac/Linux (Orphan Age, Yrminsul, Click of Cthulhu).",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.86013,
+                        -0.56506
+                    ],
+                    "SIREN": "793709577",
+                    "Address": "115 Cours Balguerie Stuttenberg, 33300 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "Mac/Linux"
+            ]
+        },
+        {
+            "Name": "Bureau 81",
+            "url": "https://store.steampowered.com/app/1771980/The_Operator/",
+            "Description": "Studio ind\u00e9pendant bordelais cr\u00e9\u00e9 en 2024, d\u00e9veloppeur et \u00e9diteur du jeu d'enqu\u00eate The Operator (2024).",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.84362,
+                        -0.57385
+                    ],
+                    "SIREN": "982850315",
+                    "Address": "9 Rue de Cond\u00e9, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "jeu narratif"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Nova-box",
+            "url": "https://www.nova-box.com/",
+            "Description": "Studio et \u00e9diteur bordelais de jeux narratifs (romans graphiques interactifs After the Wane, End of Lines) pour PC, Mac, Linux et Switch, fond\u00e9 en 2007.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.85421,
+                        -0.57113
+                    ],
+                    "SIREN": "500358320",
+                    "Address": "21 Rue des Retaillons, 33300 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "jeu narratif"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "i2S",
+            "Name-long": "Innovative Imaging Solutions (I2S)",
+            "url": "https://i2s.fr/",
+            "Description": "Concepteur et fabricant pessacais de cam\u00e9ras techniques, de syst\u00e8mes de vision int\u00e9gr\u00e9e et de scanners de num\u00e9risation patrimoniale (livres, documents grand format) avec leurs logiciels de traitement d'image.",
+            "Place": [
+                {
+                    "City": "Pessac",
+                    "Coordinates": [
+                        44.77958,
+                        -0.65958
+                    ],
+                    "SIREN": "315387688",
+                    "Address": "28-30 Rue Jean Perrin, 33600 Pessac"
+                },
+                {
+                    "City": "Cestas"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Patrimoine/Culture",
+                "Industrie/Manufacturing/CAO",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Keywords": [
+                "vision par ordinateur",
+                "cam\u00e9ras",
+                "num\u00e9risation patrimoniale",
+                "scanner 3D",
+                "traitement d'images"
+            ],
+            "Employees": 75
+        },
+        {
+            "Name": "Geosat",
+            "url": "https://www.geo-sat.com/",
+            "Description": "Groupe de g\u00e9om\u00e8tres-experts dont le si\u00e8ge est \u00e0 Can\u00e9jan, sp\u00e9cialis\u00e9 dans la mesure 3D : scan laser et mod\u00e9lisation BIM/CIM, cartographie mobile lidar, d\u00e9tection de r\u00e9seaux et SIG.",
+            "Info": "R\u00e9seau national de cabinets ; si\u00e8ge et principal \u00e9tablissement \u00e0 Can\u00e9jan (Gironde).",
+            "Place": [
+                {
+                    "City": "Can\u00e9jan",
+                    "Coordinates": [
+                        44.77774,
+                        -0.64944
+                    ],
+                    "SIREN": "429123771",
+                    "Address": "Lieu-dit La Pointe, 33610 Can\u00e9jan"
+                },
+                {
+                    "City": "Bordeaux"
+                },
+                {
+                    "City": "Villenave-d'Ornon"
+                },
+                {
+                    "City": "Libourne"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "scanner 3D",
+                "lidar",
+                "nuage de points",
+                "cartographie mobile",
+                "SIG",
+                "jumeau num\u00e9rique"
+            ],
+            "Employees": 375
+        },
+        {
+            "Name": "YZAR",
+            "Name-long": "YZAR (Smartbottle)",
+            "url": "https://yzar.fr/",
+            "Description": "Start-up bordelaise qui d\u00e9veloppe des jumeaux num\u00e9riques 3D, des applications de r\u00e9alit\u00e9 virtuelle et augment\u00e9e pour la formation, la maintenance et la vente dans l'industrie.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.84422,
+                        -0.57482
+                    ],
+                    "SIREN": "827614454",
+                    "Address": "11 Cours du XXX Juillet, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Entrainement/Formation/Serious Game",
+                "\u00c9nergie/Environnement"
+            ],
+            "Keywords": [
+                "jumeau num\u00e9rique",
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "formation professionnelle",
+                "industrie 4.0"
+            ],
+            "Employees": 8
+        },
+        {
+            "Name": "DESKi",
+            "url": "https://www.heartfocus.ai/",
+            "Description": "Healthtech bordelaise qui \u00e9dite HeartFocus, logiciel d'\u00e9chographie cardiaque assist\u00e9 par IA (guidage 3D de la sonde en temps r\u00e9el, superpositions visuelles, score de qualit\u00e9 d'image), autoris\u00e9 par la FDA.",
+            "Info": "HeartFocus est une marque de DESKi (le domaine deski.ai redirige vers heartfocus.ai).",
+            "Product": "HeartFocus, HeartFocus Link",
+            "Jobs": "https://www.heartfocus.ai/careers",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.84103,
+                        -0.57051
+                    ],
+                    "SIREN": "818145211",
+                    "Address": "2 Place de la Bourse, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "\u00e9chographie",
+                "deep learning",
+                "guidage",
+                "r\u00e9alit\u00e9 augment\u00e9e"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Weviz",
+            "Name-long": "Meshroom VR (Weviz)",
+            "url": "https://weviz.com/",
+            "Description": "\u00c9diteur bordelais (ex-MeshroomVR) d'un logiciel de visualisation 3D et VR pour revoir des maquettes CAO industrielles en collaboratif sans \u00eatre expert CAO.",
+            "Info": "Entit\u00e9 l\u00e9gale MESHROOM VR active \u00e0 Bordeaux, mais sans effectif d\u00e9clar\u00e9 ni comptes publi\u00e9s r\u00e9cents : activit\u00e9 \u00e0 confirmer.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.88771,
+                        -0.56502
+                    ],
+                    "SIREN": "828700690",
+                    "Address": "76 Rue Cardinal Richaud, 33300 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Architecture/BTP/Urbanisme",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "CAO",
+                "r\u00e9alit\u00e9 virtuelle",
+                "rendu temps r\u00e9el",
+                "revue de projet",
+                "visualisation 3D"
+            ]
+        },
+        {
+            "Name": "Logyline",
+            "url": "https://logyline.com/",
+            "Description": "\u00c9diteur m\u00e9rignacais de logiciels de conception 3D pour l'am\u00e9nagement ext\u00e9rieur (piscines, ombrage, paysagisme, b\u00e2ches) avec rendu 3D et visite en r\u00e9alit\u00e9 virtuelle.",
+            "Product": "Logyline Studio Piscine, Logyconcept3D, Logydraw",
+            "Place": [
+                {
+                    "City": "M\u00e9rignac",
+                    "Coordinates": [
+                        44.85424,
+                        -0.67244
+                    ],
+                    "SIREN": "489902965",
+                    "Address": "6 Rue Joule, 33700 M\u00e9rignac"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "CAO",
+                "conception 3D",
+                "rendu temps r\u00e9el",
+                "r\u00e9alit\u00e9 virtuelle",
+                "e-commerce/configurateur 3D"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Pollen Robotics",
+            "url": "https://pollen-robotics.com/",
+            "Description": "Start-up bordelaise, filiale de Hugging Face depuis 2025, qui con\u00e7oit des robots humano\u00efdes et expressifs open source (Reachy 2, Reachy Mini) avec perception par cam\u00e9ras et t\u00e9l\u00e9op\u00e9ration en r\u00e9alit\u00e9 virtuelle.",
+            "Info": "Rachet\u00e9e par Hugging Face (non pr\u00e9sente dans le listing).",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.84283,
+                        -0.57104
+                    ],
+                    "SIREN": "820266211",
+                    "Address": "2 Place Jean Jaur\u00e8s, 33000 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "VR/AR",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Keywords": [
+                "robotique",
+                "vision par ordinateur",
+                "t\u00e9l\u00e9op\u00e9ration",
+                "r\u00e9alit\u00e9 virtuelle",
+                "open source"
+            ],
+            "Employees": 35
+        },
+        {
+            "Name": "Lynxdrone",
+            "url": "https://www.lynxdrone.fr/",
+            "Description": "Fabricant girondin de drones et robots d'inspection en milieux confin\u00e9s (r\u00e9seaux d'eau, b\u00e2timents, sites industriels) et prestataire de num\u00e9risation 3D.",
+            "Place": [
+                {
+                    "City": "Can\u00e9jan",
+                    "Coordinates": [
+                        44.76273,
+                        -0.67147
+                    ],
+                    "SIREN": "842833824",
+                    "Address": "7 Avenue de Guitayne, 33610 Can\u00e9jan"
+                },
+                {
+                    "City": "Saint-M\u00e9dard-en-Jalles"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Architecture/BTP/Urbanisme",
+                "\u00c9nergie/Environnement"
+            ],
+            "Keywords": [
+                "drone",
+                "inspection",
+                "scanner 3D",
+                "nuage de points",
+                "robotique"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Argolight",
+            "url": "https://argolight.com/",
+            "Description": "Soci\u00e9t\u00e9 pessacaise qui con\u00e7oit des lames et microplaques de calibration fluorescentes (gravure laser) et le logiciel associ\u00e9 pour mesurer la r\u00e9solution et contr\u00f4ler la qualit\u00e9 des syst\u00e8mes d'imagerie de fluorescence.",
+            "Product": "Calibration Slides, Daybook (logiciel)",
+            "Place": [
+                {
+                    "City": "Pessac",
+                    "Coordinates": [
+                        44.78548,
+                        -0.6318
+                    ],
+                    "SIREN": "789895034",
+                    "Address": "11 Avenue de Canteranne, 33600 Pessac"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie scientifique",
+                "microscopie",
+                "m\u00e9trologie",
+                "calibration",
+                "analyse d'images"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Soqut Imaging",
+            "url": "https://soqut-imaging.com/",
+            "Description": "Start-up de B\u00e8gles qui d\u00e9veloppe ELiBio, logiciel brevet\u00e9 de biopsie num\u00e9rique du foie par analyse d'images IRM pour le diagnostic pr\u00e9coce de la MASH.",
+            "Product": "ELiBio",
+            "Place": [
+                {
+                    "City": "B\u00e8gles",
+                    "Coordinates": [
+                        44.81373,
+                        -0.55462
+                    ],
+                    "SIREN": "907600621",
+                    "Address": "406 Boulevard Jean-Jacques Bosc, 33130 B\u00e8gles"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "IRM",
+                "segmentation",
+                "analyse quantitative",
+                "diagnostic"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Arkh\u00eanum",
+            "Name-long": "Memorist (Arkh\u00eanum)",
+            "url": "https://www.arkhenum.fr/",
+            "Description": "Soci\u00e9t\u00e9 bordelaise (groupe Memorist) de num\u00e9risation 2D, 3D et 360\u00b0 du patrimoine (archives, biblioth\u00e8ques, mus\u00e9es, collections industrielles) et de valorisation des fonds num\u00e9ris\u00e9s.",
+            "Info": "Entit\u00e9 l\u00e9gale MEMORIST (marque Arkh\u00eanum), \u00e9tablissement principal 7 rue Joseph Bonnet, Bordeaux.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.8527,
+                        -0.54835
+                    ],
+                    "SIREN": "422085480",
+                    "Address": "7 Rue Joseph Bonnet, 33100 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Patrimoine/Culture"
+            ],
+            "Keywords": [
+                "num\u00e9risation patrimoniale",
+                "photogramm\u00e9trie",
+                "scanner 3D",
+                "traitement d'images",
+                "archives"
+            ],
+            "Employees": 75
+        },
+        {
+            "Name": "Imagine Optic",
+            "url": "https://www.imagine-optic.com/",
+            "Description": "Fabricant d'analyseurs de front d'onde (Shack-Hartmann), de miroirs d\u00e9formables et de logiciels d'optique adaptative et de m\u00e9trologie optique, avec un \u00e9tablissement \u00e0 Talence.",
+            "Info": "Si\u00e8ge \u00e0 Orsay ; \u00e9tablissement actif de petite taille \u00e0 Talence (l'ancien \u00e9tablissement de la Cit\u00e9 de la Photonique \u00e0 Pessac est ferm\u00e9). Effectif = tranche de l'entreprise.",
+            "Place": [
+                {
+                    "City": "Orsay",
+                    "Coordinates": [
+                        48.7027,
+                        2.19135
+                    ],
+                    "SIREN": "410072532",
+                    "Address": "18 Rue Charles de Gaulle, 91400 Orsay"
+                },
+                {
+                    "City": "Talence"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Keywords": [
+                "m\u00e9trologie",
+                "optique adaptative",
+                "laser",
+                "microscopie",
+                "front d'onde"
+            ],
+            "Employees": 75
+        },
+        {
+            "Name": "R&D Vision",
+            "url": "https://www.rd-vision.com/",
+            "Description": "Groupe sp\u00e9cialis\u00e9 dans la conception de syst\u00e8mes d'imagerie (cam\u00e9ras rapides, vision industrielle, solutions optiques et IA) pour l'a\u00e9rospatial, le ferroviaire et l'industrie, avec un bureau \u00e0 Bordeaux.",
+            "Info": "Si\u00e8ge \u00e0 Saint-Maur-des-Foss\u00e9s ; \u00e9tablissement bordelais de tr\u00e8s petite taille (1-2 salari\u00e9s). Effectif = tranche de l'entreprise.",
+            "Place": [
+                {
+                    "City": "Saint-Maur-des-Foss\u00e9s",
+                    "Coordinates": [
+                        48.79957,
+                        2.47438
+                    ],
+                    "SIREN": "440955300",
+                    "Address": "64 Rue Bourdignon, 94100 Saint-Maur-des-Foss\u00e9s"
+                },
+                {
+                    "City": "Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "vision par ordinateur",
+                "cam\u00e9ras rapides",
+                "deep learning",
+                "a\u00e9ronautique",
+                "m\u00e9trologie"
+            ],
+            "Employees": 35
+        },
+        {
+            "Name": "optim.aize",
+            "url": "https://optimaize.fr/",
+            "Description": "Start-up bordelaise qui \u00e9dite YAAPS, plateforme de jumeau num\u00e9rique d'infrastructures combinant capteurs IoT, imagerie drone et satellite (InSAR), IA et SIG.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.81529,
+                        -0.57243
+                    ],
+                    "SIREN": "905256020",
+                    "Address": "366 Cours de la Somme, 33800 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Web/Cloud/Big Data",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "\u00c9nergie/Environnement",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "jumeau num\u00e9rique",
+                "SIG",
+                "imagerie satellite",
+                "drone",
+                "photogramm\u00e9trie"
+            ],
+            "Employees": 8
+        },
+        {
+            "Name": "Netcarbon",
+            "url": "https://www.netcarbon.fr/",
+            "Description": "\u00c9diteur bordelais d'une application de cartographie environnementale qui analyse l'imagerie satellite et a\u00e9rienne par IA pour mesurer et simuler l'impact de projets d'am\u00e9nagement et de renaturation.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.84103,
+                        -0.57051
+                    ],
+                    "SIREN": "909287278",
+                    "Address": "2 Place de la Bourse, 33000 Bordeaux"
+                },
+                {
+                    "City": "M\u00e9rignac"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Analyse de donn\u00e9es",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "\u00c9nergie/Environnement",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "imagerie satellite",
+                "SIG",
+                "deep learning",
+                "cartographie",
+                "simulation"
+            ],
+            "Employees": 15
         }
     ]
 }
