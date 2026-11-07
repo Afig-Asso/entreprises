@@ -682,7 +682,7 @@
       State: California
       City: Mountain View
     - Country: Inde
-      City: Bengaluru
+      City: Bangalore
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, VR/AR]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
 
@@ -1334,7 +1334,7 @@
       State: California
       City: Los Angeles
     - Country: Royaume-Uni
-      City: London
+      City: Londres
     - Country: France
       City: Paris
     - Country: Allemagne
@@ -1351,7 +1351,7 @@
   Description: IA générative pour le son, l'image et les modèles 3D.
   Place:
     - Country: Royaume-Uni
-      City: London
+      City: Londres
     - Country: Japon
       City: Tokyo
   Scientific-domain: [IA générative (image/3D), Vision]
@@ -1386,7 +1386,7 @@
   Description: "Jeux dans la ville en AR"
   Place: 
     - Country: Royaume-Uni
-      City: London
+      City: Londres
   Scientific-domain: [Vision, VR/AR]
   Application-domain: [Jeu Vidéo]
 
@@ -1541,7 +1541,7 @@
     - Country: France
       City: Paris
     - Country: Royaume-Uni
-      City: London
+      City: Londres
     - Country: Belgique
       City: Liège
     - Country: Inde
@@ -1558,7 +1558,7 @@
       City: [Paris, Montpellier]
       Exact: Vanves
     - Country: Royaume-Uni
-      City: London
+      City: Londres
   Scientific-domain: [Rendu offline/VFX, Animation, Simulation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://careers.theyard-vfx.com/en-GB

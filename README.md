@@ -635,7 +635,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[GridRaster](https://gridraster.com/)**  
   * _Spatial Mapping, Recognition and Alignment for XR_
-  * **Localisation**: États-Unis/California/Mountain View, Inde/Bengaluru
+  * **Localisation**: États-Unis/California/Mountain View, Inde/Bangalore
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, VR/AR
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
   * [_Jobs_](https://gridraster.com/careers-jobs/)
@@ -997,7 +997,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[MPC / The Mill](https://www.themill.com/)**  
   * _Création de VFX pour le cinéma, les séries et la publicité (studios MPC et The Mill)_
   * **Remarque**: _MPC et The Mill, anciens studios du groupe Technicolor, ont été repris par TransPerfect en 2025 après la faillite de Technicolor, puis réunis sous la marque The Mill en juin 2026. Le site <a href="https://www.mpcvfx.com/fr/">MPC Paris</a> reste actif._
-  * **Localisation**: France/Paris, Royaume-Uni/London, Belgique/Liège, Inde/Bangalore
+  * **Localisation**: France/Paris, Royaume-Uni/Londres, Belgique/Liège, Inde/Bangalore
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
   * [_Jobs_](https://www.mpcvfx.com/fr/carrieres/)
@@ -1316,7 +1316,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Square Enix](https://www.square-enix-games.com/fr_FR/home)**  
   * _Editeur de jeu vidéos_
-  * **Localisation**: États-Unis/California/Los Angeles, Royaume-Uni/London, France/Paris, Allemagne/Hamburg, Japon/Tokyo
+  * **Localisation**: États-Unis/California/Los Angeles, Royaume-Uni/Londres, France/Paris, Allemagne/Hamburg, Japon/Tokyo
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://apply.workable.com/square-enix/)
@@ -1324,7 +1324,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Stability AI](https://stability.ai/)**  
   * _IA générative pour le son, l'image et les modèles 3D._
-  * **Localisation**: Royaume-Uni/London, Japon/Tokyo
+  * **Localisation**: Royaume-Uni/Londres, Japon/Tokyo
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision
   * **Domaine d'application**: Générique, Cinéma/Films d'Animation/VFX
 
@@ -1347,7 +1347,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 
 * **[Strollhunt](https://strollhunt.com/)**  
   * _Jeux dans la ville en AR_
-  * **Localisation**: Royaume-Uni/London
+  * **Localisation**: Royaume-Uni/Londres
   * **Domaine scientifique/technique**: Vision, VR/AR
   * **Domaine d'application**: Jeu Vidéo
 
@@ -1467,7 +1467,7 @@ Après un push sur github, les éléments suivants sont mis à jours:
 * **[The Yard VFX](https://theyard-vfx.com/)**  
   * _Création d'effets visuels photoréalistes pour le cinéma (VFX)_
   * **Mots clés**: _Graphics, VFX, Pipeline_
-  * **Localisation**: France/{Paris, Montpellier} (Vanves), Royaume-Uni/London
+  * **Localisation**: France/{Paris, Montpellier} (Vanves), Royaume-Uni/Londres
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Simulation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX

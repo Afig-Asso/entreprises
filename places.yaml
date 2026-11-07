@@ -118,7 +118,6 @@ Inde:
   Pays: [22.3511, 78.6677]
   Villes:
     Bangalore: [12.9768, 77.5901]
-    Bengaluru: [12.9768, 77.5901]
 Japon:
   Villes:
     Saitama: [35.8617, 139.6455]
@@ -143,7 +142,6 @@ Pologne:
 Royaume-Uni:
   Pays: [54.7024, -3.2766]
   Villes:
-    London: [51.5074, -0.1278]
     Londres: [51.5074, -0.1278]
     Oxford: [51.752, -1.2578]
 Singapour:

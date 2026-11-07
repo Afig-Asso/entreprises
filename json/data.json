@@ -323,10 +323,6 @@
             12.9768,
             77.5901
         ],
-        "Inde/Bengaluru": [
-            12.9768,
-            77.5901
-        ],
         "Japon/Saitama": [
             35.8617,
             139.6455
@@ -374,10 +370,6 @@
         "Royaume-Uni": [
             54.7024,
             -3.2766
-        ],
-        "Royaume-Uni/London": [
-            51.5074,
-            -0.1278
         ],
         "Royaume-Uni/Londres": [
             51.5074,
@@ -1857,7 +1849,7 @@
                 },
                 {
                     "Country": "Inde",
-                    "City": "Bengaluru"
+                    "City": "Bangalore"
                 }
             ],
             "Scientific-domain": [
@@ -3142,7 +3134,7 @@
                 },
                 {
                     "Country": "Royaume-Uni",
-                    "City": "London"
+                    "City": "Londres"
                 },
                 {
                     "Country": "France",
@@ -3175,7 +3167,7 @@
             "Place": [
                 {
                     "Country": "Royaume-Uni",
-                    "City": "London"
+                    "City": "Londres"
                 },
                 {
                     "Country": "Japon",
@@ -3245,7 +3237,7 @@
             "Place": [
                 {
                     "Country": "Royaume-Uni",
-                    "City": "London"
+                    "City": "Londres"
                 }
             ],
             "Scientific-domain": [
@@ -3547,7 +3539,7 @@
                 },
                 {
                     "Country": "Royaume-Uni",
-                    "City": "London"
+                    "City": "Londres"
                 },
                 {
                     "Country": "Belgique",
@@ -3583,7 +3575,7 @@
                 },
                 {
                     "Country": "Royaume-Uni",
-                    "City": "London"
+                    "City": "Londres"
                 }
             ],
             "Scientific-domain": [
