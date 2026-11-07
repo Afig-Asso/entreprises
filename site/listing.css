@@ -487,6 +487,55 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 }
 
 /* ======================================================================
+   Vue carte (Leaflet, chargee a la demande)
+   ====================================================================== */
+.view-map .tag-legend { display: none; }
+.map-view[hidden] { display: none; }
+.map-frames { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 0.6rem; }
+.map-frame {
+    min-height: 32px; padding: 0 0.85rem; border: 1px solid var(--line-2); border-radius: 999px;
+    background: white; font-size: 0.82rem; font-weight: 600; color: var(--text-2);
+    transition: background-color var(--ease), border-color var(--ease);
+}
+.map-frame:hover { border-color: var(--afig-600); background: var(--afig-50); color: var(--text); }
+/* hauteur fixe : dans l'iframe du site AFIG, vh vaut toute la hauteur de la page */
+.map {
+    height: 560px; border-radius: var(--radius); border: 1px solid var(--line-2);
+    background: #f2f4ef; font-family: var(--font); z-index: 0;
+}
+.map .leaflet-tile-pane { filter: grayscale(0.7) brightness(1.03) contrast(0.95); }  /* fond sobre, les marqueurs verts ressortent */
+.map-note { margin-top: 0.6rem; font-size: 0.82rem; color: var(--muted); }
+.leaflet-marker-icon.map-pin {
+    display: flex; align-items: center; justify-content: center;
+    border-radius: 999px; font-family: var(--font); font-weight: 700; font-size: 0.8rem;
+    font-variant-numeric: tabular-nums; box-shadow: 0 1px 4px rgba(29, 42, 0, 0.35);
+}
+.map-city { background: var(--afig); color: var(--ink); border: 2px solid white; }
+.map-cluster { background: var(--ink); color: var(--afig); border: 3px solid rgba(162, 208, 38, 0.6); }
+.map-country { background: white; color: var(--afig-800); border: 2px dashed var(--afig-700); }
+.map-pin:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+.leaflet-container a.leaflet-popup-close-button { width: 28px; height: 28px; font-size: 20px; }
+.leaflet-popup-content-wrapper { border-radius: var(--radius); box-shadow: var(--shadow-md); }
+.leaflet-popup-content { margin: 0.8rem 1rem; font-family: var(--font); font-size: 0.86rem; line-height: 1.4; }
+.map-popup-title { font-family: var(--font-title); font-weight: 800; font-size: 1.05rem; color: var(--text); padding-right: 1rem; }
+.map-popup-count { font-family: var(--font); font-weight: 400; font-size: 0.78rem; color: var(--muted); }
+.map-popup-hint { font-size: 0.76rem; color: var(--muted); margin-top: 0.15rem; }
+.map-popup ul { margin: 0.5rem 0 0.6rem; max-height: 220px; overflow-y: auto; }
+.map-popup li { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; padding: 3px 0; border-bottom: 1px solid var(--line); }
+.leaflet-container .map-popup li > a:first-child { color: var(--text); font-weight: 600; }
+.leaflet-container a.map-popup-jobs { color: var(--afig-800); }
+.leaflet-container a.map-popup-jobs:hover { background: var(--afig-800); color: white; text-decoration: none; }
+.map-popup-jobs {
+    flex: none; display: inline-flex; align-items: center; min-height: 24px; padding: 0 0.5rem;
+    border: 1.5px solid var(--afig-700); border-radius: 6px; color: var(--afig-800); font-size: 0.72rem; font-weight: 700;
+}
+.map-to-list {
+    border: 0; background: var(--ink); color: var(--afig); border-radius: 999px;
+    min-height: 32px; padding: 0 1rem; font-weight: 700; font-size: 0.8rem;
+}
+.map-to-list:hover { background: #33470a; }
+
+/* ======================================================================
    Integration en iframe (site de l'AFIG) : la page parente defile
    ====================================================================== */
 .embedded body { background: transparent; padding-left: 2px; padding-right: 2px; }
@@ -530,6 +579,9 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     .place-index-label { padding-top: 0; }
     .title-place { font-size: 1.35rem; margin-top: 2rem; }
 }
+@media (max-width: 760px) {
+    .map { height: 420px; }
+}
 @media (max-width: 420px) {
     .jobs-link { padding: 0 0.6rem; }
     .company:not(.company-compact) .jobs-link::after { display: none; }
@@ -540,7 +592,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 }
 @media print {
     body { max-width: none; }
-    .toolbar, .jobs, .skip-link, .place-index, .tag-legend, .shortcuts { display: none; }
+    .toolbar, .jobs, .skip-link, .place-index, .tag-legend, .shortcuts, .map-view { display: none; }
     .company.has-jobs { box-shadow: none; }
     .company { break-inside: avoid; }
 }

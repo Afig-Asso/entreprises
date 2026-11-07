@@ -34,6 +34,9 @@
 #     - Country: NomPays3
 #       City: NomVille1-Pays3
 #   L'ajout du tag: "International: True" indique une entreprise présente de manière internationale.
+#   Coordonnées précises (optionnel, pour la carte du site) : ajouter "Coordinates: [latitude, longitude]"
+#   à un lieu qui ne contient qu'une ville, ex. {City: Paris, Coordinates: [48.8698, 2.3075]}.
+#   Sinon la carte utilise la position de la ville, lue dans places.yaml.
 #
 # Rem. 
 #   - Les entreprises n'ont pas besoin d'être ordonnées alphabétiquement, le script scripts/sort_data.py permet de ré-ordonner automatiquement.

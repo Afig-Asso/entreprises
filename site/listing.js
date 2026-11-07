@@ -14,6 +14,7 @@ const UX = {
     'sorting': {
         'alphabetical': document.querySelector('#sort-alphabetical'),
         'place': document.querySelector('#sort-place'),
+        'map': document.querySelector('#sort-map'),
     },
     'details': document.querySelector('#display-details'),
     'france-only': document.querySelector('#france-only'),
@@ -544,7 +545,10 @@ function display_company(data, N_displayed) {
 
 // Jump to a place heading (inside the AFIG iframe, the parent page has to scroll)
 function jump_to_place(link) {
-    const target = document.getElementById(link.getAttribute('href').slice(1));
+    jump_to_target(document.getElementById(link.getAttribute('href').slice(1)));
+}
+
+function jump_to_target(target) {
     if(!target) {
         return;
     }
@@ -675,13 +679,21 @@ function update_display() {
     const N_displayed = data_to_display.length;
     const N_jobs = data_to_display.filter((e) => get_string(e['Jobs'])!='').length;
 
-    if(UX['sorting']['place'].checked){
-        data_to_display = sort_by_place(data_to_display);
-    }
-
     Global['rendered-ids'] = new Set();
     display_summary(N_displayed, N_jobs);
-    listing_element.innerHTML = display_company(data_to_display, N_displayed);
+    const map_view = UX['sorting']['map'].checked;
+    document.documentElement.classList.toggle('view-map', map_view);
+    map_element.hidden = !map_view;
+    if(map_view) {
+        listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
+        display_map(data_to_display);
+    }
+    else {
+        if(UX['sorting']['place'].checked){
+            data_to_display = sort_by_place(data_to_display);
+        }
+        listing_element.innerHTML = display_company(data_to_display, N_displayed);
+    }
     update_filter_state();
     update_keyword_counts(search_words);
     update_shortcuts();
@@ -886,7 +898,7 @@ UX['search'].addEventListener('search', () => { // clear button of the search fi
     update_display();
 });
 
-for(const element of [UX['sorting']['alphabetical'], UX['sorting']['place'], UX['details'], UX['france-only'], UX['jobs-only']]) {
+for(const element of [UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['map'], UX['details'], UX['france-only'], UX['jobs-only']]) {
     element.addEventListener('change', update_display);
 }
 
@@ -1017,4 +1029,212 @@ function answer(data) {
     build_shortcuts();
 
     update_display();
+}
+
+
+
+
+// ---------------------------------------------------------------------------
+// Map view: one marker per city (coordinates of places.yaml, exported in data.json 'Places')
+// Leaflet is loaded only when the map is opened for the first time.
+// ---------------------------------------------------------------------------
+
+const map_element = document.querySelector('#map-view');
+const MAP = {'map': null, 'cluster': null, 'loading': null, 'bounds': null, 'framed': false};
+const MAP_FRAMES = {
+    'world': [[-45, -130], [65, 150]],
+    'europe': [[36, -10], [60, 25]],
+    'france': [[42.2, -4.8], [51.1, 8.3]],
+};
+
+// Same rules as scripts/liblisting/places.py
+function split_names(value) {
+    if(value==undefined) return [];
+    if(is_type_string(value)) return value.split(',').map((v) => v.trim()).filter((v) => v!='');
+    if(is_type_array(value)) return value.flatMap(split_names);
+    return [String(value)];
+}
+
+function expand_places(place) {
+    if(place==undefined) return [];
+    if(is_type_string(place)) return split_names(place).map((c) => ({'Country': 'France', 'City': c, 'Coordinates': null}));
+    if(is_type_array(place)) return place.flatMap(expand_places);
+    const countries = split_names(place['Country']);
+    const cities = split_names(place['City']).length>0 ? split_names(place['City']) : split_names(place['State']);
+    if(cities.length==0 && place['International']===true && countries.length==0) return [];
+    const precise = (countries.length<=1 && cities.length<=1) ? (place['Coordinates'] || null) : null;
+    const out = [];
+    for(const country of (countries.length>0 ? countries : ['France'])) {
+        for(const city of (cities.length>0 ? cities : [''])) {
+            out.push({'Country': country, 'City': city, 'Coordinates': precise});
+        }
+    }
+    return out;
+}
+
+function map_place_key(country, city) {
+    return city=='' ? country : `${country}/${city}`;
+}
+
+// Group the companies by location: key -> {label, coords, country_only, list_id, entries}
+function map_groups(entries) {
+    const places = company_data['Places'] || {};
+    const groups = new Map();
+    let N_unplaced = 0;
+    for(const entry of entries) {
+        const seen = new Set();
+        let placed = false;
+        for(const loc of expand_places(entry['Place'])) {
+            const key = map_place_key(loc['Country'], loc['City']);
+            const coords = loc['Coordinates'] || places[key];
+            if(coords==undefined) continue;
+            const group_key = loc['Coordinates'] ? `${key}@${coords}` : key;
+            placed = true;
+            if(seen.has(group_key)) continue;
+            seen.add(group_key);
+            if(!groups.has(group_key)) {
+                const country_only = loc['City']=='';
+                const label = country_only ? loc['Country'] : (loc['Country']=='France' ? loc['City'] : `${loc['City']} (${loc['Country']})`);
+                // heading of the place view to jump to: French city, or country
+                const list_id = (loc['Country']=='France' && !country_only) ? place_id('ville', loc['City']) : place_id('pays', loc['Country']);
+                groups.set(group_key, {'label': label, 'coords': coords, 'country_only': country_only, 'list_id': list_id, 'entries': []});
+            }
+            groups.get(group_key)['entries'].push(entry);
+        }
+        if(!placed) N_unplaced++;
+    }
+    return [groups, N_unplaced];
+}
+
+function load_map_library() {
+    if(MAP['loading']==null) {
+        const add = (tag, attributes) => new Promise((resolve, reject) => {
+            const element = document.createElement(tag);
+            Object.assign(element, attributes);
+            element.onload = resolve;
+            element.onerror = () => reject(new Error('Chargement impossible : ' + (attributes.src || attributes.href)));
+            document.head.appendChild(element);
+        });
+        MAP['loading'] = Promise.all([
+            add('link', {'rel': 'stylesheet', 'href': 'leaflet/leaflet.css'}),
+            add('link', {'rel': 'stylesheet', 'href': 'leaflet/MarkerCluster.css'}),
+            add('script', {'src': 'leaflet/leaflet.js'}).then(() => add('script', {'src': 'leaflet/leaflet.markercluster.js'})),
+        ]);
+    }
+    return MAP['loading'];
+}
+
+function create_map() {
+    const map = L.map('map', {'scrollWheelZoom': false, 'worldCopyJump': true, 'minZoom': 2});
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        'attribution': '&copy; <a href="https://www.openstreetmap.org/copyright">contributeurs OpenStreetMap</a>',
+        'maxZoom': 18,
+    }).addTo(map);
+    // The page scrolls inside the AFIG site: the wheel zooms only after a click on the map
+    map.on('click focus', () => map.scrollWheelZoom.enable());
+    map.on('mouseout blur', () => map.scrollWheelZoom.disable());
+    // Leaflet stops the clicks inside a popup: bind its button when it opens
+    map.on('popupopen', (event) => {
+        const button = event.popup.getElement().querySelector('.map-to-list');
+        if(button) button.addEventListener('click', () => show_in_list(button.dataset.target));
+    });
+    MAP['cluster'] = L.markerClusterGroup({
+        'showCoverageOnHover': false, 'maxClusterRadius': 45, 'spiderfyOnMaxZoom': true,
+        'iconCreateFunction': (cluster) => {
+            const N = cluster.getAllChildMarkers().reduce((sum, m) => sum + m.options.count, 0);
+            return map_icon(N, 'map-cluster');
+        },
+    }).addTo(map);
+    MAP['map'] = map;
+}
+
+function map_icon(N, className) {
+    const size = Math.round(30 + 6*Math.log2(Math.max(N, 1)));
+    return L.divIcon({'className': 'map-pin ' + className, 'html': `<span>${N}</span>`, 'iconSize': [size, size]});
+}
+
+function map_popup(group) {
+    const N = group['entries'].length;
+    let txt = `<div class="map-popup"><p class="map-popup-title">${group['label']} <span class="map-popup-count">${plural_companies(N)}</span></p>`;
+    if(group['country_only']) {
+        txt += '<p class="map-popup-hint">Ville non précisée : position du pays.</p>';
+    }
+    txt += '<ul role="list">';
+    for(const entry of group['entries']) {
+        const jobs = get_string(entry['Jobs']);
+        txt += `<li><a target="_blank" href="${entry['url']}">${entry['Name']}${NEW_TAB}</a>`;
+        if(jobs!='') {
+            txt += ` <a class="map-popup-jobs" target="_blank" href="${jobs}">Offres<span class="visually-hidden"> d'emploi chez ${esc(entry['Name'])} (nouvel onglet)</span></a>`;
+        }
+        txt += '</li>';
+    }
+    txt += `</ul><button type="button" class="map-to-list" data-target="${group['list_id']}">Voir dans la liste</button></div>`;
+    return txt;
+}
+
+function display_map(entries) {
+    load_map_library().then(() => {
+        if(MAP['map']==null) create_map();
+        const [groups, N_unplaced] = map_groups(entries);
+        MAP['cluster'].clearLayers();
+        const markers = [];
+        for(const group of groups.values()) {
+            const N = group['entries'].length;
+            const marker = L.marker(group['coords'], {
+                'icon': map_icon(N, group['country_only'] ? 'map-country' : 'map-city'),
+                'title': `${group['label']} : ${plural_companies(N)}`,
+                'alt': `${group['label']} : ${plural_companies(N)}`,
+                'count': N, 'keyboard': true,
+            });
+            marker.bindPopup(() => map_popup(group), {'maxWidth': 300, 'autoPanPadding': [20, 20]});
+            markers.push(marker);
+        }
+        MAP['cluster'].addLayers(markers);
+        MAP['bounds'] = markers.length>0 ? L.latLngBounds(markers.map((m) => m.getLatLng())) : null;
+        MAP['map'].invalidateSize();
+        map_frame('fit');
+        const note = document.querySelector('#map-note');
+        let txt = 'Un marqueur par ville ; un cercle en pointillés indique un pays sans ville précisée. La vue « Localité » donne les mêmes informations sous forme de liste.';
+        if(N_unplaced>0) {
+            txt = (N_unplaced>1 ? `${N_unplaced} entreprises présentes à l'international sans lieu précis ne sont pas sur la carte. `
+                : "1 entreprise présente à l'international sans lieu précis n'est pas sur la carte. ") + txt;
+        }
+        note.textContent = txt;
+    }).catch((error) => {
+        document.querySelector('#map-note').textContent = 'La carte ne peut pas être chargée. ' + error.message;
+    });
+}
+
+function map_frame(frame) {
+    if(MAP['map']==null) return;
+    if(frame=='fit') {
+        if(MAP['bounds']!=null) MAP['map'].fitBounds(MAP['bounds'], {'padding': [30, 30], 'maxZoom': 11});
+        else MAP['map'].fitBounds(MAP_FRAMES['world']);
+        return;
+    }
+    MAP['map'].fitBounds(MAP_FRAMES[frame]);
+}
+
+map_element.addEventListener('click', (event) => {
+    const frame = event.target.closest('.map-frame');
+    if(frame) {
+        map_frame(frame.dataset.frame);
+        return;
+    }
+});
+
+// From a marker of the map to the heading of the place view
+function show_in_list(target_id) {
+    MAP['map'].closePopup();
+    UX['sorting']['place'].checked = true;
+    update_display();
+    const jump = () => jump_to_target(document.getElementById(target_id));
+    if(document.documentElement.classList.contains('embedded') && window.parentIFrame!=undefined) {
+        // the list is much taller than the map: let the AFIG page resize the iframe first
+        window.parentIFrame.size();
+        setTimeout(jump, 250);
+    }
+    else {
+        jump();
+    }
 }

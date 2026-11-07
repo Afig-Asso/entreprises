@@ -1,0 +1,158 @@
+# Coordonnées [latitude, longitude] des lieux de data.yaml, pour la carte du site.
+# Pays : position utilisée quand seul le pays est connu. Villes : une ligne par ville
+# (ou par État quand il n'y a pas de ville). Compléter avec scripts/geocode_places.py,
+# puis vérifier à la main.
+
+Allemagne:
+  Pays: [51.1638, 10.4478]
+  Villes:
+    Berlin: [52.5174, 13.3951]
+    Dusseldorf: [51.2254, 6.7763]
+    Hamburg: [53.5502, 10.0013]
+    Munich: [48.1371, 11.5754]
+Australie:
+  Pays: [-24.7761, 134.755]
+  Villes:
+    Sydney: [-33.8698, 151.2083]
+Belgique:
+  Pays: [50.6403, 4.6667]
+  Villes:
+    Charleroi: [50.4116, 4.4445]
+    Liège: [50.6451, 5.5736]
+Brésil:
+  Villes:
+    São Paulo: [-23.5507, -46.6334]
+Canada:
+  Pays: [61.0667, -107.9917]
+  Villes:
+    Kingston: [44.3054, -76.4284]
+    Montréal: [45.5032, -73.5698]
+    Ontario: [50.0007, -86.001]
+    Toronto: [43.6535, -79.3839]
+    Vancouver: [49.2609, -123.114]
+Chine:
+  Pays: [34.5412, 108.9237]
+  Villes:
+    Nanjing: [32.0438, 118.7789]
+    Shanghai: [31.2313, 121.47]
+Corée du Sud:
+  Pays: [36.6384, 127.6961]
+Danemark:
+  Pays: [55.6702, 10.3333]
+  Villes:
+    Aarhus: [56.1496, 10.2134]
+Espagne:
+  Pays: [39.3261, -4.838]
+  Villes:
+    Madrid: [40.4168, -3.7035]
+États-Unis:
+  Pays: [39.7837, -100.4459]
+  Villes:
+    Atlanta: [33.7545, -84.3898]
+    Bellevue: [47.6144, -122.1923]
+    Bend: [44.0582, -121.3153]
+    Boston: [42.3588, -71.0578]
+    Boulder: [40.015, -105.2705]
+    Burbank: [34.1812, -118.3072]
+    California: [36.7015, -118.756]
+    Canonsburg: [40.2588, -80.1867]
+    Carlsbad: [33.1352, -117.3291]
+    Colorado: [38.7252, -105.6077]
+    Conifer: [39.5233, -105.3055]
+    Corvallis: [44.5646, -123.262]
+    Costa Mesa: [33.6633, -117.9033]
+    Cupertino: [37.3229, -122.0323]
+    Detroit: [42.3316, -83.0466]
+    Florida: [27.7568, -81.464]
+    Los Angeles: [34.0537, -118.2428]
+    Menlo Park: [37.452, -122.178]
+    Mount Dora: [28.8005, -81.6447]
+    Mountain View: [37.3894, -122.0832]
+    New York: [40.7127, -74.006]
+    Orlando: [28.5421, -81.379]
+    Portland: [45.5202, -122.6742]
+    Redmond: [47.6694, -122.1239]
+    San Francisco: [37.7879, -122.4075]
+    San Jose: [37.3362, -121.8906]
+    San Mateo: [37.563, -122.3255]
+    Santa Clara: [37.3541, -121.9552]
+    Santa Monica: [34.0195, -118.4912]
+    Waltham: [42.3762, -71.2356]
+Finlande:
+  Pays: [63.2468, 25.9209]
+France:
+  Villes:
+    Aix-en-Provence: [43.5298, 5.4475]
+    Angoulême: [45.6485, 0.1562]
+    Annecy: [45.8992, 6.1289]
+    Besançon: [47.238, 6.0244]
+    Biot: [43.627, 7.099]
+    Bordeaux: [44.8412, -0.58]
+    Compiègne: [49.4179, 2.8263]
+    Évry-Courcouronnes: [48.63, 2.4382]
+    Grenoble: [45.1876, 5.7358]
+    La Farlède: [43.1597, 6.0432]
+    Laval: [48.0707, -0.7734]
+    Lille: [50.6366, 3.0635]
+    Limoges: [45.8354, 1.2645]
+    Lyon: [45.7578, 4.832]
+    Metz: [49.1197, 6.1764]
+    Meylan: [45.2097, 5.7784]
+    Montpellier: [43.6112, 3.8767]
+    Orléans: [47.9027, 1.9086]
+    Paris: [48.8589, 2.32]
+    Pertuis: [43.6951, 5.5033]
+    Pessac: [44.8056, -0.6308]
+    Rennes: [48.1113, -1.68]
+    Roubaix: [50.6916, 3.1742]
+    Saint-Germain-en-Laye: [48.9313, 2.0913]
+    Saint-Paul (La Réunion): [-21.0006, 55.2772]
+    Sophia Antipolis: [43.6195, 7.0518]
+    Strasbourg: [48.5846, 7.7507]
+    Tarbes: [43.2329, 0.0781]
+    Toulouse: [43.6045, 1.4442]
+    Valence: [44.9332, 4.8921]
+    Vernon: [49.0932, 1.4857]
+    Villeurbanne: [45.7661, 4.8796]
+Inde:
+  Pays: [22.3511, 78.6677]
+  Villes:
+    Bangalore: [12.9768, 77.5901]
+    Bengaluru: [12.9768, 77.5901]
+Japon:
+  Villes:
+    Saitama: [35.8617, 139.6455]
+    Tokyo: [35.6769, 139.7639]
+Lituanie:
+  Pays: [55.35, 23.75]
+Maurice:
+  Pays: [-20.2759, 57.5704]
+Norvège:
+  Pays: [61.1529, 8.7877]
+Nouvelle-Zélande:
+  Pays: [-41.5001, 172.8344]
+  Villes:
+    Queenstown: [-45.0322, 168.661]
+    Wellington: [-41.2888, 174.7772]
+Pays-Bas:
+  Pays: [52.2435, 5.6343]
+  Villes:
+    Eindhoven: [51.4486, 5.4501]
+Pologne:
+  Pays: [52.2159, 19.1344]
+Royaume-Uni:
+  Pays: [54.7024, -3.2766]
+  Villes:
+    London: [51.5074, -0.1278]
+    Londres: [51.5074, -0.1278]
+    Oxford: [51.752, -1.2578]
+Singapour:
+  Pays: [1.3571, 103.8195]
+Suède:
+  Villes:
+    Stockholm: [59.3251, 18.0711]
+Suisse:
+  Pays: [46.7986, 8.232]
+  Villes:
+    Lausanne: [46.5218, 6.6327]
+    Rotkreuz: [47.1417, 8.4306]

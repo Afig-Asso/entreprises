@@ -7,11 +7,13 @@ import tqdm
 
 sys.path.append(os.path.dirname(os.path.realpath(__file__)))
 import liblisting
+from liblisting import places
 
 meta = {
     'filename_yaml': 'data.yaml',
     'filename_yaml_keywords': 'keywords.yaml',
     'filename_yaml_url_exceptions': 'url_exceptions.yaml',
+    'filename_yaml_places': 'places.yaml',
     'filename_json_out': 'json/data.json',
     'filename_md_out': 'README.md'
 }
@@ -212,7 +214,7 @@ def check_keywords(data_keywords, data, exitOnError=False):
 # Keys accepted in data.yaml (anything else is most likely a typo)
 REQUIRED_KEYS = ['Name', 'url', 'Place', 'Scientific-domain', 'Application-domain']
 OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords', 'Highlight']
-PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International']
+PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International', 'Coordinates']
 # Country names are written in French (the site groups companies by country name)
 COUNTRIES = ['Allemagne', 'Australie', 'Belgique', 'Brésil', 'Canada', 'Chine', 'Corée du Sud', 'Danemark',
              'Espagne', 'États-Unis', 'Finlande', 'France', 'Inde', 'Israël', 'Italie', 'Japon', 'Lituanie',
@@ -295,6 +297,7 @@ if __name__ == "__main__":
     filename_yaml = root_path+'/../'+meta['filename_yaml']
     filename_yaml_keywords = root_path+'/../'+meta['filename_yaml_keywords']
     filename_yaml_url_exceptions = root_path+'/../'+meta['filename_yaml_url_exceptions']
+    filename_yaml_places = root_path+'/../'+meta['filename_yaml_places']
     filename_json_out = root_path+'/../'+meta['filename_json_out']
     filename_md_out = root_path+'/../'+meta['filename_md_out']
 
@@ -319,6 +322,12 @@ if __name__ == "__main__":
         liblisting.check_urls(urls, exitOnError=exit_on_failure, exceptions=exceptions)
         print('Check URLs done\n')
 
+    # Coordinates of the places, for the map of the site (places.yaml, completed by scripts/geocode_places.py)
+    places_table = liblisting.yaml_read_file(filename_yaml_places) if os.path.isfile(filename_yaml_places) else {}
+    places_coordinates, places_missing = places.coordinates_table(data, places_table)
+    for country, city in places_missing:
+        print(f'!! Warning: no coordinates for place [{places.place_key(country, city)}] in places.yaml (run scripts/geocode_places.py)')
+
     # export json
     # 'Updated' only changes when the content changes, so that regenerating does not create a diff
     updated = datetime.date.today().isoformat()
@@ -326,11 +335,11 @@ if __name__ == "__main__":
         with open(filename_json_out) as fid:
             try:
                 previous = json.load(fid)
-                if previous.get('Keywords') == data_keywords and previous.get('Listing') == data and 'Updated' in previous:
+                if previous.get('Keywords') == data_keywords and previous.get('Listing') == data and previous.get('Places') == places_coordinates and 'Updated' in previous:
                     updated = previous['Updated']
             except json.JSONDecodeError:
                 pass
-    json_data = {'Updated':updated, 'Keywords':data_keywords, 'Listing':data}
+    json_data = {'Updated':updated, 'Keywords':data_keywords, 'Places':places_coordinates, 'Listing':data}
     with open(filename_json_out, 'w') as json_fid:
         json.dump(json_data, json_fid, indent=4)
 

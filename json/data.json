@@ -1,5 +1,5 @@
 {
-    "Updated": "2026-11-06",
+    "Updated": "2026-11-07",
     "Keywords": {
         "Scientific-domain": [
             {
@@ -80,6 +80,456 @@
             "\u00c9nergie/Environnement",
             "Autres",
             "G\u00e9n\u00e9rique"
+        ]
+    },
+    "Places": {
+        "Allemagne": [
+            51.1638,
+            10.4478
+        ],
+        "Allemagne/Berlin": [
+            52.5174,
+            13.3951
+        ],
+        "Allemagne/Dusseldorf": [
+            51.2254,
+            6.7763
+        ],
+        "Allemagne/Hamburg": [
+            53.5502,
+            10.0013
+        ],
+        "Allemagne/Munich": [
+            48.1371,
+            11.5754
+        ],
+        "Australie": [
+            -24.7761,
+            134.755
+        ],
+        "Australie/Sydney": [
+            -33.8698,
+            151.2083
+        ],
+        "Belgique": [
+            50.6403,
+            4.6667
+        ],
+        "Belgique/Charleroi": [
+            50.4116,
+            4.4445
+        ],
+        "Belgique/Li\u00e8ge": [
+            50.6451,
+            5.5736
+        ],
+        "Br\u00e9sil/S\u00e3o Paulo": [
+            -23.5507,
+            -46.6334
+        ],
+        "Canada": [
+            61.0667,
+            -107.9917
+        ],
+        "Canada/Kingston": [
+            44.3054,
+            -76.4284
+        ],
+        "Canada/Montr\u00e9al": [
+            45.5032,
+            -73.5698
+        ],
+        "Canada/Ontario": [
+            50.0007,
+            -86.001
+        ],
+        "Canada/Toronto": [
+            43.6535,
+            -79.3839
+        ],
+        "Canada/Vancouver": [
+            49.2609,
+            -123.114
+        ],
+        "Chine": [
+            34.5412,
+            108.9237
+        ],
+        "Chine/Nanjing": [
+            32.0438,
+            118.7789
+        ],
+        "Chine/Shanghai": [
+            31.2313,
+            121.47
+        ],
+        "Cor\u00e9e du Sud": [
+            36.6384,
+            127.6961
+        ],
+        "Danemark": [
+            55.6702,
+            10.3333
+        ],
+        "Danemark/Aarhus": [
+            56.1496,
+            10.2134
+        ],
+        "Espagne": [
+            39.3261,
+            -4.838
+        ],
+        "Espagne/Madrid": [
+            40.4168,
+            -3.7035
+        ],
+        "Finlande": [
+            63.2468,
+            25.9209
+        ],
+        "France/Aix-en-Provence": [
+            43.5298,
+            5.4475
+        ],
+        "France/Angoul\u00eame": [
+            45.6485,
+            0.1562
+        ],
+        "France/Annecy": [
+            45.8992,
+            6.1289
+        ],
+        "France/Besan\u00e7on": [
+            47.238,
+            6.0244
+        ],
+        "France/Biot": [
+            43.627,
+            7.099
+        ],
+        "France/Bordeaux": [
+            44.8412,
+            -0.58
+        ],
+        "France/Compi\u00e8gne": [
+            49.4179,
+            2.8263
+        ],
+        "France/Grenoble": [
+            45.1876,
+            5.7358
+        ],
+        "France/La Farl\u00e8de": [
+            43.1597,
+            6.0432
+        ],
+        "France/Laval": [
+            48.0707,
+            -0.7734
+        ],
+        "France/Lille": [
+            50.6366,
+            3.0635
+        ],
+        "France/Limoges": [
+            45.8354,
+            1.2645
+        ],
+        "France/Lyon": [
+            45.7578,
+            4.832
+        ],
+        "France/Metz": [
+            49.1197,
+            6.1764
+        ],
+        "France/Meylan": [
+            45.2097,
+            5.7784
+        ],
+        "France/Montpellier": [
+            43.6112,
+            3.8767
+        ],
+        "France/Orl\u00e9ans": [
+            47.9027,
+            1.9086
+        ],
+        "France/Paris": [
+            48.8589,
+            2.32
+        ],
+        "France/Pertuis": [
+            43.6951,
+            5.5033
+        ],
+        "France/Pessac": [
+            44.8056,
+            -0.6308
+        ],
+        "France/Rennes": [
+            48.1113,
+            -1.68
+        ],
+        "France/Roubaix": [
+            50.6916,
+            3.1742
+        ],
+        "France/Saint-Germain-en-Laye": [
+            48.9313,
+            2.0913
+        ],
+        "France/Saint-Paul (La R\u00e9union)": [
+            -21.0006,
+            55.2772
+        ],
+        "France/Sophia Antipolis": [
+            43.6195,
+            7.0518
+        ],
+        "France/Strasbourg": [
+            48.5846,
+            7.7507
+        ],
+        "France/Tarbes": [
+            43.2329,
+            0.0781
+        ],
+        "France/Toulouse": [
+            43.6045,
+            1.4442
+        ],
+        "France/Valence": [
+            44.9332,
+            4.8921
+        ],
+        "France/Vernon": [
+            49.0932,
+            1.4857
+        ],
+        "France/Villeurbanne": [
+            45.7661,
+            4.8796
+        ],
+        "France/\u00c9vry-Courcouronnes": [
+            48.63,
+            2.4382
+        ],
+        "Inde": [
+            22.3511,
+            78.6677
+        ],
+        "Inde/Bangalore": [
+            12.9768,
+            77.5901
+        ],
+        "Inde/Bengaluru": [
+            12.9768,
+            77.5901
+        ],
+        "Japon/Saitama": [
+            35.8617,
+            139.6455
+        ],
+        "Japon/Tokyo": [
+            35.6769,
+            139.7639
+        ],
+        "Lituanie": [
+            55.35,
+            23.75
+        ],
+        "Maurice": [
+            -20.2759,
+            57.5704
+        ],
+        "Norv\u00e8ge": [
+            61.1529,
+            8.7877
+        ],
+        "Nouvelle-Z\u00e9lande": [
+            -41.5001,
+            172.8344
+        ],
+        "Nouvelle-Z\u00e9lande/Queenstown": [
+            -45.0322,
+            168.661
+        ],
+        "Nouvelle-Z\u00e9lande/Wellington": [
+            -41.2888,
+            174.7772
+        ],
+        "Pays-Bas": [
+            52.2435,
+            5.6343
+        ],
+        "Pays-Bas/Eindhoven": [
+            51.4486,
+            5.4501
+        ],
+        "Pologne": [
+            52.2159,
+            19.1344
+        ],
+        "Royaume-Uni": [
+            54.7024,
+            -3.2766
+        ],
+        "Royaume-Uni/London": [
+            51.5074,
+            -0.1278
+        ],
+        "Royaume-Uni/Londres": [
+            51.5074,
+            -0.1278
+        ],
+        "Royaume-Uni/Oxford": [
+            51.752,
+            -1.2578
+        ],
+        "Singapour": [
+            1.3571,
+            103.8195
+        ],
+        "Suisse": [
+            46.7986,
+            8.232
+        ],
+        "Suisse/Lausanne": [
+            46.5218,
+            6.6327
+        ],
+        "Suisse/Rotkreuz": [
+            47.1417,
+            8.4306
+        ],
+        "Su\u00e8de/Stockholm": [
+            59.3251,
+            18.0711
+        ],
+        "\u00c9tats-Unis": [
+            39.7837,
+            -100.4459
+        ],
+        "\u00c9tats-Unis/Atlanta": [
+            33.7545,
+            -84.3898
+        ],
+        "\u00c9tats-Unis/Bellevue": [
+            47.6144,
+            -122.1923
+        ],
+        "\u00c9tats-Unis/Bend": [
+            44.0582,
+            -121.3153
+        ],
+        "\u00c9tats-Unis/Boston": [
+            42.3588,
+            -71.0578
+        ],
+        "\u00c9tats-Unis/Boulder": [
+            40.015,
+            -105.2705
+        ],
+        "\u00c9tats-Unis/Burbank": [
+            34.1812,
+            -118.3072
+        ],
+        "\u00c9tats-Unis/California": [
+            36.7015,
+            -118.756
+        ],
+        "\u00c9tats-Unis/Canonsburg": [
+            40.2588,
+            -80.1867
+        ],
+        "\u00c9tats-Unis/Carlsbad": [
+            33.1352,
+            -117.3291
+        ],
+        "\u00c9tats-Unis/Colorado": [
+            38.7252,
+            -105.6077
+        ],
+        "\u00c9tats-Unis/Conifer": [
+            39.5233,
+            -105.3055
+        ],
+        "\u00c9tats-Unis/Corvallis": [
+            44.5646,
+            -123.262
+        ],
+        "\u00c9tats-Unis/Costa Mesa": [
+            33.6633,
+            -117.9033
+        ],
+        "\u00c9tats-Unis/Cupertino": [
+            37.3229,
+            -122.0323
+        ],
+        "\u00c9tats-Unis/Detroit": [
+            42.3316,
+            -83.0466
+        ],
+        "\u00c9tats-Unis/Florida": [
+            27.7568,
+            -81.464
+        ],
+        "\u00c9tats-Unis/Los Angeles": [
+            34.0537,
+            -118.2428
+        ],
+        "\u00c9tats-Unis/Menlo Park": [
+            37.452,
+            -122.178
+        ],
+        "\u00c9tats-Unis/Mount Dora": [
+            28.8005,
+            -81.6447
+        ],
+        "\u00c9tats-Unis/Mountain View": [
+            37.3894,
+            -122.0832
+        ],
+        "\u00c9tats-Unis/New York": [
+            40.7127,
+            -74.006
+        ],
+        "\u00c9tats-Unis/Orlando": [
+            28.5421,
+            -81.379
+        ],
+        "\u00c9tats-Unis/Portland": [
+            45.5202,
+            -122.6742
+        ],
+        "\u00c9tats-Unis/Redmond": [
+            47.6694,
+            -122.1239
+        ],
+        "\u00c9tats-Unis/San Francisco": [
+            37.7879,
+            -122.4075
+        ],
+        "\u00c9tats-Unis/San Jose": [
+            37.3362,
+            -121.8906
+        ],
+        "\u00c9tats-Unis/San Mateo": [
+            37.563,
+            -122.3255
+        ],
+        "\u00c9tats-Unis/Santa Clara": [
+            37.3541,
+            -121.9552
+        ],
+        "\u00c9tats-Unis/Santa Monica": [
+            34.0195,
+            -118.4912
+        ],
+        "\u00c9tats-Unis/Waltham": [
+            42.3762,
+            -71.2356
         ]
     },
     "Listing": [
