@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="listing.css">
     <script src="iframeResizer/iframeResizer.contentWindow.min.js" defer></script>
     <script src="listing.js" defer></script>
+    <script src="graph.js" defer></script>
 </head>
 
 <body>
@@ -35,6 +36,8 @@
                     <label for="sort-place">Localité</label>
                     <input type="radio" id="sort-map" name="sort" value="Map">
                     <label for="sort-map">Carte</label>
+                    <input type="radio" id="sort-graph" name="sort" value="Graph">
+                    <label for="sort-graph">Graphe</label>
                 </div>
                 <div class="toggles">
                     <span class="toggle toggle-jobs"><input type="checkbox" id="jobs-only"><label for="jobs-only">Offres d'emploi <span class="toggle-count" id="jobs-count"></span></label></span>
@@ -96,6 +99,16 @@
             </div>
             <div id="map" class="map" role="region" aria-label="Carte des entreprises"></div>
             <p id="map-note" class="map-note"></p>
+        </div>
+        <div id="graph-view" class="graph-view" hidden>
+            <div class="graph-toolbar">
+                <label for="graph-zone">Zone</label>
+                <select id="graph-zone"></select>
+                <nav id="graph-crumb" class="graph-crumb" aria-label="Chemin dans le graphe"></nav>
+            </div>
+            <svg id="graph-svg" class="graph-svg" role="group" aria-label="Graphe des entreprises proches"></svg>
+            <div id="graph-info" class="graph-info" role="status"></div>
+            <div id="graph-rows" class="graph-rows"></div>
         </div>
         <div id="listing-company"></div>
     </main>

@@ -1,10 +1,9 @@
 "use strict";
 
-// local
-//const url = '../json/data.json'
-
-// Site
-const url = 'https://raw.githubusercontent.com/Afig-Asso/entreprises/main/json/data.json'
+// Data: the local json when the site is served locally (python3 -m http.server from the repository root),
+// otherwise the json published on github
+const is_local = ['localhost', '127.0.0.1', '[::1]'].includes(location.hostname);
+const url = is_local ? '../json/data.json' : 'https://raw.githubusercontent.com/Afig-Asso/entreprises/main/json/data.json'
 
 const listing_element = document.querySelector('#listing-company');
 const summary_element = document.querySelector('#listing-summary');
@@ -15,6 +14,7 @@ const UX = {
         'alphabetical': document.querySelector('#sort-alphabetical'),
         'place': document.querySelector('#sort-place'),
         'map': document.querySelector('#sort-map'),
+        'graph': document.querySelector('#sort-graph'),
     },
     'details': document.querySelector('#display-details'),
     'france-only': document.querySelector('#france-only'),
@@ -707,11 +707,18 @@ function update_display() {
     Global['rendered-ids'] = new Set();
     display_summary(N_displayed, N_jobs);
     const map_view = UX['sorting']['map'].checked;
+    const graph_view = UX['sorting']['graph'].checked;
     document.documentElement.classList.toggle('view-map', map_view);
+    document.documentElement.classList.toggle('view-graph', graph_view);
     map_element.hidden = !map_view;
+    GRAPH['element'].hidden = !graph_view;
     if(map_view) {
         listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
         display_map(data_to_display);
+    }
+    else if(graph_view) {
+        listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
+        display_graph(data_to_display);
     }
     else {
         if(UX['sorting']['place'].checked){
@@ -923,7 +930,7 @@ UX['search'].addEventListener('search', () => { // clear button of the search fi
     update_display();
 });
 
-for(const element of [UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['map'], UX['details'], UX['france-only'], UX['jobs-only']]) {
+for(const element of [UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['map'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only']]) {
     element.addEventListener('change', update_display);
 }
 
@@ -1065,7 +1072,8 @@ function answer(data) {
 // ---------------------------------------------------------------------------
 
 const map_element = document.querySelector('#map-view');
-const MAP = {'map': null, 'cluster': null, 'loading': null, 'bounds': null, 'framed': false};
+const MAP = {'map': null, 'cluster': null, 'loading': null, 'bounds': null, 'framed': false, 'stacks': []};
+const MAP_DOTS_ZOOM = 10;  // from this zoom: one dot per company, no groups
 const MAP_FRAMES = {
     'world': [[-45, -130], [65, 150]],
     'europe': [[36, -10], [60, 25]],
@@ -1168,19 +1176,54 @@ function create_map() {
     });
     MAP['cluster'] = L.markerClusterGroup({
         'showCoverageOnHover': false, 'maxClusterRadius': 45, 'spiderfyOnMaxZoom': true,
-        // at city level (zoom 11 and more) show every establishment instead of nested groups
-        'disableClusteringAtZoom': 11,
+        // at city level (zoom 10 and more) only the dots of the companies, no more groups
+        'disableClusteringAtZoom': MAP_DOTS_ZOOM,
         'iconCreateFunction': (cluster) => {
             const N = cluster.getAllChildMarkers().reduce((sum, m) => sum + m.options.count, 0);
             return map_icon(N, 'map-cluster');
         },
     }).addTo(map);
+    // companies at the same position (city center): spread their dots again after a zoom
+    map.on('zoomend', map_spread);
     MAP['map'] = map;
 }
 
-function map_icon(N, className) {
-    if(N==1) { // a single company: a small dot, so that the establishments of a city can be seen all at once
-        return L.divIcon({'className': 'map-pin map-dot ' + className, 'html': '', 'iconSize': [16, 16]});
+// Companies sharing the same position (no precise address: center of the city) are spread around it
+// on a small sunflower, in pixels, so that each dot stays visible and clickable at any zoom
+function map_spread() {
+    const map = MAP['map'], stacks = MAP['stacks'] || [];
+    if(map==null || stacks.length==0) return;
+    const zoom = map.getZoom();
+    const moved = stacks.flatMap((s) => s.markers);
+    MAP['cluster'].removeLayers(moved);
+    for(const stack of stacks) {
+        const center = map.project(stack.coords, zoom);
+        stack.markers.forEach((marker, i) => {
+            const r = 11*Math.sqrt(i + 0.5), angle = i*2.39996;
+            marker.setLatLng(map.unproject(center.add([r*Math.cos(angle), r*Math.sin(angle)]), zoom));
+        });
+    }
+    MAP['cluster'].addLayers(moved);
+}
+
+// Approximate number of employees of a company (Employees of data.yaml), or null when unknown
+function employees_count(entry) {
+    const m = String(entry['Employees'] ?? '').match(/\d[\d\s]*/);
+    if(m==null) return null;
+    const N = parseInt(m[0].replace(/\s/g, ''));
+    return N>0 ? N : null;
+}
+
+// Diameter of the dot of a single company, growing with its size (log scale): ~11px for 2 people, ~31px for 200 000
+function map_dot_size(employees) {
+    return employees==null ? 12 : Math.round(Math.min(32, 10 + 4*Math.log10(employees)));
+}
+
+function map_icon(N, className, employees) {
+    if(N==1) { // a single company: a dot sized by its number of employees, so that the establishments of a city can be seen all at once
+        const size = map_dot_size(employees);
+        const unknown = employees==null ? ' map-dot-unknown' : '';
+        return L.divIcon({'className': 'map-pin map-dot ' + className + unknown, 'html': '', 'iconSize': [size, size]});
     }
     const size = Math.round(30 + 6*Math.log2(N));
     return L.divIcon({'className': 'map-pin ' + className, 'html': `<span>${N}</span>`, 'iconSize': [size, size]});
@@ -1236,28 +1279,35 @@ function display_map(entries) {
         const [groups, N_unplaced] = map_groups(entries);
         MAP['cluster'].clearLayers();
         const markers = [];
+        MAP['stacks'] = [];
         for(const group of groups.values()) {
-            const N = group['entries'].length;
-            const name = N==1 ? `${group['entries'][0]['Name']} (${group['label']})` : `${group['label']} : ${plural_companies(N)}`;
-            const marker = L.marker(group['coords'], {
-                'icon': map_icon(N, group['country_only'] ? 'map-country' : 'map-city'),
-                'title': name, 'alt': name,
-                'count': N, 'keyboard': true,
+            // one dot per company: the companies of a group (same position) are spread by map_spread
+            const stack = {'coords': group['coords'], 'markers': []};
+            group['entries'].forEach((entry, k) => {
+                const single = {...group, 'entries': [entry], 'addresses': [group['addresses'][k]]};
+                const employees = employees_count(entry);
+                const name = `${entry['Name']} (${group['label']})`;
+                const marker = L.marker(group['coords'], {
+                    'icon': map_icon(1, group['country_only'] ? 'map-country' : 'map-city', employees),
+                    'title': name, 'alt': name,
+                    'count': 1, 'keyboard': true,
+                    // the big dots below the small ones, so that a small company next to a big one stays clickable
+                    'zIndexOffset': -10*map_dot_size(employees),
+                });
+                marker.bindPopup(() => map_popup(single), {'maxWidth': 300, 'autoPanPadding': [20, 20]});
+                markers.push(marker);
+                stack.markers.push(marker);
             });
-            marker.bindPopup(() => map_popup(group), {'maxWidth': 300, 'autoPanPadding': [20, 20]});
-            markers.push(marker);
+            if(stack.markers.length>1) MAP['stacks'].push(stack);
         }
         MAP['cluster'].addLayers(markers);
         MAP['bounds'] = markers.length>0 ? L.latLngBounds(markers.map((m) => m.getLatLng())) : null;
         MAP['map'].invalidateSize();
-        map_frame('fit');
-        const note = document.querySelector('#map-note');
-        let txt = "Un marqueur à l'adresse de l'établissement quand elle est connue (registre SIRENE), sinon au centre de la ville ; un cercle en pointillés indique un pays sans ville précisée. La vue « Localité » donne les mêmes informations sous forme de liste.";
-        if(N_unplaced>0) {
-            txt = (N_unplaced>1 ? `${N_unplaced} entreprises présentes à l'international sans lieu précis ne sont pas sur la carte. `
-                : "1 entreprise présente à l'international sans lieu précis n'est pas sur la carte. ") + txt;
-        }
-        note.textContent = txt;
+        // the map opens on France (where most companies are); then it follows the selection
+        map_frame(MAP['framed'] ? 'fit' : 'france');
+        MAP['framed'] = true;
+        map_spread();
+        document.querySelector('#map-note').textContent = '';
     }).catch((error) => {
         document.querySelector('#map-note').textContent = 'La carte ne peut pas être chargée. ' + error.message;
     });

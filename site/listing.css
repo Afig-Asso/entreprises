@@ -491,6 +491,49 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
    Vue carte (Leaflet, chargee a la demande)
    ====================================================================== */
 .view-map .tag-legend { display: none; }
+.view-graph .tag-legend { display: none; }
+
+/* ======================================================================
+   Vue Graphe : grappes d'entreprises proches (pensée pour écran large)
+   ====================================================================== */
+.graph-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; margin: 0.25rem 0 0.6rem; font-size: 0.88rem; }
+.graph-toolbar label { color: var(--muted); }
+.graph-toolbar select { font: inherit; padding: 0.25rem 0.5rem; border: 1px solid var(--border); border-radius: 8px; background: white; color: var(--text); }
+.graph-crumb { color: var(--muted); margin-left: 0.75rem; }
+.graph-crumb [aria-current] { color: var(--text); font-weight: 600; }
+.graph-crumb-link { font: inherit; border: 0; background: none; padding: 0; color: var(--afig-700); text-decoration: underline; cursor: pointer; }
+.graph-svg { display: block; width: 100%; height: auto; background: #fbfcf9; border: 1px solid var(--line); border-radius: var(--radius); }
+.graph-svg text { font-family: var(--font); font-size: 11px; fill: var(--text-2); pointer-events: none; }
+.graph-cluster-label { font-size: 12.5px !important; font-weight: 700; fill: var(--text) !important; paint-order: stroke; stroke: #fbfcf9; stroke-width: 4px; }
+.graph-node { cursor: pointer; }
+.graph-node .graph-node-label { display: none; paint-order: stroke; stroke: #fbfcf9; stroke-width: 3px; }
+.graph-node .graph-node-label.is-named, .graph-node:hover .graph-node-label, .graph-node:focus-visible .graph-node-label { display: inline; }
+.graph-node:hover .graph-node-label, .graph-node.is-center .graph-node-label { fill: var(--text); font-weight: 700; }
+.graph-node:focus-visible { outline: none; }
+.graph-node:focus-visible circle { stroke: var(--ink); stroke-width: 3px; }
+.graph-node.is-center { cursor: default; }
+.graph-node.is-dim, .graph-hull.is-dim { opacity: 0.18; }
+.graph-link.is-active { stroke: #534AB7; stroke-opacity: 0.9; }
+.graph-info { font-size: 0.88rem; color: var(--text-2); line-height: 1.55; margin: 0.75rem 0 0.4rem; }
+.graph-keywords { color: var(--afig-800); }
+.graph-legend { margin: 0.5rem 0 0; font-size: 0.82rem; color: var(--muted); }
+.graph-swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin: 0 4px 0 8px; vertical-align: -1px; }
+.graph-row > .graph-swatch { margin: 4px 0 0; }
+.graph-rows { display: flex; flex-direction: column; gap: 2px; }
+.graph-row { display: grid; grid-template-columns: 14px minmax(180px, 280px) minmax(0, 1fr); gap: 0.75rem; align-items: start; padding: 0.4rem 0.5rem; border-radius: 8px; font-size: 0.84rem; }
+.graph-row.is-neighbor { grid-template-columns: minmax(170px, 230px) 150px minmax(0, 1fr); }
+.graph-row:hover, .graph-row.is-active { background: var(--afig-50); }
+.graph-row-title { font-weight: 700; color: var(--text); }
+.graph-why { color: var(--muted); line-height: 1.5; }
+.graph-muted { color: var(--muted); font-weight: 400; }
+.graph-company { font: inherit; border: 0; background: none; padding: 0; color: var(--text-2); cursor: pointer; text-align: left; }
+.graph-company:hover, .graph-company:focus-visible { color: var(--afig-800); text-decoration: underline; }
+.graph-bar { display: flex; gap: 1px; padding-top: 4px; }
+.graph-bar span { display: block; height: 10px; }
+@media (max-width: 700px) {
+    .graph-row, .graph-row.is-neighbor { grid-template-columns: 1fr; gap: 0.2rem; }
+    .graph-row > .graph-swatch { display: none; }
+}
 .map-view[hidden] { display: none; }
 .map-frames { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 0.6rem; }
 .map-frame {
@@ -516,6 +559,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .map-country { background: white; color: var(--afig-800); border: 2px dashed var(--afig-700); }
 .leaflet-marker-icon.map-dot { box-shadow: 0 0 0 1px var(--afig-700), 0 1px 3px rgba(29, 42, 0, 0.4); }
 .leaflet-marker-icon.map-dot:hover { filter: brightness(0.9); }
+.leaflet-marker-icon.map-dot-unknown { background: #d9e8b0; box-shadow: 0 0 0 1px var(--afig-700); }  /* effectif inconnu */
 .map-pin:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
 .leaflet-container a.leaflet-popup-close-button { width: 28px; height: 28px; font-size: 20px; }
 .leaflet-popup-content-wrapper { border-radius: var(--radius); box-shadow: var(--shadow-md); }
