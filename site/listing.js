@@ -1163,6 +1163,26 @@ function map_icon(N, className) {
 
 function map_popup(group) {
     const N = group['entries'].length;
+    if(N==1) { // a single company: its name in large, its address, its links
+        const entry = group['entries'][0];
+        const jobs = get_string(entry['Jobs']);
+        const where = group['addresses'][0] || group['label'];
+        let txt = `<div class="map-popup map-popup-single"><p class="map-popup-title"><a target="_blank" href="${entry['url']}">${entry['Name']}${NEW_TAB}</a></p>`;
+        txt += `<p class="map-popup-where">${esc(where)}</p>`;
+        if(group['country_only']) {
+            txt += '<p class="map-popup-hint">Ville non précisée : position du pays.</p>';
+        }
+        const description = strip_html(get_string(entry['Description']));
+        if(description!='') {
+            txt += `<p class="map-popup-description">${esc(description)}</p>`;
+        }
+        txt += '<p class="map-popup-actions">';
+        if(jobs!='') {
+            txt += `<a class="map-popup-jobs" target="_blank" href="${jobs}">Offres d'emploi<span class="visually-hidden"> chez ${esc(entry['Name'])} (nouvel onglet)</span></a>`;
+        }
+        txt += `<button type="button" class="map-to-list" data-target="${group['list_id']}">Voir dans la liste</button></p></div>`;
+        return txt;
+    }
     let txt = `<div class="map-popup"><p class="map-popup-title">${group['label']} <span class="map-popup-count">${plural_companies(N)}</span></p>`;
     if(group['country_only']) {
         txt += '<p class="map-popup-hint">Ville non précisée : position du pays.</p>';
@@ -1193,10 +1213,10 @@ function display_map(entries) {
         const markers = [];
         for(const group of groups.values()) {
             const N = group['entries'].length;
+            const name = N==1 ? `${group['entries'][0]['Name']} (${group['label']})` : `${group['label']} : ${plural_companies(N)}`;
             const marker = L.marker(group['coords'], {
                 'icon': map_icon(N, group['country_only'] ? 'map-country' : 'map-city'),
-                'title': `${group['label']} : ${plural_companies(N)}`,
-                'alt': `${group['label']} : ${plural_companies(N)}`,
+                'title': name, 'alt': name,
                 'count': N, 'keyboard': true,
             });
             marker.bindPopup(() => map_popup(group), {'maxWidth': 300, 'autoPanPadding': [20, 20]});

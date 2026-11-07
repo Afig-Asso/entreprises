@@ -525,6 +525,17 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .map-popup li { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; padding: 3px 0; border-bottom: 1px solid var(--line); }
 .map-popup-company { display: flex; flex-direction: column; min-width: 0; }
 .leaflet-container .map-popup-company > a { color: var(--text); font-weight: 600; }
+.leaflet-popup-content .map-popup p { margin: 0; }  /* Leaflet adds large paragraph margins */
+.leaflet-popup-content .map-popup .map-popup-where { margin-top: 0.2rem; }
+.leaflet-popup-content .map-popup .map-popup-hint { margin-top: 0.15rem; }
+.leaflet-popup-content .map-popup .map-popup-description { margin-top: 0.5rem; }
+.leaflet-popup-content .map-popup .map-popup-actions { margin-top: 0.7rem; }
+.map-popup-single .map-popup-title { font-size: 1.2rem; line-height: 1.25; }
+.leaflet-container .map-popup-single .map-popup-title a { color: var(--text); }
+.map-popup-where { margin-top: 0.25rem; color: var(--text-2); font-size: 0.84rem; }
+.map-popup-description { margin-top: 0.5rem; color: var(--muted); font-size: 0.8rem; }
+.map-popup-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-top: 0.75rem; }
+.map-popup-actions .map-popup-jobs { min-height: 32px; padding: 0 0.75rem; font-size: 0.8rem; }
 .map-popup-address { font-size: 0.74rem; color: var(--muted); line-height: 1.3; }
 .leaflet-container a.map-popup-jobs { color: var(--afig-800); }
 .leaflet-container a.map-popup-jobs:hover { background: var(--afig-800); color: white; text-decoration: none; }
