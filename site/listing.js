@@ -145,6 +145,14 @@ function get_string(element) {
     return out;
 }
 
+function display_tags(element, className) {
+    if(element==undefined || element=='') {
+        return '';
+    }
+    const L = is_type_array(element) ? element : String(element).split(',');
+    return L.map(x => `<span class="tag ${className}-tag">${String(x).trim()}</span>`).join('<span class="tag-sep">, </span>');
+}
+
 function display_div(txt, className, pre='') {
     if(txt==''){
         return '';
@@ -301,7 +309,7 @@ function display_company_entry(entry) {
     const badge = highlight_badge(entry);
     if(UX['details'].checked==false) {
         return `
-        <div id="${id}">\n
+        <div id="${id}" class="company company-compact">\n
         <h3><a target="_blank" href="${url}">${name}</a>${badge}</h3>\n
         </div>
         `;
@@ -330,21 +338,25 @@ function display_company_entry(entry) {
 
     let txt = ''
 
-    txt += `<div id="${id}">\n`;
-    txt += `<h3><a target="_blank" href="${url}">${name}</a>${badge}</h3> ${name_long} \n`;
+    txt += `<div id="${id}" class="company">\n`;
+    txt += `<h3><a target="_blank" href="${url}">${name}</a>${badge}</h3>`;
+    if(name_long!='') {
+        txt += `<div class="name-long">${name_long}</div>`;
+    }
+    txt += '\n';
     txt += `<div class="content">\n`;
     txt += display_div(description, 'description');
-    txt += display_div(keywords, 'keywords', '<strong>Mot clés</strong>: ')
-    txt += display_div(info, 'info', '<strong>Remarque</strong>: ');
-    txt += display_div(product, 'products', '<strong>Produits</strong>: ');
-    txt += display_div(place_txt, 'place', '<strong>Localisation</strong>: ');
+    txt += display_div(keywords, 'keywords', '<strong class=field-label>Mot clés</strong><span class=field-sep>: </span>')
+    txt += display_div(info, 'info', '<strong class=field-label>Remarque</strong><span class=field-sep>: </span>');
+    txt += display_div(product, 'products', '<strong class=field-label>Produits</strong><span class=field-sep>: </span>');
+    txt += display_div(place_txt, 'place', '<strong class=field-label>Localisation</strong><span class=field-sep>: </span>');
 
-    txt += display_div(number_txt, 'employees', "<strong>Nombre d'employés</strong>: ");
+    txt += display_div(number_txt, 'employees', "<strong class=field-label>Nombre d'employés</strong><span class=field-sep>: </span>");
   
-    txt += display_div(scientific_domain, 'scientific-domain', '<strong>Domaine scientifique</strong>: ');
-    txt += display_div(application_domain, 'application-domain', "<strong>Domaine d'application</strong>: ");
+    txt += display_div(display_tags(entry['Scientific-domain'], 'scientific'), 'scientific-domain', '<strong class=field-label>Domaine scientifique</strong><span class=field-sep>: </span>');
+    txt += display_div(display_tags(entry['Application-domain'], 'application'), 'application-domain', "<strong class=field-label>Domaine d'application</strong><span class=field-sep>: </span>");
     if(jobs!=''){
-        txt += `[<a target="_blank" href="${jobs}">Jobs</a>]\n`
+        txt += `<span class="jobs"><span class="jobs-bracket">[</span><a class="jobs-link" target="_blank" href="${jobs}">Jobs</a><span class="jobs-bracket">]</span></span>\n`
     }
 
 
@@ -375,7 +387,7 @@ function display_summary(N) {
 
 function display_city(city, entries) {
     let HTML_txt = `<h2 class="title-place title-city">${city} (${plural_companies(entries.length)})</h2>\n`;
-    HTML_txt += '<div class="container-place-city">\n';
+    HTML_txt += '<div class="container-place-city company-list">\n';
     for(let entry_city of entries) {
         HTML_txt += display_company_entry(entry_city);
     }
@@ -388,10 +400,12 @@ function display_company(data, N_displayed) {
 
     if(UX['sorting']['alphabetical'].checked) {
         let N = data.length;
+        HTML_txt += '<div class="company-list">\n';
         for(let k=0; k<N; ++k){
             let entry = data[k];
             HTML_txt += display_company_entry(entry);
         }
+        HTML_txt += '</div>\n';
     }
     else if(UX['sorting']['place'].checked) {
         const all_countries = Object.keys(data).sort(compare_fr);
@@ -419,7 +433,7 @@ function display_company(data, N_displayed) {
             if(country!='France') {
                 const N_companies = data[country].length;
                 HTML_txt += `<h2 class="title-place">${country} (${plural_companies(N_companies)})</h2>\n`
-                HTML_txt += '<div class="container-place">\n'
+                HTML_txt += '<div class="container-place company-list">\n'
                 for(let entry_country of data[country]) {
                     HTML_txt += display_company_entry(entry_country);
                 }

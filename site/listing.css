@@ -1,212 +1,186 @@
+/* Feuille de style du listing des entreprises AFIG (mise en page en cartes) */
+:root {
+    --afig: #a2d026;        /* vert AFIG */
+    --afig-mid: #7a9b22;
+    --afig-dark: #4f6a0c;   /* vert lisible pour du texte sur fond clair */
+    --afig-soft: #effcca;
+    --afig-pale: #f7fde8;
+    --text: #23272b;
+    --muted: #6b7178;
+    --line: #e3e6e1;
+    --radius: 10px;
+    --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
 
 body {
-    color: rgb(80,80,80);
-    margin-left: 1em;
-    margin-top: 1em;
-    margin-bottom: 3em;
+    font-family: var(--font);
+    color: var(--text);
+    margin: 0;
+    padding: 0 1rem 3rem;
+    accent-color: var(--afig-mid);
 }
 
-a {
-    text-decoration: none;
-}
-a {
-    color: #7a9b22;
-}
-a:hover {
-    color: darkred;
-}
+a { color: var(--afig-dark); text-decoration: none; }
+a:hover { color: var(--afig-mid); text-decoration: underline; }
 
-h3 a {
-    /*color: #a2d026;*/
-    display: inline-block;
-    color: black;
-    background-color: #effcca;
-    padding: 5px;
-    border: 1px solid gray;
-    border-radius: 10px;
-}
-h3 a:hover {
-    background-color: #ffe5e5;
-}
-
-h3 {
-    font-size: 115%;
-    display: block;
-    margin-top: 1.5em;
-    padding-top: 0;
-    margin-bottom: 0.25em;
-    padding-bottom: 0;
-}
-
-
-.content {
-    margin-left: 2em;
-    line-height: 1.3em;
-    font-size: 85%;
-}
-.description {
-    font-style: italic;
-}
-
-.scientific-domain-entry {
-    display: block;
-}
-
-.selection-scientific-domain {
-    display: inline-block;
-    vertical-align: top;
-}
-.selection-application-domain {
-    display: inline-block;
-    vertical-align: top;
-}
-
-.container-place, .container-place-city {
-    margin-left: 2em;
-}
-
-h2.title-place {
-    background-color: #f0f0f0;
-    border: 2px solid black;
-    padding: 10px;
-    border-radius: 5px;
-
-    color: #7e7a93;
-    margin-bottom: 0;
-    margin-top: 0.75em;
-    font-size: 120%;
-}
-
-.container-checkbox {
-    display: inline-block; 
-    vertical-align: top;
-}
-.title-city {
-    font-size: 140%;
-    font-style: italic;
-}
-
-.button-basic:hover {
-    background: rgb(255,255,250);
-}
-.button-basic:active {
-    background: #dbf691;
-}
-
-.dropdown-menu {
-    background-color: white;
-    padding: 1em;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
-    max-width: calc(100vw - 2em);
-    max-height: 80vh;
-    overflow-y: auto;
-}
-
+/* Barre d'outils */
 #selection-listing-company {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     flex-wrap: wrap;
-    gap: 0.75em 1.5em;
+    gap: 0.75rem 1.5rem;
+    padding: 0.9rem 0;
 }
+.ux-left { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.25rem; }
+.ux-left > div { display: flex; align-items: center; gap: 0.35rem; }
+.ux-middle { flex: 1 1 16rem; max-width: 30rem; }
 
-.ux-middle {
-    flex: 1 1 16em;
-    max-width: 28em;
-}
+/* Tri : controle segmente (les radios restent accessibles au clavier) */
+.sorting_input { display: inline-flex !important; gap: 0 !important; border: 1px solid var(--afig-mid); border-radius: 999px; overflow: hidden; }
+.sorting_input input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.sorting_input label { padding: 0.3rem 0.9rem; cursor: pointer; font-size: 0.9rem; color: var(--afig-dark); margin: 0; }
+.sorting_input input:checked + label { background: var(--afig); color: #1d2a00; font-weight: 600; }
+.sorting_input input:focus-visible + label { outline: 2px solid var(--afig-dark); outline-offset: -2px; }
+.ux-left label { margin: 0; cursor: pointer; }
+.france-only-checkbox { margin-left: 0.75rem; }
+
 .search-input {
     width: 100%;
-    padding: 0.35em 0.6em;
-    border: 1px solid gray;
-    border-radius: 6px;
-}
-.france-only-checkbox {
-    margin-left: 0.75em;
-}
-
-.listing-summary {
-    margin-top: 1.25em;
-    margin-bottom: 0;
-}
-.listing-updated {
-    font-weight: normal;
-    font-size: 85%;
-}
-.no-result, .loading-message {
-    margin-top: 1.5em;
-    font-style: italic;
-}
-.loading-error {
-    color: darkred;
-    font-style: normal;
-}
-
-.highlight-badge {
-    display: inline-block;
-    margin-left: 0.6em;
-    padding: 2px 8px;
-    border-radius: 10px;
-    background-color: #fff3d6;
-    border: 1px solid #e0b850;
-    color: #7a5a00;
-    font-size: 65%;
-    font-weight: normal;
-    vertical-align: middle;
-}
-
-.keyword-count {
-    color: gray;
-    font-size: 85%;
-}
-.keyword-only {
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    padding: 0.5rem 0.9rem;
+    border: 1px solid #c9cec4;
+    border-radius: 999px;
+    font-size: 0.95rem;
     background: white;
-    color: gray;
-    font-size: 75%;
-    padding: 0 4px;
-    margin-left: 0.3em;
 }
-.keyword-only:hover {
-    color: black;
-    border-color: gray;
-    background: #dbf691;
+.search-input:focus { outline: none; border-color: var(--afig-mid); box-shadow: 0 0 0 3px rgba(162,208,38,0.35); }
+
+.button-basic {
+    border: 1px solid #c9cec4;
+    background: white;
+    border-radius: 6px;
+    padding: 0.15rem 0.6rem;
+}
+.button-basic:hover { background: var(--afig-pale); border-color: var(--afig-mid); }
+.button-basic:active { background: var(--afig-soft); }
+.ux-right > div > .dropdown-toggle {
+    border: 1px solid var(--afig-mid);
+    border-radius: 999px;
+    padding: 0.4rem 1rem;
+    color: var(--afig-dark);
+    font-weight: 600;
 }
 
-.check-all-container {
-    margin-bottom: 0.5em;
-    margin-right: 3.0em;
+/* Menu des filtres */
+.dropdown-menu {
+    background-color: white;
+    padding: 1.25rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    max-width: calc(100vw - 2rem);
+    max-height: 80vh;
+    overflow-y: auto;
+    font-size: 0.92rem;
 }
-.keyword-checkbox-element {
-    margin-left: 0em;
+.container-checkbox { display: inline-block; vertical-align: top; margin-right: 2rem; }
+.container-checkbox > strong { display: block; color: var(--afig-dark); text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.04em; margin-bottom: 0.4rem; }
+.check-all-container { margin-bottom: 0.6rem; color: var(--muted); }
+.scientific-domain-entry { display: block; padding: 1px 0; }
+.dropdown-menu label { cursor: pointer; }
+.dropdown-menu label:hover { color: var(--afig-dark); }
+.keyword-count { color: var(--muted); font-size: 0.85em; }
+.keyword-only {
+    border: 1px solid #d5d9d0; border-radius: 4px; background: white;
+    color: var(--muted); font-size: 0.75em; padding: 0 5px; margin-left: 0.3em;
 }
+.keyword-only:hover { color: var(--text); border-color: var(--afig-mid); background: var(--afig-soft); }
+label .question-mark { content: url(assets/question-mark.svg); width: 0.8em; height: 0.8em; opacity: 0.6; }
+label:hover .question-mark { content: url(assets/question-mark-clicked.svg); opacity: 1; }
 
-label .question-mark {
-    content:url(assets/question-mark.svg);
-    width: 0.8em;
-    height: 0.8em;
+/* Etats */
+.listing-summary { margin: 0.5rem 0 1rem; color: var(--muted); }
+.listing-summary strong { color: var(--text); }
+.listing-updated { font-size: 0.85em; }
+.no-result, .loading-message { margin-top: 1.5rem; font-style: italic; color: var(--muted); }
+.loading-error { color: darkred; font-style: normal; }
+
+/* Fiches : elements communs */
+.company h3 { margin: 0; font-size: 1.08rem; font-weight: 650; }
+.company h3 a { color: var(--text); }
+.company h3 a:hover { color: var(--afig-dark); }
+.name-long { color: var(--muted); font-size: 0.85rem; }
+.content { font-size: 0.9rem; line-height: 1.45; }
+.description { color: #3d4247; }
+.info { color: var(--muted); font-size: 0.85rem; }
+.tag-sep { display: none; }
+.tag { display: inline-block; font-size: 0.78rem; line-height: 1.5; margin: 2px 4px 2px 0; }
+.jobs-bracket { display: none; }
+.jobs-link {
+    display: inline-block; font-size: 0.8rem; font-weight: 600;
+    padding: 0.1rem 0.7rem; border-radius: 999px;
+    background: var(--afig); color: #1d2a00;
 }
-label:hover .question-mark {
-    content:url(assets/question-mark-clicked.svg);
-    width: 0.8em;
-    height: 0.8em;
-}
-label:hover {
-    color: blue;
+.jobs-link:hover { background: var(--afig-mid); color: white; text-decoration: none; }
+.highlight-badge {
+    display: inline-block; margin-left: 0.5em; padding: 1px 8px; border-radius: 999px;
+    background: #fff3d6; border: 1px solid #e8c46a; color: #6d5200;
+    font-size: 0.7rem; font-weight: 600; vertical-align: middle;
 }
 
 @media (max-width: 600px) {
-    .check-all-container {
-        margin-right: 0;
-    }
-    .container-checkbox {
-        display: block;
-        margin-bottom: 1em;
-    }
-    .content {
-        margin-left: 0.75em;
-    }
-    .container-place, .container-place-city {
-        margin-left: 0.5em;
-    }
+    #selection-listing-company { position: static !important; }
+    .container-checkbox { display: block; margin: 0 0 1rem; }
+    .ux-middle { max-width: none; flex-basis: 100%; order: 3; }
+}
+body { background: #f4f6f0; max-width: 1300px; margin: 0 auto; }
+
+#selection-listing-company {
+    position: sticky; top: 0.5rem; z-index: 10;
+    margin-top: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: white;
+    border-radius: var(--radius);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+.company-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(290px, 100%), 1fr));
+    gap: 1rem;
+}
+.company {
+    display: flex; flex-direction: column;
+    background: white;
+    border-radius: var(--radius);
+    border-top: 4px solid var(--afig);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+    padding: 0.9rem 1rem 1rem;
+    transition: box-shadow 0.15s, transform 0.15s;
+}
+.company:hover { box-shadow: 0 6px 18px rgba(0,0,0,0.12); transform: translateY(-2px); }
+.company h3 { font-size: 1.1rem; }
+.highlight-badge { display: table; margin: 0.3rem 0 0; }
+.content { display: flex; flex-direction: column; flex: 1; gap: 0.35rem; margin-top: 0.5rem; }
+.description { font-size: 0.88rem; }
+.place, .employees, .products, .keywords { font-size: 0.82rem; color: var(--muted); }
+.field-label { font-weight: 600; color: var(--muted); }
+.scientific-domain .field-label, .application-domain .field-label { display: block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.04em; margin-top: 0.15rem; }
+.scientific-domain .field-sep, .application-domain .field-sep { display: none; }
+.scientific-tag { background: var(--afig-soft); color: var(--afig-dark); padding: 0 0.5rem; border-radius: 6px; }
+.application-tag { background: white; color: #3f454b; border: 1px solid #d6dad2; padding: 0 0.5rem; border-radius: 6px; }
+.jobs { margin-top: auto; padding-top: 0.5rem; }
+
+.company-compact { padding: 0.7rem 1rem; }
+
+/* Vue par lieu */
+h2.title-place {
+    font-size: 1.3rem; font-weight: 700; color: #1d2a00;
+    background: var(--afig); display: inline-block;
+    padding: 0.35rem 1rem; border-radius: 999px;
+    margin: 2rem 0 0.75rem;
+}
+h2.title-city {
+    display: block; background: none; color: var(--afig-dark);
+    font-size: 1.05rem; padding: 0; margin: 1.25rem 0 0.6rem;
 }
