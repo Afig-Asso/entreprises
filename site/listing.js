@@ -1057,16 +1057,18 @@ function split_names(value) {
 
 function expand_places(place) {
     if(place==undefined) return [];
-    if(is_type_string(place)) return split_names(place).map((c) => ({'Country': 'France', 'City': c, 'Coordinates': null}));
+    if(is_type_string(place)) return split_names(place).map((c) => ({'Country': 'France', 'City': c, 'Coordinates': null, 'Address': ''}));
     if(is_type_array(place)) return place.flatMap(expand_places);
     const countries = split_names(place['Country']);
     const cities = split_names(place['City']).length>0 ? split_names(place['City']) : split_names(place['State']);
     if(cities.length==0 && place['International']===true && countries.length==0) return [];
-    const precise = (countries.length<=1 && cities.length<=1) ? (place['Coordinates'] || null) : null;
+    const single = countries.length<=1 && cities.length<=1;
+    const precise = single ? (place['Coordinates'] || null) : null;
+    const address = single ? (place['Address'] || '') : '';
     const out = [];
     for(const country of (countries.length>0 ? countries : ['France'])) {
         for(const city of (cities.length>0 ? cities : [''])) {
-            out.push({'Country': country, 'City': city, 'Coordinates': precise});
+            out.push({'Country': country, 'City': city, 'Coordinates': precise, 'Address': address});
         }
     }
     return out;
@@ -1097,9 +1099,10 @@ function map_groups(entries) {
                 const label = country_only ? loc['Country'] : (loc['Country']=='France' ? loc['City'] : `${loc['City']} (${loc['Country']})`);
                 // heading of the place view to jump to: French city, or country
                 const list_id = (loc['Country']=='France' && !country_only) ? place_id('ville', loc['City']) : place_id('pays', loc['Country']);
-                groups.set(group_key, {'label': label, 'coords': coords, 'country_only': country_only, 'list_id': list_id, 'entries': []});
+                groups.set(group_key, {'label': label, 'coords': coords, 'country_only': country_only, 'list_id': list_id, 'entries': [], 'addresses': []});
             }
             groups.get(group_key)['entries'].push(entry);
+            groups.get(group_key)['addresses'].push(loc['Address']);
         }
         if(!placed) N_unplaced++;
     }
@@ -1165,14 +1168,19 @@ function map_popup(group) {
         txt += '<p class="map-popup-hint">Ville non précisée : position du pays.</p>';
     }
     txt += '<ul role="list">';
-    for(const entry of group['entries']) {
+    group['entries'].forEach((entry, k) => {
         const jobs = get_string(entry['Jobs']);
-        txt += `<li><a target="_blank" href="${entry['url']}">${entry['Name']}${NEW_TAB}</a>`;
+        const address = group['addresses'][k];
+        txt += `<li><span class="map-popup-company"><a target="_blank" href="${entry['url']}">${entry['Name']}${NEW_TAB}</a>`;
+        if(address) {
+            txt += `<span class="map-popup-address">${esc(address)}</span>`;
+        }
+        txt += '</span>';
         if(jobs!='') {
             txt += ` <a class="map-popup-jobs" target="_blank" href="${jobs}">Offres<span class="visually-hidden"> d'emploi chez ${esc(entry['Name'])} (nouvel onglet)</span></a>`;
         }
         txt += '</li>';
-    }
+    });
     txt += `</ul><button type="button" class="map-to-list" data-target="${group['list_id']}">Voir dans la liste</button></div>`;
     return txt;
 }

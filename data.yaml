@@ -38,6 +38,7 @@
 #   à un lieu qui ne contient qu'une ville, ex. {City: Paris, Coordinates: [48.8698, 2.3075]}.
 #   Sinon la carte utilise la position de la ville, lue dans places.yaml.
 #   SIREN (optionnel) : numéro SIREN de l'établissement, pour mémoire (voir scripts/siren_lookup.py).
+#   Address (optionnel) : adresse postale de l'établissement, affichée dans la carte du site.
 #
 # Rem. 
 #   - Les entreprises n'ont pas besoin d'être ordonnées alphabétiquement, le script scripts/sort_data.py permet de ré-ordonner automatiquement.
@@ -50,9 +51,11 @@
     - City: Paris
       Coordinates: [48.86363, 2.40817]
       SIREN: '433168481'
+      Address: '221 Boulevard Davout, 75020 Paris'
     - City: Angoulême
       Coordinates: [45.65544, 0.14854]
       SIREN: '433168481'
+      Address: '8 Rue de Saintes, 16000 Angoulême'
     - Country: Canada
       City: Montréal
     - Country: Chine
@@ -67,6 +70,7 @@
     - City: Angoulême
       Coordinates: [45.6484, 0.15198]
       SIREN: '815403001'
+      Address: '40 Rempart Desaix, 16000 Angoulême'
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
@@ -86,6 +90,7 @@
     - City: Paris
       Coordinates: [48.87774, 2.29399]
       SIREN: '851077719'
+      Address: '1 Passage des Acacias, 75017 Paris'
   Scientific-domain: [Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Animation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
 
@@ -152,12 +157,15 @@
     - City: Toulouse
       Coordinates: [43.55479, 1.48267]
       SIREN: '477887392'
+      Address: '1 Avenue de l''Europe, 31400 Toulouse'
     - City: Saint-Germain-en-Laye
       Coordinates: [48.89269, 2.07295]
       SIREN: '477887392'
+      Address: '10 Rue des Gaudines, 78100 Saint-Germain-en-Laye'
     - City: Rennes
       Coordinates: [48.03297, -1.76088]
       SIREN: '477887392'
+      Address: 'Parc d''affaires Cicéa, 3 Rue du Courtil, 35170 Bruz'
   Scientific-domain: [Simulation, Design/Fabrication, Modélisation, Animation]
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game]
 
@@ -192,9 +200,11 @@
     - City: Toulouse
       Coordinates: [43.54417, 1.50822]
       SIREN: '530969781'
+      Address: 'Data Valley, L''Occitane, 31670 Labège'
     - City: Paris
       Coordinates: [48.85636, 2.37127]
       SIREN: '530969781'
+      Address: '2 Rue Bréguet, 75011 Paris'
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Géospatial/Cartographie, Industrie/Manufacturing/CAO, Énergie/Environnement]
   Info: Racheté par GE Vernova en 2025 (intégré à GridOS Visual Intelligence).
@@ -219,6 +229,7 @@
     - City: Paris
       Coordinates: [48.83174, 2.38868]
       SIREN: '529778185'
+      Address: '40 Avenue des Terroirs de France, 75012 Paris'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
   Info: Studio redevenu indépendant en novembre 2024 (rachat à Sega par son équipe dirigeante).
@@ -231,9 +242,11 @@
     - City: Grenoble
       Coordinates: [45.20379, 5.76985]
       SIREN: '813823432'
+      Address: '33 Boulevard des Alpes, 38240 Meylan'
     - City: Montpellier
       Coordinates: [43.61385, 3.90505]
       SIREN: '813823432'
+      Address: '40 Rue de Pinville, 34000 Montpellier'
   Scientific-domain: [Modélisation, Géométrie, Simulation, Imagerie]
   Application-domain: [Médical/Biologique]
   Info: 'Filiales : Circle Dental, COPOPSA, Capteo Tech, Anatopass. Siège à Meylan.'
@@ -272,6 +285,7 @@
     - City: Lyon
       Coordinates: [45.73766, 4.81508]
       SIREN: '424606176'
+      Address: '49 Quai Rambaud, 69002 Lyon'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
   Application-domain: [Jeu Vidéo]
   Info: 'Arkane Austin fermé par Microsoft en mai 2024. Fin 2026, Arkane Lyon (Marvel''s Blade) est menacé de fermeture : Microsoft cherche un repreneur (échéance repoussée au 13/12/2026).'
@@ -284,6 +298,7 @@
       Exact: Betton
       Coordinates: [48.16281, -1.64854]
       SIREN: '429876816'
+      Address: '2 Route du Gacet, 35830 Betton'
   Jobs: https://www.artefacto-ar.com/entreprise/carrieres/
   Scientific-domain: [VR/AR, Visualisation, Modélisation]
   Application-domain: [Architecture/BTP/Urbanisme, Entrainement/Formation/Serious Game]
@@ -299,6 +314,7 @@
     - City: Bordeaux
       Coordinates: [44.8257, -0.54843]
       SIREN: '443752795'
+      Address: '6 Rue la Seiglière, 33800 Bordeaux'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
   Employees: 300
@@ -327,6 +343,7 @@
       City: Paris
       Coordinates: [48.84992, 2.29183]
       SIREN: '885007112'
+      Address: '11 Rue de Lourmel, 75015 Paris'
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
 
@@ -377,6 +394,7 @@
     - City: Angoulême
       Coordinates: [45.65167, 0.16393]
       SIREN: '491284428'
+      Address: '18 Boulevard de la République, 16000 Angoulême'
     - Country: Canada
       City: Montréal
   url: https://www.spirit-prod.com/
@@ -391,6 +409,7 @@
     - City: Paris
       Coordinates: [48.85824, 2.43568]
       SIREN: '828189795'
+      Address: '14 Boulevard Chanzy, 93100 Montreuil'
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
@@ -410,6 +429,7 @@
     - City: Paris
       Coordinates: [48.86204, 2.28218]
       SIREN: '888337904'
+      Address: '36 Rue Scheffer, 75016 Paris'
   Jobs: https://buf.com/jobs/
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -485,6 +505,7 @@
     - City: Paris
       Coordinates: [48.87185, 2.34608]
       SIREN: '838865327'
+      Address: '10 Rue Rougemont, 75009 Paris'
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 15
@@ -497,10 +518,12 @@
       City: Paris
       Coordinates: [48.87603, 2.28622]
       SIREN: '322306440'
+      Address: '65-67 Avenue de la Grande Armée, 75016 Paris'
     - Country: France
       City: Aix-en-Provence
       Coordinates: [43.52491, 5.4276]
       SIREN: '322306440'
+      Address: '53 Avenue de l''Europe, 13090 Aix-en-Provence'
     - Country: États-Unis
     - Country: Chine
     - International: True
@@ -546,6 +569,7 @@
     - City: Paris
       Coordinates: [48.88789, 2.28223]
       SIREN: '504161902'
+      Address: '18bis Rue de Villiers, 92300 Levallois-Perret'
     - Country: Canada
       City: Montréal
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
@@ -570,6 +594,7 @@
       City: Bordeaux
       Coordinates: [44.81615, -0.54067]
       SIREN: '922587811'
+      Address: '11 Rue Yvonne et Robert Noutary, 33130 Bègles'
     - Country: États-Unis
       City: Orlando
   Scientific-domain: [Acquisition, VR/AR]
@@ -599,6 +624,7 @@
       City: Lyon
       Coordinates: [45.73746, 4.83989]
       SIREN: '798248399'
+      Address: '81 Rue de Gerland, 69007 Lyon'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
   Employees: 75
@@ -619,6 +645,7 @@
       City: Montpellier
       Coordinates: [43.60953, 3.91274]
       SIREN: '802393793'
+      Address: '1300 Avenue Albert Einstein, 34000 Montpellier'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Design/Fabrication]
   Application-domain: [Commerce/Marketing/Publicité, Industrie/Manufacturing/CAO]
   Jobs: https://www.emersya.com/join-us/
@@ -679,6 +706,7 @@
     - City: Paris
       Coordinates: [48.89668, 2.38136]
       SIREN: '898472170'
+      Address: '11 Rue de Cambrai, 75019 Paris'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
   Info: Branche édition (Focus Entertainment Publishing) du groupe <a href="https://pullupent.com/">PULLUP Entertainment</a>, nouveau nom de Focus Entertainment depuis avril 2024.
@@ -692,6 +720,7 @@
       City: Paris
       Coordinates: [48.87311, 2.32842]
       SIREN: '429338130'
+      Address: '14 Rue Auber, 75009 Paris'
     - Country: États-Unis
     - Country: Canada
     - Country: Espagne
@@ -722,6 +751,7 @@
     - City: Paris
       Coordinates: [48.87301, 2.36072]
       SIREN: '834105470'
+      Address: '45 Rue des Vinaigriers, 75010 Paris'
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Employees: 75
@@ -746,6 +776,7 @@
     - City: Paris
       Coordinates: [48.82887, 2.265]
       SIREN: '811077049'
+      Address: '15 Rue Rouget de Lisle, 92130 Issy-les-Moulineaux'
     - International: True
   Scientific-domain: [Acquisition, Imagerie, Vision]
   Application-domain: [Générique]
@@ -788,6 +819,7 @@
       City: Pertuis
       Coordinates: [43.67796, 5.50416]
       SIREN: '833640022'
+      Address: '22 Impasse Francois Gernelle, 84120 Pertuis'
   Scientific-domain: [Vision, Acquisition, Simulation, Design/Fabrication]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense]
 
@@ -816,6 +848,7 @@
     - City: Paris
       Coordinates: [48.84949, 2.30063]
       SIREN: '533478434'
+      Address: '6 Rue de la Cavalerie, 75015 Paris'
   Jobs: https://www.illuminationstudiosparis.com/careers/
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation, Vision]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -828,6 +861,7 @@
     - City: Paris
       Coordinates: [48.87796, 2.34442]
       SIREN: '829921386'
+      Address: '42 Rue de Maubeuge, 75009 Paris'
   Scientific-domain: [Analyse de données, Imagerie]
   Application-domain: [Médical/Biologique]
 
@@ -856,6 +890,7 @@
     - City: Paris
       Coordinates: [48.8788, 2.32981]
       SIREN: '813003498'
+      Address: '24 Rue de Clichy, 75009 Paris'
   Scientific-domain: [VR/AR]
   Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
   Employees: 15
@@ -867,6 +902,7 @@
     - City: Strasbourg
       Coordinates: [48.57753, 7.74991]
       SIREN: '790747406'
+      Address: '8 Place de l''Hôpital, 67000 Strasbourg'
   Scientific-domain: [Simulation, Modélisation, Animation, Visualisation]
   Application-domain: [Médical/Biologique]
   Jobs: https://www.insimo.com/fr/career-2/
@@ -879,6 +915,7 @@
     - City: Paris
       Coordinates: [48.88062, 2.34239]
       SIREN: '818399651'
+      Address: '37 Avenue Trudaine, 75009 Paris'
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Énergie/Environnement, Géospatial/Cartographie]
   Info: Rachetée en 2026 par Energy Aspects (Londres) ; la marque et l'équipe parisienne sont maintenues.
@@ -891,6 +928,7 @@
     - City: Paris
       Coordinates: [48.86974, 2.33938]
       SIREN: '887848349'
+      Address: '9 Rue des Colonnes, 75002 Paris'
   Jobs: https://kinetix-tech.welcomekit.co/
   Scientific-domain: [Animation, IA générative (image/3D), Vision, Acquisition]
   Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
@@ -907,6 +945,7 @@
       City: Lyon
       Coordinates: [45.77258, 4.86024]
       SIREN: '525409066'
+      Address: '6 Cours André Philip, 69100 Villeurbanne'
   Employees: 200
   Scientific-domain: [Visualisation, Imagerie, Vision, Reconstruction]
   Application-domain: [Médical/Biologique, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
@@ -920,10 +959,12 @@
       City: Paris
       Coordinates: [48.86754, 2.39945]
       SIREN: '490585577'
+      Address: '96 Rue Orfila, 75020 Paris'
     - Country: France
       City: Lyon
       Coordinates: [45.76054, 4.86377]
       SIREN: '490585577'
+      Address: '33 Rue Maurice Flandin, 69003 Lyon'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
   Name-long: KT Racing
@@ -937,6 +978,7 @@
       City: Paris
       Coordinates: [48.87482, 2.28916]
       SIREN: '300702305'
+      Address: '16-18 Rue Chalgrin, 75016 Paris'
     - International: True
   Scientific-domain: [Modélisation, Simulation, Design/Fabrication]
   Application-domain: [Mode/Vêtements/Accessoires]
@@ -949,6 +991,7 @@
     - City: Montpellier
       Coordinates: [43.61973, 3.82287]
       SIREN: '813784659'
+      Address: '710 Rue Favre de Saint Castor, 34080 Montpellier'
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
   Employees: 8
@@ -960,6 +1003,7 @@
     - City: Montpellier
       Coordinates: [43.65686, 3.94713]
       SIREN: '817639891'
+      Address: '1090 Avenue des Bigos, 34740 Vendargues'
     - City: Paris
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Vision, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -972,6 +1016,7 @@
     - City: Paris
       Coordinates: [48.88347, 2.29942]
       SIREN: '791919376'
+      Address: '96B Rue Pierre Demours, 75017 Paris'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Employees: 15
@@ -1038,6 +1083,7 @@
     - City: Paris
       Coordinates: [48.85524, 2.33488]
       SIREN: '529232720'
+      Address: '26 Rue Jacob, 75006 Paris'
   Scientific-domain: [Modélisation, VR/AR, Web/Cloud/Big Data]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game]
   Employees: 8
@@ -1085,6 +1131,7 @@
     - City: Paris
       Coordinates: [48.86414, 2.37966]
       SIREN: '504812678'
+      Address: '84 Avenue de la République, 75011 Paris'
   Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 15
@@ -1120,6 +1167,7 @@
       City: Paris
       Coordinates: [48.87, 2.36404]
       SIREN: '943233668'
+      Address: '2 Rue Dieu, 75010 Paris'
     - Country: Canada
       City: Montréal
     - Country: Inde
@@ -1136,6 +1184,7 @@
       Exact: Aubervilliers
       Coordinates: [48.91556, 2.36721]
       SIREN: '499100998'
+      Address: '70 Rue du Landy, 93300 Aubervilliers'
   Scientific-domain: [Acquisition, Analyse de données, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Jeu Vidéo]
   Employees: 15
@@ -1156,6 +1205,7 @@
       Exact: Saint-Denis
       Coordinates: [48.90693, 2.35801]
       SIREN: '524020682'
+      Address: '113 Avenue du Président Wilson, 93210 Saint-Denis'
   Scientific-domain: [VR/AR]
   Application-domain: [Art/Evenementiel]
   Employees: 15
@@ -1176,6 +1226,7 @@
       City: Paris
       Coordinates: [48.8361, 2.32251]
       SIREN: '882891161'
+      Address: '13 Rue Raymond Losserand, 75014 Paris'
   Scientific-domain: [Visualisation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Énergie/Environnement, Architecture/BTP/Urbanisme]
   Employees: 4
@@ -1226,6 +1277,7 @@
       City: Paris
       Coordinates: [48.86073, 2.34909]
       SIREN: '799791926'
+      Address: '30-32 Boulevard de Sébastopol, 75001 Paris'
   Scientific-domain: [Simulation, Animation, Modélisation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Employees: 70
@@ -1237,6 +1289,7 @@
     - City: Paris
       Coordinates: [48.86704, 2.33543]
       SIREN: '510802614'
+      Address: '48 Rue des Petits Champs, 75001 Paris'
     - City: Lyon
   Scientific-domain: [VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
@@ -1265,6 +1318,7 @@
       City: Paris
       Coordinates: [48.89576, 2.239]
       SIREN: '432108355'
+      Address: '8 Avenue De L''Arche, 92400 Courbevoie'
     - International: True
   Scientific-domain: [Hardware, Rendu temps réel/Moteurs 3D, IA générative (image/3D), Simulation]
   Application-domain: [Générique]
@@ -1308,6 +1362,7 @@
     - City: Lyon
       Coordinates: [45.76933, 4.87184]
       SIREN: '912045010'
+      Address: '1 Rue Louis Adam, 69100 Villeurbanne'
   Scientific-domain: [Vision, Acquisition, Visualisation, Géométrie]
   Application-domain: [Générique]
   Employees: 5
@@ -1328,6 +1383,7 @@
       City: Metz
       Coordinates: [49.12747, 6.18419]
       SIREN: '843876764'
+      Address: '7 Avenue de Blida, 57000 Metz'
   Product: Iliad, Epos, Odyssey, Ulis, etc.
   Scientific-domain: [Animation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -1342,6 +1398,7 @@
     - City: Paris
       Coordinates: [48.87036, 2.34641]
       SIREN: '842567422'
+      Address: '41 Rue du Sentier, 75002 Paris'
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Employees: 30
@@ -1362,6 +1419,7 @@
       Exact: Montrouge
       Coordinates: [48.81808, 2.31874]
       SIREN: '528593817'
+      Address: '1 Avenue Jean Jaurès, 92120 Montrouge'
   Scientific-domain: [Web/Cloud/Big Data]
   Application-domain: [Générique]
   Info: Racheté par Scaleway (groupe Iliad) en juillet 2026.
@@ -1375,6 +1433,7 @@
       City: Montpellier
       Coordinates: [43.60372, 3.88681]
       SIREN: '805024957'
+      Address: '73 Allée Kléber, 34000 Montpellier'
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Employees: 5
@@ -1387,6 +1446,7 @@
     - City: Paris
       Coordinates: [48.87986, 2.40878]
       SIREN: '412332686'
+      Address: '30 Rue Raoul Wallenberg, 75019 Paris'
     - Country: Canada
       City: Montréal
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
@@ -1488,6 +1548,7 @@
       City: Paris
       Coordinates: [48.89938, 2.29372]
       SIREN: '334213113'
+      Address: '164 Rue Victor Hugo, 92300 Levallois-Perret'
     - Country: Allemagne
       City: Hamburg
     - Country: Japon
@@ -1517,6 +1578,7 @@
       Exact: Tourcoing
       Coordinates: [50.70062, 3.15798]
       SIREN: '790211551'
+      Address: '99A Boulevard Constantin Descat, 59200 Tourcoing'
   Scientific-domain: [Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
 
@@ -1549,6 +1611,7 @@
     - City: Paris
       Coordinates: [48.84992, 2.29183]
       SIREN: '812804557'
+      Address: '11 Rue de Lourmel, 75015 Paris'
   url: https://studio-draconis.com/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
@@ -1574,9 +1637,11 @@
     - City: Vernon
       Coordinates: [49.09426, 1.47512]
       SIREN: '508594009'
+      Address: '72 Rue Emile Loubet, 27200 Vernon'
     - City: Paris
       Coordinates: [48.87828, 2.32992]
       SIREN: '508594009'
+      Address: '21 Rue de Clichy, 75009 Paris'
   Scientific-domain: [Acquisition, Reconstruction]
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique]
   Employees: 120
@@ -1597,6 +1662,7 @@
       City: Paris
       Coordinates: [48.86584, 2.32979]
       SIREN: '419459672'
+      Address: '223 Rue Saint-Honoré, 75001 Paris'
     - International: True
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Acquisition, Vision]
   Application-domain: [Jeu Vidéo]
@@ -1620,6 +1686,7 @@
     - City: Lyon
       Coordinates: [45.75986, 4.86416]
       SIREN: '491413506'
+      Address: '17 Avenue Georges Pompidou, 69003 Lyon'
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme]
   Jobs: https://www.welcometothejungle.com/fr/companies/technodigit
@@ -1633,10 +1700,12 @@
       City: Lyon
       Coordinates: [45.74013, 4.88843]
       SIREN: '521237131'
+      Address: '60 Avenue Rockefeller, 69008 Lyon'
     - Country: France
       City: Sophia Antipolis
       Coordinates: [43.62432, 7.06823]
       SIREN: '521237131'
+      Address: '965 Avenue Roumanille, 06410 Biot'
     - Country: États-Unis
       State: Oregon
       City: Bend
@@ -1653,6 +1722,7 @@
       City: Paris
       Coordinates: [48.84867, 2.39807]
       SIREN: '451902423'
+      Address: '5 Avenue du Trône, 75011 Paris'
     - Country: États-Unis
   Scientific-domain: [VR/AR, Visualisation]
   Application-domain: [Générique]
@@ -1666,6 +1736,7 @@
       City: Paris
       Coordinates: [48.82004, 2.23632]
       SIREN: '552059024'
+      Address: '4 Rue de la Verrerie, 92190 Meudon'
     - International: True
   Jobs: https://www.thalesgroup.com/fr/candidat
   Scientific-domain: [Reconstruction, Vision, Imagerie]
@@ -1695,6 +1766,7 @@
     - City: Montpellier
       Coordinates: [43.60884, 3.88178]
       SIREN: '524257011'
+      Address: '6 Rue du Jeu de l''Arc, 34000 Montpellier'
   Description: Studio de jeux vidéo indépendant (Squids, Furi, Haven)
   url: https://www.thegamebakers.com/
   Jobs: https://www.thegamebakers.com/category/jobs/
@@ -1765,10 +1837,12 @@
       City: Bordeaux
       Coordinates: [44.84365, -0.55673]
       SIREN: '828489765'
+      Address: '15 Avenue Abadie, 33100 Bordeaux'
     - Country: France
       City: Annecy
       Coordinates: [45.90863, 6.12549]
       SIREN: '408641090'
+      Address: '6 Rue André Fumex, 74000 Annecy'
     - Country: Canada
       City: [Montréal, Toronto]
     - Country: États-Unis
@@ -1793,18 +1867,22 @@
       City: Paris
       Coordinates: [48.83386, 2.3669]
       SIREN: '813754389'
+      Address: '83 Boulevard Vincent Auriol, 75013 Paris'
     - Country: France
       City: Grenoble
       Coordinates: [45.21681, 5.80753]
       SIREN: '813754389'
+      Address: '51 Avenue Jean Kuntzmann, 38330 Montbonnot-Saint-Martin'
     - Country: France
       City: Compiègne
       Coordinates: [49.38524, 2.78595]
       SIREN: '813754389'
+      Address: '14 Rue du Fonds Pernant, 60200 Compiègne'
     - Country: France
       City: Lille
       Coordinates: [50.63307, 3.0189]
       SIREN: '813754389'
+      Address: '2 Avenue des Saules, 59160 Lille'
     - Country: [Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse]
     - International: True
   Highlight: Graphics, R&D
@@ -1822,6 +1900,7 @@
       City: Paris
       Coordinates: [48.86787, 2.35368]
       SIREN: '831248380'
+      Address: '102 Boulevard de Sébastopol, 75003 Paris'
     - Country: France
       City: Laval
   Scientific-domain: [Rendu offline/VFX, Simulation]
@@ -1850,6 +1929,7 @@
       City: Montpellier
       Coordinates: [43.61498, 3.90957]
       SIREN: '811525005'
+      Address: '78 Allée John Napier, 34000 Montpellier'
   Scientific-domain: [VR/AR]
   Application-domain: [Médical/Biologique]
   Employees: 30
@@ -1901,6 +1981,7 @@
     - City: Paris
       Coordinates: [48.82859, 2.35693]
       SIREN: '788627198'
+      Address: '23 Avenue d''Italie, 75013 Paris'
   url: https://en.wandercraft.eu/
   Scientific-domain: [Simulation, IHM/Haptique]
   Application-domain: [Robotique/Systèmes autonomes]
@@ -1916,6 +1997,7 @@
       Exact: Boulogne-Billancourt
       Coordinates: [48.84579, 2.23601]
       SIREN: '531507531'
+      Address: '5 Rue de l''Église, 92100 Boulogne-Billancourt'
   Jobs: https://wassa.io/fr/offres-emploi/
   Scientific-domain: [IHM/Haptique, Web/Cloud/Big Data, Vision]
   Application-domain: [Générique]
@@ -1942,6 +2024,7 @@
       Exact: Saint-Clément-de-Rivière
       Coordinates: [43.71188, 3.83301]
       SIREN: '813091543'
+      Address: '525 Avenue de Saint-Sauveur-du-Pin, 34980 Saint-Clément-de-Rivière'
   Scientific-domain: [Acquisition, Reconstruction, Géométrie]
   Application-domain: [Géospatial/Cartographie, Patrimoine/Culture, Architecture/BTP/Urbanisme]
   Employees: 70
@@ -1984,6 +2067,7 @@
     - City: Meylan
       Coordinates: [45.21703, 5.79208]
       SIREN: '830377990'
+      Address: '6 Chemin de Maupertuis, 38240 Meylan'
   Scientific-domain: [Vision, Reconstruction, Acquisition]
   Application-domain: [Robotique/Systèmes autonomes, Générique]
 
@@ -2012,6 +2096,7 @@
       City: La Farlède
       Coordinates: [43.15317, 6.04882]
       SIREN: '389371816'
+      Address: '60 Rue Parmentier, 83210 La Farlède'
     - International: True
   Scientific-domain: [Simulation, Rendu offline/VFX, Visualisation]
   Application-domain: [Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO, Générique]
@@ -2024,6 +2109,7 @@
     - City: Évry-Courcouronnes
       Coordinates: [48.64203, 2.42192]
       SIREN: '329109227'
+      Address: '7 Rue du Bois Sauvage, 91000 Évry-Courcouronnes'
   Scientific-domain: [Design/Fabrication, Modélisation, Géométrie]
   Application-domain: [Industrie/Manufacturing/CAO]
   Employees: 420
@@ -2035,6 +2121,7 @@
     - City: Lyon
       Coordinates: [45.75332, 4.85735]
       SIREN: '408478733'
+      Address: '90 Avenue Félix Faure, 69003 Lyon'
   Scientific-domain: [Géométrie, Design/Fabrication, Modélisation]
   Application-domain: [Industrie/Manufacturing/CAO, Générique]
 
@@ -2046,6 +2133,7 @@
     - City: Toulouse
       Coordinates: [43.5048, 1.4554]
       SIREN: '434891297'
+      Address: '11 Avenue du Lac, 31320 Vigoulet-Auzil'
   Scientific-domain: [Simulation, Rendu offline/VFX, Modélisation]
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation]
 
@@ -2057,6 +2145,7 @@
     - City: Biot
       Coordinates: [43.61652, 7.07452]
       SIREN: '794581223'
+      Address: '950 Route des Colles, 06410 Biot'
   Scientific-domain: [Reconstruction, Géométrie, Web/Cloud/Big Data, Visualisation]
   Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO]
 
@@ -2067,6 +2156,7 @@
     - City: Paris
       Coordinates: [48.87235, 2.35768]
       SIREN: '792857401'
+      Address: '82 Rue du Faubourg Saint-Martin, 75010 Paris'
   Scientific-domain: [Acquisition, Reconstruction, Visualisation]
   Application-domain: [Patrimoine/Culture, Géospatial/Cartographie]
 
@@ -2077,6 +2167,7 @@
     - City: Paris
       Coordinates: [48.84179, 2.39546]
       SIREN: '900329608'
+      Address: '39 Rue de la Gare de Reuilly, 75012 Paris'
   Scientific-domain: [Vision, Reconstruction, Acquisition]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
 
@@ -2087,6 +2178,7 @@
     - City: Laval
       Coordinates: [48.06193, -0.57832]
       SIREN: '439218801'
+      Address: '8 ZA Route de Laval, 53210 Soulgé-sur-Ouette'
   Scientific-domain: [IHM/Haptique, VR/AR, Simulation]
   Application-domain: [Entrainement/Formation/Serious Game, Médical/Biologique, Industrie/Manufacturing/CAO]
 
@@ -2097,6 +2189,7 @@
     - City: Strasbourg
       Coordinates: [48.57683, 7.73554]
       SIREN: '794458125'
+      Address: '8 Rue Gustave Adolphe Hirn, 67000 Strasbourg'
   Scientific-domain: [Imagerie, Reconstruction, Visualisation]
   Application-domain: [Médical/Biologique]
 
@@ -2107,6 +2200,7 @@
     - City: Pessac
       Coordinates: [44.79682, -0.65916]
       SIREN: '830755393'
+      Address: 'IHU Liryc, Hôpital Xavier Arnozan, Avenue du Haut-Lévêque, 33600 Pessac'
     - Country: États-Unis
       City: Boston
   Scientific-domain: [Imagerie, Reconstruction, Simulation]
@@ -2120,6 +2214,7 @@
     - City: Paris
       Coordinates: [48.86608, 2.32945]
       SIREN: '853059384'
+      Address: '229 Rue Saint-Honoré, 75001 Paris'
   Scientific-domain: [IA générative (image/3D), Imagerie, Vision]
   Application-domain: [Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires]
 
@@ -2150,6 +2245,7 @@
     - City: Paris
       Coordinates: [48.86762, 2.33946]
       SIREN: '853337665'
+      Address: '12 Rue Vivienne, 75002 Paris'
   Scientific-domain: [Vision, Acquisition]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
 
@@ -2160,6 +2256,7 @@
     - City: Montpellier
       Coordinates: [43.60961, 3.86461]
       SIREN: '890055171'
+      Address: '28 Avenue de Lodève, 34000 Montpellier'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
 
@@ -2170,6 +2267,7 @@
     - City: Paris
       Coordinates: [48.82986, 2.37782]
       SIREN: '512985797'
+      Address: '100 Avenue de France, 75013 Paris'
     - City: Montpellier
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
@@ -2183,10 +2281,12 @@
     - City: Paris
       Coordinates: [48.87602, 2.37216]
       SIREN: '423784610'
+      Address: '57 Boulevard de la Villette, 75010 Paris'
     - City: Lyon
     - City: Angoulême
       Coordinates: [45.6517, 0.15537]
       SIREN: '821722436'
+      Address: '11 Avenue de Cognac, 16000 Angoulême'
   Scientific-domain: [Animation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
@@ -2198,6 +2298,7 @@
     - City: Montpellier
       Coordinates: [43.58054, 3.94046]
       SIREN: '523926467'
+      Address: '125 Impasse Adam Smith, 34470 Pérols'
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
 
@@ -2209,6 +2310,7 @@
     - City: Paris
       Coordinates: [48.83547, 2.35039]
       SIREN: '338438781'
+      Address: '20 Rue Berbier du Mets, 75013 Paris'
   Scientific-domain: [Rendu offline/VFX, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
 
@@ -2219,6 +2321,7 @@
     - City: Paris
       Coordinates: [48.84631, 2.38532]
       SIREN: '810965442'
+      Address: '3 Rue Rondelet, 75012 Paris'
   Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Employees: 100-199
@@ -2230,6 +2333,7 @@
     - City: Bordeaux
       Coordinates: [44.85684, -0.56499]
       SIREN: '788434702'
+      Address: '17 Cours du Médoc, 33300 Bordeaux'
   Scientific-domain: [Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Employees: 50-99
@@ -2241,9 +2345,11 @@
     - City: Paris
       Coordinates: [48.84735, 2.36755]
       SIREN: '483041158'
+      Address: '10 Boulevard de la Bastille, 75012 Paris'
     - City: Valence
       Coordinates: [44.9418, 4.89919]
       SIREN: '483041158'
+      Address: '33 Rue de Chony, 26500 Bourg-lès-Valence'
   Scientific-domain: [Animation, Rendu offline/VFX, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Info: Repris par RIVA Studios en décembre 2024 (nouvelle structure TeamTO Animation / TeamTO Technology).
@@ -2255,6 +2361,7 @@
     - City: Roubaix
       Coordinates: [50.69945, 3.15941]
       SIREN: '437785223'
+      Address: '75 Boulevard d''Armentières, 59100 Roubaix'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Animation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
 
@@ -2265,6 +2372,7 @@
     - City: Paris
       Coordinates: [48.84556, 2.32497]
       SIREN: '845115963'
+      Address: '140B Rue de Rennes, 75006 Paris'
   Scientific-domain: [Vision, Acquisition, Analyse de données]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
   Employees: 75
@@ -2276,6 +2384,7 @@
     - City: Besançon
       Coordinates: [47.25216, 5.99721]
       SIREN: '832674816'
+      Address: '18 Rue Alain Savary, 25000 Besançon'
   Scientific-domain: [VR/AR, Vision, Imagerie]
   Application-domain: [Médical/Biologique]
   Employees: 75
@@ -2287,6 +2396,7 @@
     - City: Rennes
       Coordinates: [48.11277, -1.66147]
       SIREN: '500603287'
+      Address: '74f Rue de Paris, 35000 Rennes'
   Scientific-domain: [Imagerie, Visualisation, VR/AR]
   Application-domain: [Médical/Biologique]
   Employees: 35
@@ -2298,6 +2408,7 @@
     - City: Montpellier
       Coordinates: [43.63778, 3.83151]
       SIREN: '803695402'
+      Address: '95 Rue Pierre Flourens, 34000 Montpellier'
   Scientific-domain: [Simulation, Imagerie, Reconstruction]
   Application-domain: [Médical/Biologique]
   Employees: 35
@@ -2309,6 +2420,7 @@
     - City: Limoges
       Coordinates: [45.86466, 1.29167]
       SIREN: '441035813'
+      Address: '19 rue de Columbia, 87280 Limoges'
   Scientific-domain: [Acquisition, Reconstruction, Hardware]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
   Employees: 35
@@ -2320,6 +2432,7 @@
     - City: Paris
       Coordinates: [48.84491, 2.37331]
       SIREN: '517636346'
+      Address: '4 Place Louis Armand, 75012 Paris'
     - City: Lyon
   Scientific-domain: [Visualisation, Web/Cloud/Big Data, Géométrie]
   Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme]
@@ -2332,6 +2445,7 @@
     - City: Paris
       Coordinates: [48.85942, 2.37772]
       SIREN: '491420808'
+      Address: '95 Boulevard Voltaire, 75011 Paris'
   Scientific-domain: [Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Art/Evenementiel]
   Employees: 150
@@ -2343,6 +2457,7 @@
     - City: Paris
       Coordinates: [48.86673, 2.34225]
       SIREN: '803698596'
+      Address: '13 Rue du Mail, 75002 Paris'
   Scientific-domain: [Rendu offline/VFX, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Employees: 75
@@ -2354,6 +2469,7 @@
     - City: Bordeaux
       Coordinates: [44.84327, -0.56005]
       SIREN: '847874229'
+      Address: '91 Rue Nuyens, 33100 Bordeaux'
   Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Employees: 65
@@ -2365,6 +2481,7 @@
     - City: Paris
       Coordinates: [48.85334, 2.36202]
       SIREN: '528948235'
+      Address: '14 Rue Charles V, 75004 Paris'
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
   Employees: 35
@@ -2376,6 +2493,7 @@
     - City: Paris
       Coordinates: [48.86974, 2.33938]
       SIREN: '415119858'
+      Address: '9 Rue des Colonnes, 75002 Paris'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
   Application-domain: [Jeu Vidéo]
   Employees: 35
@@ -2387,6 +2505,7 @@
     - City: Villeurbanne
       Coordinates: [45.77115, 4.86554]
       SIREN: '788677714'
+      Address: '31 Cours Emile Zola, 69100 Villeurbanne'
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Employees: 35
@@ -2399,6 +2518,7 @@
       City: Saint-Paul (La Réunion)
       Coordinates: [-21.05823, 55.23239]
       SIREN: '801170838'
+      Address: '44 Rue des Navigateurs, 97434 Saint-Paul'
     - Country: France
       City: Angoulême
     - Country: France
@@ -2416,6 +2536,7 @@
     - City: Toulouse
       Coordinates: [43.60789, 1.45338]
       SIREN: '753811843'
+      Address: '97 Rue Pierre-Paul Riquet, 31000 Toulouse'
   Scientific-domain: [Animation, Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 15

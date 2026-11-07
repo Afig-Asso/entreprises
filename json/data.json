@@ -536,7 +536,8 @@
                         48.86363,
                         2.40817
                     ],
-                    "SIREN": "433168481"
+                    "SIREN": "433168481",
+                    "Address": "221 Boulevard Davout, 75020 Paris"
                 },
                 {
                     "City": "Angoul\u00eame",
@@ -544,7 +545,8 @@
                         45.65544,
                         0.14854
                     ],
-                    "SIREN": "433168481"
+                    "SIREN": "433168481",
+                    "Address": "8 Rue de Saintes, 16000 Angoul\u00eame"
                 },
                 {
                     "Country": "Canada",
@@ -574,7 +576,8 @@
                         45.6484,
                         0.15198
                     ],
-                    "SIREN": "815403001"
+                    "SIREN": "815403001",
+                    "Address": "40 Rempart Desaix, 16000 Angoul\u00eame"
                 }
             ],
             "Scientific-domain": [
@@ -611,7 +614,8 @@
                         48.87774,
                         2.29399
                     ],
-                    "SIREN": "851077719"
+                    "SIREN": "851077719",
+                    "Address": "1 Passage des Acacias, 75017 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -762,7 +766,8 @@
                         43.55479,
                         1.48267
                     ],
-                    "SIREN": "477887392"
+                    "SIREN": "477887392",
+                    "Address": "1 Avenue de l'Europe, 31400 Toulouse"
                 },
                 {
                     "City": "Saint-Germain-en-Laye",
@@ -770,7 +775,8 @@
                         48.89269,
                         2.07295
                     ],
-                    "SIREN": "477887392"
+                    "SIREN": "477887392",
+                    "Address": "10 Rue des Gaudines, 78100 Saint-Germain-en-Laye"
                 },
                 {
                     "City": "Rennes",
@@ -778,7 +784,8 @@
                         48.03297,
                         -1.76088
                     ],
-                    "SIREN": "477887392"
+                    "SIREN": "477887392",
+                    "Address": "Parc d'affaires Cic\u00e9a, 3 Rue du Courtil, 35170 Bruz"
                 }
             ],
             "Scientific-domain": [
@@ -851,7 +858,8 @@
                         43.54417,
                         1.50822
                     ],
-                    "SIREN": "530969781"
+                    "SIREN": "530969781",
+                    "Address": "Data Valley, L'Occitane, 31670 Lab\u00e8ge"
                 },
                 {
                     "City": "Paris",
@@ -859,7 +867,8 @@
                         48.85636,
                         2.37127
                     ],
-                    "SIREN": "530969781"
+                    "SIREN": "530969781",
+                    "Address": "2 Rue Br\u00e9guet, 75011 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -909,7 +918,8 @@
                         48.83174,
                         2.38868
                     ],
-                    "SIREN": "529778185"
+                    "SIREN": "529778185",
+                    "Address": "40 Avenue des Terroirs de France, 75012 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -935,7 +945,8 @@
                         45.20379,
                         5.76985
                     ],
-                    "SIREN": "813823432"
+                    "SIREN": "813823432",
+                    "Address": "33 Boulevard des Alpes, 38240 Meylan"
                 },
                 {
                     "City": "Montpellier",
@@ -943,7 +954,8 @@
                         43.61385,
                         3.90505
                     ],
-                    "SIREN": "813823432"
+                    "SIREN": "813823432",
+                    "Address": "40 Rue de Pinville, 34000 Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -1023,7 +1035,8 @@
                         45.73766,
                         4.81508
                     ],
-                    "SIREN": "424606176"
+                    "SIREN": "424606176",
+                    "Address": "49 Quai Rambaud, 69002 Lyon"
                 }
             ],
             "Scientific-domain": [
@@ -1048,7 +1061,8 @@
                         48.16281,
                         -1.64854
                     ],
-                    "SIREN": "429876816"
+                    "SIREN": "429876816",
+                    "Address": "2 Route du Gacet, 35830 Betton"
                 }
             ],
             "Jobs": "https://www.artefacto-ar.com/entreprise/carrieres/",
@@ -1077,7 +1091,8 @@
                         44.8257,
                         -0.54843
                     ],
-                    "SIREN": "443752795"
+                    "SIREN": "443752795",
+                    "Address": "6 Rue la Seigli\u00e8re, 33800 Bordeaux"
                 }
             ],
             "Scientific-domain": [
@@ -1143,7 +1158,8 @@
                         48.84992,
                         2.29183
                     ],
-                    "SIREN": "885007112"
+                    "SIREN": "885007112",
+                    "Address": "11 Rue de Lourmel, 75015 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -1254,7 +1270,8 @@
                         45.65167,
                         0.16393
                     ],
-                    "SIREN": "491284428"
+                    "SIREN": "491284428",
+                    "Address": "18 Boulevard de la R\u00e9publique, 16000 Angoul\u00eame"
                 },
                 {
                     "Country": "Canada",
@@ -1281,7 +1298,8 @@
                         48.85824,
                         2.43568
                     ],
-                    "SIREN": "828189795"
+                    "SIREN": "828189795",
+                    "Address": "14 Boulevard Chanzy, 93100 Montreuil"
                 }
             ],
             "Scientific-domain": [
@@ -1322,7 +1340,8 @@
                         48.86204,
                         2.28218
                     ],
-                    "SIREN": "888337904"
+                    "SIREN": "888337904",
+                    "Address": "36 Rue Scheffer, 75016 Paris"
                 }
             ],
             "Jobs": "https://buf.com/jobs/",
@@ -1480,7 +1499,8 @@
                         48.87185,
                         2.34608
                     ],
-                    "SIREN": "838865327"
+                    "SIREN": "838865327",
+                    "Address": "10 Rue Rougemont, 75009 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -1503,7 +1523,8 @@
                         48.87603,
                         2.28622
                     ],
-                    "SIREN": "322306440"
+                    "SIREN": "322306440",
+                    "Address": "65-67 Avenue de la Grande Arm\u00e9e, 75016 Paris"
                 },
                 {
                     "Country": "France",
@@ -1512,7 +1533,8 @@
                         43.52491,
                         5.4276
                     ],
-                    "SIREN": "322306440"
+                    "SIREN": "322306440",
+                    "Address": "53 Avenue de l'Europe, 13090 Aix-en-Provence"
                 },
                 {
                     "Country": "\u00c9tats-Unis"
@@ -1609,7 +1631,8 @@
                         48.88789,
                         2.28223
                     ],
-                    "SIREN": "504161902"
+                    "SIREN": "504161902",
+                    "Address": "18bis Rue de Villiers, 92300 Levallois-Perret"
                 },
                 {
                     "Country": "Canada",
@@ -1657,7 +1680,8 @@
                         44.81615,
                         -0.54067
                     ],
-                    "SIREN": "922587811"
+                    "SIREN": "922587811",
+                    "Address": "11 Rue Yvonne et Robert Noutary, 33130 B\u00e8gles"
                 },
                 {
                     "Country": "\u00c9tats-Unis",
@@ -1712,7 +1736,8 @@
                         45.73746,
                         4.83989
                     ],
-                    "SIREN": "798248399"
+                    "SIREN": "798248399",
+                    "Address": "81 Rue de Gerland, 69007 Lyon"
                 }
             ],
             "Scientific-domain": [
@@ -1754,7 +1779,8 @@
                         43.60953,
                         3.91274
                     ],
-                    "SIREN": "802393793"
+                    "SIREN": "802393793",
+                    "Address": "1300 Avenue Albert Einstein, 34000 Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -1879,7 +1905,8 @@
                         48.89668,
                         2.38136
                     ],
-                    "SIREN": "898472170"
+                    "SIREN": "898472170",
+                    "Address": "11 Rue de Cambrai, 75019 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -1906,7 +1933,8 @@
                         48.87311,
                         2.32842
                     ],
-                    "SIREN": "429338130"
+                    "SIREN": "429338130",
+                    "Address": "14 Rue Auber, 75009 Paris"
                 },
                 {
                     "Country": "\u00c9tats-Unis"
@@ -1972,7 +2000,8 @@
                         48.87301,
                         2.36072
                     ],
-                    "SIREN": "834105470"
+                    "SIREN": "834105470",
+                    "Address": "45 Rue des Vinaigriers, 75010 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -2021,7 +2050,8 @@
                         48.82887,
                         2.265
                     ],
-                    "SIREN": "811077049"
+                    "SIREN": "811077049",
+                    "Address": "15 Rue Rouget de Lisle, 92130 Issy-les-Moulineaux"
                 },
                 {
                     "International": true
@@ -2114,7 +2144,8 @@
                         43.67796,
                         5.50416
                     ],
-                    "SIREN": "833640022"
+                    "SIREN": "833640022",
+                    "Address": "22 Impasse Francois Gernelle, 84120 Pertuis"
                 }
             ],
             "Scientific-domain": [
@@ -2174,7 +2205,8 @@
                         48.84949,
                         2.30063
                     ],
-                    "SIREN": "533478434"
+                    "SIREN": "533478434",
+                    "Address": "6 Rue de la Cavalerie, 75015 Paris"
                 }
             ],
             "Jobs": "https://www.illuminationstudiosparis.com/careers/",
@@ -2200,7 +2232,8 @@
                         48.87796,
                         2.34442
                     ],
-                    "SIREN": "829921386"
+                    "SIREN": "829921386",
+                    "Address": "42 Rue de Maubeuge, 75009 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -2257,7 +2290,8 @@
                         48.8788,
                         2.32981
                     ],
-                    "SIREN": "813003498"
+                    "SIREN": "813003498",
+                    "Address": "24 Rue de Clichy, 75009 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -2280,7 +2314,8 @@
                         48.57753,
                         7.74991
                     ],
-                    "SIREN": "790747406"
+                    "SIREN": "790747406",
+                    "Address": "8 Place de l'H\u00f4pital, 67000 Strasbourg"
                 }
             ],
             "Scientific-domain": [
@@ -2306,7 +2341,8 @@
                         48.88062,
                         2.34239
                     ],
-                    "SIREN": "818399651"
+                    "SIREN": "818399651",
+                    "Address": "37 Avenue Trudaine, 75009 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -2331,7 +2367,8 @@
                         48.86974,
                         2.33938
                     ],
-                    "SIREN": "887848349"
+                    "SIREN": "887848349",
+                    "Address": "9 Rue des Colonnes, 75002 Paris"
                 }
             ],
             "Jobs": "https://kinetix-tech.welcomekit.co/",
@@ -2364,7 +2401,8 @@
                         45.77258,
                         4.86024
                     ],
-                    "SIREN": "525409066"
+                    "SIREN": "525409066",
+                    "Address": "6 Cours Andr\u00e9 Philip, 69100 Villeurbanne"
                 }
             ],
             "Employees": 200,
@@ -2393,7 +2431,8 @@
                         48.86754,
                         2.39945
                     ],
-                    "SIREN": "490585577"
+                    "SIREN": "490585577",
+                    "Address": "96 Rue Orfila, 75020 Paris"
                 },
                 {
                     "Country": "France",
@@ -2402,7 +2441,8 @@
                         45.76054,
                         4.86377
                     ],
-                    "SIREN": "490585577"
+                    "SIREN": "490585577",
+                    "Address": "33 Rue Maurice Flandin, 69003 Lyon"
                 }
             ],
             "Scientific-domain": [
@@ -2429,7 +2469,8 @@
                         48.87482,
                         2.28916
                     ],
-                    "SIREN": "300702305"
+                    "SIREN": "300702305",
+                    "Address": "16-18 Rue Chalgrin, 75016 Paris"
                 },
                 {
                     "International": true
@@ -2456,7 +2497,8 @@
                         43.61973,
                         3.82287
                     ],
-                    "SIREN": "813784659"
+                    "SIREN": "813784659",
+                    "Address": "710 Rue Favre de Saint Castor, 34080 Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -2479,7 +2521,8 @@
                         43.65686,
                         3.94713
                     ],
-                    "SIREN": "817639891"
+                    "SIREN": "817639891",
+                    "Address": "1090 Avenue des Bigos, 34740 Vendargues"
                 },
                 {
                     "City": "Paris"
@@ -2506,7 +2549,8 @@
                         48.88347,
                         2.29942
                     ],
-                    "SIREN": "791919376"
+                    "SIREN": "791919376",
+                    "Address": "96B Rue Pierre Demours, 75017 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -2632,7 +2676,8 @@
                         48.85524,
                         2.33488
                     ],
-                    "SIREN": "529232720"
+                    "SIREN": "529232720",
+                    "Address": "26 Rue Jacob, 75006 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -2737,7 +2782,8 @@
                         48.86414,
                         2.37966
                     ],
-                    "SIREN": "504812678"
+                    "SIREN": "504812678",
+                    "Address": "84 Avenue de la R\u00e9publique, 75011 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -2808,7 +2854,8 @@
                         48.87,
                         2.36404
                     ],
-                    "SIREN": "943233668"
+                    "SIREN": "943233668",
+                    "Address": "2 Rue Dieu, 75010 Paris"
                 },
                 {
                     "Country": "Canada",
@@ -2841,7 +2888,8 @@
                         48.91556,
                         2.36721
                     ],
-                    "SIREN": "499100998"
+                    "SIREN": "499100998",
+                    "Address": "70 Rue du Landy, 93300 Aubervilliers"
                 }
             ],
             "Scientific-domain": [
@@ -2884,7 +2932,8 @@
                         48.90693,
                         2.35801
                     ],
-                    "SIREN": "524020682"
+                    "SIREN": "524020682",
+                    "Address": "113 Avenue du Pr\u00e9sident Wilson, 93210 Saint-Denis"
                 }
             ],
             "Scientific-domain": [
@@ -2922,7 +2971,8 @@
                         48.8361,
                         2.32251
                     ],
-                    "SIREN": "882891161"
+                    "SIREN": "882891161",
+                    "Address": "13 Rue Raymond Losserand, 75014 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -3018,7 +3068,8 @@
                         48.86073,
                         2.34909
                     ],
-                    "SIREN": "799791926"
+                    "SIREN": "799791926",
+                    "Address": "30-32 Boulevard de S\u00e9bastopol, 75001 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -3043,7 +3094,8 @@
                         48.86704,
                         2.33543
                     ],
-                    "SIREN": "510802614"
+                    "SIREN": "510802614",
+                    "Address": "48 Rue des Petits Champs, 75001 Paris"
                 },
                 {
                     "City": "Lyon"
@@ -3096,7 +3148,8 @@
                         48.89576,
                         2.239
                     ],
-                    "SIREN": "432108355"
+                    "SIREN": "432108355",
+                    "Address": "8 Avenue De L'Arche, 92400 Courbevoie"
                 },
                 {
                     "International": true
@@ -3182,7 +3235,8 @@
                         45.76933,
                         4.87184
                     ],
-                    "SIREN": "912045010"
+                    "SIREN": "912045010",
+                    "Address": "1 Rue Louis Adam, 69100 Villeurbanne"
                 }
             ],
             "Scientific-domain": [
@@ -3223,7 +3277,8 @@
                         49.12747,
                         6.18419
                     ],
-                    "SIREN": "843876764"
+                    "SIREN": "843876764",
+                    "Address": "7 Avenue de Blida, 57000 Metz"
                 }
             ],
             "Product": "Iliad, Epos, Odyssey, Ulis, etc.",
@@ -3249,7 +3304,8 @@
                         48.87036,
                         2.34641
                     ],
-                    "SIREN": "842567422"
+                    "SIREN": "842567422",
+                    "Address": "41 Rue du Sentier, 75002 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -3287,7 +3343,8 @@
                         48.81808,
                         2.31874
                     ],
-                    "SIREN": "528593817"
+                    "SIREN": "528593817",
+                    "Address": "1 Avenue Jean Jaur\u00e8s, 92120 Montrouge"
                 }
             ],
             "Scientific-domain": [
@@ -3311,7 +3368,8 @@
                         43.60372,
                         3.88681
                     ],
-                    "SIREN": "805024957"
+                    "SIREN": "805024957",
+                    "Address": "73 All\u00e9e Kl\u00e9ber, 34000 Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -3335,7 +3393,8 @@
                         48.87986,
                         2.40878
                     ],
-                    "SIREN": "412332686"
+                    "SIREN": "412332686",
+                    "Address": "30 Rue Raoul Wallenberg, 75019 Paris"
                 },
                 {
                     "Country": "Canada",
@@ -3543,7 +3602,8 @@
                         48.89938,
                         2.29372
                     ],
-                    "SIREN": "334213113"
+                    "SIREN": "334213113",
+                    "Address": "164 Rue Victor Hugo, 92300 Levallois-Perret"
                 },
                 {
                     "Country": "Allemagne",
@@ -3601,7 +3661,8 @@
                         50.70062,
                         3.15798
                     ],
-                    "SIREN": "790211551"
+                    "SIREN": "790211551",
+                    "Address": "99A Boulevard Constantin Descat, 59200 Tourcoing"
                 }
             ],
             "Scientific-domain": [
@@ -3668,7 +3729,8 @@
                         48.84992,
                         2.29183
                     ],
-                    "SIREN": "812804557"
+                    "SIREN": "812804557",
+                    "Address": "11 Rue de Lourmel, 75015 Paris"
                 }
             ],
             "url": "https://studio-draconis.com/",
@@ -3715,7 +3777,8 @@
                         49.09426,
                         1.47512
                     ],
-                    "SIREN": "508594009"
+                    "SIREN": "508594009",
+                    "Address": "72 Rue Emile Loubet, 27200 Vernon"
                 },
                 {
                     "City": "Paris",
@@ -3723,7 +3786,8 @@
                         48.87828,
                         2.32992
                     ],
-                    "SIREN": "508594009"
+                    "SIREN": "508594009",
+                    "Address": "21 Rue de Clichy, 75009 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -3761,7 +3825,8 @@
                         48.86584,
                         2.32979
                     ],
-                    "SIREN": "419459672"
+                    "SIREN": "419459672",
+                    "Address": "223 Rue Saint-Honor\u00e9, 75001 Paris"
                 },
                 {
                     "International": true
@@ -3810,7 +3875,8 @@
                         45.75986,
                         4.86416
                     ],
-                    "SIREN": "491413506"
+                    "SIREN": "491413506",
+                    "Address": "17 Avenue Georges Pompidou, 69003 Lyon"
                 }
             ],
             "Scientific-domain": [
@@ -3837,7 +3903,8 @@
                         45.74013,
                         4.88843
                     ],
-                    "SIREN": "521237131"
+                    "SIREN": "521237131",
+                    "Address": "60 Avenue Rockefeller, 69008 Lyon"
                 },
                 {
                     "Country": "France",
@@ -3846,7 +3913,8 @@
                         43.62432,
                         7.06823
                     ],
-                    "SIREN": "521237131"
+                    "SIREN": "521237131",
+                    "Address": "965 Avenue Roumanille, 06410 Biot"
                 },
                 {
                     "Country": "\u00c9tats-Unis",
@@ -3880,7 +3948,8 @@
                         48.84867,
                         2.39807
                     ],
-                    "SIREN": "451902423"
+                    "SIREN": "451902423",
+                    "Address": "5 Avenue du Tr\u00f4ne, 75011 Paris"
                 },
                 {
                     "Country": "\u00c9tats-Unis"
@@ -3907,7 +3976,8 @@
                         48.82004,
                         2.23632
                     ],
-                    "SIREN": "552059024"
+                    "SIREN": "552059024",
+                    "Address": "4 Rue de la Verrerie, 92190 Meudon"
                 },
                 {
                     "International": true
@@ -3972,7 +4042,8 @@
                         43.60884,
                         3.88178
                     ],
-                    "SIREN": "524257011"
+                    "SIREN": "524257011",
+                    "Address": "6 Rue du Jeu de l'Arc, 34000 Montpellier"
                 }
             ],
             "Description": "Studio de jeux vid\u00e9o ind\u00e9pendant (Squids, Furi, Haven)",
@@ -4101,7 +4172,8 @@
                         44.84365,
                         -0.55673
                     ],
-                    "SIREN": "828489765"
+                    "SIREN": "828489765",
+                    "Address": "15 Avenue Abadie, 33100 Bordeaux"
                 },
                 {
                     "Country": "France",
@@ -4110,7 +4182,8 @@
                         45.90863,
                         6.12549
                     ],
-                    "SIREN": "408641090"
+                    "SIREN": "408641090",
+                    "Address": "6 Rue Andr\u00e9 Fumex, 74000 Annecy"
                 },
                 {
                     "Country": "Canada",
@@ -4169,7 +4242,8 @@
                         48.83386,
                         2.3669
                     ],
-                    "SIREN": "813754389"
+                    "SIREN": "813754389",
+                    "Address": "83 Boulevard Vincent Auriol, 75013 Paris"
                 },
                 {
                     "Country": "France",
@@ -4178,7 +4252,8 @@
                         45.21681,
                         5.80753
                     ],
-                    "SIREN": "813754389"
+                    "SIREN": "813754389",
+                    "Address": "51 Avenue Jean Kuntzmann, 38330 Montbonnot-Saint-Martin"
                 },
                 {
                     "Country": "France",
@@ -4187,7 +4262,8 @@
                         49.38524,
                         2.78595
                     ],
-                    "SIREN": "813754389"
+                    "SIREN": "813754389",
+                    "Address": "14 Rue du Fonds Pernant, 60200 Compi\u00e8gne"
                 },
                 {
                     "Country": "France",
@@ -4196,7 +4272,8 @@
                         50.63307,
                         3.0189
                     ],
-                    "SIREN": "813754389"
+                    "SIREN": "813754389",
+                    "Address": "2 Avenue des Saules, 59160 Lille"
                 },
                 {
                     "Country": [
@@ -4241,7 +4318,8 @@
                         48.86787,
                         2.35368
                     ],
-                    "SIREN": "831248380"
+                    "SIREN": "831248380",
+                    "Address": "102 Boulevard de S\u00e9bastopol, 75003 Paris"
                 },
                 {
                     "Country": "France",
@@ -4298,7 +4376,8 @@
                         43.61498,
                         3.90957
                     ],
-                    "SIREN": "811525005"
+                    "SIREN": "811525005",
+                    "Address": "78 All\u00e9e John Napier, 34000 Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -4406,7 +4485,8 @@
                         48.82859,
                         2.35693
                     ],
-                    "SIREN": "788627198"
+                    "SIREN": "788627198",
+                    "Address": "23 Avenue d'Italie, 75013 Paris"
                 }
             ],
             "url": "https://en.wandercraft.eu/",
@@ -4433,7 +4513,8 @@
                         48.84579,
                         2.23601
                     ],
-                    "SIREN": "531507531"
+                    "SIREN": "531507531",
+                    "Address": "5 Rue de l'\u00c9glise, 92100 Boulogne-Billancourt"
                 }
             ],
             "Jobs": "https://wassa.io/fr/offres-emploi/",
@@ -4483,7 +4564,8 @@
                         43.71188,
                         3.83301
                     ],
-                    "SIREN": "813091543"
+                    "SIREN": "813091543",
+                    "Address": "525 Avenue de Saint-Sauveur-du-Pin, 34980 Saint-Cl\u00e9ment-de-Rivi\u00e8re"
                 }
             ],
             "Scientific-domain": [
@@ -4551,7 +4633,8 @@
                         45.21703,
                         5.79208
                     ],
-                    "SIREN": "830377990"
+                    "SIREN": "830377990",
+                    "Address": "6 Chemin de Maupertuis, 38240 Meylan"
                 }
             ],
             "Scientific-domain": [
@@ -4611,7 +4694,8 @@
                         43.15317,
                         6.04882
                     ],
-                    "SIREN": "389371816"
+                    "SIREN": "389371816",
+                    "Address": "60 Rue Parmentier, 83210 La Farl\u00e8de"
                 },
                 {
                     "International": true
@@ -4640,7 +4724,8 @@
                         48.64203,
                         2.42192
                     ],
-                    "SIREN": "329109227"
+                    "SIREN": "329109227",
+                    "Address": "7 Rue du Bois Sauvage, 91000 \u00c9vry-Courcouronnes"
                 }
             ],
             "Scientific-domain": [
@@ -4664,7 +4749,8 @@
                         45.75332,
                         4.85735
                     ],
-                    "SIREN": "408478733"
+                    "SIREN": "408478733",
+                    "Address": "90 Avenue F\u00e9lix Faure, 69003 Lyon"
                 }
             ],
             "Scientific-domain": [
@@ -4689,7 +4775,8 @@
                         43.5048,
                         1.4554
                     ],
-                    "SIREN": "434891297"
+                    "SIREN": "434891297",
+                    "Address": "11 Avenue du Lac, 31320 Vigoulet-Auzil"
                 }
             ],
             "Scientific-domain": [
@@ -4714,7 +4801,8 @@
                         43.61652,
                         7.07452
                     ],
-                    "SIREN": "794581223"
+                    "SIREN": "794581223",
+                    "Address": "950 Route des Colles, 06410 Biot"
                 }
             ],
             "Scientific-domain": [
@@ -4739,7 +4827,8 @@
                         48.87235,
                         2.35768
                     ],
-                    "SIREN": "792857401"
+                    "SIREN": "792857401",
+                    "Address": "82 Rue du Faubourg Saint-Martin, 75010 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -4763,7 +4852,8 @@
                         48.84179,
                         2.39546
                     ],
-                    "SIREN": "900329608"
+                    "SIREN": "900329608",
+                    "Address": "39 Rue de la Gare de Reuilly, 75012 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -4787,7 +4877,8 @@
                         48.06193,
                         -0.57832
                     ],
-                    "SIREN": "439218801"
+                    "SIREN": "439218801",
+                    "Address": "8 ZA Route de Laval, 53210 Soulg\u00e9-sur-Ouette"
                 }
             ],
             "Scientific-domain": [
@@ -4812,7 +4903,8 @@
                         48.57683,
                         7.73554
                     ],
-                    "SIREN": "794458125"
+                    "SIREN": "794458125",
+                    "Address": "8 Rue Gustave Adolphe Hirn, 67000 Strasbourg"
                 }
             ],
             "Scientific-domain": [
@@ -4835,7 +4927,8 @@
                         44.79682,
                         -0.65916
                     ],
-                    "SIREN": "830755393"
+                    "SIREN": "830755393",
+                    "Address": "IHU Liryc, H\u00f4pital Xavier Arnozan, Avenue du Haut-L\u00e9v\u00eaque, 33600 Pessac"
                 },
                 {
                     "Country": "\u00c9tats-Unis",
@@ -4863,7 +4956,8 @@
                         48.86608,
                         2.32945
                     ],
-                    "SIREN": "853059384"
+                    "SIREN": "853059384",
+                    "Address": "229 Rue Saint-Honor\u00e9, 75001 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -4929,7 +5023,8 @@
                         48.86762,
                         2.33946
                     ],
-                    "SIREN": "853337665"
+                    "SIREN": "853337665",
+                    "Address": "12 Rue Vivienne, 75002 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -4952,7 +5047,8 @@
                         43.60961,
                         3.86461
                     ],
-                    "SIREN": "890055171"
+                    "SIREN": "890055171",
+                    "Address": "28 Avenue de Lod\u00e8ve, 34000 Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -4974,7 +5070,8 @@
                         48.82986,
                         2.37782
                     ],
-                    "SIREN": "512985797"
+                    "SIREN": "512985797",
+                    "Address": "100 Avenue de France, 75013 Paris"
                 },
                 {
                     "City": "Montpellier"
@@ -5001,7 +5098,8 @@
                         48.87602,
                         2.37216
                     ],
-                    "SIREN": "423784610"
+                    "SIREN": "423784610",
+                    "Address": "57 Boulevard de la Villette, 75010 Paris"
                 },
                 {
                     "City": "Lyon"
@@ -5012,7 +5110,8 @@
                         45.6517,
                         0.15537
                     ],
-                    "SIREN": "821722436"
+                    "SIREN": "821722436",
+                    "Address": "11 Avenue de Cognac, 16000 Angoul\u00eame"
                 }
             ],
             "Scientific-domain": [
@@ -5035,7 +5134,8 @@
                         43.58054,
                         3.94046
                     ],
-                    "SIREN": "523926467"
+                    "SIREN": "523926467",
+                    "Address": "125 Impasse Adam Smith, 34470 P\u00e9rols"
                 }
             ],
             "Scientific-domain": [
@@ -5058,7 +5158,8 @@
                         48.83547,
                         2.35039
                     ],
-                    "SIREN": "338438781"
+                    "SIREN": "338438781",
+                    "Address": "20 Rue Berbier du Mets, 75013 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -5081,7 +5182,8 @@
                         48.84631,
                         2.38532
                     ],
-                    "SIREN": "810965442"
+                    "SIREN": "810965442",
+                    "Address": "3 Rue Rondelet, 75012 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -5104,7 +5206,8 @@
                         44.85684,
                         -0.56499
                     ],
-                    "SIREN": "788434702"
+                    "SIREN": "788434702",
+                    "Address": "17 Cours du M\u00e9doc, 33300 Bordeaux"
                 }
             ],
             "Scientific-domain": [
@@ -5126,7 +5229,8 @@
                         48.84735,
                         2.36755
                     ],
-                    "SIREN": "483041158"
+                    "SIREN": "483041158",
+                    "Address": "10 Boulevard de la Bastille, 75012 Paris"
                 },
                 {
                     "City": "Valence",
@@ -5134,7 +5238,8 @@
                         44.9418,
                         4.89919
                     ],
-                    "SIREN": "483041158"
+                    "SIREN": "483041158",
+                    "Address": "33 Rue de Chony, 26500 Bourg-l\u00e8s-Valence"
                 }
             ],
             "Scientific-domain": [
@@ -5158,7 +5263,8 @@
                         50.69945,
                         3.15941
                     ],
-                    "SIREN": "437785223"
+                    "SIREN": "437785223",
+                    "Address": "75 Boulevard d'Armenti\u00e8res, 59100 Roubaix"
                 }
             ],
             "Scientific-domain": [
@@ -5182,7 +5288,8 @@
                         48.84556,
                         2.32497
                     ],
-                    "SIREN": "845115963"
+                    "SIREN": "845115963",
+                    "Address": "140B Rue de Rennes, 75006 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -5207,7 +5314,8 @@
                         47.25216,
                         5.99721
                     ],
-                    "SIREN": "832674816"
+                    "SIREN": "832674816",
+                    "Address": "18 Rue Alain Savary, 25000 Besan\u00e7on"
                 }
             ],
             "Scientific-domain": [
@@ -5231,7 +5339,8 @@
                         48.11277,
                         -1.66147
                     ],
-                    "SIREN": "500603287"
+                    "SIREN": "500603287",
+                    "Address": "74f Rue de Paris, 35000 Rennes"
                 }
             ],
             "Scientific-domain": [
@@ -5255,7 +5364,8 @@
                         43.63778,
                         3.83151
                     ],
-                    "SIREN": "803695402"
+                    "SIREN": "803695402",
+                    "Address": "95 Rue Pierre Flourens, 34000 Montpellier"
                 }
             ],
             "Scientific-domain": [
@@ -5279,7 +5389,8 @@
                         45.86466,
                         1.29167
                     ],
-                    "SIREN": "441035813"
+                    "SIREN": "441035813",
+                    "Address": "19 rue de Columbia, 87280 Limoges"
                 }
             ],
             "Scientific-domain": [
@@ -5304,7 +5415,8 @@
                         48.84491,
                         2.37331
                     ],
-                    "SIREN": "517636346"
+                    "SIREN": "517636346",
+                    "Address": "4 Place Louis Armand, 75012 Paris"
                 },
                 {
                     "City": "Lyon"
@@ -5332,7 +5444,8 @@
                         48.85942,
                         2.37772
                     ],
-                    "SIREN": "491420808"
+                    "SIREN": "491420808",
+                    "Address": "95 Boulevard Voltaire, 75011 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -5359,7 +5472,8 @@
                         48.86673,
                         2.34225
                     ],
-                    "SIREN": "803698596"
+                    "SIREN": "803698596",
+                    "Address": "13 Rue du Mail, 75002 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -5383,7 +5497,8 @@
                         44.84327,
                         -0.56005
                     ],
-                    "SIREN": "847874229"
+                    "SIREN": "847874229",
+                    "Address": "91 Rue Nuyens, 33100 Bordeaux"
                 }
             ],
             "Scientific-domain": [
@@ -5406,7 +5521,8 @@
                         48.85334,
                         2.36202
                     ],
-                    "SIREN": "528948235"
+                    "SIREN": "528948235",
+                    "Address": "14 Rue Charles V, 75004 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -5430,7 +5546,8 @@
                         48.86974,
                         2.33938
                     ],
-                    "SIREN": "415119858"
+                    "SIREN": "415119858",
+                    "Address": "9 Rue des Colonnes, 75002 Paris"
                 }
             ],
             "Scientific-domain": [
@@ -5453,7 +5570,8 @@
                         45.77115,
                         4.86554
                     ],
-                    "SIREN": "788677714"
+                    "SIREN": "788677714",
+                    "Address": "31 Cours Emile Zola, 69100 Villeurbanne"
                 }
             ],
             "Scientific-domain": [
@@ -5477,7 +5595,8 @@
                         -21.05823,
                         55.23239
                     ],
-                    "SIREN": "801170838"
+                    "SIREN": "801170838",
+                    "Address": "44 Rue des Navigateurs, 97434 Saint-Paul"
                 },
                 {
                     "Country": "France",
@@ -5512,7 +5631,8 @@
                         43.60789,
                         1.45338
                     ],
-                    "SIREN": "753811843"
+                    "SIREN": "753811843",
+                    "Address": "97 Rue Pierre-Paul Riquet, 31000 Toulouse"
                 }
             ],
             "Scientific-domain": [

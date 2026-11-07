@@ -214,7 +214,7 @@ def check_keywords(data_keywords, data, exitOnError=False):
 # Keys accepted in data.yaml (anything else is most likely a typo)
 REQUIRED_KEYS = ['Name', 'url', 'Place', 'Scientific-domain', 'Application-domain']
 OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords', 'Highlight']
-PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International', 'Coordinates', 'SIREN']
+PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International', 'Coordinates', 'SIREN', 'Address']
 # Country names are written in French (the site groups companies by country name)
 COUNTRIES = ['Allemagne', 'Australie', 'Belgique', 'Brésil', 'Canada', 'Chine', 'Corée du Sud', 'Danemark',
              'Espagne', 'États-Unis', 'Finlande', 'France', 'Inde', 'Israël', 'Italie', 'Japon', 'Lituanie',

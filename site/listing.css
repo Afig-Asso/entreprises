@@ -523,7 +523,9 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .map-popup-hint { font-size: 0.76rem; color: var(--muted); margin-top: 0.15rem; }
 .map-popup ul { margin: 0.5rem 0 0.6rem; max-height: 220px; overflow-y: auto; }
 .map-popup li { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; padding: 3px 0; border-bottom: 1px solid var(--line); }
-.leaflet-container .map-popup li > a:first-child { color: var(--text); font-weight: 600; }
+.map-popup-company { display: flex; flex-direction: column; min-width: 0; }
+.leaflet-container .map-popup-company > a { color: var(--text); font-weight: 600; }
+.map-popup-address { font-size: 0.74rem; color: var(--muted); line-height: 1.3; }
 .leaflet-container a.map-popup-jobs { color: var(--afig-800); }
 .leaflet-container a.map-popup-jobs:hover { background: var(--afig-800); color: white; text-decoration: none; }
 .map-popup-jobs {
