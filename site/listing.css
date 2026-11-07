@@ -334,7 +334,6 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     border-bottom: 1px solid var(--line);
     transition: background-color var(--ease), box-shadow var(--ease);
 }
-.company.has-jobs { box-shadow: inset 3px 0 0 var(--afig); }
 .company:hover, .company:focus-within { background: var(--afig-50); box-shadow: inset 3px 0 0 var(--afig); }
 .company-id { min-width: 0; }
 
@@ -412,7 +411,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     display: grid; grid-template-columns: repeat(auto-fill, minmax(min(15.5rem, 100%), 1fr));
     gap: 0.75rem; border-top: 0;
 }
-.company.company-compact, .company.company-compact.has-jobs {
+.company.company-compact {
     display: block; box-shadow: none; padding: 0.9rem 1rem 0.85rem;
     border: 1px solid var(--line); border-radius: var(--radius); background: white;
     transition: border-color var(--ease), box-shadow var(--ease), transform var(--ease);
@@ -593,6 +592,5 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 @media print {
     body { max-width: none; }
     .toolbar, .jobs, .skip-link, .place-index, .tag-legend, .shortcuts, .map-view { display: none; }
-    .company.has-jobs { box-shadow: none; }
     .company { break-inside: avoid; }
 }
