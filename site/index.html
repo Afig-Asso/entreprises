@@ -12,6 +12,10 @@
         try { if (window.self !== window.top) { document.documentElement.classList.add('embedded'); } }
         catch (e) { document.documentElement.classList.add('embedded'); }
     </script>
+    <!-- Polices du site de l'AFIG (Raleway pour les titres, Open Sans pour le texte), Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@700;800&display=swap">
     <link rel="stylesheet" type="text/css" href="listing.css">
     <script src="iframeResizer/iframeResizer.contentWindow.min.js" defer></script>
     <script src="listing.js" defer></script>
@@ -31,34 +35,42 @@
                     <label for="sort-place">Localité</label>
                 </div>
                 <div class="toggles">
-                    <span class="toggle"><input type="checkbox" id="display-details" checked><label for="display-details">Détails</label></span>
+                    <span class="toggle toggle-jobs"><input type="checkbox" id="jobs-only"><label for="jobs-only">Offres d'emploi <span class="toggle-count" id="jobs-count"></span></label></span>
                     <span class="toggle"><input type="checkbox" id="france-only"><label for="france-only">France uniquement</label></span>
-                    <span class="toggle"><input type="checkbox" id="jobs-only"><label for="jobs-only">Avec offres d'emploi</label></span>
+                    <span class="toggle"><input type="checkbox" id="display-details" checked><label for="display-details">Détails</label></span>
                 </div>
             </div>
             <div class="ux-middle" role="search">
                 <label for="search-company" class="visually-hidden">Rechercher une entreprise</label>
-                <input type="search" id="search-company" class="search-input" placeholder="Rechercher (nom, ville, produit...)" autocomplete="off">
+                <input type="search" id="search-company" class="search-input" placeholder="Rechercher : nom, ville, thème..." autocomplete="off">
             </div>
             <div class="ux-right">
                 <button type="button" id="filter-toggle" class="filter-toggle" aria-expanded="false" aria-controls="filter-panel">
-                    Filtrer par thème <span class="filter-count" hidden></span>
+                    Filtrer<span class="ft-long"> par thème</span> <span class="filter-count" hidden></span>
                 </button>
             </div>
         </div>
 
         <div id="filter-panel" class="filter-panel" hidden>
             <fieldset class="filter-group" data-domain="scientific">
-                <legend>Domaine scientifique</legend>
+                <legend><span class="legend-item legend-scientific">Domaine scientifique</span></legend>
                 <button type="button" class="filter-clear" data-domain="scientific">Effacer<span class="visually-hidden"> les domaines scientifiques</span></button>
+                <div class="combine" role="radiogroup" aria-label="Combinaison des domaines scientifiques cochés">
+                    <input type="radio" id="mode-scientific-or" name="mode-scientific" value="or" checked><label for="mode-scientific-or">Au moins un</label>
+                    <input type="radio" id="mode-scientific-and" name="mode-scientific" value="and"><label for="mode-scientific-and">Tous (croisement)</label>
+                </div>
                 <div class="filter-options"></div>
             </fieldset>
             <fieldset class="filter-group" data-domain="application">
-                <legend>Domaine d'application</legend>
+                <legend><span class="legend-item legend-application">Domaine d'application</span></legend>
                 <button type="button" class="filter-clear" data-domain="application">Effacer<span class="visually-hidden"> les domaines d'application</span></button>
+                <div class="combine" role="radiogroup" aria-label="Combinaison des domaines d'application cochés">
+                    <input type="radio" id="mode-application-or" name="mode-application" value="or" checked><label for="mode-application-or">Au moins un</label>
+                    <input type="radio" id="mode-application-and" name="mode-application" value="and"><label for="mode-application-and">Tous (croisement)</label>
+                </div>
                 <div class="filter-options"></div>
             </fieldset>
-            <p class="filter-help">Aucune case cochée : toutes les entreprises sont affichées. Plusieurs cases d'un même domaine : au moins une doit correspondre.</p>
+            <p class="filter-help">Aucune case cochée : toutes les entreprises sont affichées. « Au moins un » élargit la recherche, « Tous » croise les thèmes d'un même domaine (ex. Géométrie et Design/Fabrication). Les nombres entre parenthèses tiennent compte des autres filtres.</p>
             <div class="filter-panel-footer">
                 <button type="button" id="filter-close" class="filter-close">Fermer</button>
             </div>
@@ -68,7 +80,11 @@
     </div>
 
     <main id="main">
-        <p id="listing-summary" class="listing-summary" role="status" tabindex="-1">Chargement de la liste des entreprises...</p>
+        <div id="shortcuts" class="shortcuts" role="group" aria-labelledby="shortcuts-label"></div>
+        <div class="listing-head">
+            <p id="listing-summary" class="listing-summary" role="status" tabindex="-1">Chargement de la liste des entreprises...</p>
+            <p class="tag-legend"><span class="legend-item legend-scientific">Domaine scientifique</span><span class="legend-item legend-application">Domaine d'application</span><span class="legend-hint">cliquez une étiquette pour filtrer</span></p>
+        </div>
         <div id="listing-company"></div>
     </main>
 </body>
