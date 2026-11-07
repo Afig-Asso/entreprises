@@ -512,6 +512,8 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .map-city { background: var(--afig); color: var(--ink); border: 2px solid white; }
 .map-cluster { background: var(--ink); color: var(--afig); border: 3px solid rgba(162, 208, 38, 0.6); }
 .map-country { background: white; color: var(--afig-800); border: 2px dashed var(--afig-700); }
+.leaflet-marker-icon.map-dot { box-shadow: 0 0 0 1px var(--afig-700), 0 1px 3px rgba(29, 42, 0, 0.4); }
+.leaflet-marker-icon.map-dot:hover { filter: brightness(0.9); }
 .map-pin:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
 .leaflet-container a.leaflet-popup-close-button { width: 28px; height: 28px; font-size: 20px; }
 .leaflet-popup-content-wrapper { border-radius: var(--radius); box-shadow: var(--shadow-md); }

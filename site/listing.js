@@ -1140,6 +1140,8 @@ function create_map() {
     });
     MAP['cluster'] = L.markerClusterGroup({
         'showCoverageOnHover': false, 'maxClusterRadius': 45, 'spiderfyOnMaxZoom': true,
+        // at city level (zoom 11 and more) show every establishment instead of nested groups
+        'disableClusteringAtZoom': 11,
         'iconCreateFunction': (cluster) => {
             const N = cluster.getAllChildMarkers().reduce((sum, m) => sum + m.options.count, 0);
             return map_icon(N, 'map-cluster');
@@ -1149,7 +1151,10 @@ function create_map() {
 }
 
 function map_icon(N, className) {
-    const size = Math.round(30 + 6*Math.log2(Math.max(N, 1)));
+    if(N==1) { // a single company: a small dot, so that the establishments of a city can be seen all at once
+        return L.divIcon({'className': 'map-pin map-dot ' + className, 'html': '', 'iconSize': [16, 16]});
+    }
+    const size = Math.round(30 + 6*Math.log2(N));
     return L.divIcon({'className': 'map-pin ' + className, 'html': `<span>${N}</span>`, 'iconSize': [size, size]});
 }
 
