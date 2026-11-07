@@ -176,6 +176,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://recrutement.alma.fr/)
 
 
+* **[Almédia](https://www.almedia.fr/)**  
+  * _Agence ludique multimédia strasbourgeoise (2009) qui conçoit serious games, escape games, vidéo 360 interactive et applications de réalité virtuelle et augmentée pour la formation et la culture._
+  * **Mots clés**: _serious game, réalité virtuelle, réalité augmentée, mobile_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Patrimoine/Culture
+
+
 * **[Alteia](https://alteia.com/)**  
   * _Éditeur français d'une plateforme d'intelligence visuelle (vision par ordinateur, IA) pour analyser des images aériennes et terrain dans l'énergie, les réseaux et les mines, racheté par GE Vernova._
   * **Mots clés**: _vision par ordinateur, deep learning, imagerie aérienne, drone, inspection d'infrastructures, énergie, GE Vernova_
@@ -204,6 +213,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D, Rendu offline/VFX
   * **Domaine d'application**: Générique
   * [_Jobs_](https://careers.amd.com/careers-home/jobs)
+
+
+* **[Amopix](https://amopix.com/)**  
+  * _Studio d'animation et société de production (Strasbourg et Annecy) qui fabrique courts et longs métrages, séries et documentaires en 2D et 3D, ainsi que des films en motion design._
+  * **Mots clés**: _animation 2D, animation 3D, séries d'animation, long métrage, motion design_
+  * **Localisation**: Strasbourg, Annecy
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Amplitude Studios](https://www.amplitude-studios.com/)**  
@@ -449,6 +467,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.avtsim.com/careers/)
 
 
+* **[Axilum Robotics](https://www.axilumrobotics.com/en/)**  
+  * _Concepteur de robots et cobots pour la stimulation magnétique transcrânienne et les ultrasons transcrâniens, guidés par neuronavigation et suivi optique._
+  * **Mots clés**: _robotique, navigation chirurgicale, dispositif médical, imagerie médicale_
+  * **Localisation**: Schiltigheim
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Hardware, Visualisation, Imagerie
+  * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
+
+
 * **[Bentley](https://www.bentley.com/)**  
   * _Développement de logiciels pour l'ingénierie civile (simulation, visualisation, acquisition). Détient l'ancienne entreprise Francaise de reconstruction 3D "Acute 3D"._
   * **Mots clés**: _BIM, infrastructure, génie civil, photogrammétrie, jumeau numérique, CAO, MicroStation, iTwin_
@@ -596,6 +623,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
 
+* **[Cevilog](https://www.cevilog.com/)**  
+  * _Intégrateur et développeur de systèmes de vision industrielle par caméras pour le contrôle qualité (agroalimentaire, pharmacie, automobile)._
+  * **Mots clés**: _vision par ordinateur, métrologie, contrôle qualité_
+  * **Localisation**: Entzheim
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Vision, Acquisition
+  * **Domaine d'application**: Industrie/Manufacturing/CAO
+
+
 * **[CGEV](https://www.cgev.fr/)**  
   * _Studio d'effets visuels pour le cinéma et les séries (compositing, 3D, FX fluides et particules, matte painting)._
   * **Mots clés**: _effets visuels, compositing, matte painting, simulation de fluides, long métrage, séries TV, supervision de tournage_
@@ -680,6 +716,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
 
 
+* **[Computational Surgery](https://computationalsurgery.eu/)**  
+  * _Jeune société strasbourgeoise développant algorithmes et logiciels de vision par ordinateur, réalité augmentée et recalage pour la chirurgie robotique et endoscopique._
+  * **Mots clés**: _vision par ordinateur, réalité augmentée, navigation chirurgicale, robotique, planification chirurgicale_
+  * **Remarque**: _Très petite structure (effectif non déclaré) ; site principal peu renseigné._
+  * **Localisation**: Strasbourg
+  * **Domaine scientifique/technique**: Vision, VR/AR, Imagerie
+  * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
+
+
 * **[CoreTechnologie](https://coretechnologie.com/)** (CT CoreTechnologie France) 
   * _Éditeur de logiciels de conversion et d'analyse CAO (3D_Evolution, 3D_Analyzer, SDK 3D_Kernel_IO) et de préparation pour l'impression 3D (4D_Additive), avec une filiale française près de Lyon._
   * **Mots clés**: _CAO, conversion de formats 3D, SDK, fabrication additive, maillage_
@@ -717,6 +762,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Simulation, Visualisation, VR/AR
   * **Domaine d'application**: Énergie/Environnement, Industrie/Manufacturing/CAO
+
+
+* **[D-Tech 3D](https://www.dtech-3d.fr/)**  
+  * _Prestataire de relevés par scanner laser 3D et photogrammétrie par drone, produisant nuages de points, maquettes BIM et rendus réalistes._
+  * **Mots clés**: _scanner 3D, photogrammétrie, nuage de points, lidar_
+  * **Localisation**: Molsheim
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Patrimoine/Culture
 
 
 * **[Dada! Animation](https://www.dada-animation.com/)**  
@@ -972,6 +1026,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.elcia.com/nos-offres-demploi/)
 
 
+* **[Embers](https://embers.games/)**  
+  * _Studio de jeu vidéo indépendant strasbourgeois, développeur et éditeur de Strayed Lights, Storebound et Murky Divers._
+  * **Mots clés**: _console/PC, jeu indépendant, game art, animation 3D_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://embers.games/)
+
+
 * **[Emersya](https://www.emersya.com/)**  
   * _Plateforme 3D et AR pour le e-commerce : configurateurs et visualiseurs 3D interactifs, AR web, rendu automatisé de produits._
   * **Mots clés**: _e-commerce/configurateur 3D, web 3D, réalité augmentée, visualiseur 3D, rendu produit, mode/textile_
@@ -1000,6 +1064,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.epicgames.com/site/en-US/careers/jobs)
+
+
+* **[Ernestine](https://ernestine-games.fr/)**  
+  * _Studio de jeu vidéo indépendant strasbourgeois fondé en 2009 (Castelet, Apocalypsheim), issu du serious game, qui propose aussi des prestations artistiques et d'animation temps réel._
+  * **Mots clés**: _jeu indépendant, console/PC, serious game, game art_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo, Entrainement/Formation/Serious Game
 
 
 * **[ESI](https://www.keysight.com/us/en/products/design-engineering-software/computer-aided-engineering-software.html)**  
@@ -1315,12 +1388,38 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
+* **[Holo3](https://www.holo3-rv.com/)**  
+  * _Centre de ressources technologiques de Saint-Louis spécialisé en métrologie optique, avec une équipe de réalité virtuelle qui développe des applications VR pour l'industrie, l'architecture et la formation._
+  * **Mots clés**: _réalité virtuelle, jumeau numérique, métrologie optique_
+  * **Localisation**: Saint-Louis
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: VR/AR, Acquisition
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+
+
 * **[Huawei Nice Research Center](https://www.huawei.com/fr/)** (Huawei Technologies France - Nice Research Center) 
   * _Centre de recherche Huawei à Sophia Antipolis avec une équipe de rendu 3D basse consommation pour le jeu mobile (ray tracing mobile, super-résolution, génération de frames)._
   * **Mots clés**: _ray tracing, mobile, GPU, rendu temps réel, super-résolution, basse consommation, Vulkan_
   * **Localisation**: Valbonne, Boulogne-Billancourt
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware, IA générative (image/3D)
   * **Domaine d'application**: Jeu Vidéo, Générique
+
+
+* **[HypnoVR](https://hypnovr.io/fr/)** (Hypno VR) 
+  * _Start-up strasbourgeoise de thérapie numérique associant hypnose médicale et environnements 3D en réalité virtuelle contre la douleur et l'anxiété._
+  * **Mots clés**: _réalité virtuelle, dispositif médical, rendu temps réel_
+  * **Localisation**: Lampertheim
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Médical/Biologique
+
+
+* **[I Am A Dog Studio](https://www.cibogame.com/)**  
+  * _Studio de jeu vidéo indépendant strasbourgeois (2025) qui développe Cosmic Holidays, jeu d'aventure et de plateforme 2D pour PC._
+  * **Mots clés**: _jeu indépendant, console/PC, animation 2D_
+  * **Localisation**: Strasbourg
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[I-MC](https://www.mistralis.fr/)**  
@@ -1346,6 +1445,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Visualisation
   * **Domaine d'application**: Patrimoine/Culture, Géospatial/Cartographie
+
+
+* **[iGlobe Scientific](https://www.linkedin.com/company/iglobe-scientific)**  
+  * _Start-up strasbourgeoise issue de l'IHU Strasbourg et de Medi-Globe qui développe des logiciels d'IA d'aide à l'écho-endoscopie pour la détection précoce du cancer du pancréas._
+  * **Mots clés**: _imagerie médicale, deep learning, segmentation, dispositif médical_
+  * **Remarque**: _Pas de site web propre identifié (page LinkedIn)._
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[IGO](https://www.igo.fr/)**  
@@ -1383,6 +1492,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.illuminationstudiosparis.com/careers/)
+
+
+* **[Imag'ing](https://www.imag-ing.com/)**  
+  * _Bureau d'études alsacien spécialisé dans le relevé 3D par scanner laser et photogrammétrie, la métrologie, le scan-to-BIM et les jumeaux numériques industriels._
+  * **Mots clés**: _scanner 3D, photogrammétrie, nuage de points, jumeau numérique, métrologie_
+  * **Localisation**: Lixhausen, Strasbourg
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Énergie/Environnement, Architecture/BTP/Urbanisme
 
 
 * **[Imageens](https://www.imageens.com/)**  
@@ -1427,6 +1545,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Bordeaux
   * **Domaine scientifique/technique**: VR/AR, Visualisation, IHM/Haptique
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+
+
+* **[Immersiv Element](https://www.immersivelement.fr/)**  
+  * _Studio 3D de l'Eurométropole de Strasbourg spécialisé en modélisation et animation 3D, VFX, motion design et expériences immersives (VR, réalité augmentée) pour la publicité et l'événementiel._
+  * **Mots clés**: _animation 3D, effets visuels, motion design, publicité, réalité augmentée_
+  * **Localisation**: Bischheim
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, VR/AR
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel
 
 
 * **[In Extenso Studio](https://www.inextenso.studio/)**  
@@ -1498,6 +1625,24 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Cesson-Sévigné
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+
+
+* **[Inventive](https://www.inventive-studio.com/)**  
+  * _Studio strasbourgeois de médiation numérique et de design qui crée images de synthèse, réalité virtuelle et augmentée et installations immersives pour musées et patrimoine (musée Unterlinden, cathédrale de Strasbourg)._
+  * **Mots clés**: _réalité virtuelle, réalité augmentée, exposition immersive, architecture_
+  * **Localisation**: Strasbourg
+  * **Domaine scientifique/technique**: VR/AR, Modélisation, Rendu offline/VFX
+  * **Domaine d'application**: Patrimoine/Culture, Architecture/BTP/Urbanisme
+
+
+* **[IRCAD](https://www.ircad.fr/)** (Institut de Recherche contre les Cancers de l'Appareil Digestif) 
+  * _Institut de recherche et de formation en chirurgie mini-invasive dont l'équipe R&D développe Sight, framework C++ open source de visualisation 3D, réalité augmentée et chirurgie assistée par ordinateur._
+  * **Mots clés**: _imagerie médicale, réalité augmentée, navigation chirurgicale, robotique, segmentation_
+  * **Remarque**: _Structure associative (non une société commerciale) ; Visible Patient, déjà au listing, en est issue._
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Imagerie, VR/AR, Visualisation
+  * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
 
 
 * **[Ishtar Games](https://ishtar.games/)**  
@@ -2102,6 +2247,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.neuralconcept.com/careers)
 
 
+* **[Neuronality](https://neuronality.com/)**  
+  * _Petit studio de Molsheim qui développe depuis 2015 des jeux multijoueurs en ligne jouables dans le navigateur, dont le shooter spatial Starblast.io et Neuronball._
+  * **Mots clés**: _multijoueur en ligne, jeu indépendant, jeu navigateur_
+  * **Localisation**: Molsheim
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Newtone Technologies](https://qima-lifesciences.com/)**  
   * _Research & Innovation company expert in Image Analysis for skin and hair appearance._
   * **Mots clés**: _imagerie cosmétique, analyse d'images de la peau, cheveux, deep learning, essais cliniques, ColorFace_
@@ -2118,6 +2272,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Localisation**: Espagne/Madrid
   * **Domaine scientifique/technique**: Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[NHImages](https://nhimages.fr/)**  
+  * _Studio strasbourgeois de perspectives 3D fondé par un architecte DPLG, qui produit images et films de synthèse pour concours d'architecture et promotion immobilière._
+  * **Mots clés**: _architecture, rendu photoréaliste_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme
 
 
 * **[Nobody Studio](https://nobody-studio.com/)**  
@@ -2243,6 +2406,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Optiive](https://optiive.com/)** (Optiive Rise Reality) 
+  * _Start-up issue du laboratoire ICube qui conçoit et fabrique des moteurs optiques et guides d'onde pour lunettes de réalité augmentée._
+  * **Mots clés**: _réalité augmentée, optique, afficheur, lunettes AR_
+  * **Localisation**: Illkirch-Graffenstaden
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: VR/AR, Hardware
+  * **Domaine d'application**: Médical/Biologique, Loisir Interactif/Immersion/Metavers
+
+
 * **[optim.aize](https://optimaize.fr/)**  
   * _Start-up bordelaise qui édite YAAPS, plateforme de jumeau numérique d'infrastructures combinant capteurs IoT, imagerie drone et satellite (InSAR), IA et SIG._
   * **Mots clés**: _jumeau numérique, SIG, imagerie satellite, drone, photogrammétrie_
@@ -2315,6 +2487,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
+* **[Parangon](https://parangon.eu/)**  
+  * _Jeune studio d'animation strasbourgeois (2021) qui fabrique animation 2D traditionnelle, décors, FX et compositing pour courts et longs métrages (séquences animées de Hiver à Sokcho)._
+  * **Mots clés**: _animation 2D, long métrage, court métrage, compositing_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Passtech Games](https://www.passtechgames.com)**  
   * _Studio lyonnais de jeux d'action roguelite console/PC fondé en 2012 (Curse of the Dead Gods, Ravenswatch)._
   * **Mots clés**: _jeu indépendant, console/PC, roguelite, jeu d'action, multijoueur en ligne_
@@ -2349,6 +2530,16 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Domaine scientifique/technique**: IA générative (image/3D), Imagerie, Vision
   * **Domaine d'application**: Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/photoroom)
+
+
+* **[Pixacare](https://www.pixacare.com/)**  
+  * _Éditeur strasbourgeois d'une plateforme de photographie médicale dont l'IA mesure automatiquement les plaies chroniques à partir d'une photo (dispositif médical CE IIa)._
+  * **Mots clés**: _vision par ordinateur, deep learning, segmentation, imagerie médicale, dispositif médical_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Vision, Imagerie
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://pixacare.welcomekit.co/)
 
 
 * **[Pixee Medical](https://pixee-medical.com/)**  
@@ -2436,6 +2627,14 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Générique
+
+
+* **[Protozoaire](https://www.protozoaire.com/)**  
+  * _Studio strasbourgeois de production et d'animation 3D qui réalise depuis plus de 20 ans animation 3D et effets visuels pour séries, longs et courts métrages._
+  * **Mots clés**: _animation 3D, effets visuels, séries d'animation, long métrage_
+  * **Localisation**: Strasbourg
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Pump](https://www.univers-pump.fr/)** (Arfmat Studio (Pump)) 
@@ -2593,6 +2792,24 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: IA générative (image/3D), Modélisation
   * **Domaine d'application**: Jeu Vidéo, Industrie/Manufacturing/CAO, Commerce/Marketing/Publicité
+
+
+* **[Scialytics](https://www.scialytics.io/)**  
+  * _Spin-off de l'IHU Strasbourg (laboratoire CAMMA) qui développe une plateforme d'IA d'analyse de vidéos chirurgicales et des assistants temps réel au bloc opératoire._
+  * **Mots clés**: _vision par ordinateur, deep learning, chirurgie assistée, dispositif médical_
+  * **Remarque**: _Créée en mai 2025 ; effectif non encore déclaré au registre._
+  * **Localisation**: Strasbourg
+  * **Domaine scientifique/technique**: Vision, Imagerie, Analyse de données
+  * **Domaine d'application**: Médical/Biologique
+
+
+* **[Seppia](https://www.seppia.eu/)**  
+  * _Société de production audiovisuelle strasbourgeoise (2002) de documentaires qui développe aussi des expériences interactives et immersives (visite virtuelle de la cathédrale de Strasbourg)._
+  * **Mots clés**: _réalité virtuelle, exposition immersive, documentaire_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: VR/AR
+  * **Domaine d'application**: Patrimoine/Culture, Cinéma/Films d'Animation/VFX
 
 
 * **[Shiro Games](https://shirogames.com)**  
@@ -3010,6 +3227,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.theoriz.com/fr/jobs/)
 
 
+* **[Toe Bean Club](https://toebeanclubgames.com/)**  
+  * _Studio de jeu vidéo indépendant strasbourgeois créé en 2024, qui développe Mirage: Miracle Quest, un jeu au style visuel dessiné à la main._
+  * **Mots clés**: _jeu indépendant, console/PC, animation 2D, game art_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[TopSolid](https://www.topsolid.com/)** (TopSolid (ex-Missler Software)) 
   * _Éditeur français de logiciels de CAO/FAO intégrés (TopSolid) pour la mécanique, l'outillage, le bois et la tôlerie._
   * **Mots clés**: _CAO, FAO, ERP, industrie/usinage, tôlerie, menuiserie/bois, outillage_
@@ -3115,6 +3341,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * [_Jobs_](https://www.vicon.com/careers/)
 
 
+* **[Virtual Creation](https://www.virtualcreation.fr/)**  
+  * _Agence de Schiltigheim qui développe des formations et expériences immersives en réalité virtuelle, augmentée et mixte, serious games PC et simulations 3D._
+  * **Mots clés**: _réalité virtuelle, réalité augmentée, serious game, simulation 3D_
+  * **Localisation**: Schiltigheim
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+
+
 * **[Virtualis](https://www.virtualisvr.com/)**  
   * _Éditeur de solutions de rééducation en réalité virtuelle pour kinésithérapeutes (PhysioVR, BalanceVR pour les troubles de l'équilibre et vestibulaires, plateformes StaticVR et MotionVR)._
   * **Mots clés**: _réalité virtuelle, rééducation, troubles vestibulaires, kinésithérapie, dispositif médical, plateforme dynamique_
@@ -3122,6 +3357,15 @@ Après un push sur github, les éléments suivants sont mis à jours:
   * **Nombres d'employés**: 30
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[VirtualiSurg](https://virtualisurg.com/)**  
+  * _Éditeur strasbourgeois de simulateurs de formation médicale et chirurgicale combinant réalité virtuelle/mixte et retour haptique sur instruments réels._
+  * **Mots clés**: _simulation médicale, réalité virtuelle, haptique, chirurgie assistée_
+  * **Localisation**: Strasbourg
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: VR/AR, IHM/Haptique, Simulation
+  * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
 
 
 * **[Virtuos](https://www.virtuosgames.com/)**  

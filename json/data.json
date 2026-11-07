@@ -223,6 +223,10 @@
             43.627,
             7.099
         ],
+        "France/Bischheim": [
+            48.6148,
+            7.7524
+        ],
         "France/Bordeaux": [
             44.8412,
             -0.58
@@ -299,6 +303,10 @@
             48.8953,
             2.2562
         ],
+        "France/Entzheim": [
+            48.5346,
+            7.6359
+        ],
         "France/Espiet": [
             44.7984,
             -0.2616
@@ -319,6 +327,10 @@
             45.1876,
             5.7358
         ],
+        "France/Illkirch-Graffenstaden": [
+            48.5299,
+            7.7113
+        ],
         "France/Ivry-sur-Seine": [
             48.8122,
             2.3873
@@ -330,6 +342,10 @@
         "France/Lab\u00e8ge": [
             43.5293,
             1.53
+        ],
+        "France/Lampertheim": [
+            48.6504,
+            7.7004
         ],
         "France/Laval": [
             48.0707,
@@ -363,6 +379,10 @@
             45.8357,
             4.7708
         ],
+        "France/Lixhausen": [
+            48.7938,
+            7.5504
+        ],
         "France/Lyon": [
             45.7578,
             4.832
@@ -382,6 +402,10 @@
         "France/Meylan": [
             45.2097,
             5.7784
+        ],
+        "France/Molsheim": [
+            48.5419,
+            7.4925
         ],
         "France/Montigny-le-Bretonneux": [
             48.7699,
@@ -503,6 +527,10 @@
             47.2233,
             -1.6347
         ],
+        "France/Saint-Louis": [
+            47.5904,
+            7.5583
+        ],
         "France/Saint-Mand\u00e9": [
             48.8432,
             2.416
@@ -542,6 +570,10 @@
         "France/Sainte-Foy-l\u00e8s-Lyon": [
             45.7362,
             4.7935
+        ],
+        "France/Schiltigheim": [
+            48.6047,
+            7.7484
         ],
         "France/Sophia Antipolis": [
             43.6195,
@@ -930,6 +962,13 @@
         "Bourg-l\u00e8s-Valence": "Valence",
         "Strasbourg": "Strasbourg",
         "Truchtersheim": "Strasbourg",
+        "Schiltigheim": "Strasbourg",
+        "Bischheim": "Strasbourg",
+        "Illkirch-Graffenstaden": "Strasbourg",
+        "Lampertheim": "Strasbourg",
+        "Entzheim": "Strasbourg",
+        "Molsheim": "Strasbourg",
+        "Lixhausen": "Strasbourg",
         "Bouguenais": "Nantes",
         "Saint-Herblain": "Nantes",
         "Nancy": "Nancy",
@@ -13428,6 +13467,843 @@
                 "simulation"
             ],
             "Employees": 15
+        },
+        {
+            "Name": "Embers",
+            "url": "https://embers.games/",
+            "Description": "Studio de jeu vid\u00e9o ind\u00e9pendant strasbourgeois, d\u00e9veloppeur et \u00e9diteur de Strayed Lights, Storebound et Murky Divers.",
+            "Jobs": "https://embers.games/",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57237,
+                        7.7704
+                    ],
+                    "SIREN": "881759526",
+                    "Address": "3 Rue Alfred Kastler, 67100 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "console/PC",
+                "jeu ind\u00e9pendant",
+                "game art",
+                "animation 3D"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Virtual Creation",
+            "url": "https://www.virtualcreation.fr/",
+            "Description": "Agence de Schiltigheim qui d\u00e9veloppe des formations et exp\u00e9riences immersives en r\u00e9alit\u00e9 virtuelle, augment\u00e9e et mixte, serious games PC et simulations 3D.",
+            "Place": [
+                {
+                    "City": "Schiltigheim",
+                    "Coordinates": [
+                        48.61493,
+                        7.71061
+                    ],
+                    "SIREN": "837849546",
+                    "Address": "7 Rue de La Haye, 67300 Schiltigheim"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "serious game",
+                "simulation 3D"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Amopix",
+            "url": "https://amopix.com/",
+            "Description": "Studio d'animation et soci\u00e9t\u00e9 de production (Strasbourg et Annecy) qui fabrique courts et longs m\u00e9trages, s\u00e9ries et documentaires en 2D et 3D, ainsi que des films en motion design.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.58157,
+                        7.74985
+                    ],
+                    "SIREN": "441251147",
+                    "Address": "10 Place de la Cath\u00e9drale, 67000 Strasbourg"
+                },
+                {
+                    "City": "Annecy"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "s\u00e9ries d'animation",
+                "long m\u00e9trage",
+                "motion design"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Ernestine",
+            "url": "https://ernestine-games.fr/",
+            "Description": "Studio de jeu vid\u00e9o ind\u00e9pendant strasbourgeois fond\u00e9 en 2009 (Castelet, Apocalypsheim), issu du serious game, qui propose aussi des prestations artistiques et d'animation temps r\u00e9el.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.58256,
+                        7.77126
+                    ],
+                    "SIREN": "510411689",
+                    "Address": "11 Boulevard Leblois, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "serious game",
+                "game art"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Protozoaire",
+            "url": "https://www.protozoaire.com/",
+            "Description": "Studio strasbourgeois de production et d'animation 3D qui r\u00e9alise depuis plus de 20 ans animation 3D et effets visuels pour s\u00e9ries, longs et courts m\u00e9trages.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.56982,
+                        7.78705
+                    ],
+                    "SIREN": "822489043",
+                    "Address": "2 Rue du Rhin Napol\u00e9on, 67100 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 3D",
+                "effets visuels",
+                "s\u00e9ries d'animation",
+                "long m\u00e9trage"
+            ]
+        },
+        {
+            "Name": "Parangon",
+            "url": "https://parangon.eu/",
+            "Description": "Jeune studio d'animation strasbourgeois (2021) qui fabrique animation 2D traditionnelle, d\u00e9cors, FX et compositing pour courts et longs m\u00e9trages (s\u00e9quences anim\u00e9es de Hiver \u00e0 Sokcho).",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.56982,
+                        7.78705
+                    ],
+                    "SIREN": "891028789",
+                    "Address": "2 Rue du Rhin Napol\u00e9on, 67100 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "long m\u00e9trage",
+                "court m\u00e9trage",
+                "compositing"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Immersiv Element",
+            "url": "https://www.immersivelement.fr/",
+            "Description": "Studio 3D de l'Eurom\u00e9tropole de Strasbourg sp\u00e9cialis\u00e9 en mod\u00e9lisation et animation 3D, VFX, motion design et exp\u00e9riences immersives (VR, r\u00e9alit\u00e9 augment\u00e9e) pour la publicit\u00e9 et l'\u00e9v\u00e9nementiel.",
+            "Place": [
+                {
+                    "City": "Bischheim",
+                    "Coordinates": [
+                        48.6142,
+                        7.74757
+                    ],
+                    "SIREN": "854097912",
+                    "Address": "29 Avenue de P\u00e9rigueux, 67800 Bischheim"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Art/Evenementiel"
+            ],
+            "Keywords": [
+                "animation 3D",
+                "effets visuels",
+                "motion design",
+                "publicit\u00e9",
+                "r\u00e9alit\u00e9 augment\u00e9e"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Inventive",
+            "url": "https://www.inventive-studio.com/",
+            "Description": "Studio strasbourgeois de m\u00e9diation num\u00e9rique et de design qui cr\u00e9e images de synth\u00e8se, r\u00e9alit\u00e9 virtuelle et augment\u00e9e et installations immersives pour mus\u00e9es et patrimoine (mus\u00e9e Unterlinden, cath\u00e9drale de Strasbourg).",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.58359,
+                        7.74249
+                    ],
+                    "SIREN": "510518046",
+                    "Address": "38 Rue du Jeu des Enfants, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Patrimoine/Culture",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "exposition immersive",
+                "architecture"
+            ]
+        },
+        {
+            "Name": "Alm\u00e9dia",
+            "url": "https://www.almedia.fr/",
+            "Description": "Agence ludique multim\u00e9dia strasbourgeoise (2009) qui con\u00e7oit serious games, escape games, vid\u00e9o 360 interactive et applications de r\u00e9alit\u00e9 virtuelle et augment\u00e9e pour la formation et la culture.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57097,
+                        7.75555
+                    ],
+                    "SIREN": "511443749",
+                    "Address": "7 Rue de Nom\u00e9ny, 67100 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Patrimoine/Culture"
+            ],
+            "Keywords": [
+                "serious game",
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "mobile"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Neuronality",
+            "url": "https://neuronality.com/",
+            "Description": "Petit studio de Molsheim qui d\u00e9veloppe depuis 2015 des jeux multijoueurs en ligne jouables dans le navigateur, dont le shooter spatial Starblast.io et Neuronball.",
+            "Place": [
+                {
+                    "City": "Molsheim",
+                    "Coordinates": [
+                        48.5363,
+                        7.48492
+                    ],
+                    "SIREN": "808517858",
+                    "Address": "2 Chemin des Rochers, 67120 Molsheim"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "multijoueur en ligne",
+                "jeu ind\u00e9pendant",
+                "jeu navigateur"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "Toe Bean Club",
+            "url": "https://toebeanclubgames.com/",
+            "Description": "Studio de jeu vid\u00e9o ind\u00e9pendant strasbourgeois cr\u00e9\u00e9 en 2024, qui d\u00e9veloppe Mirage: Miracle Quest, un jeu au style visuel dessin\u00e9 \u00e0 la main.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57589,
+                        7.7568
+                    ],
+                    "SIREN": "930144829",
+                    "Address": "17 Rue de Lausanne, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "animation 2D",
+                "game art"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "NHImages",
+            "url": "https://nhimages.fr/",
+            "Description": "Studio strasbourgeois de perspectives 3D fond\u00e9 par un architecte DPLG, qui produit images et films de synth\u00e8se pour concours d'architecture et promotion immobili\u00e8re.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.59067,
+                        7.74802
+                    ],
+                    "SIREN": "440605053",
+                    "Address": "68 Avenue des Vosges, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "architecture",
+                "rendu photor\u00e9aliste"
+            ],
+            "Employees": 2
+        },
+        {
+            "Name": "I Am A Dog Studio",
+            "url": "https://www.cibogame.com/",
+            "Description": "Studio de jeu vid\u00e9o ind\u00e9pendant strasbourgeois (2025) qui d\u00e9veloppe Cosmic Holidays, jeu d'aventure et de plateforme 2D pour PC.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57801,
+                        7.70626
+                    ],
+                    "SIREN": "938822442",
+                    "Address": "91b Route des Romains, 67200 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "console/PC",
+                "animation 2D"
+            ]
+        },
+        {
+            "Name": "Seppia",
+            "url": "https://www.seppia.eu/",
+            "Description": "Soci\u00e9t\u00e9 de production audiovisuelle strasbourgeoise (2002) de documentaires qui d\u00e9veloppe aussi des exp\u00e9riences interactives et immersives (visite virtuelle de la cath\u00e9drale de Strasbourg).",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.58937,
+                        7.74642
+                    ],
+                    "SIREN": "442447132",
+                    "Address": "35 Rue du Foss\u00e9 des Treize, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Patrimoine/Culture",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "exposition immersive",
+                "documentaire"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Holo3",
+            "url": "https://www.holo3-rv.com/",
+            "Description": "Centre de ressources technologiques de Saint-Louis sp\u00e9cialis\u00e9 en m\u00e9trologie optique, avec une \u00e9quipe de r\u00e9alit\u00e9 virtuelle qui d\u00e9veloppe des applications VR pour l'industrie, l'architecture et la formation.",
+            "Place": [
+                {
+                    "City": "Saint-Louis",
+                    "Coordinates": [
+                        47.5916,
+                        7.56228
+                    ],
+                    "SIREN": "340673458",
+                    "Address": "7 Rue du G\u00e9n\u00e9ral Cassagnou, 68300 Saint-Louis"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "jumeau num\u00e9rique",
+                "m\u00e9trologie optique"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "VirtualiSurg",
+            "url": "https://virtualisurg.com/",
+            "Description": "\u00c9diteur strasbourgeois de simulateurs de formation m\u00e9dicale et chirurgicale combinant r\u00e9alit\u00e9 virtuelle/mixte et retour haptique sur instruments r\u00e9els.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57753,
+                        7.74991
+                    ],
+                    "SIREN": "829843770",
+                    "Address": "8 Place de l'H\u00f4pital, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "IHM/Haptique",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "simulation m\u00e9dicale",
+                "r\u00e9alit\u00e9 virtuelle",
+                "haptique",
+                "chirurgie assist\u00e9e"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Optiive",
+            "Name-long": "Optiive Rise Reality",
+            "url": "https://optiive.com/",
+            "Description": "Start-up issue du laboratoire ICube qui con\u00e7oit et fabrique des moteurs optiques et guides d'onde pour lunettes de r\u00e9alit\u00e9 augment\u00e9e.",
+            "Place": [
+                {
+                    "City": "Illkirch-Graffenstaden",
+                    "Coordinates": [
+                        48.52556,
+                        7.73772
+                    ],
+                    "SIREN": "907900450",
+                    "Address": "300 Boulevard S\u00e9bastien Brant, 67400 Illkirch-Graffenstaden"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "optique",
+                "afficheur",
+                "lunettes AR"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Pixacare",
+            "url": "https://www.pixacare.com/",
+            "Description": "\u00c9diteur strasbourgeois d'une plateforme de photographie m\u00e9dicale dont l'IA mesure automatiquement les plaies chroniques \u00e0 partir d'une photo (dispositif m\u00e9dical CE IIa).",
+            "Jobs": "https://pixacare.welcomekit.co/",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57548,
+                        7.74852
+                    ],
+                    "SIREN": "849620398",
+                    "Address": "2 Rue Marie Hamm, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "vision par ordinateur",
+                "deep learning",
+                "segmentation",
+                "imagerie m\u00e9dicale",
+                "dispositif m\u00e9dical"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "HypnoVR",
+            "Name-long": "Hypno VR",
+            "url": "https://hypnovr.io/fr/",
+            "Description": "Start-up strasbourgeoise de th\u00e9rapie num\u00e9rique associant hypnose m\u00e9dicale et environnements 3D en r\u00e9alit\u00e9 virtuelle contre la douleur et l'anxi\u00e9t\u00e9.",
+            "Place": [
+                {
+                    "City": "Lampertheim",
+                    "Coordinates": [
+                        48.64847,
+                        7.69196
+                    ],
+                    "SIREN": "823512561",
+                    "Address": "5 Rue Griesheimerberg, 67450 Lampertheim"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "dispositif m\u00e9dical",
+                "rendu temps r\u00e9el"
+            ],
+            "Employees": 35
+        },
+        {
+            "Name": "Axilum Robotics",
+            "url": "https://www.axilumrobotics.com/en/",
+            "Description": "Concepteur de robots et cobots pour la stimulation magn\u00e9tique transcr\u00e2nienne et les ultrasons transcr\u00e2niens, guid\u00e9s par neuronavigation et suivi optique.",
+            "Place": [
+                {
+                    "City": "Schiltigheim",
+                    "Coordinates": [
+                        48.61308,
+                        7.71866
+                    ],
+                    "SIREN": "531573376",
+                    "Address": "21 Avenue de l'Europe, 67300 Schiltigheim"
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Visualisation",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Keywords": [
+                "robotique",
+                "navigation chirurgicale",
+                "dispositif m\u00e9dical",
+                "imagerie m\u00e9dicale"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "iGlobe Scientific",
+            "url": "https://www.linkedin.com/company/iglobe-scientific",
+            "Description": "Start-up strasbourgeoise issue de l'IHU Strasbourg et de Medi-Globe qui d\u00e9veloppe des logiciels d'IA d'aide \u00e0 l'\u00e9cho-endoscopie pour la d\u00e9tection pr\u00e9coce du cancer du pancr\u00e9as.",
+            "Info": "Pas de site web propre identifi\u00e9 (page LinkedIn).",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57721,
+                        7.74704
+                    ],
+                    "SIREN": "978805836",
+                    "Address": "1 Place de l'H\u00f4pital, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "deep learning",
+                "segmentation",
+                "dispositif m\u00e9dical"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Imag'ing",
+            "url": "https://www.imag-ing.com/",
+            "Description": "Bureau d'\u00e9tudes alsacien sp\u00e9cialis\u00e9 dans le relev\u00e9 3D par scanner laser et photogramm\u00e9trie, la m\u00e9trologie, le scan-to-BIM et les jumeaux num\u00e9riques industriels.",
+            "Place": [
+                {
+                    "City": "Lixhausen",
+                    "Coordinates": [
+                        48.79366,
+                        7.54676
+                    ],
+                    "SIREN": "491440483",
+                    "Address": "Rue de Bouxwiller, 67270 Lixhausen"
+                },
+                {
+                    "City": "Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "\u00c9nergie/Environnement",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "scanner 3D",
+                "photogramm\u00e9trie",
+                "nuage de points",
+                "jumeau num\u00e9rique",
+                "m\u00e9trologie"
+            ],
+            "Employees": 35
+        },
+        {
+            "Name": "Computational Surgery",
+            "url": "https://computationalsurgery.eu/",
+            "Description": "Jeune soci\u00e9t\u00e9 strasbourgeoise d\u00e9veloppant algorithmes et logiciels de vision par ordinateur, r\u00e9alit\u00e9 augment\u00e9e et recalage pour la chirurgie robotique et endoscopique.",
+            "Info": "Tr\u00e8s petite structure (effectif non d\u00e9clar\u00e9) ; site principal peu renseign\u00e9.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.58636,
+                        7.77466
+                    ],
+                    "SIREN": "921289989",
+                    "Address": "5 Rue Mozart, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "VR/AR",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Keywords": [
+                "vision par ordinateur",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "navigation chirurgicale",
+                "robotique",
+                "planification chirurgicale"
+            ]
+        },
+        {
+            "Name": "Cevilog",
+            "url": "https://www.cevilog.com/",
+            "Description": "Int\u00e9grateur et d\u00e9veloppeur de syst\u00e8mes de vision industrielle par cam\u00e9ras pour le contr\u00f4le qualit\u00e9 (agroalimentaire, pharmacie, automobile).",
+            "Place": [
+                {
+                    "City": "Entzheim",
+                    "Coordinates": [
+                        48.54637,
+                        7.6536
+                    ],
+                    "SIREN": "520499021",
+                    "Address": "6 Rue Icare, 67960 Entzheim"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "vision par ordinateur",
+                "m\u00e9trologie",
+                "contr\u00f4le qualit\u00e9"
+            ],
+            "Employees": 4
+        },
+        {
+            "Name": "Scialytics",
+            "url": "https://www.scialytics.io/",
+            "Description": "Spin-off de l'IHU Strasbourg (laboratoire CAMMA) qui d\u00e9veloppe une plateforme d'IA d'analyse de vid\u00e9os chirurgicales et des assistants temps r\u00e9el au bloc op\u00e9ratoire.",
+            "Info": "Cr\u00e9\u00e9e en mai 2025 ; effectif non encore d\u00e9clar\u00e9 au registre.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57801,
+                        7.70626
+                    ],
+                    "SIREN": "989262084",
+                    "Address": "91 Route des Romains, 67200 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "vision par ordinateur",
+                "deep learning",
+                "chirurgie assist\u00e9e",
+                "dispositif m\u00e9dical"
+            ]
+        },
+        {
+            "Name": "IRCAD",
+            "Name-long": "Institut de Recherche contre les Cancers de l'Appareil Digestif",
+            "url": "https://www.ircad.fr/",
+            "Description": "Institut de recherche et de formation en chirurgie mini-invasive dont l'\u00e9quipe R&D d\u00e9veloppe Sight, framework C++ open source de visualisation 3D, r\u00e9alit\u00e9 augment\u00e9e et chirurgie assist\u00e9e par ordinateur.",
+            "Info": "Structure associative (non une soci\u00e9t\u00e9 commerciale) ; Visible Patient, d\u00e9j\u00e0 au listing, en est issue.",
+            "Place": [
+                {
+                    "City": "Strasbourg",
+                    "Coordinates": [
+                        48.57721,
+                        7.74704
+                    ],
+                    "SIREN": "391854791",
+                    "Address": "1 Place de l'H\u00f4pital, 67000 Strasbourg"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "VR/AR",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "navigation chirurgicale",
+                "robotique",
+                "segmentation"
+            ],
+            "Employees": 75
+        },
+        {
+            "Name": "D-Tech 3D",
+            "url": "https://www.dtech-3d.fr/",
+            "Description": "Prestataire de relev\u00e9s par scanner laser 3D et photogramm\u00e9trie par drone, produisant nuages de points, maquettes BIM et rendus r\u00e9alistes.",
+            "Place": [
+                {
+                    "City": "Molsheim",
+                    "Coordinates": [
+                        48.54069,
+                        7.49725
+                    ],
+                    "SIREN": "818624132",
+                    "Address": "2 Rue Notre-Dame, 67120 Molsheim"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Patrimoine/Culture"
+            ],
+            "Keywords": [
+                "scanner 3D",
+                "photogramm\u00e9trie",
+                "nuage de points",
+                "lidar"
+            ],
+            "Employees": 4
         }
     ]
 }
