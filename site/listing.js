@@ -1236,6 +1236,43 @@ function create_map() {
     MAP['map'] = map;
 }
 
+// The popup of a company opens when the mouse is over its dot, and closes shortly after the mouse leaves
+// the dot and the popup (so that its buttons can be reached). A click pins it open, as before.
+const MAP_HOVER = {'marker': null, 'timer': null, 'pinned': false};
+
+function map_hover_close_later() {
+    clearTimeout(MAP_HOVER['timer']);
+    MAP_HOVER['timer'] = setTimeout(() => {
+        if(MAP_HOVER['marker'] && !MAP_HOVER['pinned']) MAP_HOVER['marker'].closePopup();
+    }, 350);
+}
+
+function map_hover_popup(marker) {
+    marker.on('mouseover', () => {
+        clearTimeout(MAP_HOVER['timer']);
+        if(MAP_HOVER['pinned'] && MAP_HOVER['marker']!==marker && MAP_HOVER['marker']?.isPopupOpen()) return; // a pinned popup stays
+        if(MAP_HOVER['marker']===marker && marker.isPopupOpen()) return;
+        MAP_HOVER['marker'] = marker;
+        MAP_HOVER['pinned'] = false;
+        marker.getPopup().options.autoPan = false; // no map move on a simple hover
+        marker.openPopup();
+    });
+    marker.on('mouseout', map_hover_close_later);
+    marker.on('click', () => {
+        MAP_HOVER['marker'] = marker;
+        MAP_HOVER['pinned'] = true;
+        clearTimeout(MAP_HOVER['timer']);
+        marker.getPopup().options.autoPan = true;
+        if(!marker.isPopupOpen()) marker.openPopup();
+    });
+    marker.on('popupopen', (event) => {
+        const element = event.popup.getElement();
+        element.addEventListener('mouseenter', () => clearTimeout(MAP_HOVER['timer']));
+        element.addEventListener('mouseleave', map_hover_close_later);
+    });
+    marker.on('popupclose', () => { if(MAP_HOVER['marker']===marker) MAP_HOVER['pinned'] = false; });
+}
+
 // Companies sharing the same position (no precise address: center of the city) are spread around it
 // on a small sunflower, in pixels, so that each dot stays visible and clickable at any zoom
 function map_spread() {
@@ -1346,6 +1383,7 @@ function display_map(entries) {
                     'zIndexOffset': -10*map_dot_size(employees),
                 });
                 marker.bindPopup(() => map_popup(single), {'maxWidth': 300, 'autoPanPadding': [20, 20]});
+                map_hover_popup(marker);
                 markers.push(marker);
                 const ki = company_index(entry);
                 if(!MAP['by-company'].has(ki)) MAP['by-company'].set(ki, []);
