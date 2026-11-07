@@ -1,0 +1,23 @@
+# Regroupement des villes françaises en zones cohérentes (aire urbaine, technopole),
+# pour la vue "par localité" du site : ex. une entreprise de Villeurbanne apparaît sous Lyon.
+#
+# Format:
+#   Nom de la zone: [Ville1, Ville2, ...]   // villes telles qu'écrites dans data.yaml
+#
+# Une ville absente de ce fichier forme sa propre zone, sous son nom.
+# La carte et les fiches gardent la ville exacte.
+
+Paris – Île-de-France: [Paris, Aubervilliers, Boulogne-Billancourt, Évry-Courcouronnes, Ivry-sur-Seine, Les Lilas,
+  Montévrain, Montreuil, Montrouge, Nogent-sur-Marne, Romainville, Saint-Denis, Saint-Germain-en-Laye,
+  Saint-Ouen, Vanves]
+Lyon: [Lyon, Villeurbanne, Champagne-au-Mont-d'Or]
+Grenoble: [Grenoble, Meylan, Gières, Champagnier]
+Bordeaux: [Bordeaux, Pessac, Bègles, Canéjan, Beychac-et-Caillau]
+Lille: [Lille, Roubaix, Tourcoing, Fretin]
+Nice – Sophia Antipolis: [Nice, Sophia Antipolis, Biot, Valbonne, Mouans-Sartoux]
+Aix-Marseille: [Marseille, Aix-en-Provence, Pertuis, Martigues]
+Toulon: [La Farlède]
+Toulouse: [Toulouse, Labège]
+Rennes: [Rennes, Cesson-Sévigné]
+Valence: [Valence, Bourg-lès-Valence]
+Strasbourg: [Strasbourg, Truchtersheim]
