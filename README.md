@@ -169,6 +169,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Commerce/Marketing/Publicité
 
 
+* **[7-Shapes](https://www.7-shapes.com/)**  
+  * _Entreprise fondée en 2017 qui développe et édite la 7-Shapes School, un serious game de simulation d'entreprise (Unity/WebGL) pour former au Lean Management dans l'industrie._
+  * **Mots clés**: _serious game, lean management, formation en ligne, simulation d'entreprise_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+
+
 * **[Abbelight](https://www.abbelight.com/)**  
   * _Fabricant à Cachan de solutions de microscopie de super-résolution (nanoscopie de molécule unique) et des logiciels de reconstruction et d'analyse associés._
   * **Mots clés**: _imagerie scientifique, microscopie, super-résolution, reconstruction 3D_
@@ -533,6 +541,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://careers.ateme.com/)
 
 
+* **[Atlantiz Park](https://www.atlantizpark.com/)**  
+  * _Studio d'animation 2D (traditionnelle, numérique, cut-out) d'une trentaine d'artistes, du storyboard au compositing, pour séries, documentaires, courts/longs métrages et clips._
+  * **Mots clés**: _animation 2D, storyboard, compositing, Toon Boom Harmony, Blender_
+  * **Localisation**: Angoulême, Gujan-Mestras
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Atlas V](https://atlasv.io/)**  
   * _Studio de création d'expériences immersives en réalité virtuelle et augmentée._
   * **Mots clés**: _réalité virtuelle, narration immersive, jeu VR, location-based entertainment, multijoueur en ligne, exposition immersive_
@@ -559,6 +575,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Acquisition, Vision, IHM/Haptique
   * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers, Patrimoine/Culture
+
+
+* **[Aurora Game Studio](https://auroragamestudio.com/)**  
+  * _Studio fondé en 2016 qui crée des jeux vidéo et des jeux de plateau, dont le point-and-click Nefasto's Misadventure (Steam, Switch)._
+  * **Mots clés**: _jeu vidéo, point-and-click, jeu de plateau_
+  * **Localisation**: Gond-Pontouvre, Hiersac
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Autodesk](https://www.autodesk.com/)**  
@@ -763,7 +787,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Bobbypills](https://www.bobbypills.com/)**  
   * _Studio d'animation français spécialisé dans l'animation pour adultes (Peepoodo, Vermin, Captain Laserhawk) et les adaptations de jeux vidéo (Dead Cells)._
   * **Mots clés**: _séries d'animation, animation pour adultes, animation 2D, adaptation de jeux vidéo, Captain Laserhawk_
-  * **Localisation**: Paris
+  * **Localisation**: Paris, Angoulême
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
@@ -774,6 +798,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Montpellier
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Borderline Films](https://borderlinefilms.fr/)** (Schmuby Productions (Borderline Films)) 
+  * _Société de production et studio de fabrication d'animation 2D et 3D, coproducteur et prestataire de films d'Autour de Minuit (Unicorn Wars, Jean-Michel Super Caribou, La Grande Rêvasion) et de Mars Express._
+  * **Mots clés**: _animation 2D, animation 3D, long métrage, court métrage, coproduction_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
@@ -804,6 +836,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Broad Studios](https://www.broad-studios.fr/)**  
+  * _Société de production audiovisuelle charentaise qui propose tournage (dont drone FPV), effets spéciaux, animation 3D et photogrammétrie pour l'événementiel, la publicité et le cinéma (making of de Voyage en Terre de Cognac)._
+  * **Mots clés**: _VFX, animation 3D, photogrammétrie, drone, production vidéo_
+  * **Localisation**: Nersac
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Reconstruction
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel
+
+
 * **[Broadpeak](https://broadpeak.tv/)**  
   * _Éditeur et fabricant rennais de solutions de diffusion vidéo en streaming (CDN, packaging, publicité dynamique) pour opérateurs et diffuseurs._
   * **Mots clés**: _streaming, diffusion vidéo, CDN_
@@ -830,6 +870,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Vision
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://buf.com/jobs/)
+
+
+* **[Bulwark Studios](http://www.bulwarkstudios.com/)**  
+  * _Studio indépendant de jeux vidéo fondé en 2012, spécialisé dans la stratégie et la tactique, développeur de Warhammer 40,000 Mechanicus et de sa suite Mechanicus II._
+  * **Mots clés**: _jeu vidéo, jeu de stratégie, tactique au tour par tour, PC, consoles_
+  * **Localisation**: Gond-Pontouvre, Brie
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Bureau 81](https://store.steampowered.com/app/1771980/The_Operator/)**  
@@ -881,7 +929,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[CGEV](https://www.cgev.fr/)**  
   * _Studio d'effets visuels pour le cinéma et les séries (compositing, 3D, FX fluides et particules, matte painting)._
   * **Mots clés**: _effets visuels, compositing, matte painting, simulation de fluides, long métrage, séries TV, supervision de tournage_
-  * **Localisation**: Paris
+  * **Localisation**: Paris, Angoulême
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1169,6 +1217,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://join.disneycareers.com/global/en)
 
 
+* **[Distant Shore](https://store.steampowered.com/app/3892370/)**  
+  * _Studio indépendant qui développe et édite Distant Shore BRETAGNE, un jeu de plateforme sandbox de science-fiction à la première personne (démo sur Steam)._
+  * **Mots clés**: _jeu vidéo, jeu 3D, plateforme, première personne_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[DON'T NOD](https://dont-nod.com/en/)**  
   * _Développeur et éditeur indépendant de jeux narratifs (Paris, Montréal), créateur de Life is Strange, Jusant, Lost Records et Aphelion._
   * **Mots clés**: _jeu narratif, console/PC, Unreal Engine, édition de jeux, jeu indépendant, Life is Strange_
@@ -1378,6 +1434,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Visualisation, Web/Cloud/Big Data
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
   * [_Jobs_](https://www.elcia.com/nos-offres-demploi/)
+
+
+* **[Ellipse Animation](https://www.ellipseanimation.com/)** (Ellipse Studio Angoulême (Dargaud Media / Média-Participations)) 
+  * _Studio de fabrication de séries et longs métrages d'animation 2D et 3D du groupe Média-Participations (La Famille Blaireau-Renard, Belfort & Lupin, Yakari) ; l'antenne d'Angoulême développe aussi le webtoon (Angoulême Webtoon Academy)._
+  * **Mots clés**: _animation 2D, animation 3D, séries TV, long métrage, webtoon_
+  * **Localisation**: Angoulême, Paris
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.ellipseanimation.com/careers/)
 
 
 * **[Embers](https://embers.games/)**  
@@ -1631,6 +1696,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.frenchtouchfactory.com/careers/)
 
 
+* **[Frigo Films](https://frigofilms.fr/)**  
+  * _Studio d'animation fondé en 2024 par cinq associés aux Ateliers Magelis, travaillant en 2D, stop motion, aquarelle et papier découpé._
+  * **Mots clés**: _animation 2D, stop motion, papier découpé, court métrage_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Fygostudio](https://fygostudio.com/)**  
   * _Studio d'animation et société de production bordelaise réalisant des films publicitaires et du brand content en animation 2D, 3D et techniques mixtes au rendu pictural._
   * **Mots clés**: _animation 2D, animation 3D, publicité, motion design_
@@ -1763,6 +1836,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Générique
 
 
+* **[Goupil Technology](https://goupil.technology/)**  
+  * _Éditeur de logiciels XR créé fin 2023 (incubé par Eurekatech) : formation immersive en VR (UNI VR SITY), vidéo 360° interactive (ARGOS 360), jumeaux numériques connectés aux machines, photogrammétrie et visites virtuelles._
+  * **Mots clés**: _réalité étendue, formation immersive, jumeau numérique, vidéo 360, photogrammétrie, visite virtuelle_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: VR/AR, Reconstruction, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+
+
 * **[Graitec](https://graitec.com/fr/)**  
   * _Éditeur et intégrateur de logiciels BIM et de calcul de structures (Advance Design, Arche, PowerPack pour Revit et Advance Steel)._
   * **Mots clés**: _BIM, CAO, calcul de structures, plugins Revit_
@@ -1809,7 +1890,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Hari Studios](https://hari-studios.com/)**  
   * _Studio de production et de fabrication de séries et films d'animation 3D (Grizzy et les Lemmings, Mystery Lane)._
   * **Mots clés**: _séries d'animation, animation 3D, jeunesse, Grizzy et les Lemmings_
-  * **Localisation**: Paris
+  * **Localisation**: Paris, Angoulême
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1824,6 +1905,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Web/Cloud/Big Data
   * **Domaine d'application**: Générique
   * [_Jobs_](https://careers.harmonicinc.com/)
+
+
+* **[Headbang Club](https://headbang.club/)**  
+  * _Collectif de développeurs indépendants, créateur du jeu d'action musical metal Double Kick Heroes, qui fait aussi de la prestation (contribution à Warhammer 40,000 Mechanicus)._
+  * **Mots clés**: _jeu vidéo, pixel art, prestation, Unity_
+  * **Localisation**: Gond-Pontouvre
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Healthy Mind](https://healthymind.fr/)**  
@@ -1851,6 +1940,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Suède/Stockholm
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie, Vision
   * **Domaine d'application**: Géospatial/Cartographie, Industrie/Manufacturing/CAO
+
+
+* **[Hibernian Workshop](https://hibernian-workshop.com/)**  
+  * _Studio de jeux vidéo fondé en 2017, auteur de jeux d'action en pixel art Dark Devotion et Astral Ascent (PC, Switch, PlayStation), et de l'action-RPG Fallen Fates en développement._
+  * **Mots clés**: _jeu vidéo, pixel art, roguelite, action-RPG, consoles_
+  * **Localisation**: Soyaux
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Histovery](https://histovery.com/)**  
@@ -2229,6 +2326,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Kalank Games](https://kalank.games/)**  
+  * _Studio de jeux vidéo et éditeur fondé en 2017, qui développe ses propres jeux et fait du co-développement sous Unity et Unreal (Toko Toko, Winky Play, Miraculous Rise of the Sphinx), ainsi que des expériences VR/AR (Quest, Vive, Apple Vision Pro)._
+  * **Mots clés**: _jeu vidéo, co-développement, réalité virtuelle, réalité augmentée, Unity, Unreal Engine_
+  * **Localisation**: Gond-Pontouvre
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
 * **[Kayrros](https://www.kayrros.com/)**  
   * _Mesure par satellite de l'empreinte environnementale des activités humaines (analyse d'images satellitaires, géospatial)._
   * **Mots clés**: _imagerie satellite, SIG, deep learning, méthane, risque climatique, feux de forêt, déforestation_
@@ -2318,6 +2423,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.autreimage.com/jobs/)
 
 
+* **[La Chouette Compagnie](https://www.chouetteco.com/)**  
+  * _Producteur et studio de séries d'animation (Droners, Azuro et la brigade des dragons, Dragon Striker) disposant d'un studio de fabrication à Angoulême, incluant animation 2D type anime et compositing._
+  * **Mots clés**: _animation 2D, anime, séries TV, compositing, production_
+  * **Localisation**: Angoulême, Montreuil
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.chouetteco.com/jobs)
+
+
 * **[La Planète Rouge](https://www.laplaneterouge.fr/)**  
   * _Studio d'effets visuels et de production virtuelle (plateau à mur LED The Next Stage aux Provence Studios) et de post-production._
   * **Mots clés**: _production virtuelle, mur LED, effets visuels, post-production, services de tournage, long métrage_
@@ -2327,11 +2441,19 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[La Poule Noire](https://www.lapoulenoire.fr/)**  
+  * _Coopérative de jeux vidéo fondée en 2018 par d'anciens élèves de l'Enjmin, qui crée des jeux narratifs humoristiques (To Hell With The Ugly, Looking For Fael, Edgar Bokbok in Boulzac) et fait de la prestation pour d'autres studios._
+  * **Mots clés**: _jeu vidéo, jeu narratif, coopérative, consoles, PC_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[La Station Animation](https://www.lastationanimation.com/)**  
-  * _Société de création et de fabrication de films et séries d'animation 2D et 3D (télévision, cinéma, publicité), fondée à Paris en 2002 avec un studio à Avignon._
+  * _Société de création et de fabrication de films et séries d'animation 2D et 3D (télévision, cinéma, publicité), fondée à Paris en 2002 avec des studios à Avignon et Angoulême._
   * **Mots clés**: _animation 2D, animation 3D, séries d'animation, long métrage_
   * **Remarque**: _Entités LA STATION ANIMATION (441942331) et STATION ANIMATION STUDIOS (530852367), même adresse._
-  * **Localisation**: Paris, Avignon
+  * **Localisation**: Paris, Avignon, Angoulême
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -2371,6 +2493,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture
+
+
+* **[Les Films du Poisson Rouge](https://www.lesfilmsdupoissonrouge.com/)**  
+  * _Studio de production et de création de films animés en 2D, 3D et techniques mixtes (longs, courts, documentaires, séries), avec technologies maison (Picasso à Royan, Josep)._
+  * **Mots clés**: _animation 2D, animation 3D, techniques mixtes, long métrage, documentaire_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Les fées spéciales](https://les-fees-speciales.coop/)**  
@@ -2426,6 +2556,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Design/Fabrication, Modélisation, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
+
+
+* **[Loops Creative Studio](https://loopscreativestudio.com/)**  
+  * _Studio d'animation 3D fondé en 2022 proposant lookdev, R&D et pipeline temps réel (Unreal Engine, Blender, USD) aux producteurs (Les Légendaires avec 2 Minutes, Liminals de Pierre Huyghe)._
+  * **Mots clés**: _lookdev, Unreal Engine, USD, temps réel, pipeline, animation 3D_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+  * [_Jobs_](https://loopscreativestudio.com/jobs/)
 
 
 * **[LS Group](https://www.ls-group.fr/)** (LS Group (ex Light and Shadows)) 
@@ -2604,6 +2743,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Malil'Art](https://www.malil-art.com/)** (Malil'Art Productions) 
+  * _Studio et prestataire d'animation 2D et 3D fondé en 2014, spécialisé dans la fabrication de séries et films et la mise en place de pipelines de production (Foot 2 Rue, Gus le chevalier minus)._
+  * **Mots clés**: _animation 2D, animation 3D, séries TV, pipeline_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Manufacture 43](https://manufacture43.com/)**  
@@ -2856,6 +3003,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
 
 
+* **[Miyu Productions](https://www.miyu.fr/)**  
+  * _Société de production spécialisée en animation (courts, séries, longs) disposant d'un studio de fabrication à Angoulême, aux côtés de Paris et Valence._
+  * **Mots clés**: _animation 2D, court métrage, séries, production_
+  * **Localisation**: Angoulême, Paris
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Mobigame](https://www.mobigame.net/)**  
   * _Studio parisien de jeux mobiles créateur d'Edge (primé à l'IGF) et de Zombie Tsunami (plus de 500 millions de téléchargements)._
   * **Mots clés**: _mobile, jeu indépendant, free-to-play_
@@ -2984,6 +3139,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Nalu Animation](https://www.naluanimation.com/)**  
+  * _Société de production exécutive et de fabrication d'animation (layout, animation, compositing ; Totally Spies! saison 8, Lana Longuebarbe, Mumfie) qui a ouvert en 2026 un studio aux Ateliers Magelis._
+  * **Mots clés**: _production exécutive, layout, animation, compositing, séries TV_
+  * **Localisation**: Angoulême, Aubervilliers
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Naver Labs Europe](https://europe.naverlabs.com/)**  
@@ -3115,6 +3278,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.noid-studio.com/join-us)
 
 
+* **[Normaal Angoulême](https://normaal.fr/)**  
+  * _Studio du producteur Normaal Animation dédié à la fabrication de dessins animés 2D et stop motion (Barbapapa, Zouk, Unicorn Wars en prestation)._
+  * **Mots clés**: _animation 2D, stop motion, séries TV_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Nova-box](https://www.nova-box.com/)**  
   * _Studio et éditeur bordelais de jeux narratifs (romans graphiques interactifs After the Wane, End of Lines) pour PC, Mac, Linux et Switch, fondé en 2007._
   * **Mots clés**: _jeu indépendant, console/PC, jeu narratif_
@@ -3134,6 +3305,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.welcometothejungle.com/en/companies/novaquark/jobs)
 
 
+* **[Novark Entertainment](https://www.novarkentertainment.com/)**  
+  * _Jeune studio fondé en 2024 qui développe son premier jeu narratif (Rise//Protocol, 2e promotion de l'incubateur jeu vidéo de Magelis) et propose des services à d'autres studios._
+  * **Mots clés**: _jeu vidéo, jeu narratif, incubateur Magelis_
+  * **Localisation**: Saint-Michel
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Novelab](https://www.novelab.io/)**  
   * _Studio parisien d'expériences immersives primé (VR, AR, installations interactives) pour le divertissement, les musées, les marques et la formation._
   * **Mots clés**: _réalité virtuelle, réalité augmentée, installations interactives, patrimoine/musée, Apple Vision Pro, jeu VR_
@@ -3141,6 +3320,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 30
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+
+
+* **[Novo3D](http://www.novo3d.fr/)**  
+  * _Société angoumoise fondée en 2013, spécialisée dans les environnements 3D temps réel et la réalité virtuelle (musées virtuels, restitutions de sites patrimoniaux disparus, visioguides VR), issue de la prévisualisation architecturale._
+  * **Mots clés**: _3D temps réel, réalité virtuelle, musée virtuel, restitution patrimoniale, visite virtuelle_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, VR/AR
+  * **Domaine d'application**: Patrimoine/Culture, Loisir Interactif/Immersion/Metavers, Architecture/BTP/Urbanisme
 
 
 * **[nTop](https://www.ntop.com/)**  
@@ -3247,6 +3434,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Design/Fabrication, VR/AR
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Opia Games](https://store.steampowered.com/app/3524780/)**  
+  * _Studio indépendant installé aux Ateliers Magelis, auteur du jeu de plateforme 3D The Lone Blade (2023) et du FPS Sydless (2026)._
+  * **Mots clés**: _jeu vidéo, jeu 3D, FPS, plateforme_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Optiive](https://optiive.com/)** (Optiive Rise Reality) 
@@ -3646,6 +3841,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
 
 
+* **[Purple Meadows](https://www.purple-meadows.com/)**  
+  * _Studio de jeux narratifs à forte direction artistique, inspirés des contes et de la dark fantasy, qui développe Blue Bird's Song et fait de la prestation._
+  * **Mots clés**: _jeu vidéo, jeu narratif, prestation_
+  * **Localisation**: Gond-Pontouvre
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Qarnot Computing](https://qarnot.com/)**  
   * _Fournisseur français de cloud HPC bas carbone (récupération de chaleur des serveurs) pour les simulations d'ingénieurs et le rendu, racheté par Scaleway._
   * **Mots clés**: _calcul haute performance, cloud/streaming, bas carbone, simulation physique, ferme de rendu, Scaleway_
@@ -3714,6 +3917,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Rebound](https://www.reboundcg.com/)**  
+  * _Studio de développement et d'édition de jeux vidéo fondé en 2017 (Rebound Capital Games), auteur de la série Tennis Manager et du roguelite Furyball Rogue Revenge, qui propose aussi du développement pour d'autres studios._
+  * **Mots clés**: _jeu vidéo, édition, jeu de sport, Tennis Manager, roguelite_
+  * **Localisation**: Angoulême, Paris
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Reemo](https://reemo.io/)**  
   * _Plateforme souveraine d'accès distant Zero Trust sans agent, basée sur un protocole de streaming haute performance de postes de travail (utilisée notamment par des studios d'animation et le broadcast)._
   * **Mots clés**: _cloud/streaming, accès distant, Zero Trust, cybersécurité, streaming de postes de travail, broadcast_
@@ -3741,6 +3953,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://reissad.com/studio#careers)
+
+
+* **[Rekka Games](https://braveryandgreed.com/)**  
+  * _Studio fondé par deux anciens élèves de l'Enjmin, développeur du beat'em up roguelite coopératif Bravery and Greed (édité par Team17 en 2022 sur PC et consoles)._
+  * **Mots clés**: _jeu vidéo, roguelite, beat'em up, pixel art_
+  * **Localisation**: Gond-Pontouvre
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Revelt](https://www.revelt-vs.com/)**  
@@ -3913,6 +4133,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie
 
 
+* **[Seed by Seed](https://www.seedbyseed.studio/)**  
+  * _Studio indépendant de jeux vidéo créé en 2018 pour développer Pile Up!, un jeu de plateforme coopératif en 3D._
+  * **Mots clés**: _jeu vidéo, jeu coopératif, plateforme 3D_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Seppia](https://www.seppia.eu/)**  
   * _Société de production audiovisuelle strasbourgeoise (2002) de documentaires qui développe aussi des expériences interactives et immersives (visite virtuelle de la cathédrale de Strasbourg)._
   * **Mots clés**: _réalité virtuelle, exposition immersive, documentaire_
@@ -3957,6 +4185,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.sidefx.com/company/careers/)
+
+
+* **[Silex Animation](https://www.silexfilms.com/animation/)**  
+  * _Studio 2D d'Angoulême créé en 2014 par Silex Films, qui fabrique ses séries et films d'animation (Culottées, Les QuiQuoi, L'Armée des Romantiques, In Waves)._
+  * **Mots clés**: _animation 2D, séries TV, long métrage, documentaire animé_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[SILIOS Technologies](https://www.silios.com/)**  
@@ -4186,6 +4422,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Studio Corto](https://studiocorto.com/)** (Studio Corto (LFxSC, Lesterfilm x Studio Corto)) 
+  * _Studio de post-production image et son installé à Lagora (VFX, compositing, motion design, étalonnage, restauration/colorisation 2K-8K, mixage) pour le cinéma et les séries._
+  * **Mots clés**: _post-production, VFX, compositing, étalonnage, restauration, colorisation_
+  * **Localisation**: Gond-Pontouvre
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Imagerie
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Studio Draconis](https://studio-draconis.com/)**  
   * _Studio indépendant développant Zodiac Legion, RPG tactique au tour par tour de fantasy inspiré du jeu de rôle sur table (combats en formation, gestion d'escouade, royaume)._
   * **Mots clés**: _jeu indépendant, RPG tactique, tour par tour, console/PC, Zodiac Legion_
@@ -4202,6 +4446,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Studio Nyx](https://www.studio-nyx.com/)**  
+  * _Studio de jeux vidéo et de simulateurs en réalité virtuelle : formation immersive, jumeaux numériques et simulation scientifique (environnements 3D des simulateurs de formation des marins de Naval Group, simulation réaliste des océans), applications pour la culture et le patrimoine._
+  * **Mots clés**: _simulateur, réalité virtuelle, formation immersive, jumeau numérique, serious game, simulation d'océan_
+  * **Localisation**: Gond-Pontouvre
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Simulation
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Sécurité/Défense, Patrimoine/Culture, Jeu Vidéo
+  * [_Jobs_](https://www.studio-nyx.com/jobs)
 
 
 * **[Subsea Tech](https://www.subsea-tech.com/)**  
@@ -4260,6 +4513,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Swing Swing Submarine](https://www.swingswingsubmarine.com/)**  
+  * _Petit studio de jeux vidéo créé en 2009, qui fait des jeux narratifs, de réflexion et d'exploration pour PC et consoles (Blocks That Matter, Seasons after Fall)._
+  * **Mots clés**: _jeu vidéo, jeu indépendant, puzzle, jeu narratif_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Synamedia](https://www.synamedia.com/)**  
   * _Éditeur de solutions de traitement et diffusion vidéo (encodage HEVC/VVC, compression par IA, Quortex Play) disposant d'une équipe R&D à Cesson-Sévigné issue du rachat de Quortex._
   * **Mots clés**: _compression vidéo, streaming, cloud, encodage_
@@ -4279,6 +4540,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+
+
+* **[Synnoïa](https://synnoia.fr/)**  
+  * _Start-up créée en 2024 (Technoparc Krysalide, Eurekatech) qui conçoit des expériences immersives et interactives sur mesure (VR, AR, motion capture, sièges dynamiques), dont l'attraction mobile Voyage en Terre 2 et des attractions pour le Futuroscope et EDF._
+  * **Mots clés**: _expérience immersive, réalité virtuelle, réalité augmentée, motion capture, attraction, photobooth IA_
+  * **Localisation**: Saint-Michel
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, IHM/Haptique
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel, Patrimoine/Culture, Commerce/Marketing/Publicité
 
 
 * **[Synthes'3D](https://www.synthes3d.com/)**  
@@ -4327,6 +4596,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Team Empreintes](https://linktr.ee/empreintes_Studio)**  
+  * _Studio indépendant de jeux non violents et émotionnels, dont le premier jeu Fireside Feelings a été nommé aux Pégases 2025._
+  * **Mots clés**: _jeu vidéo, jeu indépendant, jeu narratif_
+  * **Localisation**: Soyaux
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[TeamTO](https://www.teamto.com)**  
@@ -4525,6 +4802,31 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Toku](https://tokustudio.com/)**  
+  * _Studio de stop motion et mix média (tournage, montage, production déléguée, coproduction, outils et recherche), auteur de la série Bienvenue à Vegetown et de courts métrages._
+  * **Mots clés**: _stop motion, mix média, court métrage, outils_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Toon Factory](https://toonfactory.fr/)**  
+  * _Producteur de séries d'animation jeunesse dont le studio d'Angoulême, installé à Lagora en 2025, assure développement graphique, storyboard et animatique (La Bande à Ducobu pour Canal+ Kids)._
+  * **Mots clés**: _storyboard, animatique, développement graphique, séries jeunesse_
+  * **Localisation**: Gond-Pontouvre, Paris
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Toonkit](https://www.toonkit-studio.com/)**  
+  * _Studio technique spécialisé dans le setup/rigging de personnages 3D livrés clés en main avec leurs outils d'animation (autorig et gestion d'assets maison), prestataire notamment pour Yakari, le film._
+  * **Mots clés**: _rigging, setup, autorig, outils d'animation, gestion d'assets, Maya_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.toonkit-studio.com/carrieres/)
+
+
 * **[TopSolid](https://www.topsolid.com/)** (TopSolid (ex-Missler Software)) 
   * _Éditeur français de logiciels de CAO/FAO intégrés (TopSolid) pour la mécanique, l'outillage, le bois et la tôlerie._
   * **Mots clés**: _CAO, FAO, ERP, industrie/usinage, tôlerie, menuiserie/bois, outillage_
@@ -4590,6 +4892,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
 
 
+* **[Unique Animation](https://uniqueanimation.com/)**  
+  * _Prestataire de production exécutive et de fabrication de séries d'animation 2D numérique haut de gamme, de la préproduction au compositing (Les Sisters, Loup, Viking Skool pour Samka)._
+  * **Mots clés**: _animation 2D, séries TV, production exécutive, compositing_
+  * **Localisation**: Angoulême, Paris
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Unit Image](https://www.unit-image.fr/)**  
   * _Studio d'animation 3D et d'effets visuels (cinématiques de jeux vidéo, séries, publicité)._
   * **Mots clés**: _animation 3D, effets visuels, cinématiques de jeu, publicité, scanner 3D, motion design_
@@ -4618,6 +4928,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Web/Cloud/Big Data, Acquisition
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/uptale/jobs)
+
+
+* **[Utopia](https://www.allutopias.com/)**  
+  * _Studio de jeux et de mods à forte direction artistique (modes de jeu USL! et Slashers), qui développe son premier jeu commercial, le RPG 2D White Week._
+  * **Mots clés**: _jeu vidéo, mods, RPG 2D_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[UVR](https://www.united-vr.com/)** (United Visual Researchers) 
@@ -4859,6 +5177,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Wildblood Studio](https://wildbloodstudio.com/)**  
+  * _Studio de jeux vidéo et de contenus interactifs temps réel (applications ludiques, réalité mixte), qui développe le beat'em up coopératif Gangs of Cats._
+  * **Mots clés**: _jeu vidéo, réalité mixte, beat'em up_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Wintics](https://wintics.com/)**  
   * _Éditeur parisien de logiciels d'analyse vidéo par IA pour la mobilité et la sécurité urbaine (comptage, détection d'événements, aide à l'enquête)._
   * **Mots clés**: _vision par ordinateur, analyse vidéo, deep learning, mobilité_
@@ -4885,6 +5211,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Xishan Studio](https://www.xishan.studio/)**  
+  * _Studio créatif franco-chinois créé en 2024 spécialisé dans le développement visuel (concept art, character design, storyboard, animatique) et la supervision artistique de projets d'animation, de jeu et d'édition._
+  * **Mots clés**: _développement visuel, concept art, storyboard, direction artistique_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+
+
 * **[YellowScan](https://www.yellowscan.com/)**  
   * _Systèmes LiDAR embarqués sur drone pour la cartographie et la topographie_
   * **Mots clés**: _lidar, drone, nuage de points, cartographie, topographie, matériel embarqué_
@@ -4893,6 +5227,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie
   * **Domaine d'application**: Géospatial/Cartographie, Patrimoine/Culture, Architecture/BTP/Urbanisme
   * [_Jobs_](https://www.yellowscan.com/career/)
+
+
+* **[Yorf Studio](https://yorfstudio.com/)**  
+  * _Studio de jeux vidéo installé aux Ateliers Magelis, auteur de jeux mobiles (Z Escape, Zombie Defense) et du jeu VR Super Hyper, ULTRA! pour Meta Quest et Steam._
+  * **Mots clés**: _jeu vidéo, jeu mobile, réalité virtuelle, Meta Quest_
+  * **Localisation**: Angoulême
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
 * **[YZAR](https://yzar.fr/)** (YZAR (Smartbottle)) 

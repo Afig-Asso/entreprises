@@ -275,6 +275,10 @@
             44.9528,
             4.8954
         ],
+        "France/Brie": [
+            45.7254,
+            0.2543
+        ],
         "France/Brignais": [
             45.674,
             4.7541
@@ -379,6 +383,10 @@
             45.1798,
             5.7904
         ],
+        "France/Gond-Pontouvre": [
+            45.6794,
+            0.1638
+        ],
         "France/Grasse": [
             43.6589,
             6.9239
@@ -386,6 +394,14 @@
         "France/Grenoble": [
             45.1876,
             5.7358
+        ],
+        "France/Gujan-Mestras": [
+            44.6181,
+            -1.0769
+        ],
+        "France/Hiersac": [
+            45.6738,
+            0.0083
         ],
         "France/Illkirch-Graffenstaden": [
             48.5299,
@@ -523,6 +539,10 @@
             47.2186,
             -1.5541
         ],
+        "France/Nersac": [
+            45.6246,
+            0.0682
+        ],
         "France/Nice": [
             43.7009,
             7.2684
@@ -651,6 +671,10 @@
             48.8033,
             2.4853
         ],
+        "France/Saint-Michel": [
+            45.6401,
+            0.1104
+        ],
         "France/Saint-M\u00e9dard-en-Jalles": [
             44.8959,
             -0.7171
@@ -690,6 +714,10 @@
         "France/Sophia Antipolis": [
             43.6195,
             7.0518
+        ],
+        "France/Soyaux": [
+            45.6392,
+            0.1982
         ],
         "France/Strasbourg": [
             48.5846,
@@ -2189,6 +2217,15 @@
                     ],
                     "SIREN": "828189795",
                     "Address": "14 Boulevard Chanzy, 93100 Montreuil"
+                },
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.6474,
+                        0.15376
+                    ],
+                    "SIREN": "828189795",
+                    "Address": "25 avenue des Mar\u00e9chaux, 16000 Angoul\u00eame"
                 }
             ],
             "Scientific-domain": [
@@ -9242,6 +9279,15 @@
                     ],
                     "SIREN": "750802522",
                     "Address": "13 Rue Yves Toudic, 75010 Paris"
+                },
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65266,
+                        0.1532
+                    ],
+                    "SIREN": "750802522",
+                    "Address": "97 rue de Bordeaux, 16000 Angoul\u00eame"
                 }
             ],
             "Scientific-domain": [
@@ -9816,6 +9862,15 @@
                     ],
                     "SIREN": "492476635",
                     "Address": "166 Boulevard Voltaire, 75011 Paris"
+                },
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65741,
+                        0.16527
+                    ],
+                    "SIREN": "492476635",
+                    "Address": "20 rue Guy Ragnaud, 16000 Angoul\u00eame"
                 }
             ],
             "Scientific-domain": [
@@ -16824,7 +16879,7 @@
         {
             "Name": "La Station Animation",
             "url": "https://www.lastationanimation.com/",
-            "Description": "Soci\u00e9t\u00e9 de cr\u00e9ation et de fabrication de films et s\u00e9ries d'animation 2D et 3D (t\u00e9l\u00e9vision, cin\u00e9ma, publicit\u00e9), fond\u00e9e \u00e0 Paris en 2002 avec un studio \u00e0 Avignon.",
+            "Description": "Soci\u00e9t\u00e9 de cr\u00e9ation et de fabrication de films et s\u00e9ries d'animation 2D et 3D (t\u00e9l\u00e9vision, cin\u00e9ma, publicit\u00e9), fond\u00e9e \u00e0 Paris en 2002 avec des studios \u00e0 Avignon et Angoul\u00eame.",
             "Info": "Entit\u00e9s LA STATION ANIMATION (441942331) et STATION ANIMATION STUDIOS (530852367), m\u00eame adresse.",
             "Place": [
                 {
@@ -16838,6 +16893,15 @@
                 },
                 {
                     "City": "Avignon"
+                },
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65214,
+                        0.15298
+                    ],
+                    "SIREN": "530852367",
+                    "Address": "51 avenue de Cognac, 16000 Angoul\u00eame"
                 }
             ],
             "Scientific-domain": [
@@ -19185,6 +19249,1341 @@
                 "rendu temps r\u00e9el",
                 "Unreal Engine",
                 "studio LED"
+            ]
+        },
+        {
+            "Name": "Ellipse Animation",
+            "Name-long": "Ellipse Studio Angoul\u00eame (Dargaud Media / M\u00e9dia-Participations)",
+            "url": "https://www.ellipseanimation.com/",
+            "Description": "Studio de fabrication de s\u00e9ries et longs m\u00e9trages d'animation 2D et 3D du groupe M\u00e9dia-Participations (La Famille Blaireau-Renard, Belfort & Lupin, Yakari) ; l'antenne d'Angoul\u00eame d\u00e9veloppe aussi le webtoon (Angoul\u00eame Webtoon Academy).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65324,
+                        0.14677
+                    ],
+                    "SIREN": "385334214",
+                    "Address": "169 rue de Bordeaux, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.89643,
+                        2.37564
+                    ],
+                    "SIREN": "385334214",
+                    "Address": "57 rue Gaston Tessier, 75019 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "s\u00e9ries TV",
+                "long m\u00e9trage",
+                "webtoon"
+            ],
+            "Jobs": "https://www.ellipseanimation.com/careers/"
+        },
+        {
+            "Name": "La Chouette Compagnie",
+            "url": "https://www.chouetteco.com/",
+            "Description": "Producteur et studio de s\u00e9ries d'animation (Droners, Azuro et la brigade des dragons, Dragon Striker) disposant d'un studio de fabrication \u00e0 Angoul\u00eame, incluant animation 2D type anime et compositing.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65549,
+                        0.14901
+                    ],
+                    "SIREN": "808123327",
+                    "Address": "11 rue Traversi\u00e8re Saint-Cybard, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Montreuil",
+                    "Coordinates": [
+                        48.85252,
+                        2.42084
+                    ],
+                    "SIREN": "808123327",
+                    "Address": "41 rue \u00c9mile Zola, 93100 Montreuil"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "anime",
+                "s\u00e9ries TV",
+                "compositing",
+                "production"
+            ],
+            "Jobs": "https://www.chouetteco.com/jobs"
+        },
+        {
+            "Name": "Borderline Films",
+            "Name-long": "Schmuby Productions (Borderline Films)",
+            "url": "https://borderlinefilms.fr/",
+            "Description": "Soci\u00e9t\u00e9 de production et studio de fabrication d'animation 2D et 3D, coproducteur et prestataire de films d'Autour de Minuit (Unicorn Wars, Jean-Michel Super Caribou, La Grande R\u00eavasion) et de Mars Express.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65269,
+                        0.15283
+                    ],
+                    "SIREN": "808538193",
+                    "Address": "101 rue de Bordeaux, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "long m\u00e9trage",
+                "court m\u00e9trage",
+                "coproduction"
+            ]
+        },
+        {
+            "Name": "Silex Animation",
+            "url": "https://www.silexfilms.com/animation/",
+            "Description": "Studio 2D d'Angoul\u00eame cr\u00e9\u00e9 en 2014 par Silex Films, qui fabrique ses s\u00e9ries et films d'animation (Culott\u00e9es, Les QuiQuoi, L'Arm\u00e9e des Romantiques, In Waves).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65945,
+                        0.1423
+                    ],
+                    "SIREN": "830929444",
+                    "Address": "121-125 rue de Saintes, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "s\u00e9ries TV",
+                "long m\u00e9trage",
+                "documentaire anim\u00e9"
+            ]
+        },
+        {
+            "Name": "Normaal Angoul\u00eame",
+            "url": "https://normaal.fr/",
+            "Description": "Studio du producteur Normaal Animation d\u00e9di\u00e9 \u00e0 la fabrication de dessins anim\u00e9s 2D et stop motion (Barbapapa, Zouk, Unicorn Wars en prestation).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65289,
+                        0.15211
+                    ],
+                    "SIREN": "528700925",
+                    "Address": "102 rue de Bordeaux, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "stop motion",
+                "s\u00e9ries TV"
+            ]
+        },
+        {
+            "Name": "Unique Animation",
+            "url": "https://uniqueanimation.com/",
+            "Description": "Prestataire de production ex\u00e9cutive et de fabrication de s\u00e9ries d'animation 2D num\u00e9rique haut de gamme, de la pr\u00e9production au compositing (Les Sisters, Loup, Viking Skool pour Samka).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.63658,
+                        0.15425
+                    ],
+                    "SIREN": "818724346",
+                    "Address": "233 rue de Montmoreau, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.87189,
+                        2.35593
+                    ],
+                    "SIREN": "818724346",
+                    "Address": "32 boulevard de Strasbourg, 75010 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "s\u00e9ries TV",
+                "production ex\u00e9cutive",
+                "compositing"
+            ]
+        },
+        {
+            "Name": "Malil'Art",
+            "Name-long": "Malil'Art Productions",
+            "url": "https://www.malil-art.com/",
+            "Description": "Studio et prestataire d'animation 2D et 3D fond\u00e9 en 2014, sp\u00e9cialis\u00e9 dans la fabrication de s\u00e9ries et films et la mise en place de pipelines de production (Foot 2 Rue, Gus le chevalier minus).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65255,
+                        0.1582
+                    ],
+                    "SIREN": "803856079",
+                    "Address": "6-8 rue de Bordeaux, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "s\u00e9ries TV",
+                "pipeline"
+            ]
+        },
+        {
+            "Name": "Toonkit",
+            "url": "https://www.toonkit-studio.com/",
+            "Description": "Studio technique sp\u00e9cialis\u00e9 dans le setup/rigging de personnages 3D livr\u00e9s cl\u00e9s en main avec leurs outils d'animation (autorig et gestion d'assets maison), prestataire notamment pour Yakari, le film.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64771,
+                        0.16014
+                    ],
+                    "SIREN": "813419652",
+                    "Address": "9 Rempart de l'Est, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "rigging",
+                "setup",
+                "autorig",
+                "outils d'animation",
+                "gestion d'assets",
+                "Maya"
+            ],
+            "Jobs": "https://www.toonkit-studio.com/carrieres/"
+        },
+        {
+            "Name": "Loops Creative Studio",
+            "url": "https://loopscreativestudio.com/",
+            "Description": "Studio d'animation 3D fond\u00e9 en 2022 proposant lookdev, R&D et pipeline temps r\u00e9el (Unreal Engine, Blender, USD) aux producteurs (Les L\u00e9gendaires avec 2 Minutes, Liminals de Pierre Huyghe).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65211,
+                        0.15318
+                    ],
+                    "SIREN": "911263697",
+                    "Address": "49 avenue de Cognac, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ],
+            "Keywords": [
+                "lookdev",
+                "Unreal Engine",
+                "USD",
+                "temps r\u00e9el",
+                "pipeline",
+                "animation 3D"
+            ],
+            "Jobs": "https://loopscreativestudio.com/jobs/"
+        },
+        {
+            "Name": "Les Films du Poisson Rouge",
+            "url": "https://www.lesfilmsdupoissonrouge.com/",
+            "Description": "Studio de production et de cr\u00e9ation de films anim\u00e9s en 2D, 3D et techniques mixtes (longs, courts, documentaires, s\u00e9ries), avec technologies maison (Picasso \u00e0 Royan, Josep).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64642,
+                        0.15475
+                    ],
+                    "SIREN": "509449989",
+                    "Address": "37 rue Louis Desbrandes, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "techniques mixtes",
+                "long m\u00e9trage",
+                "documentaire"
+            ]
+        },
+        {
+            "Name": "Nalu Animation",
+            "url": "https://www.naluanimation.com/",
+            "Description": "Soci\u00e9t\u00e9 de production ex\u00e9cutive et de fabrication d'animation (layout, animation, compositing ; Totally Spies! saison 8, Lana Longuebarbe, Mumfie) qui a ouvert en 2026 un studio aux Ateliers Magelis.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65366,
+                        0.14786
+                    ],
+                    "SIREN": "880414578",
+                    "Address": "Les Ateliers Magelis, 1 rue de Saintes, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Aubervilliers",
+                    "Coordinates": [
+                        48.90512,
+                        2.37667
+                    ],
+                    "SIREN": "880414578",
+                    "Address": "14 rue Pierre Larousse, 93300 Aubervilliers"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "production ex\u00e9cutive",
+                "layout",
+                "animation",
+                "compositing",
+                "s\u00e9ries TV"
+            ]
+        },
+        {
+            "Name": "Toku",
+            "url": "https://tokustudio.com/",
+            "Description": "Studio de stop motion et mix m\u00e9dia (tournage, montage, production d\u00e9l\u00e9gu\u00e9e, coproduction, outils et recherche), auteur de la s\u00e9rie Bienvenue \u00e0 Vegetown et de courts m\u00e9trages.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65357,
+                        0.14583
+                    ],
+                    "SIREN": "921868527",
+                    "Address": "4 rue Maurice Utrillo, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "stop motion",
+                "mix m\u00e9dia",
+                "court m\u00e9trage",
+                "outils"
+            ]
+        },
+        {
+            "Name": "Bulwark Studios",
+            "url": "http://www.bulwarkstudios.com/",
+            "Description": "Studio ind\u00e9pendant de jeux vid\u00e9o fond\u00e9 en 2012, sp\u00e9cialis\u00e9 dans la strat\u00e9gie et la tactique, d\u00e9veloppeur de Warhammer 40,000 Mechanicus et de sa suite Mechanicus II.",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.67006,
+                        0.16059
+                    ],
+                    "SIREN": "789518412",
+                    "Address": "144 Route de Vars, 16160 Gond-Pontouvre"
+                },
+                {
+                    "City": "Brie",
+                    "Coordinates": [
+                        45.73902,
+                        0.25839
+                    ],
+                    "SIREN": "789518412",
+                    "Address": "Chemin du Vieux Maine, 16590 Brie"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu de strat\u00e9gie",
+                "tactique au tour par tour",
+                "PC",
+                "consoles"
+            ]
+        },
+        {
+            "Name": "Kalank Games",
+            "url": "https://kalank.games/",
+            "Description": "Studio de jeux vid\u00e9o et \u00e9diteur fond\u00e9 en 2017, qui d\u00e9veloppe ses propres jeux et fait du co-d\u00e9veloppement sous Unity et Unreal (Toko Toko, Winky Play, Miraculous Rise of the Sphinx), ainsi que des exp\u00e9riences VR/AR (Quest, Vive, Apple Vision Pro).",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.67006,
+                        0.16059
+                    ],
+                    "SIREN": "828848234",
+                    "Address": "Lagora, 144 Route de Vars, 16160 Gond-Pontouvre"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "co-d\u00e9veloppement",
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "Unity",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Studio Nyx",
+            "url": "https://www.studio-nyx.com/",
+            "Description": "Studio de jeux vid\u00e9o et de simulateurs en r\u00e9alit\u00e9 virtuelle : formation immersive, jumeaux num\u00e9riques et simulation scientifique (environnements 3D des simulateurs de formation des marins de Naval Group, simulation r\u00e9aliste des oc\u00e9ans), applications pour la culture et le patrimoine.",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.67006,
+                        0.16059
+                    ],
+                    "SIREN": "800541757",
+                    "Address": "144 Route de Vars, 16160 Gond-Pontouvre"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Patrimoine/Culture",
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "simulateur",
+                "r\u00e9alit\u00e9 virtuelle",
+                "formation immersive",
+                "jumeau num\u00e9rique",
+                "serious game",
+                "simulation d'oc\u00e9an"
+            ],
+            "Jobs": "https://www.studio-nyx.com/jobs"
+        },
+        {
+            "Name": "Rebound",
+            "url": "https://www.reboundcg.com/",
+            "Description": "Studio de d\u00e9veloppement et d'\u00e9dition de jeux vid\u00e9o fond\u00e9 en 2017 (Rebound Capital Games), auteur de la s\u00e9rie Tennis Manager et du roguelite Furyball Rogue Revenge, qui propose aussi du d\u00e9veloppement pour d'autres studios.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65269,
+                        0.14539
+                    ],
+                    "SIREN": "829669498",
+                    "Address": "197 Rue de Bordeaux, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.87745,
+                        2.29206
+                    ],
+                    "SIREN": "829669498",
+                    "Address": "6 Rue d'Armaill\u00e9, 75017 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "\u00e9dition",
+                "jeu de sport",
+                "Tennis Manager",
+                "roguelite"
+            ],
+            "Employees": 15
+        },
+        {
+            "Name": "Hibernian Workshop",
+            "url": "https://hibernian-workshop.com/",
+            "Description": "Studio de jeux vid\u00e9o fond\u00e9 en 2017, auteur de jeux d'action en pixel art Dark Devotion et Astral Ascent (PC, Switch, PlayStation), et de l'action-RPG Fallen Fates en d\u00e9veloppement.",
+            "Place": [
+                {
+                    "City": "Soyaux",
+                    "Coordinates": [
+                        45.64433,
+                        0.18185
+                    ],
+                    "SIREN": "831834122",
+                    "Address": "12 Avenue du G\u00e9n\u00e9ral de Gaulle, 16800 Soyaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "pixel art",
+                "roguelite",
+                "action-RPG",
+                "consoles"
+            ]
+        },
+        {
+            "Name": "La Poule Noire",
+            "url": "https://www.lapoulenoire.fr/",
+            "Description": "Coop\u00e9rative de jeux vid\u00e9o fond\u00e9e en 2018 par d'anciens \u00e9l\u00e8ves de l'Enjmin, qui cr\u00e9e des jeux narratifs humoristiques (To Hell With The Ugly, Looking For Fael, Edgar Bokbok in Boulzac) et fait de la prestation pour d'autres studios.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64856,
+                        0.16299
+                    ],
+                    "SIREN": "837480318",
+                    "Address": "16 Rue Raymond Poincar\u00e9, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu narratif",
+                "coop\u00e9rative",
+                "consoles",
+                "PC"
+            ]
+        },
+        {
+            "Name": "Swing Swing Submarine",
+            "url": "https://www.swingswingsubmarine.com/",
+            "Description": "Petit studio de jeux vid\u00e9o cr\u00e9\u00e9 en 2009, qui fait des jeux narratifs, de r\u00e9flexion et d'exploration pour PC et consoles (Blocks That Matter, Seasons after Fall).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64739,
+                        0.17682
+                    ],
+                    "SIREN": "523859379",
+                    "Address": "186 Rue Alfred de Vigny, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu ind\u00e9pendant",
+                "puzzle",
+                "jeu narratif"
+            ]
+        },
+        {
+            "Name": "Headbang Club",
+            "url": "https://headbang.club/",
+            "Description": "Collectif de d\u00e9veloppeurs ind\u00e9pendants, cr\u00e9ateur du jeu d'action musical metal Double Kick Heroes, qui fait aussi de la prestation (contribution \u00e0 Warhammer 40,000 Mechanicus).",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.66327,
+                        0.17062
+                    ],
+                    "SIREN": "824464127",
+                    "Address": "15 Rue Ferdinand Buisson, 16160 Gond-Pontouvre"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "pixel art",
+                "prestation",
+                "Unity"
+            ]
+        },
+        {
+            "Name": "Seed by Seed",
+            "url": "https://www.seedbyseed.studio/",
+            "Description": "Studio ind\u00e9pendant de jeux vid\u00e9o cr\u00e9\u00e9 en 2018 pour d\u00e9velopper Pile Up!, un jeu de plateforme coop\u00e9ratif en 3D.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65936,
+                        0.16737
+                    ],
+                    "SIREN": "848566782",
+                    "Address": "7 Boulevard du 8 Mai 1945, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu coop\u00e9ratif",
+                "plateforme 3D"
+            ]
+        },
+        {
+            "Name": "Yorf Studio",
+            "url": "https://yorfstudio.com/",
+            "Description": "Studio de jeux vid\u00e9o install\u00e9 aux Ateliers Magelis, auteur de jeux mobiles (Z Escape, Zombie Defense) et du jeu VR Super Hyper, ULTRA! pour Meta Quest et Steam.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65366,
+                        0.14786
+                    ],
+                    "SIREN": "894230002",
+                    "Address": "Ateliers Magelis, 1 Rue de Saintes, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu mobile",
+                "r\u00e9alit\u00e9 virtuelle",
+                "Meta Quest"
+            ]
+        },
+        {
+            "Name": "Opia Games",
+            "url": "https://store.steampowered.com/app/3524780/",
+            "Description": "Studio ind\u00e9pendant install\u00e9 aux Ateliers Magelis, auteur du jeu de plateforme 3D The Lone Blade (2023) et du FPS Sydless (2026).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65366,
+                        0.14786
+                    ],
+                    "SIREN": "951470715",
+                    "Address": "Ateliers Magelis, 1 Rue de Saintes, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu 3D",
+                "FPS",
+                "plateforme"
+            ]
+        },
+        {
+            "Name": "Purple Meadows",
+            "url": "https://www.purple-meadows.com/",
+            "Description": "Studio de jeux narratifs \u00e0 forte direction artistique, inspir\u00e9s des contes et de la dark fantasy, qui d\u00e9veloppe Blue Bird's Song et fait de la prestation.",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.66327,
+                        0.17062
+                    ],
+                    "SIREN": "917393985",
+                    "Address": "15 Rue Ferdinand Buisson, 16160 Gond-Pontouvre"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu narratif",
+                "prestation"
+            ]
+        },
+        {
+            "Name": "Utopia",
+            "url": "https://www.allutopias.com/",
+            "Description": "Studio de jeux et de mods \u00e0 forte direction artistique (modes de jeu USL! et Slashers), qui d\u00e9veloppe son premier jeu commercial, le RPG 2D White Week.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64883,
+                        0.16107
+                    ],
+                    "SIREN": "927888941",
+                    "Address": "15 Rue Jean Fougerat, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "mods",
+                "RPG 2D"
+            ]
+        },
+        {
+            "Name": "Novo3D",
+            "url": "http://www.novo3d.fr/",
+            "Description": "Soci\u00e9t\u00e9 angoumoise fond\u00e9e en 2013, sp\u00e9cialis\u00e9e dans les environnements 3D temps r\u00e9el et la r\u00e9alit\u00e9 virtuelle (mus\u00e9es virtuels, restitutions de sites patrimoniaux disparus, visioguides VR), issue de la pr\u00e9visualisation architecturale.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65366,
+                        0.14786
+                    ],
+                    "SIREN": "797776465",
+                    "Address": "Ateliers Magelis, 1 rue de Saintes, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Patrimoine/Culture",
+                "Loisir Interactif/Immersion/Metavers",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "3D temps r\u00e9el",
+                "r\u00e9alit\u00e9 virtuelle",
+                "mus\u00e9e virtuel",
+                "restitution patrimoniale",
+                "visite virtuelle"
+            ]
+        },
+        {
+            "Name": "Synno\u00efa",
+            "url": "https://synnoia.fr/",
+            "Description": "Start-up cr\u00e9\u00e9e en 2024 (Technoparc Krysalide, Eurekatech) qui con\u00e7oit des exp\u00e9riences immersives et interactives sur mesure (VR, AR, motion capture, si\u00e8ges dynamiques), dont l'attraction mobile Voyage en Terre 2 et des attractions pour le Futuroscope et EDF.",
+            "Place": [
+                {
+                    "City": "Saint-Michel",
+                    "Coordinates": [
+                        45.63065,
+                        0.11658
+                    ],
+                    "SIREN": "932374556",
+                    "Address": "Technoparc Krysalide, 70 rue Jean Doucet, 16470 Saint-Michel"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Art/Evenementiel",
+                "Patrimoine/Culture",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "exp\u00e9rience immersive",
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "motion capture",
+                "attraction",
+                "photobooth IA"
+            ]
+        },
+        {
+            "Name": "Goupil Technology",
+            "url": "https://goupil.technology/",
+            "Description": "\u00c9diteur de logiciels XR cr\u00e9\u00e9 fin 2023 (incub\u00e9 par Eurekatech) : formation immersive en VR (UNI VR SITY), vid\u00e9o 360\u00b0 interactive (ARGOS 360), jumeaux num\u00e9riques connect\u00e9s aux machines, photogramm\u00e9trie et visites virtuelles.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64647,
+                        0.17012
+                    ],
+                    "SIREN": "982031635",
+                    "Address": "8 boulevard Liedot, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Reconstruction",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 \u00e9tendue",
+                "formation immersive",
+                "jumeau num\u00e9rique",
+                "vid\u00e9o 360",
+                "photogramm\u00e9trie",
+                "visite virtuelle"
+            ]
+        },
+        {
+            "Name": "Miyu Productions",
+            "url": "https://www.miyu.fr/",
+            "Description": "Soci\u00e9t\u00e9 de production sp\u00e9cialis\u00e9e en animation (courts, s\u00e9ries, longs) disposant d'un studio de fabrication \u00e0 Angoul\u00eame, aux c\u00f4t\u00e9s de Paris et Valence.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64902,
+                        0.15619
+                    ],
+                    "SIREN": "512431800",
+                    "Address": "14 place de l'H\u00f4tel de Ville, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.8717,
+                        2.35315
+                    ],
+                    "SIREN": "512431800",
+                    "Address": "4 rue d'Enghien, 75010 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "court m\u00e9trage",
+                "s\u00e9ries",
+                "production"
+            ]
+        },
+        {
+            "Name": "Toon Factory",
+            "url": "https://toonfactory.fr/",
+            "Description": "Producteur de s\u00e9ries d'animation jeunesse dont le studio d'Angoul\u00eame, install\u00e9 \u00e0 Lagora en 2025, assure d\u00e9veloppement graphique, storyboard et animatique (La Bande \u00e0 Ducobu pour Canal+ Kids).",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.67006,
+                        0.16059
+                    ],
+                    "Address": "Lagora, 144 route de Vars, 16160 Gond-Pontouvre"
+                },
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.8624,
+                        2.37381
+                    ],
+                    "SIREN": "422945782",
+                    "Address": "20 rue de la Folie-M\u00e9ricourt, 75011 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "storyboard",
+                "animatique",
+                "d\u00e9veloppement graphique",
+                "s\u00e9ries jeunesse"
+            ]
+        },
+        {
+            "Name": "Atlantiz Park",
+            "url": "https://www.atlantizpark.com/",
+            "Description": "Studio d'animation 2D (traditionnelle, num\u00e9rique, cut-out) d'une trentaine d'artistes, du storyboard au compositing, pour s\u00e9ries, documentaires, courts/longs m\u00e9trages et clips.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64828,
+                        0.16111
+                    ],
+                    "SIREN": "524723335",
+                    "Address": "1 rue Ren\u00e9 Goscinny, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Gujan-Mestras",
+                    "Coordinates": [
+                        44.63922,
+                        -1.0922
+                    ],
+                    "SIREN": "524723335",
+                    "Address": "69 avenue de Meyran, 33470 Gujan-Mestras"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "storyboard",
+                "compositing",
+                "Toon Boom Harmony",
+                "Blender"
+            ]
+        },
+        {
+            "Name": "Frigo Films",
+            "url": "https://frigofilms.fr/",
+            "Description": "Studio d'animation fond\u00e9 en 2024 par cinq associ\u00e9s aux Ateliers Magelis, travaillant en 2D, stop motion, aquarelle et papier d\u00e9coup\u00e9.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65366,
+                        0.14786
+                    ],
+                    "SIREN": "984260174",
+                    "Address": "Les Ateliers Magelis, 1 rue de Saintes, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "stop motion",
+                "papier d\u00e9coup\u00e9",
+                "court m\u00e9trage"
+            ]
+        },
+        {
+            "Name": "Xishan Studio",
+            "url": "https://www.xishan.studio/",
+            "Description": "Studio cr\u00e9atif franco-chinois cr\u00e9\u00e9 en 2024 sp\u00e9cialis\u00e9 dans le d\u00e9veloppement visuel (concept art, character design, storyboard, animatique) et la supervision artistique de projets d'animation, de jeu et d'\u00e9dition.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64643,
+                        0.15792
+                    ],
+                    "SIREN": "934602137",
+                    "Address": "56 rue de l'Arsenal, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "d\u00e9veloppement visuel",
+                "concept art",
+                "storyboard",
+                "direction artistique"
+            ]
+        },
+        {
+            "Name": "Studio Corto",
+            "Name-long": "Studio Corto (LFxSC, Lesterfilm x Studio Corto)",
+            "url": "https://studiocorto.com/",
+            "Description": "Studio de post-production image et son install\u00e9 \u00e0 Lagora (VFX, compositing, motion design, \u00e9talonnage, restauration/colorisation 2K-8K, mixage) pour le cin\u00e9ma et les s\u00e9ries.",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.67006,
+                        0.16059
+                    ],
+                    "SIREN": "952833713",
+                    "Address": "144 route de Vars, 16160 Gond-Pontouvre"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "post-production",
+                "VFX",
+                "compositing",
+                "\u00e9talonnage",
+                "restauration",
+                "colorisation"
+            ]
+        },
+        {
+            "Name": "Team Empreintes",
+            "url": "https://linktr.ee/empreintes_Studio",
+            "Description": "Studio ind\u00e9pendant de jeux non violents et \u00e9motionnels, dont le premier jeu Fireside Feelings a \u00e9t\u00e9 nomm\u00e9 aux P\u00e9gases 2025.",
+            "Place": [
+                {
+                    "City": "Soyaux",
+                    "Coordinates": [
+                        45.63735,
+                        0.17495
+                    ],
+                    "SIREN": "832900013",
+                    "Address": "3 Route de Saint-Marc, 16800 Soyaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu ind\u00e9pendant",
+                "jeu narratif"
+            ]
+        },
+        {
+            "Name": "Distant Shore",
+            "url": "https://store.steampowered.com/app/3892370/",
+            "Description": "Studio ind\u00e9pendant qui d\u00e9veloppe et \u00e9dite Distant Shore BRETAGNE, un jeu de plateforme sandbox de science-fiction \u00e0 la premi\u00e8re personne (d\u00e9mo sur Steam).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65168,
+                        0.14929
+                    ],
+                    "SIREN": "927563569",
+                    "Address": "16 Place du Petit Beaulieu, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu 3D",
+                "plateforme",
+                "premi\u00e8re personne"
+            ]
+        },
+        {
+            "Name": "Rekka Games",
+            "url": "https://braveryandgreed.com/",
+            "Description": "Studio fond\u00e9 par deux anciens \u00e9l\u00e8ves de l'Enjmin, d\u00e9veloppeur du beat'em up roguelite coop\u00e9ratif Bravery and Greed (\u00e9dit\u00e9 par Team17 en 2022 sur PC et consoles).",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.66701,
+                        0.16082
+                    ],
+                    "SIREN": "920076544",
+                    "Address": "108 Route de Vars, 16160 Gond-Pontouvre"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "roguelite",
+                "beat'em up",
+                "pixel art"
+            ]
+        },
+        {
+            "Name": "Aurora Game Studio",
+            "url": "https://auroragamestudio.com/",
+            "Description": "Studio fond\u00e9 en 2016 qui cr\u00e9e des jeux vid\u00e9o et des jeux de plateau, dont le point-and-click Nefasto's Misadventure (Steam, Switch).",
+            "Place": [
+                {
+                    "City": "Gond-Pontouvre",
+                    "Coordinates": [
+                        45.67006,
+                        0.16059
+                    ],
+                    "SIREN": "819782467",
+                    "Address": "144 Route de Vars, 16160 Gond-Pontouvre"
+                },
+                {
+                    "City": "Hiersac",
+                    "Coordinates": [
+                        45.66988,
+                        0.01369
+                    ],
+                    "SIREN": "819782467",
+                    "Address": "63 Route d'Angoul\u00eame, 16290 Hiersac"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "point-and-click",
+                "jeu de plateau"
+            ]
+        },
+        {
+            "Name": "Novark Entertainment",
+            "url": "https://www.novarkentertainment.com/",
+            "Description": "Jeune studio fond\u00e9 en 2024 qui d\u00e9veloppe son premier jeu narratif (Rise//Protocol, 2e promotion de l'incubateur jeu vid\u00e9o de Magelis) et propose des services \u00e0 d'autres studios.",
+            "Place": [
+                {
+                    "City": "Saint-Michel",
+                    "Coordinates": [
+                        45.63903,
+                        0.10564
+                    ],
+                    "SIREN": "987548146",
+                    "Address": "2 R\u00e9sidence Les Jardins de Saint-Michel, 16470 Saint-Michel"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu narratif",
+                "incubateur Magelis"
+            ]
+        },
+        {
+            "Name": "Wildblood Studio",
+            "url": "https://wildbloodstudio.com/",
+            "Description": "Studio de jeux vid\u00e9o et de contenus interactifs temps r\u00e9el (applications ludiques, r\u00e9alit\u00e9 mixte), qui d\u00e9veloppe le beat'em up coop\u00e9ratif Gangs of Cats.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.64405,
+                        0.16679
+                    ],
+                    "SIREN": "983238924",
+                    "Address": "10 Rue du Tivoli, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "r\u00e9alit\u00e9 mixte",
+                "beat'em up"
+            ]
+        },
+        {
+            "Name": "7-Shapes",
+            "url": "https://www.7-shapes.com/",
+            "Description": "Entreprise fond\u00e9e en 2017 qui d\u00e9veloppe et \u00e9dite la 7-Shapes School, un serious game de simulation d'entreprise (Unity/WebGL) pour former au Lean Management dans l'industrie.",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65269,
+                        0.14539
+                    ],
+                    "SIREN": "825097223",
+                    "Address": "197 Rue de Bordeaux, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "serious game",
+                "lean management",
+                "formation en ligne",
+                "simulation d'entreprise"
+            ]
+        },
+        {
+            "Name": "Broad Studios",
+            "url": "https://www.broad-studios.fr/",
+            "Description": "Soci\u00e9t\u00e9 de production audiovisuelle charentaise qui propose tournage (dont drone FPV), effets sp\u00e9ciaux, animation 3D et photogramm\u00e9trie pour l'\u00e9v\u00e9nementiel, la publicit\u00e9 et le cin\u00e9ma (making of de Voyage en Terre de Cognac).",
+            "Place": [
+                {
+                    "City": "Nersac",
+                    "Coordinates": [
+                        45.61085,
+                        0.04566
+                    ],
+                    "SIREN": "979629201",
+                    "Address": "29 rue de Chez Bernier, 16440 Nersac"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Art/Evenementiel"
+            ],
+            "Keywords": [
+                "VFX",
+                "animation 3D",
+                "photogramm\u00e9trie",
+                "drone",
+                "production vid\u00e9o"
             ]
         }
     ]
