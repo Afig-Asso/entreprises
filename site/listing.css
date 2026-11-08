@@ -504,7 +504,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .view-graph .tag-legend { display: none; }
 
 /* ======================================================================
-   Vue Graphe : grappes d'entreprises proches (pensée pour écran large)
+   Vue Graphe : cercles imbriqués (grappes > sous-grappes > entreprises), zoom continu
    ====================================================================== */
 .graph-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; margin: 0.25rem 0 0.6rem; font-size: 0.88rem; }
 .graph-toolbar label { color: var(--muted); }
@@ -512,9 +512,66 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .graph-crumb { color: var(--muted); margin-left: 0.75rem; }
 .graph-crumb [aria-current] { color: var(--text); font-weight: 600; }
 .graph-crumb-link { font: inherit; border: 0; background: none; padding: 0; color: var(--afig-700); text-decoration: underline; cursor: pointer; }
-.graph-svg { display: block; width: 100%; height: auto; background: #fbfcf9; border: 1px solid var(--line); border-radius: var(--radius); }
+.graph-stage { position: relative; }
+.graph-svg { display: block; width: 100%; height: auto; background: #fbfcf9; border: 1px solid var(--line); border-radius: var(--radius); user-select: none; -webkit-tap-highlight-color: transparent; }
 .graph-svg text { font-family: var(--font); font-size: 11px; fill: var(--text-2); pointer-events: none; }
-.graph-cluster-label { font-size: 12.5px !important; font-weight: 700; fill: var(--text) !important; paint-order: stroke; stroke: #fbfcf9; stroke-width: 4px; }
+.graph-bg { fill: transparent; }
+.graph-svg.can-go-up { cursor: zoom-out; }
+/* cercles : une seule teinte, plus soutenue en profondeur */
+.graph-pack circle { transition: opacity 0.35s ease, fill-opacity 0.35s ease; stroke-width: 1px; }
+.graph-root { fill: white; stroke: var(--line-2); }
+.graph-group { stroke: #6f8f12; stroke-opacity: 0.45; }
+.graph-group.depth-1 { fill: #eef5dc; }
+.graph-group.depth-2 { fill: #dcebb5; }
+.graph-group.depth-3 { fill: #c9df8f; }
+.graph-group.depth-4 { fill: #b6d36c; }
+.graph-group.is-single { fill: #f1f2ee; stroke: var(--border); stroke-dasharray: 4 3; }
+.graph-group.in-single { fill: #e3e6dc; stroke: var(--border); }
+.graph-group.in-single.depth-3, .graph-group.in-single.depth-4 { fill: #d4d9cb; }
+.graph-company-dot { fill: var(--afig-700); stroke: white; stroke-width: 0.8px; }
+.graph-company-dot.is-unknown { fill: white; stroke: var(--afig-700); stroke-dasharray: 2 2; }
+.graph-pack .is-deep { opacity: 0; pointer-events: none; }
+.graph-pack .is-outside { opacity: 0.3; cursor: zoom-out; }
+.graph-pack .is-level { cursor: zoom-in; }
+.graph-pack .graph-company-dot.is-level { cursor: pointer; }
+.graph-pack .is-inner { cursor: zoom-in; }
+.graph-pack .graph-group.is-inner { stroke-opacity: 0.3; }
+.graph-pack .graph-company-dot.is-inner { opacity: 0.55; }
+.graph-pack .is-level.is-hover { stroke: var(--afig-800); stroke-width: 2.5px; stroke-opacity: 1; }
+.graph-pack .graph-company-dot.is-level.is-hover { fill: var(--afig-800); stroke: var(--ink); }
+.graph-pack circle:focus { outline: none; }
+.graph-pack circle:focus-visible { stroke: var(--ink); stroke-width: 3px; stroke-opacity: 1; }
+.graph-labels text { paint-order: stroke; stroke: rgba(255, 255, 255, 0.85); stroke-width: 3.5px; stroke-linejoin: round; animation: graph-enter 0.25s ease-out; }
+.graph-svg .graph-group-label { font-size: 12px; font-weight: 700; fill: var(--text); }
+.graph-svg .graph-count { font-size: 11px; fill: var(--muted); }
+.graph-svg .graph-leaf-label { font-size: 11px; fill: var(--text); }
+.graph-svg.is-zooming { pointer-events: none; }
+.graph-svg.is-zooming .graph-labels { display: none; }
+.graph-svg.is-entering > g { animation: graph-enter 0.3s ease-out; }
+@keyframes graph-enter { from { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+    .graph-svg.is-entering > g, .graph-labels text { animation: none; }
+    .graph-pack circle { transition: none; }
+}
+.graph-up {
+    position: absolute; top: 8px; left: 8px; max-width: calc(100% - 16px);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    min-height: 32px; padding: 0 0.85rem; border: 1px solid var(--line-2); border-radius: 999px;
+    background: white; box-shadow: var(--shadow-sm); font: inherit; font-size: 0.82rem; font-weight: 600; color: var(--text-2); cursor: pointer;
+}
+.graph-up:hover, .graph-up:focus-visible { border-color: var(--afig-600); background: var(--afig-50); color: var(--text); }
+.graph-up[hidden] { display: none; }
+.graph-tip {
+    position: absolute; z-index: 2; max-width: 280px; padding: 0.45rem 0.65rem; pointer-events: none;
+    background: white; border: 1px solid var(--line-2); border-radius: 8px; box-shadow: var(--shadow-md);
+    font-size: 0.8rem; line-height: 1.45; color: var(--text-2);
+}
+.graph-tip[hidden] { display: none; }
+.graph-tip strong { color: var(--text); }
+.graph-tip-tags { color: var(--afig-800); }
+.graph-tip-hint { color: var(--muted); font-size: 0.75rem; }
+@media (hover: none) { .graph-tip { display: none; } }
+/* vue des voisines d'une entreprise */
 .graph-node { cursor: pointer; }
 .graph-node .graph-node-label { display: none; paint-order: stroke; stroke: #fbfcf9; stroke-width: 3px; }
 .graph-node .graph-node-label.is-named, .graph-node:hover .graph-node-label, .graph-node:focus-visible .graph-node-label { display: inline; }
@@ -522,25 +579,28 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .graph-node:focus-visible { outline: none; }
 .graph-node:focus-visible circle { stroke: var(--ink); stroke-width: 3px; }
 .graph-node.is-center { cursor: default; }
-.graph-node.is-dim, .graph-hull.is-dim { opacity: 0.18; }
+.graph-node.is-dim { opacity: 0.18; }
 .graph-link.is-active { stroke: #534AB7; stroke-opacity: 0.9; }
-.graph-hull.is-zoomable { cursor: zoom-in; }
-.graph-hull.is-zoomable:hover { fill-opacity: 0.18; stroke-opacity: 0.8; }
-.graph-svg .graph-cluster-label.is-zoomable { pointer-events: auto; cursor: zoom-in; }
-.graph-cluster-label.is-zoomable:hover { text-decoration: underline; }
-.graph-cluster-label:focus { outline: none; }
-.graph-cluster-label:focus-visible { fill: var(--afig-800) !important; text-decoration: underline; }
-.graph-svg.is-zooming { pointer-events: none; }
-.graph-svg.is-entering > g { animation: graph-enter 0.3s ease-out; }
-@keyframes graph-enter { from { opacity: 0; } }
-@media (prefers-reduced-motion: reduce) { .graph-svg.is-entering > g { animation: none; } }
+/* texte et liste sous le dessin */
 .graph-zoom { font: inherit; font-weight: 700; border: 0; background: none; padding: 0; color: var(--text); cursor: zoom-in; text-align: left; }
 .graph-zoom:hover, .graph-zoom:focus-visible { color: var(--afig-800); text-decoration: underline; }
 .graph-info { font-size: 0.88rem; color: var(--text-2); line-height: 1.55; margin: 0.75rem 0 0.4rem; }
 .graph-keywords { color: var(--afig-800); }
 .graph-legend { margin: 0.5rem 0 0; font-size: 0.82rem; color: var(--muted); }
+.graph-key { display: inline-flex; align-items: center; gap: 5px; margin-right: 1rem; white-space: nowrap; }
+.graph-key-group { display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: #dcebb5; border: 1px solid rgba(111, 143, 18, 0.6); }
+.graph-key-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: var(--afig-700); }
+.graph-key-dot.is-unknown { background: white; border: 1px dashed var(--afig-700); }
 .graph-swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin: 0 4px 0 8px; vertical-align: -1px; }
-.graph-row > .graph-swatch { margin: 4px 0 0; }
+.graph-row > .graph-swatch { margin: 3px 0 0; width: 13px; height: 13px; border-radius: 50%; border: 1px solid rgba(111, 143, 18, 0.6); }
+.graph-swatch.depth-1 { background: #eef5dc; }
+.graph-swatch.depth-2 { background: #dcebb5; }
+.graph-swatch.depth-3 { background: #c9df8f; }
+.graph-swatch.depth-4 { background: #b6d36c; }
+.graph-swatch.is-single { background: #f1f2ee; border: 1px dashed var(--border); }
+.graph-row > .graph-swatch.in-single { background: #e3e6dc; border-color: var(--border); }
+.graph-row > .graph-swatch.is-company { width: 9px; height: 9px; margin: 5px 2px 0; background: var(--afig-700); border: 0; }
+.graph-row > .graph-swatch.is-company.is-unknown { background: white; border: 1px dashed var(--afig-700); }
 .graph-rows { display: flex; flex-direction: column; gap: 2px; }
 .graph-row { display: grid; grid-template-columns: 14px minmax(180px, 280px) minmax(0, 1fr); gap: 0.75rem; align-items: start; padding: 0.4rem 0.5rem; border-radius: 8px; font-size: 0.84rem; }
 .graph-row.is-neighbor { grid-template-columns: minmax(170px, 230px) 150px minmax(0, 1fr); }
@@ -555,6 +615,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 @media (max-width: 700px) {
     .graph-row, .graph-row.is-neighbor { grid-template-columns: 1fr; gap: 0.2rem; }
     .graph-row > .graph-swatch { display: none; }
+    .graph-crumb { margin-left: 0; flex-basis: 100%; }
 }
 .map-view[hidden] { display: none; }
 .map-frames { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 0.6rem; }

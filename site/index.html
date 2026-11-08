@@ -111,7 +111,11 @@
                 <select id="graph-zone"></select>
                 <nav id="graph-crumb" class="graph-crumb" aria-label="Chemin dans le graphe"></nav>
             </div>
-            <svg id="graph-svg" class="graph-svg" role="group" aria-label="Graphe des entreprises proches"></svg>
+            <div id="graph-stage" class="graph-stage">
+                <svg id="graph-svg" class="graph-svg" role="group" aria-label="Grappes d'entreprises proches : cercles imbriqués, cliquer un cercle pour y entrer, Échap pour remonter"></svg>
+                <button type="button" id="graph-up" class="graph-up" hidden></button>
+                <div id="graph-tip" class="graph-tip" hidden></div>
+            </div>
             <div id="graph-info" class="graph-info" role="status"></div>
             <div id="graph-rows" class="graph-rows"></div>
         </div>
