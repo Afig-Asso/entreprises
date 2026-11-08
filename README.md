@@ -1865,7 +1865,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
-* **[Holo3](https://www.holo3-rv.com/)**  
+* **[Holo3](https://holo3.com/)**  
   * _Centre de ressources technologiques de Saint-Louis spécialisé en métrologie optique, avec une équipe de réalité virtuelle qui développe des applications VR pour l'industrie, l'architecture et la formation._
   * **Mots clés**: _réalité virtuelle, jumeau numérique, métrologie optique_
   * **Localisation**: Saint-Louis
