@@ -1,55 +1,81 @@
-![URLs](https://github.com/Afig-Asso/entreprises/actions/workflows/url.yml/badge.svg) 
+![URLs](https://github.com/Afig-Asso/entreprises/actions/workflows/url.yml/badge.svg)
 
-# Listing d'entreprises en Informatique Graphique 
+# Listing d'entreprises en Informatique Graphique
 
-## Compléter/Modifier les informations 
-  - Envoyez un email à contact[at]asso-afig.fr avec vos informations
-  - Ou faites un push-request sur le dépot.
-    - _Pour cela: Modifiez le fichier **data.yaml** pour ajouter/modifier les informations d'une entreprise._
-    - _Les fichiers README.md, et json/data.json sont générés automatiquement à partir de data.yaml, il est donc inutile de les modifier._
+Entreprises françaises, ou présentes en France, en lien avec l'informatique graphique : rendu, VFX, animation, jeu vidéo, CAO, simulation, vision, XR... Listing maintenu par l'[AFIG](https://www.asso-afig.fr).
 
-## Utilisation de la base en locale 
+**Consulter le listing en ligne** (recherche, filtres par thème et par taille, vues liste, carte et graphe) :
+- sur le site de l'AFIG : https://www.asso-afig.fr/site/entreprises/
+- ou directement : https://afig-asso.github.io/entreprises/
 
-  - `data.yaml`: Base de données des entreprises 
-  - `keywords.yaml`: Mots clés 
-  - `url_exceptions.yaml`: URLs ignorées par la vérification d'accessibilité (avec la raison et la date d'ajout)
-  - `zones.yaml`: Regroupement des villes françaises en zones (ex. Villeurbanne avec Lyon) pour la vue par localité du site
+Le listing complet est aussi disponible plus bas dans ce fichier ([aller au listing](#listing)).
 
-### Générer un site après modification: 
+## Ajouter ou modifier une entreprise
+
+- Envoyez un email à contact[at]asso-afig.fr avec les informations,
+- ou proposez une pull request qui modifie uniquement **`data.yaml`**. Les champs possibles sont décrits en tête de ce fichier.
+
+`README.md` et `json/data.json` sont générés à partir de `data.yaml` : inutile de les modifier à la main.
+
+## Maintenance
+
+### Fichiers
+
+| Fichier | Contenu |
+|---|---|
+| `data.yaml` | Base des entreprises (la syntaxe des champs est décrite en tête du fichier) |
+| `keywords.yaml` | Mots-clés autorisés pour les domaines scientifiques et d'application |
+| `places.yaml` | Coordonnées des villes et pays, pour la carte du site |
+| `zones.yaml` | Regroupement des villes françaises en zones (ex. Villeurbanne avec Lyon), pour la vue par localité |
+| `url_exceptions.yaml` | URLs ignorées par la vérification d'accessibilité, avec la raison et la date d'ajout |
+| `json/data.json` | *Généré* : base complète lue par le site |
+| `README.md` | *Généré* : ce fichier (tout ce qui suit le titre « Listing ») |
+| `site/` | Le site web (HTML/CSS/JS, sans étape de compilation) |
+| `scripts/` | Scripts Python décrits ci-dessous |
+
+### Après une modification de `data.yaml`
+
+Prérequis : Python 3 avec `pyyaml` et `tqdm` (`pip install pyyaml tqdm`).
 
 ```
-python scripts/generate.py 
-
-```
-Génère les fichiers suivants: 
-- README.md: Vue des entreprises au format markdown pour github. 
-- json/data.json: Base de donnée accessible pour générer des pages web dynamique.
-
-### Arguments 
-
-```
-generate.py [-c] [-C] 
-  -c --checkValidity: Check coherence of keyword and accessibility of URLs.
-        Do not exit if errors are detected (see -C for this). 
-  -C --checkValiditywithFailure: Check coherence of keyword and accessibility of URLs.
-        Quit if errors are detected.
+python3 scripts/generate.py
 ```
 
-Vérification des URLs : seules les pages disparues (HTTP 404/410) et les domaines introuvables
-font échouer la vérification. Les erreurs temporaires ou invérifiables (403, 429, 5xx, timeout,
-certificat SSL) sont affichées comme simples avertissements. Pour ignorer un site valide que le
-vérificateur ne sait pas tester, l'ajouter dans `url_exceptions.yaml`.
+Ce script régénère `json/data.json` et la partie « Listing » de `README.md`. **Commitez ces deux fichiers avec `data.yaml`** : le site lit `json/data.json` directement sur la branche `main` de GitHub, et rien ne le régénère automatiquement.
 
-### Site web: 
+Le script signale aussi les clés inconnues dans `data.yaml` (faute de frappe probable) et les lieux sans coordonnées dans `places.yaml`.
 
-Le répertoire site/ contient un example de page web dynamique chargée dynamiquement depuis le fichier json présent sur github.
+Options de vérification :
 
-### Action push sur github: 
+```
+python3 scripts/generate.py -c   # vérifie aussi les mots-clés et l'accessibilité des URLs, sans s'arrêter en cas d'erreur
+python3 scripts/generate.py -C   # idem, mais s'arrête avec une erreur au premier problème bloquant
+```
 
-Après un push sur github, les éléments suivants sont mis à jours:
-- La nouvelle base est vérifiée localement avec `python generate.py -C`
-- Le contenu de site/ est déployé sur une page github.io: https://afig-asso.github.io/entreprises/
-  - Cette page est accessible par le site de l'AFIG: https://www.asso-afig.fr/site/entreprises/
+Pour les URLs, seules les pages disparues (HTTP 404/410) et les domaines introuvables sont bloquants. Les erreurs temporaires ou invérifiables (403, 429, 5xx, timeout, certificat SSL) sont de simples avertissements. Pour ignorer un site valide que le vérificateur ne sait pas tester, ajoutez-le dans `url_exceptions.yaml`.
+
+### Autres scripts
+
+| Commande | Rôle |
+|---|---|
+| `python3 scripts/sort_data.py` | Trie les entreprises de `data.yaml` par ordre alphabétique (une copie de sauvegarde est faite dans `.data-save.yaml`) |
+| `python3 scripts/geocode_places.py [--dry-run]` | Ajoute à `places.yaml` les coordonnées des nouveaux lieux (OpenStreetMap). Résultat à vérifier à la main |
+| `python3 scripts/siren_lookup.py --out <dossier>` | Cherche le SIREN et l'adresse des établissements français dans le registre SIRENE. N'écrit rien dans `data.yaml` : produit un tableau à relire |
+
+### Tester le site en local
+
+Depuis la racine du dépôt :
+
+```
+python3 -m http.server
+```
+
+puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.json` du dépôt plutôt que celui publié sur GitHub.
+
+### Ce qui se passe après un push sur `main`
+
+- La base est vérifiée par GitHub Actions avec `python scripts/generate.py -C` (badge en haut de ce fichier).
+- Le contenu de `site/` est copié dans le dépôt [Afig-Asso.github.io](https://github.com/Afig-Asso/Afig-Asso.github.io) et publié sur https://afig-asso.github.io/entreprises/, page intégrée au site de l'AFIG.
 
 
 ## Listing 
