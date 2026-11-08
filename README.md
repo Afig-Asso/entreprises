@@ -110,6 +110,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
 
 
+* **[3DCeram Sinto](https://3dceram.com/)**  
+  * _Concepteur et fabricant d'imprimantes 3D céramiques par stéréolithographie (gammes C101, C900, C1000, C3601) fondé en 2001, filiale du groupe japonais Sinto, qui fournit aussi les logiciels de préparation d'impression (CPS 2.0, Build-It) et une solution d'IA (CERIA) pour l'aéronautique, les noyaux de fonderie et le biomédical._
+  * **Mots clés**: _impression 3D céramique, stéréolithographie, fabrication additive, logiciel d'impression_
+  * **Localisation**: Bonnac-la-Côte
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Design/Fabrication
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+
+
 * **[3Deus Dynamics](https://3deusdynamics.com/)**  
   * _Industriel de Rillieux-la-Pape qui imprime en 3D des pièces en silicone grâce à un procédé breveté de moulage dynamique en milieu granulaire (modèles anatomiques, dispositifs médicaux, aéronautique)._
   * **Mots clés**: _fabrication additive, silicone, dispositif médical, aéronautique_
@@ -845,6 +854,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Borea](https://borea-dental.com/)**  
+  * _Concepteur et fabricant, issu d'une collaboration avec le laboratoire XLIM et incubé à ESTER Technopole (2013), de solutions numériques de prise de teinte dentaire : le Cobra Shade Scan, appareil de mesure spectrophotométrique multipoint de la couleur et de la translucidité des dents, et son logiciel d'analyse._
+  * **Mots clés**: _spectrophotométrie, colorimétrie dentaire, prise de teinte, imagerie_
+  * **Localisation**: Limoges
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Acquisition, Imagerie
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[BrandXR](https://www.brandxr.io/)**  
   * _Agence et plateforme américaine de réalité augmentée (WebAR, filtres Instagram/Snapchat, fresques AR) pour le marketing, l'éducation et le commerce._
   * **Mots clés**: _réalité augmentée, agence créative, marketing, WebAR, filtres réseaux sociaux, e-commerce/configurateur 3D_
@@ -1074,6 +1092,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
 
 
+* **[Cogniscan](https://www.cogniscan.fr/)**  
+  * _Start-up issue du laboratoire XLIM, créée en 2022 et installée au CIRE d'ESTER Technopole, qui développe STCAN, un scanner cérébral portable à micro-ondes (capteur, réseau d'antennes commutées, logiciel de reconstruction d'image et classification par IA) pour détecter AVC, tumeurs et hémorragies hors de l'hôpital._
+  * **Mots clés**: _imagerie micro-ondes, neuro-imagerie, reconstruction d'image, dispositif médical_
+  * **Localisation**: Limoges
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Imagerie, Reconstruction, Hardware
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Cognitive Design Systems](https://www.cognitive-design-systems.com/)**  
   * _Éditeur de logiciels de conception générative et d'optimisation topologique pour la fabrication additive._
   * **Mots clés**: _conception générative, optimisation topologique, fabrication additive, CAO, aéronautique, allègement structurel_
@@ -1225,7 +1252,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Éditeur français de logiciels de conception, simulation et gestion du cycle de vie produit (CATIA, SOLIDWORKS, SIMULIA, 3DEXPERIENCE) pour l'industrie et la santé._
   * **Mots clés**: _CAO, PLM, simulation physique, éléments finis, jumeau numérique, CATIA, SOLIDWORKS, aéronautique_
   * **Produits**: Catia, SolidWorks
-  * **Localisation**: France/Paris, France/Aix-en-Provence, Vélizy-Villacoublay, Colomiers, Plouzané, Lyon, Cesson-Sévigné, Bouguenais, Limonest, Saint-Romain-de-Colbosc, Meylan, Colomiers, Nancy, Villeneuve-d'Ascq, États-Unis, Chine, International
+  * **Localisation**: France/Paris, France/Aix-en-Provence, Vélizy-Villacoublay, Colomiers, Plouzané, Limoges, Lyon, Cesson-Sévigné, Bouguenais, Limonest, Saint-Romain-de-Colbosc, Meylan, Colomiers, Nancy, Villeneuve-d'Ascq, États-Unis, Chine, International
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Modélisation, Simulation, Géométrie, Design/Fabrication
   * **Domaine d'application**: Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO, Médical/Biologique
@@ -1689,6 +1716,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Eurekam](https://www.eurekam.fr/)**  
+  * _Éditeur rochelais de Drugcam, système de vision par caméras et d'intelligence artificielle qui contrôle en temps réel les préparations médicamenteuses injectables (chimiothérapies, vaccins) et archive la vidéo pour la traçabilité, déployé dans plus de 100 établissements de santé._
+  * **Mots clés**: _vision par ordinateur, contrôle vidéo, pharmacie hospitalière, intelligence artificielle_
+  * **Localisation**: Lagord
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Vision, Imagerie
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[EVA](https://www.eva.gg/en-FR)** (Esports Virtual Arenas) 
@@ -2284,6 +2320,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.gfc.ikigai.games/recrutement)
 
 
+* **[Ikomia](https://www.ikomia.ai/)**  
+  * _Éditeur rochelais d'outils de vision par ordinateur et d'IA (HUB de plus de 280 algorithmes, API Python, Ikomia STUDIO pour prototyper visuellement des pipelines et SCALE pour les déployer) destinés aux PME, ETI et éditeurs pour l'inspection visuelle et l'analyse d'images._
+  * **Mots clés**: _vision par ordinateur, open source, workflows IA, inspection visuelle_
+  * **Localisation**: La Rochelle
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Vision, Imagerie, Pipeline/Outils de production
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Énergie/Environnement, Générique
+
+
 * **[Illumination Studios Paris](https://www.illuminationstudiosparis.com/)**  
   * _Studio parisien d'Illumination (Universal) qui fabrique les longs métrages d'animation 3D de la franchise Moi, moche et méchant/Minions et Super Mario Bros._
   * **Mots clés**: _long métrage, animation 3D, Moi, moche et méchant, Super Mario, Universal_
@@ -2581,6 +2626,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Gond-Pontouvre
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
+* **[Kamax Innovative System](https://kamax-innovative.com/)**  
+  * _Jeune entreprise innovante issue des travaux du laboratoire XLIM (CNRS, Université de Limoges), créée en 2013, qui développe des technologies propriétaires d'imagerie optique (XPolar par polarisation, XFluo 3D, XLED), le scanner K-probe et ses logiciels de visualisation et traitement d'images (ODPManager, ODPViewer) pour mesurer l'efficacité des cosmétiques sur la peau, les cheveux et les fibres kératiniques._
+  * **Mots clés**: _imagerie par polarisation, imagerie scientifique, analyse d'images, cosmétique_
+  * **Localisation**: Limoges
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Imagerie, Acquisition
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Kayrros](https://www.kayrros.com/)**  
@@ -4188,6 +4242,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Purple Reality](https://www.purplereality.fr/)**  
+  * _Studio créatif installé à ESTER Technopole qui conçoit des expériences interactives en 3D et réalité augmentée : configurateurs produits 3D/AR, maquettes 3D/AR, jeux et filtres AR (références : Lacoste, Hugo Boss, Sephora, GRDF, château de Pompadour)._
+  * **Mots clés**: _réalité augmentée, configurateur 3D, filtres AR, expériences immersives_
+  * **Localisation**: Limoges
+  * **Nombres d'employés**: 6
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Patrimoine/Culture
+
+
 * **[Qarnot Computing](https://qarnot.com/)**  
   * _Fournisseur français de cloud HPC bas carbone (récupération de chaleur des serveurs) pour les simulations d'ingénieurs et le rendu, racheté par Scaleway._
   * **Mots clés**: _calcul haute performance, cloud/streaming, bas carbone, simulation physique, ferme de rendu, Scaleway_
@@ -5098,6 +5161,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Visualisation
   * **Domaine d'application**: Générique
   * [_Jobs_](https://www.techviz.net/careers/)
+
+
+* **[Tempête Studio](https://www.tempete.studio/)**  
+  * _Studio de jeu vidéo poitevin fondé en 2016 par Régis Bonnessée (fondateur de l'éditeur Libellud) qui adapte des jeux de société en jeux vidéo et applications compagnons : Dixit World (iOS/Android, 2023), applications de One Key et Shadows: Amsterdam, et Mech-ute sur PC._
+  * **Mots clés**: _jeu vidéo mobile, adaptation de jeux de société, Dixit, applications compagnons_
+  * **Localisation**: Poitiers
+  * **Nombres d'employés**: 7
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[TerraNIS](https://www.terranis.fr/)**  

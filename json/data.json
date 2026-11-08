@@ -263,6 +263,10 @@
             48.0747,
             -0.6992
         ],
+        "France/Bonnac-la-C\u00f4te": [
+            45.9414,
+            1.2854
+        ],
         "France/Bordeaux": [
             44.8412,
             -0.58
@@ -451,9 +455,17 @@
             43.1597,
             6.0432
         ],
+        "France/La Rochelle": [
+            46.1597,
+            -1.1516
+        ],
         "France/Lab\u00e8ge": [
             43.5293,
             1.53
+        ],
+        "France/Lagord": [
+            46.1864,
+            -1.1511
         ],
         "France/Lampertheim": [
             48.6504,
@@ -630,6 +642,10 @@
         "France/Plouzan\u00e9": [
             48.3817,
             -4.6212
+        ],
+        "France/Poitiers": [
+            46.5803,
+            0.3402
         ],
         "France/Pouilley-les-Vignes": [
             47.2569,
@@ -1244,7 +1260,11 @@
         "Pouilley-les-Vignes": "Besan\u00e7on",
         "Sa\u00f4ne": "Besan\u00e7on",
         "Dijon": "Dijon",
-        "Quetigny": "Dijon"
+        "Quetigny": "Dijon",
+        "Limoges": "Limoges",
+        "Bonnac-la-C\u00f4te": "Limoges",
+        "La Rochelle": "La Rochelle",
+        "Lagord": "La Rochelle"
     },
     "Listing": [
         {
@@ -2670,6 +2690,15 @@
                     ],
                     "SIREN": "322306440",
                     "Address": "120 Rue Rene Descartes, 29280 Plouzan\u00e9"
+                },
+                {
+                    "City": "Limoges",
+                    "Coordinates": [
+                        45.86198,
+                        1.29421
+                    ],
+                    "SIREN": "322306440",
+                    "Address": "B\u00e2timent Galileo, 20 Rue Atlantis, 87280 Limoges"
                 },
                 {
                     "City": "Lyon",
@@ -22411,6 +22440,252 @@
                 "t\u00f4lerie",
                 "d\u00e9pliage",
                 "SOLIDWORKS"
+            ]
+        },
+        {
+            "Name": "Eurekam",
+            "url": "https://www.eurekam.fr/",
+            "Description": "\u00c9diteur rochelais de Drugcam, syst\u00e8me de vision par cam\u00e9ras et d'intelligence artificielle qui contr\u00f4le en temps r\u00e9el les pr\u00e9parations m\u00e9dicamenteuses injectables (chimioth\u00e9rapies, vaccins) et archive la vid\u00e9o pour la tra\u00e7abilit\u00e9, d\u00e9ploy\u00e9 dans plus de 100 \u00e9tablissements de sant\u00e9.",
+            "Place": [
+                {
+                    "City": "Lagord",
+                    "Coordinates": [
+                        46.18566,
+                        -1.14968
+                    ],
+                    "SIREN": "753866425",
+                    "Address": "4 Rue Louis Tardy, 17140 Lagord"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "vision par ordinateur",
+                "contr\u00f4le vid\u00e9o",
+                "pharmacie hospitali\u00e8re",
+                "intelligence artificielle"
+            ]
+        },
+        {
+            "Name": "Ikomia",
+            "url": "https://www.ikomia.ai/",
+            "Description": "\u00c9diteur rochelais d'outils de vision par ordinateur et d'IA (HUB de plus de 280 algorithmes, API Python, Ikomia STUDIO pour prototyper visuellement des pipelines et SCALE pour les d\u00e9ployer) destin\u00e9s aux PME, ETI et \u00e9diteurs pour l'inspection visuelle et l'analyse d'images.",
+            "Place": [
+                {
+                    "City": "La Rochelle",
+                    "Coordinates": [
+                        46.14818,
+                        -1.15565
+                    ],
+                    "SIREN": "852898097",
+                    "Address": "12 Avenue Albert Einstein, 17000 La Rochelle"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "\u00c9nergie/Environnement",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "vision par ordinateur",
+                "open source",
+                "workflows IA",
+                "inspection visuelle"
+            ]
+        },
+        {
+            "Name": "Temp\u00eate Studio",
+            "url": "https://www.tempete.studio/",
+            "Description": "Studio de jeu vid\u00e9o poitevin fond\u00e9 en 2016 par R\u00e9gis Bonness\u00e9e (fondateur de l'\u00e9diteur Libellud) qui adapte des jeux de soci\u00e9t\u00e9 en jeux vid\u00e9o et applications compagnons : Dixit World (iOS/Android, 2023), applications de One Key et Shadows: Amsterdam, et Mech-ute sur PC.",
+            "Place": [
+                {
+                    "City": "Poitiers",
+                    "Coordinates": [
+                        46.57892,
+                        0.3385
+                    ],
+                    "SIREN": "820531812",
+                    "Address": "28 Rue Carnot, 86000 Poitiers"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "jeu vid\u00e9o mobile",
+                "adaptation de jeux de soci\u00e9t\u00e9",
+                "Dixit",
+                "applications compagnons"
+            ]
+        },
+        {
+            "Name": "3DCeram Sinto",
+            "url": "https://3dceram.com/",
+            "Description": "Concepteur et fabricant d'imprimantes 3D c\u00e9ramiques par st\u00e9r\u00e9olithographie (gammes C101, C900, C1000, C3601) fond\u00e9 en 2001, filiale du groupe japonais Sinto, qui fournit aussi les logiciels de pr\u00e9paration d'impression (CPS 2.0, Build-It) et une solution d'IA (CERIA) pour l'a\u00e9ronautique, les noyaux de fonderie et le biom\u00e9dical.",
+            "Place": [
+                {
+                    "City": "Bonnac-la-C\u00f4te",
+                    "Coordinates": [
+                        45.93822,
+                        1.30917
+                    ],
+                    "SIREN": "435266598",
+                    "Address": "4 Rue du Parc de Maison Rouge, ZA Maison Rouge, 87270 Bonnac-la-C\u00f4te"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "impression 3D c\u00e9ramique",
+                "st\u00e9r\u00e9olithographie",
+                "fabrication additive",
+                "logiciel d'impression"
+            ]
+        },
+        {
+            "Name": "Purple Reality",
+            "url": "https://www.purplereality.fr/",
+            "Description": "Studio cr\u00e9atif install\u00e9 \u00e0 ESTER Technopole qui con\u00e7oit des exp\u00e9riences interactives en 3D et r\u00e9alit\u00e9 augment\u00e9e : configurateurs produits 3D/AR, maquettes 3D/AR, jeux et filtres AR (r\u00e9f\u00e9rences : Lacoste, Hugo Boss, Sephora, GRDF, ch\u00e2teau de Pompadour).",
+            "Place": [
+                {
+                    "City": "Limoges",
+                    "Coordinates": [
+                        45.86106,
+                        1.29233
+                    ],
+                    "SIREN": "888961182",
+                    "Address": "ESTER Technopole, 1 Avenue d'Ester, 87280 Limoges"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Patrimoine/Culture"
+            ],
+            "Employees": 6,
+            "Keywords": [
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "configurateur 3D",
+                "filtres AR",
+                "exp\u00e9riences immersives"
+            ]
+        },
+        {
+            "Name": "Borea",
+            "url": "https://borea-dental.com/",
+            "Description": "Concepteur et fabricant, issu d'une collaboration avec le laboratoire XLIM et incub\u00e9 \u00e0 ESTER Technopole (2013), de solutions num\u00e9riques de prise de teinte dentaire : le Cobra Shade Scan, appareil de mesure spectrophotom\u00e9trique multipoint de la couleur et de la translucidit\u00e9 des dents, et son logiciel d'analyse.",
+            "Place": [
+                {
+                    "City": "Limoges",
+                    "Coordinates": [
+                        45.85597,
+                        1.28796
+                    ],
+                    "SIREN": "793536996",
+                    "Address": "6 All\u00e9e Duke Ellington, 87100 Limoges"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 8,
+            "Keywords": [
+                "spectrophotom\u00e9trie",
+                "colorim\u00e9trie dentaire",
+                "prise de teinte",
+                "imagerie"
+            ]
+        },
+        {
+            "Name": "Kamax Innovative System",
+            "url": "https://kamax-innovative.com/",
+            "Description": "Jeune entreprise innovante issue des travaux du laboratoire XLIM (CNRS, Universit\u00e9 de Limoges), cr\u00e9\u00e9e en 2013, qui d\u00e9veloppe des technologies propri\u00e9taires d'imagerie optique (XPolar par polarisation, XFluo 3D, XLED), le scanner K-probe et ses logiciels de visualisation et traitement d'images (ODPManager, ODPViewer) pour mesurer l'efficacit\u00e9 des cosm\u00e9tiques sur la peau, les cheveux et les fibres k\u00e9ratiniques.",
+            "Place": [
+                {
+                    "City": "Limoges",
+                    "Coordinates": [
+                        45.86323,
+                        1.29825
+                    ],
+                    "SIREN": "797486925",
+                    "Address": "17 Rue de G\u00e9mini, 87280 Limoges"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "imagerie par polarisation",
+                "imagerie scientifique",
+                "analyse d'images",
+                "cosm\u00e9tique"
+            ]
+        },
+        {
+            "Name": "Cogniscan",
+            "url": "https://www.cogniscan.fr/",
+            "Description": "Start-up issue du laboratoire XLIM, cr\u00e9\u00e9e en 2022 et install\u00e9e au CIRE d'ESTER Technopole, qui d\u00e9veloppe STCAN, un scanner c\u00e9r\u00e9bral portable \u00e0 micro-ondes (capteur, r\u00e9seau d'antennes commut\u00e9es, logiciel de reconstruction d'image et classification par IA) pour d\u00e9tecter AVC, tumeurs et h\u00e9morragies hors de l'h\u00f4pital.",
+            "Place": [
+                {
+                    "City": "Limoges",
+                    "Coordinates": [
+                        45.86252,
+                        1.29764
+                    ],
+                    "SIREN": "913347167",
+                    "Address": "CIRE, 12 Rue de G\u00e9mini, 87280 Limoges"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Reconstruction",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "imagerie micro-ondes",
+                "neuro-imagerie",
+                "reconstruction d'image",
+                "dispositif m\u00e9dical"
             ]
         }
     ]

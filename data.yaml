@@ -609,6 +609,10 @@
       Coordinates: [48.35761, -4.5648]
       SIREN: '322306440'
       Address: 120 Rue Rene Descartes, 29280 Plouzané
+    - City: Limoges
+      Coordinates: [45.86198, 1.29421]
+      SIREN: '322306440'
+      Address: Bâtiment Galileo, 20 Rue Atlantis, 87280 Limoges
     - City: Lyon
       Coordinates: [45.76261, 4.85411]
       SIREN: '322306440'
@@ -8816,3 +8820,107 @@
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
   Employees: 7
   Keywords: [CAO, outils de presse, tôlerie, dépliage, SOLIDWORKS]
+
+- Name: Eurekam
+  url: https://www.eurekam.fr/
+  Description: Éditeur rochelais de Drugcam, système de vision par caméras et d'intelligence artificielle qui contrôle en temps réel les préparations médicamenteuses injectables (chimiothérapies, vaccins) et archive la vidéo pour la traçabilité, déployé dans plus de 100 établissements de santé.
+  Place:
+    - City: Lagord
+      Coordinates: [46.18566, -1.14968]
+      SIREN: '753866425'
+      Address: 4 Rue Louis Tardy, 17140 Lagord
+  Scientific-domain: [Vision, Imagerie]
+  Application-domain: [Médical/Biologique]
+  Employees: 35
+  Keywords: [vision par ordinateur, contrôle vidéo, pharmacie hospitalière, intelligence artificielle]
+
+- Name: Ikomia
+  url: https://www.ikomia.ai/
+  Description: Éditeur rochelais d'outils de vision par ordinateur et d'IA (HUB de plus de 280 algorithmes, API Python, Ikomia STUDIO pour prototyper visuellement des pipelines et SCALE pour les déployer) destinés aux PME, ETI et éditeurs pour l'inspection visuelle et l'analyse d'images.
+  Place:
+    - City: La Rochelle
+      Coordinates: [46.14818, -1.15565]
+      SIREN: '852898097'
+      Address: 12 Avenue Albert Einstein, 17000 La Rochelle
+  Scientific-domain: [Vision, Imagerie, Pipeline/Outils de production]
+  Application-domain: [Industrie/Manufacturing/CAO, Énergie/Environnement, Générique]
+  Employees: 4
+  Keywords: [vision par ordinateur, open source, workflows IA, inspection visuelle]
+
+- Name: Tempête Studio
+  url: https://www.tempete.studio/
+  Description: 'Studio de jeu vidéo poitevin fondé en 2016 par Régis Bonnessée (fondateur de l''éditeur Libellud) qui adapte des jeux de société en jeux vidéo et applications compagnons : Dixit World (iOS/Android, 2023), applications de One Key et Shadows: Amsterdam, et Mech-ute sur PC.'
+  Place:
+    - City: Poitiers
+      Coordinates: [46.57892, 0.3385]
+      SIREN: '820531812'
+      Address: 28 Rue Carnot, 86000 Poitiers
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 7
+  Keywords: [jeu vidéo mobile, adaptation de jeux de société, Dixit, applications compagnons]
+
+- Name: 3DCeram Sinto
+  url: https://3dceram.com/
+  Description: Concepteur et fabricant d'imprimantes 3D céramiques par stéréolithographie (gammes C101, C900, C1000, C3601) fondé en 2001, filiale du groupe japonais Sinto, qui fournit aussi les logiciels de préparation d'impression (CPS 2.0, Build-It) et une solution d'IA (CERIA) pour l'aéronautique, les noyaux de fonderie et le biomédical.
+  Place:
+    - City: Bonnac-la-Côte
+      Coordinates: [45.93822, 1.30917]
+      SIREN: '435266598'
+      Address: 4 Rue du Parc de Maison Rouge, ZA Maison Rouge, 87270 Bonnac-la-Côte
+  Scientific-domain: [Design/Fabrication]
+  Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique]
+  Employees: 35
+  Keywords: [impression 3D céramique, stéréolithographie, fabrication additive, logiciel d'impression]
+
+- Name: Purple Reality
+  url: https://www.purplereality.fr/
+  Description: 'Studio créatif installé à ESTER Technopole qui conçoit des expériences interactives en 3D et réalité augmentée : configurateurs produits 3D/AR, maquettes 3D/AR, jeux et filtres AR (références : Lacoste, Hugo Boss, Sephora, GRDF, château de Pompadour).'
+  Place:
+    - City: Limoges
+      Coordinates: [45.86106, 1.29233]
+      SIREN: '888961182'
+      Address: ESTER Technopole, 1 Avenue d'Ester, 87280 Limoges
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Commerce/Marketing/Publicité, Patrimoine/Culture]
+  Employees: 6
+  Keywords: [réalité augmentée, configurateur 3D, filtres AR, expériences immersives]
+
+- Name: Borea
+  url: https://borea-dental.com/
+  Description: 'Concepteur et fabricant, issu d''une collaboration avec le laboratoire XLIM et incubé à ESTER Technopole (2013), de solutions numériques de prise de teinte dentaire : le Cobra Shade Scan, appareil de mesure spectrophotométrique multipoint de la couleur et de la translucidité des dents, et son logiciel d''analyse.'
+  Place:
+    - City: Limoges
+      Coordinates: [45.85597, 1.28796]
+      SIREN: '793536996'
+      Address: 6 Allée Duke Ellington, 87100 Limoges
+  Scientific-domain: [Acquisition, Imagerie]
+  Application-domain: [Médical/Biologique]
+  Employees: 8
+  Keywords: [spectrophotométrie, colorimétrie dentaire, prise de teinte, imagerie]
+
+- Name: Kamax Innovative System
+  url: https://kamax-innovative.com/
+  Description: Jeune entreprise innovante issue des travaux du laboratoire XLIM (CNRS, Université de Limoges), créée en 2013, qui développe des technologies propriétaires d'imagerie optique (XPolar par polarisation, XFluo 3D, XLED), le scanner K-probe et ses logiciels de visualisation et traitement d'images (ODPManager, ODPViewer) pour mesurer l'efficacité des cosmétiques sur la peau, les cheveux et les fibres kératiniques.
+  Place:
+    - City: Limoges
+      Coordinates: [45.86323, 1.29825]
+      SIREN: '797486925'
+      Address: 17 Rue de Gémini, 87280 Limoges
+  Scientific-domain: [Imagerie, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Employees: 4
+  Keywords: [imagerie par polarisation, imagerie scientifique, analyse d'images, cosmétique]
+
+- Name: Cogniscan
+  url: https://www.cogniscan.fr/
+  Description: Start-up issue du laboratoire XLIM, créée en 2022 et installée au CIRE d'ESTER Technopole, qui développe STCAN, un scanner cérébral portable à micro-ondes (capteur, réseau d'antennes commutées, logiciel de reconstruction d'image et classification par IA) pour détecter AVC, tumeurs et hémorragies hors de l'hôpital.
+  Place:
+    - City: Limoges
+      Coordinates: [45.86252, 1.29764]
+      SIREN: '913347167'
+      Address: CIRE, 12 Rue de Gémini, 87280 Limoges
+  Scientific-domain: [Imagerie, Reconstruction, Hardware]
+  Application-domain: [Médical/Biologique]
+  Employees: 4
+  Keywords: [imagerie micro-ondes, neuro-imagerie, reconstruction d'image, dispositif médical]
