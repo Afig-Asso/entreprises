@@ -22687,6 +22687,38 @@
                 "reconstruction d'image",
                 "dispositif m\u00e9dical"
             ]
+        },
+        {
+            "Name": "Nothing2Install",
+            "url": "https://nothing2install.com/",
+            "Description": "Entreprise marseillaise cr\u00e9\u00e9e en 2018 qui rend les jeux mobiles natifs (APK Android) jouables instantan\u00e9ment depuis un navigateur, sans GPU serveur, gr\u00e2ce \u00e0 sa technologie brevet\u00e9e 3DPipe qui intercepte et compresse les commandes graphiques et les transmet au navigateur, o\u00f9 le rendu est ex\u00e9cut\u00e9 localement en WebGL ou WebGPU.",
+            "Place": [
+                {
+                    "City": "Marseille",
+                    "Coordinates": [
+                        43.29325,
+                        5.37363
+                    ],
+                    "SIREN": "843699273",
+                    "Address": "3 Rue Fortia, 13001 Marseille"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://nothing2install.com/careers/",
+            "Employees": 8,
+            "Keywords": [
+                "cloud gaming",
+                "streaming de commandes graphiques",
+                "WebGL",
+                "WebGPU",
+                "jeu mobile"
+            ]
         }
     ]
 }

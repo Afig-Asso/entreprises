@@ -3644,6 +3644,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Nothing2Install](https://nothing2install.com/)**  
+  * _Entreprise marseillaise créée en 2018 qui rend les jeux mobiles natifs (APK Android) jouables instantanément depuis un navigateur, sans GPU serveur, grâce à sa technologie brevetée 3DPipe qui intercepte et compresse les commandes graphiques et les transmet au navigateur, où le rendu est exécuté localement en WebGL ou WebGPU._
+  * **Mots clés**: _cloud gaming, streaming de commandes graphiques, WebGL, WebGPU, jeu mobile_
+  * **Localisation**: Marseille
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://nothing2install.com/careers/)
+
+
 * **[Nova-box](https://www.nova-box.com/)**  
   * _Studio et éditeur bordelais de jeux narratifs (romans graphiques interactifs After the Wane, End of Lines) pour PC, Mac, Linux et Switch, fondé en 2007._
   * **Mots clés**: _jeu indépendant, console/PC, jeu narratif_

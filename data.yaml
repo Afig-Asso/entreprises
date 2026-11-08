@@ -8924,3 +8924,17 @@
   Application-domain: [Médical/Biologique]
   Employees: 4
   Keywords: [imagerie micro-ondes, neuro-imagerie, reconstruction d'image, dispositif médical]
+
+- Name: Nothing2Install
+  url: https://nothing2install.com/
+  Description: Entreprise marseillaise créée en 2018 qui rend les jeux mobiles natifs (APK Android) jouables instantanément depuis un navigateur, sans GPU serveur, grâce à sa technologie brevetée 3DPipe qui intercepte et compresse les commandes graphiques et les transmet au navigateur, où le rendu est exécuté localement en WebGL ou WebGPU.
+  Place:
+    - City: Marseille
+      Coordinates: [43.29325, 5.37363]
+      SIREN: '843699273'
+      Address: 3 Rue Fortia, 13001 Marseille
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://nothing2install.com/careers/
+  Employees: 8
+  Keywords: [cloud gaming, streaming de commandes graphiques, WebGL, WebGPU, jeu mobile]
