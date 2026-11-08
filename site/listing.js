@@ -29,8 +29,19 @@ const UX = {
     'filter-options': {
         'scientific': document.querySelector('.filter-group[data-domain="scientific"] .filter-options'),
         'application': document.querySelector('.filter-group[data-domain="application"] .filter-options'),
+        'size': document.querySelector('.filter-group[data-domain="size"] .filter-options'),
     },
 };
+
+// Size classes of the size filter, from the 'Employees' key of data.yaml (French categories, by headcount)
+const SIZE_CLASSES = [
+    {'key': 'micro', 'text': '1 à 9 (micro)', 'max': 9},
+    {'key': 'small', 'text': '10 à 49 (petite)', 'max': 49},
+    {'key': 'medium', 'text': '50 à 249 (moyenne)', 'max': 249},
+    {'key': 'eti', 'text': '250 à 4 999 (ETI)', 'max': 4999},
+    {'key': 'large', 'text': '5 000 et plus (grande)', 'max': Infinity},
+    {'key': 'unknown', 'text': 'Non renseignée'},
+];
 
 // Name of the domain keys in data.json
 const DOMAIN_KEY = {
@@ -48,7 +59,9 @@ const Global = {
     'selected': {
         'scientific': new Set(),
         'application': new Set(),
+        'size': new Set(), // keys of SIZE_CLASSES, combined with 'or'
     },
+    'size-class': null, // per company: key of its size class
     'search-text': null, // per company: searchable text (name, description, places, themes...), without accents
     'in-france': null, // per company: true if the company has at least one place in France
     'has-jobs': null, // per company: true if a job page is given
@@ -453,7 +466,7 @@ function plural_companies(N) {
 }
 
 function any_filter_active() {
-    return Global['selected']['scientific'].size>0 || Global['selected']['application'].size>0
+    return Global['selected']['scientific'].size>0 || Global['selected']['application'].size>0 || Global['selected']['size'].size>0
         || UX['france-only'].checked || UX['jobs-only'].checked || UX['search'].value.trim()!='';
 }
 
@@ -692,6 +705,8 @@ function match_filters(k, search_words, skip_domain) {
     for(const domain of ['scientific', 'application']) {
         if(domain!=skip_domain && !match_domain(entry, domain)) return false;
     }
+    const sizes = Global['selected']['size'];
+    if(skip_domain!='size' && sizes.size>0 && !sizes.has(Global['size-class'][k])) return false;
     if(UX['france-only'].checked && !Global['in-france'][k]) return false;
     if(UX['jobs-only'].checked && !Global['has-jobs'][k]) return false;
     return search_words.every((w) => Global['search-text'][k].includes(w));
@@ -719,6 +734,17 @@ function update_keyword_counts(search_words) {
             option.querySelector('.keyword-count').textContent = `(${N})`;
             option.classList.toggle('is-empty', N==0 && !input.checked);
         }
+    }
+    // Size: number of companies of each class, given the other filters
+    const count = {};
+    for(let k=0; k<listing.length; k++) {
+        if(match_filters(k, search_words, 'size')) count[Global['size-class'][k]] = (count[Global['size-class'][k]] || 0) + 1;
+    }
+    for(const input of UX['filter-options']['size'].querySelectorAll('input')) {
+        const N = count[input.value] || 0;
+        const option = input.closest('.filter-option');
+        option.querySelector('.keyword-count').textContent = `(${N})`;
+        option.classList.toggle('is-empty', N==0 && !input.checked);
     }
 }
 
@@ -812,6 +838,10 @@ function update_filter_state() {
         }
         document.querySelector(`#mode-${domain}-${Global['mode'][domain]}`).checked = true;
     }
+    N_selected += Global['selected']['size'].size;
+    for(const input of UX['filter-options']['size'].querySelectorAll('input')) {
+        input.checked = Global['selected']['size'].has(input.value);
+    }
     UX['filter-count'].hidden = (N_selected==0);
     UX['filter-count'].innerHTML = N_selected>0 ? `${N_selected}<span class="visually-hidden"> sélectionnés</span>` : '';
 
@@ -828,6 +858,13 @@ function update_filter_state() {
             pills.push({'type':domain, 'keyword':keyword, 'text':esc(keyword), 'join':join});
             first = false;
         }
+    }
+    // Size pills, in the order of the classes
+    let first_size = true;
+    for(const c of SIZE_CLASSES) {
+        if(!Global['selected']['size'].has(c['key'])) continue;
+        pills.push({'type':'size', 'keyword':c['key'], 'text':`Taille : ${c['text']}`, 'join':first_size ? '' : 'ou'});
+        first_size = false;
     }
     if(UX['france-only'].checked) {
         pills.push({'type':'france-only', 'text':'France uniquement'});
@@ -874,6 +911,7 @@ function reset_all_filters() {
     UX['jobs-only'].checked = false;
     Global['selected']['scientific'].clear();
     Global['selected']['application'].clear();
+    Global['selected']['size'].clear();
     update_display();
 }
 
@@ -945,6 +983,26 @@ function build_keywords(data, domain, count){
         </div>\n`;
     }
     UX['filter-options'][domain].innerHTML = txt;
+}
+
+// Size class of a company. 'Employees' is a number, or a range such as "50-99" (middle of the range)
+function size_class(entry) {
+    const numbers = (get_string(entry['Employees']).replace(/\s/g, '').match(/\d+/g) || []).map(Number);
+    if(numbers.length==0) return 'unknown';
+    const N = numbers.length>1 ? (numbers[0]+numbers[1])/2 : numbers[0];
+    return SIZE_CLASSES.find((c) => c['max']!=undefined && N<=c['max'])['key'];
+}
+
+function build_sizes() {
+    let txt = '';
+    for(const c of SIZE_CLASSES) {
+        const N = Global['size-class'].filter((x) => x==c['key']).length;
+        txt += `<div class="filter-option">
+        <input type="checkbox" id="filter-size-${c['key']}" value="${c['key']}">
+        <label for="filter-size-${c['key']}">${c['text']} <span class="keyword-count">(${N})</span></label>
+        </div>\n`;
+    }
+    UX['filter-options']['size'].innerHTML = txt;
 }
 
 
@@ -1094,6 +1152,8 @@ function answer(data) {
     Global['search-text'] = data['Listing'].map((entry) => company_search_text(entry, explanations));
     Global['in-france'] = data['Listing'].map(company_in_france);
     Global['has-jobs'] = data['Listing'].map((entry) => get_string(entry['Jobs'])!='');
+    Global['size-class'] = data['Listing'].map(size_class);
+    build_sizes();
 
     for(const domain of ['scientific', 'application']) {
         build_keywords(data['Keywords'][DOMAIN_KEY[domain]], domain, count_keywords(data['Listing'], DOMAIN_KEY[domain]));

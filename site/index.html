@@ -56,12 +56,17 @@
             </div>
             <div class="ux-right">
                 <button type="button" id="filter-toggle" class="filter-toggle" aria-expanded="false" aria-controls="filter-panel">
-                    Filtrer<span class="ft-long"> par thème</span> <span class="filter-count" hidden></span>
+                    Filtrer<span class="ft-long"> par thème, taille</span> <span class="filter-count" hidden></span>
                 </button>
             </div>
         </div>
 
         <div id="filter-panel" class="filter-panel" hidden>
+            <fieldset class="filter-group" data-domain="size">
+                <legend><span class="legend-item">Taille (employés)</span></legend>
+                <button type="button" class="filter-clear" data-domain="size">Effacer<span class="visually-hidden"> les tailles</span></button>
+                <div class="filter-options"></div>
+            </fieldset>
             <fieldset class="filter-group" data-domain="scientific">
                 <legend><span class="legend-item legend-scientific">Domaine scientifique</span></legend>
                 <button type="button" class="filter-clear" data-domain="scientific">Effacer<span class="visually-hidden"> les domaines scientifiques</span></button>
@@ -80,7 +85,7 @@
                 </div>
                 <div class="filter-options"></div>
             </fieldset>
-            <p class="filter-help">Aucune case cochée : toutes les entreprises sont affichées. « Au moins un » élargit la recherche, « Tous » croise les thèmes d'un même domaine (ex. Géométrie et Design/Fabrication). Les nombres entre parenthèses tiennent compte des autres filtres.</p>
+            <p class="filter-help">Aucune case cochée : toutes les entreprises sont affichées. « Au moins un » élargit la recherche, « Tous » croise les thèmes d'un même domaine (ex. Géométrie et Design/Fabrication). La taille est approximative (effectif déclaré, tous sites confondus). Les nombres entre parenthèses tiennent compte des autres filtres.</p>
             <div class="filter-panel-footer">
                 <button type="button" id="filter-close" class="filter-close">Fermer</button>
             </div>
