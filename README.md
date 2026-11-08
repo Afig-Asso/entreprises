@@ -160,6 +160,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
+* **[5Discovery](https://www.5discovery.com/)**  
+  * _Start-up nivernaise éditrice d'une plateforme de formation en réalité virtuelle et IA (soft skills, prise de parole, gestion du stress, sensibilisation au handicap) accessible en casque VR ou en e-learning immersif 360°._
+  * **Mots clés**: _formation VR, soft skills, e-learning immersif, métavers_
+  * **Localisation**: Nevers
+  * **Nombres d'employés**: 7
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Entrainement/Formation/Serious Game
+
+
 * **[6freedom](https://6freedom.studio/)**  
   * _Studio XR parisien développant des applications sur mesure de réalité virtuelle, augmentée et mixte (formation, assistance terrain, marketing), modélisation 3D et photogrammétrie, sous Unity._
   * **Mots clés**: _réalité virtuelle, réalité augmentée, Unity, photogrammétrie, serious game_
@@ -916,6 +925,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Caddev](https://www.caddev.info/)**  
+  * _Éditeur de Saône (groupe W4C) qui développe des plugins pour le logiciel de CAO bois cadwork 3D (assemblages, calcul statique, programmation visuelle DeepNode, optimisation de panneaux), des applications web métier (Lisa.Blue pour le dimensionnement de charpentes) et des outils de visualisation 3D et d'IA._
+  * **Mots clés**: _plugins CAO, cadwork, construction bois, calcul de structure, 3D_
+  * **Localisation**: Saône
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Design/Fabrication, Pipeline/Outils de production, Visualisation, Simulation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO
+
+
+* **[Cadwork France](https://www.04.cadwork.com/)**  
+  * _Filiale française, installée à Saône (près de Besançon), de l'éditeur suisse Cadwork, logiciels de CAO/FAO 3D pour la construction bois, la charpente et la menuiserie (cadwork 3D) : distribution, formation et support technique pour la France._
+  * **Mots clés**: _CAO bois, charpente, FAO, BIM, modélisation 3D_
+  * **Localisation**: Saône, Suisse/Châtel-Saint-Denis
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Design/Fabrication, Modélisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO
+
+
 * **[Canon Research Centre France](https://www.crf.canon.fr/)**  
   * _Centre de recherche européen de Canon à Cesson-Sévigné, spécialisé en traitement d'image et de vidéo, réseaux pour la vidéo haute qualité et IA, contributeur aux standards internationaux._
   * **Mots clés**: _compression vidéo, traitement d'images, vidéosurveillance, standardisation_
@@ -926,6 +953,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.crf.canon.fr/Internship_en.html)
 
 
+* **[Capture4cad](https://capture4cad.com/)**  
+  * _Société de numérisation 3D de Saône (près de Besançon) : scan laser statique et dynamique (SLAM), photogrammétrie, modélisation BIM et 3D, et, via sa marque Héritage Virtuel, restitutions 3D immersives de monuments et sites archéologiques._
+  * **Mots clés**: _scan 3D, photogrammétrie, BIM, patrimoine virtuel_
+  * **Localisation**: Saône
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation, VR/AR
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Patrimoine/Culture
+
+
 * **[Caribara Animation](https://www.caribara-animation.com/)**  
   * _Studio d'animation indépendant (2D, 3D et hybride) basé à Paris avec des studios à Annecy, Angoulême, Montréal et Liège, prestataire de fabrication de séries et films._
   * **Mots clés**: _animation 2D, animation 3D, séries d'animation, fabrication_
@@ -934,6 +970,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Casis](https://casis.fr/)**  
+  * _Éditeur de logiciels d'imagerie cardiaque issu de la recherche au CHU de Dijon (CArdiac Simulation & Imaging Software) : suite QIR d'analyse d'IRM cardiaque (fonction, strain, perfusion, flux 4D) avec segmentation par apprentissage profond._
+  * **Mots clés**: _IRM cardiaque, imagerie médicale, flux 4D, segmentation IA_
+  * **Localisation**: Quetigny
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Imagerie, Visualisation, Vision
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://casis.fr/careers-en/)
 
 
 * **[Cavrnus](https://www.cavrnus.com/)**  
@@ -1082,6 +1128,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game
 
 
+* **[CTEC Vision](https://ctecvision.com/)**  
+  * _Bureau d'études belfortain spécialisé dans la mesure 3D sans contact par scanner laser : relevés et nuages de points, plans 2D/3D et visites virtuelles d'installations industrielles (nucléaire, métallurgie, ferroviaire, maritime, patrimoine)._
+  * **Mots clés**: _scan laser 3D, nuage de points, relevé industriel, visite virtuelle_
+  * **Localisation**: Belfort
+  * **Nombres d'employés**: 7
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Design/Fabrication
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Énergie/Environnement, Patrimoine/Culture
+
+
 * **[Culturespaces Studio](https://www.culturespaces-studio.com/)**  
   * _Studio de production de Culturespaces qui conçoit, produit et diffuse les expositions numériques immersives grand format (Atelier des Lumières, Bassins des Lumières...) et leurs dispositifs de projection._
   * **Mots clés**: _exposition immersive, événementiel/mapping, motion design, scénographie numérique_
@@ -1128,6 +1183,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Patrimoine/Culture
+
+
+* **[Da Viking Code](https://davikingcode.com/)**  
+  * _Studio dijonnais créé en 2014 qui conçoit des expériences interactives issues des technologies du jeu vidéo : serious games, applications VR/AR, jumeaux numériques en réalité virtuelle et jeux pour l'industrie, l'ingénierie, le médical et le patrimoine._
+  * **Mots clés**: _serious game, réalité virtuelle, réalité augmentée, jumeau numérique, 3D temps réel_
+  * **Localisation**: Dijon
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Patrimoine/Culture, Jeu Vidéo
+  * [_Jobs_](https://davikingcode.com/en/join-us/)
 
 
 * **[Dada! Animation](https://www.dada-animation.com/)**  
@@ -1231,6 +1296,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Digital Surf](https://www.digitalsurf.com/)**  
+  * _Éditeur bisontin fondé en 1989 du logiciel Mountains d'imagerie, de visualisation 3D et d'analyse de surfaces (profilométrie, microscopie électronique et à sonde locale, spectroscopie), intégré par plus de 50 fabricants d'instruments._
+  * **Mots clés**: _métrologie de surface, microscopie, imagerie 3D, analyse d'images_
+  * **Localisation**: Besançon
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Imagerie, Visualisation, Géométrie, Reconstruction
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+  * [_Jobs_](https://www.digitalsurf.com/about/jobs/)
 
 
 * **[DigitalFish](https://www.digitalfish.com/)**  
@@ -2747,6 +2822,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Animation, Modélisation, Pipeline/Outils de production
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Logopress](https://www.logopress.com/)**  
+  * _Éditeur fondé en 1989 à Pouilley-les-Vignes (près de Besançon), filiale d'AutoForm depuis 2018, de logiciels de conception d'outils de presse intégrés à SOLIDWORKS : mise en bande, dépliage et prédiction de flans, emboutissage, simulation de découpe (ProgSim), utilisés dans plus de 30 pays._
+  * **Mots clés**: _CAO, outils de presse, tôlerie, dépliage, SOLIDWORKS_
+  * **Localisation**: Pouilley-les-Vignes
+  * **Nombres d'employés**: 7
+  * **Domaine scientifique/technique**: Design/Fabrication, Géométrie, Simulation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
 
 
 * **[Logyline](https://logyline.com/)**  
@@ -4457,6 +4541,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, VR/AR
   * **Domaine d'application**: Entrainement/Formation/Serious Game
+
+
+* **[Shine Research](https://shine-group.tech/)**  
+  * _Studio de jeu vidéo de Châtillon-le-Duc (près de Besançon) fondé en 2012, spécialisé dans le portage de jeux PC vers les consoles pour des éditeurs internationaux, qui développe et édite aussi ses propres titres (Architect Life, Rooftops & Alleys) et des applications AR/VR._
+  * **Mots clés**: _portage console, jeu vidéo, édition de jeux, simulation_
+  * **Localisation**: Châtillon-le-Duc
+  * **Nombres d'employés**: 40
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Shiro Games](https://shirogames.com)**  

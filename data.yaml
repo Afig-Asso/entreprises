@@ -8681,3 +8681,138 @@
   Application-domain: [Jeu Vidéo]
   Employees: 2
   Keywords: [jeu vidéo, indépendant, Minishoot' Adventures]
+
+- Name: Da Viking Code
+  url: https://davikingcode.com/
+  Description: 'Studio dijonnais créé en 2014 qui conçoit des expériences interactives issues des technologies du jeu vidéo : serious games, applications VR/AR, jumeaux numériques en réalité virtuelle et jeux pour l''industrie, l''ingénierie, le médical et le patrimoine.'
+  Place:
+    - City: Dijon
+      Coordinates: [47.35364, 5.05161]
+      SIREN: '799540687'
+      Address: 14 Rue Jean Giono, 21000 Dijon
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Patrimoine/Culture, Jeu Vidéo]
+  Jobs: https://davikingcode.com/en/join-us/
+  Employees: 15
+  Keywords: [serious game, réalité virtuelle, réalité augmentée, jumeau numérique, 3D temps réel]
+
+- Name: Shine Research
+  url: https://shine-group.tech/
+  Description: Studio de jeu vidéo de Châtillon-le-Duc (près de Besançon) fondé en 2012, spécialisé dans le portage de jeux PC vers les consoles pour des éditeurs internationaux, qui développe et édite aussi ses propres titres (Architect Life, Rooftops & Alleys) et des applications AR/VR.
+  Place:
+    - City: Châtillon-le-Duc
+      Coordinates: [47.28882, 5.99442]
+      SIREN: '753977677'
+      Address: 1 Rue du Pré Brenot, 25870 Châtillon-le-Duc
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production, VR/AR]
+  Application-domain: [Jeu Vidéo]
+  Employees: 40
+  Keywords: [portage console, jeu vidéo, édition de jeux, simulation]
+
+- Name: Digital Surf
+  url: https://www.digitalsurf.com/
+  Description: Éditeur bisontin fondé en 1989 du logiciel Mountains d'imagerie, de visualisation 3D et d'analyse de surfaces (profilométrie, microscopie électronique et à sonde locale, spectroscopie), intégré par plus de 50 fabricants d'instruments.
+  Place:
+    - City: Besançon
+      Coordinates: [47.23734, 5.98003]
+      SIREN: '352184683'
+      Address: 16 Rue Lavoisier, 25000 Besançon
+  Scientific-domain: [Imagerie, Visualisation, Géométrie, Reconstruction]
+  Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique]
+  Jobs: https://www.digitalsurf.com/about/jobs/
+  Employees: 75
+  Keywords: [métrologie de surface, microscopie, imagerie 3D, analyse d'images]
+
+- Name: Casis
+  url: https://casis.fr/
+  Description: 'Éditeur de logiciels d''imagerie cardiaque issu de la recherche au CHU de Dijon (CArdiac Simulation & Imaging Software) : suite QIR d''analyse d''IRM cardiaque (fonction, strain, perfusion, flux 4D) avec segmentation par apprentissage profond.'
+  Place:
+    - City: Quetigny
+      Coordinates: [47.31477, 5.09225]
+      SIREN: '820650935'
+      Address: 7 Impasse des Boussenots, 21800 Quetigny
+  Scientific-domain: [Imagerie, Visualisation, Vision]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://casis.fr/careers-en/
+  Employees: 35
+  Keywords: [IRM cardiaque, imagerie médicale, flux 4D, segmentation IA]
+
+- Name: CTEC Vision
+  url: https://ctecvision.com/
+  Description: 'Bureau d''études belfortain spécialisé dans la mesure 3D sans contact par scanner laser : relevés et nuages de points, plans 2D/3D et visites virtuelles d''installations industrielles (nucléaire, métallurgie, ferroviaire, maritime, patrimoine).'
+  Place:
+    - City: Belfort
+      Coordinates: [47.62917, 6.85786]
+      SIREN: '883798936'
+      Address: 6 Rue du Rhône, 90000 Belfort
+  Scientific-domain: [Acquisition, Reconstruction, Design/Fabrication]
+  Application-domain: [Industrie/Manufacturing/CAO, Énergie/Environnement, Patrimoine/Culture]
+  Employees: 7
+  Keywords: [scan laser 3D, nuage de points, relevé industriel, visite virtuelle]
+
+- Name: Capture4cad
+  url: https://capture4cad.com/
+  Description: 'Société de numérisation 3D de Saône (près de Besançon) : scan laser statique et dynamique (SLAM), photogrammétrie, modélisation BIM et 3D, et, via sa marque Héritage Virtuel, restitutions 3D immersives de monuments et sites archéologiques.'
+  Place:
+    - City: Saône
+      Coordinates: [47.21183, 6.10186]
+      SIREN: '840904049'
+      Address: Rue Joseph Climent, 25660 Saône
+  Scientific-domain: [Acquisition, Reconstruction, Modélisation, VR/AR]
+  Application-domain: [Architecture/BTP/Urbanisme, Patrimoine/Culture]
+  Employees: 4
+  Keywords: [scan 3D, photogrammétrie, BIM, patrimoine virtuel]
+
+- Name: 5Discovery
+  url: https://www.5discovery.com/
+  Description: Start-up nivernaise éditrice d'une plateforme de formation en réalité virtuelle et IA (soft skills, prise de parole, gestion du stress, sensibilisation au handicap) accessible en casque VR ou en e-learning immersif 360°.
+  Place:
+    - City: Nevers
+      Coordinates: [46.99202, 3.14317]
+      SIREN: '848834289'
+      Address: L'Inkub, 7 bis Rue du 13e de Ligne, 58000 Nevers
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game]
+  Employees: 7
+  Keywords: [formation VR, soft skills, e-learning immersif, métavers]
+
+- Name: Cadwork France
+  url: https://www.04.cadwork.com/
+  Description: 'Filiale française, installée à Saône (près de Besançon), de l''éditeur suisse Cadwork, logiciels de CAO/FAO 3D pour la construction bois, la charpente et la menuiserie (cadwork 3D) : distribution, formation et support technique pour la France.'
+  Place:
+    - City: Saône
+      Coordinates: [47.21183, 6.10186]
+      SIREN: '752221903'
+      Address: ZA de la Louvière, Rue Joseph Climent, 25660 Saône
+    - Country: Suisse
+      City: Châtel-Saint-Denis
+  Scientific-domain: [Design/Fabrication, Modélisation]
+  Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [CAO bois, charpente, FAO, BIM, modélisation 3D]
+
+- Name: Caddev
+  url: https://www.caddev.info/
+  Description: Éditeur de Saône (groupe W4C) qui développe des plugins pour le logiciel de CAO bois cadwork 3D (assemblages, calcul statique, programmation visuelle DeepNode, optimisation de panneaux), des applications web métier (Lisa.Blue pour le dimensionnement de charpentes) et des outils de visualisation 3D et d'IA.
+  Place:
+    - City: Saône
+      Coordinates: [47.21183, 6.10186]
+      SIREN: '827761156'
+      Address: Rue Joseph Climent, 25660 Saône
+  Scientific-domain: [Design/Fabrication, Pipeline/Outils de production, Visualisation, Simulation]
+  Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [plugins CAO, cadwork, construction bois, calcul de structure, 3D]
+
+- Name: Logopress
+  url: https://www.logopress.com/
+  Description: 'Éditeur fondé en 1989 à Pouilley-les-Vignes (près de Besançon), filiale d''AutoForm depuis 2018, de logiciels de conception d''outils de presse intégrés à SOLIDWORKS : mise en bande, dépliage et prédiction de flans, emboutissage, simulation de découpe (ProgSim), utilisés dans plus de 30 pays.'
+  Place:
+    - City: Pouilley-les-Vignes
+      Coordinates: [47.25828, 5.9264]
+      SIREN: '352615801'
+      Address: ZA Les Salines, 25115 Pouilley-les-Vignes
+  Scientific-domain: [Design/Fabrication, Géométrie, Simulation]
+  Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Employees: 7
+  Keywords: [CAO, outils de presse, tôlerie, dépliage, SOLIDWORKS]

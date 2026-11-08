@@ -239,6 +239,10 @@
             44.1605,
             4.6236
         ],
+        "France/Belfort": [
+            47.638,
+            6.8629
+        ],
         "France/Besan\u00e7on": [
             47.238,
             6.0244
@@ -347,6 +351,10 @@
             45.7787,
             4.7459
         ],
+        "France/Ch\u00e2tillon-le-Duc": [
+            47.3082,
+            6.006
+        ],
         "France/Clermont-Ferrand": [
             45.7775,
             3.0819
@@ -370,6 +378,10 @@
         "France/Cou\u00ebron": [
             47.2115,
             -1.7271
+        ],
+        "France/Dijon": [
+            47.3216,
+            5.0415
         ],
         "France/Entzheim": [
             48.5346,
@@ -571,6 +583,10 @@
             45.6246,
             0.0682
         ],
+        "France/Nevers": [
+            46.9877,
+            3.1577
+        ],
         "France/Nice": [
             43.7009,
             7.2684
@@ -614,6 +630,14 @@
         "France/Plouzan\u00e9": [
             48.3817,
             -4.6212
+        ],
+        "France/Pouilley-les-Vignes": [
+            47.2569,
+            5.9344
+        ],
+        "France/Quetigny": [
+            47.3126,
+            5.1163
         ],
         "France/Ramonville-Saint-Agne": [
             43.5461,
@@ -742,6 +766,10 @@
         "France/Savigny-sur-Orge": [
             48.6795,
             2.3458
+        ],
+        "France/Sa\u00f4ne": [
+            47.2249,
+            6.1169
         ],
         "France/Schiltigheim": [
             48.6047,
@@ -934,6 +962,10 @@
         "Suisse": [
             46.7986,
             8.232
+        ],
+        "Suisse/Ch\u00e2tel-Saint-Denis": [
+            46.5265,
+            6.8997
         ],
         "Suisse/Lausanne": [
             46.5218,
@@ -1206,7 +1238,13 @@
         "Laval": "Laval",
         "Chang\u00e9": "Laval",
         "Bonchamp-l\u00e8s-Laval": "Laval",
-        "Louvign\u00e9": "Laval"
+        "Louvign\u00e9": "Laval",
+        "Besan\u00e7on": "Besan\u00e7on",
+        "Ch\u00e2tillon-le-Duc": "Besan\u00e7on",
+        "Pouilley-les-Vignes": "Besan\u00e7on",
+        "Sa\u00f4ne": "Besan\u00e7on",
+        "Dijon": "Dijon",
+        "Quetigny": "Dijon"
     },
     "Listing": [
         {
@@ -22042,6 +22080,337 @@
                 "jeu vid\u00e9o",
                 "ind\u00e9pendant",
                 "Minishoot' Adventures"
+            ]
+        },
+        {
+            "Name": "Da Viking Code",
+            "url": "https://davikingcode.com/",
+            "Description": "Studio dijonnais cr\u00e9\u00e9 en 2014 qui con\u00e7oit des exp\u00e9riences interactives issues des technologies du jeu vid\u00e9o : serious games, applications VR/AR, jumeaux num\u00e9riques en r\u00e9alit\u00e9 virtuelle et jeux pour l'industrie, l'ing\u00e9nierie, le m\u00e9dical et le patrimoine.",
+            "Place": [
+                {
+                    "City": "Dijon",
+                    "Coordinates": [
+                        47.35364,
+                        5.05161
+                    ],
+                    "SIREN": "799540687",
+                    "Address": "14 Rue Jean Giono, 21000 Dijon"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO",
+                "Patrimoine/Culture",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://davikingcode.com/en/join-us/",
+            "Employees": 15,
+            "Keywords": [
+                "serious game",
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "jumeau num\u00e9rique",
+                "3D temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Shine Research",
+            "url": "https://shine-group.tech/",
+            "Description": "Studio de jeu vid\u00e9o de Ch\u00e2tillon-le-Duc (pr\u00e8s de Besan\u00e7on) fond\u00e9 en 2012, sp\u00e9cialis\u00e9 dans le portage de jeux PC vers les consoles pour des \u00e9diteurs internationaux, qui d\u00e9veloppe et \u00e9dite aussi ses propres titres (Architect Life, Rooftops & Alleys) et des applications AR/VR.",
+            "Place": [
+                {
+                    "City": "Ch\u00e2tillon-le-Duc",
+                    "Coordinates": [
+                        47.28882,
+                        5.99442
+                    ],
+                    "SIREN": "753977677",
+                    "Address": "1 Rue du Pr\u00e9 Brenot, 25870 Ch\u00e2tillon-le-Duc"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 40,
+            "Keywords": [
+                "portage console",
+                "jeu vid\u00e9o",
+                "\u00e9dition de jeux",
+                "simulation"
+            ]
+        },
+        {
+            "Name": "Digital Surf",
+            "url": "https://www.digitalsurf.com/",
+            "Description": "\u00c9diteur bisontin fond\u00e9 en 1989 du logiciel Mountains d'imagerie, de visualisation 3D et d'analyse de surfaces (profilom\u00e9trie, microscopie \u00e9lectronique et \u00e0 sonde locale, spectroscopie), int\u00e9gr\u00e9 par plus de 50 fabricants d'instruments.",
+            "Place": [
+                {
+                    "City": "Besan\u00e7on",
+                    "Coordinates": [
+                        47.23734,
+                        5.98003
+                    ],
+                    "SIREN": "352184683",
+                    "Address": "16 Rue Lavoisier, 25000 Besan\u00e7on"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "G\u00e9om\u00e9trie",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.digitalsurf.com/about/jobs/",
+            "Employees": 75,
+            "Keywords": [
+                "m\u00e9trologie de surface",
+                "microscopie",
+                "imagerie 3D",
+                "analyse d'images"
+            ]
+        },
+        {
+            "Name": "Casis",
+            "url": "https://casis.fr/",
+            "Description": "\u00c9diteur de logiciels d'imagerie cardiaque issu de la recherche au CHU de Dijon (CArdiac Simulation & Imaging Software) : suite QIR d'analyse d'IRM cardiaque (fonction, strain, perfusion, flux 4D) avec segmentation par apprentissage profond.",
+            "Place": [
+                {
+                    "City": "Quetigny",
+                    "Coordinates": [
+                        47.31477,
+                        5.09225
+                    ],
+                    "SIREN": "820650935",
+                    "Address": "7 Impasse des Boussenots, 21800 Quetigny"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://casis.fr/careers-en/",
+            "Employees": 35,
+            "Keywords": [
+                "IRM cardiaque",
+                "imagerie m\u00e9dicale",
+                "flux 4D",
+                "segmentation IA"
+            ]
+        },
+        {
+            "Name": "CTEC Vision",
+            "url": "https://ctecvision.com/",
+            "Description": "Bureau d'\u00e9tudes belfortain sp\u00e9cialis\u00e9 dans la mesure 3D sans contact par scanner laser : relev\u00e9s et nuages de points, plans 2D/3D et visites virtuelles d'installations industrielles (nucl\u00e9aire, m\u00e9tallurgie, ferroviaire, maritime, patrimoine).",
+            "Place": [
+                {
+                    "City": "Belfort",
+                    "Coordinates": [
+                        47.62917,
+                        6.85786
+                    ],
+                    "SIREN": "883798936",
+                    "Address": "6 Rue du Rh\u00f4ne, 90000 Belfort"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "\u00c9nergie/Environnement",
+                "Patrimoine/Culture"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "scan laser 3D",
+                "nuage de points",
+                "relev\u00e9 industriel",
+                "visite virtuelle"
+            ]
+        },
+        {
+            "Name": "Capture4cad",
+            "url": "https://capture4cad.com/",
+            "Description": "Soci\u00e9t\u00e9 de num\u00e9risation 3D de Sa\u00f4ne (pr\u00e8s de Besan\u00e7on) : scan laser statique et dynamique (SLAM), photogramm\u00e9trie, mod\u00e9lisation BIM et 3D, et, via sa marque H\u00e9ritage Virtuel, restitutions 3D immersives de monuments et sites arch\u00e9ologiques.",
+            "Place": [
+                {
+                    "City": "Sa\u00f4ne",
+                    "Coordinates": [
+                        47.21183,
+                        6.10186
+                    ],
+                    "SIREN": "840904049",
+                    "Address": "Rue Joseph Climent, 25660 Sa\u00f4ne"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Patrimoine/Culture"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "scan 3D",
+                "photogramm\u00e9trie",
+                "BIM",
+                "patrimoine virtuel"
+            ]
+        },
+        {
+            "Name": "5Discovery",
+            "url": "https://www.5discovery.com/",
+            "Description": "Start-up nivernaise \u00e9ditrice d'une plateforme de formation en r\u00e9alit\u00e9 virtuelle et IA (soft skills, prise de parole, gestion du stress, sensibilisation au handicap) accessible en casque VR ou en e-learning immersif 360\u00b0.",
+            "Place": [
+                {
+                    "City": "Nevers",
+                    "Coordinates": [
+                        46.99202,
+                        3.14317
+                    ],
+                    "SIREN": "848834289",
+                    "Address": "L'Inkub, 7 bis Rue du 13e de Ligne, 58000 Nevers"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "formation VR",
+                "soft skills",
+                "e-learning immersif",
+                "m\u00e9tavers"
+            ]
+        },
+        {
+            "Name": "Cadwork France",
+            "url": "https://www.04.cadwork.com/",
+            "Description": "Filiale fran\u00e7aise, install\u00e9e \u00e0 Sa\u00f4ne (pr\u00e8s de Besan\u00e7on), de l'\u00e9diteur suisse Cadwork, logiciels de CAO/FAO 3D pour la construction bois, la charpente et la menuiserie (cadwork 3D) : distribution, formation et support technique pour la France.",
+            "Place": [
+                {
+                    "City": "Sa\u00f4ne",
+                    "Coordinates": [
+                        47.21183,
+                        6.10186
+                    ],
+                    "SIREN": "752221903",
+                    "Address": "ZA de la Louvi\u00e8re, Rue Joseph Climent, 25660 Sa\u00f4ne"
+                },
+                {
+                    "Country": "Suisse",
+                    "City": "Ch\u00e2tel-Saint-Denis"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "CAO bois",
+                "charpente",
+                "FAO",
+                "BIM",
+                "mod\u00e9lisation 3D"
+            ]
+        },
+        {
+            "Name": "Caddev",
+            "url": "https://www.caddev.info/",
+            "Description": "\u00c9diteur de Sa\u00f4ne (groupe W4C) qui d\u00e9veloppe des plugins pour le logiciel de CAO bois cadwork 3D (assemblages, calcul statique, programmation visuelle DeepNode, optimisation de panneaux), des applications web m\u00e9tier (Lisa.Blue pour le dimensionnement de charpentes) et des outils de visualisation 3D et d'IA.",
+            "Place": [
+                {
+                    "City": "Sa\u00f4ne",
+                    "Coordinates": [
+                        47.21183,
+                        6.10186
+                    ],
+                    "SIREN": "827761156",
+                    "Address": "Rue Joseph Climent, 25660 Sa\u00f4ne"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Pipeline/Outils de production",
+                "Visualisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "plugins CAO",
+                "cadwork",
+                "construction bois",
+                "calcul de structure",
+                "3D"
+            ]
+        },
+        {
+            "Name": "Logopress",
+            "url": "https://www.logopress.com/",
+            "Description": "\u00c9diteur fond\u00e9 en 1989 \u00e0 Pouilley-les-Vignes (pr\u00e8s de Besan\u00e7on), filiale d'AutoForm depuis 2018, de logiciels de conception d'outils de presse int\u00e9gr\u00e9s \u00e0 SOLIDWORKS : mise en bande, d\u00e9pliage et pr\u00e9diction de flans, emboutissage, simulation de d\u00e9coupe (ProgSim), utilis\u00e9s dans plus de 30 pays.",
+            "Place": [
+                {
+                    "City": "Pouilley-les-Vignes",
+                    "Coordinates": [
+                        47.25828,
+                        5.9264
+                    ],
+                    "SIREN": "352615801",
+                    "Address": "ZA Les Salines, 25115 Pouilley-les-Vignes"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "G\u00e9om\u00e9trie",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "CAO",
+                "outils de presse",
+                "t\u00f4lerie",
+                "d\u00e9pliage",
+                "SOLIDWORKS"
             ]
         }
     ]
