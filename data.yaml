@@ -157,6 +157,7 @@
     - Country: Inde
     - International: true
   Product: [Photoshop, Substance 3D, Premiere, Illustrator, etc.]
+  Jobs: https://careers.adobe.com/us/en
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation, Design/Fabrication]
   Application-domain: [Art/Evenementiel, Cinéma/Films d'Animation/VFX]
   Keywords: [plugin/logiciel pour artistes, retouche d'image, montage vidéo, IA générative, Photoshop, Firefly, Substance 3D]
@@ -193,6 +194,7 @@
     - Country: Singapour
     - Country: Brésil
       City: São Paulo
+  Jobs: https://jobs.aligntech.com/
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Médical/Biologique]
   Keywords: [dentaire, orthodontie, aligneurs, scanner intraoral, Invisalign, iTero]
@@ -297,6 +299,7 @@
       City: Vancouver
     - Country: États-Unis
       City: Burbank
+  Jobs: https://animallogic.com/careers/
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [long métrage, animation 3D, effets visuels, USD, Netflix Animation Studios]
@@ -475,6 +478,7 @@
   Place:
     - Country: États-Unis
       City: [Orlando, Detroit]
+  Jobs: https://www.brandxr.io/careers
   Scientific-domain: [VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
   Keywords: [réalité augmentée, agence créative, marketing, WebAR, filtres réseaux sociaux, e-commerce/configurateur 3D]
@@ -519,6 +523,7 @@
   url: https://www.christiedigital.com/en-gb
   Description: Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
   Place: [{Country: États-Unis, State: California}, {Country: Canada, State: Ontario}]
+  Jobs: https://www.christiedigital.com/en-gb/about/careers/
   Scientific-domain: [VR/AR, Visualisation]
   Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
   Keywords: [projecteur, cinéma numérique, mur LED, événementiel/mapping, dôme, production virtuelle, salle de contrôle]
@@ -578,6 +583,7 @@
       Coordinates: [48.87185, 2.34608]
       SIREN: '838865327'
       Address: '10 Rue Rougemont, 75009 Paris'
+  Jobs: https://www.dada-animation.com/jobs/
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 3D, séries d'animation, documentaire animé, jeu VR, œuvres originales]
@@ -931,6 +937,7 @@
       Coordinates: [48.84519, 2.41746]
       SIREN: '834105470'
       Address: 14 Avenue du General de Gaulle, 94160 Saint-Mandé
+  Jobs: https://www.gleamer.ai/jobs
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, diagnostic, deep learning, radiologie, dispositif médical]
@@ -960,6 +967,7 @@
       SIREN: '811077049'
       Address: '15 Rue Rouget de Lisle, 92130 Issy-les-Moulineaux'
     - International: True
+  Jobs: https://job-boards.greenhouse.io/goprojobs
   Scientific-domain: [Acquisition, Imagerie, Vision]
   Application-domain: [Générique]
   Keywords: [caméra d'action, vidéo 360°, stabilisation d'image, matériel grand public]
@@ -996,6 +1004,7 @@
   Place:
     - Country: Suède
       City: Stockholm
+  Jobs: https://hexagon.com/about/careers
   Scientific-domain: [Acquisition, Reconstruction, Géométrie, Vision]
   Application-domain: [Géospatial/Cartographie, Industrie/Manufacturing/CAO]
   Keywords: [métrologie, lidar, scanner 3D, SIG, jumeau numérique, Leica Geosystems, industrie/usinage]
@@ -1009,6 +1018,7 @@
       Coordinates: [43.67796, 5.50416]
       SIREN: '833640022'
       Address: '22 Impasse Francois Gernelle, 84120 Pertuis'
+  Jobs: https://www.mistralis.fr/recrutement-industriel-robotique/
   Scientific-domain: [Vision, Acquisition, Simulation, Design/Fabrication]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense]
   Keywords: [contrôle non destructif, inspection industrielle, capteur optique, machines spéciales, nucléaire, fabrication additive]
@@ -1021,6 +1031,7 @@
       Coordinates: [43.82334, 4.37104]
       SIREN: '515311983'
       Address: ZAC Parc Georges Besse II, 136 chemin de la Tour de l'Évêque, 30000 Nîmes
+  Jobs: https://geofit.fr/nous-rejoindre/
   Scientific-domain: [Modélisation, VR/AR]
   Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme]
   Keywords: [jumeau numérique, SIG, territoire, 3D géospatiale, sûreté, aménagement urbain]
@@ -1084,6 +1095,7 @@
       Coordinates: [48.83516, 2.3694]
       SIREN: '885384289'
       Address: Station F, 55 boulevard Vincent Auriol, 75013 Paris
+  Jobs: https://www.jasper.ai/careers
   Scientific-domain: [IA générative (image/3D), Vision]
   Application-domain: [Générique]
   Keywords: [IA générative, retouche d'image, détourage, super-résolution, API, Jasper]
@@ -1124,6 +1136,7 @@
       Coordinates: [48.88062, 2.34239]
       SIREN: '818399651'
       Address: '37 Avenue Trudaine, 75009 Paris'
+  Jobs: https://kayrros1.recruitee.com/
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Énergie/Environnement, Géospatial/Cartographie]
   Keywords: [imagerie satellite, SIG, deep learning, méthane, risque climatique, feux de forêt, déforestation]
@@ -1196,6 +1209,7 @@
       SIREN: '300702305'
       Address: 23 Chemin de Marticot, 33610 Cestas
     - International: true
+  Jobs: https://careers.lectra.com/
   Scientific-domain: [Modélisation, Simulation, Design/Fabrication]
   Application-domain: [Mode/Vêtements/Accessoires]
   Keywords: [CAO, mode/textile, découpe automatique, patronage, PLM, automobile, ameublement]
@@ -1209,6 +1223,7 @@
       Coordinates: [43.61973, 3.82287]
       SIREN: '813784659'
       Address: '710 Rue Favre de Saint Castor, 34080 Montpellier'
+  Jobs: https://les-fees-speciales.coop/contact/recrutement/
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
   Keywords: [animation 2D, animation 3D, long métrage, séries d'animation, Blender, patrimoine/musée, open source]
@@ -1235,6 +1250,7 @@
       Coordinates: [48.88347, 2.29942]
       SIREN: '791919376'
       Address: '96B Rue Pierre Demours, 75017 Paris'
+  Jobs: https://lightbulbcrew.fr/jobs/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu indépendant, console/PC, RPG tactique, tour par tour, roguelite, édition de jeux]
@@ -1279,6 +1295,7 @@
       Coordinates: [48.87086, 2.30537]
       SIREN: '905363016'
       Address: 66 avenue des Champs-Élysées, 75008 Paris
+  Jobs: https://fr.mcovision.com/jobs
   Scientific-domain: [Vision, Analyse de données]
   Application-domain: [Générique]
   Keywords: [vision par ordinateur, deep learning, conseil R&D, imagerie médicale, segmentation, formation professionnelle]
@@ -1302,6 +1319,7 @@
   Place:
     - Country: Pays-Bas
       City: Eindhoven
+  Jobs: https://www.manus-meta.com/careers
   Scientific-domain: [Acquisition, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
   Keywords: [gants de données, motion capture, capture des mains, haptique, réalité virtuelle, robotique]
@@ -1314,6 +1332,7 @@
       Coordinates: [48.85524, 2.33488]
       SIREN: '529232720'
       Address: '26 Rue Jacob, 75006 Paris'
+  Jobs: https://www.manzalab.com/jobs
   Scientific-domain: [Modélisation, VR/AR, Web/Cloud/Big Data]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game]
   Keywords: [serious game, réalité virtuelle, formation professionnelle, plateforme collaborative VR, avatars, Teemew]
@@ -1325,6 +1344,7 @@
   Place:
     - Country: États-Unis
     - International: true
+  Jobs: https://marmoset.co/jobs/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
   Keywords: [Marmoset Toolbag, baking de textures, texturing, rendu temps réel, plugin/logiciel pour artistes, visualiseur 3D]
@@ -1335,6 +1355,7 @@
   Place:
     - Country: États-Unis
       City: Orlando
+  Jobs: https://www.massvirtual.com/career
   Scientific-domain: [VR/AR, Simulation]
   Application-domain: [Automobile/Navigation/Aviation]
   Keywords: [réalité étendue, formation professionnelle, simulateur d'entraînement, défense, aéronautique, MassXR]
@@ -1453,6 +1474,7 @@
       Coordinates: [48.90693, 2.35801]
       SIREN: '524020682'
       Address: '113 Avenue du Président Wilson, 93210 Saint-Denis'
+  Jobs: https://www.welcometothejungle.com/fr/companies/modulopi/jobs
   Scientific-domain: [VR/AR]
   Application-domain: [Art/Evenementiel]
   Keywords: [serveur média, événementiel/mapping, mapping architectural, spectacle vivant, installations permanentes, Modulo Kinetic]
@@ -1466,6 +1488,7 @@
       Coordinates: [45.19286, 5.71235]
       SIREN: '495123002'
       Address: 22 avenue Doyen Louis Weil, 38000 Grenoble
+  Jobs: https://www.invensense.tdk.com/en-us/careers
   Scientific-domain: [Acquisition, VR/AR, IHM/Haptique]
   Application-domain: [Générique]
   Keywords: [capteurs inertiels, MEMS, fusion de capteurs, suivi de mouvement, réalité virtuelle, stabilisation d'image]
@@ -1507,6 +1530,7 @@
       Coordinates: [45.76695, 4.85973]
       SIREN: '479833808'
       Address: 13 bis place Jules Ferry, 69006 Lyon
+  Jobs: https://careers.qima.com/jobs
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie cosmétique, analyse d'images de la peau, cheveux, deep learning, essais cliniques, ColorFace]
@@ -1677,6 +1701,7 @@
       Coordinates: [48.69702, 2.18057]
       SIREN: '842567422'
       Address: 6 Boulevard Dubreuil, 91400 Orsay
+  Jobs: https://lush-glitter-03a.notion.site/Primaa-s-Career-359be377ea19802a8794c0422f8bc527
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Keywords: [diagnostic, anatomopathologie, deep learning, oncologie, lames histologiques, CE-IVDR]
@@ -1690,6 +1715,7 @@
       Coordinates: [48.84602, 2.37977]
       SIREN: '800681892'
       Address: 117 rue de Charenton, 75012 Paris
+  Jobs: https://careers.prophesee.ai/jobs
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Générique]
   Keywords: [capteur événementiel, vision par ordinateur, puce/semi-conducteur, neuromorphique, défense, robotique, industrie/usinage]
@@ -1704,6 +1730,7 @@
       Coordinates: [48.81808, 2.31874]
       SIREN: '528593817'
       Address: '1 Avenue Jean Jaurès, 92120 Montrouge'
+  Jobs: https://join.com/companies/qarnot
   Scientific-domain: [Web/Cloud/Big Data]
   Application-domain: [Générique]
   Keywords: [calcul haute performance, cloud/streaming, bas carbone, simulation physique, ferme de rendu, Scaleway]
@@ -1773,6 +1800,7 @@
       SIREN: '542039532'
       Address: Tour Saint-Gobain, 12 place de l'Iris, 92400 Courbevoie
     - International: true
+  Jobs: https://www.saint-gobain.com/fr/carrieres
   Scientific-domain: [Rendu offline/VFX, Simulation, Visualisation]
   Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO]
   Keywords: [matériaux de construction, vitrage, isolation thermique, plaques de plâtre, céramiques, vitrage automobile]
@@ -1823,6 +1851,7 @@
     - City: Paris
       Coordinates: [48.84357, 2.34763]
       Address: 6 rue Amyot, 75005 Paris
+  Jobs: https://csl.sony.fr/careers/
   Scientific-domain: [IA générative (image/3D), Vision, Imagerie, Analyse de données]
   Application-domain: [Générique]
   Keywords: [laboratoire de recherche, IA pour la musique, créativité assistée par IA, langage, développement durable]
@@ -1871,6 +1900,7 @@
       City: Londres
     - Country: Japon
       City: Tokyo
+  Jobs: https://stability.ai/careers
   Scientific-domain: [IA générative (image/3D), Vision]
   Application-domain: [Générique, Cinéma/Films d'Animation/VFX]
   Keywords: [IA générative, Stable Diffusion, génération vidéo, génération 3D, audio génératif, open source]
@@ -1993,6 +2023,7 @@
     - Country: Inde
       City: Bangalore
     - International: true
+  Jobs: https://www.technicolorgames.com/careers/
   Scientific-domain: [Animation]
   Application-domain: [Jeu Vidéo]
   Keywords: [co-développement, concept art, animation 3D, cinématiques de jeu, effets visuels, tech art]
@@ -2287,6 +2318,7 @@
       Coordinates: [43.61498, 3.90957]
       SIREN: '811525005'
       Address: '78 Allée John Napier, 34000 Montpellier'
+  Jobs: https://www.virtualisvr.com/a-propos/nous-rejoindre
   Scientific-domain: [VR/AR]
   Application-domain: [Médical/Biologique]
   Keywords: [réalité virtuelle, rééducation, troubles vestibulaires, kinésithérapie, dispositif médical, plateforme dynamique]
@@ -2447,6 +2479,7 @@
       Coordinates: [48.86732, 2.34702]
       SIREN: '830377990'
       Address: 89 Rue Reaumur, 75002 Paris
+  Jobs: https://careers.werecruit.io/en/naver-labs-europe
   Scientific-domain: [Vision, Reconstruction, Acquisition]
   Application-domain: [Robotique/Systèmes autonomes, Générique]
   Keywords: [vision par ordinateur, deep learning, robotique, modèles de fondation 3D, modèle de corps humain]
@@ -2547,6 +2580,7 @@
       Coordinates: [45.75332, 4.85735]
       SIREN: '408478733'
       Address: '90 Avenue Félix Faure, 69003 Lyon'
+  Jobs: https://www.datakit.com/en/join_datakit.php
   Scientific-domain: [Géométrie, Design/Fabrication, Modélisation]
   Application-domain: [Industrie/Manufacturing/CAO, Générique]
   Keywords: [CAO, échange de données, conversion de formats, B-Rep, SDK, maillage]
@@ -2560,6 +2594,7 @@
       Coordinates: [43.5048, 1.4554]
       SIREN: '434891297'
       Address: '11 Avenue du Lac, 31320 Vigoulet-Auzil'
+  Jobs: https://www.oktal-se.fr/company/careers/
   Scientific-domain: [Simulation, Rendu offline/VFX, Modélisation]
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation]
   Keywords: [simulation de capteurs, infrarouge, radar, lidar, défense, aéronautique, données synthétiques, SE-Workbench]
@@ -2597,6 +2632,7 @@
       Coordinates: [48.84179, 2.39546]
       SIREN: '900329608'
       Address: '39 Rue de la Gare de Reuilly, 75012 Paris'
+  Jobs: https://www.exwayz.com/jobs/
   Scientific-domain: [Vision, Reconstruction, Acquisition]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
   Keywords: [lidar, SLAM, localisation, cartographie, robotique, véhicule autonome, nuage de points]
@@ -2621,6 +2657,7 @@
       Coordinates: [48.57683, 7.73554]
       SIREN: '794458125'
       Address: '8 Rue Gustave Adolphe Hirn, 67000 Strasbourg'
+  Jobs: https://www.visiblepatient.com/professionnels/emploi/
   Scientific-domain: [Imagerie, Reconstruction, Visualisation]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, segmentation, modélisation 3D patient, planification chirurgicale, chirurgie assistée, dispositif médical]
@@ -2635,6 +2672,7 @@
       Address: 'IHU Liryc, Hôpital Xavier Arnozan, Avenue du Haut-Lévêque, 33600 Pessac'
     - Country: États-Unis
       City: Boston
+  Jobs: https://www.inheartmedical.com/careers
   Scientific-domain: [Imagerie, Reconstruction, Simulation]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, jumeau numérique, cardiologie, planification chirurgicale, deep learning, segmentation, dispositif médical]
@@ -2688,6 +2726,7 @@
       Coordinates: [48.86762, 2.33946]
       SIREN: '853337665'
       Address: '12 Rue Vivienne, 75002 Paris'
+  Jobs: https://www.welcometothejungle.com/fr/companies/inbolt/jobs
   Scientific-domain: [Vision, Acquisition]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
   Keywords: [robotique, vision par ordinateur, caméra 3D, deep learning, industrie/usinage, automobile, bin picking]
@@ -2700,6 +2739,7 @@
       Coordinates: [43.60961, 3.86461]
       SIREN: '890055171'
       Address: '28 Avenue de Lodève, 34000 Montpellier'
+  Jobs: https://www.sandfall.co/careers
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu indépendant, console/PC, Unreal Engine, jeu solo, RPG, narration]
@@ -2716,6 +2756,7 @@
       Coordinates: [43.61216, 3.90216]
       SIREN: '888571106'
       Address: Campus Majoria Pompignane, rue de la Vieille Poste, 34000 Montpellier
+  Jobs: https://forticheprod.com/become-a-forticher/
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [séries d'animation, animation 3D, rendu stylisé, cinématiques de jeu, clips, Arcane]
@@ -2734,6 +2775,7 @@
       Coordinates: [45.6517, 0.15537]
       SIREN: '821722436'
       Address: '11 Avenue de Cognac, 16000 Angoulême'
+  Jobs: https://xilam.com/rejoignez-nous/
   Scientific-domain: [Animation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [séries d'animation, animation 2D, animation 3D, long métrage, jeunesse]
@@ -2747,6 +2789,7 @@
       Coordinates: [43.58054, 3.94046]
       SIREN: '523926467'
       Address: '125 Impasse Adam Smith, 34470 Pérols'
+  Jobs: https://www.dwarfanimation.com/careers
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 3D, séries d'animation, long métrage, cinématiques de jeu, pipeline maison]
@@ -2764,6 +2807,7 @@
       Coordinates: [48.84974, 2.30027]
       SIREN: '338438781'
       Address: 6-10 6 Rue de la Cavalerie, 75015 Paris
+  Jobs: https://www.illuminationstudiosparis.com/careers/
   Scientific-domain: [Rendu offline/VFX, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Keywords: [effets visuels, animation 3D, publicité, long métrage, séries, IA générative, documentaire]
@@ -2776,6 +2820,7 @@
       Coordinates: [48.84631, 2.38532]
       SIREN: '810965442'
       Address: '3 Rue Rondelet, 75012 Paris'
+  Jobs: https://careers.sloclap.com/jobs
   Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu indépendant, console/PC, Unreal Engine, jeu d'action, multijoueur en ligne, animation de combat]
@@ -2789,6 +2834,7 @@
       Coordinates: [44.85684, -0.56499]
       SIREN: '788434702'
       Address: '17 Cours du Médoc, 33300 Bordeaux'
+  Jobs: https://shirogames.com/jobs/
   Scientific-domain: [Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu indépendant, console/PC, moteur maison, jeu de stratégie, édition de jeux, Haxe/Heaps]
@@ -2819,6 +2865,7 @@
       Coordinates: [50.69945, 3.15941]
       SIREN: '437785223'
       Address: '75 Boulevard d''Armentières, 59100 Roubaix'
+  Jobs: https://recrutement.ankama.com/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Animation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
   Keywords: [MMORPG, multijoueur en ligne, jeu indépendant, séries d'animation, animation 2D, transmédia, édition BD/manga]
@@ -2831,6 +2878,7 @@
       Coordinates: [48.84556, 2.32497]
       SIREN: '845115963'
       Address: '140B Rue de Rennes, 75006 Paris'
+  Jobs: https://www.outsight.ai/company/careers/
   Scientific-domain: [Vision, Acquisition, Analyse de données]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
   Keywords: [lidar, nuage de points, suivi de personnes, analyse de flux, aéroports, vision par ordinateur]
@@ -2844,6 +2892,7 @@
       Coordinates: [47.25216, 5.99721]
       SIREN: '832674816'
       Address: '18 Rue Alain Savary, 25000 Besançon'
+  Jobs: https://pixee-medical.com/en/career/
   Scientific-domain: [VR/AR, Vision, Imagerie]
   Application-domain: [Médical/Biologique]
   Keywords: [réalité augmentée, chirurgie assistée, orthopédie, navigation chirurgicale, vision par ordinateur, lunettes connectées]
@@ -2857,6 +2906,7 @@
       Coordinates: [48.11277, -1.66147]
       SIREN: '500603287'
       Address: '74f Rue de Paris, 35000 Rennes'
+  Jobs: https://www.therenva.com/career
   Scientific-domain: [Imagerie, Visualisation, VR/AR]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, fusion d'images, navigation chirurgicale, chirurgie vasculaire, planification chirurgicale, deep learning]
@@ -2909,6 +2959,7 @@
       Coordinates: [48.85942, 2.37772]
       SIREN: '491420808'
       Address: '95 Boulevard Voltaire, 75011 Paris'
+  Jobs: https://mathematic.tv/contact/careers/
   Scientific-domain: [Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Art/Evenementiel]
   Keywords: [effets visuels, animation 3D, motion design, publicité, clips, cinématiques de jeu, IA générative]
@@ -2956,6 +3007,7 @@
       Coordinates: [48.88381, 2.38172]
       SIREN: '528948235'
       Address: 24 B Rue du Rhin, 75019 Paris
+  Jobs: https://www.unit-image.fr/fr/jobs/
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
   Keywords: [animation 3D, effets visuels, cinématiques de jeu, publicité, scanner 3D, motion design]
@@ -2969,6 +3021,7 @@
       Coordinates: [48.86974, 2.33938]
       SIREN: '415119858'
       Address: '9 Rue des Colonnes, 75002 Paris'
+  Jobs: https://eugensystems.com/recruitment/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
   Application-domain: [Jeu Vidéo]
   Keywords: [console/PC, jeu de stratégie, moteur maison, multijoueur en ligne, simulation militaire]
@@ -2982,6 +3035,7 @@
       Coordinates: [45.77115, 4.86554]
       SIREN: '788677714'
       Address: '31 Cours Emile Zola, 69100 Villeurbanne'
+  Jobs: https://www.passtechgames.com/careers/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu indépendant, console/PC, roguelite, jeu d'action, multijoueur en ligne]
@@ -3001,6 +3055,7 @@
       SIREN: '893062760'
       Address: Les Ateliers Magelis, 1 rue de Saintes, 16000 Angoulême
     - Country: Maurice
+  Jobs: https://www.gaoshanpictures.com/recrutement
   Scientific-domain: [Animation, Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 3D, long métrage, coproduction]
@@ -3015,6 +3070,7 @@
       Coordinates: [43.60789, 1.45338]
       SIREN: '753811843'
       Address: '97 Rue Pierre-Paul Riquet, 31000 Toulouse'
+  Jobs: https://jobs.tatprod.com/fr
   Scientific-domain: [Animation, Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 3D, séries d'animation, long métrage, jeunesse]
@@ -3044,6 +3100,7 @@
       Coordinates: [43.62073, 3.89465]
       SIREN: '814871042'
       Address: 1250 Avenue de Saint Maur, 34000 Montpellier
+  Jobs: https://www.magicdesignstudios.com/jobs-alert
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
   Keywords: [jeu indépendant, console/PC, jeu 2D, animation 2D, jeu d'action]
@@ -3057,6 +3114,7 @@
       Coordinates: [48.8584, 2.35636]
       SIREN: '841226319'
       Address: 20 Rue Sainte-Croix de la Bretonnerie, 75004 Paris
+  Jobs: https://tacticaladventures.teamtailor.com/jobs
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu indépendant, console/PC, Unity, RPG tactique, Donjons et Dragons]
@@ -3096,6 +3154,7 @@
       Coordinates: [43.70392, 7.26673]
       SIREN: '810845222'
       Address: 31 Rue de Paris, 06000 Nice
+  Jobs: https://wolcenstudio.bamboohr.com/careers
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu indépendant, console/PC, action-RPG, CryEngine]
@@ -3109,6 +3168,7 @@
       Coordinates: [45.77577, 4.86027]
       SIREN: '753486877'
       Address: Le Patio 35 Rue Louis Guerin, 69100 Villeurbanne
+  Jobs: https://www.oldskullgames.com/careers
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
   Application-domain: [Jeu Vidéo]
   Keywords: [co-développement, console/PC, mobile, jeu indépendant]
@@ -3126,6 +3186,7 @@
       Coordinates: [45.76282, 4.85396]
       SIREN: '901683375'
       Address: Hiptown Le Britania, bâtiment C, 20 boulevard Eugène Deruelle, 69003 Lyon
+  Jobs: https://www.microids.com/jobs/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
   Application-domain: [Jeu Vidéo]
   Keywords: [édition de jeux, console/PC, jeu d'aventure, adaptation de licences BD, portage]
@@ -3139,6 +3200,7 @@
       Coordinates: [48.8309, 2.3785]
       SIREN: '421476672'
       Address: 17-19 17 Rue Neuve Tolbiac, 75013 Paris
+  Jobs: http://www.ekosystem.com/jobs/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
   Application-domain: [Jeu Vidéo]
   Keywords: [console/PC, jeu de sport, action-RPG, moteur maison, adaptation de licences]
@@ -3153,6 +3215,7 @@
       Coordinates: [50.70062, 3.15798]
       SIREN: '483472833'
       Address: Bat Teinturerie 99 Boulevard Constantin Descat, 59200 Tourcoing
+  Jobs: https://ishtar.games/join-us/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Keywords: [console/PC, RPG tactique, roguelite, édition de jeux]
@@ -3171,6 +3234,7 @@
       Coordinates: [48.86754, 2.39945]
       SIREN: '852538461'
       Address: 96 Rue Orfila, 75020 Paris
+  Jobs: https://corporate.nacongaming.com/career/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Hardware]
   Application-domain: [Jeu Vidéo]
   Keywords: [édition de jeux, console/PC, accessoires de jeu, manettes, jeu de sport]
@@ -3185,6 +3249,7 @@
       Coordinates: [48.87284, 2.32745]
       SIREN: '519554299'
       Address: 45 Rue Godot de Mauroy, 75009 Paris
+  Jobs: https://prettysimplegames.com/careers
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
   Application-domain: [Jeu Vidéo]
   Keywords: [mobile, free-to-play, jeu casual, objets cachés, jeu social]
@@ -3198,6 +3263,7 @@
       Coordinates: [48.87823, 2.32796]
       SIREN: '752458240'
       Address: 16 Rue d'Athenes, 75009 Paris
+  Jobs: https://jobs.ohbibi.com/jobs
   Scientific-domain: [Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Keywords: [mobile, free-to-play, multijoueur en ligne, jeu casual, adaptation de licences]
@@ -3211,6 +3277,7 @@
       Coordinates: [48.86959, 2.34775]
       SIREN: '807743844'
       Address: 19-21 19 Rue Poissonniere, 75002 Paris
+  Jobs: https://careers.madbox.io/
   Scientific-domain: [Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Keywords: [mobile, free-to-play, jeu casual, hypercasual, édition de jeux, Stickman Hook]
@@ -3263,6 +3330,7 @@
       Coordinates: [48.85828, 2.38852]
       SIREN: '890535743'
       Address: 13-15 13 Rue de Mont-Louis, 75011 Paris
+  Jobs: https://atlasv.io/career/
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Art/Evenementiel, Jeu Vidéo]
   Keywords: [réalité virtuelle, narration immersive, jeu VR, location-based entertainment, multijoueur en ligne, exposition immersive]
@@ -3289,6 +3357,7 @@
       Coordinates: [43.65103, 1.51547]
       SIREN: '531522225'
       Address: Bat Iii 1 Rpt de Flotis, 31240 St Jean
+  Jobs: https://mimbus.com/carriere/
   Scientific-domain: [VR/AR, Simulation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
   Keywords: [réalité virtuelle, formation professionnelle, simulateur d'entraînement, bâtiment, automobile, aéronautique, industrie/usinage]
@@ -3315,6 +3384,7 @@
       Coordinates: [48.86895, 2.37118]
       SIREN: '480590702'
       Address: 9 T Rue Auguste Barbier, 75011 Paris
+  Jobs: https://www.popcornfx.com/jobs-careers/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
   Keywords: [middleware, effets de particules, rendu temps réel, Unreal Engine, Unity, plugin/logiciel pour artistes, programmation visuelle]
@@ -3329,6 +3399,7 @@
       Coordinates: [48.87172, 2.34905]
       SIREN: '444600183'
       Address: 41 Rue de l'Echiquier, 75010 Paris
+  Jobs: https://www.brunchstudio.tv/careers
   Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Keywords: [cinématiques de jeu, animation 2D, animation 3D, clips, publicité, trailers]
@@ -3394,6 +3465,7 @@
       Coordinates: [48.89665, 2.37013]
       SIREN: '492804547'
       Address: Cap 18 Batiment A63 189 Rue d'Aubervilliers, 75018 Paris
+  Jobs: https://www.ranchcomputing.com/fr/candidature/
   Scientific-domain: [Rendu offline/VFX, Web/Cloud/Big Data]
   Application-domain: [Cinéma/Films d'Animation/VFX, Générique]
   Keywords: [ferme de rendu, cloud/streaming, GPU, path tracing, Blender, Houdini]
@@ -3481,6 +3553,7 @@
       Coordinates: [45.64909, 0.15642]
       SIREN: '837991108'
       Address: 2 place de l'Hôtel de Ville, 16000 Angoulême
+  Jobs: https://fost.studio/jobs/
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 2D, séries d'animation, long métrage, storyboard, layout, compositing]
@@ -3708,6 +3781,7 @@
       Coordinates: [47.64052, -2.75301]
       SIREN: '883164550'
       Address: 3 rue Louis de Broglie, 56000 Vannes
+  Jobs: https://ride-fx.com/jobs/
   Scientific-domain: [Rendu offline/VFX, VR/AR, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Art/Evenementiel]
   Keywords: [événementiel/mapping, exposition immersive, réalité étendue, installations interactives, effets visuels, location-based entertainment]
@@ -3781,6 +3855,7 @@
       Coordinates: [48.13386, -1.61893]
       SIREN: '839664273'
       Address: 845 avenue des Champs Blancs, 35510 Cesson-Sévigné
+  Jobs: https://www.interdigital.com/company/careers
   Scientific-domain: [Acquisition, Reconstruction, VR/AR, Rendu temps réel/Moteurs 3D]
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
   Keywords: [vidéo volumétrique, compression vidéo, normalisation, HDR, haptique, deep learning, brevets]
@@ -3799,6 +3874,7 @@
       Coordinates: [48.8325, 2.25938]
       SIREN: '451063739'
       Address: Arcs de Seine 18 Quai du Point du Jour, 92100 Boulogne-Billancourt
+  Jobs: https://career.huawei.com/en
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Hardware, IA générative (image/3D)]
   Application-domain: [Jeu Vidéo, Générique]
   Keywords: [ray tracing, mobile, GPU, rendu temps réel, super-résolution, basse consommation, Vulkan]
@@ -3811,6 +3887,7 @@
       Coordinates: [48.87959, 2.30289]
       SIREN: '552030967'
       Address: 100 rue de Courcelles, 75017 Paris
+  Jobs: https://www.valeo.com/en/careers/
   Scientific-domain: [Vision, Reconstruction, IA générative (image/3D)]
   Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes]
   Keywords: [automobile, conduite autonome, vision par ordinateur, deep learning, lidar, perception 3D]
@@ -3829,6 +3906,7 @@
       Coordinates: [48.87376, 2.35148]
       SIREN: '833742919'
       Address: 28 Rue des Petites Ecuries, 75010 Paris
+  Jobs: https://skyreal.tech/about/#section-jobs
   Scientific-domain: [VR/AR, Visualisation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
   Keywords: [réalité virtuelle, revue de maquette numérique, CAO, aéronautique, défense, spatial, Unreal Engine]
@@ -3846,6 +3924,7 @@
       Coordinates: [45.19194, 5.70652]
       SIREN: '498198167'
       Address: Bht2 17 Rue Felix Esclangon, 38000 Grenoble
+  Jobs: https://microoled.net/careers/
   Scientific-domain: [Hardware, VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Sécurité/Défense]
   Keywords: [micro-écran, OLED, puce/semi-conducteur, lunettes connectées, réalité augmentée, viseur]
@@ -3877,6 +3956,7 @@
       Coordinates: [43.55651, 1.50613]
       SIREN: '508794674'
       Address: 2 Chemin des Carmes, 31670 Labege
+  Jobs: https://imajing.eu/company/career/
   Scientific-domain: [Acquisition, Reconstruction, Web/Cloud/Big Data]
   Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme]
   Keywords: [cartographie mobile, lidar, SIG, gestion d'infrastructures, nuage de points, routes]
@@ -3890,6 +3970,7 @@
       Coordinates: [48.81473, 2.32533]
       SIREN: '822231981'
       Address: 98-100 98 Avenue Aristide Briand, 92120 Montrouge
+  Jobs: https://eikosim.com/carrieres/
   Scientific-domain: [Vision, Simulation, Reconstruction]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
   Keywords: [corrélation d'images, éléments finis, stéréovision, essais mécaniques, aéronautique, jumeau numérique]
@@ -3903,6 +3984,7 @@
       Coordinates: [48.86819, 2.37059]
       SIREN: '901084368'
       Address: 18 Rue de la Fontaine au Roi, 75011 Paris
+  Jobs: https://enchanted.tools/jobs/
   Scientific-domain: [Vision, Animation, IHM/Haptique]
   Application-domain: [Robotique/Systèmes autonomes, Médical/Biologique]
   Keywords: [robotique, robot humanoïde, robot social, animation de personnages, deep learning, santé]
@@ -3916,6 +3998,7 @@
       Coordinates: [48.861, 2.34911]
       SIREN: '840634356'
       Address: 35 Boulevard de Sebastopol, 75001 Paris
+  Jobs: https://www.ganymedrobotics.com/careers
   Scientific-domain: [Vision, Reconstruction, Imagerie]
   Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
   Keywords: [chirurgie assistée, robotique, orthopédie, vision par ordinateur, capture sans marqueurs, genou]
@@ -3942,6 +4025,7 @@
       Coordinates: [44.80539, -0.56121]
       SIREN: '841437411'
       Address: 213 Cours Victor Hugo, 33130 Begles
+  Jobs: https://nurea-soft.com/careers/
   Scientific-domain: [Imagerie, Reconstruction, Visualisation]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, deep learning, segmentation, vasculaire, aorte, planification chirurgicale]
@@ -3972,6 +4056,7 @@
       Coordinates: [45.18571, 5.77795]
       SIREN: '518910419'
       Address: 18 Rue de Mayencin, 38400 Saint-Martin-d'Hères
+  Jobs: https://www.ecential-robotics.com/fr-fr/carrieres
   Scientific-domain: [Imagerie, Reconstruction, Visualisation]
   Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
   Keywords: [chirurgie assistée, robotique, imagerie peropératoire, navigation chirurgicale, rachis, orthopédie]
@@ -3985,6 +4070,7 @@
       Coordinates: [45.20868, 5.78987]
       SIREN: '492218375'
       Address: 22 Chemin du Vieux Chene, 38240 Meylan
+  Jobs: https://koelis.com/career/
   Scientific-domain: [Imagerie, Reconstruction, Géométrie]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, échographie 3D, fusion IRM/écho, diagnostic, prostate, biopsie]
@@ -4037,6 +4123,7 @@
       Coordinates: [44.75861, -0.67777]
       SIREN: '439814682'
       Address: 8 Imp de la Rouilleuse Za du Courneau, 33610 Canejan
+  Jobs: https://lumiscaphe.com/carrieres/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Visualisation]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation, Commerce/Marketing/Publicité]
   Keywords: [Patchwork 3D, rendu temps réel, e-commerce/configurateur 3D, design industriel, automobile, Blender]
@@ -4051,6 +4138,7 @@
       Coordinates: [48.65806, 7.60836]
       SIREN: '540063450'
       Address: 3 Rue des Coquelicots, 67370 Truchtersheim
+  Jobs: https://emploi.afjv.com/annonces-societes/1278
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, IHM/Haptique]
   Application-domain: [Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game]
   Keywords: [réalité virtuelle, CAVE, cluster rendering, multi-écrans, Unity, plugin/logiciel pour artistes]
@@ -4081,6 +4169,7 @@
       Coordinates: [43.54901, 1.50904]
       SIREN: '328725718'
       Address: Bureauparc 3 Voie 2 Grande Borde, 31670 Labège
+  Jobs: https://hexagon.com/about/careers
   Scientific-domain: [Simulation, Design/Fabrication, Géométrie]
   Application-domain: [Industrie/Manufacturing/CAO]
   Keywords: [industrie/usinage, simulation d'usinage, machine-outil, commande numérique, jumeau numérique, NCSIMUL]
@@ -4096,6 +4185,7 @@
       Coordinates: [48.10415, -1.71051]
       SIREN: '489626283'
       Address: 57 Rue Jules Valles, 35000 Rennes
+  Jobs: https://www.amaxperteye.com/job-offers/
   Scientific-domain: [VR/AR, Web/Cloud/Big Data]
   Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique]
   Keywords: [réalité augmentée, assistance à distance, lunettes connectées, inspection, télémédecine, deep learning]
@@ -4127,6 +4217,7 @@
       Coordinates: [48.90493, 2.36427]
       SIREN: '393328323'
       Address: 50 Avenue du President Wilson, 93210 Saint-Denis
+  Jobs: https://artgp.fr/nous-rejoindre/
   Scientific-domain: [Acquisition, Reconstruction, Modélisation]
   Application-domain: [Patrimoine/Culture, Architecture/BTP/Urbanisme]
   Keywords: [patrimoine/musée, scanner 3D, photogrammétrie, nuage de points, BIM, jumeau numérique, visite augmentée]
@@ -4140,6 +4231,7 @@
       Coordinates: [48.8836, 2.32919]
       SIREN: '881739650'
       Address: 61 Rue de Douai, 75009 Paris
+  Jobs: https://samp.ai/join-us/
   Scientific-domain: [Reconstruction, Vision, Visualisation]
   Application-domain: [Industrie/Manufacturing/CAO, Énergie/Environnement]
   Keywords: [jumeau numérique, nuage de points, deep learning, industrie/usinage, scanner 3D, Shared Reality]
@@ -4153,6 +4245,7 @@
       Coordinates: [43.70541, 7.27222]
       SIREN: '928050343'
       Address: 2 Boulevard de Cimiez, 06000 Nice
+  Jobs: https://www.solaya.ai/careers
   Scientific-domain: [Reconstruction, Acquisition, IA générative (image/3D)]
   Application-domain: [Commerce/Marketing/Publicité, Industrie/Manufacturing/CAO]
   Keywords: [Gaussian splatting, scanner 3D, mobile, e-commerce/configurateur 3D, jumeau numérique, réalité augmentée]
@@ -4166,6 +4259,7 @@
       Coordinates: [45.20741, 5.79469]
       SIREN: '849917695'
       Address: 39 Chemin du Vieux Chene, 38240 Meylan
+  Jobs: https://www.mydigitalbuildings.com/carriere
   Scientific-domain: [Acquisition, Reconstruction, Web/Cloud/Big Data]
   Application-domain: [Architecture/BTP/Urbanisme]
   Keywords: [scanner 3D, nuage de points, BIM, jumeau numérique, visite virtuelle, architecture]
@@ -4179,6 +4273,7 @@
       Coordinates: [43.60856, 1.44709]
       SIREN: '895308591'
       Address: 1e Etage 7 Rue de Bayard, 31000 Toulouse
+  Jobs: https://www.cognitive-design-systems.com/careers
   Scientific-domain: [Design/Fabrication, Géométrie, Simulation]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
   Keywords: [conception générative, optimisation topologique, fabrication additive, CAO, aéronautique, allègement structurel]
@@ -4267,6 +4362,7 @@
       Coordinates: [45.74275, 4.81817]
       SIREN: '832939375'
       Address: 59 Rue Denuzière, 69002 Lyon
+  Jobs: https://tinydigitalfactory.com/#join-us
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
   Application-domain: [Jeu Vidéo]
   Keywords: [mobile, jeu de course, free-to-play]
@@ -4335,6 +4431,7 @@
       Coordinates: [45.73424, 4.84268]
       SIREN: '918455809'
       Address: 26bis Boulevard de l'Artillerie, 69007 Lyon
+  Jobs: https://www.apologuefx.com/career
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation, Rendu offline/VFX]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
   Keywords: [effets temps réel, Houdini, Unreal Engine, AAA]
@@ -4418,6 +4515,7 @@
       Coordinates: [45.75355, 4.84249]
       SIREN: '891263147'
       Address: 8 Rue Béchevelin, 69007 Lyon
+  Jobs: https://ateliers-bk.com/jobs/
   Scientific-domain: [Animation, Rendu offline/VFX]
   Application-domain: [Art/Evenementiel, Patrimoine/Culture]
   Keywords: [événementiel/mapping, patrimoine/musée, Fête des Lumières]
@@ -4550,6 +4648,7 @@
       SIREN: '524681996'
       Address: ZI du Berret, Avenue de la Roquette, 30200 Bagnols-sur-Cèze
     - City: Lyon
+  Jobs: https://www.cyclife-edf.com/rejoignez-nous
   Scientific-domain: [Simulation, Visualisation, VR/AR]
   Application-domain: [Énergie/Environnement, Industrie/Manufacturing/CAO]
   Keywords: [nucléaire, jumeau numérique, simulation physique, rendu temps réel, réalité virtuelle, formation professionnelle]
@@ -4590,6 +4689,7 @@
       Coordinates: [45.81764, 4.88081]
       SIREN: '890216609'
       Address: 466 Rue des Mercières, 69140 Rillieux-la-Pape
+  Jobs: https://3deusdynamics.com/3deus-dynamics-talents/
   Scientific-domain: [Design/Fabrication]
   Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO]
   Keywords: [fabrication additive, silicone, dispositif médical, aéronautique]
@@ -4632,6 +4732,7 @@
       Coordinates: [45.75420, 4.92548]
       SIREN: '394804447'
       Address: 4-6 Rue du Dauphiné, 69120 Vaulx-en-Velin
+  Jobs: https://focalone.com/focalone-careers/
   Scientific-domain: [Imagerie, Hardware]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, échographie, fusion d'images, chirurgie assistée, dispositif médical]
@@ -4884,6 +4985,7 @@
       Coordinates: [44.79853, -0.25227]
       SIREN: '841654965'
       Address: 12 la Grangeotte, 33420 Espiet
+  Jobs: https://ratel-studio.com/#jobs
   Scientific-domain: [Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Keywords: [multijoueur en ligne, jeu indépendant, mobile, console/PC]
@@ -4949,6 +5051,7 @@
       SIREN: '315387688'
       Address: 28-30 Rue Jean Perrin, 33600 Pessac
     - City: Cestas
+  Jobs: https://i2s.fr/offres-demploi/
   Scientific-domain: [Acquisition, Vision, Imagerie, Hardware]
   Application-domain: [Patrimoine/Culture, Industrie/Manufacturing/CAO, Sécurité/Défense]
   Keywords: [vision par ordinateur, caméras, numérisation patrimoniale, scanner 3D, traitement d'images]
@@ -4966,6 +5069,7 @@
     - City: Bordeaux
     - City: Villenave-d'Ornon
     - City: Libourne
+  Jobs: https://emplois.geo-sat.com/
   Scientific-domain: [Acquisition, Reconstruction, Modélisation]
   Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme]
   Keywords: [scanner 3D, lidar, nuage de points, cartographie mobile, SIG, jumeau numérique]
@@ -5011,6 +5115,7 @@
       Coordinates: [44.88771, -0.56502]
       SIREN: '828700690'
       Address: 76 Rue Cardinal Richaud, 33300 Bordeaux
+  Jobs: https://emploi.afjv.com/annonces-societes/1361
   Scientific-domain: [Visualisation, VR/AR, Rendu temps réel/Moteurs 3D]
   Application-domain: [Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
   Keywords: [CAO, réalité virtuelle, rendu temps réel, revue de projet, visualisation 3D]
@@ -5038,6 +5143,7 @@
       Coordinates: [44.84283, -0.57104]
       SIREN: '820266211'
       Address: 2 Place Jean Jaurès, 33000 Bordeaux
+  Jobs: https://apply.workable.com/pollen-robotics/
   Scientific-domain: [Vision, VR/AR, Hardware]
   Application-domain: [Robotique/Systèmes autonomes, Générique]
   Keywords: [robotique, vision par ordinateur, téléopération, réalité virtuelle, open source]
@@ -5066,6 +5172,7 @@
       Coordinates: [44.78548, -0.63180]
       SIREN: '789895034'
       Address: 11 Avenue de Canteranne, 33600 Pessac
+  Jobs: https://argolight.com/offers/
   Scientific-domain: [Imagerie, Acquisition]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie scientifique, microscopie, métrologie, calibration, analyse d'images]
@@ -5095,6 +5202,7 @@
       Coordinates: [44.85270, -0.54835]
       SIREN: '422085480'
       Address: 7 Rue Joseph Bonnet, 33100 Bordeaux
+  Jobs: https://www.arkhenum.fr/nous-rejoindre/
   Scientific-domain: [Acquisition, Imagerie, Web/Cloud/Big Data]
   Application-domain: [Patrimoine/Culture]
   Keywords: [numérisation patrimoniale, photogrammétrie, scanner 3D, traitement d'images, archives]
@@ -5110,6 +5218,7 @@
       SIREN: '410072532'
       Address: 18 Rue Charles de Gaulle, 91400 Orsay
     - City: Talence
+  Jobs: https://www.imagine-optic.com/careers/
   Scientific-domain: [Acquisition, Imagerie, Hardware]
   Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO, Générique]
   Keywords: [métrologie, optique adaptative, laser, microscopie, front d'onde]
@@ -5125,6 +5234,7 @@
       SIREN: '440955300'
       Address: 64 Rue Bourdignon, 94100 Saint-Maur-des-Fossés
     - City: Bordeaux
+  Jobs: https://rd-vision.com/rejoignez-nous/
   Scientific-domain: [Acquisition, Vision, Imagerie]
   Application-domain: [Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
   Keywords: [vision par ordinateur, caméras rapides, deep learning, aéronautique, métrologie]
@@ -5208,6 +5318,7 @@
       Coordinates: [48.58256, 7.77126]
       SIREN: '510411689'
       Address: 11 Boulevard Leblois, 67000 Strasbourg
+  Jobs: https://ernestine-games.fr/emploi/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo, Entrainement/Formation/Serious Game]
   Keywords: [jeu indépendant, console/PC, serious game, game art]
@@ -5271,6 +5382,7 @@
       Coordinates: [48.57097, 7.75555]
       SIREN: '511443749'
       Address: 7 Rue de Nomény, 67100 Strasbourg
+  Jobs: https://almedia.fr/jobs/
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
   Application-domain: [Entrainement/Formation/Serious Game, Patrimoine/Culture]
   Keywords: [serious game, réalité virtuelle, réalité augmentée, mobile]
@@ -5348,6 +5460,7 @@
       Coordinates: [47.59160, 7.56228]
       SIREN: '340673458'
       Address: 7 Rue du Général Cassagnou, 68300 Saint-Louis
+  Jobs: https://www.holo3-rv.com/qui-sommes-nous/rejoignez-nous/
   Scientific-domain: [VR/AR, Acquisition]
   Application-domain: [Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game]
   Keywords: [réalité virtuelle, jumeau numérique, métrologie optique]
@@ -5361,6 +5474,7 @@
       Coordinates: [48.57753, 7.74991]
       SIREN: '829843770'
       Address: 8 Place de l'Hôpital, 67000 Strasbourg
+  Jobs: https://virtualisurg.com/job-openings/
   Scientific-domain: [VR/AR, IHM/Haptique, Simulation]
   Application-domain: [Médical/Biologique, Entrainement/Formation/Serious Game]
   Keywords: [simulation médicale, réalité virtuelle, haptique, chirurgie assistée]
@@ -5416,6 +5530,7 @@
       Coordinates: [48.61308, 7.71866]
       SIREN: '531573376'
       Address: 21 Avenue de l'Europe, 67300 Schiltigheim
+  Jobs: https://www.axilumrobotics.com/en/jobs/
   Scientific-domain: [Hardware, Visualisation, Imagerie]
   Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
   Keywords: [robotique, navigation chirurgicale, dispositif médical, imagerie médicale]
@@ -5707,6 +5822,7 @@
       Coordinates: [48.13244, -1.62171]
       SIREN: '524473063'
       Address: 3771 Boulevard des Alliés, 35510 Cesson-Sévigné
+  Jobs: https://broadpeak.tv/join-our-team/
   Scientific-domain: [Web/Cloud/Big Data]
   Application-domain: [Générique]
   Keywords: [streaming, diffusion vidéo, CDN]
@@ -5721,6 +5837,7 @@
       Coordinates: [48.13594, -1.62323]
       SIREN: '751468943'
       Address: 1219 Avenue des Champs Blancs, 35510 Cesson-Sévigné
+  Jobs: https://b-com.com/nous-rejoindre
   Scientific-domain: [Imagerie, Vision, VR/AR]
   Application-domain: [Générique, Médical/Biologique]
   Keywords: [vidéo immersive, vision par ordinateur, deep learning, réalité augmentée]
@@ -5898,6 +6015,7 @@
       Coordinates: [43.59356, 5.43642]
       SIREN: '888309606'
       Address: Chemin de Fontrousse, 13100 Aix-en-Provence
+  Jobs: https://lvcim.com/nous-recrutons/
   Scientific-domain: [Simulation, VR/AR]
   Application-domain: [Sécurité/Défense, Entrainement/Formation/Serious Game]
   Keywords: [simulation, réalité mixte, défense, simulateur]
@@ -5924,6 +6042,7 @@
       Coordinates: [43.49242, 5.52328]
       SIREN: '533716817'
       Address: Route de Valbrillant, 13590 Meyreuil
+  Jobs: https://www.oxinst.com/careers
   Scientific-domain: [Acquisition, Hardware, Imagerie]
   Application-domain: [Médical/Biologique, Autres]
   Keywords: [caméra, infrarouge, astronomie, imagerie scientifique]
@@ -5965,6 +6084,7 @@
       Coordinates: [43.36029, 5.29922]
       SIREN: '485282370'
       Address: Plage de l'estaque, 13016 Marseille
+  Jobs: https://www.subsea-tech.com/fr/recrutement/
   Scientific-domain: [Acquisition, Hardware]
   Application-domain: [Robotique/Systèmes autonomes, Sécurité/Défense, Énergie/Environnement]
   Keywords: [robotique sous-marine, ROV, caméra sous-marine, inspection]
@@ -5978,6 +6098,7 @@
       Coordinates: [43.30862, 5.38890]
       SIREN: '987573763'
       Address: 37 Rue Guibal, 13003 Marseille
+  Jobs: https://philomec.com/careers/
   Scientific-domain: [Simulation, Design/Fabrication]
   Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO]
   Keywords: [simulation physique, biomécanique, CAO, éléments finis]
@@ -5991,6 +6112,7 @@
       Coordinates: [43.47979, 5.36862]
       SIREN: '880583844'
       Address: 1165 Avenue Jean-René Guillibert Gautier de la Lauzière, 13290 Aix-en-Provence
+  Jobs: https://promethee.earth/en/careers/
   Scientific-domain: [Imagerie, Acquisition, Analyse de données]
   Application-domain: [Géospatial/Cartographie, Sécurité/Défense, Énergie/Environnement]
   Keywords: [imagerie satellite, observation de la Terre, géo-intelligence, SIG]
@@ -6020,6 +6142,7 @@
       Coordinates: [43.66881, 7.21525]
       SIREN: '793920521'
       Address: 455 Promenade des Anglais, 06200 Nice
+  Jobs: https://www.therapixel.com/careers/
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, deep learning, mammographie, aide au diagnostic]
@@ -6149,6 +6272,7 @@
       Coordinates: [43.66739, 7.21433]
       SIREN: '842328098'
       Address: 455 Promenade des Anglais, 06200 Nice
+  Jobs: https://www.fairvision.fr/home-3-2-2-2-2-2-2-2/
   Scientific-domain: [Vision, Acquisition]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Générique]
   Keywords: [vision par ordinateur, deep learning, analyse vidéo, sport]
@@ -6177,6 +6301,7 @@
       Coordinates: [43.66528, 7.04840]
       SIREN: '528099666'
       Address: 28 Allée des Oliviers, 06330 Roquefort-les-Pins
+  Jobs: https://playtouch.net/career
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
   Keywords: [jeu mobile, HTML5, jeux casual, web]
@@ -6263,6 +6388,7 @@
       Coordinates: [48.81693, 2.32998]
       SIREN: '524958188'
       Address: 40 Rue Barbès, 92120 Montrouge
+  Jobs: https://www.playrion.com/recruitment/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
   Application-domain: [Jeu Vidéo]
   Keywords: [mobile, jeu de gestion, simulation, free-to-play]
@@ -6357,6 +6483,7 @@
       Coordinates: [48.85576, 2.43970]
       SIREN: '885261602'
       Address: 95 Avenue du Président Wilson, 93100 Montreuil
+  Jobs: https://www.welcometothejungle.com/fr/companies-v1/powerz/jobs
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo, Entrainement/Formation/Serious Game]
   Keywords: [jeu éducatif, serious game, mobile, 3D temps réel]
@@ -6372,6 +6499,7 @@
       Address: 1 Rue de Stockholm, 75008 Paris
     - Country: Finlande
       City: Helsinki
+  Jobs: https://themainframe.com/work-with-us/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data]
   Application-domain: [Jeu Vidéo]
   Keywords: [Unreal Engine, MMO, cloud gaming, console/PC]
@@ -6385,6 +6513,7 @@
       Coordinates: [48.87278, 2.32625]
       SIREN: '899695019'
       Address: 29 Rue Tronchet, 75008 Paris
+  Jobs: https://www.savage-level.com/carri%C3%A8re
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Keywords: [AA, console/PC, RPG tactique, game art]
@@ -6579,6 +6708,7 @@
       Coordinates: [48.86787, 2.34362]
       SIREN: '500460514'
       Address: 93 Rue Montmartre, 75002 Paris
+  Jobs: https://www.luxigon.com/jobs
   Scientific-domain: [Rendu offline/VFX, Visualisation, Modélisation]
   Application-domain: [Architecture/BTP/Urbanisme]
   Keywords: [architecture, rendu photoréaliste, perspective]
@@ -6607,6 +6737,7 @@
       Coordinates: [48.85097, 2.38586]
       SIREN: '831282843'
       Address: 6 Cité de l'Ameublement, 75011 Paris
+  Jobs: https://inui.fr/recrutement/
   Scientific-domain: [Rendu offline/VFX, Visualisation, Modélisation]
   Application-domain: [Architecture/BTP/Urbanisme]
   Keywords: [architecture, rendu photoréaliste, perspective, animation 3D]
@@ -6684,6 +6815,7 @@
       Coordinates: [48.90420, 2.31021]
       SIREN: '417972973'
       Address: 62 Rue d'Alsace, 92110 Clichy
+  Jobs: https://mediawankidsandfamily.com/jobs
   Scientific-domain: [Animation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [séries d'animation, long métrage, animation 3D, animation 2D]
@@ -6791,6 +6923,7 @@
       Coordinates: [48.82428, 2.24425]
       SIREN: '444777577'
       Address: 3 Rue Nationale, 92100 Boulogne-Billancourt
+  Jobs: https://www.dxo.com/fr/company/careers/
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Art/Evenementiel, Générique]
   Keywords: [traitement d'images, photographie, RAW, deep learning, débruitage]
@@ -6804,6 +6937,7 @@
       Coordinates: [48.83389, 2.22783]
       SIREN: '821245503'
       Address: 24 Quai Alphonse Le Gallo, 92100 Boulogne-Billancourt
+  Jobs: https://corp.dxomark.com/careers/
   Scientific-domain: [Imagerie, Acquisition, Analyse de données]
   Application-domain: [Générique]
   Keywords: [qualité d'image, caméra, mesure, traitement d'images]
@@ -6831,6 +6965,7 @@
       Coordinates: [48.87415, 2.34000]
       SIREN: '433719002'
       Address: 20 Rue de Provence, 75009 Paris
+  Jobs: https://careers.graitec.com/jobs
   Scientific-domain: [Design/Fabrication, Modélisation, Simulation]
   Application-domain: [Architecture/BTP/Urbanisme]
   Keywords: [BIM, CAO, calcul de structures, plugins Revit]
@@ -6870,6 +7005,7 @@
       Coordinates: [48.86145, 2.22392]
       SIREN: '652011867'
       Address: 4 Rue Marcel Monge, 92150 Suresnes
+  Jobs: https://carrieres.sogitec.fr/
   Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D, Visualisation]
   Application-domain: [Entrainement/Formation/Serious Game, Sécurité/Défense, Automobile/Navigation/Aviation]
   Keywords: [simulateur de vol, rendu temps réel, simulation, défense]
@@ -6883,6 +7019,7 @@
       Coordinates: [48.92333, 2.36351]
       SIREN: '828154377'
       Address: 33 Avenue Jules Rimet, 93210 Saint-Denis
+  Jobs: https://www.welcometothejungle.com/fr/companies/altametris/jobs
   Scientific-domain: [Reconstruction, Acquisition, Vision]
   Application-domain: [Architecture/BTP/Urbanisme, Géospatial/Cartographie]
   Keywords: [lidar, nuage de points, jumeau numérique, drone, deep learning]
@@ -6897,6 +7034,7 @@
       SIREN: '813934700'
       Address: 280 Avenue Napoléon Bonaparte, 92500 Rueil-Malmaison
     - City: Nanterre
+  Jobs: https://www.sixense-group.com/rejoignez-sixense
   Scientific-domain: [Acquisition, Reconstruction, Visualisation]
   Application-domain: [Architecture/BTP/Urbanisme, Géospatial/Cartographie]
   Keywords: [lidar, jumeau numérique, SIG, nuage de points]
@@ -6907,6 +7045,7 @@
   Description: Groupe de géosciences (ex-CGG) basé à Massy, spécialiste de l'imagerie sismique du sous-sol (FWI), du calcul haute performance et des données géophysiques.
   Place:
     - City: Massy
+  Jobs: https://www.viridiengroup.com/company/careers
   Scientific-domain: [Imagerie, Simulation, Visualisation]
   Application-domain: [Énergie/Environnement, Géospatial/Cartographie]
   Keywords: [imagerie sismique, calcul GPU, HPC, géosciences]
@@ -6919,6 +7058,7 @@
       Coordinates: [48.87710, 2.17232]
       SIREN: '679804047'
       Address: 232 Avenue Napoléon Bonaparte, 92500 Rueil-Malmaison
+  Jobs: https://www.beicip.com/careers/
   Scientific-domain: [Modélisation, Simulation, Visualisation]
   Application-domain: [Énergie/Environnement]
   Keywords: [modélisation géologique, simulation, visualisation 3D, géosciences]
@@ -6932,6 +7072,7 @@
       Coordinates: [48.42059, 2.73748]
       SIREN: '337690580'
       Address: 44 Avenue de Valvins, 77210 Avon
+  Jobs: https://www.geovariances.com/en/careers/
   Scientific-domain: [Analyse de données, Modélisation, Visualisation]
   Application-domain: [Énergie/Environnement, Géospatial/Cartographie]
   Keywords: [géostatistique, modélisation 3D, SIG, géosciences]
@@ -6958,6 +7099,7 @@
       Coordinates: [48.72920, 2.26643]
       SIREN: '518807425'
       Address: 14 Avenue Carnot, 91300 Massy
+  Jobs: https://www.extende.com/the-company/careers-in-ndt/
   Scientific-domain: [Simulation, Imagerie]
   Application-domain: [Industrie/Manufacturing/CAO, Énergie/Environnement]
   Keywords: [simulation physique, contrôle non destructif, CAO]
@@ -6971,6 +7113,7 @@
       Coordinates: [48.86967, 2.34620]
       SIREN: '818503146'
       Address: 24 Rue du Sentier, 75002 Paris
+  Jobs: https://jobs.lever.co/safran-ai
   Scientific-domain: [Vision, Imagerie, Analyse de données]
   Application-domain: [Sécurité/Défense, Géospatial/Cartographie]
   Keywords: [imagerie satellite, vision par ordinateur, deep learning, défense]
@@ -6997,6 +7140,7 @@
       Coordinates: [48.68244, 2.33965]
       SIREN: '519060131'
       Address: 108 Avenue Roger Salengro, 91600 Savigny-sur-Orge
+  Jobs: https://blaxtair.com/offres-emplois
   Scientific-domain: [Vision, Hardware, Acquisition]
   Application-domain: [Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO]
   Keywords: [vision par ordinateur, caméra stéréo, vision embarquée, deep learning]
@@ -7010,6 +7154,7 @@
       Coordinates: [48.81271, 2.33187]
       SIREN: '483563029'
       Address: 74 Avenue Vladimir Ilitch Lenine, 94110 Arcueil
+  Jobs: https://www.welcometothejungle.com/fr/companies/balyo/jobs
   Scientific-domain: [Vision, Acquisition, Simulation]
   Application-domain: [Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO]
   Keywords: [robotique, lidar, navigation autonome, jumeau numérique]
@@ -7020,6 +7165,7 @@
   Description: Éditeur parisien d'une solution d'inspection visuelle par IA qui automatise la détection de défauts sur les lignes de production.
   Place:
     - City: Paris
+  Jobs: https://scortex.welcomekit.co/
   Scientific-domain: [Vision]
   Application-domain: [Industrie/Manufacturing/CAO]
   Keywords: [vision par ordinateur, contrôle qualité, deep learning]
@@ -7033,6 +7179,7 @@
       Coordinates: [48.87538, 2.36326]
       SIREN: '851436188'
       Address: 117 Quai de Valmy, 75010 Paris
+  Jobs: https://moonsurgical.notion.site/Moon-Surgical-Jobs-Board-7a646bb4294a417d96d93875bddb4998
   Scientific-domain: [Vision, IHM/Haptique]
   Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
   Keywords: [chirurgie assistée, robotique, vision par ordinateur, GPU]
@@ -7046,6 +7193,7 @@
       Coordinates: [48.88652, 2.30868]
       SIREN: '824001259'
       Address: 75 Rue de Tocqueville, 75017 Paris
+  Jobs: https://dentalmonitoring.com/careers/
   Scientific-domain: [Vision, Imagerie]
   Application-domain: [Médical/Biologique]
   Keywords: [vision par ordinateur, imagerie médicale, orthodontie, deep learning]
@@ -7072,6 +7220,7 @@
       Coordinates: [48.86939, 2.35222]
       SIREN: '883053571'
       Address: 147 Rue d'Aboukir, 75002 Paris
+  Jobs: https://jobs.ashbyhq.com/sonio
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, échographie, deep learning]
@@ -7098,6 +7247,7 @@
       Coordinates: [48.84200, 2.31686]
       SIREN: '538927120'
       Address: 30 Boulevard de Vaugirard, 75015 Paris
+  Jobs: https://www.tribun.health/join-our-team
   Scientific-domain: [Imagerie, Web/Cloud/Big Data]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, pathologie numérique, analyse d'images]
@@ -7111,6 +7261,7 @@
       Coordinates: [48.81992, 2.32500]
       SIREN: '820044311'
       Address: 25 Boulevard Romain Rolland, 75014 Paris
+  Jobs: https://iconeus.com/about-us/careers/
   Scientific-domain: [Imagerie, Acquisition]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, échographie, neuro-imagerie]
@@ -7124,6 +7275,7 @@
       Coordinates: [48.82811, 2.36623]
       SIREN: '804599710'
       Address: 14 Rue Sthrau, 75013 Paris
+  Jobs: https://damaemedical.teamtailor.com/
   Scientific-domain: [Imagerie, Acquisition]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, tomographie optique, imagerie 3D]
@@ -7137,6 +7289,7 @@
       Coordinates: [48.87167, 2.35251]
       SIREN: '431268028'
       Address: 9 Rue d'Enghien, 75010 Paris
+  Jobs: https://www.maunakeatech.com/join-us/
   Scientific-domain: [Imagerie, Acquisition]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, endomicroscopie, traitement d'images]
@@ -7150,6 +7303,7 @@
       Coordinates: [48.70270, 2.19135]
       SIREN: '450749668'
       Address: 18 Rue Charles de Gaulle, 91400 Orsay
+  Jobs: https://www.imagine-eyes.com/company/careers/
   Scientific-domain: [Imagerie, Acquisition]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie médicale, optique adaptative, ophtalmologie]
@@ -7163,6 +7317,7 @@
       Coordinates: [48.78810, 2.31899]
       SIREN: '819252701'
       Address: 191 Avenue Aristide Briand, 94230 Cachan
+  Jobs: https://www.abbelight.com/company/join-us/
   Scientific-domain: [Imagerie, Acquisition, Reconstruction]
   Application-domain: [Médical/Biologique]
   Keywords: [imagerie scientifique, microscopie, super-résolution, reconstruction 3D]
@@ -7189,6 +7344,7 @@
       Coordinates: [48.71017, 2.15312]
       SIREN: '448755637'
       Address: L'Orme des Merisiers, 91190 Saint-Aubin
+  Jobs: https://www.phasics.com/en/company/jobs-at-phasics/
   Scientific-domain: [Acquisition, Imagerie]
   Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique]
   Keywords: [optique, imagerie de phase, métrologie]
@@ -7202,6 +7358,7 @@
       Coordinates: [48.77872, 2.02565]
       SIREN: '499568814'
       Address: 43 Avenue des 3 Peuples, 78180 Montigny-le-Bretonneux
+  Jobs: https://www.prodways.com/about/careers/
   Scientific-domain: [Design/Fabrication, Hardware]
   Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique]
   Keywords: [impression 3D, fabrication additive, CAO]
@@ -7325,6 +7482,7 @@
       Coordinates: [48.86806, 2.22745]
       SIREN: '500592183'
       Address: 2 Rue des Bourets, 92150 Suresnes
+  Jobs: https://seriousfactory.com/recrutement/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, VR/AR]
   Application-domain: [Entrainement/Formation/Serious Game]
   Keywords: [serious game, personnages 3D, formation immersive, réalité virtuelle]
@@ -7338,6 +7496,7 @@
       Coordinates: [48.88016, 2.30703]
       SIREN: '803040138'
       Address: 68 Boulevard de Courcelles, 75017 Paris
+  Jobs: https://jobs.stationf.co/companies/actronika
   Scientific-domain: [IHM/Haptique, Hardware, VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Automobile/Navigation/Aviation]
   Keywords: [haptique, réalité virtuelle, retour d'effort, interfaces tangibles]
@@ -7351,6 +7510,7 @@
       Coordinates: [48.87735, 2.33395]
       SIREN: '833222201'
       Address: 5 Rue Catherine de la Rochefoucauld, 75009 Paris
+  Jobs: https://www.culturespaces.com/fr/propos/nous-rejoindre
   Scientific-domain: [Visualisation, Animation, Rendu offline/VFX]
   Application-domain: [Art/Evenementiel, Patrimoine/Culture]
   Keywords: [exposition immersive, événementiel/mapping, motion design, scénographie numérique]
@@ -7364,6 +7524,7 @@
       Coordinates: [48.84992, 2.29183]
       SIREN: '833226608'
       Address: 11 Rue de Lourmel, 75015 Paris
+  Jobs: https://jobs.stationf.co/companies/healthy-mind
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
   Application-domain: [Médical/Biologique]
   Keywords: [réalité virtuelle, santé, thérapie VR, environnements 3D]
@@ -7405,6 +7566,7 @@
       Coordinates: [48.84583, 2.42633]
       SIREN: '928179712'
       Address: 112 Avenue de Paris, 94300 Vincennes
+  Jobs: https://join.com/companies/mago
   Scientific-domain: [IA générative (image/3D), Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Keywords: [IA générative, vidéo, stylisation, animation 3D]
@@ -7514,6 +7676,7 @@
       Coordinates: [48.86970, 2.37050]
       SIREN: '789777034'
       Address: 54 Rue du Faubourg du Temple, 75011 Paris
+  Jobs: https://jobs.merci-michel.com/
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data]
   Application-domain: [Commerce/Marketing/Publicité, Jeu Vidéo]
   Keywords: [web 3D, advergame, expérience interactive]
@@ -7575,6 +7738,7 @@
       Coordinates: [45.65269, 0.15283]
       SIREN: '808538193'
       Address: '101 rue de Bordeaux, 16000 Angoulême'
+  Jobs: https://borderlinefilms.fr/?page_id=2
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 2D, animation 3D, long métrage, court métrage, coproduction]
@@ -7695,6 +7859,7 @@
       Coordinates: [45.65357, 0.14583]
       SIREN: '921868527'
       Address: '4 rue Maurice Utrillo, 16000 Angoulême'
+  Jobs: https://tokustudio.com/pages/jobs.php
   Scientific-domain: [Animation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [stop motion, mix média, court métrage, outils]
@@ -8122,6 +8287,7 @@
       Coordinates: [50.63184, 3.01921]
       SIREN: '499724920'
       Address: Euratechnologies, 2 Allée de la Haye du Temple, 59160 Lille
+  Jobs: https://www.stereograph.fr/nous-rejoindre/
   Scientific-domain: [Visualisation, Reconstruction, Web/Cloud/Big Data]
   Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO]
   Employees: 75
@@ -8174,6 +8340,7 @@
       Coordinates: [50.65977, 3.04789]
       SIREN: '902276450'
       Address: 4B Avenue des Violettes, 59350 Saint-André-lez-Lille
+  Jobs: https://www.studioraclette.com/jobs
   Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
   Application-domain: [Commerce/Marketing/Publicité, Médical/Biologique]
   Employees: 8
@@ -8230,6 +8397,7 @@
       Coordinates: [50.63957, 3.08507]
       SIREN: '950841197'
       Address: 29 Rue Pascal, 59800 Lille
+  Jobs: https://vrailearning.com/emploi
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
   Application-domain: [Entrainement/Formation/Serious Game]
   Employees: 2
@@ -8283,6 +8451,7 @@
       Coordinates: [47.22228, -1.62044]
       SIREN: '828871699'
       Address: 4 Rue Duguay Trouin, 44800 Saint-Herblain
+  Jobs: https://www.hera-mi.com/recrutement/
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
   Employees: 35
@@ -8296,6 +8465,7 @@
       Coordinates: [47.23147, -1.62578]
       SIREN: '434107769'
       Address: 13 Impasse Serge Reggiani, 44800 Saint-Herblain
+  Jobs: https://www.banook.com/about/careers
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Médical/Biologique]
   Employees: 35
@@ -8420,6 +8590,7 @@
       Coordinates: [48.08127, -0.75721]
       SIREN: '819170325'
       Address: Le Village by CA - La Licorne, 106 avenue Pierre de Coubertin, 53000 Laval
+  Jobs: https://www.inod.solutions/jobs/
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Visualisation]
   Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité, Entrainement/Formation/Serious Game]
   Employees: 8
@@ -8578,6 +8749,7 @@
       Coordinates: [43.56984, 1.42241]
       SIREN: '751108739'
       Address: 12 Rue Louis Courtois de Viçose, 31100 Toulouse
+  Jobs: https://www.pixience.com/recrutement-pixience/
   Scientific-domain: [Imagerie, Acquisition]
   Application-domain: [Médical/Biologique]
   Employees: 8
@@ -8630,6 +8802,7 @@
       Coordinates: [43.55996, 1.49622]
       SIREN: '393341516'
       Address: 31 Rue des Cosmonautes, 31400 Toulouse
+  Jobs: https://www.airbus.com/en/careers
   Scientific-domain: [Imagerie, Simulation, Vision]
   Application-domain: [Géospatial/Cartographie, Sécurité/Défense]
   Keywords: [imagerie satellite, observation de la Terre, traitement d'images, spatial]
@@ -8790,6 +8963,7 @@
       Address: ZA de la Louvière, Rue Joseph Climent, 25660 Saône
     - Country: Suisse
       City: Châtel-Saint-Denis
+  Jobs: https://www.04.cadwork.com/offres-demploi/
   Scientific-domain: [Design/Fabrication, Modélisation]
   Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO]
   Employees: 15
@@ -8816,6 +8990,7 @@
       Coordinates: [47.25828, 5.9264]
       SIREN: '352615801'
       Address: ZA Les Salines, 25115 Pouilley-les-Vignes
+  Jobs: https://www.logopress.com/en/carrieres.php
   Scientific-domain: [Design/Fabrication, Géométrie, Simulation]
   Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
   Employees: 7
@@ -8894,6 +9069,7 @@
       Coordinates: [45.85597, 1.28796]
       SIREN: '793536996'
       Address: 6 Allée Duke Ellington, 87100 Limoges
+  Jobs: https://borea-dental.com/borea/rejoignez-nous/
   Scientific-domain: [Acquisition, Imagerie]
   Application-domain: [Médical/Biologique]
   Employees: 8

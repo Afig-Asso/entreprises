@@ -126,6 +126,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Design/Fabrication
   * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://3deusdynamics.com/3deus-dynamics-talents/)
 
 
 * **[3DVerse](https://3dverse.com/)**  
@@ -202,6 +203,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Acquisition, Reconstruction
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.abbelight.com/company/join-us/)
 
 
 * **[ACFX](https://acfx.fr/)**  
@@ -239,6 +241,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: IHM/Haptique, Hardware, VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Automobile/Navigation/Aviation
+  * [_Jobs_](https://jobs.stationf.co/companies/actronika)
 
 
 * **[Adobe](https://www.adobe.com/fr/)**  
@@ -250,6 +253,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 31000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Design/Fabrication
   * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://careers.adobe.com/us/en)
 
 
 * **[Agenium](https://www.agenium.com/)**  
@@ -276,6 +280,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Toulouse
   * **Domaine scientifique/technique**: Imagerie, Simulation, Vision
   * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense
+  * [_Jobs_](https://www.airbus.com/en/careers)
 
 
 * **[Aledia](https://www.aledia.com/)**  
@@ -294,6 +299,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 20000
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://jobs.aligntech.com/)
 
 
 * **[Alma](https://www.alma.fr/nos-activites/logiciels-cfao/)** (Alma Logiciels CFAO) 
@@ -312,6 +318,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Patrimoine/Culture
+  * [_Jobs_](https://almedia.fr/jobs/)
 
 
 * **[Altametris](https://www.altametris.com/)**  
@@ -321,6 +328,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Reconstruction, Acquisition, Vision
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Géospatial/Cartographie
+  * [_Jobs_](https://www.welcometothejungle.com/fr/companies/altametris/jobs)
 
 
 * **[Alteia](https://alteia.com/)**  
@@ -341,6 +349,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: VR/AR, Web/Cloud/Big Data
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+  * [_Jobs_](https://www.amaxperteye.com/job-offers/)
 
 
 * **[AMD](https://www.amd.com/)**  
@@ -410,6 +419,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 1300
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://animallogic.com/careers/)
 
 
 * **[Ankama](https://www.ankama.com)**  
@@ -418,6 +428,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Roubaix
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Animation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://recrutement.ankama.com/)
 
 
 * **[Ansys](https://ansys.synopsys.com/products/optics/ansys-speos)** (Ansys, part of Synopsys (ex-OPTIS)) 
@@ -436,6 +447,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation, Rendu offline/VFX
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.apologuefx.com/career)
 
 
 * **[Apple](https://www.apple.com/)**  
@@ -465,6 +477,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Vision, Hardware, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://blaxtair.com/offres-emplois)
 
 
 * **[Argolight](https://argolight.com/)**  
@@ -475,6 +488,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://argolight.com/offers/)
 
 
 * **[Arkane Studios](https://www.arkane-studios.com/fr)**  
@@ -495,6 +509,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Acquisition, Imagerie, Web/Cloud/Big Data
   * **Domaine d'application**: Patrimoine/Culture
+  * [_Jobs_](https://www.arkhenum.fr/nous-rejoindre/)
 
 
 * **[Armada Studios](https://armada-studios.com/)**  
@@ -513,6 +528,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation
   * **Domaine d'application**: Patrimoine/Culture, Architecture/BTP/Urbanisme
+  * [_Jobs_](https://artgp.fr/nous-rejoindre/)
 
 
 * **[Artefacto](https://www.artefacto-ar.com/)**  
@@ -591,6 +607,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel, Jeu Vidéo
+  * [_Jobs_](https://atlasv.io/career/)
 
 
 * **[Atypique Studio](https://www.atypique-studio.com/)**  
@@ -684,6 +701,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Hardware, Visualisation, Imagerie
   * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
+  * [_Jobs_](https://www.axilumrobotics.com/en/jobs/)
 
 
 * **[b<>com](https://b-com.com/)**  
@@ -694,6 +712,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Vision, VR/AR
   * **Domaine d'application**: Générique, Médical/Biologique
+  * [_Jobs_](https://b-com.com/nous-rejoindre)
 
 
 * **[BackLight](https://backlight.fr/)**  
@@ -712,6 +731,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Vision, Acquisition, Simulation
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://www.welcometothejungle.com/fr/companies/balyo/jobs)
 
 
 * **[Beemoov](https://www.beemoov.com/)**  
@@ -731,6 +751,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Modélisation, Simulation, Visualisation
   * **Domaine d'application**: Énergie/Environnement
+  * [_Jobs_](https://www.beicip.com/careers/)
 
 
 * **[Bentley](https://www.bentley.com/)**  
@@ -852,6 +873,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://borderlinefilms.fr/?page_id=2)
 
 
 * **[Borea](https://borea-dental.com/)**  
@@ -861,6 +883,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Acquisition, Imagerie
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://borea-dental.com/borea/rejoignez-nous/)
 
 
 * **[BrandXR](https://www.brandxr.io/)**  
@@ -869,6 +892,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/{Orlando, Detroit}
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.brandxr.io/careers)
 
 
 * **[Break First Games](https://www.breakfirst.games/)** (Break First) 
@@ -905,6 +929,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Web/Cloud/Big Data
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://broadpeak.tv/join-our-team/)
 
 
 * **[Brunch Studio](https://www.brunchstudio.tv/)**  
@@ -914,6 +939,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://www.brunchstudio.tv/careers)
 
 
 * **[BUF](https://buf.com/)**  
@@ -959,6 +985,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Design/Fabrication, Modélisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://www.04.cadwork.com/offres-demploi/)
 
 
 * **[Canon Research Centre France](https://www.crf.canon.fr/)**  
@@ -1053,6 +1080,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2000
   * **Domaine scientifique/technique**: VR/AR, Visualisation
   * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.christiedigital.com/en-gb/about/careers/)
 
 
 * **[Cintoo](https://cintoo.com/)**  
@@ -1080,6 +1108,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.jasper.ai/careers)
 
 
 * **[CLO Virtual Fashion](https://www.clo3d.com/en/)**  
@@ -1108,6 +1137,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Design/Fabrication, Géométrie, Simulation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.cognitive-design-systems.com/careers)
 
 
 * **[Computational Surgery](https://computationalsurgery.eu/)**  
@@ -1171,6 +1201,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Visualisation, Animation, Rendu offline/VFX
   * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture
+  * [_Jobs_](https://www.culturespaces.com/fr/propos/nous-rejoindre)
 
 
 * **[Cyanide Studio](https://cyanide-studio.com/fr/)**  
@@ -1191,6 +1222,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Simulation, Visualisation, VR/AR
   * **Domaine d'application**: Énergie/Environnement, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://www.cyclife-edf.com/rejoignez-nous)
 
 
 * **[D-ICE Engineering](https://www.dice-engineering.com/)**  
@@ -1229,6 +1261,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.dada-animation.com/jobs/)
 
 
 * **[Damae Medical](https://www.damae-medical.com/)**  
@@ -1238,6 +1271,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://damaemedical.teamtailor.com/)
 
 
 * **[Damnatio Games](https://damnatiogames.com/)**  
@@ -1265,6 +1299,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Lyon
   * **Domaine scientifique/technique**: Géométrie, Design/Fabrication, Modélisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Générique
+  * [_Jobs_](https://www.datakit.com/en/join_datakit.php)
 
 
 * **[Deepnight Games](https://deepnight.net/)**  
@@ -1292,6 +1327,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 225
   * **Domaine scientifique/technique**: Vision, Imagerie
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://dentalmonitoring.com/careers/)
 
 
 * **[DESKi](https://www.heartfocus.ai/)**  
@@ -1482,6 +1518,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Montpellier
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.dwarfanimation.com/careers)
 
 
 * **[DWorld VR](https://dworldvr.com/)**  
@@ -1499,6 +1536,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Art/Evenementiel, Générique
+  * [_Jobs_](https://www.dxo.com/fr/company/careers/)
 
 
 * **[DXOMARK](https://www.dxomark.com/)**  
@@ -1508,6 +1546,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Imagerie, Acquisition, Analyse de données
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://corp.dxomark.com/careers/)
 
 
 * **[Easy Mile](https://easymile.com/)**  
@@ -1527,6 +1566,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Visualisation
   * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
+  * [_Jobs_](https://www.ecential-robotics.com/fr-fr/carrieres)
 
 
 * **[EDAP TMS](https://focalone.com/)** (EDAP-TMS France) 
@@ -1536,6 +1576,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Imagerie, Hardware
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://focalone.com/focalone-careers/)
 
 
 * **[Eden Games](https://www.edengames.com/)**  
@@ -1564,6 +1605,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Vision, Simulation, Reconstruction
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://eikosim.com/carrieres/)
 
 
 * **[Eisko](https://www.eisko.com/)**  
@@ -1592,6 +1634,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](http://www.ekosystem.com/jobs/)
 
 
 * **[Elcia](https://www.elcia.com/)**  
@@ -1658,6 +1701,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Vision, Animation, IHM/Haptique
   * **Domaine d'application**: Robotique/Systèmes autonomes, Médical/Biologique
+  * [_Jobs_](https://enchanted.tools/jobs/)
 
 
 * **[Endroad](https://www.the-endroad.com/)**  
@@ -1696,6 +1740,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://ernestine-games.fr/emploi/)
 
 
 * **[ESI](https://www.keysight.com/us/en/products/design-engineering-software/computer-aided-engineering-software.html)**  
@@ -1716,6 +1761,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://eugensystems.com/recruitment/)
 
 
 * **[Eurekam](https://www.eurekam.fr/)**  
@@ -1788,6 +1834,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Simulation, Imagerie
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Énergie/Environnement
+  * [_Jobs_](https://www.extende.com/the-company/careers-in-ndt/)
 
 
 * **[Exwayz](https://www.exwayz.com/)**  
@@ -1796,6 +1843,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Vision, Reconstruction, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.exwayz.com/jobs/)
 
 
 * **[EyeLights](https://eye-lights.com/)**  
@@ -1814,6 +1862,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Vision, Acquisition
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Générique
+  * [_Jobs_](https://www.fairvision.fr/home-3-2-2-2-2-2-2-2/)
 
 
 * **[Falcon's Creative Group](https://falconscreativegroup.com/)**  
@@ -1842,6 +1891,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Acquisition, Hardware, Imagerie
   * **Domaine d'application**: Médical/Biologique, Autres
+  * [_Jobs_](https://www.oxinst.com/careers)
 
 
 * **[Fluidyn](https://www.fluidyn.com/)**  
@@ -1879,6 +1929,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 50-99 (plus intermittents)
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://forticheprod.com/become-a-forticher/)
 
 
 * **[Fost](https://fost.studio/)**  
@@ -1888,6 +1939,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://fost.studio/jobs/)
 
 
 * **[French Touch Factory](https://www.frenchtouchfactory.com/)**  
@@ -1953,6 +2005,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Vision, Reconstruction, Imagerie
   * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
+  * [_Jobs_](https://www.ganymedrobotics.com/careers)
 
 
 * **[Gao Shan Pictures](https://www.gaoshanpictures.com)**  
@@ -1962,6 +2015,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.gaoshanpictures.com/recrutement)
 
 
 * **[GeometryFactory](https://geometryfactory.com/)**  
@@ -1983,6 +2037,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 375
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation
   * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
+  * [_Jobs_](https://emplois.geo-sat.com/)
 
 
 * **[Geovariances](https://www.geovariances.com/)**  
@@ -1992,6 +2047,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Analyse de données, Modélisation, Visualisation
   * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie
+  * [_Jobs_](https://www.geovariances.com/en/careers/)
 
 
 * **[Gleamer](https://www.gleamer.ai/)**  
@@ -2001,6 +2057,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.gleamer.ai/jobs)
 
 
 * **[Glitchr Studio](https://www.glitchr-studio.com/)**  
@@ -2038,6 +2095,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris, International
   * **Domaine scientifique/technique**: Acquisition, Imagerie, Vision
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://job-boards.greenhouse.io/goprojobs)
 
 
 * **[Goupil Technology](https://goupil.technology/)**  
@@ -2055,6 +2113,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Design/Fabrication, Modélisation, Simulation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+  * [_Jobs_](https://careers.graitec.com/jobs)
 
 
 * **[GridRaster](https://gridraster.com/)**  
@@ -2126,6 +2185,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://jobs.stationf.co/companies/healthy-mind)
 
 
 * **[Hectiq](https://hectiq.games/)**  
@@ -2145,6 +2205,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.hera-mi.com/recrutement/)
 
 
 * **[Hexagon](https://hexagon.com/)**  
@@ -2153,6 +2214,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Suède/Stockholm
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie, Vision
   * **Domaine d'application**: Géospatial/Cartographie, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://hexagon.com/about/careers)
 
 
 * **[Hibernian Workshop](https://hibernian-workshop.com/)**  
@@ -2187,6 +2249,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR, Acquisition
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.holo3-rv.com/qui-sommes-nous/rejoignez-nous/)
 
 
 * **[Holusion](https://holusion.com/fr/)**  
@@ -2231,6 +2294,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Valbonne, Boulogne-Billancourt
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware, IA générative (image/3D)
   * **Domaine d'application**: Jeu Vidéo, Générique
+  * [_Jobs_](https://career.huawei.com/en)
 
 
 * **[HypnoVR](https://hypnovr.io/fr/)** (Hypno VR) 
@@ -2256,6 +2320,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: France/Pertuis
   * **Domaine scientifique/technique**: Vision, Acquisition, Simulation, Design/Fabrication
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense
+  * [_Jobs_](https://www.mistralis.fr/recrutement-industriel-robotique/)
 
 
 * **[i2S](https://i2s.fr/)** (Innovative Imaging Solutions (I2S)) 
@@ -2265,6 +2330,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Acquisition, Vision, Imagerie, Hardware
   * **Domaine d'application**: Patrimoine/Culture, Industrie/Manufacturing/CAO, Sécurité/Défense
+  * [_Jobs_](https://i2s.fr/offres-demploi/)
 
 
 * **[Iconem](https://iconem.com/)**  
@@ -2282,6 +2348,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://iconeus.com/about-us/careers/)
 
 
 * **[iGlobe Scientific](https://www.linkedin.com/company/iglobe-scientific)**  
@@ -2300,6 +2367,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Nîmes
   * **Domaine scientifique/technique**: Modélisation, VR/AR
   * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
+  * [_Jobs_](https://geofit.fr/nous-rejoindre/)
 
 
 * **[IHMTEK](https://www.ihmtek.com/)**  
@@ -2391,6 +2459,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.imagine-eyes.com/company/careers/)
 
 
 * **[Imagine Optic](https://www.imagine-optic.com/)**  
@@ -2401,6 +2470,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Acquisition, Imagerie, Hardware
   * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO, Générique
+  * [_Jobs_](https://www.imagine-optic.com/careers/)
 
 
 * **[Imajing](https://imajing.eu/)**  
@@ -2410,6 +2480,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
+  * [_Jobs_](https://imajing.eu/company/career/)
 
 
 * **[Imavita](https://imavita.com/)**  
@@ -2480,6 +2551,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Vision, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.welcometothejungle.com/fr/companies/inbolt/jobs)
 
 
 * **[InfinyTech3D](https://infinytech3d.com/)**  
@@ -2497,6 +2569,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Pessac, États-Unis/Boston
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Simulation
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.inheartmedical.com/careers)
 
 
 * **[InnerSpace VR](https://www.innerspacevr.com/)**  
@@ -2525,6 +2598,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.inod.solutions/jobs/)
 
 
 * **[InSimo](https://www.insimo.com/)**  
@@ -2544,6 +2618,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Cesson-Sévigné
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.interdigital.com/company/careers)
 
 
 * **[Inui](https://www.inui.fr/)** (Agence Inui) 
@@ -2553,6 +2628,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Rendu offline/VFX, Visualisation, Modélisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+  * [_Jobs_](https://inui.fr/recrutement/)
 
 
 * **[Inventive](https://www.inventive-studio.com/)**  
@@ -2599,6 +2675,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://ishtar.games/join-us/)
 
 
 * **[JPL Films](https://jplfilms.com/)**  
@@ -2645,6 +2722,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie
+  * [_Jobs_](https://kayrros1.recruitee.com/)
 
 
 * **[Kazoo Animation](https://kazooanimation.com/)**  
@@ -2663,6 +2741,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.banook.com/about/careers)
 
 
 * **[Kermap](https://kermap.com/)**  
@@ -2713,6 +2792,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Géométrie
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://koelis.com/career/)
 
 
 * **[Kreon Technologies](https://www.kreon3d.com/)**  
@@ -2795,6 +2875,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2800
   * **Domaine scientifique/technique**: Modélisation, Simulation, Design/Fabrication
   * **Domaine d'application**: Mode/Vêtements/Accessoires
+  * [_Jobs_](https://careers.lectra.com/)
 
 
 * **[Leonard Technologies](https://leonard-rv.com/)**  
@@ -2823,6 +2904,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture
+  * [_Jobs_](https://ateliers-bk.com/jobs/)
 
 
 * **[Les Films du Poisson Rouge](https://www.lesfilmsdupoissonrouge.com/)**  
@@ -2840,6 +2922,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+  * [_Jobs_](https://les-fees-speciales.coop/contact/recrutement/)
 
 
 * **[Light VFX](https://lightvfx.com/)**  
@@ -2859,6 +2942,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://lightbulbcrew.fr/jobs/)
 
 
 * **[Little Workshop](https://www.littleworkshop.fr/)**  
@@ -2885,6 +2969,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 7
   * **Domaine scientifique/technique**: Design/Fabrication, Géométrie, Simulation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.logopress.com/en/carrieres.php)
 
 
 * **[Logyline](https://logyline.com/)**  
@@ -2950,6 +3035,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Visualisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation, Commerce/Marketing/Publicité
+  * [_Jobs_](https://lumiscaphe.com/carrieres/)
 
 
 * **[Luxcarta](https://www.luxcarta.com/)** (Luxcarta Technology) 
@@ -2968,6 +3054,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Rendu offline/VFX, Visualisation, Modélisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+  * [_Jobs_](https://www.luxigon.com/jobs)
 
 
 * **[LVCim](https://lvcim.com/)**  
@@ -2977,6 +3064,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Simulation, VR/AR
   * **Domaine d'application**: Sécurité/Défense, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://lvcim.com/nous-recrutons/)
 
 
 * **[Lynx](https://lynx-r.com/)**  
@@ -3003,6 +3091,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Vision, Analyse de données
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://fr.mcovision.com/jobs)
 
 
 * **[M4VFX](https://www.m4vfx.com/)**  
@@ -3020,6 +3109,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris, Paris
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://www.illuminationstudiosparis.com/careers/)
 
 
 * **[Machina Films](https://www.machina-films.com/)**  
@@ -3037,6 +3127,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.madbox.io/)
 
 
 * **[Maelstrom Studios](https://www.maelstrom-studios.fr/)**  
@@ -3065,6 +3156,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.magicdesignstudios.com/jobs-alert)
 
 
 * **[Magic Leap](https://www.magicleap.com/)**  
@@ -3092,6 +3184,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: IA générative (image/3D), Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://join.com/companies/mago)
 
 
 * **[Mainframe Industries](https://themainframe.com/)**  
@@ -3101,6 +3194,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://themainframe.com/work-with-us/)
 
 
 * **[Malil'Art](https://www.malil-art.com/)** (Malil'Art Productions) 
@@ -3126,6 +3220,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Pays-Bas/Eindhoven
   * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.manus-meta.com/careers)
 
 
 * **[Manzalab](https://www.manzalab.com/)**  
@@ -3135,6 +3230,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Modélisation, VR/AR, Web/Cloud/Big Data
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.manzalab.com/jobs)
 
 
 * **[Marmoset](https://marmoset.co/)**  
@@ -3143,6 +3239,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis, International
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+  * [_Jobs_](https://marmoset.co/jobs/)
 
 
 * **[MassVirtual](https://massvirtual.com/)**  
@@ -3152,6 +3249,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 100
   * **Domaine scientifique/technique**: VR/AR, Simulation
   * **Domaine d'application**: Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.massvirtual.com/career)
 
 
 * **[Mathematic](https://mathematic.tv)**  
@@ -3161,6 +3259,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Art/Evenementiel
+  * [_Jobs_](https://mathematic.tv/contact/careers/)
 
 
 * **[Mauna Kea Technologies](https://www.maunakeatech.com/)**  
@@ -3170,6 +3269,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.maunakeatech.com/join-us/)
 
 
 * **[Maxon](https://www.maxon.net/)**  
@@ -3218,6 +3318,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
   * **Domaine d'application**: Commerce/Marketing/Publicité, Jeu Vidéo
+  * [_Jobs_](https://jobs.merci-michel.com/)
 
 
 * **[Meta](https://ai.meta.com/research/)**  
@@ -3237,6 +3338,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://mediawankidsandfamily.com/jobs)
 
 
 * **[MIAM!](https://www.miam-animation.com/)** (MIAM! animation / MIAM! studio) 
@@ -3264,6 +3366,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.microids.com/jobs/)
 
 
 * **[Microoled](https://microoled.net/)**  
@@ -3273,6 +3376,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Hardware, VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Sécurité/Défense
+  * [_Jobs_](https://microoled.net/careers/)
 
 
 * **[Microsoft](https://www.microsoft.com/)**  
@@ -3293,6 +3397,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, IHM/Haptique
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://emploi.afjv.com/annonces-societes/1278)
 
 
 * **[Midralgar](https://www.midralgar.fr/)**  
@@ -3359,6 +3464,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: VR/AR, Simulation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://mimbus.com/carriere/)
 
 
 * **[Miyu Productions](https://www.miyu.fr/)**  
@@ -3412,6 +3518,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Art/Evenementiel
+  * [_Jobs_](https://www.welcometothejungle.com/fr/companies/modulopi/jobs)
 
 
 * **[Moment Factory](https://momentfactory.com/)**  
@@ -3441,6 +3548,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Vision, IHM/Haptique
   * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
+  * [_Jobs_](https://moonsurgical.notion.site/Moon-Surgical-Jobs-Board-7a646bb4294a417d96d93875bddb4998)
 
 
 * **[Motion Twin](https://motiontwin.com/)**  
@@ -3459,6 +3567,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Grenoble
   * **Domaine scientifique/technique**: Acquisition, VR/AR, IHM/Haptique
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://www.invensense.tdk.com/en-us/careers)
 
 
 * **[MPC / The Mill](https://www.themill.com/)**  
@@ -3478,6 +3587,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+  * [_Jobs_](https://www.mydigitalbuildings.com/carriere)
 
 
 * **[MyFit Solutions](https://myfit-solutions.com/)** (Myned Corporation (MyFit Solutions)) 
@@ -3497,6 +3607,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://corporate.nacongaming.com/career/)
 
 
 * **[Nalu Animation](https://www.naluanimation.com/)**  
@@ -3513,6 +3624,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Meylan, Paris
   * **Domaine scientifique/technique**: Vision, Reconstruction, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Générique
+  * [_Jobs_](https://careers.werecruit.io/en/naver-labs-europe)
 
 
 * **[Navya](https://www.navya.tech/)** (Navya Mobility) 
@@ -3586,6 +3698,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Lyon
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://careers.qima.com/jobs)
 
 
 * **[Next Limit](https://nextlimit.com/)**  
@@ -3714,6 +3827,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Visualisation
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://nurea-soft.com/careers/)
 
 
 * **[NVidia](https://www.nvidia.com/)**  
@@ -3755,6 +3869,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://jobs.ohbibi.com/jobs)
 
 
 * **[Oktal-SE](https://www.oktal-se.fr/)** (OKTAL Synthetic Environment) 
@@ -3763,6 +3878,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Toulouse
   * **Domaine scientifique/technique**: Simulation, Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.oktal-se.fr/company/careers/)
 
 
 * **[Old Skull Games](https://www.oldskullgames.com/)**  
@@ -3772,6 +3888,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.oldskullgames.com/careers)
 
 
 * **[Omi](https://www.omi.so/)**  
@@ -3900,6 +4017,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Vision, Acquisition, Analyse de données
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.outsight.ai/company/careers/)
 
 
 * **[Overlay](https://www.figmin.com/)**  
@@ -3947,6 +4065,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.passtechgames.com/careers/)
 
 
 * **[Pastagames](https://www.pastagames.com/)**  
@@ -3984,6 +4103,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Acquisition, Imagerie
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+  * [_Jobs_](https://www.phasics.com/en/company/jobs-at-phasics/)
 
 
 * **[Philomec](https://philomec.com/)**  
@@ -3993,6 +4113,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Simulation, Design/Fabrication
   * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://philomec.com/careers/)
 
 
 * **[Photoroom](https://www.photoroom.com/)**  
@@ -4048,6 +4169,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: VR/AR, Vision, Imagerie
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://pixee-medical.com/en/career/)
 
 
 * **[Pixel Wizards](https://pixel-wizards.com/)**  
@@ -4075,6 +4197,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.pixience.com/recrutement-pixience/)
 
 
 * **[Pixstart](https://pixstart.io/)**  
@@ -4102,6 +4225,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.playrion.com/recruitment/)
 
 
 * **[Playtouch](https://playtouch.net/)**  
@@ -4110,6 +4234,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Roquefort-les-Pins
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://playtouch.net/career)
 
 
 * **[Playwing](https://www.playwing.com/)**  
@@ -4130,6 +4255,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Vision, VR/AR, Hardware
   * **Domaine d'application**: Robotique/Systèmes autonomes, Générique
+  * [_Jobs_](https://apply.workable.com/pollen-robotics/)
 
 
 * **[PopcornFX](https://www.popcornfx.com/)**  
@@ -4140,6 +4266,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.popcornfx.com/jobs-careers/)
 
 
 * **[POWER.xyz](https://power.xyz/)**  
@@ -4159,6 +4286,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.welcometothejungle.com/fr/companies-v1/powerz/jobs)
 
 
 * **[Praxinos](https://www.praxinos.coop/)**  
@@ -4180,6 +4308,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://prettysimplegames.com/careers)
 
 
 * **[preWatch](https://www.prewatch.io/)**  
@@ -4197,6 +4326,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 30
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://lush-glitter-03a.notion.site/Primaa-s-Career-359be377ea19802a8794c0422f8bc527)
 
 
 * **[Prodways](https://www.prodways.com/)**  
@@ -4206,6 +4336,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Design/Fabrication, Hardware
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+  * [_Jobs_](https://www.prodways.com/about/careers/)
 
 
 * **[Prométhée Earth Intelligence](https://promethee.earth/)**  
@@ -4215,6 +4346,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Acquisition, Analyse de données
   * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense, Énergie/Environnement
+  * [_Jobs_](https://promethee.earth/en/careers/)
 
 
 * **[Prophesee.AI](https://www.prophesee.ai/)**  
@@ -4224,6 +4356,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://careers.prophesee.ai/jobs)
 
 
 * **[Protozoaire](https://www.protozoaire.com/)**  
@@ -4269,6 +4402,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 70
   * **Domaine scientifique/technique**: Web/Cloud/Big Data
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://join.com/companies/qarnot)
 
 
 * **[QB Technologies](https://qbtechnologies.fr/)**  
@@ -4318,6 +4452,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Acquisition, Vision, Imagerie
   * **Domaine d'application**: Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://rd-vision.com/rejoignez-nous/)
 
 
 * **[Ranch Computing](https://www.ranchcomputing.com/)**  
@@ -4327,6 +4462,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu offline/VFX, Web/Cloud/Big Data
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Générique
+  * [_Jobs_](https://www.ranchcomputing.com/fr/candidature/)
 
 
 * **[Ratel Studio](https://ratel-studio.com/)**  
@@ -4336,6 +4472,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://ratel-studio.com/#jobs)
 
 
 * **[RealityCAD](https://www.realitycad.com/)**  
@@ -4417,6 +4554,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Rendu offline/VFX, VR/AR, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Art/Evenementiel
+  * [_Jobs_](https://ride-fx.com/jobs/)
 
 
 * **[Roblox](https://www.roblox.com/)**  
@@ -4472,6 +4610,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 225
   * **Domaine scientifique/technique**: Vision, Imagerie, Analyse de données
   * **Domaine d'application**: Sécurité/Défense, Géospatial/Cartographie
+  * [_Jobs_](https://jobs.lever.co/safran-ai)
 
 
 * **[Saint-Gobain](https://www.saint-gobain.com/fr)**  
@@ -4480,6 +4619,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Courbevoie, International
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://www.saint-gobain.com/fr/carrieres)
 
 
 * **[Saltitude](https://saltitude.fr/)**  
@@ -4498,6 +4638,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Reconstruction, Vision, Visualisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Énergie/Environnement
+  * [_Jobs_](https://samp.ai/join-us/)
 
 
 * **[Sandfall Interactive](https://www.sandfall.co)**  
@@ -4506,6 +4647,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Montpellier
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.sandfall.co/careers)
 
 
 * **[Sandflow](https://sandflow.ai/)** (Chat3D (Sandflow)) 
@@ -4533,6 +4675,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.savage-level.com/carri%C3%A8re)
 
 
 * **[Scenario](https://www.scenario.com/)**  
@@ -4570,6 +4713,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Vision
   * **Domaine d'application**: Industrie/Manufacturing/CAO
+  * [_Jobs_](https://scortex.welcomekit.co/)
 
 
 * **[Sculpteo](https://www.sculpteo.com/)**  
@@ -4614,6 +4758,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, VR/AR
   * **Domaine d'application**: Entrainement/Formation/Serious Game
+  * [_Jobs_](https://seriousfactory.com/recrutement/)
 
 
 * **[Shine Research](https://shine-group.tech/)**  
@@ -4632,6 +4777,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 50-99
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://shirogames.com/jobs/)
 
 
 * **[Shot Over](https://shotover.com/)** (SHOTOVER Systems) 
@@ -4734,6 +4880,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Géospatial/Cartographie
+  * [_Jobs_](https://www.sixense-group.com/rejoignez-sixense)
 
 
 * **[SkyReal](https://skyreal.tech/)** (SKR Technologies) 
@@ -4743,6 +4890,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: VR/AR, Visualisation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://skyreal.tech/about/#section-jobs)
 
 
 * **[Sloclap](https://www.sloclap.com)**  
@@ -4752,6 +4900,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 100-199
   * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.sloclap.com/jobs)
 
 
 * **[Smode Tech](https://www.smode.io/)**  
@@ -4770,6 +4919,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 375
   * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, Visualisation
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Sécurité/Défense, Automobile/Navigation/Aviation
+  * [_Jobs_](https://carrieres.sogitec.fr/)
 
 
 * **[Solaya](https://www.solaya.ai/)**  
@@ -4779,6 +4929,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Reconstruction, Acquisition, IA générative (image/3D)
   * **Domaine d'application**: Commerce/Marketing/Publicité, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://www.solaya.ai/careers)
 
 
 * **[Sonio](https://www.sonio.ai/)**  
@@ -4788,6 +4939,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://jobs.ashbyhq.com/sonio)
 
 
 * **[Sony CSL](https://csl.sony.fr/)**  
@@ -4796,6 +4948,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Imagerie, Analyse de données
   * **Domaine d'application**: Générique
+  * [_Jobs_](https://csl.sony.fr/careers/)
 
 
 * **[Soqut Imaging](https://soqut-imaging.com/)**  
@@ -4843,6 +4996,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Simulation, Design/Fabrication, Géométrie
   * **Domaine d'application**: Industrie/Manufacturing/CAO
+  * [_Jobs_](https://hexagon.com/about/careers)
 
 
 * **[Square Enix](https://www.square-enix-games.com/fr_FR/home)**  
@@ -4860,6 +5014,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Royaume-Uni/Londres, Japon/Tokyo
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision
   * **Domaine d'application**: Générique, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://stability.ai/careers)
 
 
 * **[Steamroller Studios](https://www.steamrollerstudios.com/)**  
@@ -4879,6 +5034,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Visualisation, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://www.stereograph.fr/nous-rejoindre/)
 
 
 * **[Stereolabs](https://www.stereolabs.com/)**  
@@ -4967,6 +5123,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
   * **Domaine d'application**: Commerce/Marketing/Publicité, Médical/Biologique
+  * [_Jobs_](https://www.studioraclette.com/jobs)
 
 
 * **[Subsea Tech](https://www.subsea-tech.com/)**  
@@ -4976,6 +5133,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Acquisition, Hardware
   * **Domaine d'application**: Robotique/Systèmes autonomes, Sécurité/Défense, Énergie/Environnement
+  * [_Jobs_](https://www.subsea-tech.com/fr/recrutement/)
 
 
 * **[Sun Creature](https://www.suncreature.com/)**  
@@ -5088,6 +5246,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://tacticaladventures.teamtailor.com/jobs)
 
 
 * **[Take-Two Interactive](https://www.take2games.com/)**  
@@ -5108,6 +5267,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://jobs.tatprod.com/fr)
 
 
 * **[Tchack](https://www.tchack.com/fr/)**  
@@ -5152,6 +5312,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Inde/Bangalore, International
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.technicolorgames.com/careers/)
 
 
 * **[Technodigit](https://www.linkedin.com/company/technodigit-sarl/)**  
@@ -5245,6 +5406,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://tinydigitalfactory.com/#join-us)
 
 
 * **[The Yard VFX](https://theyard-vfx.com/)**  
@@ -5273,6 +5435,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.therapixel.com/careers/)
 
 
 * **[Therenva](https://www.therenva.com/)**  
@@ -5282,6 +5445,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Visualisation, VR/AR
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.therenva.com/career)
 
 
 * **[Thermo Fisher Scientific](https://www.thermofisher.com/amira-avizo)**  
@@ -5347,6 +5511,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://tokustudio.com/pages/jobs.php)
 
 
 * **[Toon Factory](https://toonfactory.fr/)**  
@@ -5401,6 +5566,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Imagerie, Web/Cloud/Big Data
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.tribun.health/join-our-team)
 
 
 * **[Trimaran](https://www.trimaran.com/)**  
@@ -5455,6 +5621,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+  * [_Jobs_](https://www.unit-image.fr/fr/jobs/)
 
 
 * **[Unity Technologies](https://unity.com/)**  
@@ -5504,6 +5671,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Vision, Reconstruction, IA générative (image/3D)
   * **Domaine d'application**: Automobile/Navigation/Aviation, Robotique/Systèmes autonomes
+  * [_Jobs_](https://www.valeo.com/en/careers/)
 
 
 * **[VDS (Pure View)](https://www.vds.live/)**  
@@ -5557,6 +5725,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Massy
   * **Domaine scientifique/technique**: Imagerie, Simulation, Visualisation
   * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie
+  * [_Jobs_](https://www.viridiengroup.com/company/careers)
 
 
 * **[Virteem](https://www.virteem.fr/)** (DDGI (Virteem, VIP Studio 360)) 
@@ -5593,6 +5762,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 30
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.virtualisvr.com/a-propos/nous-rejoindre)
 
 
 * **[VirtualiSurg](https://virtualisurg.com/)**  
@@ -5602,6 +5772,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR, IHM/Haptique, Simulation
   * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://virtualisurg.com/job-openings/)
 
 
 * **[Virtuallyz](https://www.virtuallyz.com/)**  
@@ -5648,6 +5819,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Strasbourg
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Visualisation
   * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.visiblepatient.com/professionnels/emploi/)
 
 
 * **[Visiolab](https://www.visio-lab.com/)**  
@@ -5684,6 +5856,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Entrainement/Formation/Serious Game
+  * [_Jobs_](https://vrailearning.com/emploi)
 
 
 * **[Wacom](https://www.wacom.com/)**  
@@ -5751,6 +5924,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Bordeaux
   * **Domaine scientifique/technique**: Visualisation, VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
+  * [_Jobs_](https://emploi.afjv.com/annonces-societes/1361)
 
 
 * **[Wild Wits Games](https://wildwits.games/)**  
@@ -5786,6 +5960,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://wolcenstudio.bamboohr.com/careers)
 
 
 * **[Xilam](https://xilam.com)** (Xilam Animation) 
@@ -5794,6 +5969,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris, Angoulême
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://xilam.com/rejoignez-nous/)
 
 
 * **[Xishan Studio](https://www.xishan.studio/)**  
