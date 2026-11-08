@@ -223,7 +223,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Automobile/Navigation/Aviation
 
 
-* **[Adobe](https://www.adobe.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
+* **[Adobe](https://www.adobe.com/fr/)**  
   * _Éditeur de logiciels de création (Photoshop, Illustrator, Premiere, Substance 3D) et de documents (Acrobat), intégrant l'IA générative Firefly._
   * **Mots clés**: _plugin/logiciel pour artistes, retouche d'image, montage vidéo, IA générative, Photoshop, Firefly, Substance 3D_
   * **Remarque**: _Centre de recherche à Paris_
@@ -1156,7 +1156,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
-* **[Dassault Systèmes](https://www.3ds.com/fr/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
+* **[Dassault Systèmes](https://www.3ds.com/fr/)**  
   * _Éditeur français de logiciels de conception, simulation et gestion du cycle de vie produit (CATIA, SOLIDWORKS, SIMULIA, 3DEXPERIENCE) pour l'industrie et la santé._
   * **Mots clés**: _CAO, PLM, simulation physique, éléments finis, jumeau numérique, CATIA, SOLIDWORKS, aéronautique_
   * **Produits**: Catia, SolidWorks
@@ -5016,7 +5016,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement
 
 
-* **[Thales](https://www.thalesgroup.com/fr)**   :small_orange_diamond: _[Entreprise majeure avec R&D avancée en France]_
+* **[Thales](https://www.thalesgroup.com/fr)**  
   * _Multi-nationale française à forte composante R&amp;D développant des produits pour l'aérospatiale, la défense, et la sécurité tel que la biométrie._
   * **Mots clés**: _défense, aéronautique, spatial, cybersécurité, biométrie_
   * **Localisation**: France/Paris, Palaiseau, International
@@ -5245,7 +5245,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
-* **[Ubisoft](https://www.ubisoft.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
+* **[Ubisoft](https://www.ubisoft.com/)**  
   * _Éditeur et développeur français de jeux vidéo AAA (Assassin's Creed, Far Cry, Rainbow Six Siege, The Division) avec des studios dans le monde entier et des moteurs maison (Anvil, Snowdrop)._
   * **Mots clés**: _AAA, console/PC, édition de jeux, moteur maison, multijoueur en ligne, free-to-play_
   * **Remarque**: _Ubisoft a créé une entité de recherche à Bordeaux appelée "La Forge" à l'image de celle existante à Montréal. Depuis fin 2025, les licences Assassin's Creed, Far Cry et Rainbow Six sont gérées par la filiale Vantage Studios (participation de Tencent). Restructuration importante en 2026 (fermetures de studios hors de France). Studios en France : Ubisoft Paris, Ubisoft Mobile Games (Saint-Mandé), Nadeo (Trackmania, Paris), Ivory Tower (The Crew, Villeurbanne), Ubisoft Bordeaux et Ubisoft Annecy._
@@ -5282,7 +5282,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
 
 
-* **[Unity Technologies](https://unity.com/)**   :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_
+* **[Unity Technologies](https://unity.com/)**  
   * _Éditeur du moteur temps réel Unity, multiplateforme (mobile, PC, console, XR), et de services associés de LiveOps, monétisation et applications industrielles._
   * **Mots clés**: _Unity, moteur de jeu, rendu temps réel, mobile, console/PC, réalité virtuelle, jumeau numérique, monétisation publicitaire_
   * **Remarque**: _Equipes de développement en France: <a target="_blank" href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a target="_blank" href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a target="_blank" href="https://unity.com/products/sentis">IA</a> (Lille)_

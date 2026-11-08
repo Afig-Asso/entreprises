@@ -1522,7 +1522,6 @@
                 "Substance 3D"
             ],
             "Info": "Centre de recherche \u00e0 Paris",
-            "Highlight": "Graphics, R&D",
             "Employees": 31000
         },
         {
@@ -2748,7 +2747,6 @@
                 "SOLIDWORKS",
                 "a\u00e9ronautique"
             ],
-            "Highlight": "Graphics, R&D",
             "Employees": 20000
         },
         {
@@ -6209,8 +6207,7 @@
                 "cybers\u00e9curit\u00e9",
                 "biom\u00e9trie"
             ],
-            "Employees": 80000,
-            "Highlight": "R&D"
+            "Employees": 80000
         },
         {
             "Name": "The Foundry",
@@ -6528,8 +6525,7 @@
                 "multijoueur en ligne",
                 "free-to-play"
             ],
-            "Employees": 16500,
-            "Highlight": "Graphics, R&D"
+            "Employees": 16500
         },
         {
             "Name": "Unity Technologies",
@@ -6597,7 +6593,6 @@
                     "International": true
                 }
             ],
-            "Highlight": "Graphics, R&D",
             "Employees": 7000,
             "Scientific-domain": [
                 "Rendu temps r\u00e9el/Moteurs 3D",

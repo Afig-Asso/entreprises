@@ -67,12 +67,6 @@ const Global = {
     'rendered-ids': null, // ids already used in the current rendering (a company can appear several times by place)
 };
 
-// Badges shown next to the name, from the 'Highlight' key of data.yaml
-const HIGHLIGHT_BADGES = [
-    {'match': (h) => h.includes('Graphics') && h.includes('R&D'), 'text': 'Acteur majeur du graphique, R&amp;D en France'},
-    {'match': (h) => h.includes('R&D'), 'text': 'R&amp;D en France'},
-];
-
 const NEW_TAB = '<span class="visually-hidden"> (nouvel onglet)</span>';
 
 let company_data;
@@ -320,19 +314,6 @@ function places_for_card(entry) {
 // Display of one company
 // ---------------------------------------------------------------------------
 
-function highlight_badge(entry) {
-    const highlight = get_string(entry['Highlight']);
-    if(highlight=='') {
-        return '';
-    }
-    for(const badge of HIGHLIGHT_BADGES) {
-        if(badge['match'](highlight)) {
-            return ` <span class="highlight-badge">${badge['text']}</span>`;
-        }
-    }
-    return '';
-}
-
 // Theme tags of a card: buttons that filter the listing on this theme
 function display_tags(element, domain) {
     if(element==undefined || element.length==0) {
@@ -399,8 +380,7 @@ function display_company_entry(entry, level) {
     const name = entry['Name'];
     const id_attribute = company_id_attribute(name);
     const url = entry['url'];
-    const badge = highlight_badge(entry);
-    const title = `<h${level} class="company-name"><a target="_blank" href="${url}">${name}${NEW_TAB}</a>${badge}</h${level}>`;
+    const title = `<h${level} class="company-name"><a target="_blank" href="${url}">${name}${NEW_TAB}</a></h${level}>`;
 
     const jobs = get_string(entry['Jobs']);
     const jobs_txt = jobs=='' ? '' :

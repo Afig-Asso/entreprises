@@ -17,7 +17,6 @@
 #    Product:    // Les produits principaux réalisés/vendus par l'entreprise.
 #    Employees:  // Nombre d'employés approximatifs
 #    Keywords:   // Mots clés libres (ex. Graphics, VFX, Pipeline)
-#    Highlight:  // Réservé: "Graphics, R&D" ou "R&D" pour signaler une entreprise majeure avec R&D avancée en France
 #
 #  Toute autre clé est signalée comme erreur par scripts/generate.py -C (faute de frappe probable).
 #
@@ -162,7 +161,6 @@
   Application-domain: [Art/Evenementiel, Cinéma/Films d'Animation/VFX]
   Keywords: [plugin/logiciel pour artistes, retouche d'image, montage vidéo, IA générative, Photoshop, Firefly, Substance 3D]
   Info: Centre de recherche à Paris
-  Highlight: Graphics, R&D
   Employees: 31000
 
 - Name: Agenium
@@ -655,7 +653,6 @@
   Scientific-domain: [Modélisation, Simulation, Géométrie, Design/Fabrication]
   Application-domain: [Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO, Médical/Biologique]
   Keywords: [CAO, PLM, simulation physique, éléments finis, jumeau numérique, CATIA, SOLIDWORKS, aéronautique]
-  Highlight: Graphics, R&D
   Employees: 20000
 
 - Name: DigitalFish
@@ -2072,7 +2069,6 @@
   Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation]
   Keywords: [défense, aéronautique, spatial, cybersécurité, biométrie]
   Employees: 80000
-  Highlight: R&D
 
 
 - Name: The Foundry
@@ -2208,7 +2204,6 @@
   Application-domain: [Jeu Vidéo]
   Keywords: [AAA, console/PC, édition de jeux, moteur maison, multijoueur en ligne, free-to-play]
   Employees: 16500
-  Highlight: Graphics, R&D
 
 - Name: Unity Technologies
   url: https://unity.com/
@@ -2239,7 +2234,6 @@
       Address: '2 Avenue des Saules, 59160 Lille'
     - Country: [Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse]
     - International: True
-  Highlight: Graphics, R&D
   Employees: 7000
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]

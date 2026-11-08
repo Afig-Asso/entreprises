@@ -117,7 +117,6 @@ def prettyMD_company(data):
     domaines_scientifiques = liblisting.get_optional('Scientific-domain',data)
     domaines_applications = liblisting.get_optional('Application-domain',data)
     information = liblisting.get_optional('Info',data)
-    highlight = liblisting.get_optional('Highlight',data)
     employees = liblisting.get_optional('Employees',data)
     keywords = liblisting.get_optional('Keywords',data)
 
@@ -125,14 +124,7 @@ def prettyMD_company(data):
     if nom_long!='':
         nom_long_str = f'({nom_long})'
 
-    highlight_txt = ''
-    if highlight!='':
-        if highlight.find('Graphics')!=-1 and highlight.find('R&D')!=-1:
-            highlight_txt = ' :red_circle: _[Entreprise majeure en Graphique avec R&D avancée en France]_'
-        elif highlight.find('R&D')!=-1:
-            highlight_txt = ' :small_orange_diamond: _[Entreprise majeure avec R&D avancée en France]_'
-
-    out += f'* **[{name}]({url})** {nom_long_str} {highlight_txt}\n'
+    out += f'* **[{name}]({url})** {nom_long_str} \n'  # deux espaces finales : retour à la ligne Markdown
     out += liblisting.display_optional(descriptif, pre='* _', post='_')
     out += liblisting.display_optional(keywords, pre='* **Mots clés**: _', post='_')
     out += liblisting.display_optional(information, pre='* **Remarque**: _', post='_')
@@ -214,7 +206,7 @@ def check_keywords(data_keywords, data, exitOnError=False):
 
 # Keys accepted in data.yaml (anything else is most likely a typo)
 REQUIRED_KEYS = ['Name', 'url', 'Place', 'Scientific-domain', 'Application-domain']
-OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords', 'Highlight']
+OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employees', 'Keywords']
 PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International', 'Coordinates', 'SIREN', 'Address']
 # Country names are written in French (the site groups companies by country name)
 COUNTRIES = ['Allemagne', 'Australie', 'Belgique', 'Brésil', 'Canada', 'Chine', 'Corée du Sud', 'Danemark',
