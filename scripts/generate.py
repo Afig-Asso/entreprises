@@ -210,7 +210,7 @@ OPTIONAL_KEYS = ['Description', 'Name-long', 'Jobs', 'Info', 'Product', 'Employe
 PLACE_KEYS = ['Country', 'State', 'City', 'Exact', 'International', 'Coordinates', 'SIREN', 'Address']
 # Country names are written in French (the site groups companies by country name)
 COUNTRIES = ['Allemagne', 'Australie', 'Belgique', 'Brésil', 'Canada', 'Chine', 'Corée du Sud', 'Danemark',
-             'Espagne', 'États-Unis', 'Finlande', 'France', 'Inde', 'Israël', 'Italie', 'Japon', 'Lituanie',
+             'Espagne', 'États-Unis', 'Finlande', 'France', 'Inde', 'Irlande', 'Israël', 'Italie', 'Japon', 'Lituanie',
              'Maurice', 'Monaco', 'Norvège', 'Nouvelle-Zélande', 'Pays-Bas', 'Pologne', 'Portugal', 'Royaume-Uni',
              'Singapour', 'Suède', 'Suisse', 'Taïwan']
 PRODUCT_KEYS = ['Name', 'url']

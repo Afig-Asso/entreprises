@@ -199,6 +199,10 @@
             47.474,
             -0.5516
         ],
+        "France/Anglet": [
+            43.4814,
+            -1.515
+        ],
         "France/Angoul\u00eame": [
             45.6485,
             0.1562
@@ -238,6 +242,10 @@
         "France/Bagnols-sur-C\u00e8ze": [
             44.1605,
             4.6236
+        ],
+        "France/Bayonne": [
+            43.4945,
+            -1.4737
         ],
         "France/Belfort": [
             47.638,
@@ -286,6 +294,10 @@
         "France/Bourg-l\u00e8s-Valence": [
             44.9528,
             4.8954
+        ],
+        "France/Brest": [
+            48.3912,
+            -4.4851
         ],
         "France/Brie": [
             45.7254,
@@ -419,6 +431,10 @@
             45.6794,
             0.1638
         ],
+        "France/Grand-Champ": [
+            47.7584,
+            -2.8453
+        ],
         "France/Grasse": [
             43.6589,
             6.9239
@@ -502,6 +518,10 @@
         "France/Lixhausen": [
             48.7938,
             7.5504
+        ],
+        "France/Locmaria-Plouzan\u00e9": [
+            48.3747,
+            -4.6444
         ],
         "France/Loos": [
             50.6092,
@@ -907,6 +927,18 @@
             12.9768,
             77.5901
         ],
+        "Irlande/Dublin": [
+            53.3494,
+            -6.2606
+        ],
+        "Irlande/Galway": [
+            53.2744,
+            -9.0491
+        ],
+        "Irlande/Kilkenny": [
+            52.6506,
+            -7.2514
+        ],
         "Japon/Saitama": [
             35.8617,
             139.6455
@@ -959,13 +991,81 @@
             54.7024,
             -3.2766
         ],
+        "Royaume-Uni/Basingstoke": [
+            51.2628,
+            -1.0862
+        ],
+        "Royaume-Uni/Bournemouth": [
+            50.7447,
+            -1.858
+        ],
+        "Royaume-Uni/Bristol": [
+            51.443,
+            -2.5817
+        ],
+        "Royaume-Uni/Burton upon Trent": [
+            52.8027,
+            -1.6299
+        ],
+        "Royaume-Uni/Cambridge": [
+            52.1976,
+            0.1392
+        ],
+        "Royaume-Uni/Gateshead": [
+            54.9626,
+            -1.6019
+        ],
+        "Royaume-Uni/Guildford": [
+            51.2356,
+            -0.5732
+        ],
+        "Royaume-Uni/Horsham": [
+            51.063,
+            -0.3295
+        ],
+        "Royaume-Uni/Leamington Spa": [
+            52.2913,
+            -1.5364
+        ],
+        "Royaume-Uni/Leeds": [
+            53.7974,
+            -1.5438
+        ],
+        "Royaume-Uni/Liverpool": [
+            53.3933,
+            -2.9166
+        ],
         "Royaume-Uni/Londres": [
             51.5074,
             -0.1278
         ],
+        "Royaume-Uni/Manchester": [
+            53.4425,
+            -2.2325
+        ],
+        "Royaume-Uni/Nottingham": [
+            52.9534,
+            -1.1496
+        ],
         "Royaume-Uni/Oxford": [
             51.752,
             -1.2578
+        ],
+        "Royaume-Uni/Portsmouth": [
+            50.8,
+            -1.0906
+        ],
+        "Royaume-Uni/Sheffield": [
+            53.3807,
+            -1.4702
+        ],
+        "Royaume-Uni/Southam": [
+            52.2531,
+            -1.3884
+        ],
+        "Royaume-Uni/Wakefield": [
+            53.683,
+            -1.4967
         ],
         "Singapour": [
             1.3571,
@@ -1195,7 +1295,6 @@
         "Lille": "Lille",
         "Roubaix": "Lille",
         "Tourcoing": "Lille",
-        "Fretin": "Lille",
         "Villeneuve-d'Ascq": "Lille",
         "Loos": "Lille",
         "Saint-Andr\u00e9-lez-Lille": "Lille",
@@ -1260,7 +1359,14 @@
         "Limoges": "Limoges",
         "Bonnac-la-C\u00f4te": "Limoges",
         "La Rochelle": "La Rochelle",
-        "Lagord": "La Rochelle"
+        "Lagord": "La Rochelle",
+        "Brest": "Brest",
+        "Plouzan\u00e9": "Brest",
+        "Locmaria-Plouzan\u00e9": "Brest",
+        "Vannes": "Vannes",
+        "Grand-Champ": "Vannes",
+        "Bayonne": "Bayonne \u2013 Anglet",
+        "Anglet": "Bayonne \u2013 Anglet"
     },
     "Listing": [
         {
@@ -22848,6 +22954,2426 @@
                 "WebGL",
                 "WebGPU",
                 "jeu mobile"
+            ]
+        },
+        {
+            "Name": "Virtualys",
+            "url": "https://www.virtualys.fr/",
+            "Description": "Soci\u00e9t\u00e9 brestoise fond\u00e9e en 1997 qui con\u00e7oit des applications 3D temps r\u00e9el interactives en r\u00e9alit\u00e9 virtuelle et augment\u00e9e, des serious games de formation et des outils web, avec une activit\u00e9 de R&D \u00e9ligible au CIR.",
+            "Place": [
+                {
+                    "City": "Brest",
+                    "Coordinates": [
+                        48.39235,
+                        -4.47958
+                    ],
+                    "SIREN": "413026428",
+                    "Address": "41 Rue Yves Collet, 29200 Brest"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO",
+                "Patrimoine/Culture"
+            ],
+            "Jobs": "https://www.virtualys.fr/Recrutements",
+            "Employees": 15,
+            "Keywords": [
+                "R\u00e9alit\u00e9 virtuelle",
+                "Serious game",
+                "3D temps r\u00e9el",
+                "R\u00e9alit\u00e9 augment\u00e9e"
+            ]
+        },
+        {
+            "Name": "Cervval",
+            "url": "https://cervval.com/",
+            "Description": "Soci\u00e9t\u00e9 d'ing\u00e9nierie informatique fond\u00e9e en 2003, issue du Centre europ\u00e9en de r\u00e9alit\u00e9 virtuelle de l'ENIB, sp\u00e9cialis\u00e9e en simulation 3D, jumeaux num\u00e9riques (Digitwin, Zurvan Project BIM) et solutions de planification pour l'industrie, le maritime, les transports et la d\u00e9fense.",
+            "Place": [
+                {
+                    "City": "Plouzan\u00e9",
+                    "Coordinates": [
+                        48.35743,
+                        -4.56658
+                    ],
+                    "SIREN": "449259449",
+                    "Address": "245 Rue Ren\u00e9 Descartes, 29280 Plouzan\u00e9"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Reconstruction",
+                "VR/AR",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Architecture/BTP/Urbanisme",
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://cervval.com/recrutement.html",
+            "Employees": 50,
+            "Keywords": [
+                "Jumeau num\u00e9rique",
+                "Simulation 3D",
+                "R\u00e9alit\u00e9 virtuelle",
+                "BIM",
+                "Planification"
+            ]
+        },
+        {
+            "Name": "Hytech-imaging",
+            "url": "https://hytech-imaging.fr/",
+            "Description": "Entreprise cr\u00e9\u00e9e en 2016 (T\u00e9l\u00e9com Bretagne) sp\u00e9cialis\u00e9e en imagerie spectrale et hyperspectrale a\u00e9rienne, drone et satellite pour le suivi de l'environnement littoral et marin (solutions Stormm, Flyspec, Littosat), avec des clients comme le Shom et le CNES.",
+            "Place": [
+                {
+                    "City": "Plouzan\u00e9",
+                    "Coordinates": [
+                        48.36136,
+                        -4.57232
+                    ],
+                    "SIREN": "820689529",
+                    "Address": "115 Rue Claude Chappe, 29280 Plouzan\u00e9"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Vision",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "\u00c9nergie/Environnement",
+                "G\u00e9ospatial/Cartographie",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "Imagerie hyperspectrale",
+                "T\u00e9l\u00e9d\u00e9tection",
+                "Drones",
+                "Imagerie satellitaire"
+            ]
+        },
+        {
+            "Name": "Move'n See",
+            "url": "https://shop.movensee.com/fr/",
+            "Description": "Soci\u00e9t\u00e9 brestoise qui con\u00e7oit des cam\u00e9ras autonomes \u00e0 suivi par IA (PIX4TEAM, PIXEM) et des services de captation, d'analyse vid\u00e9o et de streaming pour le sport amateur et le spectacle.",
+            "Place": [
+                {
+                    "City": "Brest",
+                    "Coordinates": [
+                        48.36575,
+                        -4.54772
+                    ],
+                    "SIREN": "531299246",
+                    "Address": "15 Rue Johannes Kepler, 29200 Brest"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Analyse de donn\u00e9es",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "Cam\u00e9ra autonome",
+                "Suivi par IA",
+                "Vid\u00e9o sport",
+                "Streaming"
+            ]
+        },
+        {
+            "Name": "OceanDataLab",
+            "url": "https://www.oceandatalab.com/home",
+            "Description": "Laboratoire priv\u00e9 cr\u00e9\u00e9 en 2013 qui d\u00e9veloppe des logiciels de visualisation et d'analyse de donn\u00e9es d'observation spatiale de l'oc\u00e9an (Syntool, SEAScope, Ocean Virtual Laboratory) en collaboration avec le laboratoire d'oc\u00e9anographie spatiale de l'Ifremer.",
+            "Place": [
+                {
+                    "City": "Locmaria-Plouzan\u00e9",
+                    "Coordinates": [
+                        48.34785,
+                        -4.64037
+                    ],
+                    "SIREN": "792395923",
+                    "Address": "Deolen, 29280 Locmaria-Plouzan\u00e9"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Analyse de donn\u00e9es",
+                "Imagerie",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "\u00c9nergie/Environnement",
+                "G\u00e9ospatial/Cartographie"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "Visualisation scientifique",
+                "Observation de la Terre",
+                "Oc\u00e9anographie",
+                "T\u00e9l\u00e9d\u00e9tection"
+            ]
+        },
+        {
+            "Name": "Motion-Up",
+            "url": "https://www.motion-up.com/",
+            "Description": "Entreprise R&D de capture de mouvement haute pr\u00e9cision (syst\u00e8me optique sur 110 m\u00b2, corps, mains et visage en temps r\u00e9el) et de d\u00e9veloppement 3D, qui produit aussi des catalogues gestuels interactifs XR/VR pour la sant\u00e9, le sport et l'audiovisuel.",
+            "Place": [
+                {
+                    "City": "Vannes",
+                    "Coordinates": [
+                        47.6166,
+                        -2.7302
+                    ],
+                    "SIREN": "888088044",
+                    "Address": "22 Route du Gouavert, 56860 S\u00e9n\u00e9"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "motion capture",
+                "catalogue gestuel 3D",
+                "jumeau num\u00e9rique",
+                "langue des signes",
+                "serious game"
+            ]
+        },
+        {
+            "Name": "Meerkatt Studio",
+            "url": "https://meerkatt-studio.com/",
+            "Description": "Studio de jeu vid\u00e9o ind\u00e9pendant qui d\u00e9veloppe des jeux de simulation et de gestion \u00e0 la premi\u00e8re personne, centr\u00e9s sur les interactions physiques (bakery cafe, etc.), publi\u00e9s sur Steam.",
+            "Place": [
+                {
+                    "City": "Grand-Champ",
+                    "Coordinates": [
+                        47.7676,
+                        -2.8977
+                    ],
+                    "SIREN": "930296967",
+                    "Address": "69 Impasse Nelson Mandela, 56390 Grand-Champ"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "simulation \u00e0 la premi\u00e8re personne",
+                "Steam",
+                "interactions physiques",
+                "cozy game"
+            ]
+        },
+        {
+            "Name": "Lynxter",
+            "url": "https://lynxter.com/fr",
+            "Description": "Fabricant fran\u00e7ais d'imprimantes 3D industrielles modulaires, pionnier de l'impression 3D silicone et multimat\u00e9riaux (liquide, p\u00e2te, filament), avec son propre logiciel de pilotage et de d\u00e9coupage (slicer), fond\u00e9 en 2016 \u00e0 Bayonne.",
+            "Place": [
+                {
+                    "City": "Bayonne",
+                    "Coordinates": [
+                        43.46506,
+                        -1.49309
+                    ],
+                    "SIREN": "819037284",
+                    "Address": "9 Rue Pierre Georges Lat\u00e9co\u00e8re, 64100 Bayonne"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://lynxter.com/fr/entreprise/recrutement",
+            "Employees": 33,
+            "Keywords": [
+                "Impression 3D",
+                "Fabrication additive",
+                "Silicone",
+                "Slicer",
+                "Imprimante modulaire"
+            ]
+        },
+        {
+            "Name": "Augmentalix",
+            "url": "https://www.augmentalix.com/",
+            "Description": "Int\u00e9grateur de r\u00e9alit\u00e9 virtuelle, augment\u00e9e et mixte install\u00e9 \u00e0 Anglet : s\u00e9lection de mat\u00e9riels et logiciels XR, jumeau num\u00e9rique et BIM en VR (GISinVR), formation immersive et maintenance assist\u00e9e, pour l'\u00c9ducation nationale, KNDS ou Airbus.",
+            "Place": [
+                {
+                    "City": "Anglet",
+                    "Coordinates": [
+                        43.51788,
+                        -1.50181
+                    ],
+                    "SIREN": "938798121",
+                    "Address": "167 Avenue de l'Adour, 64600 Anglet"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 10,
+            "Keywords": [
+                "R\u00e9alit\u00e9 virtuelle",
+                "R\u00e9alit\u00e9 augment\u00e9e",
+                "Formation immersive",
+                "Jumeau num\u00e9rique",
+                "Int\u00e9grateur XR"
+            ]
+        },
+        {
+            "Name": "DNEG",
+            "url": "https://www.dneg.com/",
+            "Description": "Studio d'effets visuels et d'animation bas\u00e9 \u00e0 Londres (Double Negative), multi-oscaris\u00e9 (Inception, Interstellar, Dune), avec de nombreux studios dans le monde ; d\u00e9veloppe ses propres outils de rendu et de production.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52093,
+                        -0.14288
+                    ],
+                    "Address": "160 Great Portland Street, London W1W 5QA"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.dneg.com/join-us",
+            "Employees": 1500,
+            "Keywords": [
+                "VFX",
+                "Animation",
+                "Pipeline",
+                "Rendu"
+            ]
+        },
+        {
+            "Name": "Framestore",
+            "url": "https://www.framestore.com/",
+            "Description": "Studio d'effets visuels, d'animation et de contenus immersifs/temps r\u00e9el fond\u00e9 en 1986 \u00e0 Londres, oscaris\u00e9 (\u00c0 la crois\u00e9e des mondes, Gravity) ; studios \u00e0 Londres, Montr\u00e9al, New York, Los Angeles, Mumbai.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51572,
+                        -0.11168
+                    ],
+                    "Address": "28 Chancery Lane, London WC2A 1LB"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.framestore.com/careers",
+            "Employees": 1000,
+            "Keywords": [
+                "VFX",
+                "Animation",
+                "Production virtuelle",
+                "Pipeline"
+            ]
+        },
+        {
+            "Name": "Cinesite",
+            "url": "https://www.cinesite.com/",
+            "Description": "Studio d'effets visuels et d'animation de longs m\u00e9trages bas\u00e9 \u00e0 Londres (Soho) avec des studios \u00e0 Montr\u00e9al et ailleurs ; travaille pour les grands studios hollywoodiens et produit ses propres films d'animation.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51719,
+                        -0.142
+                    ],
+                    "Address": "10 Little Portland Street, London W1W 7JG"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://cinesite.com/careers/",
+            "Keywords": [
+                "VFX",
+                "Animation 3D",
+                "Long m\u00e9trage"
+            ]
+        },
+        {
+            "Name": "Untold Studios",
+            "url": "https://untoldstudios.tv/",
+            "Description": "Studio de VFX, d'\u00e9talonnage et de production fond\u00e9 en 2018 \u00e0 Londres, se pr\u00e9sentant comme un studio enti\u00e8rement bas\u00e9 sur le cloud ; bureaux \u00e0 New York, Los Angeles, Mumbai et Toronto ; publicit\u00e9, film et s\u00e9ries.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52524,
+                        -0.08814
+                    ],
+                    "Address": "White Collar Factory, Old Street Yard, London EC1Y 8AF"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://untoldstudios.tv/careers/",
+            "Keywords": [
+                "VFX",
+                "CGI",
+                "Pipeline cloud",
+                "Publicit\u00e9"
+            ]
+        },
+        {
+            "Name": "Union VFX",
+            "url": "https://www.unionvfx.com/",
+            "Description": "Studio ind\u00e9pendant d'effets visuels pour le cin\u00e9ma et les s\u00e9ries, install\u00e9 \u00e0 Soho (Londres).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5173,
+                        -0.1336
+                    ],
+                    "Address": "18 Rathbone Place, London W1T 1HX"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "VFX",
+                "Cin\u00e9ma",
+                "S\u00e9ries"
+            ]
+        },
+        {
+            "Name": "Territory Studio",
+            "url": "https://territorystudio.com/",
+            "Description": "Studio de design graphique et de motion design sp\u00e9cialis\u00e9 dans les interfaces fictives (FUI), la visualisation de donn\u00e9es et le temps r\u00e9el pour le cin\u00e9ma, le jeu vid\u00e9o et l'automobile.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52506,
+                        -0.09924
+                    ],
+                    "Address": "132-140 Goswell Road, London EC1V 7DY"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Visualisation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Keywords": [
+                "Interfaces fictives",
+                "Motion design",
+                "Visualisation"
+            ]
+        },
+        {
+            "Name": "Electric Theatre Collective",
+            "url": "https://electrictheatre.com/",
+            "Description": "Studio de VFX et de CGI pour la publicit\u00e9, le cin\u00e9ma et les contenus de marque, bas\u00e9 \u00e0 Londres avec des antennes \u00e0 New York et Los Angeles.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52064,
+                        -0.07212
+                    ],
+                    "Address": "5th Floor, 91 Brick Lane, London E1 6QL"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "VFX",
+                "CGI",
+                "Publicit\u00e9"
+            ]
+        },
+        {
+            "Name": "Blue Zoo",
+            "url": "https://www.bluezoo.co.uk/",
+            "Description": "Studio d'animation 3D et de production de s\u00e9ries pour enfants (Numberblocks, Alphablocks) bas\u00e9 \u00e0 Londres.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52699,
+                        -0.14052
+                    ],
+                    "Address": "Acre House, 11-15 William Road, London NW1 3ER"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 250,
+            "Keywords": [
+                "Animation 3D",
+                "S\u00e9ries TV"
+            ]
+        },
+        {
+            "Name": "Nexus Studios",
+            "url": "https://nexusstudios.com/",
+            "Description": "Studio de cr\u00e9ation m\u00ealant animation, VFX et exp\u00e9riences immersives (AR/VR) pour le cin\u00e9ma, la publicit\u00e9 et les marques, bas\u00e9 \u00e0 Londres.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51571,
+                        -0.10241
+                    ],
+                    "Address": "Third Floor, 20 Old Bailey, London EC4M 7AN"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "Animation",
+                "XR",
+                "VFX"
+            ]
+        },
+        {
+            "Name": "Studio AKA",
+            "url": "https://studioaka.co.uk/",
+            "Description": "Studio d'animation ind\u00e9pendant bas\u00e9 \u00e0 Clerkenwell (Londres), produisant publicit\u00e9s, s\u00e9ries et courts et longs m\u00e9trages en techniques 2D et 3D.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52476,
+                        -0.10145
+                    ],
+                    "Address": "56 Compton Street, London EC1V 0ET"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "Animation",
+                "2D/3D",
+                "Publicit\u00e9"
+            ]
+        },
+        {
+            "Name": "Locksmith Animation",
+            "url": "https://locksmithanimation.com/",
+            "Description": "Studio d'animation 3D de longs m\u00e9trages fond\u00e9 \u00e0 Londres en 2014 (Ron d\u00e9bloque / Ron's Gone Wrong).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51053,
+                        -0.12089
+                    ],
+                    "Address": "7 Savoy Court, London WC2R 0EX"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "Animation 3D",
+                "Long m\u00e9trage"
+            ]
+        },
+        {
+            "Name": "BlueBolt",
+            "url": "https://www.blue-bolt.com/",
+            "Description": "Studio ind\u00e9pendant d'effets visuels bas\u00e9 \u00e0 Londres pour s\u00e9ries et films (The Last Kingdom, Downton Abbey : Le Grand Final).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51965,
+                        -0.09754
+                    ],
+                    "Address": "140 Aldersgate Street, London EC1A 4HY"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "VFX",
+                "S\u00e9ries TV",
+                "Cin\u00e9ma"
+            ]
+        },
+        {
+            "Name": "Splash Damage",
+            "url": "https://splashdamage.com/",
+            "Description": "Studio de jeu vid\u00e9o fond\u00e9 en 2001 (Wolfenstein : Enemy Territory, Gears Tactics), install\u00e9 \u00e0 Bromley dans le Grand Londres, avec sa propre technologie de d\u00e9veloppement.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.40734,
+                        0.01831
+                    ],
+                    "Address": "Royal Court, 81 Tweedy Road, Bromley BR1 1RG"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.splashdamage.com/",
+            "Employees": 200,
+            "Keywords": [
+                "Jeu vid\u00e9o",
+                "Multijoueur",
+                "Moteur 3D"
+            ]
+        },
+        {
+            "Name": "Hutch",
+            "url": "https://www.hutch.io/",
+            "Description": "Studio de jeux mobiles en 3D (F1 Mobile Racing, Top Drives) bas\u00e9 \u00e0 Londres.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52321,
+                        -0.08122
+                    ],
+                    "Address": "44-46 Scrutton Street, London EC2A 4HH"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.hutch.io/careers/",
+            "Keywords": [
+                "Jeu mobile",
+                "Course",
+                "3D temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "ustwo games",
+            "url": "https://ustwogames.co.uk/",
+            "Description": "Studio de jeu vid\u00e9o londonien, cr\u00e9ateur de Monument Valley, Assemble with Care et Alba.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.47992,
+                        -0.11369
+                    ],
+                    "Address": "Unit C1, Offley Works, 1 Pickle Mews, London SW9 0FJ"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "Jeu vid\u00e9o",
+                "Monument Valley",
+                "Mobile"
+            ]
+        },
+        {
+            "Name": "Sports Interactive",
+            "url": "https://www.sports-interactive.com/",
+            "Description": "Studio londonien (SEGA) \u00e9diteur de la s\u00e9rie Football Manager, simulation de gestion avec moteur de match 3D.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.49323,
+                        -0.27426
+                    ],
+                    "Address": "Building 12, Chiswick Business Park, 566 Chiswick High Road, London W4 5AN"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.sports-interactive.com/careers",
+            "Keywords": [
+                "Football Manager",
+                "Simulation",
+                "Jeu vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Synthesia",
+            "url": "https://www.synthesia.io/",
+            "Description": "Plateforme d'IA g\u00e9n\u00e9rative de vid\u00e9os avec avatars humains num\u00e9riques, bas\u00e9e \u00e0 Londres.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52483,
+                        -0.14242
+                    ],
+                    "Address": "Level 3 (South), 20 Triton Street, Regent's Place, London NW1 3BF"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Jobs": "https://www.synthesia.io/careers",
+            "Employees": 500,
+            "Keywords": [
+                "IA g\u00e9n\u00e9rative",
+                "Avatars",
+                "Vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Wayve",
+            "url": "https://wayve.ai/",
+            "Description": "Entreprise londonienne d'IA embarqu\u00e9e pour la conduite autonome par vision (apprentissage de bout en bout, mod\u00e8les g\u00e9n\u00e9ratifs de sc\u00e8nes de conduite).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.543,
+                        -0.12563
+                    ],
+                    "Address": "230 York Way, London N7 9AG"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://wayve.ai/careers/",
+            "Employees": 600,
+            "Keywords": [
+                "Conduite autonome",
+                "Vision",
+                "Deep learning"
+            ]
+        },
+        {
+            "Name": "Gravity Sketch",
+            "url": "https://gravitysketch.com/",
+            "Description": "\u00c9diteur londonien d'une application de mod\u00e9lisation 3D et de design en r\u00e9alit\u00e9 virtuelle/mixte utilis\u00e9e pour le design de produits.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51554,
+                        -0.10841
+                    ],
+                    "Address": "5 New Street Square, London EC4A 3TW"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Design/Fabrication",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Jobs": "https://gravitysketch.com/careers/",
+            "Keywords": [
+                "Mod\u00e9lisation 3D",
+                "VR",
+                "Design produit"
+            ]
+        },
+        {
+            "Name": "Dimension Studio",
+            "url": "https://dimensionstudio.co/",
+            "Description": "Studio de capture volum\u00e9trique, de production virtuelle et de contenus XR bas\u00e9 \u00e0 Londres (Wimbledon).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.43318,
+                        -0.18933
+                    ],
+                    "Address": "Unit 39, Wimbledon Business Centre, Riverside Road, London SW17 0BA"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "VR/AR",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://dimensionstudio.co/join-us/",
+            "Keywords": [
+                "Capture volum\u00e9trique",
+                "Production virtuelle",
+                "XR"
+            ]
+        },
+        {
+            "Name": "Tractable",
+            "url": "https://tractable.ai/",
+            "Description": "\u00c9diteur londonien d'IA de vision par ordinateur estimant les dommages de v\u00e9hicules et de biens \u00e0 partir de photos.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51482,
+                        -0.12384
+                    ],
+                    "Address": "71-75 Shelton Street, London WC2H 9JQ"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://tractable.ai/careers/",
+            "Employees": 200,
+            "Keywords": [
+                "Vision par ordinateur",
+                "Deep learning",
+                "Assurance"
+            ]
+        },
+        {
+            "Name": "SpAItial",
+            "url": "https://spaitial.ai/",
+            "Description": "Start-up de mod\u00e8les fondamentaux g\u00e9n\u00e9ratifs de mondes 3D (Londres et Munich), fond\u00e9e en 2024 par Matthias Nie\u00dfner et d'anciens de Google.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5068,
+                        -0.10641
+                    ],
+                    "Address": "1-2 Paris Garden, London SE1 8ND"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Reconstruction",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://spaitial.ai/careers",
+            "Employees": 30,
+            "Keywords": [
+                "IA g\u00e9n\u00e9rative 3D",
+                "Gaussian splatting",
+                "Mod\u00e8les de monde"
+            ]
+        },
+        {
+            "Name": "Hadean",
+            "url": "https://hadean.com/",
+            "Description": "\u00c9diteur londonien de plateforme de calcul distribu\u00e9 pour les simulations et mondes virtuels massifs.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52132,
+                        -0.08155
+                    ],
+                    "Address": "9 Appold Street, London EC2A 2AP"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://hadean.com/careers/",
+            "Keywords": [
+                "Simulation distribu\u00e9e",
+                "Mondes virtuels",
+                "Cloud"
+            ]
+        },
+        {
+            "Name": "disguise",
+            "url": "https://www.disguise.one/en",
+            "Description": "\u00c9diteur londonien de serveurs m\u00e9dia et de logiciels de production virtuelle et XR pour concerts, cin\u00e9ma et \u00e9v\u00e9nementiel.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.50314,
+                        -0.10497
+                    ],
+                    "Address": "Hermes House, 88-89 Blackfriars Road, London SE1 8HA"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ],
+            "Employees": 350,
+            "Keywords": [
+                "Production virtuelle",
+                "XR",
+                "Temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Aardman",
+            "url": "https://www.aardman.com/",
+            "Description": "Studio d'animation de Bristol fond\u00e9 en 1972, sp\u00e9cialiste de la stop-motion et de la 3D (Wallace & Gromit, Shaun le mouton, Chicken Run).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Bristol",
+                    "Coordinates": [
+                        51.4474,
+                        -2.6076
+                    ],
+                    "Address": "Gas Ferry Road, Bristol BS1 6UN"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 450,
+            "Keywords": [
+                "animation",
+                "stop-motion",
+                "CGI",
+                "long m\u00e9trage"
+            ]
+        },
+        {
+            "Name": "Frontier Developments",
+            "url": "https://www.frontier.co.uk/",
+            "Description": "Studio de jeu vid\u00e9o de Cambridge (Elite Dangerous, Planet Coaster, Jurassic World Evolution) d\u00e9veloppant son propre moteur COBRA.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Cambridge",
+                    "Coordinates": [
+                        52.2336,
+                        0.156
+                    ],
+                    "Address": "26 Science Park, Milton Road, Cambridge CB4 0FP"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 750,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "moteur COBRA",
+                "simulation de gestion"
+            ]
+        },
+        {
+            "Name": "Jagex",
+            "url": "https://www.jagex.com/",
+            "Description": "Studio de Cambridge, cr\u00e9ateur de RuneScape et Old School RuneScape, jeux en ligne massivement multijoueurs.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Cambridge",
+                    "Coordinates": [
+                        52.1179,
+                        0.2185
+                    ],
+                    "Address": "One Granta, Granta Park, Cambridge CB21 6DP"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 450,
+            "Keywords": [
+                "MMORPG",
+                "RuneScape",
+                "jeu en ligne"
+            ]
+        },
+        {
+            "Name": "Ninja Theory",
+            "url": "https://www.ninjatheory.com/",
+            "Description": "Studio de Cambridge de Microsoft (Hellblade, Heavenly Sword), r\u00e9put\u00e9 pour la capture de mouvement et le rendu temps r\u00e9el Unreal Engine.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Cambridge",
+                    "Coordinates": [
+                        52.2053,
+                        0.1218
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Acquisition",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "capture de mouvement",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Rebellion",
+            "url": "https://rebellion.com/",
+            "Description": "Studio ind\u00e9pendant d'Oxford (Sniper Elite, Zombie Army) avec moteur interne Asura, \u00e9galement \u00e9diteur de bande dessin\u00e9e (2000 AD).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Oxford",
+                    "Coordinates": [
+                        51.7479,
+                        -1.2719
+                    ],
+                    "Address": "Riverside House, Osney Mead, Oxford OX2 0ES"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 450,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "moteur Asura",
+                "Sniper Elite"
+            ]
+        },
+        {
+            "Name": "Playground Games",
+            "url": "https://playground-games.com/",
+            "Description": "Studio de Leamington Spa de Microsoft, cr\u00e9ateur de la s\u00e9rie Forza Horizon.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Leamington Spa",
+                    "Coordinates": [
+                        52.293,
+                        -1.536
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 450,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "Forza Horizon",
+                "monde ouvert"
+            ]
+        },
+        {
+            "Name": "Codemasters",
+            "url": "https://www.ea.com/ea-studios/codemasters",
+            "Description": "Studio de jeux de course (F1, DiRT, GRID) bas\u00e9 \u00e0 Southam pr\u00e8s de Leamington, filiale d'Electronic Arts depuis 2021.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Southam",
+                    "Coordinates": [
+                        52.2525,
+                        -1.4195
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 400,
+            "Keywords": [
+                "jeu de course",
+                "F1",
+                "simulation"
+            ]
+        },
+        {
+            "Name": "Criterion Games",
+            "url": "https://www.ea.com/studios/criterion-games",
+            "Description": "Studio de Guildford d'Electronic Arts (Burnout, Need for Speed), \u00e9galement \u00e0 l'origine du moteur RenderWare.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Guildford",
+                    "Coordinates": [
+                        51.2362,
+                        -0.5704
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 200,
+            "Keywords": [
+                "jeu de course",
+                "Need for Speed",
+                "Burnout"
+            ]
+        },
+        {
+            "Name": "Media Molecule",
+            "url": "https://www.mediamolecule.com/",
+            "Description": "Studio de Guildford de Sony Interactive Entertainment (LittleBigPlanet, Dreams), connu pour des outils de cr\u00e9ation 3D.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Guildford",
+                    "Coordinates": [
+                        51.2362,
+                        -0.5704
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "Dreams",
+                "cr\u00e9ation 3D"
+            ]
+        },
+        {
+            "Name": "Hello Games",
+            "url": "https://hellogames.org/",
+            "Description": "Studio ind\u00e9pendant de Guildford, cr\u00e9ateur de No Man's Sky, jeu \u00e0 univers g\u00e9n\u00e9r\u00e9 proc\u00e9duralement.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Guildford",
+                    "Coordinates": [
+                        51.2369,
+                        -0.5706
+                    ],
+                    "Address": "Dolphin House, 3 North Street, Guildford GU1 4AA"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 30,
+            "Keywords": [
+                "g\u00e9n\u00e9ration proc\u00e9durale",
+                "No Man's Sky",
+                "jeu vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Supermassive Games",
+            "url": "https://www.supermassivegames.com/",
+            "Description": "Studio de Guildford (Until Dawn, The Dark Pictures, Little Hope), sp\u00e9cialis\u00e9 dans les jeux narratifs cin\u00e9matographiques avec capture faciale.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Guildford",
+                    "Coordinates": [
+                        51.2435,
+                        -0.574
+                    ],
+                    "Address": "Ranger House, Walnut Tree Close, Guildford GU1 4UL"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 300,
+            "Keywords": [
+                "jeu narratif",
+                "capture de mouvement",
+                "horreur"
+            ]
+        },
+        {
+            "Name": "Creative Assembly",
+            "url": "https://www.creative-assembly.com/",
+            "Description": "Studio d'Horsham de Sega (Total War, Alien: Isolation), l'un des plus grands studios de jeu au Royaume-Uni avec installation de capture de mouvement.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Horsham",
+                    "Coordinates": [
+                        51.0633,
+                        -0.3262
+                    ],
+                    "Address": "Spire Court, Albion Way, Horsham RH12 1JW"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 850,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "Total War",
+                "capture de mouvement"
+            ]
+        },
+        {
+            "Name": "Team17",
+            "url": "https://www.team17.com/",
+            "Description": "\u00c9diteur-d\u00e9veloppeur de Wakefield (Worms, Overcooked, The Escapists), du groupe Everplay.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Wakefield",
+                    "Coordinates": [
+                        53.7005,
+                        -1.5074
+                    ],
+                    "Address": "3 Red Hall Avenue, Paragon Business Park, Wakefield WF1 2UL"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 250,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "Worms",
+                "jeu ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Sumo Digital",
+            "url": "https://sumo-digital.com/",
+            "Description": "Studio de Sheffield (Sackboy: A Big Adventure, Crackdown 3), co-d\u00e9veloppeur AAA avec plusieurs sites au Royaume-Uni; propri\u00e9t\u00e9 de Tencent.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Sheffield",
+                    "Coordinates": [
+                        53.407,
+                        -1.4205
+                    ],
+                    "Address": "32 Jessops Riverside, Brightside Lane, Sheffield S9 2RX"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 1000,
+            "Keywords": [
+                "co-d\u00e9veloppement",
+                "jeu vid\u00e9o",
+                "art 3D",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Cloud Imperium Games",
+            "url": "https://cloudimperiumgames.com/",
+            "Description": "Studio de Star Citizen et Squadron 42; le site de Manchester est l'un de ses plus grands studios, avec une \u00e9quipe technique et graphique importante.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Manchester",
+                    "Coordinates": [
+                        53.4857,
+                        -2.254
+                    ],
+                    "Address": "Manchester Goods Yard, 6 Goods Yard Street, Manchester M3 3BG"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 500,
+            "Keywords": [
+                "Star Citizen",
+                "moteur CryEngine/StarEngine",
+                "jeu vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Lucid Games",
+            "url": "https://lucidgames.co.uk/",
+            "Description": "Studio de Liverpool (Geometry Wars 3, Destruction AllStars), sp\u00e9cialis\u00e9 dans le d\u00e9veloppement AAA.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Liverpool",
+                    "Coordinates": [
+                        53.3957,
+                        -2.9832
+                    ],
+                    "Address": "4 Watkinson Street, Liverpool L1 0AG"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "Baltic Triangle",
+                "AAA"
+            ]
+        },
+        {
+            "Name": "Firesprite",
+            "url": "https://firesprite.com/",
+            "Description": "Studio de Liverpool de Sony Interactive Entertainment (The Playroom VR, The Persistence, Horizon Call of the Mountain).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Liverpool",
+                    "Coordinates": [
+                        53.4084,
+                        -2.9916
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 200,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "VR",
+                "PlayStation"
+            ]
+        },
+        {
+            "Name": "Lockwood Publishing",
+            "url": "https://www.lockwoodpublishing.com/",
+            "Description": "Studio de Nottingham, cr\u00e9ateur d'Avakin Life, monde social 3D avec avatars personnalisables, sur mobile.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Nottingham",
+                    "Coordinates": [
+                        52.9545,
+                        -1.1587
+                    ],
+                    "Address": "14 Park Row, Nottingham NG1 6GR"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 170,
+            "Keywords": [
+                "m\u00e9tavers",
+                "avatars",
+                "mobile",
+                "jeu social"
+            ]
+        },
+        {
+            "Name": "Dambuster Studios",
+            "url": "https://dsdambuster.com/",
+            "Description": "Studio de Nottingham de Deep Silver (Dead Island 2, Homefront: The Revolution), anciennement Crytek UK.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Nottingham",
+                    "Coordinates": [
+                        52.949,
+                        -1.145
+                    ],
+                    "Address": "122 Canal Street, Nottingham NG1 7HG"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "Dead Island 2",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Climax Studios",
+            "url": "https://www.climaxstudios.com/",
+            "Description": "Studio de Portsmouth fond\u00e9 en 1988 (Silent Hill: Origins, Silent Hill: Shattered Memories), d\u00e9veloppant jeux et VR.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Portsmouth",
+                    "Coordinates": [
+                        50.7893,
+                        -1.109
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "VR",
+                "Portsmouth"
+            ]
+        },
+        {
+            "Name": "Steel City Interactive",
+            "url": "https://steelcityinteractive.co.uk/",
+            "Description": "Studio de Sheffield fond\u00e9 en 2020, d\u00e9veloppeur du jeu de boxe Undisputed en Unreal Engine avec capture de mouvement.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Sheffield",
+                    "Coordinates": [
+                        53.4072,
+                        -1.416
+                    ],
+                    "Address": "Forge House, 21 Carbrook Hall Road, Sheffield S9 2EH"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "boxe",
+                "capture de mouvement"
+            ]
+        },
+        {
+            "Name": "Playtonic Games",
+            "url": "https://playtonicgames.com/",
+            "Description": "Studio de Burton upon Trent fond\u00e9 par d'anciens de Rare (Yooka-Laylee), avec un second site \u00e0 Leamington Spa.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Burton upon Trent",
+                    "Coordinates": [
+                        52.8015,
+                        -1.637
+                    ],
+                    "Address": "6 Lichfield Street, Burton upon Trent DE14 3RD"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 70,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "plateforme 3D",
+                "Yooka-Laylee"
+            ]
+        },
+        {
+            "Name": "Auroch Digital",
+            "url": "https://aurochdigital.com/",
+            "Description": "Studio de Bristol (Space Hulk: Tactics, Chernobyl VR Project), appartenant au groupe Sumo.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Bristol",
+                    "Coordinates": [
+                        51.4538,
+                        -2.5964
+                    ],
+                    "Address": "Eagle House, Colston Avenue, Bristol BS1 4ST"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "serious game",
+                "Bristol"
+            ]
+        },
+        {
+            "Name": "XR Games",
+            "url": "https://xrgames.co.uk/",
+            "Description": "Studio de Leeds sp\u00e9cialis\u00e9 dans les exp\u00e9riences de r\u00e9alit\u00e9 virtuelle et mixte (Contagion VR: Outbreak).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Leeds",
+                    "Coordinates": [
+                        53.7995,
+                        -1.5546
+                    ],
+                    "Address": "Leigh House, 28-32 St. Paul's Street, Leeds LS1 2JT"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 80,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "Leeds",
+                "XR"
+            ]
+        },
+        {
+            "Name": "Coatsink",
+            "url": "https://coatsink.com/",
+            "Description": "Studio de Gateshead (Thunderful Group), sp\u00e9cialis\u00e9 en portage sur consoles et d\u00e9veloppement de jeux VR.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Gateshead",
+                    "Coordinates": [
+                        54.9496,
+                        -1.6007
+                    ],
+                    "Address": "Northern Design Centre, Abbott's Hill, Gateshead NE8 3DF"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 80,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "VR",
+                "portage console"
+            ]
+        },
+        {
+            "Name": "Arm (Cambridge)",
+            "url": "https://www.arm.com/",
+            "Description": "Concepteur de microarchitectures, dont les GPU Mali; la R&D graphique (GPU, ray tracing mobile, outils de profilage) est bas\u00e9e \u00e0 Cambridge.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Cambridge",
+                    "Coordinates": [
+                        52.1951,
+                        0.176
+                    ],
+                    "Address": "110 Fulbourn Road, Cambridge CB1 9NJ"
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 3500,
+            "Keywords": [
+                "GPU Mali",
+                "architecture",
+                "ray tracing mobile"
+            ]
+        },
+        {
+            "Name": "Hawk-Eye Innovations",
+            "url": "https://www.hawkeyeinnovations.com/",
+            "Description": "Filiale de Sony, sp\u00e9cialiste du suivi et de la vision multi-cam\u00e9ras pour le sport (arbitrage vid\u00e9o, tracking 3D de balle et de joueurs).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Basingstoke",
+                    "Coordinates": [
+                        51.2665,
+                        -1.087
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 1400,
+            "Keywords": [
+                "vision par ordinateur",
+                "suivi 3D",
+                "sport"
+            ]
+        },
+        {
+            "Name": "Brainomix",
+            "url": "https://www.brainomix.com/",
+            "Description": "Spin-out d'Oxford en IA pour l'imagerie m\u00e9dicale (AVC, poumon), logiciels e-ASPECTS et e-Stroke.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Oxford",
+                    "Coordinates": [
+                        51.7506,
+                        -1.288
+                    ],
+                    "Address": "First Floor Seacourt Tower, West Way, Oxford OX2 0JJ"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "IA",
+                "AVC",
+                "scanner"
+            ]
+        },
+        {
+            "Name": "Perspectum",
+            "url": "https://perspectum.com/",
+            "Description": "Soci\u00e9t\u00e9 d'Oxford d'imagerie m\u00e9dicale quantitative (IRM du foie, cartographie multiparam\u00e9trique, LiverMultiScan).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Oxford",
+                    "Coordinates": [
+                        51.7237,
+                        -1.209
+                    ],
+                    "Address": "Gemini One, John Smith Drive, Oxford Business Park South, Oxford"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 350,
+            "Keywords": [
+                "IRM",
+                "imagerie quantitative",
+                "foie"
+            ]
+        },
+        {
+            "Name": "Mirada Medical",
+            "url": "https://www.mirada-medical.com/",
+            "Description": "Logiciels d'imagerie m\u00e9dicale d'Oxford (fusion et segmentation multi-modalit\u00e9s, radioth\u00e9rapie, DLCExpert).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Oxford",
+                    "Coordinates": [
+                        51.748,
+                        -1.276
+                    ],
+                    "Address": "New Barclay House, 234 Botley Road, Oxford OX2 0HP"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 60,
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "segmentation",
+                "radioth\u00e9rapie"
+            ]
+        },
+        {
+            "Name": "Optellum",
+            "url": "https://www.optellum.com/",
+            "Description": "Start-up d'Oxford d'IA pour l'imagerie thoracique, aide au diagnostic des nodules pulmonaires sur scanner.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Oxford",
+                    "Coordinates": [
+                        51.749,
+                        -1.274
+                    ],
+                    "Address": "5 Kings Meadow, Osney Mead, Oxford OX2 0DP"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 60,
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "poumon",
+                "IA"
+            ]
+        },
+        {
+            "Name": "Lux Aeterna",
+            "url": "https://luxaeterna.com/",
+            "Description": "Studio de VFX de Bristol ind\u00e9pendant depuis plus de 25 ans (simulation, environnements, foules), avec un d\u00e9partement R&D.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Bristol",
+                    "Coordinates": [
+                        51.451,
+                        -2.585
+                    ],
+                    "Address": "Malt House Studio, East Tucker Street, Finzels Reach, Bristol BS1 6LQ"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Simulation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 40,
+            "Keywords": [
+                "VFX",
+                "simulation",
+                "documentaire",
+                "Bristol"
+            ]
+        },
+        {
+            "Name": "Moonraker VFX",
+            "url": "https://moonrakervfx.com/",
+            "Description": "Studio de VFX de Bristol fond\u00e9 en 2013 (Planet Earth III, Ancient Earth) pour t\u00e9l\u00e9vision, cin\u00e9ma et espaces mus\u00e9ographiques.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Bristol",
+                    "Coordinates": [
+                        51.4551,
+                        -2.5917
+                    ],
+                    "Address": "Vintry Building, Wine Street, Bristol BS1 2BD"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 40,
+            "Keywords": [
+                "VFX",
+                "t\u00e9l\u00e9vision",
+                "documentaire"
+            ]
+        },
+        {
+            "Name": "Outpost VFX",
+            "url": "https://www.outpost-vfx.com/",
+            "Description": "Studio de VFX avec site \u00e0 Bournemouth (80 postes cit\u00e9s \u00e0 l'ouverture), Londres, Montr\u00e9al, Los Angeles et Mumbai, pour cin\u00e9ma et s\u00e9ries.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Bournemouth",
+                    "Coordinates": [
+                        50.729,
+                        -1.864
+                    ],
+                    "Address": "2nd Floor, Ocean 80, 80 Holdenhurst Road, Bournemouth BH8 8AQ"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 660,
+            "Keywords": [
+                "VFX",
+                "cin\u00e9ma",
+                "s\u00e9ries",
+                "Bournemouth"
+            ]
+        },
+        {
+            "Name": "Cartoon Saloon",
+            "url": "https://www.cartoonsaloon.ie/",
+            "Description": "Studio d'animation fond\u00e9 en 1999 \u00e0 Kilkenny, produisant longs m\u00e9trages et s\u00e9ries en 2D, trois fois nomm\u00e9 aux Oscars (Brendan et le Secret de Kells, Le Chant de la mer, Wolfwalkers).",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Kilkenny",
+                    "Coordinates": [
+                        52.65316,
+                        -7.25604
+                    ],
+                    "Address": "The Maltings, Tilbury Place, Kilkenny"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 200,
+            "Keywords": [
+                "animation 2D",
+                "long m\u00e9trage",
+                "Kilkenny",
+                "Wolfwalkers"
+            ]
+        },
+        {
+            "Name": "Brown Bag Films",
+            "url": "https://www.brownbagfilms.com/",
+            "Description": "Studio d'animation dublinois (groupe 9 Story Media) produisant s\u00e9ries 2D/3D pour enfants (Doc McStuffins, Octonauts, Hey Duggee) depuis ses studios de Smithfield.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.34909,
+                        -6.27939
+                    ],
+                    "Address": "Smithfield Market, Dublin 7"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 300,
+            "Keywords": [
+                "animation 2D/3D",
+                "s\u00e9ries TV",
+                "Smithfield",
+                "9 Story"
+            ]
+        },
+        {
+            "Name": "Boulder Media",
+            "url": "https://bouldermedia.tv/",
+            "Description": "Studio d'animation dublinois (Hasbro 2016, puis Princess Productions) produisant s\u00e9ries et films 2D et 3D pour enfants et adultes (Rick et Morty, Les Simpson en sous-traitance).",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.34706,
+                        -6.25719
+                    ],
+                    "Address": "14 Hawkins St, Dublin 2, D02 WT29"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 200,
+            "Keywords": [
+                "animation 2D/3D",
+                "s\u00e9ries TV",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "Lighthouse Studios",
+            "url": "https://lighthousestudios.ie/",
+            "Description": "Studio de production d'animation 2D et hybride \u00e0 Kilkenny, n\u00e9 d'un partenariat entre Cartoon Saloon et Mercury Filmworks, pour plateformes et diffuseurs internationaux.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Kilkenny",
+                    "Coordinates": [
+                        52.65063,
+                        -7.25144
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "animation 2D",
+                "hybride",
+                "Kilkenny"
+            ]
+        },
+        {
+            "Name": "Kavaleer Productions",
+            "url": "https://kavaleer.com/",
+            "Description": "Studio d'animation de Dublin (Thomas Street) cr\u00e9ant et produisant des s\u00e9ries d'animation diffus\u00e9es dans plus de 140 pays.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.3428,
+                        -6.27765
+                    ],
+                    "Address": "Thomas Street, Dublin 8"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 50,
+            "Keywords": [
+                "animation",
+                "s\u00e9ries TV",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "Piranha Bar",
+            "url": "https://piranhabar.ie/",
+            "Description": "Studio cr\u00e9atif de Dublin sp\u00e9cialis\u00e9 en VFX, animation, motion design et production virtuelle, pour cin\u00e9ma, s\u00e9ries et publicit\u00e9.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.33897,
+                        -6.25268
+                    ],
+                    "Address": "Dublin 2, D02 HH64"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 40,
+            "Keywords": [
+                "VFX",
+                "motion design",
+                "animation",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "Screen Scene",
+            "url": "https://screenscene.ie/",
+            "Description": "Soci\u00e9t\u00e9 de post-production de Dublin (image, VFX, \u00e9talonnage, son) pour cin\u00e9ma et s\u00e9ries.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.33729,
+                        -6.24424
+                    ],
+                    "Address": "31 Upper Mount Street, Dublin 2"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "VFX",
+                "post-production",
+                "\u00e9talonnage",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "Havok",
+            "url": "https://www.havok.com/",
+            "Description": "\u00c9diteur du moteur physique Havok (physique, navigation IA, cloth) utilis\u00e9 dans de nombreux jeux AAA, bas\u00e9 \u00e0 Dublin et filiale de Microsoft.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.34938,
+                        -6.26056
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "moteur physique",
+                "middleware",
+                "simulation",
+                "jeu vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Larian Studios Dublin",
+            "url": "https://larian.com/",
+            "Description": "Studio de Larian (Baldur's Gate 3, Divinity) install\u00e9 \u00e0 Dublin, l'un des sites de d\u00e9veloppement du groupe aux c\u00f4t\u00e9s de Gand, Qu\u00e9bec, Guildford, Barcelone.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.33692,
+                        -6.26904
+                    ],
+                    "Address": "17A New Bride Street, Dublin 8"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "RPG",
+                "moteur 3D",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "Scopely Dublin",
+            "url": "https://www.scopely.com/",
+            "Description": "Studio dublinois de Scopely issu du rachat de DIGIT (2019), \u00e9diteur de Star Trek Fleet Command, jeu mobile en 3D.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.34938,
+                        -6.26056
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "jeu mobile",
+                "Star Trek Fleet Command",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "StoryToys",
+            "url": "https://storytoys.com/",
+            "Description": "\u00c9diteur dublinois de jeux et applications mobiles pour enfants (Sesame Street, Disney), rachet\u00e9 par Team17 en 2021.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.34938,
+                        -6.26056
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 60,
+            "Keywords": [
+                "jeu mobile",
+                "enfants",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "Keywords Studios",
+            "url": "https://www.keywordsstudios.com/",
+            "Description": "Groupe d'externalisation pour le jeu vid\u00e9o \u00e0 si\u00e8ge irlandais (art 3D, animation, ing\u00e9nierie, audio, tests), avec de nombreux studios dans le monde.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.27472,
+                        -6.19276
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Pipeline/Outils de production",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 12000,
+            "Keywords": [
+                "externalisation",
+                "art 3D",
+                "jeu vid\u00e9o",
+                "Dublin"
+            ]
+        },
+        {
+            "Name": "Volograms",
+            "url": "https://www.volograms.com/",
+            "Description": "Start-up dublinoise, spin-off de Trinity College (V-SENSE), sp\u00e9cialis\u00e9e dans la capture volum\u00e9trique et les hologrammes pour AR/VR \u00e0 partir de vid\u00e9os.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Dublin",
+                    "Coordinates": [
+                        53.34938,
+                        -6.26056
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Acquisition",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 20,
+            "Keywords": [
+                "vid\u00e9o volum\u00e9trique",
+                "hologramme",
+                "AR/VR",
+                "Trinity"
+            ]
+        },
+        {
+            "Name": "Xperi (FotoNation)",
+            "url": "https://xperi.com/",
+            "Description": "Site de Galway de Xperi (ex-FotoNation) : imagerie, vision par ordinateur et apprentissage automatique pour cam\u00e9ras, automobile et mobiles.",
+            "Place": [
+                {
+                    "Country": "Irlande",
+                    "City": "Galway",
+                    "Coordinates": [
+                        53.29861,
+                        -9.00351
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 200,
+            "Keywords": [
+                "vision",
+                "imagerie",
+                "automobile",
+                "Galway"
             ]
         }
     ]

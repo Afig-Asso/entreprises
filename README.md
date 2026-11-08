@@ -196,6 +196,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
 
 
+* **[Aardman](https://www.aardman.com/)**  
+  * _Studio d'animation de Bristol fondé en 1972, spécialiste de la stop-motion et de la 3D (Wallace & Gromit, Shaun le mouton, Chicken Run)._
+  * **Mots clés**: _animation, stop-motion, CGI, long métrage_
+  * **Localisation**: Royaume-Uni/Bristol
+  * **Nombres d'employés**: 450
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Abbelight](https://www.abbelight.com/)**  
   * _Fabricant à Cachan de solutions de microscopie de super-résolution (nanoscopie de molécule unique) et des logiciels de reconstruction et d'analyse associés._
   * **Mots clés**: _imagerie scientifique, microscopie, super-résolution, reconstruction 3D_
@@ -512,6 +521,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.arkhenum.fr/nous-rejoindre/)
 
 
+* **[Arm (Cambridge)](https://www.arm.com/)**  
+  * _Concepteur de microarchitectures, dont les GPU Mali; la R&D graphique (GPU, ray tracing mobile, outils de profilage) est basée à Cambridge._
+  * **Mots clés**: _GPU Mali, architecture, ray tracing mobile_
+  * **Localisation**: Royaume-Uni/Cambridge
+  * **Nombres d'employés**: 3500
+  * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Générique
+
+
 * **[Armada Studios](https://armada-studios.com/)**  
   * _Studio de numérisation 3D (LiDAR, photogrammétrie, drone) produisant des jumeaux numériques pour le cinéma, les VFX et la culture._
   * **Mots clés**: _lidar, photogrammétrie, drone, scanner 3D, jumeau numérique, effets visuels, patrimoine/musée_
@@ -627,6 +645,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Acquisition, Vision, IHM/Haptique
   * **Domaine d'application**: Art/Evenementiel, Loisir Interactif/Immersion/Metavers, Patrimoine/Culture
+
+
+* **[Augmentalix](https://www.augmentalix.com/)**  
+  * _Intégrateur de réalité virtuelle, augmentée et mixte installé à Anglet : sélection de matériels et logiciels XR, jumeau numérique et BIM en VR (GISinVR), formation immersive et maintenance assistée, pour l'Éducation nationale, KNDS ou Airbus._
+  * **Mots clés**: _Réalité virtuelle, Réalité augmentée, Formation immersive, Jumeau numérique, Intégrateur XR_
+  * **Localisation**: Anglet
+  * **Nombres d'employés**: 10
+  * **Domaine scientifique/technique**: VR/AR, Reconstruction
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+
+
+* **[Auroch Digital](https://aurochdigital.com/)**  
+  * _Studio de Bristol (Space Hulk: Tactics, Chernobyl VR Project), appartenant au groupe Sumo._
+  * **Mots clés**: _jeu vidéo, serious game, Bristol_
+  * **Localisation**: Royaume-Uni/Bristol
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Entrainement/Formation/Serious Game
 
 
 * **[Aurora Game Studio](https://auroragamestudio.com/)**  
@@ -850,6 +886,23 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Blue Zoo](https://www.bluezoo.co.uk/)**  
+  * _Studio d'animation 3D et de production de séries pour enfants (Numberblocks, Alphablocks) basé à Londres._
+  * **Mots clés**: _Animation 3D, Séries TV_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 250
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[BlueBolt](https://www.blue-bolt.com/)**  
+  * _Studio indépendant d'effets visuels basé à Londres pour séries et films (The Last Kingdom, Downton Abbey : Le Grand Final)._
+  * **Mots clés**: _VFX, Séries TV, Cinéma_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Bobbypills](https://www.bobbypills.com/)**  
   * _Studio d'animation français spécialisé dans l'animation pour adultes (Peepoodo, Vermin, Captain Laserhawk) et les adaptations de jeux vidéo (Dead Cells)._
   * **Mots clés**: _séries d'animation, animation pour adultes, animation 2D, adaptation de jeux vidéo, Captain Laserhawk_
@@ -884,6 +937,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Imagerie
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://borea-dental.com/borea/rejoignez-nous/)
+
+
+* **[Boulder Media](https://bouldermedia.tv/)**  
+  * _Studio d'animation dublinois (Hasbro 2016, puis Princess Productions) produisant séries et films 2D et 3D pour enfants et adultes (Rick et Morty, Les Simpson en sous-traitance)._
+  * **Mots clés**: _animation 2D/3D, séries TV, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Brainomix](https://www.brainomix.com/)**  
+  * _Spin-out d'Oxford en IA pour l'imagerie médicale (AVC, poumon), logiciels e-ASPECTS et e-Stroke._
+  * **Mots clés**: _imagerie médicale, IA, AVC, scanner_
+  * **Localisation**: Royaume-Uni/Oxford
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[BrandXR](https://www.brandxr.io/)**  
@@ -930,6 +1001,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Web/Cloud/Big Data
   * **Domaine d'application**: Générique
   * [_Jobs_](https://broadpeak.tv/join-our-team/)
+
+
+* **[Brown Bag Films](https://www.brownbagfilms.com/)**  
+  * _Studio d'animation dublinois (groupe 9 Story Media) produisant séries 2D/3D pour enfants (Doc McStuffins, Octonauts, Hey Duggee) depuis ses studios de Smithfield._
+  * **Mots clés**: _animation 2D/3D, séries TV, Smithfield, 9 Story_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Brunch Studio](https://www.brunchstudio.tv/)**  
@@ -1017,6 +1097,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Cartoon Saloon](https://www.cartoonsaloon.ie/)**  
+  * _Studio d'animation fondé en 1999 à Kilkenny, produisant longs métrages et séries en 2D, trois fois nommé aux Oscars (Brendan et le Secret de Kells, Le Chant de la mer, Wolfwalkers)._
+  * **Mots clés**: _animation 2D, long métrage, Kilkenny, Wolfwalkers_
+  * **Localisation**: Irlande/Kilkenny
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Casis](https://casis.fr/)**  
   * _Éditeur de logiciels d'imagerie cardiaque issu de la recherche au CHU de Dijon (CArdiac Simulation & Imaging Software) : suite QIR d'analyse d'IRM cardiaque (fonction, strain, perfusion, flux 4D) avec segmentation par apprentissage profond._
   * **Mots clés**: _IRM cardiaque, imagerie médicale, flux 4D, segmentation IA_
@@ -1033,6 +1122,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/California/Carlsbad
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
+
+
+* **[Cervval](https://cervval.com/)**  
+  * _Société d'ingénierie informatique fondée en 2003, issue du Centre européen de réalité virtuelle de l'ENIB, spécialisée en simulation 3D, jumeaux numériques (Digitwin, Zurvan Project BIM) et solutions de planification pour l'industrie, le maritime, les transports et la défense._
+  * **Mots clés**: _Jumeau numérique, Simulation 3D, Réalité virtuelle, BIM, Planification_
+  * **Localisation**: Plouzané
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Simulation, Reconstruction, VR/AR, Visualisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme, Automobile/Navigation/Aviation, Sécurité/Défense
+  * [_Jobs_](https://cervval.com/recrutement.html)
 
 
 * **[Cevilog](https://www.cevilog.com/)**  
@@ -1083,6 +1182,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.christiedigital.com/en-gb/about/careers/)
 
 
+* **[Cinesite](https://www.cinesite.com/)**  
+  * _Studio d'effets visuels et d'animation de longs métrages basé à Londres (Soho) avec des studios à Montréal et ailleurs ; travaille pour les grands studios hollywoodiens et produit ses propres films d'animation._
+  * **Mots clés**: _VFX, Animation 3D, Long métrage_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://cinesite.com/careers/)
+
+
 * **[Cintoo](https://cintoo.com/)**  
   * _Plateforme cloud de gestion et de diffusion de nuages de points de scans laser, convertis en maillages légers et comparés aux maquettes BIM (jumeau numérique)._
   * **Mots clés**: _nuage de points, scan laser, BIM, jumeau numérique, maillage, cloud/streaming, scan-to-BIM_
@@ -1099,6 +1207,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Montpellier
   * **Domaine scientifique/technique**: Imagerie, Design/Fabrication, Simulation
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Climax Studios](https://www.climaxstudios.com/)**  
+  * _Studio de Portsmouth fondé en 1988 (Silent Hill: Origins, Silent Hill: Shattered Memories), développant jeux et VR._
+  * **Mots clés**: _jeu vidéo, VR, Portsmouth_
+  * **Localisation**: Royaume-Uni/Portsmouth
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Clipdrop](https://clipdrop.co/)**  
@@ -1119,6 +1236,33 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Design/Fabrication
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires
   * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
+
+
+* **[Cloud Imperium Games](https://cloudimperiumgames.com/)**  
+  * _Studio de Star Citizen et Squadron 42; le site de Manchester est l'un de ses plus grands studios, avec une équipe technique et graphique importante._
+  * **Mots clés**: _Star Citizen, moteur CryEngine/StarEngine, jeu vidéo_
+  * **Localisation**: Royaume-Uni/Manchester
+  * **Nombres d'employés**: 500
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Coatsink](https://coatsink.com/)**  
+  * _Studio de Gateshead (Thunderful Group), spécialisé en portage sur consoles et développement de jeux VR._
+  * **Mots clés**: _jeu vidéo, VR, portage console_
+  * **Localisation**: Royaume-Uni/Gateshead
+  * **Nombres d'employés**: 80
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Codemasters](https://www.ea.com/ea-studios/codemasters)**  
+  * _Studio de jeux de course (F1, DiRT, GRID) basé à Southam près de Leamington, filiale d'Electronic Arts depuis 2021._
+  * **Mots clés**: _jeu de course, F1, simulation_
+  * **Localisation**: Royaume-Uni/Southam
+  * **Nombres d'employés**: 400
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Cogniscan](https://www.cogniscan.fr/)**  
@@ -1168,6 +1312,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
+* **[Creative Assembly](https://www.creative-assembly.com/)**  
+  * _Studio d'Horsham de Sega (Total War, Alien: Isolation), l'un des plus grands studios de jeu au Royaume-Uni avec installation de capture de mouvement._
+  * **Mots clés**: _jeu vidéo, Total War, capture de mouvement_
+  * **Localisation**: Royaume-Uni/Horsham
+  * **Nombres d'employés**: 850
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Creative Touch Studios](https://www.specialtouchstudios.com/)**  
   * _Studio d'animation implanté à Valenciennes, adossé à la société de production Special Touch Studios de Sébastien Onomo, impliqué dans la fabrication de longs métrages d'animation comme Allah n'est pas obligé (Zaven Najjar)._
   * **Mots clés**: _animation, long métrage, Valenciennes_
@@ -1183,6 +1336,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Cannes
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers, Entrainement/Formation/Serious Game
+
+
+* **[Criterion Games](https://www.ea.com/studios/criterion-games)**  
+  * _Studio de Guildford d'Electronic Arts (Burnout, Need for Speed), également à l'origine du moteur RenderWare._
+  * **Mots clés**: _jeu de course, Need for Speed, Burnout_
+  * **Localisation**: Royaume-Uni/Guildford
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[CTEC Vision](https://ctecvision.com/)**  
@@ -1272,6 +1434,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://damaemedical.teamtailor.com/)
+
+
+* **[Dambuster Studios](https://dsdambuster.com/)**  
+  * _Studio de Nottingham de Deep Silver (Dead Island 2, Homefront: The Revolution), anciennement Crytek UK._
+  * **Mots clés**: _jeu vidéo, Dead Island 2, Unreal Engine_
+  * **Localisation**: Royaume-Uni/Nottingham
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Damnatio Games](https://damnatiogames.com/)**  
@@ -1400,6 +1571,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Dimension Studio](https://dimensionstudio.co/)**  
+  * _Studio de capture volumétrique, de production virtuelle et de contenus XR basé à Londres (Wimbledon)._
+  * **Mots clés**: _Capture volumétrique, Production virtuelle, XR_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Acquisition, VR/AR, Reconstruction
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://dimensionstudio.co/join-us/)
+
+
+* **[disguise](https://www.disguise.one/en)**  
+  * _Éditeur londonien de serveurs média et de logiciels de production virtuelle et XR pour concerts, cinéma et événementiel._
+  * **Mots clés**: _Production virtuelle, XR, Temps réel_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 350
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+
+
 * **[Disney](https://www.disneystudios.com/)**  
   * _Branche cinéma de The Walt Disney Company regroupant Walt Disney Animation Studios, Pixar, Lucasfilm (avec ILM), Marvel Studios et 20th Century Studios._
   * **Mots clés**: _long métrage, animation 3D, effets visuels, Pixar, Lucasfilm, Marvel Studios_
@@ -1417,6 +1606,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[DNEG](https://www.dneg.com/)**  
+  * _Studio d'effets visuels et d'animation basé à Londres (Double Negative), multi-oscarisé (Inception, Interstellar, Dune), avec de nombreux studios dans le monde ; développe ses propres outils de rendu et de production._
+  * **Mots clés**: _VFX, Animation, Pipeline, Rendu_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 1500
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.dneg.com/join-us)
 
 
 * **[DON'T NOD](https://dont-nod.com/en/)**  
@@ -1645,6 +1844,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Visualisation, Web/Cloud/Big Data
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
   * [_Jobs_](https://www.elcia.com/nos-offres-demploi/)
+
+
+* **[Electric Theatre Collective](https://electrictheatre.com/)**  
+  * _Studio de VFX et de CGI pour la publicité, le cinéma et les contenus de marque, basé à Londres avec des antennes à New York et Los Angeles._
+  * **Mots clés**: _VFX, CGI, Publicité_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
 * **[Ellipse Animation](https://www.ellipseanimation.com/)** (Ellipse Studio Angoulême (Dargaud Media / Média-Participations)) 
@@ -1884,6 +2091,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Entrainement/Formation/Serious Game
 
 
+* **[Firesprite](https://firesprite.com/)**  
+  * _Studio de Liverpool de Sony Interactive Entertainment (The Playroom VR, The Persistence, Horizon Call of the Mountain)._
+  * **Mots clés**: _jeu vidéo, VR, PlayStation_
+  * **Localisation**: Royaume-Uni/Liverpool
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[First Light Imaging](https://andor.oxinst.com/products/first-light-imaging-cameras)**  
   * _Concepteur et fabricant de caméras scientifiques ultra-rapides et bas bruit (infrarouge SWIR, EMCCD) pour l'astronomie, l'optique adaptative et les sciences de la vie, basé à Meyreuil et filiale du groupe Oxford Instruments (Andor)._
   * **Mots clés**: _caméra, infrarouge, astronomie, imagerie scientifique_
@@ -1942,6 +2158,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://fost.studio/jobs/)
 
 
+* **[Framestore](https://www.framestore.com/)**  
+  * _Studio d'effets visuels, d'animation et de contenus immersifs/temps réel fondé en 1986 à Londres, oscarisé (À la croisée des mondes, Gravity) ; studios à Londres, Montréal, New York, Los Angeles, Mumbai._
+  * **Mots clés**: _VFX, Animation, Production virtuelle, Pipeline_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.framestore.com/careers)
+
+
 * **[French Touch Factory](https://www.frenchtouchfactory.com/)**  
   * _Studio parisien de création XR (VR, AR, 3D, photogrammétrie) qui développe ITHACA, solution de capture vidéo volumétrique et 4D Gaussian splatting._
   * **Mots clés**: _vidéo volumétrique, Gaussian splatting, photogrammétrie, réalité virtuelle, réalité augmentée_
@@ -1958,6 +2184,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Frontier Developments](https://www.frontier.co.uk/)**  
+  * _Studio de jeu vidéo de Cambridge (Elite Dangerous, Planet Coaster, Jurassic World Evolution) développant son propre moteur COBRA._
+  * **Mots clés**: _jeu vidéo, moteur COBRA, simulation de gestion_
+  * **Localisation**: Royaume-Uni/Cambridge
+  * **Nombres d'employés**: 750
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Fygostudio](https://fygostudio.com/)**  
@@ -2116,6 +2351,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://careers.graitec.com/jobs)
 
 
+* **[Gravity Sketch](https://gravitysketch.com/)**  
+  * _Éditeur londonien d'une application de modélisation 3D et de design en réalité virtuelle/mixte utilisée pour le design de produits._
+  * **Mots clés**: _Modélisation 3D, VR, Design produit_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Modélisation, Design/Fabrication, VR/AR
+  * **Domaine d'application**: Industrie/Manufacturing/CAO
+  * [_Jobs_](https://gravitysketch.com/careers/)
+
+
 * **[GridRaster](https://gridraster.com/)**  
   * _Plateforme d'intelligence spatiale (SPIDER) combinant IA, segmentation et recalage 3D pour la réalité mixte industrielle : inspection, maintenance, robotique, formation (aéronautique, défense)._
   * **Mots clés**: _réalité mixte, vision par ordinateur, recalage 3D, jumeau numérique, aéronautique, défense, industrie/usinage_
@@ -2123,6 +2367,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, VR/AR
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
   * [_Jobs_](https://gridraster.com/careers-jobs/)
+
+
+* **[Hadean](https://hadean.com/)**  
+  * _Éditeur londonien de plateforme de calcul distribué pour les simulations et mondes virtuels massifs._
+  * **Mots clés**: _Simulation distribuée, Mondes virtuels, Cloud_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Simulation, Web/Cloud/Big Data
+  * **Domaine d'application**: Sécurité/Défense, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://hadean.com/careers/)
 
 
 * **[Hapticmedia](https://hapticmedia.com/)**  
@@ -2170,6 +2423,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://careers.harmonicinc.com/)
 
 
+* **[Havok](https://www.havok.com/)**  
+  * _Éditeur du moteur physique Havok (physique, navigation IA, cloth) utilisé dans de nombreux jeux AAA, basé à Dublin et filiale de Microsoft._
+  * **Mots clés**: _moteur physique, middleware, simulation, jeu vidéo_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, Géométrie
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+
+
+* **[Hawk-Eye Innovations](https://www.hawkeyeinnovations.com/)**  
+  * _Filiale de Sony, spécialiste du suivi et de la vision multi-caméras pour le sport (arbitrage vidéo, tracking 3D de balle et de joueurs)._
+  * **Mots clés**: _vision par ordinateur, suivi 3D, sport_
+  * **Localisation**: Royaume-Uni/Basingstoke
+  * **Nombres d'employés**: 1400
+  * **Domaine scientifique/technique**: Vision, Acquisition, Reconstruction
+  * **Domaine d'application**: Générique
+
+
 * **[Headbang Club](https://headbang.club/)**  
   * _Collectif de développeurs indépendants, créateur du jeu d'action musical metal Double Kick Heroes, qui fait aussi de la prestation (contribution à Warhammer 40,000 Mechanicus)._
   * **Mots clés**: _jeu vidéo, pixel art, prestation, Unity_
@@ -2196,6 +2467,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://hectiq.games/careers)
+
+
+* **[Hello Games](https://hellogames.org/)**  
+  * _Studio indépendant de Guildford, créateur de No Man's Sky, jeu à univers généré procéduralement._
+  * **Mots clés**: _génération procédurale, No Man's Sky, jeu vidéo_
+  * **Localisation**: Royaume-Uni/Guildford
+  * **Nombres d'employés**: 30
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Hera-MI](https://www.hera-mi.com/)**  
@@ -2297,6 +2577,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://career.huawei.com/en)
 
 
+* **[Hutch](https://www.hutch.io/)**  
+  * _Studio de jeux mobiles en 3D (F1 Mobile Racing, Top Drives) basé à Londres._
+  * **Mots clés**: _Jeu mobile, Course, 3D temps réel_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.hutch.io/careers/)
+
+
 * **[HypnoVR](https://hypnovr.io/fr/)** (Hypno VR) 
   * _Start-up strasbourgeoise de thérapie numérique associant hypnose médicale et environnements 3D en réalité virtuelle contre la douleur et l'anxiété._
   * **Mots clés**: _réalité virtuelle, dispositif médical, rendu temps réel_
@@ -2304,6 +2593,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Hytech-imaging](https://hytech-imaging.fr/)**  
+  * _Entreprise créée en 2016 (Télécom Bretagne) spécialisée en imagerie spectrale et hyperspectrale aérienne, drone et satellite pour le suivi de l'environnement littoral et marin (solutions Stormm, Flyspec, Littosat), avec des clients comme le Shom et le CNES._
+  * **Mots clés**: _Imagerie hyperspectrale, Télédétection, Drones, Imagerie satellitaire_
+  * **Localisation**: Plouzané
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision, Analyse de données
+  * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie, Sécurité/Défense
 
 
 * **[I Am A Dog Studio](https://www.cibogame.com/)**  
@@ -2678,6 +2976,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://ishtar.games/join-us/)
 
 
+* **[Jagex](https://www.jagex.com/)**  
+  * _Studio de Cambridge, créateur de RuneScape et Old School RuneScape, jeux en ligne massivement multijoueurs._
+  * **Mots clés**: _MMORPG, RuneScape, jeu en ligne_
+  * **Localisation**: Royaume-Uni/Cambridge
+  * **Nombres d'employés**: 450
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[JPL Films](https://jplfilms.com/)**  
   * _Société de production rennaise de films d'animation (marionnettes, papier découpé, 2D, coproductions 3D), courts métrages et séries._
   * **Mots clés**: _stop motion, animation 2D, court métrage, séries d'animation_
@@ -2712,6 +3019,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Kavaleer Productions](https://kavaleer.com/)**  
+  * _Studio d'animation de Dublin (Thomas Street) créant et produisant des séries d'animation diffusées dans plus de 140 pays._
+  * **Mots clés**: _animation, séries TV, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Kayrros](https://www.kayrros.com/)**  
@@ -2762,6 +3078,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.keyshot.com/careers/)
+
+
+* **[Keywords Studios](https://www.keywordsstudios.com/)**  
+  * _Groupe d'externalisation pour le jeu vidéo à siège irlandais (art 3D, animation, ingénierie, audio, tests), avec de nombreux studios dans le monde._
+  * **Mots clés**: _externalisation, art 3D, jeu vidéo, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 12000
+  * **Domaine scientifique/technique**: Pipeline/Outils de production, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Kinetix](https://kinetix.tech/)**  
@@ -2860,6 +3185,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Larian Studios Dublin](https://larian.com/)**  
+  * _Studio de Larian (Baldur's Gate 3, Divinity) installé à Dublin, l'un des sites de développement du groupe aux côtés de Gand, Québec, Guildford, Barcelone._
+  * **Mots clés**: _jeu vidéo, RPG, moteur 3D, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Le Cartel Studio](https://lecartelstudio.fr/)**  
   * _Studio indépendant parisien de jeux d'action et coopératifs publiés par Devolver Digital (Mother Russia Bleeds, Heave Ho, Heave Ho 2)._
   * **Mots clés**: _jeu indépendant, console/PC, beat'em all, jeu coopératif_
@@ -2945,6 +3279,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://lightbulbcrew.fr/jobs/)
 
 
+* **[Lighthouse Studios](https://lighthousestudios.ie/)**  
+  * _Studio de production d'animation 2D et hybride à Kilkenny, né d'un partenariat entre Cartoon Saloon et Mercury Filmworks, pour plateformes et diffuseurs internationaux._
+  * **Mots clés**: _animation 2D, hybride, Kilkenny_
+  * **Localisation**: Irlande/Kilkenny
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Little Workshop](https://www.littleworkshop.fr/)**  
   * _Studio parisien fondé en 2010 spécialisé dans les expériences 3D temps réel : sites et jeux WebGL, applications Unity/Unreal pour mobile, desktop et XR, et production d'assets temps réel._
   * **Mots clés**: _web 3D, WebGL, rendu temps réel, Unity_
@@ -2960,6 +3303,23 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Animation, Modélisation, Pipeline/Outils de production
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Locksmith Animation](https://locksmithanimation.com/)**  
+  * _Studio d'animation 3D de longs métrages fondé à Londres en 2014 (Ron débloque / Ron's Gone Wrong)._
+  * **Mots clés**: _Animation 3D, Long métrage_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Lockwood Publishing](https://www.lockwoodpublishing.com/)**  
+  * _Studio de Nottingham, créateur d'Avakin Life, monde social 3D avec avatars personnalisables, sur mobile._
+  * **Mots clés**: _métavers, avatars, mobile, jeu social_
+  * **Localisation**: Royaume-Uni/Nottingham
+  * **Nombres d'employés**: 170
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
 * **[Logopress](https://www.logopress.com/)**  
@@ -3010,6 +3370,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Lucid Games](https://lucidgames.co.uk/)**  
+  * _Studio de Liverpool (Geometry Wars 3, Destruction AllStars), spécialisé dans le développement AAA._
+  * **Mots clés**: _jeu vidéo, Baltic Triangle, AAA_
+  * **Localisation**: Royaume-Uni/Liverpool
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Lucid Realities](https://lucidrealities.studio/)**  
   * _Société parisienne de production et de distribution d'œuvres immersives et interactives (VR, AR, expositions immersives) portées par des auteurs, comme The Enemy._
   * **Mots clés**: _réalité virtuelle, réalité augmentée, narration immersive, exposition immersive, documentaire_
@@ -3036,6 +3405,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Visualisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation, Commerce/Marketing/Publicité
   * [_Jobs_](https://lumiscaphe.com/carrieres/)
+
+
+* **[Lux Aeterna](https://luxaeterna.com/)**  
+  * _Studio de VFX de Bristol indépendant depuis plus de 25 ans (simulation, environnements, foules), avec un département R&D._
+  * **Mots clés**: _VFX, simulation, documentaire, Bristol_
+  * **Localisation**: Royaume-Uni/Bristol
+  * **Nombres d'employés**: 40
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Luxcarta](https://www.luxcarta.com/)** (Luxcarta Technology) 
@@ -3083,6 +3461,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Hardware
   * **Domaine d'application**: Robotique/Systèmes autonomes, Architecture/BTP/Urbanisme, Énergie/Environnement
+
+
+* **[Lynxter](https://lynxter.com/fr)**  
+  * _Fabricant français d'imprimantes 3D industrielles modulaires, pionnier de l'impression 3D silicone et multimatériaux (liquide, pâte, filament), avec son propre logiciel de pilotage et de découpage (slicer), fondé en 2016 à Bayonne._
+  * **Mots clés**: _Impression 3D, Fabrication additive, Silicone, Slicer, Imprimante modulaire_
+  * **Localisation**: Bayonne
+  * **Nombres d'employés**: 33
+  * **Domaine scientifique/technique**: Design/Fabrication, Hardware
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+  * [_Jobs_](https://lynxter.com/fr/entreprise/recrutement)
 
 
 * **[M-Covision](https://fr.mcovision.com/)**  
@@ -3282,6 +3670,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.maxon.net/fr/about-maxon/careers)
 
 
+* **[Media Molecule](https://www.mediamolecule.com/)**  
+  * _Studio de Guildford de Sony Interactive Entertainment (LittleBigPlanet, Dreams), connu pour des outils de création 3D._
+  * **Mots clés**: _jeu vidéo, Dreams, création 3D_
+  * **Localisation**: Royaume-Uni/Guildford
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Design/Fabrication
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Median Technologies](https://mediantechnologies.com/)**  
   * _Entreprise de Valbonne (Sophia Antipolis) spécialisée dans l'analyse d'images médicales par IA (plateforme eyonis de détection précoce du cancer) et les services d'imagerie pour les essais cliniques en oncologie._
   * **Mots clés**: _imagerie médicale, deep learning, oncologie, scanner CT_
@@ -3299,6 +3696,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Imagerie, Design/Fabrication
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Meerkatt Studio](https://meerkatt-studio.com/)**  
+  * _Studio de jeu vidéo indépendant qui développe des jeux de simulation et de gestion à la première personne, centrés sur les interactions physiques (bakery cafe, etc.), publiés sur Steam._
+  * **Mots clés**: _jeu indépendant, simulation à la première personne, Steam, interactions physiques, cozy game_
+  * **Localisation**: Grand-Champ
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Mercenaries Engineering](http://guerillarender.com/)**  
@@ -3467,6 +3872,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://mimbus.com/carriere/)
 
 
+* **[Mirada Medical](https://www.mirada-medical.com/)**  
+  * _Logiciels d'imagerie médicale d'Oxford (fusion et segmentation multi-modalités, radiothérapie, DLCExpert)._
+  * **Mots clés**: _imagerie médicale, segmentation, radiothérapie_
+  * **Localisation**: Royaume-Uni/Oxford
+  * **Nombres d'employés**: 60
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Miyu Productions](https://www.miyu.fr/)**  
   * _Société de production spécialisée en animation (courts, séries, longs) disposant d'un studio de fabrication à Angoulême, aux côtés de Paris et Valence._
   * **Mots clés**: _animation 2D, court métrage, séries, production_
@@ -3551,6 +3965,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://moonsurgical.notion.site/Moon-Surgical-Jobs-Board-7a646bb4294a417d96d93875bddb4998)
 
 
+* **[Moonraker VFX](https://moonrakervfx.com/)**  
+  * _Studio de VFX de Bristol fondé en 2013 (Planet Earth III, Ancient Earth) pour télévision, cinéma et espaces muséographiques._
+  * **Mots clés**: _VFX, télévision, documentaire_
+  * **Localisation**: Royaume-Uni/Bristol
+  * **Nombres d'employés**: 40
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Motion Twin](https://motiontwin.com/)**  
   * _Studio bordelais indépendant organisé en coopérative sans hiérarchie, passé des jeux web aux jeux console/PC roguelite (Dead Cells, Windblown)._
   * **Mots clés**: _jeu indépendant, console/PC, roguelite, jeu 2D, jeux web_
@@ -3558,6 +3981,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Motion-Up](https://www.motion-up.com/)**  
+  * _Entreprise R&D de capture de mouvement haute précision (système optique sur 110 m², corps, mains et visage en temps réel) et de développement 3D, qui produit aussi des catalogues gestuels interactifs XR/VR pour la santé, le sport et l'audiovisuel._
+  * **Mots clés**: _motion capture, catalogue gestuel 3D, jumeau numérique, langue des signes, serious game_
+  * **Localisation**: Vannes
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
+  * **Domaine d'application**: Médical/Biologique, Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game
+
+
+* **[Move'n See](https://shop.movensee.com/fr/)**  
+  * _Société brestoise qui conçoit des caméras autonomes à suivi par IA (PIX4TEAM, PIXEM) et des services de captation, d'analyse vidéo et de streaming pour le sport amateur et le spectacle._
+  * **Mots clés**: _Caméra autonome, Suivi par IA, Vidéo sport, Streaming_
+  * **Localisation**: Brest
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Vision, Acquisition, Analyse de données, Hardware
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité
 
 
 * **[Movea (TDK InvenSense)](https://invensense.tdk.com/)**  
@@ -3699,6 +4140,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Nexus Studios](https://nexusstudios.com/)**  
+  * _Studio de création mêlant animation, VFX et expériences immersives (AR/VR) pour le cinéma, la publicité et les marques, basé à Londres._
+  * **Mots clés**: _Animation, XR, VFX_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation, VR/AR
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+
+
 * **[NHImages](https://nhimages.fr/)**  
   * _Studio strasbourgeois de perspectives 3D fondé par un architecte DPLG, qui produit images et films de synthèse pour concours d'architecture et promotion immobilière._
   * **Mots clés**: _architecture, rendu photoréaliste_
@@ -3716,6 +4165,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu offline/VFX
   * **Domaine d'application**: Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires
   * [_Jobs_](https://www.nightshift.fr/join-us/)
+
+
+* **[Ninja Theory](https://www.ninjatheory.com/)**  
+  * _Studio de Cambridge de Microsoft (Hellblade, Heavenly Sword), réputé pour la capture de mouvement et le rendu temps réel Unreal Engine._
+  * **Mots clés**: _jeu vidéo, capture de mouvement, Unreal Engine_
+  * **Localisation**: Royaume-Uni/Cambridge
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Acquisition, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Nobody Studio](https://nobody-studio.com/)**  
@@ -3830,6 +4288,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
 
 
+* **[OceanDataLab](https://www.oceandatalab.com/home)**  
+  * _Laboratoire privé créé en 2013 qui développe des logiciels de visualisation et d'analyse de données d'observation spatiale de l'océan (Syntool, SEAScope, Ocean Virtual Laboratory) en collaboration avec le laboratoire d'océanographie spatiale de l'Ifremer._
+  * **Mots clés**: _Visualisation scientifique, Observation de la Terre, Océanographie, Télédétection_
+  * **Localisation**: Locmaria-Plouzané
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Visualisation, Analyse de données, Imagerie, Web/Cloud/Big Data
+  * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie
+
+
 * **[Ocellus](https://ocellus-studio.com/)** (Ocellus Services) 
   * _Studio lyonnais de game art stylisé 2D/3D et de développement (Ocellus Services) ayant travaillé sur Fortnite, Clash of Clans ou Brawl Stars, qui développe aussi ses propres jeux (Ocellus Games)._
   * **Mots clés**: _game art, co-développement, cinématiques de jeu, rendu stylisé, mobile_
@@ -3918,6 +4385,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Optellum](https://www.optellum.com/)**  
+  * _Start-up d'Oxford d'IA pour l'imagerie thoracique, aide au diagnostic des nodules pulmonaires sur scanner._
+  * **Mots clés**: _imagerie médicale, poumon, IA_
+  * **Localisation**: Royaume-Uni/Oxford
+  * **Nombres d'employés**: 60
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Optiive](https://optiive.com/)** (Optiive Rise Reality) 
   * _Start-up issue du laboratoire ICube qui conçoit et fabrique des moteurs optiques et guides d'onde pour lunettes de réalité augmentée._
   * **Mots clés**: _réalité augmentée, optique, afficheur, lunettes AR_
@@ -3997,6 +4473,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Outpost VFX](https://www.outpost-vfx.com/)**  
+  * _Studio de VFX avec site à Bournemouth (80 postes cités à l'ouverture), Londres, Montréal, Los Angeles et Mumbai, pour cinéma et séries._
+  * **Mots clés**: _VFX, cinéma, séries, Bournemouth_
+  * **Localisation**: Royaume-Uni/Bournemouth
+  * **Nombres d'employés**: 660
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Outsight](https://www.outsight.ai/)**  
@@ -4085,6 +4570,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Perspectum](https://perspectum.com/)**  
+  * _Société d'Oxford d'imagerie médicale quantitative (IRM du foie, cartographie multiparamétrique, LiverMultiScan)._
+  * **Mots clés**: _IRM, imagerie quantitative, foie_
+  * **Localisation**: Royaume-Uni/Oxford
+  * **Nombres d'employés**: 350
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Phasics](https://www.phasics.com/)**  
   * _Société de Paris-Saclay qui conçoit des analyseurs de front d'onde à haute résolution pour la métrologie optique, l'optique adaptative et l'imagerie de phase quantitative._
   * **Mots clés**: _optique, imagerie de phase, métrologie_
@@ -4130,6 +4624,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Piranha Bar](https://piranhabar.ie/)**  
+  * _Studio créatif de Dublin spécialisé en VFX, animation, motion design et production virtuelle, pour cinéma, séries et publicité._
+  * **Mots clés**: _VFX, motion design, animation, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 40
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Piranèse](https://studiopiranese.com/)**  
@@ -4207,6 +4710,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Playground Games](https://playground-games.com/)**  
+  * _Studio de Leamington Spa de Microsoft, créateur de la série Forza Horizon._
+  * **Mots clés**: _jeu vidéo, Forza Horizon, monde ouvert_
+  * **Localisation**: Royaume-Uni/Leamington Spa
+  * **Nombres d'employés**: 450
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Playrion](https://www.playrion.com/)**  
   * _Studio de Montrouge (2010) de jeux de gestion et simulation sur mobile et PC (Airlines Manager, Airport Simulator: First Class), ancien studio interne de Paradox Interactive racheté par Trophy Games en 2026._
   * **Mots clés**: _mobile, jeu de gestion, simulation, free-to-play_
@@ -4215,6 +4727,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.playrion.com/recruitment/)
+
+
+* **[Playtonic Games](https://playtonicgames.com/)**  
+  * _Studio de Burton upon Trent fondé par d'anciens de Rare (Yooka-Laylee), avec un second site à Leamington Spa._
+  * **Mots clés**: _jeu vidéo, plateforme 3D, Yooka-Laylee_
+  * **Localisation**: Royaume-Uni/Burton upon Trent
+  * **Nombres d'employés**: 70
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Playtouch](https://playtouch.net/)**  
@@ -4473,6 +4994,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Industrie/Manufacturing/CAO
 
 
+* **[Rebellion](https://rebellion.com/)**  
+  * _Studio indépendant d'Oxford (Sniper Elite, Zombie Army) avec moteur interne Asura, également éditeur de bande dessinée (2000 AD)._
+  * **Mots clés**: _jeu vidéo, moteur Asura, Sniper Elite_
+  * **Localisation**: Royaume-Uni/Oxford
+  * **Nombres d'employés**: 450
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Rebound](https://www.reboundcg.com/)**  
   * _Studio de développement et d'édition de jeux vidéo fondé en 2017 (Rebound Capital Games), auteur de la série Tennis Manager et du roguelite Furyball Rogue Revenge, qui propose aussi du développement pour d'autres studios._
   * **Mots clés**: _jeu vidéo, édition, jeu de sport, Tennis Manager, roguelite_
@@ -4695,6 +5225,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Scopely Dublin](https://www.scopely.com/)**  
+  * _Studio dublinois de Scopely issu du rachat de DIGIT (2019), éditeur de Star Trek Fleet Command, jeu mobile en 3D._
+  * **Mots clés**: _jeu mobile, Star Trek Fleet Command, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Scortex](https://scortex.io/)**  
   * _Éditeur parisien d'une solution d'inspection visuelle par IA qui automatise la détection de défauts sur les lignes de production._
   * **Mots clés**: _vision par ordinateur, contrôle qualité, deep learning_
@@ -4703,6 +5242,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision
   * **Domaine d'application**: Industrie/Manufacturing/CAO
   * [_Jobs_](https://scortex.welcomekit.co/)
+
+
+* **[Screen Scene](https://screenscene.ie/)**  
+  * _Société de post-production de Dublin (image, VFX, étalonnage, son) pour cinéma et séries._
+  * **Mots clés**: _VFX, post-production, étalonnage, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Sculpteo](https://www.sculpteo.com/)**  
@@ -4959,6 +5507,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[SpAItial](https://spaitial.ai/)**  
+  * _Start-up de modèles fondamentaux génératifs de mondes 3D (Londres et Munich), fondée en 2024 par Matthias Nießner et d'anciens de Google._
+  * **Mots clés**: _IA générative 3D, Gaussian splatting, Modèles de monde_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 30
+  * **Domaine scientifique/technique**: IA générative (image/3D), Reconstruction, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://spaitial.ai/careers)
+
+
 * **[SpirOPS](https://www.spirops.com/)**  
   * _Laboratoire indépendant d'IA depuis 2004 : simulateur de foules, moteur d'animation procédurale temps réel, IA décisionnelle pour véhicules et trains autonomes (Stellantis, SNCF, Alstom)._
   * **Mots clés**: _simulation de foules, animation procédurale, véhicule autonome, agents autonomes, IA décisionnelle, ferroviaire_
@@ -4968,6 +5526,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.spirops.com/en/jobs.php)
 
 
+* **[Splash Damage](https://splashdamage.com/)**  
+  * _Studio de jeu vidéo fondé en 2001 (Wolfenstein : Enemy Territory, Gears Tactics), installé à Bromley dans le Grand Londres, avec sa propre technologie de développement._
+  * **Mots clés**: _Jeu vidéo, Multijoueur, Moteur 3D_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.splashdamage.com/)
+
+
 * **[Spline](https://spline.fr/)**  
   * _Studio d'ingénierie visuelle : motion control robotisé, camera tracking temps réel sur plateau et VFX._
   * **Mots clés**: _motion control, tracking caméra, production virtuelle, effets visuels, publicité, robotique, location de studio_
@@ -4975,6 +5543,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Acquisition, Rendu temps réel/Moteurs 3D, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Sports Interactive](https://www.sports-interactive.com/)**  
+  * _Studio londonien (SEGA) éditeur de la série Football Manager, simulation de gestion avec moteur de match 3D._
+  * **Mots clés**: _Football Manager, Simulation, Jeu vidéo_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.sports-interactive.com/careers)
 
 
 * **[Spring Technologies](https://hexagon.com/products/product-groups/cnc-simulation-software/ncsimul)**  
@@ -5016,6 +5593,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.steamrolleranimation.com/careers)
 
 
+* **[Steel City Interactive](https://steelcityinteractive.co.uk/)**  
+  * _Studio de Sheffield fondé en 2020, développeur du jeu de boxe Undisputed en Unreal Engine avec capture de mouvement._
+  * **Mots clés**: _jeu vidéo, boxe, capture de mouvement_
+  * **Localisation**: Royaume-Uni/Sheffield
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Stereograph](https://www.stereograph.fr/)**  
   * _Éditeur lillois de TEIA Suite, plateforme de jumeau numérique et d'hypervision des bâtiments permettant de visualiser un patrimoine immobilier en 2D et 3D et d'y connecter les données d'exploitation ; à l'origine studio d'images 3D pour l'architecture._
   * **Mots clés**: _jumeau numérique, BIM, visualisation 3D, hypervision_
@@ -5054,12 +5640,29 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[StoryToys](https://storytoys.com/)**  
+  * _Éditeur dublinois de jeux et applications mobiles pour enfants (Sesame Street, Disney), racheté par Team17 en 2021._
+  * **Mots clés**: _jeu mobile, enfants, Dublin_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 60
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Strollhunt](https://strollhunt.com/)**  
   * _Plateforme mobile de jeux d'exploration urbaine en réalité augmentée, proposée aux offices de tourisme, institutions culturelles et entreprises._
   * **Mots clés**: _réalité augmentée, jeu géolocalisé, tourisme, patrimoine/musée, mobile, chasse au trésor_
   * **Localisation**: Royaume-Uni/Londres
   * **Domaine scientifique/technique**: Vision, VR/AR
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Studio AKA](https://studioaka.co.uk/)**  
+  * _Studio d'animation indépendant basé à Clerkenwell (Londres), produisant publicités, séries et courts et longs métrages en techniques 2D et 3D._
+  * **Mots clés**: _Animation, 2D/3D, Publicité_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Studio Black Flag](https://studioblackflag.com/)**  
@@ -5125,6 +5728,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.subsea-tech.com/fr/recrutement/)
 
 
+* **[Sumo Digital](https://sumo-digital.com/)**  
+  * _Studio de Sheffield (Sackboy: A Big Adventure, Crackdown 3), co-développeur AAA avec plusieurs sites au Royaume-Uni; propriété de Tencent._
+  * **Mots clés**: _co-développement, jeu vidéo, art 3D, Unreal Engine_
+  * **Localisation**: Royaume-Uni/Sheffield
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Sun Creature](https://www.suncreature.com/)**  
   * _Studio d'animation et de production danois avec une filiale de fabrication à Bordeaux (animation 2D/3D)._
   * **Mots clés**: _animation 2D, séries d'animation, long métrage, contenus de marque, coproduction internationale_
@@ -5151,6 +5763,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, VR/AR, Modélisation
   * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel
   * [_Jobs_](https://www.superbien.studio/career)
+
+
+* **[Supermassive Games](https://www.supermassivegames.com/)**  
+  * _Studio de Guildford (Until Dawn, The Dark Pictures, Little Hope), spécialisé dans les jeux narratifs cinématographiques avec capture faciale._
+  * **Mots clés**: _jeu narratif, capture de mouvement, horreur_
+  * **Localisation**: Royaume-Uni/Guildford
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Superprod Animation](https://www.superprod.net/fr)**  
@@ -5218,6 +5839,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO, Commerce/Marketing/Publicité
 
 
+* **[Synthesia](https://www.synthesia.io/)**  
+  * _Plateforme d'IA générative de vidéos avec avatars humains numériques, basée à Londres._
+  * **Mots clés**: _IA générative, Avatars, Vidéo_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 500
+  * **Domaine scientifique/technique**: IA générative (image/3D), Animation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.synthesia.io/careers)
+
+
 * **[SysNav](https://www.sysnav.fr/)**  
   * _Spécialiste français de la géolocalisation de précision sans GPS par navigation magnéto-inertielle brevetée, pour la défense, la sécurité, les véhicules autonomes et la mesure du mouvement en essais cliniques._
   * **Mots clés**: _navigation magnéto-inertielle, géolocalisation sans GPS, défense, véhicule autonome, santé, capteurs inertiels_
@@ -5273,6 +5904,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Mots clés**: _jeu vidéo, jeu indépendant, jeu narratif_
   * **Localisation**: Soyaux
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Team17](https://www.team17.com/)**  
+  * _Éditeur-développeur de Wakefield (Worms, Overcooked, The Escapists), du groupe Everplay._
+  * **Mots clés**: _jeu vidéo, Worms, jeu indépendant_
+  * **Localisation**: Royaume-Uni/Wakefield
+  * **Nombres d'employés**: 250
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
   * **Domaine d'application**: Jeu Vidéo
 
 
@@ -5339,6 +5979,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement
+
+
+* **[Territory Studio](https://territorystudio.com/)**  
+  * _Studio de design graphique et de motion design spécialisé dans les interfaces fictives (FUI), la visualisation de données et le temps réel pour le cinéma, le jeu vidéo et l'automobile._
+  * **Mots clés**: _Interfaces fictives, Motion design, Visualisation_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation, Visualisation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Automobile/Navigation/Aviation
 
 
 * **[Thales](https://www.thalesgroup.com/fr)**  
@@ -5539,6 +6187,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://ed2.toyota-europe.com/projects/digitalmodellerneeded)
 
 
+* **[Tractable](https://tractable.ai/)**  
+  * _Éditeur londonien d'IA de vision par ordinateur estimant les dommages de véhicules et de biens à partir de photos._
+  * **Mots clés**: _Vision par ordinateur, Deep learning, Assurance_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Vision
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Générique
+  * [_Jobs_](https://tractable.ai/careers/)
+
+
 * **[Transvalor](https://www.transvalor.com/en/homepage)**  
   * _Éditeur de logiciels de simulation numérique des procédés de mise en forme (Forge, Thercast, Rem3D) issus de Mines Paris._
   * **Mots clés**: _simulation physique, éléments finis, mise en forme des métaux, forgeage, fonderie, industrie/usinage_
@@ -5595,6 +6253,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
 
 
+* **[Union VFX](https://www.unionvfx.com/)**  
+  * _Studio indépendant d'effets visuels pour le cinéma et les séries, installé à Soho (Londres)._
+  * **Mots clés**: _VFX, Cinéma, Séries_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Unique Animation](https://uniqueanimation.com/)**  
   * _Prestataire de production exécutive et de fabrication de séries d'animation 2D numérique haut de gamme, de la préproduction au compositing (Les Sisters, Loup, Viking Skool pour Samka)._
   * **Mots clés**: _animation 2D, séries TV, production exécutive, compositing_
@@ -5624,6 +6290,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://unity.com/careers)
 
 
+* **[Untold Studios](https://untoldstudios.tv/)**  
+  * _Studio de VFX, d'étalonnage et de production fondé en 2018 à Londres, se présentant comme un studio entièrement basé sur le cloud ; bureaux à New York, Los Angeles, Mumbai et Toronto ; publicité, film et séries._
+  * **Mots clés**: _VFX, CGI, Pipeline cloud, Publicité_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://untoldstudios.tv/careers/)
+
+
 * **[Uptale](https://www.uptale.io/)**  
   * _Éditeur d'une plateforme de formation immersive (VR, 360°, IA conversationnelle) qui capture des environnements réels pour créer des modules déployables sur casque, mobile et web._
   * **Mots clés**: _réalité virtuelle, vidéo 360, formation immersive, serious game, IA générative_
@@ -5632,6 +6307,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Web/Cloud/Big Data, Acquisition
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/uptale/jobs)
+
+
+* **[ustwo games](https://ustwogames.co.uk/)**  
+  * _Studio de jeu vidéo londonien, créateur de Monument Valley, Assemble with Care et Alba._
+  * **Mots clés**: _Jeu vidéo, Monument Valley, Mobile_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Utopia](https://www.allutopias.com/)**  
@@ -5782,6 +6465,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Virtualys](https://www.virtualys.fr/)**  
+  * _Société brestoise fondée en 1997 qui conçoit des applications 3D temps réel interactives en réalité virtuelle et augmentée, des serious games de formation et des outils web, avec une activité de R&D éligible au CIR._
+  * **Mots clés**: _Réalité virtuelle, Serious game, 3D temps réel, Réalité augmentée_
+  * **Localisation**: Brest
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Web/Cloud/Big Data
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Patrimoine/Culture
+  * [_Jobs_](https://www.virtualys.fr/Recrutements)
+
+
 * **[Virtuos](https://www.virtuosgames.com/)**  
   * _Studio de co-développement de jeux vidéo (portages, remasters, production d'art 3D)_
   * **Mots clés**: _co-développement, portage, remaster, production d'art 3D, AAA, console/PC_
@@ -5836,6 +6529,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/Conifer
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+
+
+* **[Volograms](https://www.volograms.com/)**  
+  * _Start-up dublinoise, spin-off de Trinity College (V-SENSE), spécialisée dans la capture volumétrique et les hologrammes pour AR/VR à partir de vidéos._
+  * **Mots clés**: _vidéo volumétrique, hologramme, AR/VR, Trinity_
+  * **Localisation**: Irlande/Dublin
+  * **Nombres d'employés**: 20
+  * **Domaine scientifique/technique**: Reconstruction, Acquisition, VR/AR
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
 
 * **[VRAI Learning](https://vrailearning.com/)**  
@@ -5894,6 +6596,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: IHM/Haptique, Web/Cloud/Big Data, Vision
   * **Domaine d'application**: Générique
   * [_Jobs_](https://wassa.io/fr/offres-emploi/)
+
+
+* **[Wayve](https://wayve.ai/)**  
+  * _Entreprise londonienne d'IA embarquée pour la conduite autonome par vision (apprentissage de bout en bout, modèles génératifs de scènes de conduite)._
+  * **Mots clés**: _Conduite autonome, Vision, Deep learning_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 600
+  * **Domaine scientifique/technique**: Vision, IA générative (image/3D), Simulation
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+  * [_Jobs_](https://wayve.ai/careers/)
 
 
 * **[WetaFX](https://www.wetafx.co.nz/)**  
@@ -5967,6 +6679,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+
+
+* **[Xperi (FotoNation)](https://xperi.com/)**  
+  * _Site de Galway de Xperi (ex-FotoNation) : imagerie, vision par ordinateur et apprentissage automatique pour caméras, automobile et mobiles._
+  * **Mots clés**: _vision, imagerie, automobile, Galway_
+  * **Localisation**: Irlande/Galway
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Vision, Imagerie
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Générique
+
+
+* **[XR Games](https://xrgames.co.uk/)**  
+  * _Studio de Leeds spécialisé dans les expériences de réalité virtuelle et mixte (Contagion VR: Outbreak)._
+  * **Mots clés**: _réalité virtuelle, Leeds, XR_
+  * **Localisation**: Royaume-Uni/Leeds
+  * **Nombres d'employés**: 80
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
 * **[YellowScan](https://www.yellowscan.com/)**  

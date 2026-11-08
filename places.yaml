@@ -86,6 +86,7 @@ France:
   Villes:
     Aix-en-Provence: [43.5298, 5.4475]
     Angers: [47.474, -0.5516]
+    Anglet: [43.4814, -1.515]
     Angoulême: [45.6485, 0.1562]
     Annecy: [45.8992, 6.1289]
     Arcueil: [48.8065, 2.3367]
@@ -96,6 +97,7 @@ France:
     Avon: [48.4049, 2.7207]
     Bagneux: [48.7959, 2.3086]
     Bagnols-sur-Cèze: [44.1605, 4.6236]
+    Bayonne: [43.4945, -1.4737]
     Bègles: [44.8075, -0.5489]
     Belfort: [47.638, 6.8629]
     Besançon: [47.238, 6.0244]
@@ -109,6 +111,7 @@ France:
     Bouguenais: [47.1793, -1.6234]
     Boulogne-Billancourt: [48.8357, 2.2402]
     Bourg-lès-Valence: [44.9528, 4.8954]
+    Brest: [48.3912, -4.4851]
     Brie: [45.7254, 0.2543]
     Brignais: [45.674, 4.7541]
     Bron: [45.7338, 4.9092]
@@ -144,6 +147,7 @@ France:
     Fretin: [50.5596, 3.1351]
     Gières: [45.1798, 5.7904]
     Gond-Pontouvre: [45.6794, 0.1638]
+    Grand-Champ: [47.7584, -2.8453]
     Grasse: [43.6589, 6.9239]
     Grenoble: [45.1876, 5.7358]
     Gujan-Mestras: [44.6181, -1.0769]
@@ -165,6 +169,7 @@ France:
     Limoges: [45.8354, 1.2645]
     Limonest: [45.8357, 4.7708]
     Lixhausen: [48.7938, 7.5504]
+    Locmaria-Plouzané: [48.3747, -4.6444]
     Loos: [50.6092, 3.0163]
     Louvigné: [48.0581, -0.631]
     Louvigné-de-Bais: [48.0481, -1.3316]
@@ -266,6 +271,11 @@ Inde:
   Pays: [22.3511, 78.6677]
   Villes:
     Bangalore: [12.9768, 77.5901]
+Irlande:
+  Villes:
+    Dublin: [53.3494, -6.2606]
+    Galway: [53.2744, -9.0491]
+    Kilkenny: [52.6506, -7.2514]
 Japon:
   Villes:
     Saitama: [35.8617, 139.6455]
@@ -292,8 +302,25 @@ Pologne:
 Royaume-Uni:
   Pays: [54.7024, -3.2766]
   Villes:
+    Basingstoke: [51.2628, -1.0862]
+    Bournemouth: [50.7447, -1.858]
+    Bristol: [51.443, -2.5817]
+    Burton upon Trent: [52.8027, -1.6299]
+    Cambridge: [52.1976, 0.1392]
+    Gateshead: [54.9626, -1.6019]
+    Guildford: [51.2356, -0.5732]
+    Horsham: [51.063, -0.3295]
+    Leamington Spa: [52.2913, -1.5364]
+    Leeds: [53.7974, -1.5438]
+    Liverpool: [53.3933, -2.9166]
     Londres: [51.5074, -0.1278]
+    Manchester: [53.4425, -2.2325]
+    Nottingham: [52.9534, -1.1496]
     Oxford: [51.752, -1.2578]
+    Portsmouth: [50.8, -1.0906]
+    Sheffield: [53.3807, -1.4702]
+    Southam: [52.2531, -1.3884]
+    Wakefield: [53.683, -1.4967]
 Singapour:
   Pays: [1.3571, 103.8195]
 Suède:
