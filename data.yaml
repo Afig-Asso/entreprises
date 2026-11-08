@@ -3222,25 +3222,6 @@
   Employees: 35
   Info: Filiale du groupe Nacon.
 
-- Name: Nacon
-  url: https://www.nacongaming.com/
-  Description: Éditeur de jeux vidéo et fabricant d'accessoires, maison mère de nombreux studios de développement.
-  Place:
-    - City: Fretin
-      Coordinates: [50.58033, 3.12896]
-      SIREN: '852538461'
-      Address: 396-466-Crt2 396 Rue de la Voyette, 59273 Fretin
-    - City: Paris
-      Coordinates: [48.86754, 2.39945]
-      SIREN: '852538461'
-      Address: 96 Rue Orfila, 75020 Paris
-  Jobs: https://corporate.nacongaming.com/career/
-  Scientific-domain: [Rendu temps réel/Moteurs 3D, Hardware]
-  Application-domain: [Jeu Vidéo]
-  Keywords: [édition de jeux, console/PC, accessoires de jeu, manettes, jeu de sport]
-  Employees: 150
-  Info: Placée en redressement judiciaire en mars 2026 (période d'observation prolongée en juillet 2026).
-
 - Name: Pretty Simple
   url: https://prettysimplegames.com/
   Description: Studio parisien de jeux mobiles free-to-play d'enquête et d'objets cachés (Criminal Case, Sorcery School), plus de 100 millions de joueurs.

@@ -3599,17 +3599,6 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique, Mode/Vêtements/Accessoires
 
 
-* **[Nacon](https://www.nacongaming.com/)**  
-  * _Éditeur de jeux vidéo et fabricant d'accessoires, maison mère de nombreux studios de développement._
-  * **Mots clés**: _édition de jeux, console/PC, accessoires de jeu, manettes, jeu de sport_
-  * **Remarque**: _Placée en redressement judiciaire en mars 2026 (période d'observation prolongée en juillet 2026)._
-  * **Localisation**: Fretin, Paris
-  * **Nombres d'employés**: 150
-  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware
-  * **Domaine d'application**: Jeu Vidéo
-  * [_Jobs_](https://corporate.nacongaming.com/career/)
-
-
 * **[Nalu Animation](https://www.naluanimation.com/)**  
   * _Société de production exécutive et de fabrication d'animation (layout, animation, compositing ; Totally Spies! saison 8, Lana Longuebarbe, Mumfie) qui a ouvert en 2026 un studio aux Ateliers Magelis._
   * **Mots clés**: _production exécutive, layout, animation, compositing, séries TV_

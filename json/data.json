@@ -411,10 +411,6 @@
             48.8491,
             2.4749
         ],
-        "France/Fretin": [
-            50.5596,
-            3.1351
-        ],
         "France/Gi\u00e8res": [
             45.1798,
             5.7904
@@ -8998,48 +8994,6 @@
             ],
             "Employees": 35,
             "Info": "Filiale du groupe Nacon."
-        },
-        {
-            "Name": "Nacon",
-            "url": "https://www.nacongaming.com/",
-            "Description": "\u00c9diteur de jeux vid\u00e9o et fabricant d'accessoires, maison m\u00e8re de nombreux studios de d\u00e9veloppement.",
-            "Place": [
-                {
-                    "City": "Fretin",
-                    "Coordinates": [
-                        50.58033,
-                        3.12896
-                    ],
-                    "SIREN": "852538461",
-                    "Address": "396-466-Crt2 396 Rue de la Voyette, 59273 Fretin"
-                },
-                {
-                    "City": "Paris",
-                    "Coordinates": [
-                        48.86754,
-                        2.39945
-                    ],
-                    "SIREN": "852538461",
-                    "Address": "96 Rue Orfila, 75020 Paris"
-                }
-            ],
-            "Jobs": "https://corporate.nacongaming.com/career/",
-            "Scientific-domain": [
-                "Rendu temps r\u00e9el/Moteurs 3D",
-                "Hardware"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ],
-            "Keywords": [
-                "\u00e9dition de jeux",
-                "console/PC",
-                "accessoires de jeu",
-                "manettes",
-                "jeu de sport"
-            ],
-            "Employees": 150,
-            "Info": "Plac\u00e9e en redressement judiciaire en mars 2026 (p\u00e9riode d'observation prolong\u00e9e en juillet 2026)."
         },
         {
             "Name": "Pretty Simple",
