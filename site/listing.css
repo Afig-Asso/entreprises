@@ -83,6 +83,16 @@ a:hover { text-decoration: underline; text-decoration-thickness: 2px; text-under
 /* ======================================================================
    Bandeau vert AFIG
    ====================================================================== */
+/* barre commune aux pages AFIG (équipes, entreprises, carte), comme sur research-team */
+.sites { margin: 0 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; padding: 7px max(16px, calc((100% - 1368px)/2)); background: #18181b; font-family: var(--font); font-size: 13px; line-height: 20px; }
+.sites a { color: #a1a1aa; text-decoration: none; }
+.sites a:hover, .sites a:focus-visible { color: #ffffff; text-decoration: underline; }
+.sites a[aria-current] { color: #ffffff; font-weight: 600; }
+.sites .afig { font-weight: 800; color: #a2d026; }
+.sites .gh { margin-left: auto; }
+.embedded .sites { margin: 0 0 0; display: none; }  /* dans le site de l'AFIG, qui a sa propre navigation */
+.see-also { margin: 2rem 0 1rem; padding-top: 1rem; border-top: 1px solid var(--line); font-size: 0.85rem; color: var(--muted); }
+.see-also a { color: var(--afig-800); }
 .toolbar {
     position: sticky; top: 0; z-index: 10;
     padding: 1rem 1.25rem;

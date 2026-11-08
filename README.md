@@ -11,6 +11,11 @@ Entreprises françaises, ou présentes en France, en lien avec l'informatique gr
 
 Le listing complet est aussi disponible plus bas dans ce fichier ([aller au listing](#listing)).
 
+## Voir aussi
+
+- Équipes de recherche en informatique graphique : https://afig-asso.github.io/research-team/ (dépôt [Afig-Asso/research-team](https://github.com/Afig-Asso/research-team))
+- Carte de France des entreprises et des équipes de recherche : https://afig-asso.github.io/cartographie/ (dépôt [Afig-Asso/cartographie](https://github.com/Afig-Asso/cartographie))
+
 ## Ajouter ou modifier une entreprise
 
 - Envoyez un email à contact[at]asso-afig.fr avec les informations,
