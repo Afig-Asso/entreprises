@@ -32,8 +32,6 @@
                 <div class="sorting_input" role="radiogroup" aria-label="Vue">
                     <input type="radio" id="view-list" name="view" value="List" checked>
                     <label for="view-list">Liste</label>
-                    <input type="radio" id="sort-map" name="view" value="Map">
-                    <label for="sort-map">Carte</label>
                     <input type="radio" id="sort-graph" name="view" value="Graph">
                     <label for="sort-graph">Graphe</label>
                 </div>
@@ -99,16 +97,6 @@
         <div class="listing-head">
             <p id="listing-summary" class="listing-summary" role="status" tabindex="-1">Chargement de la liste des entreprises...</p>
             <p class="tag-legend"><span class="legend-item legend-scientific">Domaine scientifique</span><span class="legend-item legend-application">Domaine d'application</span><span class="legend-hint">cliquez une étiquette pour filtrer</span></p>
-        </div>
-        <div id="map-view" class="map-view" hidden>
-            <div class="map-frames" role="group" aria-label="Cadrer la carte">
-                <button type="button" class="map-frame" data-frame="fit">Toute la sélection</button>
-                <button type="button" class="map-frame" data-frame="world">Monde</button>
-                <button type="button" class="map-frame" data-frame="europe">Europe</button>
-                <button type="button" class="map-frame" data-frame="france">France</button>
-            </div>
-            <div id="map" class="map" role="region" aria-label="Carte des entreprises"></div>
-            <p id="map-note" class="map-note"></p>
         </div>
         <div id="graph-view" class="graph-view" hidden>
             <div class="graph-toolbar">

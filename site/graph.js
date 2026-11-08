@@ -765,8 +765,7 @@ function graph_neighbors(k0) {
 
     const themes = me.s.concat(me.a).join(', ');
     const carto = carto_link(listing[k0]);
-    const goto_map = carto ? `<a class="graph-goto" href="${esc(carto)}" target="_blank" rel="noopener">Sur la carte${NEW_TAB}</a>`
-        : (company_on_map(listing[k0]) ? `<button type="button" class="graph-goto" data-goto="map" data-k="${k0}">Sur la carte</button>` : '');
+    const goto_map = carto ? `<a class="graph-goto" href="${esc(carto)}" target="_blank" rel="noopener">Sur la carte${NEW_TAB}</a>` : '';
     GRAPH['info'].innerHTML = `<div class="graph-goto-row"><button type="button" class="graph-goto" data-goto="card" data-k="${k0}">Fiche</button>${goto_map}</div>`
         + `<strong>${esc(listing[k0]['Name'])}</strong> · ${size_text(me.e)}${me.zones.length ? ' · ' + esc(me.zones.join(', ')) : ''}<br>`
         + `${esc(themes)}${me.k.length ? '<br><span class="graph-keywords">' + esc(me.k.join(', ')) + '</span>' : ''}`
@@ -929,7 +928,6 @@ GRAPH['info'].addEventListener('click', (event) => {
     const button = event.target.closest('.graph-goto');
     if(!button) return;
     if(button.dataset.goto=='card') show_card(+button.dataset.k);
-    else show_on_map(+button.dataset.k);
 });
 // a new width: drawn again at the same place
 let graph_resize_timer = null;

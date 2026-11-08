@@ -11,10 +11,9 @@ const summary_element = document.querySelector('#listing-summary');
 // Controls of the toolbar (static HTML in index.html)
 const UX = {
     'sorting': {
-        'list': document.querySelector('#view-list'),  // view: list (sorted by name or place), map or graph
+        'list': document.querySelector('#view-list'),  // view: list (sorted by name or place) or graph
         'alphabetical': document.querySelector('#sort-alphabetical'),
         'place': document.querySelector('#sort-place'),
-        'map': document.querySelector('#sort-map'),
         'graph': document.querySelector('#sort-graph'),
     },
     'details': document.querySelector('#display-details'),
@@ -373,14 +372,8 @@ function company_index(entry) {
     return Global['index'].get(entry);
 }
 
-// True if the company has at least one place with coordinates (shown on the map)
-function company_on_map(entry) {
-    const places = company_data['Places'] || {};
-    return expand_places(entry['Place']).some((loc) => loc['Coordinates'] || places[map_place_key(loc['Country'], loc['City'])]);
-}
-
 // Carte de l'informatique graphique en France (entreprises et équipes de recherche) : lien vers une entreprise
-// qui a un lieu placé en France ; null sinon (elle reste alors sur la carte du monde de ce listing)
+// qui a un lieu placé en France ; null sinon (pas de carte pour les entreprises uniquement à l'étranger)
 const CARTO_URL = 'https://afig-asso.github.io/cartographie/';
 function carto_link(entry) {
     const places = company_data['Places'] || {};
@@ -388,7 +381,7 @@ function carto_link(entry) {
     return in_france ? CARTO_URL + '?entreprise=' + encodeURIComponent(entry['Name']) : null;
 }
 
-// Links of a card to the same company on the map and in the graph
+// Links of a card to the same company on the map of France and in the graph
 function company_links(entry) {
     const k = company_index(entry);
     const name = esc(entry['Name']);
@@ -396,9 +389,6 @@ function company_links(entry) {
     const carto = carto_link(entry);
     if(carto) {
         txt += `<a class="goto-carto" href="${esc(carto)}" target="_blank" rel="noopener">Carte<span class="visually-hidden"> : ${name}, avec les équipes de recherche proches${NEW_TAB}</span></a>`;
-    }
-    else if(company_on_map(entry)) {
-        txt += `<button type="button" class="goto-map" data-k="${k}">Carte<span class="visually-hidden"> : ${name}</span></button>`;
     }
     txt += `<button type="button" class="goto-graph" data-k="${k}">Graphe<span class="visually-hidden"> : entreprises proches de ${name}</span></button>`;
     return txt + '</div>\n';
@@ -777,18 +767,10 @@ function update_display() {
 
     Global['rendered-ids'] = new Set();
     display_summary(N_displayed, N_jobs);
-    const map_view = UX['sorting']['map'].checked;
     const graph_view = UX['sorting']['graph'].checked;
-    document.documentElement.classList.toggle('view-map', map_view);
     document.documentElement.classList.toggle('view-graph', graph_view);
-    map_element.hidden = !map_view;
     GRAPH['element'].hidden = !graph_view;
-    if(!map_view) MAP['focus'] = null;  // the focus on one company only lasts while the map is shown
-    if(map_view) {
-        listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
-        display_map(MAP['focus']!=null ? [company_data['Listing'][MAP['focus']]] : data_to_display);
-    }
-    else if(graph_view) {
+    if(graph_view) {
         listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
         display_graph(data_to_display);
     }
@@ -1034,7 +1016,7 @@ UX['search'].addEventListener('search', () => { // clear button of the search fi
     update_display();
 });
 
-for(const element of [UX['sorting']['list'], UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['map'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only']]) {
+for(const element of [UX['sorting']['list'], UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only']]) {
     element.addEventListener('change', update_display);
 }
 
@@ -1091,11 +1073,6 @@ UX['active-filters'].addEventListener('click', (event) => {
 });
 
 listing_element.addEventListener('click', (event) => {
-    const goto_map = event.target.closest('.goto-map');
-    if(goto_map) {
-        show_on_map(+goto_map.dataset.k);
-        return;
-    }
     const goto_graph = event.target.closest('.goto-graph');
     if(goto_graph) {
         show_in_graph(+goto_graph.dataset.k);
@@ -1191,18 +1168,8 @@ function answer(data) {
 
 
 // ---------------------------------------------------------------------------
-// Map view: one marker per city (coordinates of places.yaml, exported in data.json 'Places')
-// Leaflet is loaded only when the map is opened for the first time.
+// Places of a company (for the links to the map of France)
 // ---------------------------------------------------------------------------
-
-const map_element = document.querySelector('#map-view');
-const MAP = {'map': null, 'cluster': null, 'loading': null, 'bounds': null, 'framed': false, 'stacks': [], 'focus': null};
-const MAP_DOTS_ZOOM = 10;  // from this zoom: one dot per company, no groups
-const MAP_FRAMES = {
-    'world': [[-45, -130], [65, 150]],
-    'europe': [[36, -10], [60, 25]],
-    'france': [[42.2, -4.8], [51.1, 8.3]],
-};
 
 // Same rules as scripts/liblisting/places.py
 function split_names(value) {
@@ -1235,144 +1202,7 @@ function map_place_key(country, city) {
     return city=='' ? country : `${country}/${city}`;
 }
 
-// Group the companies by location: key -> {label, coords, country_only, list_id, entries}
-function map_groups(entries) {
-    const places = company_data['Places'] || {};
-    const groups = new Map();
-    let N_unplaced = 0;
-    for(const entry of entries) {
-        const seen = new Set();
-        let placed = false;
-        for(const loc of expand_places(entry['Place'])) {
-            const key = map_place_key(loc['Country'], loc['City']);
-            const coords = loc['Coordinates'] || places[key];
-            if(coords==undefined) continue;
-            const group_key = loc['Coordinates'] ? `${key}@${coords}` : key;
-            placed = true;
-            if(seen.has(group_key)) continue;
-            seen.add(group_key);
-            if(!groups.has(group_key)) {
-                const country_only = loc['City']=='';
-                const label = country_only ? loc['Country'] : (loc['Country']=='France' ? loc['City'] : `${loc['City']} (${loc['Country']})`);
-                // heading of the place view to jump to: French city, or country
-                const list_id = (loc['Country']=='France' && !country_only) ? place_id('ville', french_zone(loc['City'])) : place_id('pays', loc['Country']);
-                groups.set(group_key, {'label': label, 'coords': coords, 'country_only': country_only, 'list_id': list_id, 'entries': [], 'addresses': []});
-            }
-            groups.get(group_key)['entries'].push(entry);
-            groups.get(group_key)['addresses'].push(loc['Address']);
-        }
-        if(!placed) N_unplaced++;
-    }
-    return [groups, N_unplaced];
-}
-
-function load_map_library() {
-    if(MAP['loading']==null) {
-        const add = (tag, attributes) => new Promise((resolve, reject) => {
-            const element = document.createElement(tag);
-            Object.assign(element, attributes);
-            element.onload = resolve;
-            element.onerror = () => reject(new Error('Chargement impossible : ' + (attributes.src || attributes.href)));
-            document.head.appendChild(element);
-        });
-        MAP['loading'] = Promise.all([
-            add('link', {'rel': 'stylesheet', 'href': 'leaflet/leaflet.css'}),
-            add('link', {'rel': 'stylesheet', 'href': 'leaflet/MarkerCluster.css'}),
-            add('script', {'src': 'leaflet/leaflet.js'}).then(() => add('script', {'src': 'leaflet/leaflet.markercluster.js'})),
-        ]);
-    }
-    return MAP['loading'];
-}
-
-function create_map() {
-    const map = L.map('map', {'scrollWheelZoom': false, 'worldCopyJump': true, 'minZoom': 2});
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        'attribution': '&copy; <a href="https://www.openstreetmap.org/copyright">contributeurs OpenStreetMap</a>',
-        'maxZoom': 18,
-    }).addTo(map);
-    // The page scrolls inside the AFIG site: the wheel zooms only after a click on the map
-    map.on('click focus', () => map.scrollWheelZoom.enable());
-    map.on('mouseout blur', () => map.scrollWheelZoom.disable());
-    // Leaflet stops the clicks inside a popup: bind its button when it opens
-    map.on('popupopen', (event) => {
-        const element = event.popup.getElement();
-        const button = element.querySelector('.map-to-list');
-        if(button) button.addEventListener('click', () => show_in_list(button.dataset.target));
-        const card = element.querySelector('.map-to-card');
-        if(card) card.addEventListener('click', () => { MAP['map'].closePopup(); show_card(+card.dataset.k); });
-        const graph = element.querySelector('.map-to-graph');
-        if(graph) graph.addEventListener('click', () => { MAP['map'].closePopup(); show_in_graph(+graph.dataset.k); });
-    });
-    MAP['cluster'] = L.markerClusterGroup({
-        'showCoverageOnHover': false, 'maxClusterRadius': 45, 'spiderfyOnMaxZoom': true,
-        // at city level (zoom 10 and more) only the dots of the companies, no more groups
-        'disableClusteringAtZoom': MAP_DOTS_ZOOM,
-        'iconCreateFunction': (cluster) => {
-            const N = cluster.getAllChildMarkers().reduce((sum, m) => sum + m.options.count, 0);
-            return map_icon(N, 'map-cluster');
-        },
-    }).addTo(map);
-    // companies at the same position (city center): spread their dots again after a zoom
-    map.on('zoomend', map_spread);
-    MAP['map'] = map;
-}
-
-// The popup of a company opens when the mouse is over its dot, and closes shortly after the mouse leaves
-// the dot and the popup (so that its buttons can be reached). A click pins it open, as before.
-const MAP_HOVER = {'marker': null, 'timer': null, 'pinned': false};
-
-function map_hover_close_later() {
-    clearTimeout(MAP_HOVER['timer']);
-    MAP_HOVER['timer'] = setTimeout(() => {
-        if(MAP_HOVER['marker'] && !MAP_HOVER['pinned']) MAP_HOVER['marker'].closePopup();
-    }, 350);
-}
-
-function map_hover_popup(marker) {
-    marker.on('mouseover', () => {
-        clearTimeout(MAP_HOVER['timer']);
-        if(MAP_HOVER['pinned'] && MAP_HOVER['marker']!==marker && MAP_HOVER['marker']?.isPopupOpen()) return; // a pinned popup stays
-        if(MAP_HOVER['marker']===marker && marker.isPopupOpen()) return;
-        MAP_HOVER['marker'] = marker;
-        MAP_HOVER['pinned'] = false;
-        marker.getPopup().options.autoPan = false; // no map move on a simple hover
-        marker.openPopup();
-    });
-    marker.on('mouseout', map_hover_close_later);
-    marker.on('click', () => {
-        MAP_HOVER['marker'] = marker;
-        MAP_HOVER['pinned'] = true;
-        clearTimeout(MAP_HOVER['timer']);
-        marker.getPopup().options.autoPan = true;
-        if(!marker.isPopupOpen()) marker.openPopup();
-    });
-    marker.on('popupopen', (event) => {
-        const element = event.popup.getElement();
-        element.addEventListener('mouseenter', () => clearTimeout(MAP_HOVER['timer']));
-        element.addEventListener('mouseleave', map_hover_close_later);
-    });
-    marker.on('popupclose', () => { if(MAP_HOVER['marker']===marker) MAP_HOVER['pinned'] = false; });
-}
-
-// Companies sharing the same position (no precise address: center of the city) are spread around it
-// on a small sunflower, in pixels, so that each dot stays visible and clickable at any zoom
-function map_spread() {
-    const map = MAP['map'], stacks = MAP['stacks'] || [];
-    if(map==null || stacks.length==0) return;
-    const zoom = map.getZoom();
-    const moved = stacks.flatMap((s) => s.markers);
-    MAP['cluster'].removeLayers(moved);
-    for(const stack of stacks) {
-        const center = map.project(stack.coords, zoom);
-        stack.markers.forEach((marker, i) => {
-            const r = 11*Math.sqrt(i + 0.5), angle = i*2.39996;
-            marker.setLatLng(map.unproject(center.add([r*Math.cos(angle), r*Math.sin(angle)]), zoom));
-        });
-    }
-    MAP['cluster'].addLayers(moved);
-}
-
-// Approximate number of employees of a company (Employees of data.yaml), or null when unknown
+// Number of employees of a company (null if unknown), used by the graph
 function employees_count(entry) {
     const m = String(entry['Employees'] ?? '').match(/\d[\d\s]*/);
     if(m==null) return null;
@@ -1380,143 +1210,8 @@ function employees_count(entry) {
     return N>0 ? N : null;
 }
 
-// Diameter of the dot of a single company, growing with its size (log scale): ~11px for 2 people, ~31px for 200 000
-function map_dot_size(employees) {
-    return employees==null ? 12 : Math.round(Math.min(32, 10 + 4*Math.log10(employees)));
-}
-
-function map_icon(N, className, employees) {
-    if(N==1) { // a single company: a dot sized by its number of employees, so that the establishments of a city can be seen all at once
-        const size = map_dot_size(employees);
-        const unknown = employees==null ? ' map-dot-unknown' : '';
-        return L.divIcon({'className': 'map-pin map-dot ' + className + unknown, 'html': '', 'iconSize': [size, size]});
-    }
-    const size = Math.round(30 + 6*Math.log2(N));
-    return L.divIcon({'className': 'map-pin ' + className, 'html': `<span>${N}</span>`, 'iconSize': [size, size]});
-}
-
-function map_popup(group) {
-    const N = group['entries'].length;
-    if(N==1) { // a single company: its name in large, its address, its links
-        const entry = group['entries'][0];
-        const jobs = get_string(entry['Jobs']);
-        const where = group['addresses'][0] || group['label'];
-        let txt = `<div class="map-popup map-popup-single"><p class="map-popup-title"><a target="_blank" href="${entry['url']}">${entry['Name']}${NEW_TAB}</a></p>`;
-        txt += `<p class="map-popup-where">${esc(where)}</p>`;
-        if(group['country_only']) {
-            txt += '<p class="map-popup-hint">Ville non précisée : position du pays.</p>';
-        }
-        const description = strip_html(get_string(entry['Description']));
-        if(description!='') {
-            txt += `<p class="map-popup-description">${esc(description)}</p>`;
-        }
-        txt += '<p class="map-popup-actions">';
-        if(jobs!='') {
-            txt += `<a class="map-popup-jobs" target="_blank" href="${jobs}">Offres d'emploi<span class="visually-hidden"> chez ${esc(entry['Name'])} (nouvel onglet)</span></a>`;
-        }
-        const k = company_index(entry);
-        txt += `<button type="button" class="map-to-card" data-k="${k}">Fiche</button>`;
-        txt += `<button type="button" class="map-to-graph" data-k="${k}">Graphe</button></p></div>`;
-        return txt;
-    }
-    let txt = `<div class="map-popup"><p class="map-popup-title">${group['label']} <span class="map-popup-count">${plural_companies(N)}</span></p>`;
-    if(group['country_only']) {
-        txt += '<p class="map-popup-hint">Ville non précisée : position du pays.</p>';
-    }
-    txt += '<ul role="list">';
-    group['entries'].forEach((entry, k) => {
-        const jobs = get_string(entry['Jobs']);
-        const address = group['addresses'][k];
-        txt += `<li><span class="map-popup-company"><a target="_blank" href="${entry['url']}">${entry['Name']}${NEW_TAB}</a>`;
-        if(address) {
-            txt += `<span class="map-popup-address">${esc(address)}</span>`;
-        }
-        txt += '</span>';
-        if(jobs!='') {
-            txt += ` <a class="map-popup-jobs" target="_blank" href="${jobs}">Offres<span class="visually-hidden"> d'emploi chez ${esc(entry['Name'])} (nouvel onglet)</span></a>`;
-        }
-        txt += '</li>';
-    });
-    txt += `</ul><button type="button" class="map-to-list" data-target="${group['list_id']}">Voir dans la liste</button></div>`;
-    return txt;
-}
-
-function display_map(entries) {
-    MAP['ready'] = load_map_library().then(() => {
-        if(MAP['map']==null) create_map();
-        const [groups, N_unplaced] = map_groups(entries);
-        MAP['cluster'].clearLayers();
-        const markers = [];
-        MAP['stacks'] = [];
-        MAP['by-company'] = new Map();
-        for(const group of groups.values()) {
-            // one dot per company: the companies of a group (same position) are spread by map_spread
-            const stack = {'coords': group['coords'], 'markers': []};
-            group['entries'].forEach((entry, k) => {
-                const single = {...group, 'entries': [entry], 'addresses': [group['addresses'][k]]};
-                const employees = employees_count(entry);
-                const name = `${entry['Name']} (${group['label']})`;
-                const marker = L.marker(group['coords'], {
-                    'icon': map_icon(1, group['country_only'] ? 'map-country' : 'map-city', employees),
-                    'title': name, 'alt': name,
-                    'count': 1, 'keyboard': true,
-                    // the big dots below the small ones, so that a small company next to a big one stays clickable
-                    'zIndexOffset': -10*map_dot_size(employees),
-                });
-                marker.bindPopup(() => map_popup(single), {'maxWidth': 300, 'autoPanPadding': [20, 20]});
-                map_hover_popup(marker);
-                markers.push(marker);
-                const ki = company_index(entry);
-                if(!MAP['by-company'].has(ki)) MAP['by-company'].set(ki, []);
-                MAP['by-company'].get(ki).push({'marker': marker, 'coords': group['coords'], 'france': group['label'].indexOf('(')<0 && !group['country_only']});
-                stack.markers.push(marker);
-            });
-            if(stack.markers.length>1) MAP['stacks'].push(stack);
-        }
-        MAP['cluster'].addLayers(markers);
-        MAP['bounds'] = markers.length>0 ? L.latLngBounds(markers.map((m) => m.getLatLng())) : null;
-        MAP['map'].invalidateSize();
-        // the map opens on France (where most companies are); then the view stays where the user left it
-        // when a filter changes (the buttons above the map reframe on demand)
-        if(!MAP['framed']) map_frame('france');
-        MAP['framed'] = true;
-        map_spread();
-        // focus on one company (link "Carte" of a card): say it, with a way back to all the companies
-        const note = document.querySelector('#map-note');
-        if(MAP['focus']!=null) {
-            const entry = company_data['Listing'][MAP['focus']];
-            const N = markers.length;
-            note.innerHTML = `<span class="map-focus">Établissement${N>1 ? 's' : ''} de <strong>${esc(entry['Name'])}</strong> (${N}).</span> `
-                + '<button type="button" class="map-focus-reset">Afficher toutes les entreprises</button>';
-        }
-        else {
-            note.textContent = '';
-        }
-    }).catch((error) => {
-        document.querySelector('#map-note').textContent = 'La carte ne peut pas être chargée. ' + error.message;
-    });
-}
-
-function map_frame(frame) {
-    if(MAP['map']==null) return;
-    if(frame=='fit') {
-        if(MAP['bounds']!=null) MAP['map'].fitBounds(MAP['bounds'], {'padding': [30, 30], 'maxZoom': 11});
-        else MAP['map'].fitBounds(MAP_FRAMES['world']);
-        return;
-    }
-    MAP['map'].fitBounds(MAP_FRAMES[frame]);
-}
-
-map_element.addEventListener('click', (event) => {
-    const frame = event.target.closest('.map-frame');
-    if(frame) {
-        map_frame(frame.dataset.frame);
-        return;
-    }
-});
-
 // ---------------------------------------------------------------------------
-// Links between the list, the map and the graph
+// Links between the list and the graph
 // ---------------------------------------------------------------------------
 
 function scroll_to(element) {
@@ -1544,36 +1239,6 @@ function show_card(k) {
     scroll_to(card);
 }
 
-// The establishments of a company on the map (in France when it has some), with the popup of the first one
-// The map shows only the establishments of the company (in France when it has some); a single one is opened
-function show_on_map(k) {
-    MAP['focus'] = k;
-    UX['sorting']['map'].checked = true;
-    update_display();
-    MAP['ready'].then(() => {
-        const places = MAP['by-company'].get(k) || [];
-        if(places.length==0) return;
-        const french = places.filter((p) => p['france']);
-        const shown = french.length>0 ? french : places;
-        const map = MAP['map'];
-        if(shown.length==1) {
-            map.setView(shown[0]['coords'], 13);
-            setTimeout(() => MAP['cluster'].zoomToShowLayer(shown[0]['marker'], () => shown[0]['marker'].openPopup()), 350);
-        }
-        else {
-            map.fitBounds(L.latLngBounds(shown.map((p) => p['coords'])), {'padding': [40, 40], 'maxZoom': 12});
-        }
-        scroll_to(map_element);
-    });
-}
-
-map_element.addEventListener('click', (event) => {
-    if(event.target.closest('.map-focus-reset')) {
-        MAP['focus'] = null;
-        update_display();
-    }
-});
-
 // The company and its closest neighbors in the graph
 function show_in_graph(k) {
     UX['sorting']['graph'].checked = true;
@@ -1581,21 +1246,4 @@ function show_in_graph(k) {
     GRAPH['trail'] = [k];
     graph_render();
     scroll_to(GRAPH['element']);
-}
-
-// From a marker of the map to the heading of the place view
-function show_in_list(target_id) {
-    MAP['map'].closePopup();
-    UX['sorting']['list'].checked = true;
-    UX['sorting']['place'].checked = true;
-    update_display();
-    const jump = () => jump_to_target(document.getElementById(target_id));
-    if(document.documentElement.classList.contains('embedded') && window.parentIFrame!=undefined) {
-        // the list is much taller than the map: let the AFIG page resize the iframe first
-        window.parentIFrame.size();
-        setTimeout(jump, 250);
-    }
-    else {
-        jump();
-    }
 }

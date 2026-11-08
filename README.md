@@ -4,9 +4,10 @@
 
 Entreprises françaises, ou présentes en France, en lien avec l'informatique graphique : rendu, VFX, animation, jeu vidéo, CAO, simulation, vision, XR... Listing maintenu par l'[AFIG](https://www.asso-afig.fr).
 
-**Consulter le listing en ligne** (recherche, filtres par thème et par taille, vues liste, carte et graphe) :
+**Consulter le listing en ligne** (recherche, filtres par thème et par taille, vues liste et graphe) :
 - sur le site de l'AFIG : https://www.asso-afig.fr/site/entreprises/
 - ou directement : https://afig-asso.github.io/entreprises/
+- sur la carte de France, avec les équipes de recherche : https://afig-asso.github.io/cartographie/
 
 Le listing complet est aussi disponible plus bas dans ce fichier ([aller au listing](#listing)).
 
