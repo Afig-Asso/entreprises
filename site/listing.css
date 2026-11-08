@@ -691,11 +691,11 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 
 /* Liens d'une fiche vers la carte et le graphe */
 .company-goto { display: flex; gap: 0.35rem; margin-top: 0.45rem; }
-.company-goto button {
+.company-goto button, .company-goto a {
     font: inherit; font-size: 0.75rem; font-weight: 600; color: var(--afig-800); background: white;
     border: 1px solid var(--line-2); border-radius: 999px; padding: 0.1rem 0.6rem; cursor: pointer;
 }
-.company-goto button:hover, .company-goto button:focus-visible { border-color: var(--afig-700); background: var(--afig-50); }
+.company-goto button:hover, .company-goto button:focus-visible, .company-goto a:hover, .company-goto a:focus-visible { border-color: var(--afig-700); background: var(--afig-50); }
 .company.is-target { animation: company-target 2.4s ease-out; border-radius: var(--radius); }
 @keyframes company-target { 0%, 40% { box-shadow: 0 0 0 3px var(--afig); background: var(--afig-50); } 100% { box-shadow: 0 0 0 3px transparent; } }
 .graph-goto-row { float: right; display: flex; gap: 0.35rem; }

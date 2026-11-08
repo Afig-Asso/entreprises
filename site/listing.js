@@ -379,12 +379,25 @@ function company_on_map(entry) {
     return expand_places(entry['Place']).some((loc) => loc['Coordinates'] || places[map_place_key(loc['Country'], loc['City'])]);
 }
 
+// Carte de l'informatique graphique en France (entreprises et équipes de recherche) : lien vers une entreprise
+// qui a un lieu placé en France ; null sinon (elle reste alors sur la carte du monde de ce listing)
+const CARTO_URL = 'https://afig-asso.github.io/cartographie/';
+function carto_link(entry) {
+    const places = company_data['Places'] || {};
+    const in_france = expand_places(entry['Place']).some((loc) => loc['Country']=='France' && (loc['Coordinates'] || places[map_place_key('France', loc['City'])]));
+    return in_france ? CARTO_URL + '?entreprise=' + encodeURIComponent(entry['Name']) : null;
+}
+
 // Links of a card to the same company on the map and in the graph
 function company_links(entry) {
     const k = company_index(entry);
     const name = esc(entry['Name']);
     let txt = '<div class="company-goto">';
-    if(company_on_map(entry)) {
+    const carto = carto_link(entry);
+    if(carto) {
+        txt += `<a class="goto-carto" href="${esc(carto)}" target="_blank" rel="noopener">Carte<span class="visually-hidden"> : ${name}, avec les équipes de recherche proches${NEW_TAB}</span></a>`;
+    }
+    else if(company_on_map(entry)) {
         txt += `<button type="button" class="goto-map" data-k="${k}">Carte<span class="visually-hidden"> : ${name}</span></button>`;
     }
     txt += `<button type="button" class="goto-graph" data-k="${k}">Graphe<span class="visually-hidden"> : entreprises proches de ${name}</span></button>`;
@@ -1164,6 +1177,14 @@ function answer(data) {
     build_shortcuts();
 
     update_display();
+
+    // lien direct vers la fiche d'une entreprise : ?e=Nom (utilisé par la carte)
+    const wanted = new URLSearchParams(location.search).get('e');
+    if(wanted) {
+        const simple = (s) => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+        const k = data['Listing'].findIndex((entry) => simple(entry['Name'])==simple(wanted));
+        if(k>=0) show_card(k);
+    }
 }
 
 

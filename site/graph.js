@@ -764,7 +764,9 @@ function graph_neighbors(k0) {
     draw(k0, cx, cy, Math.max(12, node_radius(me.e)), listing[k0]['Name'], true);
 
     const themes = me.s.concat(me.a).join(', ');
-    const goto_map = company_on_map(listing[k0]) ? `<button type="button" class="graph-goto" data-goto="map" data-k="${k0}">Sur la carte</button>` : '';
+    const carto = carto_link(listing[k0]);
+    const goto_map = carto ? `<a class="graph-goto" href="${esc(carto)}" target="_blank" rel="noopener">Sur la carte${NEW_TAB}</a>`
+        : (company_on_map(listing[k0]) ? `<button type="button" class="graph-goto" data-goto="map" data-k="${k0}">Sur la carte</button>` : '');
     GRAPH['info'].innerHTML = `<div class="graph-goto-row"><button type="button" class="graph-goto" data-goto="card" data-k="${k0}">Fiche</button>${goto_map}</div>`
         + `<strong>${esc(listing[k0]['Name'])}</strong> · ${size_text(me.e)}${me.zones.length ? ' · ' + esc(me.zones.join(', ')) : ''}<br>`
         + `${esc(themes)}${me.k.length ? '<br><span class="graph-keywords">' + esc(me.k.join(', ')) + '</span>' : ''}`
