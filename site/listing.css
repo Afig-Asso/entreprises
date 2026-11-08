@@ -524,6 +524,18 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .graph-node.is-center { cursor: default; }
 .graph-node.is-dim, .graph-hull.is-dim { opacity: 0.18; }
 .graph-link.is-active { stroke: #534AB7; stroke-opacity: 0.9; }
+.graph-hull.is-zoomable { cursor: zoom-in; }
+.graph-hull.is-zoomable:hover { fill-opacity: 0.18; stroke-opacity: 0.8; }
+.graph-svg .graph-cluster-label.is-zoomable { pointer-events: auto; cursor: zoom-in; }
+.graph-cluster-label.is-zoomable:hover { text-decoration: underline; }
+.graph-cluster-label:focus { outline: none; }
+.graph-cluster-label:focus-visible { fill: var(--afig-800) !important; text-decoration: underline; }
+.graph-svg.is-zooming { pointer-events: none; }
+.graph-svg.is-entering > g { animation: graph-enter 0.3s ease-out; }
+@keyframes graph-enter { from { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .graph-svg.is-entering > g { animation: none; } }
+.graph-zoom { font: inherit; font-weight: 700; border: 0; background: none; padding: 0; color: var(--text); cursor: zoom-in; text-align: left; }
+.graph-zoom:hover, .graph-zoom:focus-visible { color: var(--afig-800); text-decoration: underline; }
 .graph-info { font-size: 0.88rem; color: var(--text-2); line-height: 1.55; margin: 0.75rem 0 0.4rem; }
 .graph-keywords { color: var(--afig-800); }
 .graph-legend { margin: 0.5rem 0 0; font-size: 0.82rem; color: var(--muted); }
