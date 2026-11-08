@@ -8089,3 +8089,601 @@
   Scientific-domain: [Rendu offline/VFX, Animation, Reconstruction]
   Application-domain: [Commerce/Marketing/Publicité, Art/Evenementiel]
   Keywords: [VFX, animation 3D, photogrammétrie, drone, production vidéo]
+
+- Name: Virtual Regatta
+  url: https://www.virtualregatta.com/
+  Description: Concepteur, développeur et éditeur de jeux de simulation de voile en ligne (Virtual Regatta Offshore et Inshore) qui reproduisent en temps réel les grandes courses au large ; filiale du groupe 52 Entertainment.
+  Place:
+    - City: Villeneuve-d'Ascq
+      Coordinates: [50.64312, 3.13562]
+      SIREN: '442178786'
+      Address: Sharewood Bâtiment B, 28 Rue Parmentier, 59650 Villeneuve-d'Ascq
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 35
+  Keywords: [simulation de voile, jeu en ligne, e-sailing, temps réel]
+
+- Name: Ludogram
+  url: https://ludogram.io/
+  Description: 'Studio lillois de jeux vidéo narratifs, multijoueurs et multiplateformes fondé en 2019 (Worlds of Aria, Heroes Never Die, Invokyr, Ascenders: Beyond the Peak).'
+  Place:
+    - City: Lille
+      Coordinates: [50.64195, 3.08887]
+      SIREN: '847885886'
+      Address: 4 Rue Gounod, 59800 Lille
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 35
+  Keywords: [jeu vidéo, multijoueur, jeu narratif, PC et consoles]
+
+- Name: Stereograph
+  url: https://www.stereograph.fr/
+  Description: Éditeur lillois de TEIA Suite, plateforme de jumeau numérique et d'hypervision des bâtiments permettant de visualiser un patrimoine immobilier en 2D et 3D et d'y connecter les données d'exploitation ; à l'origine studio d'images 3D pour l'architecture.
+  Place:
+    - City: Lille
+      Coordinates: [50.63184, 3.01921]
+      SIREN: '499724920'
+      Address: Euratechnologies, 2 Allée de la Haye du Temple, 59160 Lille
+  Scientific-domain: [Visualisation, Reconstruction, Web/Cloud/Big Data]
+  Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO]
+  Employees: 75
+  Keywords: [jumeau numérique, BIM, visualisation 3D, hypervision]
+
+- Name: Kazoo Animation
+  url: https://kazooanimation.com/
+  Description: Studio de prestation en animation 3D haut de gamme fondé en 2022 à la Plaine Images (Tourcoing), de la préproduction au compositing, membre du groupe Samka et partenaire de Blue Zoo (Lego City No Limits saison 4, Mojo Swoptops).
+  Place:
+    - City: Tourcoing
+      Coordinates: [50.70105, 3.15895]
+      SIREN: '920178241'
+      Address: 99A Boulevard Constantin Descat, 59200 Tourcoing
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 20
+  Keywords: [animation 3D, séries jeunesse, compositing, Plaine Images]
+
+- Name: ACFX
+  url: https://acfx.fr/
+  Description: 'Studio indépendant d''effets visuels de la Plaine Images (Tourcoing) travaillant sur des longs métrages et des séries : supervision de tournage, environnements CG, extensions de décors, animation, compositing ; exploite aussi un plateau de tournage de 500 m².'
+  Place:
+    - City: Tourcoing
+      Coordinates: [50.70128, 3.15827]
+      SIREN: '820799849'
+      Address: 99 Boulevard Constantin Descat, 59200 Tourcoing
+  Scientific-domain: [Rendu offline/VFX, Modélisation, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 4
+  Keywords: [effets visuels, compositing, long métrage, set extension]
+
+- Name: Holusion
+  url: https://holusion.com/fr/
+  Description: PME roubaisienne qui conçoit, fabrique et loue des dispositifs d'affichage holographique (de quelques centimètres à plus de 2 m) et crée les contenus 3D et applications interactives associés, notamment pour la valorisation du patrimoine culturel et scientifique.
+  Place:
+    - City: Roubaix
+      Coordinates: [50.69462, 3.16556]
+      SIREN: '802132464'
+      Address: 111 Avenue Jean Lebas, 59100 Roubaix
+  Scientific-domain: [Hardware, VR/AR, IHM/Haptique]
+  Application-domain: [Patrimoine/Culture, Commerce/Marketing/Publicité, Art/Evenementiel]
+  Employees: 4
+  Keywords: [hologramme, affichage 3D, contenus interactifs, muséographie]
+
+- Name: Studio Raclette
+  url: https://www.studioraclette.com/
+  Description: Studio 3D de la métropole lilloise fondé en 2021 par des anciens de grands studios européens, spécialisé en animation 3D, animation médicale, packshots, motion design, réalité virtuelle et scan 3D.
+  Place:
+    - City: Saint-André-lez-Lille
+      Coordinates: [50.65977, 3.04789]
+      SIREN: '902276450'
+      Address: 4B Avenue des Violettes, 59350 Saint-André-lez-Lille
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Commerce/Marketing/Publicité, Médical/Biologique]
+  Employees: 8
+  Keywords: [animation 3D, packshot, animation médicale, motion design]
+
+- Name: Creative Touch Studios
+  url: https://www.specialtouchstudios.com/
+  Description: Studio d'animation implanté à Valenciennes, adossé à la société de production Special Touch Studios de Sébastien Onomo, impliqué dans la fabrication de longs métrages d'animation comme Allah n'est pas obligé (Zaven Najjar).
+  Place:
+    - City: Valenciennes
+      Coordinates: [50.36246, 3.5254]
+      SIREN: '878861236'
+      Address: 13 Place de l'Hôpital Général, 59300 Valenciennes
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 4
+  Keywords: [animation, long métrage, Valenciennes]
+
+- Name: IronEqual
+  url: https://www.ironequal.com/
+  Description: Studio de jeu vidéo de cinq personnes installé à la Plaine Images (Tourcoing), qui développe depuis une dizaine d'années des jeux premium, mobiles et serious games.
+  Place:
+    - City: Tourcoing
+      Coordinates: [50.70105, 3.15895]
+      SIREN: '828464487'
+      Address: 99A Boulevard Constantin Descat, 59200 Tourcoing
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Entrainement/Formation/Serious Game]
+  Employees: 5
+  Keywords: [jeu vidéo, serious game, studio indépendant]
+
+- Name: Simaptic
+  url: https://simaptic.com/
+  Description: Deeptech lilloise associant réalité virtuelle et textile haptique pour la simulation médicale, notamment la formation à la réanimation cardiopulmonaire et à la prise en charge des hémorragies.
+  Place:
+    - City: Loos
+      Coordinates: [50.60314, 3.039]
+      SIREN: '919798009'
+      Address: Hub Eurasanté, 350 Avenue Eugène Avinée, 59120 Loos
+    - City: Tourcoing
+      Coordinates: [50.70105, 3.15895]
+      SIREN: '919798009'
+      Address: Imaginarium, 99A Boulevard Constantin Descat, 59200 Tourcoing
+  Scientific-domain: [VR/AR, IHM/Haptique, Simulation]
+  Application-domain: [Médical/Biologique, Entrainement/Formation/Serious Game]
+  Employees: 2
+  Keywords: [simulation médicale, haptique, réalité virtuelle, formation]
+
+- Name: VRAI Learning
+  url: https://vrailearning.com/
+  Description: Start-up lilloise de formation immersive qui produit des mises en situation en réalité virtuelle et des avatars conversationnels IA, utilisables sur PC, mobile et casque VR.
+  Place:
+    - City: Lille
+      Coordinates: [50.63957, 3.08507]
+      SIREN: '950841197'
+      Address: 29 Rue Pascal, 59800 Lille
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game]
+  Employees: 2
+  Keywords: [formation immersive, réalité virtuelle, avatars IA]
+
+- Name: Tchack
+  url: https://www.tchack.com/fr/
+  Description: Société de production et studio lillois créé en 2008 qui réalise des séries et films d'animation ainsi que des documentaires (Petit Malabar, première série entièrement fabriquée en interne, diffusée sur France Télévisions).
+  Place:
+    - City: Lille
+      Coordinates: [50.63053, 3.05709]
+      SIREN: '501686489'
+      Address: 92 Rue Léon Gambetta, 59000 Lille
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 4
+  Keywords: [séries d'animation, courts métrages, production]
+
+- Name: Warpfrog
+  url: https://warpfrog.com/
+  Description: 'Studio indépendant de jeu vidéo spécialisé en réalité virtuelle, créateur de Blade & Sorcery (PC VR) et Blade & Sorcery: Nomad (casques autonomes), avec une équipe internationale en télétravail.'
+  Place:
+    - City: Saint-Herblain
+      Coordinates: [47.2305, -1.62957]
+      SIREN: '848580965'
+      Address: Immeuble Asturia C, 4 Rue Edith Piaf, 44800 Saint-Herblain
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Simulation, Animation]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://warpfrog.com/all-jobs
+  Employees: 4
+  Keywords: [jeu VR, Blade & Sorcery, physique temps réel, Unity]
+
+- Name: Retail VR
+  url: https://www.retail-vr.com/
+  Description: 'Éditeur nantais d''une plateforme de merchandising 3D : planogrammes et magasins en 3D temps réel, jumeau numérique de points de vente, tests d''activations en réalité augmentée et moteur IA de conversion photo vers 3D (clients Carrefour, L''Oréal, Nestlé, Intermarché).'
+  Place:
+    - City: Nantes
+      Coordinates: [47.20645, -1.55962]
+      SIREN: '838839207'
+      Address: Halle 12, 5 Allée Frida Kahlo, 44200 Nantes
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Reconstruction, IA générative (image/3D)]
+  Application-domain: [Commerce/Marketing/Publicité]
+  Employees: 15
+  Keywords: [merchandising 3D, planogramme, jumeau numérique, réalité augmentée]
+
+- Name: Hera-MI
+  url: https://www.hera-mi.com/
+  Description: Medtech nantaise fondée en 2017 qui développe Breast-SlimView, logiciel d'aide à la décision par intelligence artificielle pour la mammographie 2D et la tomosynthèse.
+  Place:
+    - City: Saint-Herblain
+      Coordinates: [47.22228, -1.62044]
+      SIREN: '828871699'
+      Address: 4 Rue Duguay Trouin, 44800 Saint-Herblain
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Médical/Biologique]
+  Employees: 35
+  Keywords: [mammographie, tomosynthèse, IA, aide au diagnostic]
+
+- Name: Keosys
+  url: https://www.banook.com/
+  Description: Imaging CRO fondée en 2001 à Saint-Herblain, filiale du groupe Banook depuis 2024, qui centralise et analyse les images médicales des essais cliniques internationaux (phases I à IV) avec ses propres outils logiciels d'imagerie.
+  Place:
+    - City: Saint-Herblain
+      Coordinates: [47.23147, -1.62578]
+      SIREN: '434107769'
+      Address: 13 Impasse Serge Reggiani, 44800 Saint-Herblain
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]
+  Employees: 35
+  Keywords: [imagerie médicale, essais cliniques, lecture centralisée, RECIST]
+
+- Name: Beemoov
+  url: https://www.beemoov.com/
+  Description: Studio-éditeur nantais créé en 2006 de jeux gratuits sur navigateur et mobile, principalement des visual novels et jeux narratifs illustrés (Amour Sucré, Eldarya, Moonlight Lovers).
+  Place:
+    - City: Nantes
+      Coordinates: [47.22811, -1.57563]
+      SIREN: '492377908'
+      Address: 57 Boulevard Gaston Serpette, 44000 Nantes
+  Scientific-domain: [Animation, Web/Cloud/Big Data]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.beemoov.com/recrutement
+  Employees: 15
+  Keywords: [visual novel, jeu navigateur, jeu mobile, illustration 2D]
+
+- Name: Endroad
+  url: https://www.the-endroad.com/
+  Description: Studio indépendant de jeu vidéo fondé à Nantes en 2017, développeur de Fallback, Fallback 2, UFO Robot Grendizer et Court of the Dead sur PC et consoles.
+  Place:
+    - City: Nantes
+      Coordinates: [47.21269, -1.56375]
+      SIREN: '824787717'
+      Address: 6 B Rue Voltaire, 44000 Nantes
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 10
+  Keywords: [jeu vidéo, PC et consoles, jeu d'action, 3D temps réel]
+
+- Name: EODE
+  url: https://eode.studio/
+  Description: Studio transmédia de Couëron fondé en 2015 qui développe ses univers (Grinn's Universe) en jeux vidéo, animation, livres et jeux de rôle, et propose des solutions créatives interactives aux entreprises (marque WEKER).
+  Place:
+    - City: Couëron
+      Coordinates: [47.2122, -1.72037]
+      SIREN: '813990140'
+      Address: 72 ter Rue Jean Jaurès, 44220 Couëron
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
+  Employees: 15
+  Keywords: [transmédia, jeu vidéo, animation, univers]
+
+- Name: Holy Cap
+  url: https://www.holycapstudio.com/
+  Description: Studio indépendant nantais de jeu vidéo fondé en 2020, auteur du jeu de plateforme 2D Promenade (Switch, Xbox, PC, édité par Red Art Games, soutenu par le CNC).
+  Place:
+    - City: Nantes
+      Coordinates: [47.22191, -1.52612]
+      SIREN: '881516553'
+      Address: 8 Rue Bellier, 44000 Nantes
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 4
+  Keywords: [jeu indépendant, plateforme 2D, consoles]
+
+- Name: D-ICE Engineering
+  url: https://www.dice-engineering.com/
+  Description: 'Société nantaise d''ingénierie et d''édition logicielle pour la navigation et la performance des navires : simulation hydrodynamique, jumeaux numériques, routage météo (OCEANiCS, TACTiCS) et simulation d''opérations offshore (BOLTS).'
+  Place:
+    - City: Nantes
+      Coordinates: [47.24804, -1.55029]
+      SIREN: '809273329'
+      Address: 1 Rue de la Noë, 44300 Nantes
+  Scientific-domain: [Simulation, Analyse de données]
+  Application-domain: [Automobile/Navigation/Aviation, Énergie/Environnement]
+  Jobs: https://www.dice-engineering.com/carriere
+  Employees: 35
+  Keywords: [hydrodynamique, jumeau numérique, routage météo, naval]
+
+- Name: Sirehna
+  url: https://www.sirehna.com/
+  Description: Filiale de Naval Group basée à Bouguenais, spécialisée en hydrodynamique navale (bassin numérique, essais de maquettes), jumeaux numériques, systèmes de positionnement dynamique, drones de surface et aide à la décision optronique.
+  Place:
+    - City: Bouguenais
+      Coordinates: [47.15666, -1.58644]
+      SIREN: '337680342'
+      Address: Technocampus Océan, 5 Rue de l'Halbrane, 44340 Bouguenais
+  Scientific-domain: [Simulation, Vision]
+  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation]
+  Jobs: https://www.sirehna.com/careers/
+  Employees: 150
+  Keywords: [hydrodynamique, bassin numérique, jumeau numérique, naval]
+
+- Name: Imagin-VR
+  url: https://imagin-vr.com/
+  Description: 'Concepteur lavallois de solutions de réalité virtuelle sans casque (Cube-VR de type CAVE jusqu''à 5 écrans, Valise-VR brevetée, VR-Wall) pour la revue de maquettes 3D à l''échelle 1 dans l''industrie, la santé et l''éducation (clients : Orano, Sanofi, Thales, SNCF, Futuroscope).'
+  Place:
+    - City: Changé
+      Coordinates: [48.08894, -0.75486]
+      SIREN: '840529630'
+      Address: Maison de la Technopole, 6 rue Léonard de Vinci, 53810 Changé
+    - City: Changé
+      Coordinates: [48.08857, -0.75221]
+      SIREN: '840529630'
+      Address: Laval Virtual Center, rue Marie Curie, 53810 Changé
+  Scientific-domain: [VR/AR, Visualisation, Hardware]
+  Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique, Entrainement/Formation/Serious Game]
+  Employees: 2
+  Keywords: [CAVE, réalité virtuelle sans casque, visualisation 3D échelle 1, projection immersive]
+
+- Name: HRV Simulation
+  url: https://hrv-simulation.com/
+  Description: 'Éditeur de simulateurs médicaux et industriels combinant haptique, réalité virtuelle et capture de mouvement : Virteasy Dental (simulateur de chirurgie dentaire pour la formation), Nawo (analyse ergonomique et biomécanique) et vélo virtuel Cottos Medical pour les EHPAD.'
+  Place:
+    - City: Changé
+      Coordinates: [48.09068, -0.75266]
+      SIREN: '793796806'
+      Address: Centre d'affaires Technopolis, Bâtiment M, rue Louis de Broglie, 53810 Changé
+  Scientific-domain: [Simulation, IHM/Haptique, VR/AR, Acquisition]
+  Application-domain: [Médical/Biologique, Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [simulateur dentaire, retour haptique, simulation médicale, capture de mouvement, ergonomie]
+
+- Name: Inod
+  url: https://www.inod.solutions/
+  Description: Studio lavallois de solutions immersives (VR, AR, réalité mixte, configurateurs 3D, salons virtuels) éditeur de ScaleView, logiciel de revue de projets 3D en VR compatible Revit, SketchUp, SolidWorks ou CATIA (Laval Virtual Award 2019), et de Mix Design en réalité mixte.
+  Place:
+    - City: Laval
+      Coordinates: [48.08127, -0.75721]
+      SIREN: '819170325'
+      Address: Le Village by CA - La Licorne, 106 avenue Pierre de Coubertin, 53000 Laval
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Visualisation]
+  Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité, Entrainement/Formation/Serious Game]
+  Employees: 8
+  Keywords: [ScaleView, visite virtuelle, configurateur 3D, réalité mixte, salons virtuels]
+
+- Name: QB Technologies
+  url: https://qbtechnologies.fr/
+  Description: 'Bureau d''études mayennais en réalité virtuelle et augmentée, tracking, robotique et électronique embarquée : stands de tir XR, tables tangibles en réalité augmentée, arènes free-roaming en réalité mixte et robots de cadrage photo (QBOT) utilisés par l''AFP.'
+  Place:
+    - City: Louvigné
+      Coordinates: [48.06328, -0.63841]
+      SIREN: '851096701'
+      Address: 30 route de l'Étang, 53210 Louvigné
+  Scientific-domain: [VR/AR, Hardware, IHM/Haptique, Acquisition]
+  Application-domain: [Entrainement/Formation/Serious Game, Loisir Interactif/Immersion/Metavers, Sécurité/Défense]
+  Employees: 8
+  Keywords: [tracking, réalité mixte, interfaces tangibles, free roaming, bureau d'études XR]
+
+- Name: Leonard Technologies
+  url: https://leonard-rv.com/
+  Description: 'Éditeur de LEONARD, simulateur de peinture au pistolet en réalité virtuelle avec pistolet réel instrumenté, pour la formation, le recrutement et la programmation de robots de peinture (clients : John Deere, MBDA, Base aérienne 721).'
+  Place:
+    - City: Bonchamp-lès-Laval
+      Coordinates: [48.07346, -0.70369]
+      SIREN: '798337671'
+      Address: 31 rue de la Faux, 53960 Bonchamp-lès-Laval
+  Scientific-domain: [VR/AR, Simulation, IHM/Haptique]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
+  Employees: 3
+  Keywords: [simulateur de peinture, formation VR, peinture industrielle, robotique]
+
+- Name: RealityCAD
+  url: https://www.realitycad.com/
+  Description: Start-up lavalloise éditrice de RCad'Touch, application qui permet de visualiser et modifier en réalité virtuelle ou augmentée des projets 3D issus de logiciels de CAO, pour l'industrie.
+  Place:
+    - City: Laval
+      Coordinates: [48.0756, -0.7607]
+      SIREN: '885372318'
+      Address: Immeuble Le Trèfle, 34 place de la Gare, 53000 Laval
+  Scientific-domain: [VR/AR, Design/Fabrication]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Employees: 2
+  Keywords: [CAO immersive, réalité virtuelle, revue de conception, CFAO]
+
+- Name: preWatch
+  url: https://www.prewatch.io/
+  Description: Jeune société de Changé qui réalise par capture 3D et lidar sur site des jumeaux numériques photoréalistes de lieux réels, consultables dans un navigateur, pour l'événementiel, l'audiovisuel (repérages) et les gestionnaires de sites.
+  Place:
+    - City: Changé
+      Coordinates: [48.08894, -0.75486]
+      SIREN: '989536784'
+      Address: Maison de la Technopole, 6 rue Léonard de Vinci, 53810 Changé
+  Scientific-domain: [Reconstruction, Acquisition, Web/Cloud/Big Data]
+  Application-domain: [Art/Evenementiel, Architecture/BTP/Urbanisme, Cinéma/Films d'Animation/VFX]
+  Keywords: [jumeau numérique, lidar, capture 3D, visite virtuelle web]
+
+- Name: Magellium
+  url: https://www.magellium.com/
+  Description: Société d'ingénierie et éditeur de logiciels (groupe Magellium Artal) spécialisé en vision artificielle, observation de la Terre et surveillance de l'espace, géographie numérique et traitement d'image, avec un siège à Ramonville-Saint-Agne.
+  Place:
+    - City: Ramonville-Saint-Agne
+      Coordinates: [43.55349, 1.48335]
+      SIREN: '450550991'
+      Address: 1 Rue Ariane, 31520 Ramonville-Saint-Agne
+  Scientific-domain: [Vision, Imagerie, Analyse de données]
+  Application-domain: [Géospatial/Cartographie, Sécurité/Défense, Robotique/Systèmes autonomes]
+  Jobs: https://www.magellium.com/carriere/
+  Employees: 225
+  Keywords: [vision artificielle, observation de la Terre, traitement d'image, géo-intelligence]
+
+- Name: Donecle
+  url: https://www.donecle.com/
+  Description: Start-up toulousaine qui conçoit des drones autonomes d'inspection d'aéronefs (gamme Iris) couplés à des algorithmes d'analyse d'images pour détecter les défauts de surface ; clients dont Dassault Falcon Services et Japan Airlines.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.57706, 1.47903]
+      SIREN: '813450350'
+      Address: 55 Avenue Louis Breguet, 31400 Toulouse
+  Scientific-domain: [Vision, Acquisition, Imagerie]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO]
+  Jobs: https://donecle.taleez.com/
+  Employees: 35
+  Keywords: [inspection par drone, analyse d'images, aéronautique, détection de défauts]
+
+- Name: Delair
+  url: https://delair.aero/
+  Description: Constructeur toulousain de drones professionnels à voilure fixe et VTOL et de charges utiles EO/IR, utilisés notamment pour la cartographie, le relevé géospatial et la modélisation de jumeaux numériques, ainsi que pour la défense.
+  Place:
+    - City: Labège
+      Coordinates: [43.55375, 1.50888]
+      SIREN: '877643486'
+      Address: 676 Rue Max Planck, 31670 Labège
+  Scientific-domain: [Acquisition, Reconstruction, Hardware]
+  Application-domain: [Géospatial/Cartographie, Sécurité/Défense, Robotique/Systèmes autonomes]
+  Jobs: https://delair.teamtailor.com/jobs
+  Employees: 150
+  Keywords: [drones, cartographie aérienne, capteurs EO/IR, jumeau numérique]
+
+- Name: Picsellia
+  url: https://www.picsellia.com/
+  Description: Éditeur toulousain d'une plateforme MLOps dédiée à la vision par ordinateur (gestion et annotation de données image, entraînement, déploiement et suivi de modèles), utilisée par SGS, RTE ou Pellenc.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.60222, 1.44213]
+      SIREN: '883142689'
+      Address: 13 Rue Sainte-Ursule, 31000 Toulouse
+  Scientific-domain: [Vision, Pipeline/Outils de production, Web/Cloud/Big Data]
+  Application-domain: [Générique, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [vision par ordinateur, MLOps, annotation d'images, IA]
+
+- Name: Visiolab
+  url: https://www.visio-lab.com/
+  Description: Studio 3D toulousain (Visiolab Creative Factory) fondé en 2002, spécialisé en perspectives et films 3D d'architecture et en outils de commercialisation immobilière (showroom virtuel, configurateur, visites 360°), environ 300 projets par an.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.60211, 1.44674]
+      SIREN: '490432606'
+      Address: 5 Rue de la Pomme, 31000 Toulouse
+  Scientific-domain: [Rendu offline/VFX, Modélisation, Visualisation]
+  Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
+  Employees: 15
+  Keywords: [visualisation architecturale, rendu 3D, immobilier, visite 360]
+
+- Name: Umeshu Lovers
+  url: https://umeshulovers.com/
+  Description: Studio toulousain de développement visuel (concept art 2D/3D) et de game design fondé autour de Sylvain Sarrailh, travaillant pour Riot, Ubisoft, Illumination, Netflix ou Supercell, et associé au jeu Danghost.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.59761, 1.44732]
+      SIREN: '838003267'
+      Address: 16 Rue Mage, 31000 Toulouse
+  Scientific-domain: [Modélisation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
+  Employees: 15
+  Keywords: [concept art, développement visuel, jeu vidéo, prototypage]
+
+- Name: Rundisc
+  url: https://www.rundisc.io/
+  Description: Studio indépendant de jeu vidéo de l'agglomération toulousaine, auteur de Varion (2018) et du jeu d'aventure/énigmes Chants of Sennaar (2023), multi-récompensé.
+  Place:
+    - City: Fenouillet
+      Coordinates: [43.67822, 1.39396]
+      SIREN: '843454638'
+      Address: 2 Avenue des Sports, 31150 Fenouillet
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 4
+  Keywords: [jeu vidéo, indépendant, Chants of Sennaar]
+
+- Name: Pixience
+  url: https://www.pixience.com/
+  Description: 'Fabricant toulousain de systèmes d''imagerie dermatologique : vidéodermoscope C-Cube à restitution colorimétrique TrueColors, photographie corps entier BodyMapper et logiciels d''analyse 2D/3D de la peau.'
+  Place:
+    - City: Toulouse
+      Coordinates: [43.56984, 1.42241]
+      SIREN: '751108739'
+      Address: 12 Rue Louis Courtois de Viçose, 31100 Toulouse
+  Scientific-domain: [Imagerie, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Employees: 8
+  Keywords: [imagerie dermatologique, dermoscopie, colorimétrie, analyse cutanée]
+
+- Name: TerraNIS
+  url: https://www.terranis.fr/
+  Description: PME de Ramonville-Saint-Agne qui transforme l'imagerie satellite en services de géo-information pour l'agriculture (Pixagri), la viticulture (Oenoview), les territoires (Landia) et la forêt.
+  Place:
+    - City: Ramonville-Saint-Agne
+      Coordinates: [43.55191, 1.48905]
+      SIREN: '800815367'
+      Address: 12 Avenue de l'Europe, 31520 Ramonville-Saint-Agne
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Géospatial/Cartographie, Énergie/Environnement]
+  Employees: 15
+  Keywords: [imagerie satellite, télédétection, viticulture, agriculture de précision]
+
+- Name: Pixstart
+  url: https://pixstart.io/
+  Description: Start-up toulousaine de services de surveillance environnementale par satellite (Waterwatch, Woodwatch, Ecoscan, Buildspot) pour les gestionnaires d'eau, de forêts et d'infrastructures.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.60458, 1.4489]
+      SIREN: '823514393'
+      Address: 10 Rue Labéda, 31000 Toulouse
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Géospatial/Cartographie, Énergie/Environnement]
+  Employees: 8
+  Keywords: [imagerie satellite, surveillance environnementale, télédétection]
+
+- Name: EyeLights
+  url: https://eye-lights.com/
+  Description: Start-up de Labège qui conçoit des affichages tête haute en réalité augmentée pour casques de moto (EyeRide, visière GT-AIR 3 Smart avec SHOEI) et des lunettes HUD pour l'aviation générale.
+  Place:
+    - City: Labège
+      Coordinates: [43.53594, 1.51408]
+      SIREN: '819514118'
+      Address: 308 Allée du Lac, 31670 Labège
+  Scientific-domain: [VR/AR, Hardware, IHM/Haptique]
+  Application-domain: [Automobile/Navigation/Aviation, Loisir Interactif/Immersion/Metavers]
+  Employees: 35
+  Keywords: [réalité augmentée, affichage tête haute, moto, HUD]
+
+- Name: Airbus Defence and Space
+  url: https://www.airbus.com/en/space
+  Description: Établissement toulousain d'Airbus Defence and Space (satellites, observation de la Terre), dont l'activité Intelligence exploite l'imagerie satellite (Pléiades, SPOT) et la plateforme OneAtlas de traitement d'images à grande échelle.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.55996, 1.49622]
+      SIREN: '393341516'
+      Address: 31 Rue des Cosmonautes, 31400 Toulouse
+  Scientific-domain: [Imagerie, Simulation, Vision]
+  Application-domain: [Géospatial/Cartographie, Sécurité/Défense]
+  Keywords: [imagerie satellite, observation de la Terre, traitement d'images, spatial]
+
+- Name: IMA Solutions
+  url: https://ima-solutions.fr/
+  Description: Société créée en 2008 à Castanet-Tolosan, spécialisée dans la numérisation 3D du patrimoine culturel et scientifique (scan 3D, tomographie X) et les applications multimédias, visites virtuelles et AR/VR pour musées (British Museum, Louvre-Lens, Muséum de Toulouse).
+  Place:
+    - City: Castanet-Tolosan
+      Coordinates: [43.51968, 1.49249]
+      SIREN: '502376155'
+      Address: 7 bis Rue des Capucines, 31320 Castanet-Tolosan
+  Scientific-domain: [Acquisition, Reconstruction, VR/AR]
+  Application-domain: [Patrimoine/Culture]
+  Employees: 2
+  Keywords: [numérisation 3D, patrimoine, tomographie, musées]
+
+- Name: Imavita
+  url: https://imavita.com/
+  Description: CRO préclinique de l'agglomération toulousaine spécialisée en imagerie in vivo (bioluminescence, fluorescence, OCT, TEP/TDM) et en analyse d'images quantitative pour l'évaluation de thérapies.
+  Place:
+    - City: Escalquens
+      Coordinates: [43.51958, 1.53646]
+      SIREN: '790379747'
+      Address: 64 Impasse de la Viguerie, 31750 Escalquens
+  Scientific-domain: [Imagerie]
+  Application-domain: [Médical/Biologique]
+  Employees: 8
+  Keywords: [imagerie préclinique, analyse d'images, biomarqueurs]
+
+- Name: Saltitude
+  url: https://saltitude.fr/
+  Description: Studio de jeu vidéo toulousain fondé en 2022, qui développe le roguelite d'action Big Hunt.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.56984, 1.42241]
+      SIREN: '911134237'
+      Address: 12 Rue Louis Courtois de Viçose, 31100 Toulouse
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 4
+  Keywords: [jeu vidéo, roguelite, indépendant]
+
+- Name: SoulGame Studio
+  url: https://soulgamestudio.com/
+  Description: Studio de jeu vidéo toulousain dirigé par deux cousins, auteur de Minishoot' Adventures.
+  Place:
+    - City: Toulouse
+      Coordinates: [43.61747, 1.46406]
+      SIREN: '879960425'
+      Address: 20 Rue Rosette, 31500 Toulouse
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 2
+  Keywords: [jeu vidéo, indépendant, Minishoot' Adventures]

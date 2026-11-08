@@ -186,6 +186,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[ACFX](https://acfx.fr/)**  
+  * _Studio indépendant d'effets visuels de la Plaine Images (Tourcoing) travaillant sur des longs métrages et des séries : supervision de tournage, environnements CG, extensions de décors, animation, compositing ; exploite aussi un plateau de tournage de 500 m²._
+  * **Mots clés**: _effets visuels, compositing, long métrage, set extension_
+  * **Localisation**: Tourcoing
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[ACRI-ST](https://www.acri-st.fr/)**  
   * _PME de R&D de Sophia Antipolis (Biot) spécialisée dans l'observation de la Terre : traitement de données et d'images satellitaires pour l'océanographie, l'environnement et le spatial, avec un centre de traitement à Grasse._
   * **Mots clés**: _imagerie satellite, télédétection, observation de la Terre, SIG_
@@ -241,6 +250,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Vision, IA générative (image/3D), Modélisation
   * **Domaine d'application**: Sécurité/Défense, Générique
   * [_Jobs_](https://ai-verse.zohorecruit.eu/jobs/Careers)
+
+
+* **[Airbus Defence and Space](https://www.airbus.com/en/space)**  
+  * _Établissement toulousain d'Airbus Defence and Space (satellites, observation de la Terre), dont l'activité Intelligence exploite l'imagerie satellite (Pléiades, SPOT) et la plateforme OneAtlas de traitement d'images à grande échelle._
+  * **Mots clés**: _imagerie satellite, observation de la Terre, traitement d'images, spatial_
+  * **Localisation**: Toulouse
+  * **Domaine scientifique/technique**: Imagerie, Simulation, Vision
+  * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense
 
 
 * **[Aledia](https://www.aledia.com/)**  
@@ -679,6 +696,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
 
 
+* **[Beemoov](https://www.beemoov.com/)**  
+  * _Studio-éditeur nantais créé en 2006 de jeux gratuits sur navigateur et mobile, principalement des visual novels et jeux narratifs illustrés (Amour Sucré, Eldarya, Moonlight Lovers)._
+  * **Mots clés**: _visual novel, jeu navigateur, jeu mobile, illustration 2D_
+  * **Localisation**: Nantes
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation, Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.beemoov.com/recrutement)
+
+
 * **[Beicip-Franlab](https://www.beicip.com/)**  
   * _Filiale d'IFP Energies nouvelles qui édite la plateforme OpenFlow de modélisation géologique 3D, de bassin et de réservoir pour l'énergie et le stockage du CO2._
   * **Mots clés**: _modélisation géologique, simulation, visualisation 3D, géosciences_
@@ -1038,6 +1065,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
+* **[Creative Touch Studios](https://www.specialtouchstudios.com/)**  
+  * _Studio d'animation implanté à Valenciennes, adossé à la société de production Special Touch Studios de Sébastien Onomo, impliqué dans la fabrication de longs métrages d'animation comme Allah n'est pas obligé (Zaven Najjar)._
+  * **Mots clés**: _animation, long métrage, Valenciennes_
+  * **Localisation**: Valenciennes
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Creative VR3D](https://www.studio-creativevr3d.com/)**  
   * _Studio familial de création numérique basé à Cannes qui développe des jeux et expériences en réalité virtuelle (PlayStation VR2, SteamVR, Meta Quest), des applications immersives B2B et des contenus 3D._
   * **Mots clés**: _réalité virtuelle, jeu indépendant, console/PC, serious game, événementiel/mapping_
@@ -1073,6 +1109,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Simulation, Visualisation, VR/AR
   * **Domaine d'application**: Énergie/Environnement, Industrie/Manufacturing/CAO
+
+
+* **[D-ICE Engineering](https://www.dice-engineering.com/)**  
+  * _Société nantaise d'ingénierie et d'édition logicielle pour la navigation et la performance des navires : simulation hydrodynamique, jumeaux numériques, routage météo (OCEANiCS, TACTiCS) et simulation d'opérations offshore (BOLTS)._
+  * **Mots clés**: _hydrodynamique, jumeau numérique, routage météo, naval_
+  * **Localisation**: Nantes
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Simulation, Analyse de données
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Énergie/Environnement
+  * [_Jobs_](https://www.dice-engineering.com/carriere)
 
 
 * **[D-Tech 3D](https://www.dtech-3d.fr/)**  
@@ -1135,6 +1181,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Bordeaux
   * **Domaine scientifique/technique**: Pipeline/Outils de production, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Delair](https://delair.aero/)**  
+  * _Constructeur toulousain de drones professionnels à voilure fixe et VTOL et de charges utiles EO/IR, utilisés notamment pour la cartographie, le relevé géospatial et la modélisation de jumeaux numériques, ainsi que pour la défense._
+  * **Mots clés**: _drones, cartographie aérienne, capteurs EO/IR, jumeau numérique_
+  * **Localisation**: Labège
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Hardware
+  * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense, Robotique/Systèmes autonomes
+  * [_Jobs_](https://delair.teamtailor.com/jobs)
 
 
 * **[DentalMonitoring](https://dentalmonitoring.com/)**  
@@ -1233,6 +1289,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://dont-nod.com/en/careers/)
+
+
+* **[Donecle](https://www.donecle.com/)**  
+  * _Start-up toulousaine qui conçoit des drones autonomes d'inspection d'aéronefs (gamme Iris) couplés à des algorithmes d'analyse d'images pour détecter les défauts de surface ; clients dont Dassault Falcon Services et Japan Airlines._
+  * **Mots clés**: _inspection par drone, analyse d'images, aéronautique, détection de défauts_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Vision, Acquisition, Imagerie
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://donecle.taleez.com/)
 
 
 * **[Double Jack](https://maestro-game.com/)**  
@@ -1492,6 +1558,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Robotique/Systèmes autonomes, Médical/Biologique
 
 
+* **[Endroad](https://www.the-endroad.com/)**  
+  * _Studio indépendant de jeu vidéo fondé à Nantes en 2017, développeur de Fallback, Fallback 2, UFO Robot Grendizer et Court of the Dead sur PC et consoles._
+  * **Mots clés**: _jeu vidéo, PC et consoles, jeu d'action, 3D temps réel_
+  * **Localisation**: Nantes
+  * **Nombres d'employés**: 10
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[EODE](https://eode.studio/)**  
+  * _Studio transmédia de Couëron fondé en 2015 qui développe ses univers (Grinn's Universe) en jeux vidéo, animation, livres et jeux de rôle, et propose des solutions créatives interactives aux entreprises (marque WEKER)._
+  * **Mots clés**: _transmédia, jeu vidéo, animation, univers_
+  * **Localisation**: Couëron
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+
+
 * **[Epic Games](https://www.epicgames.com/site/en-US/home)**  
   * _Éditeur américain du moteur Unreal Engine et du jeu Fortnite, également propriétaire de l'Epic Games Store, de Quixel, RealityCapture et MetaHuman._
   * **Mots clés**: _Unreal Engine, AAA, free-to-play, multijoueur en ligne, Fortnite, MetaHuman, boutique de jeux_
@@ -1601,6 +1685,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Vision, Reconstruction, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+
+
+* **[EyeLights](https://eye-lights.com/)**  
+  * _Start-up de Labège qui conçoit des affichages tête haute en réalité augmentée pour casques de moto (EyeRide, visière GT-AIR 3 Smart avec SHOEI) et des lunettes HUD pour l'aviation générale._
+  * **Mots clés**: _réalité augmentée, affichage tête haute, moto, HUD_
+  * **Localisation**: Labège
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: VR/AR, Hardware, IHM/Haptique
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Loisir Interactif/Immersion/Metavers
 
 
 * **[Fairvision](https://www.fairvision.fr/)**  
@@ -1934,6 +2027,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://hectiq.games/careers)
 
 
+* **[Hera-MI](https://www.hera-mi.com/)**  
+  * _Medtech nantaise fondée en 2017 qui développe Breast-SlimView, logiciel d'aide à la décision par intelligence artificielle pour la mammographie 2D et la tomosynthèse._
+  * **Mots clés**: _mammographie, tomosynthèse, IA, aide au diagnostic_
+  * **Localisation**: Saint-Herblain
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Hexagon](https://hexagon.com/)**  
   * _Groupe suédois de technologies de mesure et de géospatial (Leica Geosystems, Intergraph) : métrologie, scanners laser, positionnement, logiciels pour l'industrie et les infrastructures._
   * **Mots clés**: _métrologie, lidar, scanner 3D, SIG, jumeau numérique, Leica Geosystems, industrie/usinage_
@@ -1976,6 +2078,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
 
 
+* **[Holusion](https://holusion.com/fr/)**  
+  * _PME roubaisienne qui conçoit, fabrique et loue des dispositifs d'affichage holographique (de quelques centimètres à plus de 2 m) et crée les contenus 3D et applications interactives associés, notamment pour la valorisation du patrimoine culturel et scientifique._
+  * **Mots clés**: _hologramme, affichage 3D, contenus interactifs, muséographie_
+  * **Localisation**: Roubaix
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Hardware, VR/AR, IHM/Haptique
+  * **Domaine d'application**: Patrimoine/Culture, Commerce/Marketing/Publicité, Art/Evenementiel
+
+
+* **[Holy Cap](https://www.holycapstudio.com/)**  
+  * _Studio indépendant nantais de jeu vidéo fondé en 2020, auteur du jeu de plateforme 2D Promenade (Switch, Xbox, PC, édité par Red Art Games, soutenu par le CNC)._
+  * **Mots clés**: _jeu indépendant, plateforme 2D, consoles_
+  * **Localisation**: Nantes
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Honikou](https://honikou.com/)**  
   * _Petit studio marseillais de jeux vidéo fondé en 2014, passé du mobile au PC et aux consoles (série Leo and Mia, Warchief, Kraken Odyssey)._
   * **Mots clés**: _jeu indépendant, mobile, console/PC_
@@ -1983,6 +2103,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[HRV Simulation](https://hrv-simulation.com/)**  
+  * _Éditeur de simulateurs médicaux et industriels combinant haptique, réalité virtuelle et capture de mouvement : Virteasy Dental (simulateur de chirurgie dentaire pour la formation), Nawo (analyse ergonomique et biomécanique) et vélo virtuel Cottos Medical pour les EHPAD._
+  * **Mots clés**: _simulateur dentaire, retour haptique, simulation médicale, capture de mouvement, ergonomie_
+  * **Localisation**: Changé
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Simulation, IHM/Haptique, VR/AR, Acquisition
+  * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
 
 
 * **[Huawei Nice Research Center](https://www.huawei.com/fr/)** (Huawei Technologies France - Nice Research Center) 
@@ -2091,6 +2220,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.illuminationstudiosparis.com/careers/)
 
 
+* **[IMA Solutions](https://ima-solutions.fr/)**  
+  * _Société créée en 2008 à Castanet-Tolosan, spécialisée dans la numérisation 3D du patrimoine culturel et scientifique (scan 3D, tomographie X) et les applications multimédias, visites virtuelles et AR/VR pour musées (British Museum, Louvre-Lens, Muséum de Toulouse)._
+  * **Mots clés**: _numérisation 3D, patrimoine, tomographie, musées_
+  * **Localisation**: Castanet-Tolosan
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, VR/AR
+  * **Domaine d'application**: Patrimoine/Culture
+
+
 * **[Imag'ing](https://www.imag-ing.com/)**  
   * _Bureau d'études alsacien spécialisé dans le relevé 3D par scanner laser et photogrammétrie, la métrologie, le scan-to-BIM et les jumeaux numériques industriels._
   * **Mots clés**: _scanner 3D, photogrammétrie, nuage de points, jumeau numérique, métrologie_
@@ -2106,6 +2244,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Analyse de données, Imagerie
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Imagin-VR](https://imagin-vr.com/)**  
+  * _Concepteur lavallois de solutions de réalité virtuelle sans casque (Cube-VR de type CAVE jusqu'à 5 écrans, Valise-VR brevetée, VR-Wall) pour la revue de maquettes 3D à l'échelle 1 dans l'industrie, la santé et l'éducation (clients : Orano, Sanofi, Thales, SNCF, Futuroscope)._
+  * **Mots clés**: _CAVE, réalité virtuelle sans casque, visualisation 3D échelle 1, projection immersive_
+  * **Localisation**: Changé, Changé
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: VR/AR, Visualisation, Hardware
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique, Entrainement/Formation/Serious Game
 
 
 * **[Imagination Technologies](https://www.imaginationtech.com/)**  
@@ -2143,6 +2290,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
+
+
+* **[Imavita](https://imavita.com/)**  
+  * _CRO préclinique de l'agglomération toulousaine spécialisée en imagerie in vivo (bioluminescence, fluorescence, OCT, TEP/TDM) et en analyse d'images quantitative pour l'évaluation de thérapies._
+  * **Mots clés**: _imagerie préclinique, analyse d'images, biomarqueurs_
+  * **Localisation**: Escalquens
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Imagerie
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Immersion](https://www.immersion.fr/)**  
@@ -2242,6 +2398,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.innodura.fr/recrutement-2/)
 
 
+* **[Inod](https://www.inod.solutions/)**  
+  * _Studio lavallois de solutions immersives (VR, AR, réalité mixte, configurateurs 3D, salons virtuels) éditeur de ScaleView, logiciel de revue de projets 3D en VR compatible Revit, SketchUp, SolidWorks ou CATIA (Laval Virtual Award 2019), et de Mix Design en réalité mixte._
+  * **Mots clés**: _ScaleView, visite virtuelle, configurateur 3D, réalité mixte, salons virtuels_
+  * **Localisation**: Laval
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Visualisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité, Entrainement/Formation/Serious Game
+
+
 * **[InSimo](https://www.insimo.com/)**  
   * _Éditeur de simulateurs logiciels pour la formation aux gestes médicaux et chirurgicaux (ponctions échoguidées, chirurgie robotique, cataracte pour HelpMeSee, sutures pour VirtaMed)._
   * **Mots clés**: _simulation médicale, chirurgie assistée, formation professionnelle, simulation physique, échographie, chirurgie robotique_
@@ -2286,6 +2451,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, VR/AR, Visualisation
   * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
+
+
+* **[IronEqual](https://www.ironequal.com/)**  
+  * _Studio de jeu vidéo de cinq personnes installé à la Plaine Images (Tourcoing), qui développe depuis une dizaine d'années des jeux premium, mobiles et serious games._
+  * **Mots clés**: _jeu vidéo, serious game, studio indépendant_
+  * **Localisation**: Tourcoing
+  * **Nombres d'employés**: 5
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Entrainement/Formation/Serious Game
 
 
 * **[Irregular Shapes](https://irregular-shapes.com/)**  
@@ -2342,6 +2516,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie
+
+
+* **[Kazoo Animation](https://kazooanimation.com/)**  
+  * _Studio de prestation en animation 3D haut de gamme fondé en 2022 à la Plaine Images (Tourcoing), de la préproduction au compositing, membre du groupe Samka et partenaire de Blue Zoo (Lego City No Limits saison 4, Mojo Swoptops)._
+  * **Mots clés**: _animation 3D, séries jeunesse, compositing, Plaine Images_
+  * **Localisation**: Tourcoing
+  * **Nombres d'employés**: 20
+  * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Keosys](https://www.banook.com/)**  
+  * _Imaging CRO fondée en 2001 à Saint-Herblain, filiale du groupe Banook depuis 2024, qui centralise et analyse les images médicales des essais cliniques internationaux (phases I à IV) avec ses propres outils logiciels d'imagerie._
+  * **Mots clés**: _imagerie médicale, essais cliniques, lecture centralisée, RECIST_
+  * **Localisation**: Saint-Herblain
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Kermap](https://kermap.com/)**  
@@ -2476,6 +2668,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Mode/Vêtements/Accessoires
 
 
+* **[Leonard Technologies](https://leonard-rv.com/)**  
+  * _Éditeur de LEONARD, simulateur de peinture au pistolet en réalité virtuelle avec pistolet réel instrumenté, pour la formation, le recrutement et la programmation de robots de peinture (clients : John Deere, MBDA, Base aérienne 721)._
+  * **Mots clés**: _simulateur de peinture, formation VR, peinture industrielle, robotique_
+  * **Localisation**: Bonchamp-lès-Laval
+  * **Nombres d'employés**: 3
+  * **Domaine scientifique/technique**: VR/AR, Simulation, IHM/Haptique
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+
+
 * **[Les Androïds Associés](https://www.androids.fr/)**  
   * _Studio de prévisualisation (previs) fondé en 2010 à Paris, qui conçoit en 3D les séquences de films en prises de vues réelles, VFX et animation._
   * **Mots clés**: _prévisualisation, previs, animation 3D, long métrage, effets visuels_
@@ -2595,6 +2796,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel, Patrimoine/Culture
 
 
+* **[Ludogram](https://ludogram.io/)**  
+  * _Studio lillois de jeux vidéo narratifs, multijoueurs et multiplateformes fondé en 2019 (Worlds of Aria, Heroes Never Die, Invokyr, Ascenders: Beyond the Peak)._
+  * **Mots clés**: _jeu vidéo, multijoueur, jeu narratif, PC et consoles_
+  * **Localisation**: Lille
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Lumiscaphe](https://lumiscaphe.com/)**  
   * _Éditeur du logiciel Patchwork 3D et de solutions de rendu temps réel et de configurateurs 3D pour le design industriel._
   * **Mots clés**: _Patchwork 3D, rendu temps réel, e-commerce/configurateur 3D, design industriel, automobile, Blender_
@@ -2698,6 +2908,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Magellium](https://www.magellium.com/)**  
+  * _Société d'ingénierie et éditeur de logiciels (groupe Magellium Artal) spécialisé en vision artificielle, observation de la Terre et surveillance de l'espace, géographie numérique et traitement d'image, avec un siège à Ramonville-Saint-Agne._
+  * **Mots clés**: _vision artificielle, observation de la Terre, traitement d'image, géo-intelligence_
+  * **Localisation**: Ramonville-Saint-Agne
+  * **Nombres d'employés**: 225
+  * **Domaine scientifique/technique**: Vision, Imagerie, Analyse de données
+  * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense, Robotique/Systèmes autonomes
+  * [_Jobs_](https://www.magellium.com/carriere/)
 
 
 * **[Magic Design Studios](https://www.magicdesignstudios.com/)**  
@@ -3636,6 +3856,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/photoroom)
 
 
+* **[Picsellia](https://www.picsellia.com/)**  
+  * _Éditeur toulousain d'une plateforme MLOps dédiée à la vision par ordinateur (gestion et annotation de données image, entraînement, déploiement et suivi de modèles), utilisée par SGS, RTE ou Pellenc._
+  * **Mots clés**: _vision par ordinateur, MLOps, annotation d'images, IA_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Vision, Pipeline/Outils de production, Web/Cloud/Big Data
+  * **Domaine d'application**: Générique, Industrie/Manufacturing/CAO
+
+
 * **[Piece of Cake Studios](https://www.pieceofcake-studios.com/)**  
   * _Studio parisien fondé par des anciens d'Ankama, Eden Games et Eugen Systems, spécialiste des jeux 3D coopératifs (Hacktag, Dark Hours, jeu d'horreur coopératif vendu à plus de 500 000 exemplaires)._
   * **Mots clés**: _jeu coopératif, multijoueur en ligne, console/PC, jeu indépendant_
@@ -3689,6 +3918,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Rennes
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Pixience](https://www.pixience.com/)**  
+  * _Fabricant toulousain de systèmes d'imagerie dermatologique : vidéodermoscope C-Cube à restitution colorimétrique TrueColors, photographie corps entier BodyMapper et logiciels d'analyse 2D/3D de la peau._
+  * **Mots clés**: _imagerie dermatologique, dermoscopie, colorimétrie, analyse cutanée_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Imagerie, Acquisition
+  * **Domaine d'application**: Médical/Biologique
+
+
+* **[Pixstart](https://pixstart.io/)**  
+  * _Start-up toulousaine de services de surveillance environnementale par satellite (Waterwatch, Woodwatch, Ecoscan, Buildspot) pour les gestionnaires d'eau, de forêts et d'infrastructures._
+  * **Mots clés**: _imagerie satellite, surveillance environnementale, télédétection_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement
 
 
 * **[Playdigious](https://playdigious.com/)**  
@@ -3787,6 +4034,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[preWatch](https://www.prewatch.io/)**  
+  * _Jeune société de Changé qui réalise par capture 3D et lidar sur site des jumeaux numériques photoréalistes de lieux réels, consultables dans un navigateur, pour l'événementiel, l'audiovisuel (repérages) et les gestionnaires de sites._
+  * **Mots clés**: _jumeau numérique, lidar, capture 3D, visite virtuelle web_
+  * **Localisation**: Changé
+  * **Domaine scientifique/technique**: Reconstruction, Acquisition, Web/Cloud/Big Data
+  * **Domaine d'application**: Art/Evenementiel, Architecture/BTP/Urbanisme, Cinéma/Films d'Animation/VFX
+
+
 * **[Primaa](https://primaalab.com/)**  
   * _Diagnostic du cancer par IA et analyse d'images de lames histologiques (Cleo Breast, Cleo Skin)._
   * **Mots clés**: _diagnostic, anatomopathologie, deep learning, oncologie, lames histologiques, CE-IVDR_
@@ -3859,6 +4114,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Générique
 
 
+* **[QB Technologies](https://qbtechnologies.fr/)**  
+  * _Bureau d'études mayennais en réalité virtuelle et augmentée, tracking, robotique et électronique embarquée : stands de tir XR, tables tangibles en réalité augmentée, arènes free-roaming en réalité mixte et robots de cadrage photo (QBOT) utilisés par l'AFP._
+  * **Mots clés**: _tracking, réalité mixte, interfaces tangibles, free roaming, bureau d'études XR_
+  * **Localisation**: Louvigné
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: VR/AR, Hardware, IHM/Haptique, Acquisition
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Loisir Interactif/Immersion/Metavers, Sécurité/Défense
+
+
 * **[Quantacell](https://www.quantacell.com/)**  
   * _Analyse d'images biomédicales par IA (histologie, organoïdes 3D) : logiciels HistoMetriX, AssayScope._
   * **Mots clés**: _imagerie médicale, histologie, organoïdes 3D, deep learning, microscopie, segmentation_
@@ -3917,6 +4181,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[RealityCAD](https://www.realitycad.com/)**  
+  * _Start-up lavalloise éditrice de RCad'Touch, application qui permet de visualiser et modifier en réalité virtuelle ou augmentée des projets 3D issus de logiciels de CAO, pour l'industrie._
+  * **Mots clés**: _CAO immersive, réalité virtuelle, revue de conception, CFAO_
+  * **Localisation**: Laval
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: VR/AR, Design/Fabrication
+  * **Domaine d'application**: Industrie/Manufacturing/CAO
+
+
 * **[Rebound](https://www.reboundcg.com/)**  
   * _Studio de développement et d'édition de jeux vidéo fondé en 2017 (Rebound Capital Games), auteur de la série Tennis Manager et du roguelite Furyball Rogue Revenge, qui propose aussi du développement pour d'autres studios._
   * **Mots clés**: _jeu vidéo, édition, jeu de sport, Tennis Manager, roguelite_
@@ -3961,6 +4234,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Gond-Pontouvre
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Retail VR](https://www.retail-vr.com/)**  
+  * _Éditeur nantais d'une plateforme de merchandising 3D : planogrammes et magasins en 3D temps réel, jumeau numérique de points de vente, tests d'activations en réalité augmentée et moteur IA de conversion photo vers 3D (clients Carrefour, L'Oréal, Nestlé, Intermarché)._
+  * **Mots clés**: _merchandising 3D, planogramme, jumeau numérique, réalité augmentée_
+  * **Localisation**: Nantes
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Reconstruction, IA générative (image/3D)
+  * **Domaine d'application**: Commerce/Marketing/Publicité
 
 
 * **[Revelt](https://www.revelt-vs.com/)**  
@@ -4017,6 +4299,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
+* **[Rundisc](https://www.rundisc.io/)**  
+  * _Studio indépendant de jeu vidéo de l'agglomération toulousaine, auteur de Varion (2018) et du jeu d'aventure/énigmes Chants of Sennaar (2023), multi-récompensé._
+  * **Mots clés**: _jeu vidéo, indépendant, Chants of Sennaar_
+  * **Localisation**: Fenouillet
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Safran.AI](https://www.safran-group.com/companies/safran-ai)**  
   * _Ex-Preligens, filiale IA de Safran Electronics & Defense qui analyse automatiquement par deep learning l'imagerie satellite et aérienne pour le renseignement._
   * **Mots clés**: _imagerie satellite, vision par ordinateur, deep learning, défense_
@@ -4032,6 +4323,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Courbevoie, International
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO
+
+
+* **[Saltitude](https://saltitude.fr/)**  
+  * _Studio de jeu vidéo toulousain fondé en 2022, qui développe le roguelite d'action Big Hunt._
+  * **Mots clés**: _jeu vidéo, roguelite, indépendant_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[SAMP](https://samp.ai/)**  
@@ -4223,6 +4523,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Simaptic](https://simaptic.com/)**  
+  * _Deeptech lilloise associant réalité virtuelle et textile haptique pour la simulation médicale, notamment la formation à la réanimation cardiopulmonaire et à la prise en charge des hémorragies._
+  * **Mots clés**: _simulation médicale, haptique, réalité virtuelle, formation_
+  * **Localisation**: Loos, Tourcoing
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: VR/AR, IHM/Haptique, Simulation
+  * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
+
+
 * **[Simerics](https://www.simerics.com/)**  
   * _Éditeur de logiciels de simulation CFD (Simerics-MP, PumpLinx) spécialisés dans les écoulements multiphasiques, la cavitation et les pompes et moteurs._
   * **Mots clés**: _simulation de fluides, CFD, maillage automatique, cavitation, automobile, aéronautique_
@@ -4240,6 +4549,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Reconstruction, Simulation, Visualisation
   * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme
   * [_Jobs_](https://siradel.com/fr/carriere/)
+
+
+* **[Sirehna](https://www.sirehna.com/)**  
+  * _Filiale de Naval Group basée à Bouguenais, spécialisée en hydrodynamique navale (bassin numérique, essais de maquettes), jumeaux numériques, systèmes de positionnement dynamique, drones de surface et aide à la décision optronique._
+  * **Mots clés**: _hydrodynamique, bassin numérique, jumeau numérique, naval_
+  * **Localisation**: Bouguenais
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Simulation, Vision
+  * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.sirehna.com/careers/)
 
 
 * **[Sixense](https://www.sixense-group.com/)**  
@@ -4323,6 +4642,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[SoulGame Studio](https://soulgamestudio.com/)**  
+  * _Studio de jeu vidéo toulousain dirigé par deux cousins, auteur de Minishoot' Adventures._
+  * **Mots clés**: _jeu vidéo, indépendant, Minishoot' Adventures_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[SpirOPS](https://www.spirops.com/)**  
   * _Laboratoire indépendant d'IA depuis 2004 : simulateur de foules, moteur d'animation procédurale temps réel, IA décisionnelle pour véhicules et trains autonomes (Stellantis, SNCF, Alstom)._
   * **Mots clés**: _simulation de foules, animation procédurale, véhicule autonome, agents autonomes, IA décisionnelle, ferroviaire_
@@ -4376,6 +4704,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://www.steamrolleranimation.com/careers)
+
+
+* **[Stereograph](https://www.stereograph.fr/)**  
+  * _Éditeur lillois de TEIA Suite, plateforme de jumeau numérique et d'hypervision des bâtiments permettant de visualiser un patrimoine immobilier en 2D et 3D et d'y connecter les données d'exploitation ; à l'origine studio d'images 3D pour l'architecture._
+  * **Mots clés**: _jumeau numérique, BIM, visualisation 3D, hypervision_
+  * **Localisation**: Lille
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Visualisation, Reconstruction, Web/Cloud/Big Data
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO
 
 
 * **[Stereolabs](https://www.stereolabs.com/)**  
@@ -4455,6 +4792,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Simulation
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Sécurité/Défense, Patrimoine/Culture, Jeu Vidéo
   * [_Jobs_](https://www.studio-nyx.com/jobs)
+
+
+* **[Studio Raclette](https://www.studioraclette.com/)**  
+  * _Studio 3D de la métropole lilloise fondé en 2021 par des anciens de grands studios européens, spécialisé en animation 3D, animation médicale, packshots, motion design, réalité virtuelle et scan 3D._
+  * **Mots clés**: _animation 3D, packshot, animation médicale, motion design_
+  * **Localisation**: Saint-André-lez-Lille
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Médical/Biologique
 
 
 * **[Subsea Tech](https://www.subsea-tech.com/)**  
@@ -4598,6 +4944,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Tchack](https://www.tchack.com/fr/)**  
+  * _Société de production et studio lillois créé en 2008 qui réalise des séries et films d'animation ainsi que des documentaires (Petit Malabar, première série entièrement fabriquée en interne, diffusée sur France Télévisions)._
+  * **Mots clés**: _séries d'animation, courts métrages, production_
+  * **Localisation**: Lille
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Team Empreintes](https://linktr.ee/empreintes_Studio)**  
   * _Studio indépendant de jeux non violents et émotionnels, dont le premier jeu Fireside Feelings a été nommé aux Pégases 2025._
   * **Mots clés**: _jeu vidéo, jeu indépendant, jeu narratif_
@@ -4650,6 +5005,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Visualisation
   * **Domaine d'application**: Générique
   * [_Jobs_](https://www.techviz.net/careers/)
+
+
+* **[TerraNIS](https://www.terranis.fr/)**  
+  * _PME de Ramonville-Saint-Agne qui transforme l'imagerie satellite en services de géo-information pour l'agriculture (Pixagri), la viticulture (Oenoview), les territoires (Landia) et la forêt._
+  * **Mots clés**: _imagerie satellite, télédétection, viticulture, agriculture de précision_
+  * **Localisation**: Ramonville-Saint-Agne
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement
 
 
 * **[Thales](https://www.thalesgroup.com/fr)**   :small_orange_diamond: _[Entreprise majeure avec R&D avancée en France]_
@@ -4892,6 +5256,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
 
 
+* **[Umeshu Lovers](https://umeshulovers.com/)**  
+  * _Studio toulousain de développement visuel (concept art 2D/3D) et de game design fondé autour de Sylvain Sarrailh, travaillant pour Riot, Ubisoft, Illumination, Netflix ou Supercell, et associé au jeu Danghost._
+  * **Mots clés**: _concept art, développement visuel, jeu vidéo, prototypage_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Modélisation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+
+
 * **[Unique Animation](https://uniqueanimation.com/)**  
   * _Prestataire de production exécutive et de fabrication de séries d'animation 2D numérique haut de gamme, de la préproduction au compositing (Les Sisters, Loup, Viking Skool pour Samka)._
   * **Mots clés**: _animation 2D, séries TV, production exécutive, compositing_
@@ -5029,6 +5402,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
 
 
+* **[Virtual Regatta](https://www.virtualregatta.com/)**  
+  * _Concepteur, développeur et éditeur de jeux de simulation de voile en ligne (Virtual Regatta Offshore et Inshore) qui reproduisent en temps réel les grandes courses au large ; filiale du groupe 52 Entertainment._
+  * **Mots clés**: _simulation de voile, jeu en ligne, e-sailing, temps réel_
+  * **Localisation**: Villeneuve-d'Ascq
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Virtualis](https://www.virtualisvr.com/)**  
   * _Éditeur de solutions de rééducation en réalité virtuelle pour kinésithérapeutes (PhysioVR, BalanceVR pour les troubles de l'équilibre et vestibulaires, plateformes StaticVR et MotionVR)._
   * **Mots clés**: _réalité virtuelle, rééducation, troubles vestibulaires, kinésithérapie, dispositif médical, plateforme dynamique_
@@ -5093,6 +5475,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Visiolab](https://www.visio-lab.com/)**  
+  * _Studio 3D toulousain (Visiolab Creative Factory) fondé en 2002, spécialisé en perspectives et films 3D d'architecture et en outils de commercialisation immobilière (showroom virtuel, configurateur, visites 360°), environ 300 projets par an._
+  * **Mots clés**: _visualisation architecturale, rendu 3D, immobilier, visite 360_
+  * **Localisation**: Toulouse
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Visualisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
+
+
 * **[Vivement Lundi !](https://www.vivement-lundi.com/)**  
   * _Studio et société de production rennaise de films et séries d'animation en stop motion et 2D (Mémorable, nommé aux Oscars ; Interdit aux chiens et aux Italiens)._
   * **Mots clés**: _stop motion, animation 2D, long métrage, court métrage_
@@ -5109,6 +5500,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/Conifer
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+
+
+* **[VRAI Learning](https://vrailearning.com/)**  
+  * _Start-up lilloise de formation immersive qui produit des mises en situation en réalité virtuelle et des avatars conversationnels IA, utilisables sur PC, mobile et casque VR._
+  * **Mots clés**: _formation immersive, réalité virtuelle, avatars IA_
+  * **Localisation**: Lille
+  * **Nombres d'employés**: 2
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Entrainement/Formation/Serious Game
 
 
 * **[Wacom](https://www.wacom.com/)**  
@@ -5137,6 +5537,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Simulation, IHM/Haptique
   * **Domaine d'application**: Robotique/Systèmes autonomes
   * [_Jobs_](https://www.welcometothejungle.com/en/companies/wandercraft/jobs)
+
+
+* **[Warpfrog](https://warpfrog.com/)**  
+  * _Studio indépendant de jeu vidéo spécialisé en réalité virtuelle, créateur de Blade & Sorcery (PC VR) et Blade & Sorcery: Nomad (casques autonomes), avec une équipe internationale en télétravail._
+  * **Mots clés**: _jeu VR, Blade & Sorcery, physique temps réel, Unity_
+  * **Localisation**: Saint-Herblain
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Simulation, Animation
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://warpfrog.com/all-jobs)
 
 
 * **[Wassa](https://wassa.io/fr/)**  
