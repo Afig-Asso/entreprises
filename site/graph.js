@@ -74,6 +74,19 @@ function company_zones(entry) {
     return [...zones];
 }
 
+// Short location of a company, shown under its name: French cities first (at most 2, then "+N"),
+// otherwise the countries
+function company_where(entry) {
+    const fr = [], abroad = [];
+    for(const p of get_list_places_exhaustive(get_list_places(entry['Place']))) {
+        const city = String(p['City'] || '').trim(), country = String(p['Country'] || '').trim();
+        if(country=='France') { if(city!='' && !fr.includes(city)) fr.push(city); }
+        else if(country!='' && !abroad.includes(country)) abroad.push(country);
+    }
+    const L = fr.length ? fr : abroad;
+    return L.length<=2 ? L.join(', ') : `${L.slice(0, 2).join(', ')} +${L.length - 2}`;
+}
+
 function graph_features() {
     if(GRAPH['features']==null) {
         GRAPH['features'] = company_data['Listing'].map((entry) => ({
@@ -82,6 +95,7 @@ function graph_features() {
             'k': as_list(entry['Keywords']),
             'e': employees_count(entry),
             'zones': company_zones(entry),
+            'where': company_where(entry),
         }));
     }
     return GRAPH['features'];
@@ -658,11 +672,14 @@ function graph_labels(focus) {
         if(r<6) continue;  // too small: the name shows on hover and in the list
         const max = Math.max(8, Math.floor((2*r + 50)/6.2));
         const name = node_name(n).length>max ? node_name(n).slice(0, max - 1) + '…' : node_name(n);
-        const width = name.length*6.2;
-        const box = {'x0': x - width/2, 'x1': x + width/2, 'y0': y + r + 1, 'y1': y + r + 15};
+        const full = GRAPH['features'][n.k].where;
+        const where = full.length>max ? full.slice(0, max - 1) + '…' : full;
+        const width = Math.max(name.length*6.2, where.length*5.6);
+        const box = {'x0': x - width/2, 'x1': x + width/2, 'y0': y + r + 1, 'y1': y + r + (where ? 27 : 15)};
         if(!free(box)) continue;
         placed.push(box);
         svg_text(name, {'x': x.toFixed(1), 'y': (y + r + 12).toFixed(1), 'text-anchor': 'middle', 'class': 'graph-leaf-label'}, layer);
+        if(where) svg_text(where, {'x': x.toFixed(1), 'y': (y + r + 24).toFixed(1), 'text-anchor': 'middle', 'class': 'graph-leaf-place'}, layer);
     }
 }
 
@@ -701,8 +718,8 @@ function graph_info(focus) {
     }).join('') + loose.map((c) => {
         const f = F[c.k];
         return `<div class="graph-row" data-n="${c.id}"><span class="graph-swatch is-company${f.e ? '' : ' is-unknown'}" aria-hidden="true"></span>`
-            + `<div>${company(c.k)} <span class="graph-muted">${size_text(f.e)}</span></div>`
-            + `<div class="graph-why">${esc(f.s.concat(f.a).map(short_theme).join(', '))}${f.k.length ? ' · ' + esc(f.k.slice(0, 6).join(', ')) : ''}${f.zones.length ? ' · ' + esc(f.zones.join(', ')) : ''}</div></div>`;
+            + `<div>${company(c.k)} <span class="graph-muted">${size_text(f.e)}</span>${f.where ? `<div class="graph-place">${esc(f.where)}</div>` : ''}</div>`
+            + `<div class="graph-why">${esc(f.s.concat(f.a).map(short_theme).join(', '))}${f.k.length ? ' · ' + esc(f.k.slice(0, 6).join(', ')) : ''}</div></div>`;
     }).join('');
 }
 
@@ -714,7 +731,7 @@ function graph_tip(node, event, hovered) {
     let html;
     if(node.k!==undefined) {
         const f = F[node.k];
-        html = `<strong>${esc(node_name(node))}</strong><br>${size_text(f.e)}${f.zones.length ? ' · ' + esc(f.zones.join(', ')) : ''}<br><span class="graph-tip-hint">Cliquer : entreprises les plus proches</span>`;
+        html = `<strong>${esc(node_name(node))}</strong><br>${f.where ? esc(f.where) + ' · ' : ''}${size_text(f.e)}<br><span class="graph-tip-hint">Cliquer : entreprises les plus proches</span>`;
     }
     else {
         html = `<strong>${esc(node.label)}</strong> · ${node_count(node)}`
@@ -759,6 +776,7 @@ function graph_neighbors(k0) {
         if(!center) { g.setAttribute('tabindex', 0); g.setAttribute('role', 'button'); g.setAttribute('aria-label', `${listing[k]['Name']}, voir ses entreprises proches`); }
         svg_el('circle', {'r': r.toFixed(1), 'fill': F[k].e ? (center ? '#3C3489' : '#7F77DD') : 'white', 'stroke': F[k].e ? 'white' : '#7F77DD', 'stroke-dasharray': F[k].e ? '' : '2 2', 'stroke-width': 1.3}, g);
         svg_text(label, {'x': (r + 3).toFixed(1), 'y': 4, 'class': 'graph-node-label is-named'}, g);
+        if(F[k].where) svg_text(F[k].where, {'x': (r + 3).toFixed(1), 'y': 17, 'class': 'graph-node-label graph-node-place is-named'}, g);
     };
     place.forEach((n) => draw(n.k, n.x, n.y, n.r, `${listing[n.k]['Name']} ${Math.round(100*n.v)} %`, false));
     draw(k0, cx, cy, Math.max(12, node_radius(me.e)), listing[k0]['Name'], true);
@@ -767,7 +785,7 @@ function graph_neighbors(k0) {
     const carto = carto_link(listing[k0]);
     const goto_map = carto ? `<a class="graph-goto" href="${esc(carto)}" target="_blank" rel="noopener">Sur la carte${NEW_TAB}</a>` : '';
     GRAPH['info'].innerHTML = `<div class="graph-goto-row"><button type="button" class="graph-goto" data-goto="card" data-k="${k0}">Fiche</button>${goto_map}</div>`
-        + `<strong>${esc(listing[k0]['Name'])}</strong> · ${size_text(me.e)}${me.zones.length ? ' · ' + esc(me.zones.join(', ')) : ''}<br>`
+        + `<strong>${esc(listing[k0]['Name'])}</strong> · ${size_text(me.e)}${me.where ? ' · ' + esc(me.where) : ''}<br>`
         + `${esc(themes)}${me.k.length ? '<br><span class="graph-keywords">' + esc(me.k.join(', ')) + '</span>' : ''}`
         + `<p class="graph-legend">Ressemblance : ${GRAPH_WEIGHTS.map((w) => `<span class="graph-swatch" style="background:${w.color}"></span>${w.label} (${Math.round(100*w.w)} %)`).join(' ')}</p>`;
     GRAPH['rows'].innerHTML = place.map((n) => {
@@ -779,9 +797,9 @@ function graph_neighbors(k0) {
             shared(f.k, me.k).length ? 'mots-clés : ' + shared(f.k, me.k).join(', ') : '',
         ].filter((t) => t!='').join(' · ') || 'peu de points communs';
         const bar = n.parts.map((p, i) => `<span style="width:${Math.round(140*p)}px;background:${GRAPH_WEIGHTS[i].color}"></span>`).join('');
-        return `<div class="graph-row is-neighbor" data-k="${n.k}"><div><button type="button" class="graph-company" data-k="${n.k}">${esc(listing[n.k]['Name'])}</button> <span class="graph-muted">${Math.round(100*n.v)} %</span></div>`
+        return `<div class="graph-row is-neighbor" data-k="${n.k}"><div><button type="button" class="graph-company" data-k="${n.k}">${esc(listing[n.k]['Name'])}</button> <span class="graph-muted">${Math.round(100*n.v)} %</span>${f.where ? `<div class="graph-place">${esc(f.where)}</div>` : ''}</div>`
             + `<div class="graph-bar" aria-hidden="true">${bar}</div>`
-            + `<div class="graph-why">${esc(why)} · <span class="graph-muted">${size_text(f.e)}${f.zones.length ? ', ' + esc(f.zones.join(', ')) : ''}</span></div></div>`;
+            + `<div class="graph-why">${esc(why)} · <span class="graph-muted">${size_text(f.e)}</span></div></div>`;
     }).join('');
 }
 

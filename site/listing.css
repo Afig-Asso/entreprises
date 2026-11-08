@@ -549,6 +549,8 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .graph-svg .graph-group-label { font-size: 12px; font-weight: 700; fill: var(--text); }
 .graph-svg .graph-count { font-size: 11px; fill: var(--muted); }
 .graph-svg .graph-leaf-label { font-size: 11px; fill: var(--text); }
+.graph-svg .graph-leaf-place { font-size: 10px; fill: var(--muted); }
+.graph-place { font-size: 0.78rem; color: var(--muted); margin-top: 1px; }
 .graph-svg.is-zooming { pointer-events: none; }
 .graph-svg.is-zooming .graph-labels { display: none; }
 .graph-svg.is-entering > g { animation: graph-enter 0.3s ease-out; }
@@ -580,6 +582,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .graph-node .graph-node-label { display: none; paint-order: stroke; stroke: #fbfcf9; stroke-width: 3px; }
 .graph-node .graph-node-label.is-named, .graph-node:hover .graph-node-label, .graph-node:focus-visible .graph-node-label { display: inline; }
 .graph-node:hover .graph-node-label, .graph-node.is-center .graph-node-label { fill: var(--text); font-weight: 700; }
+.graph-node .graph-node-label.graph-node-place { font-size: 10px; fill: var(--muted); font-weight: 400; }
 .graph-node:focus-visible { outline: none; }
 .graph-node:focus-visible circle { stroke: var(--ink); stroke-width: 3px; }
 .graph-node.is-center { cursor: default; }
