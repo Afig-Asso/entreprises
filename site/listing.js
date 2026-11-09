@@ -73,10 +73,14 @@ let company_data;
 
 
 
-fetch(url)
-.then(convertJSON)
-.then(answer)
-.catch(display_loading_error);
+// Fetch once every deferred script (graph.js included) has run: otherwise a fast answer could reach
+// answer() before graph.js defines GRAPH ("GRAPH is not defined").
+document.addEventListener('DOMContentLoaded', () => {
+    fetch(url)
+    .then(convertJSON)
+    .then(answer)
+    .catch(display_loading_error);
+});
 
 function convertJSON(response){
   if(!response.ok) {
