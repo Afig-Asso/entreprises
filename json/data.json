@@ -1,5 +1,5 @@
 {
-    "Updated": "2026-11-08",
+    "Updated": "2026-11-09",
     "Keywords": {
         "Scientific-domain": [
             {
@@ -10252,6 +10252,15 @@
                     ],
                     "SIREN": "889054219",
                     "Address": "48 rue Montmartre, 75002 Paris"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52169,
+                        -0.14361
+                    ],
+                    "Address": "167-169 Great Portland Street, London W1W 5PF"
                 }
             ],
             "Scientific-domain": [
@@ -25374,6 +25383,826 @@
                 "imagerie",
                 "automobile",
                 "Galway"
+            ]
+        },
+        {
+            "Name": "Rocksteady Studios",
+            "url": "https://www.rocksteadyltd.com/",
+            "Description": "Studio AAA de jeu vid\u00e9o londonien (filiale de Warner Bros. Games) cr\u00e9ateur de la s\u00e9rie Batman: Arkham et de Suicide Squad: Kill the Justice League.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.49586,
+                        -0.27568
+                    ],
+                    "Address": "Chiswick Park Building 2, 566 Chiswick High Road, London W4 5YB"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.rocksteadyltd.com/careers",
+            "Employees": 214,
+            "Keywords": [
+                "jeu AAA",
+                "Batman Arkham",
+                "Unreal Engine",
+                "Warner Bros. Games"
+            ]
+        },
+        {
+            "Name": "Eyeline (ex-Scanline VFX)",
+            "url": "https://www.eyelinestudios.com/",
+            "Description": "Studio d'effets visuels et de production virtuelle de Netflix, n\u00e9 en 2025 de la fusion de Scanline VFX et d'Eyeline Studios, avec un studio \u00e0 Londres (Fitzrovia) ouvert en 2019 aux c\u00f4t\u00e9s de Vancouver, Montr\u00e9al, Los Angeles, Munich, Stuttgart et S\u00e9oul.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51826,
+                        -0.13702
+                    ],
+                    "Address": "30 Berners Street, London W1T 3LR"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Simulation",
+                "Pipeline/Outils de production",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "production virtuelle",
+                "Netflix",
+                "simulation"
+            ]
+        },
+        {
+            "Name": "Important Looking Pirates",
+            "url": "https://www.ilpvfx.com/",
+            "Description": "Studio su\u00e9dois d'effets visuels et d'animation (Sh\u014dgun, The Mandalorian and Grogu, Dune: Prophecy, The Sandman) avec un studio \u00e0 Londres, aux c\u00f4t\u00e9s de Stockholm et Hambourg.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52468,
+                        -0.08404
+                    ],
+                    "Address": "2 Leonard Circus, London EC2A 4DQ"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://ilpvfx.teamtailor.com",
+            "Employees": 310,
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "cr\u00e9atures",
+                "Sh\u014dgun"
+            ]
+        },
+        {
+            "Name": "Goodbye Kansas Studios",
+            "url": "https://www.goodbyekansas.com/",
+            "Description": "Studio de contenus visuels (cin\u00e9matiques et trailers de jeux vid\u00e9o, VFX, capture de mouvement, scan 3D) d'origine su\u00e9doise, avec des bureaux \u00e0 Londres, Stockholm, Belgrade et Mumbai (Indiana Jones et le Cercle ancien, Destiny 2, World of Warcraft).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5206,
+                        -0.109
+                    ],
+                    "Address": "3rd Floor Dunstan House, 14A St Cross Street, London EC1N 8XA"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://career.goodbyekansas.com",
+            "Employees": 300,
+            "Keywords": [
+                "cin\u00e9matiques",
+                "trailers de jeux",
+                "capture de mouvement",
+                "scan 3D"
+            ]
+        },
+        {
+            "Name": "Dupe VFX",
+            "url": "https://www.dupevfx.com/",
+            "Description": "Studio ind\u00e9pendant d'effets visuels bas\u00e9 \u00e0 Dalston (Londres), certifi\u00e9 B Corp, pour le cin\u00e9ma et les s\u00e9ries (Havoc, Black Doves, Sentimental Value) pour Netflix, BBC, Apple TV ou Disney.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.54695,
+                        -0.0747
+                    ],
+                    "Address": "The Print House, 18-22 Ashwin Street, London E8 3DL"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.dupevfx.com/careers/",
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "compositing",
+                "B Corp"
+            ]
+        },
+        {
+            "Name": "Black Kite Studios",
+            "url": "https://www.blackkitestudios.com/",
+            "Description": "Studio ind\u00e9pendant d'effets visuels, de design et d'\u00e9talonnage fond\u00e9 en 2019 \u00e0 Londres, pour la publicit\u00e9, les clips et les s\u00e9ries (KFC x Stranger Things en CG int\u00e9gral, M&S, Honda, McDonald's).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52453,
+                        -0.08976
+                    ],
+                    "Address": "46 Featherstone Street, London EC1Y 8RN"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://joinus.blackkitestudios.com/",
+            "Keywords": [
+                "effets visuels",
+                "publicit\u00e9",
+                "CGI",
+                "\u00e9talonnage"
+            ]
+        },
+        {
+            "Name": "TPO VFX",
+            "url": "https://tpovfx.com/",
+            "Description": "Studio londonien d'effets visuels dirig\u00e9 par des artistes, sp\u00e9cialis\u00e9 en post-vis et en plans VFX finaux pour le cin\u00e9ma et les s\u00e9ries (Civil War, Wicked, The Witcher, Paddington au P\u00e9rou).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5074,
+                        -0.1278
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "post-vis",
+                "compositing",
+                "cin\u00e9ma"
+            ]
+        },
+        {
+            "Name": "Midas VFX",
+            "url": "https://midasvfx.com/",
+            "Description": "Studio ind\u00e9pendant d'effets visuels install\u00e9 \u00e0 Covent Garden (Londres), avec une antenne \u00e0 Mumbai : supervision sur le plateau, cr\u00e9ation d'assets, simulation, extensions de d\u00e9cor, outils d'IA et compositing pour le cin\u00e9ma et les s\u00e9ries.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51445,
+                        -0.1269
+                    ],
+                    "Address": "13 Monmouth Street, London WC2H 9DA"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "beauty work",
+                "simulation",
+                "s\u00e9ries"
+            ]
+        },
+        {
+            "Name": "ManvsMachine",
+            "url": "https://mvsm.com/",
+            "Description": "Studio de design et de r\u00e9alisation (motion design, films CG) fond\u00e9 \u00e0 Londres, membre de Landor & Fitch, avec un second studio \u00e0 Los Angeles, pour les grandes marques.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.53822,
+                        -0.07897
+                    ],
+                    "Address": "The Old Stables, Norway Wharf, 20-24 Hertford Road, London N1 5QT"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Art/Evenementiel"
+            ],
+            "Jobs": "https://mvsm.com/jobs",
+            "Keywords": [
+                "motion design",
+                "CGI",
+                "publicit\u00e9",
+                "direction artistique"
+            ]
+        },
+        {
+            "Name": "Hundred Star Games",
+            "url": "https://www.hundredstargames.com/",
+            "Description": "Studio de jeu vid\u00e9o AAA fond\u00e9 en 2023 par Sefton Hill et Jamie Walker (cofondateurs de Rocksteady), install\u00e9 \u00e0 Here East (Queen Elizabeth Olympic Park, Londres), qui d\u00e9veloppe un jeu d'action-aventure solo sous Unreal Engine 5.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5466,
+                        -0.0226
+                    ],
+                    "Address": "Fabric Factory, Here East, Queen Elizabeth Olympic Park, London E20 3BS"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 60,
+            "Keywords": [
+                "jeu AAA",
+                "Unreal Engine 5",
+                "action-aventure",
+                "ex-Rocksteady"
+            ]
+        },
+        {
+            "Name": "RISE",
+            "url": "https://www.risefx.com/",
+            "Description": "Studio allemand d'effets visuels pour le cin\u00e9ma et les s\u00e9ries (Berlin, Munich, Stuttgart, Cologne) qui a ouvert en 2020 un studio d'une cinquantaine de postes \u00e0 Holborn (Londres) ; Last Breath, Heads of State.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51694,
+                        -0.10956
+                    ],
+                    "Address": "90 Fetter Lane, London EC4A 1JP"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 50,
+            "Keywords": [
+                "effets visuels",
+                "cin\u00e9ma",
+                "s\u00e9ries",
+                "studio allemand"
+            ]
+        },
+        {
+            "Name": "Crafty Apes",
+            "url": "https://craftyapes.com/",
+            "Description": "Studio am\u00e9ricain d'effets visuels complet (Los Angeles, Atlanta, Vancouver, Montr\u00e9al, New York, Sydney) avec un studio \u00e0 Londres (Clerkenwell) pour le cin\u00e9ma et les s\u00e9ries.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5223,
+                        -0.1098
+                    ],
+                    "Address": "Floor 1, 15-19 Baker's Row, London EC1R 3DG"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "cin\u00e9ma",
+                "s\u00e9ries",
+                "lighting"
+            ]
+        },
+        {
+            "Name": "Coffee & TV",
+            "url": "https://www.coffeeand.tv/",
+            "Description": "Studio londonien de post-production et d'effets visuels (VFX 2D/3D, CG, \u00e9talonnage) pour la publicit\u00e9, les clips, le cin\u00e9ma et les s\u00e9ries, avec un studio \u00e0 New York depuis 2024.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52177,
+                        -0.10941
+                    ],
+                    "Address": "83 Clerkenwell Road, London EC1R 5AR"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "publicit\u00e9",
+                "CGI",
+                "\u00e9talonnage"
+            ]
+        },
+        {
+            "Name": "Time Based Arts",
+            "url": "https://www.time-based-arts.com/",
+            "Description": "Studio d'effets visuels et d'\u00e9talonnage de Shoreditch (Londres) pour la publicit\u00e9, les clips, le cin\u00e9ma et les s\u00e9ries (Nike, Lego, Google Pixel, Love Lies Bleeding), avec une activit\u00e9 de recherche et d\u00e9veloppement.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52679,
+                        -0.0801
+                    ],
+                    "Address": "Back Building, 148-150 Curtain Road, London EC2A 3AR"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "publicit\u00e9",
+                "\u00e9talonnage",
+                "Shoreditch"
+            ]
+        },
+        {
+            "Name": "Niantic Spatial",
+            "url": "https://www.nianticspatial.com/",
+            "Description": "Soci\u00e9t\u00e9 issue en 2025 de la scission de Niantic (Pok\u00e9mon GO), consacr\u00e9e au \u00ab Large Geospatial Model \u00bb et \u00e0 la cartographie 3D, dont l'\u00e9quipe de recherche londonienne (issue du rachat de Matrix Mill, spin-off de l'UCL) travaille sur la reconstruction 3D, le Gaussian splatting, le SfM/SLAM et la localisation visuelle.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5074,
+                        -0.1278
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Vision",
+                "VR/AR",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "G\u00e9ospatial/Cartographie",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/niantic",
+            "Keywords": [
+                "reconstruction 3D",
+                "Gaussian splatting",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "SLAM"
+            ]
+        },
+        {
+            "Name": "Kaedim",
+            "url": "https://www.kaedim3d.com/",
+            "Description": "Start-up londonienne fond\u00e9e en 2020 qui produit des mod\u00e8les 3D pr\u00eats pour le jeu \u00e0 partir d'images ou de concepts 2D, en combinant apprentissage automatique et v\u00e9rification par des artistes 3D, pour les studios de jeu vid\u00e9o, le cin\u00e9ma et l'e-commerce.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.53857,
+                        -0.12391
+                    ],
+                    "Address": "Fora - The Jellicoe, 5 Beaconsfield Street, London N1C 4EW"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 79,
+            "Keywords": [
+                "IA 3D",
+                "image vers 3D",
+                "assets de jeu",
+                "g\u00e9n\u00e9ration de maillages"
+            ]
+        },
+        {
+            "Name": "Lupus Films",
+            "url": "https://lupusfilms.com/",
+            "Description": "Studio et soci\u00e9t\u00e9 de production d'animation 2D d'Islington (Londres) fond\u00e9 en 2002 (The Snowman and the Snowdog, Ethel & Ernest, Kensuke's Kingdom, Mog's Christmas), nomm\u00e9 aux BAFTA 2025, avec un programme de formation de jeunes animateurs.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.53475,
+                        -0.10456
+                    ],
+                    "Address": "339 Upper Street, London N1 0PB"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "long m\u00e9trage",
+                "s\u00e9ries jeunesse",
+                "BAFTA"
+            ]
+        },
+        {
+            "Name": "Karrot Animation",
+            "url": "https://www.karrotanimation.com/",
+            "Description": "Studio d'animation londonien prim\u00e9 aux BAFTA et aux Emmy, cr\u00e9ateur de Sarah & Duck, qui produit des s\u00e9ries jeunesse (MaeBee, My Friend Maisy, Peppa Pig).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.48962,
+                        -0.09285
+                    ],
+                    "Address": "The Studio, 11 Morecambe Street, London SE17 1DX"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "s\u00e9ries jeunesse",
+                "Sarah & Duck",
+                "CBeebies"
+            ]
+        },
+        {
+            "Name": "Picasso Pictures",
+            "url": "https://www.picassopictures.com/",
+            "Description": "Soci\u00e9t\u00e9 de production et studio d'animation de Fitzrovia (Londres), actif depuis plus de 30 ans, qui r\u00e9alise des publicit\u00e9s et contenus anim\u00e9s 2D et 3D pour des marques internationales (Nike, Nestl\u00e9, Dove, McDonald's, Toyota).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51685,
+                        -0.1327
+                    ],
+                    "Address": "6th Floor Charlotte Building, 17 Gresse Street, London W1T 1QL"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "animation publicitaire",
+                "2D",
+                "3D",
+                "Fitzrovia"
+            ]
+        },
+        {
+            "Name": "Lumirithmic",
+            "url": "https://www.lumirithmic.com/",
+            "Description": "Start-up londonienne issue de l'Imperial College London (cofond\u00e9e par le professeur Abhijeet Ghosh) qui d\u00e9veloppe des syst\u00e8mes de bureau de capture 3D du visage et de l'apparence de la peau, combinant imagerie computationnelle et IA, pour le jeu vid\u00e9o, la publicit\u00e9 et la beaut\u00e9.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.4988,
+                        -0.1749
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Mode/V\u00eatements/Accessoires"
+            ],
+            "Keywords": [
+                "capture faciale",
+                "r\u00e9flectance",
+                "humains num\u00e9riques",
+                "Imperial College"
+            ]
+        },
+        {
+            "Name": "Bild Studios",
+            "url": "https://www.bildstudios.com/",
+            "Description": "Soci\u00e9t\u00e9 de technologies visuelles qui exploite MARS Volume, plateau ind\u00e9pendant de production virtuelle et d'effets in-camera (mur LED de 25,5 m, moteurs de jeu, suivi de cam\u00e9ra) \u00e0 Ruislip (Grand Londres), utilis\u00e9 pour 3 Body Problem, Culprits ou Gangs of London, avec un centre de formation (MARS Academy).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.55639,
+                        -0.38466
+                    ],
+                    "Address": "MARS Volume, Unit 1 Hawkers Yard, Stonefield Close, Ruislip HA4 0XT"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ],
+            "Jobs": "https://www.marsvolume.com/careers/",
+            "Keywords": [
+                "production virtuelle",
+                "mur LED",
+                "VFX in-camera",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Hayes Davidson",
+            "url": "https://www.hayesdavidson.com/",
+            "Description": "Studio londonien pionnier de l'imagerie de synth\u00e8se pour l'architecture, fond\u00e9 en 1989 (visualisations de la Shard, du London Eye, de la Tate Modern), d\u00e9tenu par ses salari\u00e9s, produisant images, films et contenus interactifs.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.50201,
+                        -0.08571
+                    ],
+                    "Address": "77 Weston Street, London SE1 3RS"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 50,
+            "Keywords": [
+                "visualisation architecturale",
+                "CGI",
+                "rendu photor\u00e9aliste",
+                "films d'architecture"
+            ]
+        },
+        {
+            "Name": "Atomic Arts",
+            "url": "https://atomicarts.com/",
+            "Description": "Studio d'effets visuels et d'animation fond\u00e9 en 1994 dans le West End de Londres, avec des bureaux \u00e0 Los Angeles, Mumbai et Bangalore, pour le cin\u00e9ma, les s\u00e9ries et l'\u00e9v\u00e9nementiel (Game of Thrones, Stranger Things, Les Anneaux de pouvoir, Mission: Impossible \u2013 Dead Reckoning), associ\u00e9 \u00e0 la post-production Molinare (Atomic@Molinare).",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51714,
+                        -0.13337
+                    ],
+                    "Address": "14 Rathbone Place, London W1T 1HT"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "effets visuels",
+                "animation",
+                "s\u00e9ries",
+                "Soho"
+            ]
+        },
+        {
+            "Name": "Envy",
+            "url": "https://www.envypost.co.uk/",
+            "Description": "Premier groupe ind\u00e9pendant de post-production du Royaume-Uni, bas\u00e9 \u00e0 Fitzrovia (Londres) : montage, \u00e9talonnage, son et effets visuels pour la t\u00e9l\u00e9vision, le cin\u00e9ma et la publicit\u00e9 ; a rachet\u00e9 Halo en 2025.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51799,
+                        -0.13234
+                    ],
+                    "Address": "1 Stephen Street, London W1T 1AT"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "post-production",
+                "effets visuels",
+                "\u00e9talonnage",
+                "Soho"
+            ]
+        },
+        {
+            "Name": "Molinare",
+            "url": "https://www.molinare.co.uk/",
+            "Description": "Maison de post-production de Soho (Londres) pour la fiction, le cin\u00e9ma et le documentaire (montage, \u00e9talonnage, son, effets visuels), devenue Molinare Creative Group, qui accueille le studio VFX Atomic Arts dans ses locaux.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5136,
+                        -0.1393
+                    ],
+                    "Address": "34 Fouberts Place, London W1F 7PX"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "post-production",
+                "\u00e9talonnage",
+                "effets visuels",
+                "Soho"
+            ]
+        },
+        {
+            "Name": "BUCK",
+            "url": "https://buck.co/",
+            "Description": "Studio cr\u00e9atif international fond\u00e9 en 2004 (Los Angeles, New York, Sydney, Amsterdam...) sp\u00e9cialis\u00e9 en motion design, animation 2D/3D, exp\u00e9riences num\u00e9riques et technologie cr\u00e9ative, avec un studio \u00e0 Londres ; a lanc\u00e9 BUCK Games en 2025.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.52166,
+                        -0.09039
+                    ],
+                    "Address": "3 Bunhill Row, London EC1Y 8YZ"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://buck.co/careers",
+            "Keywords": [
+                "motion design",
+                "animation 3D",
+                "publicit\u00e9",
+                "technologie cr\u00e9ative"
+            ]
+        },
+        {
+            "Name": "Supercell London",
+            "url": "https://supercell.com/en/",
+            "Description": "Studio londonien de l'\u00e9diteur finlandais de jeux mobiles Supercell (Clash of Clans, Brawl Stars, Squad Busters), cr\u00e9\u00e9 en 2025 \u00e0 partir de l'\u00e9quipe de Space Ape Games apr\u00e8s son rachat complet.",
+            "Place": [
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.51667,
+                        -0.1285
+                    ],
+                    "Address": "First Floor, 100 New Oxford Street, London WC1A 1HB"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://supercell.com/en/careers/",
+            "Employees": 70,
+            "Keywords": [
+                "jeu mobile",
+                "free-to-play",
+                "Supercell",
+                "Space Ape"
             ]
         }
     ]

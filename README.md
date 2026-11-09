@@ -628,6 +628,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://atlasv.io/career/)
 
 
+* **[Atomic Arts](https://atomicarts.com/)**  
+  * _Studio d'effets visuels et d'animation fondé en 1994 dans le West End de Londres, avec des bureaux à Los Angeles, Mumbai et Bangalore, pour le cinéma, les séries et l'événementiel (Game of Thrones, Stranger Things, Les Anneaux de pouvoir, Mission: Impossible – Dead Reckoning), associé à la post-production Molinare (Atomic@Molinare)._
+  * **Mots clés**: _effets visuels, animation, séries, Soho_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+
+
 * **[Atypique Studio](https://www.atypique-studio.com/)**  
   * _Studio indépendant de jeux vidéo fondé en 2017 à La Ciotat, qui développe des jeux multijoueurs (Mixcity Arena, Noara: The Conspiracy) et propose des prestations de production._
   * **Mots clés**: _jeu indépendant, multijoueur, MOBA_
@@ -831,6 +840,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.bigcompany.fr/news-jobs/)
 
 
+* **[Bild Studios](https://www.bildstudios.com/)**  
+  * _Société de technologies visuelles qui exploite MARS Volume, plateau indépendant de production virtuelle et d'effets in-camera (mur LED de 25,5 m, moteurs de jeu, suivi de caméra) à Ruislip (Grand Londres), utilisé pour 3 Body Problem, Culprits ou Gangs of London, avec un centre de formation (MARS Academy)._
+  * **Mots clés**: _production virtuelle, mur LED, VFX in-camera, Unreal Engine_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Acquisition
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+  * [_Jobs_](https://www.marsvolume.com/careers/)
+
+
 * **[Black Cog](https://black-cog.com/)**  
   * _Studio d'effets visuels et de post-production (FX de destruction et fluides, compositing, assets 3D temps réel et précalculés)._
   * **Mots clés**: _effets visuels, long métrage, documentaire, publicité, simulation physique, assets temps réel_
@@ -838,6 +856,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+
+
+* **[Black Kite Studios](https://www.blackkitestudios.com/)**  
+  * _Studio indépendant d'effets visuels, de design et d'étalonnage fondé en 2019 à Londres, pour la publicité, les clips et les séries (KFC x Stranger Things en CG intégral, M&S, Honda, McDonald's)._
+  * **Mots clés**: _effets visuels, publicité, CGI, étalonnage_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://joinus.blackkitestudios.com/)
 
 
 * **[Blackmeal](https://blackmeal.com/)**  
@@ -1020,6 +1047,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
   * [_Jobs_](https://www.brunchstudio.tv/careers)
+
+
+* **[BUCK](https://buck.co/)**  
+  * _Studio créatif international fondé en 2004 (Los Angeles, New York, Sydney, Amsterdam...) spécialisé en motion design, animation 2D/3D, expériences numériques et technologie créative, avec un studio à Londres ; a lancé BUCK Games en 2025._
+  * **Mots clés**: _motion design, animation 3D, publicité, technologie créative_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Jeu Vidéo
+  * [_Jobs_](https://buck.co/careers)
 
 
 * **[BUF](https://buf.com/)**  
@@ -1265,6 +1301,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Coffee & TV](https://www.coffeeand.tv/)**  
+  * _Studio londonien de post-production et d'effets visuels (VFX 2D/3D, CG, étalonnage) pour la publicité, les clips, le cinéma et les séries, avec un studio à New York depuis 2024._
+  * **Mots clés**: _effets visuels, publicité, CGI, étalonnage_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+
+
 * **[Cogniscan](https://www.cogniscan.fr/)**  
   * _Start-up issue du laboratoire XLIM, créée en 2022 et installée au CIRE d'ESTER Technopole, qui développe STCAN, un scanner cérébral portable à micro-ondes (capteur, réseau d'antennes commutées, logiciel de reconstruction d'image et classification par IA) pour détecter AVC, tumeurs et hémorragies hors de l'hôpital._
   * **Mots clés**: _imagerie micro-ondes, neuro-imagerie, reconstruction d'image, dispositif médical_
@@ -1310,6 +1354,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Crafty Apes](https://craftyapes.com/)**  
+  * _Studio américain d'effets visuels complet (Los Angeles, Atlanta, Vancouver, Montréal, New York, Sydney) avec un studio à Londres (Clerkenwell) pour le cinéma et les séries._
+  * **Mots clés**: _effets visuels, cinéma, séries, lighting_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Creative Assembly](https://www.creative-assembly.com/)**  
@@ -1702,6 +1754,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/dronisos)
 
 
+* **[Dupe VFX](https://www.dupevfx.com/)**  
+  * _Studio indépendant d'effets visuels basé à Dalston (Londres), certifié B Corp, pour le cinéma et les séries (Havoc, Black Doves, Sentimental Value) pour Netflix, BBC, Apple TV ou Disney._
+  * **Mots clés**: _effets visuels, séries, compositing, B Corp_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.dupevfx.com/careers/)
+
+
 * **[DUSK](https://www.duskvfx.fr/)**  
   * _Studio généraliste d'effets visuels (ex-IIW Studio) : CG, FX, compositing, environnements, avec laboratoire image intégré._
   * **Mots clés**: _effets visuels, compositing, matte painting, long métrage, séries TV, publicité, laboratoire image_
@@ -1920,6 +1981,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Envy](https://www.envypost.co.uk/)**  
+  * _Premier groupe indépendant de post-production du Royaume-Uni, basé à Fitzrovia (Londres) : montage, étalonnage, son et effets visuels pour la télévision, le cinéma et la publicité ; a racheté Halo en 2025._
+  * **Mots clés**: _post-production, effets visuels, étalonnage, Soho_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
 * **[EODE](https://eode.studio/)**  
   * _Studio transmédia de Couëron fondé en 2015 qui développe ses univers (Grinn's Universe) en jeux vidéo, animation, livres et jeux de rôle, et propose des solutions créatives interactives aux entreprises (marque WEKER)._
   * **Mots clés**: _transmédia, jeu vidéo, animation, univers_
@@ -2060,6 +2129,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: VR/AR, Hardware, IHM/Haptique
   * **Domaine d'application**: Automobile/Navigation/Aviation, Loisir Interactif/Immersion/Metavers
+
+
+* **[Eyeline (ex-Scanline VFX)](https://www.eyelinestudios.com/)**  
+  * _Studio d'effets visuels et de production virtuelle de Netflix, né en 2025 de la fusion de Scanline VFX et d'Eyeline Studios, avec un studio à Londres (Fitzrovia) ouvert en 2019 aux côtés de Vancouver, Montréal, Los Angeles, Munich, Stuttgart et Séoul._
+  * **Mots clés**: _effets visuels, production virtuelle, Netflix, simulation_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Pipeline/Outils de production, IA générative (image/3D)
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Fairvision](https://www.fairvision.fr/)**  
@@ -2312,6 +2389,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Goodbye Kansas Studios](https://www.goodbyekansas.com/)**  
+  * _Studio de contenus visuels (cinématiques et trailers de jeux vidéo, VFX, capture de mouvement, scan 3D) d'origine suédoise, avec des bureaux à Londres, Stockholm, Belgrade et Mumbai (Indiana Jones et le Cercle ancien, Destiny 2, World of Warcraft)._
+  * **Mots clés**: _cinématiques, trailers de jeux, capture de mouvement, scan 3D_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Acquisition
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://career.goodbyekansas.com)
+
+
 * **[Google](https://about.google/)**  
   * _Groupe américain du moteur de recherche, d'Android, de Google Maps et des modèles d'IA Gemini, avec des activités de recherche en vision, rendu et IA._
   * **Mots clés**: _deep learning, IA générative, cartographie, réalité augmentée, cloud/streaming, Gemini_
@@ -2439,6 +2526,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 1400
   * **Domaine scientifique/technique**: Vision, Acquisition, Reconstruction
   * **Domaine d'application**: Générique
+
+
+* **[Hayes Davidson](https://www.hayesdavidson.com/)**  
+  * _Studio londonien pionnier de l'imagerie de synthèse pour l'architecture, fondé en 1989 (visualisations de la Shard, du London Eye, de la Tate Modern), détenu par ses salariés, produisant images, films et contenus interactifs._
+  * **Mots clés**: _visualisation architecturale, CGI, rendu photoréaliste, films d'architecture_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Visualisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
 
 
 * **[Headbang Club](https://headbang.club/)**  
@@ -2575,6 +2671,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware, IA générative (image/3D)
   * **Domaine d'application**: Jeu Vidéo, Générique
   * [_Jobs_](https://career.huawei.com/en)
+
+
+* **[Hundred Star Games](https://www.hundredstargames.com/)**  
+  * _Studio de jeu vidéo AAA fondé en 2023 par Sefton Hill et Jamie Walker (cofondateurs de Rocksteady), installé à Here East (Queen Elizabeth Olympic Park, Londres), qui développe un jeu d'action-aventure solo sous Unreal Engine 5._
+  * **Mots clés**: _jeu AAA, Unreal Engine 5, action-aventure, ex-Rocksteady_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 60
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Hutch](https://www.hutch.io/)**  
@@ -2835,6 +2940,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires
 
 
+* **[Important Looking Pirates](https://www.ilpvfx.com/)**  
+  * _Studio suédois d'effets visuels et d'animation (Shōgun, The Mandalorian and Grogu, Dune: Prophecy, The Sandman) avec un studio à Londres, aux côtés de Stockholm et Hambourg._
+  * **Mots clés**: _effets visuels, séries, créatures, Shōgun_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 310
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://ilpvfx.teamtailor.com)
+
+
 * **[In Extenso Studio](https://www.inextenso.studio/)**  
   * _Agence bordelaise de visualisation architecturale fondée par un architecte-perspectiviste, produisant images et films 3D de projets publics et privés (écoles, EHPAD, équipements culturels)._
   * **Mots clés**: _architecture, rendu photoréaliste, perspective_
@@ -2995,6 +3110,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Kaedim](https://www.kaedim3d.com/)**  
+  * _Start-up londonienne fondée en 2020 qui produit des modèles 3D prêts pour le jeu à partir d'images ou de concepts 2D, en combinant apprentissage automatique et vérification par des artistes 3D, pour les studios de jeu vidéo, le cinéma et l'e-commerce._
+  * **Mots clés**: _IA 3D, image vers 3D, assets de jeu, génération de maillages_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 79
+  * **Domaine scientifique/technique**: IA générative (image/3D), Modélisation, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo, Commerce/Marketing/Publicité
+
+
 * **[Kafi](https://www.kafi-games.com/)**  
   * _Petit studio indépendant (Saint-Mandé, Avignon) de jeux coopératifs 3D, auteur de The Headliners (2025) et de Snow Panic en développement._
   * **Mots clés**: _jeu coopératif, jeu indépendant, console/PC_
@@ -3019,6 +3143,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Imagerie, Acquisition
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Karrot Animation](https://www.karrotanimation.com/)**  
+  * _Studio d'animation londonien primé aux BAFTA et aux Emmy, créateur de Sarah & Duck, qui produit des séries jeunesse (MaeBee, My Friend Maisy, Peppa Pig)._
+  * **Mots clés**: _animation 2D, séries jeunesse, Sarah & Duck, CBeebies_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Kavaleer Productions](https://kavaleer.com/)**  
@@ -3262,7 +3394,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Light VFX](https://lightvfx.com/)**  
   * _Studio indépendant d'effets visuels et d'animation pour le cinéma, les séries et la publicité (FX fluides, particules, modélisation 3D, matte painting)._
   * **Mots clés**: _effets visuels, long métrage, séries TV, publicité, environnements numériques, simulation de fluides_
-  * **Localisation**: Royan, Paris
+  * **Localisation**: Royan, Paris, Royaume-Uni/Londres
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -3397,6 +3529,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Lumirithmic](https://www.lumirithmic.com/)**  
+  * _Start-up londonienne issue de l'Imperial College London (cofondée par le professeur Abhijeet Ghosh) qui développe des systèmes de bureau de capture 3D du visage et de l'apparence de la peau, combinant imagerie computationnelle et IA, pour le jeu vidéo, la publicité et la beauté._
+  * **Mots clés**: _capture faciale, réflectance, humains numériques, Imperial College_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Rendu offline/VFX
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX, Mode/Vêtements/Accessoires
+
+
 * **[Lumiscaphe](https://lumiscaphe.com/)**  
   * _Éditeur du logiciel Patchwork 3D et de solutions de rendu temps réel et de configurateurs 3D pour le design industriel._
   * **Mots clés**: _Patchwork 3D, rendu temps réel, e-commerce/configurateur 3D, design industriel, automobile, Blender_
@@ -3405,6 +3545,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Visualisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation, Commerce/Marketing/Publicité
   * [_Jobs_](https://lumiscaphe.com/carrieres/)
+
+
+* **[Lupus Films](https://lupusfilms.com/)**  
+  * _Studio et société de production d'animation 2D d'Islington (Londres) fondé en 2002 (The Snowman and the Snowdog, Ethel & Ernest, Kensuke's Kingdom, Mog's Christmas), nommé aux BAFTA 2025, avec un programme de formation de jeunes animateurs._
+  * **Mots clés**: _animation 2D, long métrage, séries jeunesse, BAFTA_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Lux Aeterna](https://luxaeterna.com/)**  
@@ -3611,6 +3759,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.manus-meta.com/careers)
 
 
+* **[ManvsMachine](https://mvsm.com/)**  
+  * _Studio de design et de réalisation (motion design, films CG) fondé à Londres, membre de Landor & Fitch, avec un second studio à Los Angeles, pour les grandes marques._
+  * **Mots clés**: _motion design, CGI, publicité, direction artistique_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel
+  * [_Jobs_](https://mvsm.com/jobs)
+
+
 * **[Manzalab](https://www.manzalab.com/)**  
   * _Studio de serious games et d'expériences immersives (VR, mobile learning) pour la formation et la communication, éditeur de la plateforme collaborative Teemew._
   * **Mots clés**: _serious game, réalité virtuelle, formation professionnelle, plateforme collaborative VR, avatars, Teemew_
@@ -3795,6 +3952,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://careers.microsoft.com/)
 
 
+* **[Midas VFX](https://midasvfx.com/)**  
+  * _Studio indépendant d'effets visuels installé à Covent Garden (Londres), avec une antenne à Mumbai : supervision sur le plateau, création d'assets, simulation, extensions de décor, outils d'IA et compositing pour le cinéma et les séries._
+  * **Mots clés**: _effets visuels, beauty work, simulation, séries_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[MiddleVR](https://www.middlevr.com/)** (I'm in VR (MiddleVR)) 
   * _Éditeur de logiciels de réalité virtuelle (middleware pour CAVE/casques, plateforme Improov pour revue de projet 3D immersive)._
   * **Mots clés**: _réalité virtuelle, CAVE, cluster rendering, multi-écrans, Unity, plugin/logiciel pour artistes_
@@ -3933,6 +4098,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Art/Evenementiel
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/modulopi/jobs)
+
+
+* **[Molinare](https://www.molinare.co.uk/)**  
+  * _Maison de post-production de Soho (Londres) pour la fiction, le cinéma et le documentaire (montage, étalonnage, son, effets visuels), devenue Molinare Creative Group, qui accueille le studio VFX Atomic Arts dans ses locaux._
+  * **Mots clés**: _post-production, étalonnage, effets visuels, Soho_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Moment Factory](https://momentfactory.com/)**  
@@ -4155,6 +4328,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+
+
+* **[Niantic Spatial](https://www.nianticspatial.com/)**  
+  * _Société issue en 2025 de la scission de Niantic (Pokémon GO), consacrée au « Large Geospatial Model » et à la cartographie 3D, dont l'équipe de recherche londonienne (issue du rachat de Matrix Mill, spin-off de l'UCL) travaille sur la reconstruction 3D, le Gaussian splatting, le SfM/SLAM et la localisation visuelle._
+  * **Mots clés**: _reconstruction 3D, Gaussian splatting, réalité augmentée, SLAM_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Reconstruction, Vision, VR/AR, IA générative (image/3D)
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Géospatial/Cartographie, Robotique/Systèmes autonomes
+  * [_Jobs_](https://job-boards.greenhouse.io/niantic)
 
 
 * **[Nightshift](https://www.nightshift.fr/)**  
@@ -4606,6 +4788,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: IA générative (image/3D), Imagerie, Vision
   * **Domaine d'application**: Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/photoroom)
+
+
+* **[Picasso Pictures](https://www.picassopictures.com/)**  
+  * _Société de production et studio d'animation de Fitzrovia (Londres), actif depuis plus de 30 ans, qui réalise des publicités et contenus animés 2D et 3D pour des marques internationales (Nike, Nestlé, Dove, McDonald's, Toyota)._
+  * **Mots clés**: _animation publicitaire, 2D, 3D, Fitzrovia_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Commerce/Marketing/Publicité
 
 
 * **[Picsellia](https://www.picsellia.com/)**  
@@ -5076,6 +5266,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://ride-fx.com/jobs/)
 
 
+* **[RISE](https://www.risefx.com/)**  
+  * _Studio allemand d'effets visuels pour le cinéma et les séries (Berlin, Munich, Stuttgart, Cologne) qui a ouvert en 2020 un studio d'une cinquantaine de postes à Holborn (Londres) ; Last Breath, Heads of State._
+  * **Mots clés**: _effets visuels, cinéma, séries, studio allemand_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Roblox](https://www.roblox.com/)**  
   * _Plateforme de jeux en ligne free-to-play où les expériences sont créées et partagées par la communauté des joueurs._
   * **Mots clés**: _free-to-play, contenu généré par les joueurs, multijoueur en ligne, mobile, console/PC, plateforme de création_
@@ -5102,6 +5301,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Vision
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
+
+
+* **[Rocksteady Studios](https://www.rocksteadyltd.com/)**  
+  * _Studio AAA de jeu vidéo londonien (filiale de Warner Bros. Games) créateur de la série Batman: Arkham et de Suicide Squad: Kill the Justice League._
+  * **Mots clés**: _jeu AAA, Batman Arkham, Unreal Engine, Warner Bros. Games_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 214
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.rocksteadyltd.com/careers)
 
 
 * **[Royal Post](https://royalpost.tv/)**  
@@ -5765,6 +5974,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.superbien.studio/career)
 
 
+* **[Supercell London](https://supercell.com/en/)**  
+  * _Studio londonien de l'éditeur finlandais de jeux mobiles Supercell (Clash of Clans, Brawl Stars, Squad Busters), créé en 2025 à partir de l'équipe de Space Ape Games après son rachat complet._
+  * **Mots clés**: _jeu mobile, free-to-play, Supercell, Space Ape_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Nombres d'employés**: 70
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://supercell.com/en/careers/)
+
+
 * **[Supermassive Games](https://www.supermassivegames.com/)**  
   * _Studio de Guildford (Until Dawn, The Dark Pictures, Little Hope), spécialisé dans les jeux narratifs cinématographiques avec capture faciale._
   * **Mots clés**: _jeu narratif, capture de mouvement, horreur_
@@ -6104,6 +6323,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.theoriz.com/fr/jobs/)
 
 
+* **[Time Based Arts](https://www.time-based-arts.com/)**  
+  * _Studio d'effets visuels et d'étalonnage de Shoreditch (Londres) pour la publicité, les clips, le cinéma et les séries (Nike, Lego, Google Pixel, Love Lies Bleeding), avec une activité de recherche et développement._
+  * **Mots clés**: _effets visuels, publicité, étalonnage, Shoreditch_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+
+
 * **[Timescope](https://www.timescope.com/)**  
   * _Entreprise parisienne de visites guidées en réalité virtuelle (« jumelles » VR) restituant en 3D l'histoire de Paris, et de projets VR patrimoniaux sur mesure._
   * **Mots clés**: _réalité virtuelle, patrimoine, reconstitution 3D, borne VR_
@@ -6185,6 +6412,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Design/Fabrication, Modélisation, Visualisation
   * **Domaine d'application**: Automobile/Navigation/Aviation
   * [_Jobs_](https://ed2.toyota-europe.com/projects/digitalmodellerneeded)
+
+
+* **[TPO VFX](https://tpovfx.com/)**  
+  * _Studio londonien d'effets visuels dirigé par des artistes, spécialisé en post-vis et en plans VFX finaux pour le cinéma et les séries (Civil War, Wicked, The Witcher, Paddington au Pérou)._
+  * **Mots clés**: _effets visuels, post-vis, compositing, cinéma_
+  * **Localisation**: Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Tractable](https://tractable.ai/)**  
