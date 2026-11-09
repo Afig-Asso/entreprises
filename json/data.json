@@ -17058,7 +17058,13 @@
             "Description": "Studio de pr\u00e9visualisation (previs) fond\u00e9 en 2010 \u00e0 Paris, qui con\u00e7oit en 3D les s\u00e9quences de films en prises de vues r\u00e9elles, VFX et animation.",
             "Place": [
                 {
-                    "City": "Paris"
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.87928,
+                        2.32524
+                    ],
+                    "SIREN": "521670190",
+                    "Address": "39 Rue de Li\u00e8ge, 75008 Paris"
                 }
             ],
             "Scientific-domain": [

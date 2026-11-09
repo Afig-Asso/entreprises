@@ -6604,6 +6604,9 @@
   Description: Studio de prévisualisation (previs) fondé en 2010 à Paris, qui conçoit en 3D les séquences de films en prises de vues réelles, VFX et animation.
   Place:
     - City: Paris
+      Coordinates: [48.87928, 2.32524]
+      SIREN: '521670190'
+      Address: 39 Rue de Liège, 75008 Paris
   Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [prévisualisation, previs, animation 3D, long métrage, effets visuels]
