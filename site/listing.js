@@ -75,11 +75,15 @@ let company_data;
 
 // Fetch once every deferred script (graph.js included) has run: otherwise a fast answer could reach
 // answer() before graph.js defines GRAPH ("GRAPH is not defined").
+// A network error and a rendering error get different messages.
 document.addEventListener('DOMContentLoaded', () => {
-    fetch(url)
+    if(typeof GRAPH==='undefined') document.documentElement.classList.add('no-graph'); // graph.js missing: list only
+    fetch(url, AbortSignal.timeout ? {signal: AbortSignal.timeout(20000)} : {}) // no endless "Chargement..."
     .then(convertJSON)
-    .then(answer)
-    .catch(display_loading_error);
+    .then((data) => {
+        try { answer(data); }
+        catch(error) { display_loading_error(error, 'Erreur lors de l\'affichage de la liste des entreprises'); }
+    }, (error) => display_loading_error(error, 'Impossible de charger la liste des entreprises'));
 });
 
 function convertJSON(response){
@@ -89,13 +93,13 @@ function convertJSON(response){
   return response.json();
 }
 
-function display_loading_error(error) {
-    console.log('Error while loading the listing', error);
+function display_loading_error(error, message) {
+    console.log(message, error);
     summary_element.textContent = '';
     listing_element.innerHTML = `
     <p class="loading-message loading-error" role="alert">
-    Impossible de charger la liste des entreprises (${error.message}).
-    Réessayez dans quelques instants, ou consultez directement
+    ${message} (${error.name=='TimeoutError' ? 'pas de réponse du serveur' : esc(error.message)}).
+    <a href="">Réessayer</a>, ou consulter directement
     <a target="_blank" href="https://github.com/Afig-Asso/entreprises">le dépôt GitHub du listing${NEW_TAB}</a>.
     </p>`;
 }
@@ -228,8 +232,8 @@ function get_list_places_exhaustive(element) {
                 L.push({...e, 'Country': country});
             }
         }
-        else if(is_type_array(e['City'])) { // multiple cities
-            for(let city of e['City']) {
+        else if(split_names(e['City']).length>1) { // multiple cities (list, or 'Bordeaux, Lyon')
+            for(let city of split_names(e['City'])) {
                 L.push({...D, 'City': city});
             }
         }
@@ -384,7 +388,7 @@ function display_company_entry(entry, level) {
     const name = entry['Name'];
     const id_attribute = company_id_attribute(name);
     const url = entry['url'];
-    const title = `<h${level} class="company-name"><a target="_blank" href="${url}">${name}${NEW_TAB}</a></h${level}>`;
+    const title = `<h${level} class="company-name"><a target="_blank" href="${url}">${esc(name)}${NEW_TAB}</a></h${level}>`;
 
     const jobs = get_string(entry['Jobs']);
     const jobs_txt = jobs=='' ? '' :
@@ -751,9 +755,9 @@ function update_display() {
 
     Global['rendered-ids'] = new Set();
     display_summary(N_displayed, N_jobs);
-    const graph_view = UX['sorting']['graph'].checked;
+    const graph_view = UX['sorting']['graph'].checked && typeof GRAPH!=='undefined';
     document.documentElement.classList.toggle('view-graph', graph_view);
-    GRAPH['element'].hidden = !graph_view;
+    document.getElementById('graph-view').hidden = !graph_view;
     if(graph_view) {
         listing_element.innerHTML = N_displayed==0 ? display_no_result() : '';
         display_graph(data_to_display);
@@ -1087,8 +1091,10 @@ listing_element.addEventListener('click', (event) => {
 
 // Text used by the search box for one company (themes included, with their explanation)
 function company_search_text(entry, explanations) {
-    const fields = ['Name', 'Name-long', 'Description', 'Info', 'Keywords', 'Product', 'Scientific-domain', 'Application-domain'];
-    let txt = fields.map((f) => strip_html(get_string(entry[f]))).join(' ');
+    // names as written ("b<>com" is not html) and without punctuation ("bcom")
+    const names = get_string(entry['Name']) + ' ' + get_string(entry['Name-long']);
+    const fields = ['Description', 'Info', 'Keywords', 'Product', 'Scientific-domain', 'Application-domain'];
+    let txt = names + ' ' + names.replace(/[^\p{L}\p{N} ]/gu, '') + ' ' + fields.map((f) => strip_html(get_string(entry[f]))).join(' ');
     txt += ' ' + export_places_to_txt(get_list_places(entry['Place']));
     for(const domain of ['Scientific-domain', 'Application-domain']) {
         for(const keyword of (entry[domain] || [])) {
@@ -1214,7 +1220,9 @@ function show_card(k) {
     UX['sorting']['list'].checked = true;
     UX['sorting']['alphabetical'].checked = true;
     update_display();
-    const card = document.getElementById(company_data['Listing'][k]['Name'].replace(/[^A-Z0-9]/ig, '_'));
+    const card_id = company_data['Listing'][k]['Name'].replace(/[^A-Z0-9]/ig, '_');
+    if(document.getElementById(card_id)==null) reset_all_filters(); // the filters hide this company
+    const card = document.getElementById(card_id);
     if(card==null) return;
     card.setAttribute('tabindex', '-1');
     card.classList.remove('is-target');

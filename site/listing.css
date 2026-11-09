@@ -699,3 +699,6 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     .toolbar, .jobs, .skip-link, .place-index, .tag-legend, .shortcuts { display: none; }
     .company { break-inside: avoid; }
 }
+
+/* graph.js could not be loaded: list view only */
+.no-graph #sort-graph, .no-graph label[for="sort-graph"], .no-graph .goto-graph { display: none; }

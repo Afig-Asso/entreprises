@@ -214,6 +214,9 @@ COUNTRIES = ['Allemagne', 'Australie', 'Belgique', 'Brésil', 'Canada', 'Chine',
              'Maurice', 'Monaco', 'Norvège', 'Nouvelle-Zélande', 'Pays-Bas', 'Pologne', 'Portugal', 'Royaume-Uni',
              'Singapour', 'Suède', 'Suisse', 'Taïwan']
 PRODUCT_KEYS = ['Name', 'url']
+# Types expected by the site (listing.js): a wrong type breaks the page, ex. 'Name: 2020' read as a number
+STRING_KEYS = ['Name', 'Name-long', 'url', 'Description', 'Info', 'Jobs']
+LIST_KEYS = ['Scientific-domain', 'Application-domain', 'Keywords']
 MAX_SCIENTIFIC_DOMAINS = 4  # keep only the core themes, otherwise the filters of the site become meaningless
 
 def check_validity_data(data):
@@ -231,6 +234,17 @@ def check_validity_data(data):
             if key not in allowed_keys:
                 print(f'!! Warning: Unknown key [{key}] in entry {name} (allowed: {", ".join(sorted(allowed_keys))})\n')
                 valid = False
+        for key in STRING_KEYS:
+            if key in entry and not isinstance(entry[key], str):
+                print(f"!! Warning: {key} must be a text in entry {name}, found {entry[key]!r} (add quotes in data.yaml)\n")
+                valid = False
+        for key in LIST_KEYS:
+            if key in entry and not (isinstance(entry[key], list) and all(isinstance(v, str) for v in entry[key])):
+                print(f'!! Warning: {key} must be a list of texts [a, b] in entry {name}, found {entry[key]!r}\n')
+                valid = False
+        if 'Employees' in entry and not isinstance(entry['Employees'], (int, str)):
+            print(f"!! Warning: Employees must be a number in entry {name}, found {entry['Employees']!r}\n")
+            valid = False
 
         scientific = entry.get('Scientific-domain', [])
         if isinstance(scientific, list) and len(scientific) > MAX_SCIENTIFIC_DOMAINS:
@@ -304,8 +318,9 @@ if __name__ == "__main__":
     data = liblisting.yaml_read_file(filename_yaml)
     data_keywords = liblisting.yaml_read_file(filename_yaml_keywords)
 
+    # always fatal: an invalid data.yaml would publish a json that breaks the site
     is_data_valid = check_validity_data(data)
-    if exit_on_failure and not is_data_valid:
+    if not is_data_valid:
         print('Invalid data.yaml (see warnings above), exit')
         exit(1)
 
@@ -345,8 +360,11 @@ if __name__ == "__main__":
             except json.JSONDecodeError:
                 pass
     json_data = {'Updated':updated, 'Keywords':data_keywords, 'Places':places_coordinates, 'Zones':zones, 'Listing':data}
-    with open(filename_json_out, 'w') as json_fid:
-        json.dump(json_data, json_fid, indent=4)
+    # serialized first, then written in one go: a failure never leaves a truncated json for the site
+    json_txt = json.dumps(json_data, indent=4)
+    with open(filename_json_out + '.tmp', 'w') as json_fid:
+        json_fid.write(json_txt)
+    os.replace(filename_json_out + '.tmp', filename_json_out)
 
 
     # Update README.md

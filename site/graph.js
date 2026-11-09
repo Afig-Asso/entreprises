@@ -499,6 +499,7 @@ function graph_size() {
 }
 
 function graph_render() {
+    GRAPH['anim'] = null;  // a zoom still running belongs to the previous drawing: cancelled
     GRAPH['busy'] = false;
     GRAPH['svg'].classList.remove('is-zooming');
     graph_tip(null);
@@ -616,11 +617,11 @@ function graph_focus(focus, animate, from_keyboard, back_from) {
 function graph_animate(a, b, D, done) {
     GRAPH['busy'] = true;
     GRAPH['svg'].classList.add('is-zooming');
-    let finished = false;
-    const finish = () => { if(!finished) { finished = true; done(); } };
+    const anim = GRAPH['anim'] = {};  // replaced or cleared (graph_render) when the picture changes
+    const finish = () => { if(GRAPH['anim']===anim) { GRAPH['anim'] = null; done(); } };
     const t0 = performance.now();
     const step = (now) => {
-        if(finished) return;  // a late frame must not move the final picture
+        if(GRAPH['anim']!==anim) return;  // finished or cancelled: a late frame must not move the picture
         const t = Math.min(1, (now - t0)/D), e = t<0.5 ? 4*t*t*t : 1 - Math.pow(2 - 2*t, 3)/2;
         graph_apply_view({'x': a.x + (b.x - a.x)*e, 'y': a.y + (b.y - a.y)*e, 'r': a.r*Math.pow(b.r/a.r, e)});
         if(t<1) requestAnimationFrame(step); else finish();
