@@ -137,6 +137,8 @@
   Place:
     - Country: États-Unis
       City: [Los Angeles]
+    - Country: Canada
+      City: [Québec, Montréal]
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
@@ -369,7 +371,9 @@
   Description: Éditeur américain de logiciels de conception (AutoCAD, Revit, Fusion) et de création 3D pour l'animation et les VFX (Maya, 3ds Max, Flow).
   Product: Maya, 3DS Max, AutoCAD, Golaem
   Place:
-    - Country: [États-Unis, Canada, Inde, Royaume-Uni, Singapour, Norvège]
+    - Country: [États-Unis, Inde, Royaume-Uni, Singapour, Norvège]
+    - Country: Canada
+      City: Montréal
     - International: true
   Jobs: https://www.autodesk.com/careers/overview
   Scientific-domain: [Modélisation, Animation, Design/Fabrication, Pipeline/Outils de production]
@@ -807,6 +811,8 @@
   Employees: 2000
   Place:
     - Country: États-Unis
+    - Country: Canada
+      City: Saint-Lambert
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
@@ -900,6 +906,7 @@
       Address: '14 Rue Auber, 75009 Paris'
     - Country: États-Unis
     - Country: Canada
+      City: Montréal
     - Country: Espagne
     - Country: Inde
     - International: True
@@ -1413,6 +1420,8 @@
   Place:
     - Country: États-Unis
       City: Redmond
+    - Country: Canada
+      City: Montréal
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, IA générative (image/3D), Web/Cloud/Big Data]
   Application-domain: [Générique]
@@ -2010,6 +2019,8 @@
       Coordinates: [48.86584, 2.32979]
       SIREN: '419459672'
       Address: 223 Rue Saint-Honoré, 75001 Paris
+    - Country: Canada
+      City: [Montréal, Québec]
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Acquisition, Vision]
   Application-domain: [Jeu Vidéo]
@@ -2267,7 +2278,9 @@
       Coordinates: [50.63307, 3.0189]
       SIREN: '813754389'
       Address: '2 Avenue des Saules, 59160 Lille'
-    - Country: [Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse]
+    - Country: [Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse]
+    - Country: Canada
+      City: Montréal
     - International: True
   Employees: 7000
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
@@ -2340,6 +2353,8 @@
     - City: Montpellier
       Coordinates: [43.61559, 3.90981]
       Address: Hôtel d'Entreprises du Millénaire, 120 allée John Napier, 34000 Montpellier
+    - Country: Canada
+      City: Montréal
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
@@ -2495,6 +2510,8 @@
       Coordinates: [48.86952, 2.33821]
       SIREN: '530085802'
       Address: 6 rue Ménars, 75002 Paris
+    - Country: Canada
+      City: Montréal
     - International: true
   Scientific-domain: [IA générative (image/3D), Vision, VR/AR, Reconstruction]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Générique]
@@ -2959,6 +2976,8 @@
       Coordinates: [48.85942, 2.37772]
       SIREN: '491420808'
       Address: '95 Boulevard Voltaire, 75011 Paris'
+    - Country: Canada
+      City: Montréal
   Jobs: https://mathematic.tv/contact/careers/
   Scientific-domain: [Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Art/Evenementiel]
@@ -6636,6 +6655,8 @@
       Address: 36 Boulevard de la Bastille, 75012 Paris
     - City: Annecy
     - City: Angoulême
+    - Country: Canada
+      City: Montréal
   Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 2D, animation 3D, séries d'animation, fabrication]
@@ -9230,6 +9251,8 @@
       City: Londres
       Coordinates: [51.52093, -0.14288]
       Address: 160 Great Portland Street, London W1W 5QA
+    - Country: Canada
+      City: Montréal
   Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://www.dneg.com/join-us
@@ -9244,6 +9267,8 @@
       City: Londres
       Coordinates: [51.51572, -0.11168]
       Address: 28 Chancery Lane, London WC2A 1LB
+    - Country: Canada
+      City: Montréal
   Scientific-domain: [Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://www.framestore.com/careers
@@ -9258,6 +9283,8 @@
       City: Londres
       Coordinates: [51.51719, -0.142]
       Address: 10 Little Portland Street, London W1W 7JG
+    - Country: Canada
+      City: Montréal
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://cinesite.com/careers/
@@ -9962,6 +9989,8 @@
       City: Bournemouth
       Coordinates: [50.729, -1.864]
       Address: 2nd Floor, Ocean 80, 80 Holdenhurst Road, Bournemouth BH8 8AQ
+    - Country: Canada
+      City: Montréal
   Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 660
@@ -10113,6 +10142,8 @@
     - Country: Irlande
       City: Dublin
       Coordinates: [53.27472, -6.19276]
+    - Country: Canada
+      City: Montréal
   Scientific-domain: [Pipeline/Outils de production, Modélisation, Animation]
   Application-domain: [Jeu Vidéo]
   Employees: 12000
@@ -10292,6 +10323,8 @@
       City: Londres
       Coordinates: [51.5223, -0.1098]
       Address: Floor 1, 15-19 Baker's Row, London EC1R 3DG
+    - Country: Canada
+      City: Montréal
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [effets visuels, cinéma, séries, lighting]
@@ -10481,3 +10514,684 @@
   Jobs: https://supercell.com/en/careers/
   Employees: 70
   Keywords: [jeu mobile, free-to-play, Supercell, Space Ape]
+
+- Name: Rodeo FX
+  url: https://www.rodeofx.com/
+  Description: Studio indépendant d'effets visuels et d'animation fondé en 2006 à Montréal (plus de 750 artistes), oscarisé, qui travaille pour le cinéma, les séries et la publicité (Stranger Things, Dune, Game of Thrones) ; propriétaire de Mikros Animation depuis 2025.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.49742, -73.55512]
+      Address: 90 rue Queen, bureau 200, Montréal, QC H3C 6X4
+    - City: Paris
+      Coordinates: [48.86992, 2.36399]
+      SIREN: '948806336'
+      Address: 2 Rue Dieu, 75010 Paris
+  Scientific-domain: [Rendu offline/VFX, Animation, Simulation, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://careers.smartrecruiters.com/RodeoFX
+  Employees: 750
+  Keywords: [effets visuels, animation 3D, créatures, séries, publicité]
+
+- Name: Folks
+  url: https://folksvfx.com/
+  Description: 'Studio d''effets visuels fondé à Montréal (siège avenue Papineau), qui a absorbé FuseFX en 2025 et revendique plus de 900 artistes dans le monde, pour les longs métrages et les séries (Wednesday, IT: Welcome to Derry, Five Nights at Freddy''s 2).'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.53219, -73.57261]
+      Address: 4371 avenue Papineau, Montréal, QC H2H 1T7
+  Scientific-domain: [Rendu offline/VFX, Animation, Simulation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://folksvfx.com/careers/open-positions/
+  Employees: 900
+  Keywords: [effets visuels, séries, compositing, Pitch Black]
+
+- Name: Raynault VFX
+  url: https://raynault.com/
+  Description: 'Studio d''effets visuels du Mile End à Montréal fondé en 2011 par Mathieu Raynault, spécialisé dans les environnements et la direction artistique pour le cinéma et les séries (Deadpool & Wolverine, Dune: Prophecy, Stranger Things, The Mandalorian).'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.52326, -73.59379]
+      Address: 5130 boulevard Saint-Laurent, bureau 200, Montréal, QC H2T 1R8
+  Scientific-domain: [Rendu offline/VFX, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://raynault.com/careers
+  Employees: 50
+  Keywords: [effets visuels, matte painting, environnements, direction artistique]
+
+- Name: Real by Fake
+  url: https://realbyfake.com/
+  Description: Studio montréalais de post-production intégrée et d'effets visuels réalistes (retouche numérique, matte painting, effets invisibles) pour le cinéma, la télévision et la publicité (300, Black Summer), avec des bureaux à Los Angeles et Mexico.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.4966, -73.55744]
+      Address: 1479 rue Ottawa, Montréal, QC H3C 1S9
+  Scientific-domain: [Rendu offline/VFX, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Employees: 75
+  Keywords: [effets visuels, post-production, effets invisibles, retouche numérique]
+
+- Name: Sony Pictures Imageworks
+  url: https://www.imageworks.com/
+  Description: Studio d'effets visuels et d'animation de Sony Pictures (siège à Vancouver, films Spider-Verse), qui a ouvert en 2023 un studio dans le Vieux-Montréal travaillant avec les équipes de Vancouver et Los Angeles sur les longs métrages d'animation et à effets visuels.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.51211, -73.55167]
+      Address: 700 rue Saint-Hubert, bureau 400, Montréal, QC H2Y 0C1
+    - Country: Canada
+      City: Vancouver
+    - Country: États-Unis
+      City: Los Angeles
+  Scientific-domain: [Rendu offline/VFX, Animation, Simulation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://www.imageworks.com/job-postings
+  Employees: 150
+  Keywords: [long métrage d'animation, effets visuels, rendu, Sony Pictures]
+
+- Name: Reel FX
+  url: https://www.reelfx.com/
+  Description: Studio américain d'animation 3D (siège à Dallas) qui fabrique des longs métrages d'animation (La Légende de Manolo, Rumble) et possède depuis 2018 un studio à Montréal, dans le bâtiment Le Nordelec.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.48394, -73.56221]
+      Address: 1751 rue Richardson, bureau 5400, Montréal, QC H3K 1G6
+    - Country: États-Unis
+      City: [Dallas, Los Angeles]
+  Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [long métrage d'animation, animation 3D, Nordelec]
+
+- Name: Beyond Capture Studios
+  url: https://www.beyond-capture.com/
+  Description: Studio de capture de mouvement et de performance (siège à Vancouver) dont le plateau de Montréal, ouvert en 2023 (3 700 m², 145 caméras Qualisys), est présenté comme le plus grand du monde ; travaille pour le jeu vidéo, le cinéma et la télévision (Mortal Kombat 1, Street Fighter 6).
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.48799, -73.55882]
+      Address: 1600 rue Saint-Patrick, Montréal, QC H3K 2G3
+    - Country: Canada
+      City: Vancouver
+  Scientific-domain: [Acquisition, Animation, Reconstruction]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
+  Keywords: [motion capture, performance capture, photogrammétrie, production virtuelle]
+
+- Name: Squeeze
+  url: https://www.squeezestudio.com/
+  Description: Studio d'animation 3D de Québec et Montréal (environ 150 à 200 personnes) qui fabrique séries, films, cinématiques de jeux et contenus pour parcs à thème (What If...? de Marvel, Cracké), avec un studio de capture de mouvement ; société partenaire de Cinesite depuis 2022.
+  Place:
+    - Country: Canada
+      City: Québec
+      Coordinates: [46.81434, -71.22257]
+      Address: 520 boulevard Charest Est, bureau 340, Québec, QC G1K 3J3
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50367, -73.55961]
+      Address: 250 rue Saint-Antoine Ouest, bureau 500, Montréal, QC H2Y 0A3
+  Scientific-domain: [Animation, Modélisation, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+  Jobs: https://www.squeezestudio.com/fr/carrieres
+  Employees: 175
+  Keywords: [animation 3D, séries d'animation, cinématiques, motion capture]
+
+- Name: Tonic DNA
+  url: https://tonicdna.com/
+  Description: Studio d'animation et de design de Montréal fondé en 1983 (ex-Studio Pascal Blais, renommé en 2018), qui mêle animation 2D et 3D pour la publicité, les séries et le cinéma, avec des bureaux à Toronto et Mexico.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.5, -73.57]
+  Scientific-domain: [Animation, Modélisation, IA générative (image/3D)]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
+  Employees: 50
+  Keywords: [animation 2D/3D, publicité, motion design, animation hybride]
+
+- Name: Behaviour Interactive
+  url: https://www.bhvr.com/
+  Description: 'Plus grand studio indépendant de jeu vidéo au Canada (fondé en 1992, siège à Montréal), créateur et éditeur de Dead by Daylight, il fait aussi du co-développement (Gears of War: E-Day) et a des studios à Toronto, au Royaume-Uni et à Rotterdam.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.53071, -73.61363]
+      Address: 6666 Rue Saint-Urbain, bureau 500, Montréal, QC H2S 3H1
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.bhvr.com/jobs/
+  Employees: 1200
+  Keywords: [jeu vidéo, jeu en ligne, co-développement, Dead by Daylight, console/PC]
+
+- Name: Eidos-Montréal
+  url: https://www.eidosmontreal.com/
+  Description: 'Studio AAA montréalais (groupe Embracer, ex-Square Enix) créateur de Deus Ex: Human Revolution, Deus Ex: Mankind Divided, Shadow of the Tomb Raider et Marvel''s Guardians of the Galaxy, aujourd''hui engagé en co-développement (Grounded 2, Fable).'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50626, -73.5694]
+      Address: 400 Boulevard de Maisonneuve Ouest, 5e étage, Montréal, QC H3A 1L4
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.eidosmontreal.com/careers/
+  Employees: 200
+  Keywords: [jeu vidéo AAA, co-développement, Deus Ex, Embracer, console/PC]
+
+- Name: WB Games Montréal
+  url: https://wbgamesmontreal.com/
+  Description: 'Studio AAA de Warner Bros. Games installé à Montréal depuis 2010, développeur de Batman: Arkham Origins et de Gotham Knights, avec plus de 300 personnes.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.51667, -73.55963]
+      Address: Place Dupuis, 888 Boulevard de Maisonneuve Est, bureau 600, Montréal, QC H2L 4S8
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://careers.wbgames.com/studios/montreal/
+  Employees: 300
+  Keywords: [jeu vidéo AAA, action-aventure, Batman, Warner Bros. Games]
+
+- Name: Motive Studio
+  url: https://www.ea.com/ea-studios/motive
+  Description: 'Studio montréalais d''Electronic Arts fondé en 2015 (Star Wars: Squadrons, remake de Dead Space), qui développe Marvel''s Iron Man sous Unreal Engine 5 et contribue à la franchise Battlefield.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50054, -73.57703]
+      Address: 2200 Rue Stanley, Montréal, QC H3A 1R6
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.ea.com/careers
+  Employees: 300
+  Keywords: [jeu vidéo AAA, Electronic Arts, Dead Space, Iron Man, Unreal Engine]
+
+- Name: Haven Studios
+  url: https://havenstudios.com/en
+  Description: Studio montréalais de PlayStation Studios (Sony), fondé en 2021 par Jade Raymond, qui développe Fairgames, jeu de braquage compétitif pour PS5 et PC.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.51211, -73.55167]
+      Address: 700 Rue Saint-Hubert, bureau 501, Montréal, QC H2Y 1A6
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://havenstudios.com/en/careers
+  Keywords: [jeu vidéo AAA, jeu en ligne, PlayStation Studios, Fairgames]
+
+- Name: Krafton Montréal
+  url: https://kraftonmontreal.com/
+  Description: Studio AAA de l'éditeur coréen Krafton (PUBG, inZOI), ouvert à Montréal en 2023 et dirigé par Patrik Méthé (ex-Far Cry), qui développe Project Windless, un RPG d'action en monde ouvert adapté de la série de romans The Bird That Drinks Tears.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50351, -73.56813]
+      Address: 606 Rue Cathcart, bureau 800, Montréal, QC H3B 1K9
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://kraftonmontreal.com/#careers
+  Employees: 90
+  Keywords: [jeu vidéo AAA, monde ouvert, RPG, Krafton]
+
+- Name: Reflector Entertainment
+  url: https://reflectorentertainment.com/
+  Description: 'Studio montréalais du groupe Bandai Namco, créé en 2016, auteur du jeu d''action-aventure Unknown 9: Awakening (2024) et désormais centré sur un projet unique autour d''une licence Bandai Namco.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.4973, -73.56828]
+      Address: 1100 Avenue des Canadiens-de-Montréal, bureau 150, Montréal, QC H3B 0E3
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu vidéo, action-aventure, Bandai Namco, Unknown 9]
+
+- Name: Ludia
+  url: https://www.ludia.com/
+  Description: 'Développeur et éditeur montréalais de jeux mobiles sur grandes licences (Jurassic World Alive, Jurassic World: The Game, Dragons: Rise of Berk), redevenu indépendant en 2025 après sa cession par Jam City à des investisseurs québécois.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50208, -73.55605]
+      Address: 410 Rue Saint-Nicolas, bureau 400, Montréal, QC H2Y 2P5
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.ludia.com/careers
+  Employees: 190
+  Keywords: [jeu mobile, free-to-play, Jurassic World, jeux sur licence]
+
+- Name: Red Barrels
+  url: https://redbarrelsgames.com/
+  Description: Studio indépendant montréalais fondé en 2011, spécialisé dans l'horreur à la première personne, créateur de la série Outlast (plus de 15 millions de joueurs) et du jeu coopératif The Outlast Trials.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50041, -73.55363]
+      Address: 329 Rue de la Commune Ouest, bureau 100, Montréal, QC H2Y 2E1
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 50
+  Keywords: [jeu d'horreur, Outlast, Unreal Engine, jeu indépendant]
+
+- Name: Thunder Lotus Games
+  url: https://thunderlotusgames.com/
+  Description: Studio indépendant montréalais fondé en 2014, connu pour ses jeux dessinés à la main (Jotun, Sundered, Spiritfarer, 33 Immortals), qui prépare le jeu d'action-aventure At Fate's End.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.47617, -73.57909]
+      Address: 3970 Rue Saint-Ambroise, Montréal, QC H4C 2C7
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 33
+  Keywords: [animation 2D, jeu indépendant, Spiritfarer, console/PC]
+
+- Name: Kitfox Games
+  url: https://www.kitfoxgames.com/
+  Description: Studio indépendant et éditeur montréalais fondé en 2013 (Moon Hunters, The Shrouded Isle, Boyfriend Dungeon), éditeur de Dwarf Fortress sur Steam.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.5, -73.57]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 12
+  Keywords: [jeu indépendant, édition de jeux, Dwarf Fortress]
+
+- Name: Panache Digital Games
+  url: https://panachedigitalgames.com/en/
+  Description: 'Studio indépendant montréalais fondé en 2014 par Patrice Désilets (créateur d''Assassin''s Creed), auteur d''Ancestors: The Humankind Odyssey, qui développe 1666: Amsterdam.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.51682, -73.57839]
+      Address: 3981 Boulevard Saint-Laurent, bureau 700, Montréal, QC H2W 1Y5
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu vidéo, action-aventure, Unreal Engine, console/PC]
+
+- Name: Tribute Games
+  url: https://tributegames.com/
+  Description: 'Studio indépendant montréalais fondé en 2011 par d''anciens d''Ubisoft, spécialiste des jeux d''action en pixel art (Mercenary Kings, Flinthook, TMNT: Shredder''s Revenge, Marvel Cosmic Invasion, Scott Pilgrim EX en 2026).'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.48249, -73.58193]
+      Address: 3435 Rue Saint-Jacques, Montréal, QC H4C 1G9
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [pixel art, jeu d'action, beat 'em up, jeu indépendant]
+
+- Name: Raccoon Logic
+  url: https://www.raccoonlogic.com/
+  Description: Studio montréalais fondé en 2021 par l'équipe de Typhoon Studios (fermé par Google), auteur de Revenge of the Savage Planet (2025), qui prépare Breakaway, un jeu de hockey compétitif en équipe.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.49967, -73.58218]
+      Address: 3474 Avenue du Musée, Montréal, QC H3G 2C7
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 30
+  Keywords: [jeu vidéo, action-aventure, jeu indépendant, Savage Planet]
+
+- Name: Rogue Factor
+  url: https://rogue-factor.com/
+  Description: 'Studio montréalais fondé en 2013 (Mordheim: City of the Damned, Necromunda: Underhive Wars), filiale de Nacon, développeur du jeu d''action-aventure Hell is Us (2025).'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.5, -73.57]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 75
+  Keywords: [jeu vidéo, action-aventure, Nacon, Unreal Engine]
+
+- Name: Budge Studios
+  url: https://budgestudios.com/
+  Description: Studio montréalais de jeux mobiles pour enfants sur grandes licences (Barbie DreamHouse Adventures, PAW Patrol Rescue World, Bluey, Dora, Hello Kitty), racheté par Haveli Investments en 2026.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.52719, -73.59564]
+      Address: 5455 Avenue de Gaspé, bureau 540, Montréal, QC H2T 3B3
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 125
+  Keywords: [jeu mobile, jeux pour enfants, jeux sur licence]
+
+- Name: Invoke Studios
+  url: https://www.invokestudios.com/
+  Description: 'Studio montréalais de Wizards of the Coast (Hasbro), ex-Tuque Games (Dungeons & Dragons: Dark Alliance), qui développe Warlock: Dungeons & Dragons, montré à la Gamescom 2026.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50065, -73.56441]
+      Address: 1001 Boulevard Robert-Bourassa, 17e étage, Montréal, QC H3B 4L4
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu vidéo AAA, Dungeons & Dragons, action-RPG, Hasbro]
+
+- Name: Frima Studio
+  url: https://frimastudio.com/
+  Description: Studio de développement de jeux vidéo basé à Québec et à Montréal depuis plus de 20 ans, qui fait du co-développement AAA (expertise Unreal), du développement complet et de la co-production, avec des centaines de personnes.
+  Place:
+    - Country: Canada
+      City: Québec
+      Coordinates: [46.8125, -71.2243]
+      Address: 395 Rue Victor-Revillon, Québec, QC G1K 3M8
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.497, -73.55419]
+      Address: 50 Rue Queen, local 104, Montréal, QC H3C 2N5
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [co-développement, Unreal Engine, jeu vidéo, Québec]
+
+- Name: Sabotage Studio
+  url: https://sabotagestudio.com/
+  Description: Studio indépendant de la ville de Québec fondé en 2016, créateur des jeux rétro The Messenger et Sea of Stars, un RPG au tour par tour largement primé.
+  Place:
+    - Country: Canada
+      City: Québec
+      Coordinates: [46.81513, -71.22141]
+      Address: 633 Rue Saint-Joseph Est, bureau 200, Québec, QC G1K 3C1
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [pixel art, RPG, jeu indépendant, Sea of Stars]
+
+- Name: iLLOGIKA
+  url: https://www.illogika.com/
+  Description: Studio montréalais de développement et de co-développement de jeux vidéo et d'expériences interactives, qui a créé la filiale Studio Rabaska, consacrée à la réalité virtuelle en salle (LBVR).
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.52825, -73.59798]
+      Address: 5605 Avenue de Gaspé, bureau 401, Montréal, QC H2T 2A4
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, VR/AR]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Keywords: [co-développement, jeu vidéo, réalité virtuelle, LBVR]
+
+- Name: Paralives Studio
+  url: https://www.paralives.com/
+  Description: Studio indépendant montréalais fondé par Alex Massé, qui développe Paralives, un jeu de simulation de vie aux outils de construction sans grille, en accès anticipé sur Steam depuis mai 2026.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.5, -73.57]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [simulation de vie, jeu indépendant, Unity, construction 3D]
+
+- Name: CAE
+  url: https://www.cae.com/
+  Description: Leader mondial des simulateurs de vol et de la formation (aviation civile, défense, santé), dont le siège et la principale usine sont à Saint-Laurent ; développe ses propres systèmes visuels, dont le générateur d'images CAE Prodigy basé sur Unreal Engine, premier simulateur de vol à moteur de jeu qualifié niveau D.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.47672, -73.70879]
+      Address: 8585 Chemin de la Côte-de-Liesse, Saint-Laurent, QC H4T 1G6
+  Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D, VR/AR]
+  Application-domain: [Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game, Sécurité/Défense]
+  Jobs: https://www.cae.com/careers/
+  Employees: 13000
+  Keywords: [simulateur de vol, générateur d'images, formation des pilotes, Unreal Engine]
+
+- Name: Toon Boom
+  Name-long: Toon Boom Animation
+  url: https://www.toonboom.com/
+  Description: Éditeur montréalais (1994) de logiciels d'animation 2D et de storyboard (Harmony, Storyboard Pro, Producer), standard de l'industrie pour les séries et longs métrages d'animation ; Harmony 25 sorti en 2025.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.51947, -73.58724]
+      Address: 55 Avenue du Mont-Royal Ouest, bureau 1000, Montréal, QC H2T 2S6
+  Scientific-domain: [Animation, Modélisation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+  Jobs: https://www.toonboom.com/careers
+  Keywords: [animation 2D, storyboard, Harmony, logiciel d'animation]
+
+- Name: CM Labs
+  Name-long: CM Labs Simulations
+  url: https://www.cm-labs.com/
+  Description: Éditeur montréalais de Vortex Studio, moteur de simulation mécanique temps réel haute fidélité, et de simulateurs de formation pour grues, engins de chantier et opérations maritimes (plus de 2 000 installations dans 50 pays).
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.49856, -73.55541]
+      Address: 645 Rue Wellington, bureau 301, Montréal, QC H3C 1T2
+  Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D, VR/AR]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes]
+  Jobs: https://cm-labs.com/en/careers/
+  Keywords: [simulation physique temps réel, simulateurs de formation, Vortex Studio, engins de chantier]
+
+- Name: Matrox
+  Name-long: Matrox Video / Matrox Graphics
+  url: https://video.matrox.com/
+  Description: Groupe de Dorval (fondé en 1976) concevant cartes graphiques multi-écrans, contrôleurs de murs d'images et matériel de capture, d'encodage et de diffusion vidéo sur IP (Matrox Video).
+  Place:
+    - Country: Canada
+      City: Dorval
+      Coordinates: [45.49184, -73.76753]
+      Address: 1055 Boulevard Saint-Régis, Dorval, QC H9P 2T4
+  Scientific-domain: [Hardware, Acquisition, Web/Cloud/Big Data]
+  Application-domain: [Art/Evenementiel, Générique]
+  Jobs: https://video.matrox.com/en/careers
+  Keywords: [cartes graphiques, murs d'images, vidéo sur IP, encodage]
+
+- Name: Haply Robotics
+  url: https://www.haply.co/
+  Description: Start-up montréalaise d'interfaces haptiques à retour d'effort (Inverse3, MinVerse) pour la téléopération de robots, la simulation médicale, la XR et la modélisation 3D ; double lauréate CES Innovation Awards 2026.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.51871, -73.58387]
+      Address: 4316 Boulevard Saint-Laurent, bureau 400, Montréal, QC H2W 1Z3
+  Scientific-domain: [IHM/Haptique, Hardware, VR/AR]
+  Application-domain: [Robotique/Systèmes autonomes, Médical/Biologique, Entrainement/Formation/Serious Game]
+  Jobs: https://www.haply.co/careers
+  Keywords: [haptique, retour d'effort, téléopération, simulation chirurgicale]
+
+- Name: Prevu3D
+  url: https://www.prevu3d.com/
+  Description: Éditeur montréalais de RealityPlatform, logiciel de capture et de gestion de données de réalité (scans LiDAR, Gaussian splats, vidéo 360°, CAO/BIM) pour créer des jumeaux numériques d'usines et d'installations industrielles.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.47403, -73.59262]
+      Address: 642 Rue de Courcelle, bureau 404, Montréal, QC H4C 3C7
+  Scientific-domain: [Reconstruction, Acquisition, Visualisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme]
+  Jobs: https://www.prevu3d.com/careers/
+  Keywords: [jumeau numérique, nuages de points, Gaussian splatting, scan-to-CAD]
+
+- Name: Dragonfly (Comet)
+  Name-long: Comet Technologies Canada (ex-Object Research Systems)
+  url: https://comet.tech/dragonfly
+  Description: Logiciel Dragonfly de visualisation et d'analyse d'images 3D (tomographie, microscopie électronique et optique, segmentation par apprentissage profond), développé à Montréal par l'ex-Object Research Systems (ORS, 2004), filiale du groupe suisse Comet depuis 2020.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.49807, -73.5591]
+      Address: 760 Rue Saint-Paul Ouest, Montréal, QC
+  Scientific-domain: [Imagerie, Visualisation, Vision]
+  Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO]
+  Jobs: https://comet.tech/dragonfly/company/jobs
+  Keywords: [imagerie 3D, tomographie, segmentation, microscopie]
+
+- Name: Plotly
+  Name-long: Plotly Technologies
+  url: https://plotly.com/
+  Description: Éditeur montréalais des bibliothèques open source de visualisation interactive de données Plotly (Python, R, JavaScript) et de la plateforme Dash Enterprise pour construire des applications analytiques ; Dash Enterprise 6 et l'outil Plotly Studio en 2026.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.52782, -73.59738]
+      Address: 5555 Avenue de Gaspé, Montréal, QC
+  Scientific-domain: [Visualisation, Web/Cloud/Big Data, Analyse de données]
+  Application-domain: [Générique]
+  Jobs: https://plotly.com/careers/
+  Employees: 100
+  Keywords: [visualisation de données, graphiques interactifs, Dash, open source]
+
+- Name: Sportlogiq
+  url: https://www.sportlogiq.com/
+  Description: Société montréalaise de vision par ordinateur qui extrait par apprentissage profond le suivi des joueurs et des statistiques à partir de vidéos de diffusion (hockey, football, soccer), utilisée par la quasi-totalité des équipes de la LNH ; rachetée par Teamworks en janvier 2026.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.48929, -73.58619]
+      Address: 3500 Boulevard De Maisonneuve Ouest, bureau 570, Westmount, QC H3Z 3C1
+  Scientific-domain: [Vision, Analyse de données]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Générique]
+  Jobs: https://www.sportlogiq.com/careers/
+  Employees: 80
+  Keywords: [vision par ordinateur, suivi de joueurs, analyse vidéo sportive, apprentissage profond]
+
+- Name: Vention
+  url: https://vention.com/
+  Description: 'Plateforme montréalaise de conception et de déploiement d''équipements automatisés : CAO 3D dans le navigateur (MachineBuilder) avec bibliothèque de composants modulaires, simulation et programmation de cellules robotisées, contrôleur MachineMotion AI.'
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.47256, -73.59047]
+      Address: 4767 Rue Dagenais, Montréal, QC H4C 1L8
+  Scientific-domain: [Design/Fabrication, Simulation, Web/Cloud/Big Data]
+  Application-domain: [Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes]
+  Jobs: https://vention.com/careers
+  Employees: 360
+  Keywords: [CAO 3D web, automatisation, robotique industrielle, simulation]
+
+- Name: Creaform
+  url: https://www.creaform3d.com/
+  Description: Fabricant de Lévis (près de Québec) de scanners 3D portables (HandySCAN, Go!SCAN, MetraSCAN) et de logiciels de métrologie et d'inspection 3D, filiale d'AMETEK réunie à FARO depuis 2026.
+  Place:
+    - Country: Canada
+      City: Lévis
+      Coordinates: [46.7758, -71.1723]
+      Address: 4700 Rue de la Pascaline, Lévis, QC G6W 0L9
+  Scientific-domain: [Acquisition, Reconstruction, Géométrie]
+  Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Jobs: https://careers.creaform3d.com/
+  Employees: 570
+  Keywords: [scanner 3D, métrologie, inspection, numérisation 3D]
+
+- Name: InnovMetric
+  Name-long: InnovMetric Software
+  url: https://www.polyworks.com/
+  Description: Éditeur québécois (1994) de PolyWorks, suite logicielle de métrologie 3D universelle (traitement de nuages de points, inspection, comparaison CAO) utilisée dans l'automobile et l'aéronautique ; environ 650 employés.
+  Place:
+    - Country: Canada
+      City: Québec
+      Coordinates: [46.79605, -71.27139]
+      Address: 2014 Rue Cyrille-Duquet, bureau 310, Québec, QC G1N 4N6
+  Scientific-domain: [Géométrie, Reconstruction, Acquisition, Visualisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Jobs: https://careers-innovmetric.icims.com/
+  Employees: 650
+  Keywords: [métrologie 3D, nuages de points, inspection, PolyWorks]
+
+- Name: Airy3D
+  url: https://www.airy3d.com/
+  Description: Société montréalaise de vision 3D qui transforme un capteur d'image 2D standard en capteur de profondeur grâce à un masque de diffraction breveté et à des algorithmes d'imagerie computationnelle (DepthIQ), pour l'électronique grand public, la robotique et l'automobile.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.52719, -73.59564]
+      Address: 5445 Avenue de Gaspé, bureau 230, Montréal, QC H2T 3B2
+  Scientific-domain: [Acquisition, Vision, Imagerie]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense]
+  Jobs: https://www.airy3d.com/join-us/
+  Keywords: [capteur de profondeur, imagerie computationnelle, vision 3D, DepthIQ]
+
+- Name: Intelerad
+  Name-long: Intelerad Medical Systems
+  url: https://www.intelerad.com/
+  Description: Éditeur montréalais (1999) de logiciels d'imagerie médicale (PACS, visualiseurs diagnostiques, archivage et flux de travail radiologiques en cloud), environ 700 à 800 employés dans quatre pays ; classé n° 1 PACS Royaume-Uni/Irlande au Best in KLAS 2026.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.51632, -73.56003]
+      Address: 800 Boulevard De Maisonneuve Est, 14e étage, Montréal, QC H2L 4L8
+  Scientific-domain: [Imagerie, Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.intelerad.com/en/careers/
+  Employees: 750
+  Keywords: [PACS, imagerie médicale, radiologie, visualisation diagnostique]
+
+- Name: Float4
+  url: https://www.float4.com/en/
+  Description: Studio montréalais de design et de production d'expériences numériques immersives intégrées aux lieux physiques (murs de LED interactifs, installations génératives pour halls d'hôtels, observatoires et espaces publics), éditeur de la plateforme Realmotion.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.47692, -73.59271]
+      Address: 1001 Rue Lenoir, bureau C-214, Montréal, QC H4C 2Z6
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, IHM/Haptique, Animation]
+  Application-domain: [Art/Evenementiel, Commerce/Marketing/Publicité, Architecture/BTP/Urbanisme]
+  Jobs: https://www.float4.com/en/careers/
+  Employees: 25
+  Keywords: [installations interactives, contenu génératif, murs de LED, expériences immersives]
+
+- Name: Optina Diagnostics
+  url: https://www.optinadx.com/
+  Description: Medtech montréalaise développant une caméra rétinienne hyperspectrale (autorisée par la FDA) couplée à des algorithmes d'IA pour le diagnostic et le suivi des maladies de la rétine (DMLA) et le dépistage précoce d'Alzheimer.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.49841, -73.66195]
+      Address: 8200 Boulevard Décarie, bureau 220, Montréal, QC H4P 2P5
+  Scientific-domain: [Imagerie, Acquisition, Vision]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie hyperspectrale, rétine, IA médicale, Alzheimer]
+
+- Name: DIAGNOS
+  Name-long: DIAGNOS inc.
+  url: https://diagnosmedical.com/
+  Description: Société de Brossard cotée à la Bourse de croissance TSX qui développe CARA, plateforme d'analyse d'images rétiniennes assistée par IA (détection de la rétinopathie diabétique et de la DMLA, analyse microvasculaire, amélioration d'image), homologuée par Santé Canada en juillet 2026.
+  Place:
+    - Country: Canada
+      City: Brossard
+      Coordinates: [45.46681, -73.4654]
+      Address: 7005 Boulevard Taschereau, bureau 265, Brossard, QC J4Z 1A7
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie rétinienne, IA médicale, rétinopathie diabétique, analyse d'images]
+
+- Name: Immervision
+  url: https://www.immervision.com/
+  Description: Société montréalaise (fondée en France en 2000, à Montréal depuis 2003) spécialisée dans les objectifs panoramiques panomorphes, les modules caméra grand angle, les algorithmes de traitement d'image (redressement, fusion) et la simulation de caméras par jumeau numérique ; technologie intégrée aux ThinkPad de Lenovo présentés au CES 2026.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50427, -73.57242]
+      Address: 2020 Boulevard Robert-Bourassa, bureau 2320, Montréal, QC H3A 2A5
+  Scientific-domain: [Acquisition, Imagerie, Vision, Simulation]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense]
+  Jobs: https://www.immervision.com/immervision/careers/
+  Keywords: [optique grand angle, traitement d'image, simulation de caméra, vision embarquée]
+
+- Name: Photon etc.
+  url: https://www.photonetc.com/
+  Description: Fabricant montréalais (2003, issu de Caltech) de systèmes d'imagerie hyperspectrale et infrarouge (caméras SWIR, imageurs grand champ GRAND-EOS, microscopes hyperspectraux) et de leur logiciel d'analyse PHySpec, pour la recherche biomédicale, les matériaux et l'industrie.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.52947, -73.59969]
+      Address: 5795 Avenue de Gaspé, bureau 222, Montréal, QC H2S 2X3
+  Scientific-domain: [Imagerie, Acquisition, Hardware]
+  Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO, Énergie/Environnement]
+  Jobs: https://www.photonetc.com/about-us/careers/
+  Keywords: [imagerie hyperspectrale, caméras infrarouges, microscopie, analyse spectrale]
+
+- Name: SimActive
+  url: https://www.simactive.com/
+  Description: Éditeur montréalais (2003) de Correlator3D, logiciel de photogrammétrie de bout en bout (aérotriangulation, nuages de points, modèles numériques de terrain, orthomosaïques, maillages 3D et, depuis 2026, Gaussian splats) pour images de drones, d'avions et de satellites.
+  Place:
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.50269, -73.55748]
+      Address: 465 Rue Saint-Jean, bureau 701, Montréal, QC H2Y 2R6
+  Scientific-domain: [Reconstruction, Géométrie, Imagerie]
+  Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme, Énergie/Environnement]
+  Keywords: [photogrammétrie, drones, Gaussian splatting, orthophotos]

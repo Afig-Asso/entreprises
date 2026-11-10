@@ -1,5 +1,5 @@
 {
-    "Updated": "2026-11-09",
+    "Updated": "2026-11-10",
     "Keywords": {
         "Scientific-domain": [
             {
@@ -131,9 +131,21 @@
             61.0667,
             -107.9917
         ],
+        "Canada/Brossard": [
+            45.4555,
+            -73.4679
+        ],
+        "Canada/Dorval": [
+            45.4453,
+            -73.7511
+        ],
         "Canada/Kingston": [
             44.3054,
             -76.4284
+        ],
+        "Canada/L\u00e9vis": [
+            46.8033,
+            -71.1779
         ],
         "Canada/Montr\u00e9al": [
             45.5032,
@@ -142,6 +154,14 @@
         "Canada/Ontario": [
             50.0007,
             -86.001
+        ],
+        "Canada/Qu\u00e9bec": [
+            46.8131,
+            -71.2075
+        ],
+        "Canada/Saint-Lambert": [
+            45.5016,
+            -73.5103
         ],
         "Canada/Toronto": [
             43.6535,
@@ -1151,6 +1171,10 @@
             37.3229,
             -122.0323
         ],
+        "\u00c9tats-Unis/Dallas": [
+            32.7763,
+            -96.7969
+        ],
         "\u00c9tats-Unis/Detroit": [
             42.3316,
             -83.0466
@@ -1599,6 +1623,13 @@
                     "Country": "\u00c9tats-Unis",
                     "City": [
                         "Los Angeles"
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": [
+                        "Qu\u00e9bec",
+                        "Montr\u00e9al"
                     ]
                 },
                 {
@@ -2184,12 +2215,15 @@
                 {
                     "Country": [
                         "\u00c9tats-Unis",
-                        "Canada",
                         "Inde",
                         "Royaume-Uni",
                         "Singapour",
                         "Norv\u00e8ge"
                     ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 },
                 {
                     "International": true
@@ -3261,6 +3295,10 @@
                     "Country": "\u00c9tats-Unis"
                 },
                 {
+                    "Country": "Canada",
+                    "City": "Saint-Lambert"
+                },
+                {
                     "International": true
                 }
             ],
@@ -3485,7 +3523,8 @@
                     "Country": "\u00c9tats-Unis"
                 },
                 {
-                    "Country": "Canada"
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 },
                 {
                     "Country": "Espagne"
@@ -4750,6 +4789,10 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Redmond"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 },
                 {
                     "International": true
@@ -6178,6 +6221,13 @@
                     "Address": "223 Rue Saint-Honor\u00e9, 75001 Paris"
                 },
                 {
+                    "Country": "Canada",
+                    "City": [
+                        "Montr\u00e9al",
+                        "Qu\u00e9bec"
+                    ]
+                },
+                {
                     "International": true
                 }
             ],
@@ -6779,7 +6829,6 @@
                 },
                 {
                     "Country": [
-                        "Canada",
                         "Danemark",
                         "Finlande",
                         "Royaume-Uni",
@@ -6788,6 +6837,10 @@
                         "Belgique",
                         "Suisse"
                     ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 },
                 {
                     "International": true
@@ -6966,6 +7019,10 @@
                         3.90981
                     ],
                     "Address": "H\u00f4tel d'Entreprises du Mill\u00e9naire, 120 all\u00e9e John Napier, 34000 Montpellier"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 },
                 {
                     "International": true
@@ -7318,6 +7375,10 @@
                     ],
                     "SIREN": "530085802",
                     "Address": "6 rue M\u00e9nars, 75002 Paris"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 },
                 {
                     "International": true
@@ -8487,6 +8548,10 @@
                     ],
                     "SIREN": "491420808",
                     "Address": "95 Boulevard Voltaire, 75011 Paris"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Jobs": "https://mathematic.tv/contact/careers/",
@@ -17136,6 +17201,10 @@
                 },
                 {
                     "City": "Angoul\u00eame"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Scientific-domain": [
@@ -23285,6 +23354,10 @@
                         -0.14288
                     ],
                     "Address": "160 Great Portland Street, London W1W 5QA"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Scientific-domain": [
@@ -23317,6 +23390,10 @@
                         -0.11168
                     ],
                     "Address": "28 Chancery Lane, London WC2A 1LB"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Scientific-domain": [
@@ -23349,6 +23426,10 @@
                         -0.142
                     ],
                     "Address": "10 Little Portland Street, London W1W 7JG"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Scientific-domain": [
@@ -24958,6 +25039,10 @@
                         -1.864
                     ],
                     "Address": "2nd Floor, Ocean 80, 80 Holdenhurst Road, Bournemouth BH8 8AQ"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Scientific-domain": [
@@ -25313,6 +25398,10 @@
                         53.27472,
                         -6.19276
                     ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Scientific-domain": [
@@ -25740,6 +25829,10 @@
                         -0.1098
                     ],
                     "Address": "Floor 1, 15-19 Baker's Row, London EC1R 3DG"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
                 }
             ],
             "Scientific-domain": [
@@ -26209,6 +26302,1644 @@
                 "free-to-play",
                 "Supercell",
                 "Space Ape"
+            ]
+        },
+        {
+            "Name": "Rodeo FX",
+            "url": "https://www.rodeofx.com/",
+            "Description": "Studio ind\u00e9pendant d'effets visuels et d'animation fond\u00e9 en 2006 \u00e0 Montr\u00e9al (plus de 750 artistes), oscaris\u00e9, qui travaille pour le cin\u00e9ma, les s\u00e9ries et la publicit\u00e9 (Stranger Things, Dune, Game of Thrones) ; propri\u00e9taire de Mikros Animation depuis 2025.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.49742,
+                        -73.55512
+                    ],
+                    "Address": "90 rue Queen, bureau 200, Montr\u00e9al, QC H3C 6X4"
+                },
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86992,
+                        2.36399
+                    ],
+                    "SIREN": "948806336",
+                    "Address": "2 Rue Dieu, 75010 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Simulation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://careers.smartrecruiters.com/RodeoFX",
+            "Employees": 750,
+            "Keywords": [
+                "effets visuels",
+                "animation 3D",
+                "cr\u00e9atures",
+                "s\u00e9ries",
+                "publicit\u00e9"
+            ]
+        },
+        {
+            "Name": "Folks",
+            "url": "https://folksvfx.com/",
+            "Description": "Studio d'effets visuels fond\u00e9 \u00e0 Montr\u00e9al (si\u00e8ge avenue Papineau), qui a absorb\u00e9 FuseFX en 2025 et revendique plus de 900 artistes dans le monde, pour les longs m\u00e9trages et les s\u00e9ries (Wednesday, IT: Welcome to Derry, Five Nights at Freddy's 2).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.53219,
+                        -73.57261
+                    ],
+                    "Address": "4371 avenue Papineau, Montr\u00e9al, QC H2H 1T7"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://folksvfx.com/careers/open-positions/",
+            "Employees": 900,
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "compositing",
+                "Pitch Black"
+            ]
+        },
+        {
+            "Name": "Raynault VFX",
+            "url": "https://raynault.com/",
+            "Description": "Studio d'effets visuels du Mile End \u00e0 Montr\u00e9al fond\u00e9 en 2011 par Mathieu Raynault, sp\u00e9cialis\u00e9 dans les environnements et la direction artistique pour le cin\u00e9ma et les s\u00e9ries (Deadpool & Wolverine, Dune: Prophecy, Stranger Things, The Mandalorian).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.52326,
+                        -73.59379
+                    ],
+                    "Address": "5130 boulevard Saint-Laurent, bureau 200, Montr\u00e9al, QC H2T 1R8"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://raynault.com/careers",
+            "Employees": 50,
+            "Keywords": [
+                "effets visuels",
+                "matte painting",
+                "environnements",
+                "direction artistique"
+            ]
+        },
+        {
+            "Name": "Real by Fake",
+            "url": "https://realbyfake.com/",
+            "Description": "Studio montr\u00e9alais de post-production int\u00e9gr\u00e9e et d'effets visuels r\u00e9alistes (retouche num\u00e9rique, matte painting, effets invisibles) pour le cin\u00e9ma, la t\u00e9l\u00e9vision et la publicit\u00e9 (300, Black Summer), avec des bureaux \u00e0 Los Angeles et Mexico.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.4966,
+                        -73.55744
+                    ],
+                    "Address": "1479 rue Ottawa, Montr\u00e9al, QC H3C 1S9"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "effets visuels",
+                "post-production",
+                "effets invisibles",
+                "retouche num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Sony Pictures Imageworks",
+            "url": "https://www.imageworks.com/",
+            "Description": "Studio d'effets visuels et d'animation de Sony Pictures (si\u00e8ge \u00e0 Vancouver, films Spider-Verse), qui a ouvert en 2023 un studio dans le Vieux-Montr\u00e9al travaillant avec les \u00e9quipes de Vancouver et Los Angeles sur les longs m\u00e9trages d'animation et \u00e0 effets visuels.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.51211,
+                        -73.55167
+                    ],
+                    "Address": "700 rue Saint-Hubert, bureau 400, Montr\u00e9al, QC H2Y 0C1"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Simulation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.imageworks.com/job-postings",
+            "Employees": 150,
+            "Keywords": [
+                "long m\u00e9trage d'animation",
+                "effets visuels",
+                "rendu",
+                "Sony Pictures"
+            ]
+        },
+        {
+            "Name": "Reel FX",
+            "url": "https://www.reelfx.com/",
+            "Description": "Studio am\u00e9ricain d'animation 3D (si\u00e8ge \u00e0 Dallas) qui fabrique des longs m\u00e9trages d'animation (La L\u00e9gende de Manolo, Rumble) et poss\u00e8de depuis 2018 un studio \u00e0 Montr\u00e9al, dans le b\u00e2timent Le Nordelec.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.48394,
+                        -73.56221
+                    ],
+                    "Address": "1751 rue Richardson, bureau 5400, Montr\u00e9al, QC H3K 1G6"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": [
+                        "Dallas",
+                        "Los Angeles"
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "long m\u00e9trage d'animation",
+                "animation 3D",
+                "Nordelec"
+            ]
+        },
+        {
+            "Name": "Beyond Capture Studios",
+            "url": "https://www.beyond-capture.com/",
+            "Description": "Studio de capture de mouvement et de performance (si\u00e8ge \u00e0 Vancouver) dont le plateau de Montr\u00e9al, ouvert en 2023 (3 700 m\u00b2, 145 cam\u00e9ras Qualisys), est pr\u00e9sent\u00e9 comme le plus grand du monde ; travaille pour le jeu vid\u00e9o, le cin\u00e9ma et la t\u00e9l\u00e9vision (Mortal Kombat 1, Street Fighter 6).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.48799,
+                        -73.55882
+                    ],
+                    "Address": "1600 rue Saint-Patrick, Montr\u00e9al, QC H3K 2G3"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "motion capture",
+                "performance capture",
+                "photogramm\u00e9trie",
+                "production virtuelle"
+            ]
+        },
+        {
+            "Name": "Squeeze",
+            "url": "https://www.squeezestudio.com/",
+            "Description": "Studio d'animation 3D de Qu\u00e9bec et Montr\u00e9al (environ 150 \u00e0 200 personnes) qui fabrique s\u00e9ries, films, cin\u00e9matiques de jeux et contenus pour parcs \u00e0 th\u00e8me (What If...? de Marvel, Crack\u00e9), avec un studio de capture de mouvement ; soci\u00e9t\u00e9 partenaire de Cinesite depuis 2022.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Qu\u00e9bec",
+                    "Coordinates": [
+                        46.81434,
+                        -71.22257
+                    ],
+                    "Address": "520 boulevard Charest Est, bureau 340, Qu\u00e9bec, QC G1K 3J3"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50367,
+                        -73.55961
+                    ],
+                    "Address": "250 rue Saint-Antoine Ouest, bureau 500, Montr\u00e9al, QC H2Y 0A3"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.squeezestudio.com/fr/carrieres",
+            "Employees": 175,
+            "Keywords": [
+                "animation 3D",
+                "s\u00e9ries d'animation",
+                "cin\u00e9matiques",
+                "motion capture"
+            ]
+        },
+        {
+            "Name": "Tonic DNA",
+            "url": "https://tonicdna.com/",
+            "Description": "Studio d'animation et de design de Montr\u00e9al fond\u00e9 en 1983 (ex-Studio Pascal Blais, renomm\u00e9 en 2018), qui m\u00eale animation 2D et 3D pour la publicit\u00e9, les s\u00e9ries et le cin\u00e9ma, avec des bureaux \u00e0 Toronto et Mexico.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.5,
+                        -73.57
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 50,
+            "Keywords": [
+                "animation 2D/3D",
+                "publicit\u00e9",
+                "motion design",
+                "animation hybride"
+            ]
+        },
+        {
+            "Name": "Behaviour Interactive",
+            "url": "https://www.bhvr.com/",
+            "Description": "Plus grand studio ind\u00e9pendant de jeu vid\u00e9o au Canada (fond\u00e9 en 1992, si\u00e8ge \u00e0 Montr\u00e9al), cr\u00e9ateur et \u00e9diteur de Dead by Daylight, il fait aussi du co-d\u00e9veloppement (Gears of War: E-Day) et a des studios \u00e0 Toronto, au Royaume-Uni et \u00e0 Rotterdam.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.53071,
+                        -73.61363
+                    ],
+                    "Address": "6666 Rue Saint-Urbain, bureau 500, Montr\u00e9al, QC H2S 3H1"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.bhvr.com/jobs/",
+            "Employees": 1200,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu en ligne",
+                "co-d\u00e9veloppement",
+                "Dead by Daylight",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Eidos-Montr\u00e9al",
+            "url": "https://www.eidosmontreal.com/",
+            "Description": "Studio AAA montr\u00e9alais (groupe Embracer, ex-Square Enix) cr\u00e9ateur de Deus Ex: Human Revolution, Deus Ex: Mankind Divided, Shadow of the Tomb Raider et Marvel's Guardians of the Galaxy, aujourd'hui engag\u00e9 en co-d\u00e9veloppement (Grounded 2, Fable).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50626,
+                        -73.5694
+                    ],
+                    "Address": "400 Boulevard de Maisonneuve Ouest, 5e \u00e9tage, Montr\u00e9al, QC H3A 1L4"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.eidosmontreal.com/careers/",
+            "Employees": 200,
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "co-d\u00e9veloppement",
+                "Deus Ex",
+                "Embracer",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "WB Games Montr\u00e9al",
+            "url": "https://wbgamesmontreal.com/",
+            "Description": "Studio AAA de Warner Bros. Games install\u00e9 \u00e0 Montr\u00e9al depuis 2010, d\u00e9veloppeur de Batman: Arkham Origins et de Gotham Knights, avec plus de 300 personnes.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.51667,
+                        -73.55963
+                    ],
+                    "Address": "Place Dupuis, 888 Boulevard de Maisonneuve Est, bureau 600, Montr\u00e9al, QC H2L 4S8"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.wbgames.com/studios/montreal/",
+            "Employees": 300,
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "action-aventure",
+                "Batman",
+                "Warner Bros. Games"
+            ]
+        },
+        {
+            "Name": "Motive Studio",
+            "url": "https://www.ea.com/ea-studios/motive",
+            "Description": "Studio montr\u00e9alais d'Electronic Arts fond\u00e9 en 2015 (Star Wars: Squadrons, remake de Dead Space), qui d\u00e9veloppe Marvel's Iron Man sous Unreal Engine 5 et contribue \u00e0 la franchise Battlefield.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50054,
+                        -73.57703
+                    ],
+                    "Address": "2200 Rue Stanley, Montr\u00e9al, QC H3A 1R6"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.ea.com/careers",
+            "Employees": 300,
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "Electronic Arts",
+                "Dead Space",
+                "Iron Man",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Haven Studios",
+            "url": "https://havenstudios.com/en",
+            "Description": "Studio montr\u00e9alais de PlayStation Studios (Sony), fond\u00e9 en 2021 par Jade Raymond, qui d\u00e9veloppe Fairgames, jeu de braquage comp\u00e9titif pour PS5 et PC.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.51211,
+                        -73.55167
+                    ],
+                    "Address": "700 Rue Saint-Hubert, bureau 501, Montr\u00e9al, QC H2Y 1A6"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://havenstudios.com/en/careers",
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "jeu en ligne",
+                "PlayStation Studios",
+                "Fairgames"
+            ]
+        },
+        {
+            "Name": "Krafton Montr\u00e9al",
+            "url": "https://kraftonmontreal.com/",
+            "Description": "Studio AAA de l'\u00e9diteur cor\u00e9en Krafton (PUBG, inZOI), ouvert \u00e0 Montr\u00e9al en 2023 et dirig\u00e9 par Patrik M\u00e9th\u00e9 (ex-Far Cry), qui d\u00e9veloppe Project Windless, un RPG d'action en monde ouvert adapt\u00e9 de la s\u00e9rie de romans The Bird That Drinks Tears.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50351,
+                        -73.56813
+                    ],
+                    "Address": "606 Rue Cathcart, bureau 800, Montr\u00e9al, QC H3B 1K9"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://kraftonmontreal.com/#careers",
+            "Employees": 90,
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "monde ouvert",
+                "RPG",
+                "Krafton"
+            ]
+        },
+        {
+            "Name": "Reflector Entertainment",
+            "url": "https://reflectorentertainment.com/",
+            "Description": "Studio montr\u00e9alais du groupe Bandai Namco, cr\u00e9\u00e9 en 2016, auteur du jeu d'action-aventure Unknown 9: Awakening (2024) et d\u00e9sormais centr\u00e9 sur un projet unique autour d'une licence Bandai Namco.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.4973,
+                        -73.56828
+                    ],
+                    "Address": "1100 Avenue des Canadiens-de-Montr\u00e9al, bureau 150, Montr\u00e9al, QC H3B 0E3"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "action-aventure",
+                "Bandai Namco",
+                "Unknown 9"
+            ]
+        },
+        {
+            "Name": "Ludia",
+            "url": "https://www.ludia.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur montr\u00e9alais de jeux mobiles sur grandes licences (Jurassic World Alive, Jurassic World: The Game, Dragons: Rise of Berk), redevenu ind\u00e9pendant en 2025 apr\u00e8s sa cession par Jam City \u00e0 des investisseurs qu\u00e9b\u00e9cois.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50208,
+                        -73.55605
+                    ],
+                    "Address": "410 Rue Saint-Nicolas, bureau 400, Montr\u00e9al, QC H2Y 2P5"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.ludia.com/careers",
+            "Employees": 190,
+            "Keywords": [
+                "jeu mobile",
+                "free-to-play",
+                "Jurassic World",
+                "jeux sur licence"
+            ]
+        },
+        {
+            "Name": "Red Barrels",
+            "url": "https://redbarrelsgames.com/",
+            "Description": "Studio ind\u00e9pendant montr\u00e9alais fond\u00e9 en 2011, sp\u00e9cialis\u00e9 dans l'horreur \u00e0 la premi\u00e8re personne, cr\u00e9ateur de la s\u00e9rie Outlast (plus de 15 millions de joueurs) et du jeu coop\u00e9ratif The Outlast Trials.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50041,
+                        -73.55363
+                    ],
+                    "Address": "329 Rue de la Commune Ouest, bureau 100, Montr\u00e9al, QC H2Y 2E1"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 50,
+            "Keywords": [
+                "jeu d'horreur",
+                "Outlast",
+                "Unreal Engine",
+                "jeu ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Thunder Lotus Games",
+            "url": "https://thunderlotusgames.com/",
+            "Description": "Studio ind\u00e9pendant montr\u00e9alais fond\u00e9 en 2014, connu pour ses jeux dessin\u00e9s \u00e0 la main (Jotun, Sundered, Spiritfarer, 33 Immortals), qui pr\u00e9pare le jeu d'action-aventure At Fate's End.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.47617,
+                        -73.57909
+                    ],
+                    "Address": "3970 Rue Saint-Ambroise, Montr\u00e9al, QC H4C 2C7"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 33,
+            "Keywords": [
+                "animation 2D",
+                "jeu ind\u00e9pendant",
+                "Spiritfarer",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Kitfox Games",
+            "url": "https://www.kitfoxgames.com/",
+            "Description": "Studio ind\u00e9pendant et \u00e9diteur montr\u00e9alais fond\u00e9 en 2013 (Moon Hunters, The Shrouded Isle, Boyfriend Dungeon), \u00e9diteur de Dwarf Fortress sur Steam.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.5,
+                        -73.57
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 12,
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "\u00e9dition de jeux",
+                "Dwarf Fortress"
+            ]
+        },
+        {
+            "Name": "Panache Digital Games",
+            "url": "https://panachedigitalgames.com/en/",
+            "Description": "Studio ind\u00e9pendant montr\u00e9alais fond\u00e9 en 2014 par Patrice D\u00e9silets (cr\u00e9ateur d'Assassin's Creed), auteur d'Ancestors: The Humankind Odyssey, qui d\u00e9veloppe 1666: Amsterdam.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.51682,
+                        -73.57839
+                    ],
+                    "Address": "3981 Boulevard Saint-Laurent, bureau 700, Montr\u00e9al, QC H2W 1Y5"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "action-aventure",
+                "Unreal Engine",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Tribute Games",
+            "url": "https://tributegames.com/",
+            "Description": "Studio ind\u00e9pendant montr\u00e9alais fond\u00e9 en 2011 par d'anciens d'Ubisoft, sp\u00e9cialiste des jeux d'action en pixel art (Mercenary Kings, Flinthook, TMNT: Shredder's Revenge, Marvel Cosmic Invasion, Scott Pilgrim EX en 2026).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.48249,
+                        -73.58193
+                    ],
+                    "Address": "3435 Rue Saint-Jacques, Montr\u00e9al, QC H4C 1G9"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "pixel art",
+                "jeu d'action",
+                "beat 'em up",
+                "jeu ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Raccoon Logic",
+            "url": "https://www.raccoonlogic.com/",
+            "Description": "Studio montr\u00e9alais fond\u00e9 en 2021 par l'\u00e9quipe de Typhoon Studios (ferm\u00e9 par Google), auteur de Revenge of the Savage Planet (2025), qui pr\u00e9pare Breakaway, un jeu de hockey comp\u00e9titif en \u00e9quipe.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.49967,
+                        -73.58218
+                    ],
+                    "Address": "3474 Avenue du Mus\u00e9e, Montr\u00e9al, QC H3G 2C7"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 30,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "action-aventure",
+                "jeu ind\u00e9pendant",
+                "Savage Planet"
+            ]
+        },
+        {
+            "Name": "Rogue Factor",
+            "url": "https://rogue-factor.com/",
+            "Description": "Studio montr\u00e9alais fond\u00e9 en 2013 (Mordheim: City of the Damned, Necromunda: Underhive Wars), filiale de Nacon, d\u00e9veloppeur du jeu d'action-aventure Hell is Us (2025).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.5,
+                        -73.57
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "action-aventure",
+                "Nacon",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Budge Studios",
+            "url": "https://budgestudios.com/",
+            "Description": "Studio montr\u00e9alais de jeux mobiles pour enfants sur grandes licences (Barbie DreamHouse Adventures, PAW Patrol Rescue World, Bluey, Dora, Hello Kitty), rachet\u00e9 par Haveli Investments en 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.52719,
+                        -73.59564
+                    ],
+                    "Address": "5455 Avenue de Gasp\u00e9, bureau 540, Montr\u00e9al, QC H2T 3B3"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 125,
+            "Keywords": [
+                "jeu mobile",
+                "jeux pour enfants",
+                "jeux sur licence"
+            ]
+        },
+        {
+            "Name": "Invoke Studios",
+            "url": "https://www.invokestudios.com/",
+            "Description": "Studio montr\u00e9alais de Wizards of the Coast (Hasbro), ex-Tuque Games (Dungeons & Dragons: Dark Alliance), qui d\u00e9veloppe Warlock: Dungeons & Dragons, montr\u00e9 \u00e0 la Gamescom 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50065,
+                        -73.56441
+                    ],
+                    "Address": "1001 Boulevard Robert-Bourassa, 17e \u00e9tage, Montr\u00e9al, QC H3B 4L4"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "Dungeons & Dragons",
+                "action-RPG",
+                "Hasbro"
+            ]
+        },
+        {
+            "Name": "Frima Studio",
+            "url": "https://frimastudio.com/",
+            "Description": "Studio de d\u00e9veloppement de jeux vid\u00e9o bas\u00e9 \u00e0 Qu\u00e9bec et \u00e0 Montr\u00e9al depuis plus de 20 ans, qui fait du co-d\u00e9veloppement AAA (expertise Unreal), du d\u00e9veloppement complet et de la co-production, avec des centaines de personnes.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Qu\u00e9bec",
+                    "Coordinates": [
+                        46.8125,
+                        -71.2243
+                    ],
+                    "Address": "395 Rue Victor-Revillon, Qu\u00e9bec, QC G1K 3M8"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.497,
+                        -73.55419
+                    ],
+                    "Address": "50 Rue Queen, local 104, Montr\u00e9al, QC H3C 2N5"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "co-d\u00e9veloppement",
+                "Unreal Engine",
+                "jeu vid\u00e9o",
+                "Qu\u00e9bec"
+            ]
+        },
+        {
+            "Name": "Sabotage Studio",
+            "url": "https://sabotagestudio.com/",
+            "Description": "Studio ind\u00e9pendant de la ville de Qu\u00e9bec fond\u00e9 en 2016, cr\u00e9ateur des jeux r\u00e9tro The Messenger et Sea of Stars, un RPG au tour par tour largement prim\u00e9.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Qu\u00e9bec",
+                    "Coordinates": [
+                        46.81513,
+                        -71.22141
+                    ],
+                    "Address": "633 Rue Saint-Joseph Est, bureau 200, Qu\u00e9bec, QC G1K 3C1"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "pixel art",
+                "RPG",
+                "jeu ind\u00e9pendant",
+                "Sea of Stars"
+            ]
+        },
+        {
+            "Name": "iLLOGIKA",
+            "url": "https://www.illogika.com/",
+            "Description": "Studio montr\u00e9alais de d\u00e9veloppement et de co-d\u00e9veloppement de jeux vid\u00e9o et d'exp\u00e9riences interactives, qui a cr\u00e9\u00e9 la filiale Studio Rabaska, consacr\u00e9e \u00e0 la r\u00e9alit\u00e9 virtuelle en salle (LBVR).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.52825,
+                        -73.59798
+                    ],
+                    "Address": "5605 Avenue de Gasp\u00e9, bureau 401, Montr\u00e9al, QC H2T 2A4"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "co-d\u00e9veloppement",
+                "jeu vid\u00e9o",
+                "r\u00e9alit\u00e9 virtuelle",
+                "LBVR"
+            ]
+        },
+        {
+            "Name": "Paralives Studio",
+            "url": "https://www.paralives.com/",
+            "Description": "Studio ind\u00e9pendant montr\u00e9alais fond\u00e9 par Alex Mass\u00e9, qui d\u00e9veloppe Paralives, un jeu de simulation de vie aux outils de construction sans grille, en acc\u00e8s anticip\u00e9 sur Steam depuis mai 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.5,
+                        -73.57
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "simulation de vie",
+                "jeu ind\u00e9pendant",
+                "Unity",
+                "construction 3D"
+            ]
+        },
+        {
+            "Name": "CAE",
+            "url": "https://www.cae.com/",
+            "Description": "Leader mondial des simulateurs de vol et de la formation (aviation civile, d\u00e9fense, sant\u00e9), dont le si\u00e8ge et la principale usine sont \u00e0 Saint-Laurent ; d\u00e9veloppe ses propres syst\u00e8mes visuels, dont le g\u00e9n\u00e9rateur d'images CAE Prodigy bas\u00e9 sur Unreal Engine, premier simulateur de vol \u00e0 moteur de jeu qualifi\u00e9 niveau D.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.47672,
+                        -73.70879
+                    ],
+                    "Address": "8585 Chemin de la C\u00f4te-de-Liesse, Saint-Laurent, QC H4T 1G6"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Entrainement/Formation/Serious Game",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://www.cae.com/careers/",
+            "Employees": 13000,
+            "Keywords": [
+                "simulateur de vol",
+                "g\u00e9n\u00e9rateur d'images",
+                "formation des pilotes",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Toon Boom",
+            "Name-long": "Toon Boom Animation",
+            "url": "https://www.toonboom.com/",
+            "Description": "\u00c9diteur montr\u00e9alais (1994) de logiciels d'animation 2D et de storyboard (Harmony, Storyboard Pro, Producer), standard de l'industrie pour les s\u00e9ries et longs m\u00e9trages d'animation ; Harmony 25 sorti en 2025.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.51947,
+                        -73.58724
+                    ],
+                    "Address": "55 Avenue du Mont-Royal Ouest, bureau 1000, Montr\u00e9al, QC H2T 2S6"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.toonboom.com/careers",
+            "Keywords": [
+                "animation 2D",
+                "storyboard",
+                "Harmony",
+                "logiciel d'animation"
+            ]
+        },
+        {
+            "Name": "CM Labs",
+            "Name-long": "CM Labs Simulations",
+            "url": "https://www.cm-labs.com/",
+            "Description": "\u00c9diteur montr\u00e9alais de Vortex Studio, moteur de simulation m\u00e9canique temps r\u00e9el haute fid\u00e9lit\u00e9, et de simulateurs de formation pour grues, engins de chantier et op\u00e9rations maritimes (plus de 2 000 installations dans 50 pays).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.49856,
+                        -73.55541
+                    ],
+                    "Address": "645 Rue Wellington, bureau 301, Montr\u00e9al, QC H3C 1T2"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://cm-labs.com/en/careers/",
+            "Keywords": [
+                "simulation physique temps r\u00e9el",
+                "simulateurs de formation",
+                "Vortex Studio",
+                "engins de chantier"
+            ]
+        },
+        {
+            "Name": "Matrox",
+            "Name-long": "Matrox Video / Matrox Graphics",
+            "url": "https://video.matrox.com/",
+            "Description": "Groupe de Dorval (fond\u00e9 en 1976) concevant cartes graphiques multi-\u00e9crans, contr\u00f4leurs de murs d'images et mat\u00e9riel de capture, d'encodage et de diffusion vid\u00e9o sur IP (Matrox Video).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Dorval",
+                    "Coordinates": [
+                        45.49184,
+                        -73.76753
+                    ],
+                    "Address": "1055 Boulevard Saint-R\u00e9gis, Dorval, QC H9P 2T4"
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Acquisition",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://video.matrox.com/en/careers",
+            "Keywords": [
+                "cartes graphiques",
+                "murs d'images",
+                "vid\u00e9o sur IP",
+                "encodage"
+            ]
+        },
+        {
+            "Name": "Haply Robotics",
+            "url": "https://www.haply.co/",
+            "Description": "Start-up montr\u00e9alaise d'interfaces haptiques \u00e0 retour d'effort (Inverse3, MinVerse) pour la t\u00e9l\u00e9op\u00e9ration de robots, la simulation m\u00e9dicale, la XR et la mod\u00e9lisation 3D ; double laur\u00e9ate CES Innovation Awards 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.51871,
+                        -73.58387
+                    ],
+                    "Address": "4316 Boulevard Saint-Laurent, bureau 400, Montr\u00e9al, QC H2W 1Z3"
+                }
+            ],
+            "Scientific-domain": [
+                "IHM/Haptique",
+                "Hardware",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "M\u00e9dical/Biologique",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Jobs": "https://www.haply.co/careers",
+            "Keywords": [
+                "haptique",
+                "retour d'effort",
+                "t\u00e9l\u00e9op\u00e9ration",
+                "simulation chirurgicale"
+            ]
+        },
+        {
+            "Name": "Prevu3D",
+            "url": "https://www.prevu3d.com/",
+            "Description": "\u00c9diteur montr\u00e9alais de RealityPlatform, logiciel de capture et de gestion de donn\u00e9es de r\u00e9alit\u00e9 (scans LiDAR, Gaussian splats, vid\u00e9o 360\u00b0, CAO/BIM) pour cr\u00e9er des jumeaux num\u00e9riques d'usines et d'installations industrielles.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.47403,
+                        -73.59262
+                    ],
+                    "Address": "642 Rue de Courcelle, bureau 404, Montr\u00e9al, QC H4C 3C7"
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Acquisition",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Jobs": "https://www.prevu3d.com/careers/",
+            "Keywords": [
+                "jumeau num\u00e9rique",
+                "nuages de points",
+                "Gaussian splatting",
+                "scan-to-CAD"
+            ]
+        },
+        {
+            "Name": "Dragonfly (Comet)",
+            "Name-long": "Comet Technologies Canada (ex-Object Research Systems)",
+            "url": "https://comet.tech/dragonfly",
+            "Description": "Logiciel Dragonfly de visualisation et d'analyse d'images 3D (tomographie, microscopie \u00e9lectronique et optique, segmentation par apprentissage profond), d\u00e9velopp\u00e9 \u00e0 Montr\u00e9al par l'ex-Object Research Systems (ORS, 2004), filiale du groupe suisse Comet depuis 2020.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.49807,
+                        -73.5591
+                    ],
+                    "Address": "760 Rue Saint-Paul Ouest, Montr\u00e9al, QC"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Jobs": "https://comet.tech/dragonfly/company/jobs",
+            "Keywords": [
+                "imagerie 3D",
+                "tomographie",
+                "segmentation",
+                "microscopie"
+            ]
+        },
+        {
+            "Name": "Plotly",
+            "Name-long": "Plotly Technologies",
+            "url": "https://plotly.com/",
+            "Description": "\u00c9diteur montr\u00e9alais des biblioth\u00e8ques open source de visualisation interactive de donn\u00e9es Plotly (Python, R, JavaScript) et de la plateforme Dash Enterprise pour construire des applications analytiques ; Dash Enterprise 6 et l'outil Plotly Studio en 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.52782,
+                        -73.59738
+                    ],
+                    "Address": "5555 Avenue de Gasp\u00e9, Montr\u00e9al, QC"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Web/Cloud/Big Data",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://plotly.com/careers/",
+            "Employees": 100,
+            "Keywords": [
+                "visualisation de donn\u00e9es",
+                "graphiques interactifs",
+                "Dash",
+                "open source"
+            ]
+        },
+        {
+            "Name": "Sportlogiq",
+            "url": "https://www.sportlogiq.com/",
+            "Description": "Soci\u00e9t\u00e9 montr\u00e9alaise de vision par ordinateur qui extrait par apprentissage profond le suivi des joueurs et des statistiques \u00e0 partir de vid\u00e9os de diffusion (hockey, football, soccer), utilis\u00e9e par la quasi-totalit\u00e9 des \u00e9quipes de la LNH ; rachet\u00e9e par Teamworks en janvier 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.48929,
+                        -73.58619
+                    ],
+                    "Address": "3500 Boulevard De Maisonneuve Ouest, bureau 570, Westmount, QC H3Z 3C1"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://www.sportlogiq.com/careers/",
+            "Employees": 80,
+            "Keywords": [
+                "vision par ordinateur",
+                "suivi de joueurs",
+                "analyse vid\u00e9o sportive",
+                "apprentissage profond"
+            ]
+        },
+        {
+            "Name": "Vention",
+            "url": "https://vention.com/",
+            "Description": "Plateforme montr\u00e9alaise de conception et de d\u00e9ploiement d'\u00e9quipements automatis\u00e9s : CAO 3D dans le navigateur (MachineBuilder) avec biblioth\u00e8que de composants modulaires, simulation et programmation de cellules robotis\u00e9es, contr\u00f4leur MachineMotion AI.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.47256,
+                        -73.59047
+                    ],
+                    "Address": "4767 Rue Dagenais, Montr\u00e9al, QC H4C 1L8"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Simulation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://vention.com/careers",
+            "Employees": 360,
+            "Keywords": [
+                "CAO 3D web",
+                "automatisation",
+                "robotique industrielle",
+                "simulation"
+            ]
+        },
+        {
+            "Name": "Creaform",
+            "url": "https://www.creaform3d.com/",
+            "Description": "Fabricant de L\u00e9vis (pr\u00e8s de Qu\u00e9bec) de scanners 3D portables (HandySCAN, Go!SCAN, MetraSCAN) et de logiciels de m\u00e9trologie et d'inspection 3D, filiale d'AMETEK r\u00e9unie \u00e0 FARO depuis 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "L\u00e9vis",
+                    "Coordinates": [
+                        46.7758,
+                        -71.1723
+                    ],
+                    "Address": "4700 Rue de la Pascaline, L\u00e9vis, QC G6W 0L9"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://careers.creaform3d.com/",
+            "Employees": 570,
+            "Keywords": [
+                "scanner 3D",
+                "m\u00e9trologie",
+                "inspection",
+                "num\u00e9risation 3D"
+            ]
+        },
+        {
+            "Name": "InnovMetric",
+            "Name-long": "InnovMetric Software",
+            "url": "https://www.polyworks.com/",
+            "Description": "\u00c9diteur qu\u00e9b\u00e9cois (1994) de PolyWorks, suite logicielle de m\u00e9trologie 3D universelle (traitement de nuages de points, inspection, comparaison CAO) utilis\u00e9e dans l'automobile et l'a\u00e9ronautique ; environ 650 employ\u00e9s.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Qu\u00e9bec",
+                    "Coordinates": [
+                        46.79605,
+                        -71.27139
+                    ],
+                    "Address": "2014 Rue Cyrille-Duquet, bureau 310, Qu\u00e9bec, QC G1N 4N6"
+                }
+            ],
+            "Scientific-domain": [
+                "G\u00e9om\u00e9trie",
+                "Reconstruction",
+                "Acquisition",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://careers-innovmetric.icims.com/",
+            "Employees": 650,
+            "Keywords": [
+                "m\u00e9trologie 3D",
+                "nuages de points",
+                "inspection",
+                "PolyWorks"
+            ]
+        },
+        {
+            "Name": "Airy3D",
+            "url": "https://www.airy3d.com/",
+            "Description": "Soci\u00e9t\u00e9 montr\u00e9alaise de vision 3D qui transforme un capteur d'image 2D standard en capteur de profondeur gr\u00e2ce \u00e0 un masque de diffraction brevet\u00e9 et \u00e0 des algorithmes d'imagerie computationnelle (DepthIQ), pour l'\u00e9lectronique grand public, la robotique et l'automobile.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.52719,
+                        -73.59564
+                    ],
+                    "Address": "5445 Avenue de Gasp\u00e9, bureau 230, Montr\u00e9al, QC H2T 3B2"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://www.airy3d.com/join-us/",
+            "Keywords": [
+                "capteur de profondeur",
+                "imagerie computationnelle",
+                "vision 3D",
+                "DepthIQ"
+            ]
+        },
+        {
+            "Name": "Intelerad",
+            "Name-long": "Intelerad Medical Systems",
+            "url": "https://www.intelerad.com/",
+            "Description": "\u00c9diteur montr\u00e9alais (1999) de logiciels d'imagerie m\u00e9dicale (PACS, visualiseurs diagnostiques, archivage et flux de travail radiologiques en cloud), environ 700 \u00e0 800 employ\u00e9s dans quatre pays ; class\u00e9 n\u00b0 1 PACS Royaume-Uni/Irlande au Best in KLAS 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.51632,
+                        -73.56003
+                    ],
+                    "Address": "800 Boulevard De Maisonneuve Est, 14e \u00e9tage, Montr\u00e9al, QC H2L 4L8"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.intelerad.com/en/careers/",
+            "Employees": 750,
+            "Keywords": [
+                "PACS",
+                "imagerie m\u00e9dicale",
+                "radiologie",
+                "visualisation diagnostique"
+            ]
+        },
+        {
+            "Name": "Float4",
+            "url": "https://www.float4.com/en/",
+            "Description": "Studio montr\u00e9alais de design et de production d'exp\u00e9riences num\u00e9riques immersives int\u00e9gr\u00e9es aux lieux physiques (murs de LED interactifs, installations g\u00e9n\u00e9ratives pour halls d'h\u00f4tels, observatoires et espaces publics), \u00e9diteur de la plateforme Realmotion.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.47692,
+                        -73.59271
+                    ],
+                    "Address": "1001 Rue Lenoir, bureau C-214, Montr\u00e9al, QC H4C 2Z6"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "IHM/Haptique",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "Commerce/Marketing/Publicit\u00e9",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Jobs": "https://www.float4.com/en/careers/",
+            "Employees": 25,
+            "Keywords": [
+                "installations interactives",
+                "contenu g\u00e9n\u00e9ratif",
+                "murs de LED",
+                "exp\u00e9riences immersives"
+            ]
+        },
+        {
+            "Name": "Optina Diagnostics",
+            "url": "https://www.optinadx.com/",
+            "Description": "Medtech montr\u00e9alaise d\u00e9veloppant une cam\u00e9ra r\u00e9tinienne hyperspectrale (autoris\u00e9e par la FDA) coupl\u00e9e \u00e0 des algorithmes d'IA pour le diagnostic et le suivi des maladies de la r\u00e9tine (DMLA) et le d\u00e9pistage pr\u00e9coce d'Alzheimer.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.49841,
+                        -73.66195
+                    ],
+                    "Address": "8200 Boulevard D\u00e9carie, bureau 220, Montr\u00e9al, QC H4P 2P5"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie hyperspectrale",
+                "r\u00e9tine",
+                "IA m\u00e9dicale",
+                "Alzheimer"
+            ]
+        },
+        {
+            "Name": "DIAGNOS",
+            "Name-long": "DIAGNOS inc.",
+            "url": "https://diagnosmedical.com/",
+            "Description": "Soci\u00e9t\u00e9 de Brossard cot\u00e9e \u00e0 la Bourse de croissance TSX qui d\u00e9veloppe CARA, plateforme d'analyse d'images r\u00e9tiniennes assist\u00e9e par IA (d\u00e9tection de la r\u00e9tinopathie diab\u00e9tique et de la DMLA, analyse microvasculaire, am\u00e9lioration d'image), homologu\u00e9e par Sant\u00e9 Canada en juillet 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Brossard",
+                    "Coordinates": [
+                        45.46681,
+                        -73.4654
+                    ],
+                    "Address": "7005 Boulevard Taschereau, bureau 265, Brossard, QC J4Z 1A7"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie r\u00e9tinienne",
+                "IA m\u00e9dicale",
+                "r\u00e9tinopathie diab\u00e9tique",
+                "analyse d'images"
+            ]
+        },
+        {
+            "Name": "Immervision",
+            "url": "https://www.immervision.com/",
+            "Description": "Soci\u00e9t\u00e9 montr\u00e9alaise (fond\u00e9e en France en 2000, \u00e0 Montr\u00e9al depuis 2003) sp\u00e9cialis\u00e9e dans les objectifs panoramiques panomorphes, les modules cam\u00e9ra grand angle, les algorithmes de traitement d'image (redressement, fusion) et la simulation de cam\u00e9ras par jumeau num\u00e9rique ; technologie int\u00e9gr\u00e9e aux ThinkPad de Lenovo pr\u00e9sent\u00e9s au CES 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50427,
+                        -73.57242
+                    ],
+                    "Address": "2020 Boulevard Robert-Bourassa, bureau 2320, Montr\u00e9al, QC H3A 2A5"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Vision",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://www.immervision.com/immervision/careers/",
+            "Keywords": [
+                "optique grand angle",
+                "traitement d'image",
+                "simulation de cam\u00e9ra",
+                "vision embarqu\u00e9e"
+            ]
+        },
+        {
+            "Name": "Photon etc.",
+            "url": "https://www.photonetc.com/",
+            "Description": "Fabricant montr\u00e9alais (2003, issu de Caltech) de syst\u00e8mes d'imagerie hyperspectrale et infrarouge (cam\u00e9ras SWIR, imageurs grand champ GRAND-EOS, microscopes hyperspectraux) et de leur logiciel d'analyse PHySpec, pour la recherche biom\u00e9dicale, les mat\u00e9riaux et l'industrie.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.52947,
+                        -73.59969
+                    ],
+                    "Address": "5795 Avenue de Gasp\u00e9, bureau 222, Montr\u00e9al, QC H2S 2X3"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO",
+                "\u00c9nergie/Environnement"
+            ],
+            "Jobs": "https://www.photonetc.com/about-us/careers/",
+            "Keywords": [
+                "imagerie hyperspectrale",
+                "cam\u00e9ras infrarouges",
+                "microscopie",
+                "analyse spectrale"
+            ]
+        },
+        {
+            "Name": "SimActive",
+            "url": "https://www.simactive.com/",
+            "Description": "\u00c9diteur montr\u00e9alais (2003) de Correlator3D, logiciel de photogramm\u00e9trie de bout en bout (a\u00e9rotriangulation, nuages de points, mod\u00e8les num\u00e9riques de terrain, orthomosa\u00efques, maillages 3D et, depuis 2026, Gaussian splats) pour images de drones, d'avions et de satellites.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.50269,
+                        -73.55748
+                    ],
+                    "Address": "465 Rue Saint-Jean, bureau 701, Montr\u00e9al, QC H2Y 2R6"
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "G\u00e9om\u00e9trie",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme",
+                "\u00c9nergie/Environnement"
+            ],
+            "Keywords": [
+                "photogramm\u00e9trie",
+                "drones",
+                "Gaussian splatting",
+                "orthophotos"
             ]
         }
     ]

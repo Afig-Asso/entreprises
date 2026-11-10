@@ -237,7 +237,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Grand éditeur et développeur américain de jeux vidéo (filiale de Microsoft), connu pour la franchise Call of Duty développée par ses studios Treyarch, Infinity Ward, Raven Software._
   * **Mots clés**: _AAA, console/PC, mobile, édition de jeux, multijoueur en ligne, FPS, Call of Duty_
   * **Remarque**: _Filiale de Microsoft (Xbox) depuis le rachat d'Activision Blizzard en octobre 2023._
-  * **Localisation**: États-Unis/Los Angeles, International
+  * **Localisation**: États-Unis/Los Angeles, Canada/{Québec, Montréal}, International
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://careers.activision.com/)
@@ -290,6 +290,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Simulation, Vision
   * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense
   * [_Jobs_](https://www.airbus.com/en/careers)
+
+
+* **[Airy3D](https://www.airy3d.com/)**  
+  * _Société montréalaise de vision 3D qui transforme un capteur d'image 2D standard en capteur de profondeur grâce à un masque de diffraction breveté et à des algorithmes d'imagerie computationnelle (DepthIQ), pour l'électronique grand public, la robotique et l'automobile._
+  * **Mots clés**: _capteur de profondeur, imagerie computationnelle, vision 3D, DepthIQ_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Acquisition, Vision, Imagerie
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense
+  * [_Jobs_](https://www.airy3d.com/join-us/)
 
 
 * **[Aledia](https://www.aledia.com/)**  
@@ -687,7 +696,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Mots clés**: _CAO, BIM, animation 3D, effets visuels, plugin/logiciel pour artistes, Maya, 3ds Max, AutoCAD_
   * **Remarque**: _A racheté en août 2024 la société rennaise Golaem (logiciel de simulation de foules pour les VFX), qui n'existe plus en tant que telle._
   * **Produits**: Maya, 3DS Max, AutoCAD, Golaem
-  * **Localisation**: États-Unis, Canada, Inde, Royaume-Uni, Singapour, Norvège, International
+  * **Localisation**: États-Unis, Inde, Royaume-Uni, Singapour, Norvège, Canada/Montréal, International
   * **Nombres d'employés**: 15000
   * **Domaine scientifique/technique**: Modélisation, Animation, Design/Fabrication, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO
@@ -789,6 +798,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.beemoov.com/recrutement)
 
 
+* **[Behaviour Interactive](https://www.bhvr.com/)**  
+  * _Plus grand studio indépendant de jeu vidéo au Canada (fondé en 1992, siège à Montréal), créateur et éditeur de Dead by Daylight, il fait aussi du co-développement (Gears of War: E-Day) et a des studios à Toronto, au Royaume-Uni et à Rotterdam._
+  * **Mots clés**: _jeu vidéo, jeu en ligne, co-développement, Dead by Daylight, console/PC_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 1200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.bhvr.com/jobs/)
+
+
 * **[Beicip-Franlab](https://www.beicip.com/)**  
   * _Filiale d'IFP Energies nouvelles qui édite la plateforme OpenFlow de modélisation géologique 3D, de bassin et de réservoir pour l'énergie et le stockage du CO2._
   * **Mots clés**: _modélisation géologique, simulation, visualisation 3D, géosciences_
@@ -828,6 +847,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: VR/AR, Animation, Visualisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+
+
+* **[Beyond Capture Studios](https://www.beyond-capture.com/)**  
+  * _Studio de capture de mouvement et de performance (siège à Vancouver) dont le plateau de Montréal, ouvert en 2023 (3 700 m², 145 caméras Qualisys), est présenté comme le plus grand du monde ; travaille pour le jeu vidéo, le cinéma et la télévision (Mortal Kombat 1, Street Fighter 6)._
+  * **Mots clés**: _motion capture, performance capture, photogrammétrie, production virtuelle_
+  * **Localisation**: Canada/Montréal, Canada/Vancouver
+  * **Domaine scientifique/technique**: Acquisition, Animation, Reconstruction
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
 
 
 * **[Big Company](https://www.bigcompany.fr/)**  
@@ -1058,6 +1085,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://buck.co/careers)
 
 
+* **[Budge Studios](https://budgestudios.com/)**  
+  * _Studio montréalais de jeux mobiles pour enfants sur grandes licences (Barbie DreamHouse Adventures, PAW Patrol Rescue World, Bluey, Dora, Hello Kitty), racheté par Haveli Investments en 2026._
+  * **Mots clés**: _jeu mobile, jeux pour enfants, jeux sur licence_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 125
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[BUF](https://buf.com/)**  
   * _Studio d'effets visuels pionnier (Paris, Montréal) actif depuis près de 30 ans sur plus de 100 films et 900 publicités, avec ses propres outils logiciels._
   * **Mots clés**: _effets visuels, long métrage, séries TV, publicité, clips, pipeline maison_
@@ -1104,6 +1140,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.04.cadwork.com/offres-demploi/)
 
 
+* **[CAE](https://www.cae.com/)**  
+  * _Leader mondial des simulateurs de vol et de la formation (aviation civile, défense, santé), dont le siège et la principale usine sont à Saint-Laurent ; développe ses propres systèmes visuels, dont le générateur d'images CAE Prodigy basé sur Unreal Engine, premier simulateur de vol à moteur de jeu qualifié niveau D._
+  * **Mots clés**: _simulateur de vol, générateur d'images, formation des pilotes, Unreal Engine_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 13000
+  * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game, Sécurité/Défense
+  * [_Jobs_](https://www.cae.com/careers/)
+
+
 * **[Canon Research Centre France](https://www.crf.canon.fr/)**  
   * _Centre de recherche européen de Canon à Cesson-Sévigné, spécialisé en traitement d'image et de vidéo, réseaux pour la vidéo haute qualité et IA, contributeur aux standards internationaux._
   * **Mots clés**: _compression vidéo, traitement d'images, vidéosurveillance, standardisation_
@@ -1127,7 +1173,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Studio d'animation indépendant (2D, 3D et hybride) basé à Paris avec des studios à Annecy, Angoulême, Montréal et Liège, prestataire de fabrication de séries et films._
   * **Mots clés**: _animation 2D, animation 3D, séries d'animation, fabrication_
   * **Remarque**: _Établissement annexe Caribara Annecy (SIREN 503980476)._
-  * **Localisation**: Paris, Annecy, Angoulême
+  * **Localisation**: Paris, Annecy, Angoulême, Canada/Montréal
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1221,7 +1267,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Cinesite](https://www.cinesite.com/)**  
   * _Studio d'effets visuels et d'animation de longs métrages basé à Londres (Soho) avec des studios à Montréal et ailleurs ; travaille pour les grands studios hollywoodiens et produit ses propres films d'animation._
   * **Mots clés**: _VFX, Animation 3D, Long métrage_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, Canada/Montréal
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://cinesite.com/careers/)
@@ -1281,6 +1327,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 500
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[CM Labs](https://www.cm-labs.com/)** (CM Labs Simulations) 
+  * _Éditeur montréalais de Vortex Studio, moteur de simulation mécanique temps réel haute fidélité, et de simulateurs de formation pour grues, engins de chantier et opérations maritimes (plus de 2 000 installations dans 50 pays)._
+  * **Mots clés**: _simulation physique temps réel, simulateurs de formation, Vortex Studio, engins de chantier_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, VR/AR
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes
+  * [_Jobs_](https://cm-labs.com/en/careers/)
 
 
 * **[Coatsink](https://coatsink.com/)**  
@@ -1359,9 +1414,19 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Crafty Apes](https://craftyapes.com/)**  
   * _Studio américain d'effets visuels complet (Los Angeles, Atlanta, Vancouver, Montréal, New York, Sydney) avec un studio à Londres (Clerkenwell) pour le cinéma et les séries._
   * **Mots clés**: _effets visuels, cinéma, séries, lighting_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, Canada/Montréal
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Creaform](https://www.creaform3d.com/)**  
+  * _Fabricant de Lévis (près de Québec) de scanners 3D portables (HandySCAN, Go!SCAN, MetraSCAN) et de logiciels de métrologie et d'inspection 3D, filiale d'AMETEK réunie à FARO depuis 2026._
+  * **Mots clés**: _scanner 3D, métrologie, inspection, numérisation 3D_
+  * **Localisation**: Canada/Lévis
+  * **Nombres d'employés**: 570
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Géométrie
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://careers.creaform3d.com/)
 
 
 * **[Creative Assembly](https://www.creative-assembly.com/)**  
@@ -1575,6 +1640,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.diagnoly.com/careers/)
 
 
+* **[DIAGNOS](https://diagnosmedical.com/)** (DIAGNOS inc.) 
+  * _Société de Brossard cotée à la Bourse de croissance TSX qui développe CARA, plateforme d'analyse d'images rétiniennes assistée par IA (détection de la rétinopathie diabétique et de la DMLA, analyse microvasculaire, amélioration d'image), homologuée par Santé Canada en juillet 2026._
+  * **Mots clés**: _imagerie rétinienne, IA médicale, rétinopathie diabétique, analyse d'images_
+  * **Localisation**: Canada/Brossard
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Digital District](https://www.digital-district.fr)**  
   * _Studio d'effets visuels et de post-production pour le cinéma, les séries et la publicité._
   * **Mots clés**: _effets visuels, post-production, étalonnage, publicité, long métrage, matte painting, simulation de fluides_
@@ -1663,7 +1736,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[DNEG](https://www.dneg.com/)**  
   * _Studio d'effets visuels et d'animation basé à Londres (Double Negative), multi-oscarisé (Inception, Interstellar, Dune), avec de nombreux studios dans le monde ; développe ses propres outils de rendu et de production._
   * **Mots clés**: _VFX, Animation, Pipeline, Rendu_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, Canada/Montréal
   * **Nombres d'employés**: 1500
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1714,6 +1787,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Floirac
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Art/Evenementiel
+
+
+* **[Dragonfly (Comet)](https://comet.tech/dragonfly)** (Comet Technologies Canada (ex-Object Research Systems)) 
+  * _Logiciel Dragonfly de visualisation et d'analyse d'images 3D (tomographie, microscopie électronique et optique, segmentation par apprentissage profond), développé à Montréal par l'ex-Object Research Systems (ORS, 2004), filiale du groupe suisse Comet depuis 2020._
+  * **Mots clés**: _imagerie 3D, tomographie, segmentation, microscopie_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Imagerie, Visualisation, Vision
+  * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://comet.tech/dragonfly/company/jobs)
 
 
 * **[Drama Studios](https://studiosdrama.com/)**  
@@ -1856,6 +1938,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Paris
   * **Domaine scientifique/technique**: Animation, Acquisition, Reconstruction, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Eidos-Montréal](https://www.eidosmontreal.com/)**  
+  * _Studio AAA montréalais (groupe Embracer, ex-Square Enix) créateur de Deus Ex: Human Revolution, Deus Ex: Mankind Divided, Shadow of the Tomb Raider et Marvel's Guardians of the Galaxy, aujourd'hui engagé en co-développement (Grounded 2, Fable)._
+  * **Mots clés**: _jeu vidéo AAA, co-développement, Deus Ex, Embracer, console/PC_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.eidosmontreal.com/careers/)
 
 
 * **[EikoSim](https://eikosim.com/)**  
@@ -2002,7 +2094,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Éditeur américain du moteur Unreal Engine et du jeu Fortnite, également propriétaire de l'Epic Games Store, de Quixel, RealityCapture et MetaHuman._
   * **Mots clés**: _Unreal Engine, AAA, free-to-play, multijoueur en ligne, Fortnite, MetaHuman, boutique de jeux_
   * **Produits**: [Unreal Engine](https://www.unrealengine.com/)
-  * **Localisation**: États-Unis, International
+  * **Localisation**: États-Unis, Canada/Saint-Lambert, International
   * **Nombres d'employés**: 2000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
@@ -2187,6 +2279,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.oxinst.com/careers)
 
 
+* **[Float4](https://www.float4.com/en/)**  
+  * _Studio montréalais de design et de production d'expériences numériques immersives intégrées aux lieux physiques (murs de LED interactifs, installations génératives pour halls d'hôtels, observatoires et espaces publics), éditeur de la plateforme Realmotion._
+  * **Mots clés**: _installations interactives, contenu génératif, murs de LED, expériences immersives_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 25
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, IHM/Haptique, Animation
+  * **Domaine d'application**: Art/Evenementiel, Commerce/Marketing/Publicité, Architecture/BTP/Urbanisme
+  * [_Jobs_](https://www.float4.com/en/careers/)
+
+
 * **[Fluidyn](https://www.fluidyn.com/)**  
   * _Éditeur de logiciels de mécanique des fluides numérique (CFD) et multiphysique pour l'environnement, la dispersion atmosphérique et les risques industriels._
   * **Mots clés**: _CFD, simulation physique, dispersion atmosphérique_
@@ -2215,6 +2317,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Folks](https://folksvfx.com/)**  
+  * _Studio d'effets visuels fondé à Montréal (siège avenue Papineau), qui a absorbé FuseFX en 2025 et revendique plus de 900 artistes dans le monde, pour les longs métrages et les séries (Wednesday, IT: Welcome to Derry, Five Nights at Freddy's 2)._
+  * **Mots clés**: _effets visuels, séries, compositing, Pitch Black_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 900
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Simulation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://folksvfx.com/careers/open-positions/)
+
+
 * **[Fortiche Production](https://forticheprod.com)**  
   * _Studio d'animation parisien au rendu stylisé mêlant 2D et 3D, réalisateur de la série Arcane (Riot Games, Netflix), de cinématiques de jeux et de clips._
   * **Mots clés**: _séries d'animation, animation 3D, rendu stylisé, cinématiques de jeu, clips, Arcane_
@@ -2238,7 +2350,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Framestore](https://www.framestore.com/)**  
   * _Studio d'effets visuels, d'animation et de contenus immersifs/temps réel fondé en 1986 à Londres, oscarisé (À la croisée des mondes, Gravity) ; studios à Londres, Montréal, New York, Los Angeles, Mumbai._
   * **Mots clés**: _VFX, Animation, Production virtuelle, Pipeline_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, Canada/Montréal
   * **Nombres d'employés**: 1000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -2261,6 +2373,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Frima Studio](https://frimastudio.com/)**  
+  * _Studio de développement de jeux vidéo basé à Québec et à Montréal depuis plus de 20 ans, qui fait du co-développement AAA (expertise Unreal), du développement complet et de la co-production, avec des centaines de personnes._
+  * **Mots clés**: _co-développement, Unreal Engine, jeu vidéo, Québec_
+  * **Localisation**: Canada/Québec, Canada/Montréal
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Frontier Developments](https://www.frontier.co.uk/)**  
@@ -2303,7 +2423,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Gameloft](https://www.gameloft.com/)**  
   * _Développeur et éditeur de jeux vidéo historiquement mobile (Asphalt, Dragon Mania Legends), aussi sur PC et consoles (Disney Dreamlight Valley), avec des studios dans le monde entier._
   * **Mots clés**: _mobile, free-to-play, console/PC, moteur maison, Asphalt, Disney Dreamlight Valley_
-  * **Localisation**: France/Paris, États-Unis, Canada, Espagne, Inde, International
+  * **Localisation**: France/Paris, États-Unis, Canada/Montréal, Espagne, Inde, International
   * **Nombres d'employés**: 2400
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Web/Cloud/Big Data
   * **Domaine d'application**: Jeu Vidéo
@@ -2465,6 +2585,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://hadean.com/careers/)
 
 
+* **[Haply Robotics](https://www.haply.co/)**  
+  * _Start-up montréalaise d'interfaces haptiques à retour d'effort (Inverse3, MinVerse) pour la téléopération de robots, la simulation médicale, la XR et la modélisation 3D ; double lauréate CES Innovation Awards 2026._
+  * **Mots clés**: _haptique, retour d'effort, téléopération, simulation chirurgicale_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: IHM/Haptique, Hardware, VR/AR
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Médical/Biologique, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.haply.co/careers)
+
+
 * **[Hapticmedia](https://hapticmedia.com/)**  
   * _Éditeur d'une plateforme de configurateurs 3D et réalité augmentée pour l'e-commerce._
   * **Mots clés**: _e-commerce/configurateur 3D, réalité augmentée, web 3D, rendu photoréaliste, luxe_
@@ -2508,6 +2637,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Web/Cloud/Big Data
   * **Domaine d'application**: Générique
   * [_Jobs_](https://careers.harmonicinc.com/)
+
+
+* **[Haven Studios](https://havenstudios.com/en)**  
+  * _Studio montréalais de PlayStation Studios (Sony), fondé en 2021 par Jade Raymond, qui développe Fairgames, jeu de braquage compétitif pour PS5 et PC._
+  * **Mots clés**: _jeu vidéo AAA, jeu en ligne, PlayStation Studios, Fairgames_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://havenstudios.com/en/careers)
 
 
 * **[Havok](https://www.havok.com/)**  
@@ -2800,6 +2938,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Énergie/Environnement, Générique
 
 
+* **[iLLOGIKA](https://www.illogika.com/)**  
+  * _Studio montréalais de développement et de co-développement de jeux vidéo et d'expériences interactives, qui a créé la filiale Studio Rabaska, consacrée à la réalité virtuelle en salle (LBVR)._
+  * **Mots clés**: _co-développement, jeu vidéo, réalité virtuelle, LBVR_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, VR/AR
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
 * **[Illumination Studios Paris](https://www.illuminationstudiosparis.com/)**  
   * _Studio parisien d'Illumination (Universal) qui fabrique les longs métrages d'animation 3D de la franchise Moi, moche et méchant/Minions et Super Mario Bros._
   * **Mots clés**: _long métrage, animation 3D, Moi, moche et méchant, Super Mario, Universal_
@@ -2940,6 +3086,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires
 
 
+* **[Immervision](https://www.immervision.com/)**  
+  * _Société montréalaise (fondée en France en 2000, à Montréal depuis 2003) spécialisée dans les objectifs panoramiques panomorphes, les modules caméra grand angle, les algorithmes de traitement d'image (redressement, fusion) et la simulation de caméras par jumeau numérique ; technologie intégrée aux ThinkPad de Lenovo présentés au CES 2026._
+  * **Mots clés**: _optique grand angle, traitement d'image, simulation de caméra, vision embarquée_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Acquisition, Imagerie, Vision, Simulation
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Sécurité/Défense
+  * [_Jobs_](https://www.immervision.com/immervision/careers/)
+
+
 * **[Important Looking Pirates](https://www.ilpvfx.com/)**  
   * _Studio suédois d'effets visuels et d'animation (Shōgun, The Mandalorian and Grogu, Dune: Prophecy, The Sandman) avec un studio à Londres, aux côtés de Stockholm et Hambourg._
   * **Mots clés**: _effets visuels, séries, créatures, Shōgun_
@@ -3004,6 +3159,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.innodura.fr/recrutement-2/)
 
 
+* **[InnovMetric](https://www.polyworks.com/)** (InnovMetric Software) 
+  * _Éditeur québécois (1994) de PolyWorks, suite logicielle de métrologie 3D universelle (traitement de nuages de points, inspection, comparaison CAO) utilisée dans l'automobile et l'aéronautique ; environ 650 employés._
+  * **Mots clés**: _métrologie 3D, nuages de points, inspection, PolyWorks_
+  * **Localisation**: Canada/Québec
+  * **Nombres d'employés**: 650
+  * **Domaine scientifique/technique**: Géométrie, Reconstruction, Acquisition, Visualisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://careers-innovmetric.icims.com/)
+
+
 * **[Inod](https://www.inod.solutions/)**  
   * _Studio lavallois de solutions immersives (VR, AR, réalité mixte, configurateurs 3D, salons virtuels) éditeur de ScaleView, logiciel de revue de projets 3D en VR compatible Revit, SketchUp, SolidWorks ou CATIA (Laval Virtual Award 2019), et de Mix Design en réalité mixte._
   * **Mots clés**: _ScaleView, visite virtuelle, configurateur 3D, réalité mixte, salons virtuels_
@@ -3022,6 +3187,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Simulation, Modélisation, Animation, Visualisation
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://www.insimo.com/fr/career-2/)
+
+
+* **[Intelerad](https://www.intelerad.com/)** (Intelerad Medical Systems) 
+  * _Éditeur montréalais (1999) de logiciels d'imagerie médicale (PACS, visualiseurs diagnostiques, archivage et flux de travail radiologiques en cloud), environ 700 à 800 employés dans quatre pays ; classé n° 1 PACS Royaume-Uni/Irlande au Best in KLAS 2026._
+  * **Mots clés**: _PACS, imagerie médicale, radiologie, visualisation diagnostique_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 750
+  * **Domaine scientifique/technique**: Imagerie, Visualisation, Web/Cloud/Big Data
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.intelerad.com/en/careers/)
 
 
 * **[InterDigital](https://www.interdigital.com/)**  
@@ -3050,6 +3225,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Strasbourg
   * **Domaine scientifique/technique**: VR/AR, Modélisation, Rendu offline/VFX
   * **Domaine d'application**: Patrimoine/Culture, Architecture/BTP/Urbanisme
+
+
+* **[Invoke Studios](https://www.invokestudios.com/)**  
+  * _Studio montréalais de Wizards of the Coast (Hasbro), ex-Tuque Games (Dungeons & Dragons: Dark Alliance), qui développe Warlock: Dungeons & Dragons, montré à la Gamescom 2026._
+  * **Mots clés**: _jeu vidéo AAA, Dungeons & Dragons, action-RPG, Hasbro_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[IRCAD](https://www.ircad.fr/)** (Institut de Recherche contre les Cancers de l'Appareil Digestif) 
@@ -3215,7 +3398,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Keywords Studios](https://www.keywordsstudios.com/)**  
   * _Groupe d'externalisation pour le jeu vidéo à siège irlandais (art 3D, animation, ingénierie, audio, tests), avec de nombreux studios dans le monde._
   * **Mots clés**: _externalisation, art 3D, jeu vidéo, Dublin_
-  * **Localisation**: Irlande/Dublin
+  * **Localisation**: Irlande/Dublin, Canada/Montréal
   * **Nombres d'employés**: 12000
   * **Domaine scientifique/technique**: Pipeline/Outils de production, Modélisation, Animation
   * **Domaine d'application**: Jeu Vidéo
@@ -3229,6 +3412,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, IA générative (image/3D), Vision, Acquisition
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://kinetix-tech.welcomekit.co/)
+
+
+* **[Kitfox Games](https://www.kitfoxgames.com/)**  
+  * _Studio indépendant et éditeur montréalais fondé en 2013 (Moon Hunters, The Shrouded Isle, Boyfriend Dungeon), éditeur de Dwarf Fortress sur Steam._
+  * **Mots clés**: _jeu indépendant, édition de jeux, Dwarf Fortress_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 12
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Kitware](https://www.kitware.com/)**  
@@ -3250,6 +3442,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Géométrie
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://koelis.com/career/)
+
+
+* **[Krafton Montréal](https://kraftonmontreal.com/)**  
+  * _Studio AAA de l'éditeur coréen Krafton (PUBG, inZOI), ouvert à Montréal en 2023 et dirigé par Patrik Méthé (ex-Far Cry), qui développe Project Windless, un RPG d'action en monde ouvert adapté de la série de romans The Bird That Drinks Tears._
+  * **Mots clés**: _jeu vidéo AAA, monde ouvert, RPG, Krafton_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 90
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://kraftonmontreal.com/#careers)
 
 
 * **[Kreon Technologies](https://www.kreon3d.com/)**  
@@ -3518,6 +3720,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Art/Evenementiel, Patrimoine/Culture
+
+
+* **[Ludia](https://www.ludia.com/)**  
+  * _Développeur et éditeur montréalais de jeux mobiles sur grandes licences (Jurassic World Alive, Jurassic World: The Game, Dragons: Rise of Berk), redevenu indépendant en 2025 après sa cession par Jam City à des investisseurs québécois._
+  * **Mots clés**: _jeu mobile, free-to-play, Jurassic World, jeux sur licence_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 190
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.ludia.com/careers)
 
 
 * **[Ludogram](https://ludogram.io/)**  
@@ -3800,11 +4012,20 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Mathematic](https://mathematic.tv)**  
   * _Studio de création visuelle : effets visuels, animation, production virtuelle et temps réel._
   * **Mots clés**: _effets visuels, animation 3D, motion design, publicité, clips, cinématiques de jeu, IA générative_
-  * **Localisation**: Paris
+  * **Localisation**: Paris, Canada/Montréal
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Art/Evenementiel
   * [_Jobs_](https://mathematic.tv/contact/careers/)
+
+
+* **[Matrox](https://video.matrox.com/)** (Matrox Video / Matrox Graphics) 
+  * _Groupe de Dorval (fondé en 1976) concevant cartes graphiques multi-écrans, contrôleurs de murs d'images et matériel de capture, d'encodage et de diffusion vidéo sur IP (Matrox Video)._
+  * **Mots clés**: _cartes graphiques, murs d'images, vidéo sur IP, encodage_
+  * **Localisation**: Canada/Dorval
+  * **Domaine scientifique/technique**: Hardware, Acquisition, Web/Cloud/Big Data
+  * **Domaine d'application**: Art/Evenementiel, Générique
+  * [_Jobs_](https://video.matrox.com/en/careers)
 
 
 * **[Mauna Kea Technologies](https://www.maunakeatech.com/)**  
@@ -3886,7 +4107,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Meta](https://ai.meta.com/research/)**  
   * _Groupe technologique ; son laboratoire FAIR Paris (ouvert en 2015) mène des recherches en IA et vision par ordinateur (DINOv2/DINOv3)._
   * **Mots clés**: _vision par ordinateur, deep learning, IA générative, segmentation, apprentissage auto-supervisé, open source_
-  * **Localisation**: États-Unis/Menlo Park, Paris, International
+  * **Localisation**: États-Unis/Menlo Park, Paris, Canada/Montréal, International
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, VR/AR, Reconstruction
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Générique
   * [_Jobs_](https://www.metacareers.com/)
@@ -3945,7 +4166,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Multinationale du logiciel et du cloud (Windows, Microsoft 365, Azure, Copilot), également acteur du jeu vidéo avec Xbox et de la réalité mixte._
   * **Mots clés**: _console/PC, édition de jeux, Xbox, cloud/streaming, réalité mixte, IA générative, système d'exploitation_
   * **Remarque**: _<a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique._
-  * **Localisation**: États-Unis/Redmond, International
+  * **Localisation**: États-Unis/Redmond, Canada/Montréal, International
   * **Nombres d'employés**: 228000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, IA générative (image/3D), Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -4163,6 +4384,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
   * **Domaine d'application**: Médical/Biologique, Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game
+
+
+* **[Motive Studio](https://www.ea.com/ea-studios/motive)**  
+  * _Studio montréalais d'Electronic Arts fondé en 2015 (Star Wars: Squadrons, remake de Dead Space), qui développe Marvel's Iron Man sous Unreal Engine 5 et contribue à la franchise Battlefield._
+  * **Mots clés**: _jeu vidéo AAA, Electronic Arts, Dead Space, Iron Man, Unreal Engine_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.ea.com/careers)
 
 
 * **[Move'n See](https://shop.movensee.com/fr/)**  
@@ -4594,6 +4825,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement, Architecture/BTP/Urbanisme
 
 
+* **[Optina Diagnostics](https://www.optinadx.com/)**  
+  * _Medtech montréalaise développant une caméra rétinienne hyperspectrale (autorisée par la FDA) couplée à des algorithmes d'IA pour le diagnostic et le suivi des maladies de la rétine (DMLA) et le dépistage précoce d'Alzheimer._
+  * **Mots clés**: _imagerie hyperspectrale, rétine, IA médicale, Alzheimer_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[OptiTrack](https://optitrack.com/)**  
   * _Fabricant américain (NaturalPoint) de systèmes de motion capture optique utilisés en production virtuelle, tracking VR, biomécanique et robotique._
   * **Mots clés**: _motion capture, caméras infrarouges, production virtuelle, tracking caméra, réalité virtuelle, biomécanique, robotique_
@@ -4660,7 +4899,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Outpost VFX](https://www.outpost-vfx.com/)**  
   * _Studio de VFX avec site à Bournemouth (80 postes cités à l'ouverture), Londres, Montréal, Los Angeles et Mumbai, pour cinéma et séries._
   * **Mots clés**: _VFX, cinéma, séries, Bournemouth_
-  * **Localisation**: Royaume-Uni/Bournemouth
+  * **Localisation**: Royaume-Uni/Bournemouth, Canada/Montréal
   * **Nombres d'employés**: 660
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -4683,6 +4922,23 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/Portland
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
+* **[Panache Digital Games](https://panachedigitalgames.com/en/)**  
+  * _Studio indépendant montréalais fondé en 2014 par Patrice Désilets (créateur d'Assassin's Creed), auteur d'Ancestors: The Humankind Odyssey, qui développe 1666: Amsterdam._
+  * **Mots clés**: _jeu vidéo, action-aventure, Unreal Engine, console/PC_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Paralives Studio](https://www.paralives.com/)**  
+  * _Studio indépendant montréalais fondé par Alex Massé, qui développe Paralives, un jeu de simulation de vie aux outils de construction sans grille, en accès anticipé sur Steam depuis mai 2026._
+  * **Mots clés**: _simulation de vie, jeu indépendant, Unity, construction 3D_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Parangon](https://parangon.eu/)**  
@@ -4779,6 +5035,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Simulation, Design/Fabrication
   * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO
   * [_Jobs_](https://philomec.com/careers/)
+
+
+* **[Photon etc.](https://www.photonetc.com/)**  
+  * _Fabricant montréalais (2003, issu de Caltech) de systèmes d'imagerie hyperspectrale et infrarouge (caméras SWIR, imageurs grand champ GRAND-EOS, microscopes hyperspectraux) et de leur logiciel d'analyse PHySpec, pour la recherche biomédicale, les matériaux et l'industrie._
+  * **Mots clés**: _imagerie hyperspectrale, caméras infrarouges, microscopie, analyse spectrale_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Hardware
+  * **Domaine d'application**: Médical/Biologique, Industrie/Manufacturing/CAO, Énergie/Environnement
+  * [_Jobs_](https://www.photonetc.com/about-us/careers/)
 
 
 * **[Photoroom](https://www.photoroom.com/)**  
@@ -4947,6 +5212,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.playwing.com/#careers)
 
 
+* **[Plotly](https://plotly.com/)** (Plotly Technologies) 
+  * _Éditeur montréalais des bibliothèques open source de visualisation interactive de données Plotly (Python, R, JavaScript) et de la plateforme Dash Enterprise pour construire des applications analytiques ; Dash Enterprise 6 et l'outil Plotly Studio en 2026._
+  * **Mots clés**: _visualisation de données, graphiques interactifs, Dash, open source_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Visualisation, Web/Cloud/Big Data, Analyse de données
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://plotly.com/careers/)
+
+
 * **[Pollen Robotics](https://pollen-robotics.com/)**  
   * _Start-up bordelaise, filiale de Hugging Face depuis 2025, qui conçoit des robots humanoïdes et expressifs open source (Reachy 2, Reachy Mini) avec perception par caméras et téléopération en réalité virtuelle._
   * **Mots clés**: _robotique, vision par ordinateur, téléopération, réalité virtuelle, open source_
@@ -5009,6 +5284,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://prettysimplegames.com/careers)
+
+
+* **[Prevu3D](https://www.prevu3d.com/)**  
+  * _Éditeur montréalais de RealityPlatform, logiciel de capture et de gestion de données de réalité (scans LiDAR, Gaussian splats, vidéo 360°, CAO/BIM) pour créer des jumeaux numériques d'usines et d'installations industrielles._
+  * **Mots clés**: _jumeau numérique, nuages de points, Gaussian splatting, scan-to-CAD_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Reconstruction, Acquisition, Visualisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme
+  * [_Jobs_](https://www.prevu3d.com/careers/)
 
 
 * **[preWatch](https://www.prewatch.io/)**  
@@ -5155,6 +5439,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://rd-vision.com/rejoignez-nous/)
 
 
+* **[Raccoon Logic](https://www.raccoonlogic.com/)**  
+  * _Studio montréalais fondé en 2021 par l'équipe de Typhoon Studios (fermé par Google), auteur de Revenge of the Savage Planet (2025), qui prépare Breakaway, un jeu de hockey compétitif en équipe._
+  * **Mots clés**: _jeu vidéo, action-aventure, jeu indépendant, Savage Planet_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 30
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Ranch Computing](https://www.ranchcomputing.com/)**  
   * _Ferme de rendu en ligne CPU/GPU pour les logiciels 3D (Arnold, V-Ray, Redshift, Octane, Cycles, RenderMan...)._
   * **Mots clés**: _ferme de rendu, cloud/streaming, GPU, path tracing, Blender, Houdini_
@@ -5173,6 +5466,25 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://ratel-studio.com/#jobs)
+
+
+* **[Raynault VFX](https://raynault.com/)**  
+  * _Studio d'effets visuels du Mile End à Montréal fondé en 2011 par Mathieu Raynault, spécialisé dans les environnements et la direction artistique pour le cinéma et les séries (Deadpool & Wolverine, Dune: Prophecy, Stranger Things, The Mandalorian)._
+  * **Mots clés**: _effets visuels, matte painting, environnements, direction artistique_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://raynault.com/careers)
+
+
+* **[Real by Fake](https://realbyfake.com/)**  
+  * _Studio montréalais de post-production intégrée et d'effets visuels réalistes (retouche numérique, matte painting, effets invisibles) pour le cinéma, la télévision et la publicité (300, Black Summer), avec des bureaux à Los Angeles et Mexico._
+  * **Mots clés**: _effets visuels, post-production, effets invisibles, retouche numérique_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
 * **[RealityCAD](https://www.realitycad.com/)**  
@@ -5202,6 +5514,23 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Red Barrels](https://redbarrelsgames.com/)**  
+  * _Studio indépendant montréalais fondé en 2011, spécialisé dans l'horreur à la première personne, créateur de la série Outlast (plus de 15 millions de joueurs) et du jeu coopératif The Outlast Trials._
+  * **Mots clés**: _jeu d'horreur, Outlast, Unreal Engine, jeu indépendant_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Reel FX](https://www.reelfx.com/)**  
+  * _Studio américain d'animation 3D (siège à Dallas) qui fabrique des longs métrages d'animation (La Légende de Manolo, Rumble) et possède depuis 2018 un studio à Montréal, dans le bâtiment Le Nordelec._
+  * **Mots clés**: _long métrage d'animation, animation 3D, Nordelec_
+  * **Localisation**: Canada/Montréal, États-Unis/{Dallas, Los Angeles}
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Reemo](https://reemo.io/)**  
   * _Plateforme souveraine d'accès distant Zero Trust sans agent, basée sur un protocole de streaming haute performance de postes de travail (utilisée notamment par des studios d'animation et le broadcast)._
   * **Mots clés**: _cloud/streaming, accès distant, Zero Trust, cybersécurité, streaming de postes de travail, broadcast_
@@ -5219,6 +5548,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Reflector Entertainment](https://reflectorentertainment.com/)**  
+  * _Studio montréalais du groupe Bandai Namco, créé en 2016, auteur du jeu d'action-aventure Unknown 9: Awakening (2024) et désormais centré sur un projet unique autour d'une licence Bandai Namco._
+  * **Mots clés**: _jeu vidéo, action-aventure, Bandai Namco, Unknown 9_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Reissad Studio](https://reissad.com/)**  
@@ -5313,6 +5650,25 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.rocksteadyltd.com/careers)
 
 
+* **[Rodeo FX](https://www.rodeofx.com/)**  
+  * _Studio indépendant d'effets visuels et d'animation fondé en 2006 à Montréal (plus de 750 artistes), oscarisé, qui travaille pour le cinéma, les séries et la publicité (Stranger Things, Dune, Game of Thrones) ; propriétaire de Mikros Animation depuis 2025._
+  * **Mots clés**: _effets visuels, animation 3D, créatures, séries, publicité_
+  * **Localisation**: Canada/Montréal, Paris
+  * **Nombres d'employés**: 750
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Simulation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://careers.smartrecruiters.com/RodeoFX)
+
+
+* **[Rogue Factor](https://rogue-factor.com/)**  
+  * _Studio montréalais fondé en 2013 (Mordheim: City of the Damned, Necromunda: Underhive Wars), filiale de Nacon, développeur du jeu d'action-aventure Hell is Us (2025)._
+  * **Mots clés**: _jeu vidéo, action-aventure, Nacon, Unreal Engine_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Royal Post](https://royalpost.tv/)**  
   * _Studio parisien de post-production haut de gamme créé en 2004 : VFX, CGI 3D, compositing, montage et étalonnage pour la publicité, le clip et la fiction._
   * **Mots clés**: _effets visuels, post-production, CGI, publicité, compositing_
@@ -5328,6 +5684,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Fenouillet
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Sabotage Studio](https://sabotagestudio.com/)**  
+  * _Studio indépendant de la ville de Québec fondé en 2016, créateur des jeux rétro The Messenger et Sea of Stars, un RPG au tour par tour largement primé._
+  * **Mots clés**: _pixel art, RPG, jeu indépendant, Sea of Stars_
+  * **Localisation**: Canada/Québec
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
 
 
@@ -5581,6 +5945,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[SimActive](https://www.simactive.com/)**  
+  * _Éditeur montréalais (2003) de Correlator3D, logiciel de photogrammétrie de bout en bout (aérotriangulation, nuages de points, modèles numériques de terrain, orthomosaïques, maillages 3D et, depuis 2026, Gaussian splats) pour images de drones, d'avions et de satellites._
+  * **Mots clés**: _photogrammétrie, drones, Gaussian splatting, orthophotos_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Reconstruction, Géométrie, Imagerie
+  * **Domaine d'application**: Géospatial/Cartographie, Architecture/BTP/Urbanisme, Énergie/Environnement
+
+
 * **[Simaptic](https://simaptic.com/)**  
   * _Deeptech lilloise associant réalité virtuelle et textile haptique pour la simulation médicale, notamment la formation à la réanimation cardiopulmonaire et à la prise en charge des hémorragies._
   * **Mots clés**: _simulation médicale, haptique, réalité virtuelle, formation_
@@ -5697,6 +6069,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://csl.sony.fr/careers/)
 
 
+* **[Sony Pictures Imageworks](https://www.imageworks.com/)**  
+  * _Studio d'effets visuels et d'animation de Sony Pictures (siège à Vancouver, films Spider-Verse), qui a ouvert en 2023 un studio dans le Vieux-Montréal travaillant avec les équipes de Vancouver et Los Angeles sur les longs métrages d'animation et à effets visuels._
+  * **Mots clés**: _long métrage d'animation, effets visuels, rendu, Sony Pictures_
+  * **Localisation**: Canada/Montréal, Canada/Vancouver, États-Unis/Los Angeles
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Simulation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.imageworks.com/job-postings)
+
+
 * **[Soqut Imaging](https://soqut-imaging.com/)**  
   * _Start-up de Bègles qui développe ELiBio, logiciel breveté de biopsie numérique du foie par analyse d'images IRM pour le diagnostic précoce de la MASH._
   * **Mots clés**: _imagerie médicale, IRM, segmentation, analyse quantitative, diagnostic_
@@ -5754,6 +6136,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
+* **[Sportlogiq](https://www.sportlogiq.com/)**  
+  * _Société montréalaise de vision par ordinateur qui extrait par apprentissage profond le suivi des joueurs et des statistiques à partir de vidéos de diffusion (hockey, football, soccer), utilisée par la quasi-totalité des équipes de la LNH ; rachetée par Teamworks en janvier 2026._
+  * **Mots clés**: _vision par ordinateur, suivi de joueurs, analyse vidéo sportive, apprentissage profond_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 80
+  * **Domaine scientifique/technique**: Vision, Analyse de données
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Générique
+  * [_Jobs_](https://www.sportlogiq.com/careers/)
+
+
 * **[Sports Interactive](https://www.sports-interactive.com/)**  
   * _Studio londonien (SEGA) éditeur de la série Football Manager, simulation de gestion avec moteur de match 3D._
   * **Mots clés**: _Football Manager, Simulation, Jeu vidéo_
@@ -5781,6 +6173,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Rendu offline/VFX, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://apply.workable.com/square-enix/)
+
+
+* **[Squeeze](https://www.squeezestudio.com/)**  
+  * _Studio d'animation 3D de Québec et Montréal (environ 150 à 200 personnes) qui fabrique séries, films, cinématiques de jeux et contenus pour parcs à thème (What If...? de Marvel, Cracké), avec un studio de capture de mouvement ; société partenaire de Cinesite depuis 2022._
+  * **Mots clés**: _animation 3D, séries d'animation, cinématiques, motion capture_
+  * **Localisation**: Canada/Québec, Canada/Montréal
+  * **Nombres d'employés**: 175
+  * **Domaine scientifique/technique**: Animation, Modélisation, Acquisition
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+  * [_Jobs_](https://www.squeezestudio.com/fr/carrieres)
 
 
 * **[Stability AI](https://stability.ai/)**  
@@ -6092,7 +6494,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K) ainsi que l'équipe de R&D Dynamixyz à Rennes._
   * **Mots clés**: _AAA, console/PC, édition de jeux, mobile, multijoueur en ligne, capture faciale_
   * **Remarque**: _Équipe de R&D à Cesson-Sévigné (Rennes) issue de Dynamixyz (capture faciale sans marqueurs), rachetée en 2021 : travaille pour les studios du groupe (Rockstar, 2K) et publie dans les conférences de graphique._
-  * **Localisation**: États-Unis/New York, Cesson-Sévigné, France/Paris, International
+  * **Localisation**: États-Unis/New York, Cesson-Sévigné, France/Paris, Canada/{Montréal, Québec}, International
   * **Nombres d'employés**: 12900
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition, Vision
   * **Domaine d'application**: Jeu Vidéo
@@ -6313,6 +6715,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://jobs.thermofisher.com/)
 
 
+* **[Thunder Lotus Games](https://thunderlotusgames.com/)**  
+  * _Studio indépendant montréalais fondé en 2014, connu pour ses jeux dessinés à la main (Jotun, Sundered, Spiritfarer, 33 Immortals), qui prépare le jeu d'action-aventure At Fate's End._
+  * **Mots clés**: _animation 2D, jeu indépendant, Spiritfarer, console/PC_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 33
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Théoriz](https://www.theoriz.com/)**  
   * _Studio de création villeurbannais (Pôle Pixel) fondé en 2013 réalisant mapping vidéo, installations interactives et espaces immersifs pour musées, marques et événements (dont la Fête des Lumières)._
   * **Mots clés**: _événementiel/mapping, installations interactives, exposition immersive, Fête des Lumières_
@@ -6376,6 +6787,24 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://tokustudio.com/pages/jobs.php)
+
+
+* **[Tonic DNA](https://tonicdna.com/)**  
+  * _Studio d'animation et de design de Montréal fondé en 1983 (ex-Studio Pascal Blais, renommé en 2018), qui mêle animation 2D et 3D pour la publicité, les séries et le cinéma, avec des bureaux à Toronto et Mexico._
+  * **Mots clés**: _animation 2D/3D, publicité, motion design, animation hybride_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Animation, Modélisation, IA générative (image/3D)
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+
+
+* **[Toon Boom](https://www.toonboom.com/)** (Toon Boom Animation) 
+  * _Éditeur montréalais (1994) de logiciels d'animation 2D et de storyboard (Harmony, Storyboard Pro, Producer), standard de l'industrie pour les séries et longs métrages d'animation ; Harmony 25 sorti en 2025._
+  * **Mots clés**: _animation 2D, storyboard, Harmony, logiciel d'animation_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Animation, Modélisation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
+  * [_Jobs_](https://www.toonboom.com/careers)
 
 
 * **[Toon Factory](https://toonfactory.fr/)**  
@@ -6451,6 +6880,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.tribun.health/join-our-team)
 
 
+* **[Tribute Games](https://tributegames.com/)**  
+  * _Studio indépendant montréalais fondé en 2011 par d'anciens d'Ubisoft, spécialiste des jeux d'action en pixel art (Mercenary Kings, Flinthook, TMNT: Shredder's Revenge, Marvel Cosmic Invasion, Scott Pilgrim EX en 2026)._
+  * **Mots clés**: _pixel art, jeu d'action, beat 'em up, jeu indépendant_
+  * **Localisation**: Canada/Montréal
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Trimaran](https://www.trimaran.com/)**  
   * _Studio d'effets visuels et d'animation 3D pour films et séries internationales (FX, environnements, matchmove, lighting)._
   * **Mots clés**: _effets visuels, reconstitution historique, environnements numériques, long métrage, séries TV, documentaire, matchmove_
@@ -6518,7 +6955,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Éditeur du moteur temps réel Unity, multiplateforme (mobile, PC, console, XR), et de services associés de LiveOps, monétisation et applications industrielles._
   * **Mots clés**: _Unity, moteur de jeu, rendu temps réel, mobile, console/PC, réalité virtuelle, jumeau numérique, monétisation publicitaire_
   * **Remarque**: _Equipes de développement en France: <a target="_blank" href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a target="_blank" href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a target="_blank" href="https://unity.com/products/sentis">IA</a> (Lille)_
-  * **Localisation**: États-Unis, France/Paris, France/Grenoble, France/Compiègne, France/Lille, Canada, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse, International
+  * **Localisation**: États-Unis, France/Paris, France/Grenoble, France/Compiègne, France/Lille, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse, Canada/Montréal, International
   * **Nombres d'employés**: 7000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
@@ -6605,6 +7042,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision
   * **Domaine d'application**: Mode/Vêtements/Accessoires, Commerce/Marketing/Publicité
+
+
+* **[Vention](https://vention.com/)**  
+  * _Plateforme montréalaise de conception et de déploiement d'équipements automatisés : CAO 3D dans le navigateur (MachineBuilder) avec bibliothèque de composants modulaires, simulation et programmation de cellules robotisées, contrôleur MachineMotion AI._
+  * **Mots clés**: _CAO 3D web, automatisation, robotique industrielle, simulation_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 360
+  * **Domaine scientifique/technique**: Design/Fabrication, Simulation, Web/Cloud/Big Data
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes
+  * [_Jobs_](https://vention.com/careers)
 
 
 * **[Vicon](https://www.vicon.com/)**  
@@ -6713,7 +7160,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Virtuos](https://www.virtuosgames.com/)**  
   * _Studio de co-développement de jeux vidéo (portages, remasters, production d'art 3D)_
   * **Mots clés**: _co-développement, portage, remaster, production d'art 3D, AAA, console/PC_
-  * **Localisation**: Chine/Shanghai, Singapour, Cergy, Lyon, Montpellier, International
+  * **Localisation**: Chine/Shanghai, Singapour, Cergy, Lyon, Montpellier, Canada/Montréal, International
   * **Nombres d'employés**: 3600
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -6841,6 +7288,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision, IA générative (image/3D), Simulation
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
   * [_Jobs_](https://wayve.ai/careers/)
+
+
+* **[WB Games Montréal](https://wbgamesmontreal.com/)**  
+  * _Studio AAA de Warner Bros. Games installé à Montréal depuis 2010, développeur de Batman: Arkham Origins et de Gotham Knights, avec plus de 300 personnes._
+  * **Mots clés**: _jeu vidéo AAA, action-aventure, Batman, Warner Bros. Games_
+  * **Localisation**: Canada/Montréal
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.wbgames.com/studios/montreal/)
 
 
 * **[WetaFX](https://www.wetafx.co.nz/)**  
