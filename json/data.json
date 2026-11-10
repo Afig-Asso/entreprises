@@ -123,6 +123,10 @@
             50.6451,
             5.5736
         ],
+        "Belgique/Mortsel": [
+            51.1704,
+            4.4567
+        ],
         "Br\u00e9sil/S\u00e3o Paulo": [
             -23.5507,
             -46.6334
@@ -135,33 +139,65 @@
             45.4555,
             -73.4679
         ],
+        "Canada/Burnaby": [
+            49.2434,
+            -122.9725
+        ],
         "Canada/Dorval": [
             45.4453,
             -73.7511
+        ],
+        "Canada/Iroquois": [
+            44.8493,
+            -75.3151
         ],
         "Canada/Kingston": [
             44.3054,
             -76.4284
         ],
+        "Canada/Kitchener": [
+            43.4513,
+            -80.4928
+        ],
         "Canada/L\u00e9vis": [
             46.8033,
             -71.1779
+        ],
+        "Canada/Markham": [
+            43.8564,
+            -79.3377
+        ],
+        "Canada/Mississauga": [
+            43.5885,
+            -79.6437
         ],
         "Canada/Montr\u00e9al": [
             45.5032,
             -73.5698
         ],
-        "Canada/Ontario": [
-            50.0007,
-            -86.001
+        "Canada/Oakville": [
+            43.4474,
+            -79.6667
+        ],
+        "Canada/Ottawa": [
+            45.4209,
+            -75.6901
         ],
         "Canada/Qu\u00e9bec": [
             46.8131,
             -71.2075
         ],
+        "Canada/Richmond": [
+            49.1632,
+            -123.1374
+        ],
         "Canada/Saint-Lambert": [
             45.5016,
             -73.5103
+        ],
+        "Canada/Surrey": [
+            49.1913,
+            -122.8491
         ],
         "Canada/Toronto": [
             43.6535,
@@ -170,6 +206,14 @@
         "Canada/Vancouver": [
             49.2609,
             -123.114
+        ],
+        "Canada/Vaughan": [
+            43.7942,
+            -79.5268
+        ],
+        "Canada/Waterloo": [
+            43.4653,
+            -80.5223
         ],
         "Chine": [
             34.5412,
@@ -1926,6 +1970,10 @@
                     "Country": "\u00c9tats-Unis"
                 },
                 {
+                    "Country": "Canada",
+                    "City": "Markham"
+                },
+                {
                     "International": true
                 }
             ],
@@ -2223,7 +2271,10 @@
                 },
                 {
                     "Country": "Canada",
-                    "City": "Montr\u00e9al"
+                    "City": [
+                        "Montr\u00e9al",
+                        "Toronto"
+                    ]
                 },
                 {
                     "International": true
@@ -2613,7 +2664,7 @@
                 },
                 {
                     "Country": "Canada",
-                    "State": "Ontario"
+                    "City": "Kitchener"
                 }
             ],
             "Jobs": "https://www.christiedigital.com/en-gb/about/careers/",
@@ -3006,6 +3057,10 @@
             "Place": [
                 {
                     "Country": "\u00c9tats-Unis"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
                 },
                 {
                     "International": true
@@ -4792,7 +4847,10 @@
                 },
                 {
                     "Country": "Canada",
-                    "City": "Montr\u00e9al"
+                    "City": [
+                        "Montr\u00e9al",
+                        "Vancouver"
+                    ]
                 },
                 {
                     "International": true
@@ -5257,6 +5315,10 @@
                     ],
                     "SIREN": "432108355",
                     "Address": "8 Avenue De L'Arche, 92400 Courbevoie"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto"
                 },
                 {
                     "International": true
@@ -6224,7 +6286,9 @@
                     "Country": "Canada",
                     "City": [
                         "Montr\u00e9al",
-                        "Qu\u00e9bec"
+                        "Qu\u00e9bec",
+                        "Oakville",
+                        "Vancouver"
                     ]
                 },
                 {
@@ -7193,6 +7257,10 @@
                 {
                     "Country": "Nouvelle-Z\u00e9lande",
                     "City": "Wellington"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
                 }
             ],
             "Scientific-domain": [
@@ -23357,7 +23425,11 @@
                 },
                 {
                     "Country": "Canada",
-                    "City": "Montr\u00e9al"
+                    "City": [
+                        "Montr\u00e9al",
+                        "Toronto",
+                        "Vancouver"
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -23429,7 +23501,10 @@
                 },
                 {
                     "Country": "Canada",
-                    "City": "Montr\u00e9al"
+                    "City": [
+                        "Montr\u00e9al",
+                        "Vancouver"
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -24451,6 +24526,10 @@
                         -1.4205
                     ],
                     "Address": "32 Jessops Riverside, Brightside Lane, Sheffield S9 2RX"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
                 }
             ],
             "Scientific-domain": [
@@ -25525,6 +25604,10 @@
                         -0.13702
                     ],
                     "Address": "30 Berners Street, London W1T 3LR"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
                 }
             ],
             "Scientific-domain": [
@@ -25832,7 +25915,10 @@
                 },
                 {
                     "Country": "Canada",
-                    "City": "Montr\u00e9al"
+                    "City": [
+                        "Montr\u00e9al",
+                        "Vancouver"
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -26326,6 +26412,10 @@
                     ],
                     "SIREN": "948806336",
                     "Address": "2 Rue Dieu, 75010 Paris"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto"
                 }
             ],
             "Scientific-domain": [
@@ -26361,6 +26451,10 @@
                         -73.57261
                     ],
                     "Address": "4371 avenue Papineau, Montr\u00e9al, QC H2H 1T7"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto"
                 }
             ],
             "Scientific-domain": [
@@ -26640,6 +26734,10 @@
                         -73.61363
                     ],
                     "Address": "6666 Rue Saint-Urbain, bureau 500, Montr\u00e9al, QC H2S 3H1"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto"
                 }
             ],
             "Scientific-domain": [
@@ -27940,6 +28038,2264 @@
                 "drones",
                 "Gaussian splatting",
                 "orthophotos"
+            ]
+        },
+        {
+            "Name": "SPIN VFX",
+            "url": "https://www.spinvfx.com/",
+            "Description": "Studio d'effets visuels torontois fond\u00e9 il y a plus de 30 ans, travaillant pour le cin\u00e9ma et les s\u00e9ries (The Boys, John Wick, Game of Thrones, The Umbrella Academy), avec une antenne \u00e0 Atlanta.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64189,
+                        -79.41124
+                    ],
+                    "Address": "901 King St. West, Suite 501, Toronto, ON M5V 3H5"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 160,
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "compositing",
+                "CG"
+            ]
+        },
+        {
+            "Name": "Soho VFX",
+            "url": "https://sohovfx.com/",
+            "Description": "Studio d'effets visuels fond\u00e9 en 2002 dans le quartier de la Junction \u00e0 Toronto, qui r\u00e9alise des effets pour le cin\u00e9ma et les s\u00e9ries (The Boys, The Umbrella Academy, Game of Thrones).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.66314,
+                        -79.45501
+                    ],
+                    "Address": "50 Edwin Ave., Toronto, ON M6P 0A3"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "Houdini",
+                "compositing"
+            ]
+        },
+        {
+            "Name": "Rocket Science VFX",
+            "url": "https://www.rsvfx.com/",
+            "Description": "Studio d'effets visuels fond\u00e9 en 2003 \u00e0 Toronto (quartier de la Junction), cr\u00e9dit\u00e9 sur Wednesday, The Boys, IT: Welcome to Derry et Poker Face.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.65382,
+                        -79.44786
+                    ],
+                    "Address": "35 Golden Avenue, Suite 105, Toronto, ON M6R 2J5"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://rocketsciencevfx.applytojob.com/",
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "pipeline",
+                "compositing"
+            ]
+        },
+        {
+            "Name": "MARZ",
+            "url": "https://monstersaliensrobotszombies.com/",
+            "Description": "Studio d'effets visuels torontois (Monsters Aliens Robots Zombies) sp\u00e9cialis\u00e9 dans les s\u00e9ries, qui d\u00e9veloppe ses propres outils d'IA pour le rajeunissement, la retouche de visages (Vanity AI) et le doublage labial (LipDub).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.66532,
+                        -79.34033
+                    ],
+                    "Address": "1240 Dundas St E, Toronto, ON M4M 1S3"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "IA",
+                "rajeunissement",
+                "s\u00e9ries"
+            ]
+        },
+        {
+            "Name": "Dark Slope",
+            "url": "https://www.darkslope.com/",
+            "Description": "Studio torontois de production virtuelle (grand volume LED, plateaux, capture de mouvement) qui produit aussi des s\u00e9ries et des jeux et exp\u00e9riences VR/MR ; a annonc\u00e9 un nouveau studio de 75 000 pieds carr\u00e9s \u00e0 Scarborough.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.65553,
+                        -79.44624
+                    ],
+                    "Address": "213 Sterling Road, Unit 211, Toronto, ON M6R 2B2"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "production virtuelle",
+                "volume LED",
+                "Unreal Engine",
+                "r\u00e9alit\u00e9 virtuelle"
+            ]
+        },
+        {
+            "Name": "Guru Studio",
+            "url": "https://gurustudio.com/",
+            "Description": "Studio d'animation torontois fond\u00e9 en 2000, qui produit des s\u00e9ries 3D pour la jeunesse (True and the Rainbow Kingdom, Mecha Builders, PAW Patrol, Justin Time) et des cr\u00e9ations originales.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.66177,
+                        -79.3791
+                    ],
+                    "Address": "399 Church Street, Suite 400, Toronto, ON M5B 2J7"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 3D",
+                "s\u00e9ries jeunesse",
+                "Sesame Street"
+            ]
+        },
+        {
+            "Name": "House of Cool",
+            "url": "https://www.houseofcool.com/",
+            "Description": "Studio torontois de pr\u00e9-production pour l'animation (storyboard, d\u00e9veloppement visuel, previs), filiale de WildBrain depuis 2023, qui a travaill\u00e9 sur Moi, moche et m\u00e9chant, Angry Birds et Dragons.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://houseofcool-career.talent-soft.com/",
+            "Employees": 55,
+            "Keywords": [
+                "storyboard",
+                "pr\u00e9-production",
+                "d\u00e9veloppement visuel",
+                "WildBrain"
+            ]
+        },
+        {
+            "Name": "Industrial Brothers",
+            "url": "https://www.industrialbrothers.com/",
+            "Description": "Studio d'animation torontois (majorit\u00e9 d\u00e9tenue par Boat Rocker depuis 2025) qui cr\u00e9e et produit des s\u00e9ries jeunesse en 3D comme Dino Ranch et Daniel Spellbound.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.65243,
+                        -79.36405
+                    ],
+                    "Address": "310 King St E, Toronto, ON M5A 1K6"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 3D",
+                "s\u00e9ries jeunesse",
+                "Dino Ranch"
+            ]
+        },
+        {
+            "Name": "Jam Filled Entertainment",
+            "url": "https://www.jamfilled.com/",
+            "Description": "Studio d'animation 2D et 3D (division de Blue Ant Media) avec un si\u00e8ge \u00e0 Ottawa et un studio 3D \u00e0 Toronto issu du rachat d'Arc Productions, qui travaille notamment sur The Loud House.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.65304,
+                        -79.36354
+                    ],
+                    "Address": "595 Adelaide St. East, Suite 101, Toronto, ON M5A 1K6"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Ottawa",
+                    "Coordinates": [
+                        45.32851,
+                        -75.7091
+                    ],
+                    "Address": "65 Auriga Drive, Suite 102, Ottawa, ON K2E 7W6"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "s\u00e9ries"
+            ]
+        },
+        {
+            "Name": "Mercury Filmworks",
+            "url": "https://mercuryfilmworks.com/",
+            "Description": "Grand studio d'animation ind\u00e9pendant d'Ottawa, qui produit des s\u00e9ries 2D (Hilda, Kid Cosmic, Wander Over Yonder) et d\u00e9veloppe son premier long m\u00e9trage, Once Our Land.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Ottawa",
+                    "Coordinates": [
+                        45.33591,
+                        -75.79836
+                    ],
+                    "Address": "2936 Baseline Rd, 4th Floor, Ottawa, ON K2H 1B3"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 340,
+            "Keywords": [
+                "animation 2D",
+                "Toon Boom",
+                "s\u00e9ries"
+            ]
+        },
+        {
+            "Name": "Sinking Ship Entertainment",
+            "url": "https://www.sinkingship.ca/",
+            "Description": "Soci\u00e9t\u00e9 de production torontoise de programmes jeunesse avec une division effets visuels et animation (pipeline USD, Unreal Engine, poils et plumes), connue pour Dino Dan et Odd Squad.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.63917,
+                        -79.42511
+                    ],
+                    "Address": "1179 King St. W., Toronto, ON"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 175,
+            "Keywords": [
+                "effets visuels",
+                "animation",
+                "jeunesse",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Capybara Games",
+            "url": "https://www.capybaragames.com/",
+            "Description": "Studio ind\u00e9pendant de jeu vid\u00e9o torontois fond\u00e9 en 2003, auteur de Superbrothers: Sword & Sworcery, Below et Grindstone ; pr\u00e9pare Battle Vision Network sur PC.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64928,
+                        -79.39723
+                    ],
+                    "Address": "174 Spadina Ave., Suite 401, Toronto, ON M5T 2C2"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o ind\u00e9pendant",
+                "Grindstone",
+                "Below"
+            ]
+        },
+        {
+            "Name": "Drinkbox Studios",
+            "url": "https://www.drinkboxstudios.com/",
+            "Description": "Studio de jeu vid\u00e9o torontois fond\u00e9 en 2008, cr\u00e9ateur de Guacamelee!, Severed et Nobody Saves the World, qui d\u00e9veloppe le jeu d'action Blighted.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64602,
+                        -79.40686
+                    ],
+                    "Address": "688 Richmond Street West, Toronto, ON M6J 1C5"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu vid\u00e9o ind\u00e9pendant",
+                "Guacamelee",
+                "action"
+            ]
+        },
+        {
+            "Name": "Torn Banner Studios",
+            "url": "https://tornbanner.com/",
+            "Description": "Studio ind\u00e9pendant de jeu vid\u00e9o torontois, cr\u00e9ateur de Chivalry: Medieval Warfare et Chivalry 2, qui d\u00e9veloppe No More Room in Hell 2.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/tornbannerstudios",
+            "Keywords": [
+                "jeu multijoueur",
+                "action",
+                "Chivalry"
+            ]
+        },
+        {
+            "Name": "Uken Games",
+            "url": "https://uken.com/",
+            "Description": "Studio torontois de jeux mobiles fond\u00e9 il y a plus de 15 ans, \u00e9diteur de Jeopardy! World Tour, Who Wants To Be A Millionaire et Ava's Manor.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64347,
+                        -79.38092
+                    ],
+                    "Address": "25 York St., Suite 1201, Toronto, ON M5J 2V5"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu mobile",
+                "free-to-play",
+                "live ops"
+            ]
+        },
+        {
+            "Name": "Cococucumber",
+            "url": "https://cococucumber.co/",
+            "Description": "Studio ind\u00e9pendant de jeu vid\u00e9o torontois (Riverbond, Ravenlok, Echo Generation), qui a sorti Echo Generation 2 sur PC et Xbox en mai 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 11,
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "voxel",
+                "RPG"
+            ]
+        },
+        {
+            "Name": "Qualcomm Canada",
+            "url": "https://www.qualcomm.com/",
+            "Description": "Filiale canadienne du concepteur am\u00e9ricain de puces Snapdragon ; son site de Markham (ex-\u00e9quipe ATI pour mobiles, rachet\u00e9e en 2009) d\u00e9veloppe notamment le compilateur et les performances des GPU Adreno ainsi que des IP vid\u00e9o, multim\u00e9dia et IA.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Markham",
+                    "Coordinates": [
+                        43.8389,
+                        -79.38345
+                    ],
+                    "Address": "105 Commerce Valley Drive West, Markham, ON L3T 7M8"
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.qualcomm.com/careers",
+            "Employees": 1000,
+            "Keywords": [
+                "GPU Adreno",
+                "compilateur GPU",
+                "Snapdragon",
+                "semi-conducteurs"
+            ]
+        },
+        {
+            "Name": "Waabi",
+            "url": "https://waabi.ai/",
+            "Description": "Start-up torontoise (2021, fond\u00e9e par Raquel Urtasun) de conduite autonome pour camions et robotaxis, dont l'approche repose sur Waabi World, un simulateur neuronal photor\u00e9aliste \u00e0 base de capteurs reconstruits ; 1 milliard de dollars lev\u00e9 en janvier 2026, partenariat avec Volvo.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.65508,
+                        -79.40751
+                    ],
+                    "Address": "440 Bathurst Street, Toronto, ON M5T 2S6"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Vision",
+                "Reconstruction",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://waabi.ai/careers/",
+            "Employees": 250,
+            "Keywords": [
+                "conduite autonome",
+                "simulation neuronale",
+                "camions autonomes",
+                "lidar"
+            ]
+        },
+        {
+            "Name": "Synaptive Medical",
+            "url": "https://www.synaptivemedical.com/",
+            "Description": "Fabricant torontois de syst\u00e8mes de visualisation chirurgicale (exoscope robotis\u00e9 Modus X, plateforme BrightMatter de planification et de navigation par imagerie, IRM Evry), restructur\u00e9 et recapitalis\u00e9 en 2025.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64635,
+                        -79.40236
+                    ],
+                    "Address": "555 Richmond Street West, Suite 800, Toronto, ON"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 130,
+            "Keywords": [
+                "exoscope robotis\u00e9",
+                "navigation chirurgicale",
+                "neurochirurgie",
+                "IRM"
+            ]
+        },
+        {
+            "Name": "Ross Video",
+            "url": "https://www.rossvideo.com/",
+            "Description": "Fabricant canadien d'\u00e9quipements et logiciels de production t\u00e9l\u00e9vis\u00e9e en direct, dont les solutions graphiques temps r\u00e9el XPression et de production virtuelle Voyager (sur Unreal Engine) ; R&D \u00e0 Ottawa, si\u00e8ge historique \u00e0 Iroquois.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Ottawa",
+                    "Coordinates": [
+                        45.42088,
+                        -75.69011
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Iroquois",
+                    "Coordinates": [
+                        44.84769,
+                        -75.31967
+                    ],
+                    "Address": "8 John Street, Iroquois, ON K0E 1K0"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://www.rossvideo.com/company/careers/",
+            "Employees": 1370,
+            "Keywords": [
+                "habillage graphique t\u00e9l\u00e9",
+                "production virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Corel",
+            "url": "https://www.corel.com/",
+            "Description": "\u00c9diteur ottavien de logiciels graphiques (CorelDRAW Graphics Suite, Corel Painter, PaintShop Pro, Corel Designer, CorelCAD), redevenu ind\u00e9pendant en 2026 sous le contr\u00f4le de Vector Capital apr\u00e8s la scission avec Parallels.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Ottawa",
+                    "Coordinates": [
+                        45.4024,
+                        -75.70841
+                    ],
+                    "Address": "333 Preston Street, Suite 700, Ottawa, ON"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Imagerie",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://www.corel.com/en/careers/",
+            "Employees": 1000,
+            "Keywords": [
+                "dessin vectoriel",
+                "retouche d'image",
+                "peinture num\u00e9rique",
+                "CorelDRAW"
+            ]
+        },
+        {
+            "Name": "Ideogram",
+            "url": "https://ideogram.ai/",
+            "Description": "Start-up torontoise d'IA g\u00e9n\u00e9rative d'images (2022, fond\u00e9e par d'anciens chercheurs de Google Brain, auteurs d'Imagen), r\u00e9put\u00e9e pour le rendu de texte dans les images (Ideogram 3.0, mod\u00e8les de marque personnalis\u00e9s en 2026).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64962,
+                        -79.37713
+                    ],
+                    "Address": "18 King Street East, Toronto, ON"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Art/Evenementiel"
+            ],
+            "Jobs": "https://ideogram.ai/careers",
+            "Employees": 60,
+            "Keywords": [
+                "g\u00e9n\u00e9ration d'images",
+                "mod\u00e8les de diffusion",
+                "typographie",
+                "design graphique"
+            ]
+        },
+        {
+            "Name": "Viggle",
+            "url": "https://viggle.ai/",
+            "Description": "Start-up torontoise (2022) de g\u00e9n\u00e9ration de vid\u00e9os et d'animation de personnages par IA contr\u00f4lable, fond\u00e9e sur son mod\u00e8le JST-1 ; s\u00e9rie A de 19 M$ US men\u00e9e par a16z en 2024.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://builtintoronto.com/company/viggle/jobs",
+            "Employees": 35,
+            "Keywords": [
+                "g\u00e9n\u00e9ration vid\u00e9o",
+                "animation de personnages",
+                "mod\u00e8le de fondation",
+                "IA g\u00e9n\u00e9rative"
+            ]
+        },
+        {
+            "Name": "Snap (Toronto)",
+            "url": "https://www.snap.com/",
+            "Description": "Bureau torontois de Snap Inc., issu du rachat de Bitstrips en 2016, qui d\u00e9veloppe Bitmoji, dont le moteur de rendu graphique multiplateforme des avatars et les outils pour artistes.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.65042,
+                        -79.39676
+                    ],
+                    "Address": "205 Spadina Avenue, Toronto, ON"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://careers.snap.com/",
+            "Keywords": [
+                "Bitmoji",
+                "avatars",
+                "moteur de rendu",
+                "r\u00e9alit\u00e9 augment\u00e9e"
+            ]
+        },
+        {
+            "Name": "Teledyne Optech",
+            "url": "https://www.teledyneoptech.com/",
+            "Description": "Constructeur de Vaughan (fond\u00e9 en 1974 sous le nom Optech, groupe Teledyne Geospatial) de lidars a\u00e9roport\u00e9s, bathym\u00e9triques, mobiles, terrestres et sur drone, et des logiciels de traitement de nuages de points associ\u00e9s.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vaughan",
+                    "Coordinates": [
+                        43.78894,
+                        -79.52489
+                    ],
+                    "Address": "300 Interchange Way, Vaughan, ON L4K 5Z8"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme",
+                "\u00c9nergie/Environnement"
+            ],
+            "Jobs": "https://flir.wd1.myworkdayjobs.com/flircareers/jobs",
+            "Employees": 300,
+            "Keywords": [
+                "lidar",
+                "nuages de points",
+                "cartographie a\u00e9roport\u00e9e",
+                "bathym\u00e9trie"
+            ]
+        },
+        {
+            "Name": "Teledyne DALSA",
+            "url": "https://www.teledynevisionsolutions.com/",
+            "Description": "Fabricant waterloo\u00efen de cam\u00e9ras, capteurs d'image et logiciels de vision industrielle (cam\u00e9ras Falcon, Linea, Genie, biblioth\u00e8que Sapera, imagerie spatiale et m\u00e9dicale), filiale de Teledyne depuis 2011.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Waterloo",
+                    "Coordinates": [
+                        43.50743,
+                        -80.52796
+                    ],
+                    "Address": "605 McMurray Road, Waterloo, ON N2V 2E9"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "M\u00e9dical/Biologique",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://flir.wd1.myworkdayjobs.com/flircareers/jobs",
+            "Employees": 1100,
+            "Keywords": [
+                "vision industrielle",
+                "capteurs CMOS",
+                "cam\u00e9ras",
+                "imagerie scientifique"
+            ]
+        },
+        {
+            "Name": "Ecopia AI",
+            "url": "https://www.ecopiatech.com/",
+            "Description": "Start-up torontoise qui extrait par IA des cartes vectorielles et des donn\u00e9es 3D (b\u00e2timents, occupation du sol 3D, r\u00e9seaux de transport) d'images a\u00e9riennes et satellitaires \u00e0 grande \u00e9chelle, en partenariat avec Vantor (ex-Maxar) et Nearmap.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.65986,
+                        -79.38813
+                    ],
+                    "Address": "101 College Street, Suite 440, Toronto, ON M5G 1L7"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Reconstruction",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme",
+                "\u00c9nergie/Environnement"
+            ],
+            "Jobs": "https://www.ecopiatech.com/careers",
+            "Employees": 45,
+            "Keywords": [
+                "cartographie par IA",
+                "imagerie a\u00e9rienne",
+                "jumeau num\u00e9rique",
+                "occupation du sol"
+            ]
+        },
+        {
+            "Name": "Peripheral Labs",
+            "url": "https://www.peripheral.so/",
+            "Description": "Start-up torontoise (2024, issue de l'\u00e9quipe de voiture autonome de l'Universit\u00e9 de Toronto) qui reconstruit en 3D les matchs de sport en direct \u00e0 partir de flux multicam\u00e9ras (rendu neuronal, ralentis navigables, donn\u00e9es biom\u00e9caniques) ; amor\u00e7age Khosla Ventures puis 8,7 M$ men\u00e9s par Inovia en 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Vision",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://jobs.khoslaventures.com/companies/peripheral-labs",
+            "Employees": 20,
+            "Keywords": [
+                "reconstruction 4D",
+                "Gaussian splatting",
+                "ralentis 3D",
+                "sport"
+            ]
+        },
+        {
+            "Name": "RamSoft",
+            "url": "https://www.ramsoft.com/",
+            "Description": "\u00c9diteur torontois (1994) de logiciels d'imagerie m\u00e9dicale : PACS PowerServer, plateforme cloud RIS/PACS/VNA OmegaAI sur Azure, visualiseur diagnostique web et orchestration d'outils d'IA en radiologie.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64941,
+                        -79.37761
+                    ],
+                    "Address": "8 King Street East, Suite 1501, Toronto, ON M5C 1B5"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.ramsoft.com/careers",
+            "Employees": 200,
+            "Keywords": [
+                "PACS",
+                "radiologie",
+                "visualiseur DICOM",
+                "cloud"
+            ]
+        },
+        {
+            "Name": "Perimeter Medical Imaging",
+            "url": "https://perimetermed.com/",
+            "Description": "Soci\u00e9t\u00e9 m\u00e9dicale (Toronto et Dallas) qui d\u00e9veloppe des syst\u00e8mes d'imagerie par tomographie par coh\u00e9rence optique (OCT) assist\u00e9s par IA pour visualiser les marges chirurgicales en temps r\u00e9el, dont Claire, premier appareil d'imagerie \u00e0 IA approuv\u00e9 par la FDA pour la chirurgie du cancer du sein.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64635,
+                        -79.40236
+                    ],
+                    "Address": "555 Richmond Street West, Suite 511, Toronto, ON M5V 3B1"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Dallas"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://perimetermed.com/careers/",
+            "Keywords": [
+                "OCT",
+                "imagerie perop\u00e9ratoire",
+                "cancer du sein",
+                "IA m\u00e9dicale"
+            ]
+        },
+        {
+            "Name": "VR Vision",
+            "url": "https://www.vrvisiongroup.com/",
+            "Description": "Studio torontois (2016) de simulations de formation en r\u00e9alit\u00e9 virtuelle sur mesure pour l'\u00e9nergie, les services publics, l'industrie et l'automobile, d\u00e9ploy\u00e9es sur casques autonomes via sa plateforme Vision Portal.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.64982,
+                        -79.36432
+                    ],
+                    "Address": "250 The Esplanade, Suite 310, Toronto, ON"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "\u00c9nergie/Environnement",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "formation en VR",
+                "simulation",
+                "s\u00e9curit\u00e9 industrielle",
+                "casques autonomes"
+            ]
+        },
+        {
+            "Name": "Maplesoft",
+            "Name-long": "Waterloo Maple Inc. (Maplesoft)",
+            "url": "https://www.maplesoft.com/",
+            "Description": "\u00c9diteur waterloo\u00efen (1988, filiale du japonais Cybernet Systems) du logiciel de calcul symbolique Maple et de MapleSim, outil de mod\u00e9lisation et de simulation multiphysique de syst\u00e8mes (jumeaux num\u00e9riques, mise en service virtuelle).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Waterloo",
+                    "Coordinates": [
+                        43.50595,
+                        -80.54777
+                    ],
+                    "Address": "615 Kumpf Drive, Waterloo, ON N2V 1K8"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://www.maplesoft.com/company/careers/",
+            "Employees": 150,
+            "Keywords": [
+                "calcul symbolique",
+                "simulation multiphysique",
+                "jumeau num\u00e9rique",
+                "mise en service virtuelle"
+            ]
+        },
+        {
+            "Name": "Agfa HealthCare (Waterloo)",
+            "url": "https://www.agfahealthcare.com/",
+            "Description": "Centre mondial de R&D d'Agfa HealthCare (groupe belge Agfa-Gevaert) ouvert en 2012 \u00e0 Waterloo, qui d\u00e9veloppe la plateforme d'imagerie m\u00e9dicale d'entreprise (PACS IMPAX, Enterprise Imaging, visualiseurs diagnostiques, pathologie num\u00e9rique).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Waterloo",
+                    "Coordinates": [
+                        43.46527,
+                        -80.5223
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Mississauga",
+                    "Coordinates": [
+                        43.589,
+                        -79.6441
+                    ]
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Mortsel"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://careers.agfa.com/HealthCare/",
+            "Keywords": [
+                "PACS",
+                "imagerie d'entreprise",
+                "radiologie",
+                "pathologie num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Intellijoint Surgical",
+            "url": "https://intellijointsurgical.com/",
+            "Description": "Fabricant de Kitchener (2010, issu de l'Universit\u00e9 de Waterloo) de syst\u00e8mes de navigation chirurgicale \u00e0 micro-cam\u00e9ra et suivi optique par IA pour la pose de proth\u00e8ses de hanche et de genou.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Kitchener",
+                    "Coordinates": [
+                        43.46284,
+                        -80.47555
+                    ],
+                    "Address": "809 Wellington Street North, Unit 2, Kitchener, ON N2H 5L6"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 70,
+            "Keywords": [
+                "navigation chirurgicale",
+                "suivi optique",
+                "orthop\u00e9die",
+                "micro-cam\u00e9ra"
+            ]
+        },
+        {
+            "Name": "Lumeto",
+            "url": "https://lumeto.com/",
+            "Description": "\u00c9diteur torontois d'InvolveXR, laboratoire de simulation en r\u00e9alit\u00e9 virtuelle pour la formation des soignants (patients virtuels anim\u00e9s par IA, plus de 500 sc\u00e9narios, \u00e9valuation automatis\u00e9e), d\u00e9ploy\u00e9 dans les coll\u00e8ges et universit\u00e9s de l'Ontario.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.72067,
+                        -79.29531
+                    ],
+                    "Address": "793 Pharmacy Avenue, Toronto, ON M1L 3K2"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Simulation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "simulation m\u00e9dicale",
+                "r\u00e9alit\u00e9 virtuelle",
+                "patients virtuels",
+                "formation des infirmiers"
+            ]
+        },
+        {
+            "Name": "Maneva",
+            "url": "https://www.maneva.ai/",
+            "Description": "Start-up torontoise (2021) de vision par ordinateur pour l'industrie qui analyse en temps r\u00e9el les flux des cam\u00e9ras d'usine existantes pour d\u00e9tecter d\u00e9fauts, risques d'arr\u00eat et probl\u00e8mes de s\u00e9curit\u00e9 ; s\u00e9rie A de 27 M$ US en juin 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "vision industrielle",
+                "analyse vid\u00e9o",
+                "contr\u00f4le qualit\u00e9",
+                "IA"
+            ]
+        },
+        {
+            "Name": "Miovision",
+            "url": "https://miovision.com/",
+            "Description": "Entreprise de Kitchener (2005) de gestion intelligente du trafic : d\u00e9tection vid\u00e9o et analyse par vision par ordinateur aux intersections, optimisation des feux, collecte de donn\u00e9es de circulation et V2X pour les villes.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Kitchener",
+                    "Coordinates": [
+                        43.4513,
+                        -80.5133
+                    ],
+                    "Address": "137 Glasgow Street, Kitchener, ON"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Jobs": "https://miovision.com/company/careers/",
+            "Employees": 300,
+            "Keywords": [
+                "trafic routier",
+                "d\u00e9tection vid\u00e9o",
+                "ville intelligente",
+                "V2X"
+            ]
+        },
+        {
+            "Name": "Augmenta AI",
+            "url": "https://www.augmenta.ai/",
+            "Description": "Start-up torontoise (2018, fond\u00e9e par des pionniers de la conception g\u00e9n\u00e9rative d'Autodesk) qui automatise par IA la conception 3D des syst\u00e8mes \u00e9lectriques des b\u00e2timents (trac\u00e9 des chemins de c\u00e2bles dans la maquette BIM, int\u00e9gration Revit) ; plateforme ACP 2.0 sortie en juin 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "conception g\u00e9n\u00e9rative",
+                "BIM",
+                "g\u00e9nie \u00e9lectrique",
+                "Revit"
+            ]
+        },
+        {
+            "Name": "Altis Labs",
+            "url": "https://www.altislabs.com/",
+            "Description": "Start-up torontoise (2019) d'IA d'imagerie m\u00e9dicale pour l'oncologie, dont le mod\u00e8le IPRO pr\u00e9dit la survie des patients \u00e0 partir de scanners de routine pour acc\u00e9l\u00e9rer les essais cliniques ; s\u00e9rie A de 25 M$ US en septembre 2026.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://builtintoronto.com/company/altis-labs",
+            "Keywords": [
+                "imagerie oncologique",
+                "scanner",
+                "biomarqueurs d'imagerie",
+                "essais cliniques"
+            ]
+        },
+        {
+            "Name": "IMAX",
+            "Name-long": "IMAX Corporation",
+            "url": "https://www.imax.com/",
+            "Description": "Groupe canadien de technologies cin\u00e9matographiques immersives dont le si\u00e8ge technique de Mississauga con\u00e7oit projecteurs laser, cam\u00e9ras certifi\u00e9es IMAX, proc\u00e9d\u00e9 de remast\u00e9risation num\u00e9rique DMR et traitement d'image et du son pour salles g\u00e9antes.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Mississauga",
+                    "Coordinates": [
+                        43.51634,
+                        -79.664
+                    ],
+                    "Address": "2525 Speakman Drive, Mississauga, ON L5K 1B1"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://www.imax.com/careers",
+            "Employees": 650,
+            "Keywords": [
+                "projection laser",
+                "cam\u00e9ras cin\u00e9ma",
+                "remast\u00e9risation num\u00e9rique",
+                "grand format"
+            ]
+        },
+        {
+            "Name": "Digital Domain",
+            "url": "https://digitaldomain.com/",
+            "Description": "Studio d'effets visuels fond\u00e9 \u00e0 Los Angeles (Titanic, Avengers: Infinity War, Les Quatre Fantastiques : premiers pas), pionnier des humains num\u00e9riques et de la capture faciale, avec un studio \u00e0 Vancouver depuis 2010 et un autre \u00e0 Montr\u00e9al.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26442,
+                        -123.14154
+                    ],
+                    "Address": "1618 W 8th Avenue, Vancouver, BC V6J 1V4"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "humains num\u00e9riques",
+                "capture faciale",
+                "long m\u00e9trage"
+            ]
+        },
+        {
+            "Name": "Bardel Entertainment",
+            "url": "https://bardel.ca/",
+            "Description": "Studio d'animation 2D et 3D fond\u00e9 en 1987 \u00e0 Vancouver (Rick et Morty, The Dragon Prince, Carol & the End of the World), filiale du groupe italien Rainbow, avec un second studio \u00e0 Montr\u00e9al.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26596,
+                        -123.11347
+                    ],
+                    "Address": "425 West 6th Avenue, 5e \u00e9tage, Vancouver, BC V5Y 1L3"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.497,
+                        -73.55419
+                    ],
+                    "Address": "50 Rue Queen, 3e \u00e9tage, Montr\u00e9al, QC H3K 2B7"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://apply.workable.com/bardel-entertainment/",
+            "Employees": 478,
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "s\u00e9ries",
+                "long m\u00e9trage"
+            ]
+        },
+        {
+            "Name": "Atomic Cartoons",
+            "url": "https://www.atomiccartoons.com/",
+            "Description": "Studio d'animation 2D et 3D de Vancouver (Spidey et ses amis extraordinaires, Hilda), rachet\u00e9 avec sa maison m\u00e8re Thunderbird par Blue Ant Media en 2026, avec des \u00e9quipes \u00e0 Ottawa et Los Angeles.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26496,
+                        -123.10709
+                    ],
+                    "Address": "123 W 7th Avenue, Vancouver, BC V5Y 1L8"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/atomiccartoons",
+            "Employees": 600,
+            "Keywords": [
+                "animation 3D",
+                "s\u00e9ries jeunesse",
+                "Marvel",
+                "Blue Ant"
+            ]
+        },
+        {
+            "Name": "Animatrik",
+            "url": "https://www.animatrik.com/",
+            "Description": "Studio de capture de performance (corps et visage) et de tournage temps r\u00e9el bas\u00e9 \u00e0 Burnaby, dot\u00e9 d'un des plus grands plateaux de motion capture ind\u00e9pendants d'Am\u00e9rique du Nord, au service du cin\u00e9ma, du jeu vid\u00e9o et de la XR.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Burnaby",
+                    "Coordinates": [
+                        49.26942,
+                        -123.02339
+                    ],
+                    "Address": "4088 1st Avenue, Burnaby, BC V5C 3W4"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "motion capture",
+                "capture faciale",
+                "production virtuelle",
+                "Burnaby"
+            ]
+        },
+        {
+            "Name": "Zoic Studios",
+            "url": "https://www.zoicstudios.com/",
+            "Description": "Studio d'effets visuels ind\u00e9pendant de Santa Monica (Alien: Earth, s\u00e9ries et films) dont le studio de Vancouver, install\u00e9 \u00e0 Gastown depuis 2005, r\u00e9alise VFX, previs et en 2026 un projet VFX en stop motion.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.28487,
+                        -123.11099
+                    ],
+                    "Address": "375 Water Street, bureau 205, Vancouver, BC"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://zoicstudios.theresumator.com/",
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "previs",
+                "Gastown"
+            ]
+        },
+        {
+            "Name": "Barnstorm VFX",
+            "url": "https://www.barnstormvfx.com/",
+            "Description": "Studio d'effets visuels nomm\u00e9 aux Emmy et aux VES Awards, fond\u00e9 \u00e0 Los Angeles, avec un studio \u00e0 Vancouver ainsi qu'\u00e0 Montr\u00e9al, Toronto, New York, Atlanta et Londres (Spider-Noir pour Prime Video).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26725,
+                        -123.10516
+                    ],
+                    "Address": "18 W 4th Avenue, bureau 338, Vancouver, BC V5Y 1G3"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 126,
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "compositing",
+                "environnements"
+            ]
+        },
+        {
+            "Name": "Titmouse",
+            "url": "https://titmouse.net/",
+            "Description": "Studio d'animation am\u00e9ricain (The Legend of Vox Machina, Big Mouth, Star Trek: Lower Decks) avec un studio \u00e0 Vancouver depuis 2013, premier studio d'animation syndiqu\u00e9 au Canada, et une filiale \u00e0 Paris cr\u00e9\u00e9e en 2025.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26854,
+                        -123.10532
+                    ],
+                    "Address": "31 W 3rd Avenue, Vancouver, BC V5Y 3T8"
+                },
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86739,
+                        2.37279
+                    ],
+                    "SIREN": "990237364",
+                    "Address": "107 Avenue Parmentier, 75011 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 700,
+            "Keywords": [
+                "animation 2D",
+                "animation adulte",
+                "s\u00e9ries",
+                "Paris"
+            ]
+        },
+        {
+            "Name": "Mainframe Studios",
+            "url": "https://www.mainframe.ca/",
+            "Description": "Studio d'animation 3D fond\u00e9 en 1993 \u00e0 Vancouver (ReBoot, premi\u00e8re s\u00e9rie enti\u00e8rement en images de synth\u00e8se), filiale de Kartoon Studios, qui produit des s\u00e9ries pour Spin Master, Sony ou Disney et ses propres projets (It's Andrew!, The Immortals & The Shadow Realm).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26407,
+                        -123.15123
+                    ],
+                    "Address": "300-2025 West Broadway, Vancouver, BC V6J 1Z6"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 650,
+            "Keywords": [
+                "animation 3D",
+                "s\u00e9ries jeunesse",
+                "ReBoot",
+                "Kartoon Studios"
+            ]
+        },
+        {
+            "Name": "WildBrain Studios",
+            "url": "https://www.wildbrain.com/content/studios",
+            "Description": "Studio d'animation 2D et 3D de WildBrain \u00e0 Vancouver (s\u00e9ries Peanuts comme The Snoopy Show, longs m\u00e9trages CG), qui a nou\u00e9 en 2026 un partenariat de production CG avec 88 Pictures et doit emm\u00e9nager en 2027 dans 4 400 m\u00b2 \u00e0 Mount Pleasant.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26641,
+                        -123.11222
+                    ],
+                    "Address": "380 West 5th Avenue, Vancouver, BC V5Y 1J5"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://wildbrain-career.talent-soft.com/",
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "s\u00e9ries jeunesse",
+                "Peanuts"
+            ]
+        },
+        {
+            "Name": "Ingenuity Studios",
+            "url": "https://www.ingenuitystudios.com/",
+            "Description": "Studio d'effets visuels de Los Angeles (films, s\u00e9ries, clips, publicit\u00e9), filiale de Streamland Media, avec des studios \u00e0 Vancouver et Toronto.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26411,
+                        -123.10977
+                    ],
+                    "Address": "2339 Columbia Street, bureau 200, Vancouver, BC V5Y 3Y3"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Simulation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/ingenuitystudios",
+            "Keywords": [
+                "effets visuels",
+                "Houdini",
+                "s\u00e9ries",
+                "Streamland"
+            ]
+        },
+        {
+            "Name": "Stellar Creative Lab",
+            "url": "https://www.stellarcreativelab.com/",
+            "Description": "Studio d'animation 3D et 2D fond\u00e9 en 2017 \u00e0 Vancouver par d'anciens de Nelvana et des VFX (Marvel Zombies pour Disney+), avec des \u00e9quipes \u00e0 Toronto et au Costa Rica et un pipeline 2.5D maison.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.27549,
+                        -123.12237
+                    ],
+                    "Address": "1148 Homer Street, bureau 201, Vancouver, BC V6B 2X6"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "animation 3D",
+                "s\u00e9ries",
+                "previs",
+                "Marvel"
+            ]
+        },
+        {
+            "Name": "ICON Creative Studio",
+            "url": "https://www.iconcreativestudio.com/",
+            "Description": "Studio d'animation 3D ind\u00e9pendant fond\u00e9 en 2013 \u00e0 Gastown (Transformers: EarthSpark, Star Wars: Young Jedi Adventures, Batwheels), avec un bureau \u00e0 Los Angeles.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.28386,
+                        -123.10469
+                    ],
+                    "Address": "21 Water Street, Vancouver, BC V6B 1A1"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 3D",
+                "s\u00e9ries",
+                "Star Wars",
+                "Gastown"
+            ]
+        },
+        {
+            "Name": "Giant Ant",
+            "url": "https://www.giantant.ca/",
+            "Description": "Studio d'animation et de motion design 2D/3D de Vancouver, r\u00e9put\u00e9 pour ses films de marque et habillages d'antenne (Cartoonito), dont l'activit\u00e9 a \u00e9t\u00e9 rachet\u00e9e par Buck en 2022.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.28118,
+                        -123.06014
+                    ],
+                    "Address": "961 E Hastings Street, Vancouver, BC V6A 0H1"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 41,
+            "Keywords": [
+                "motion design",
+                "animation 2D",
+                "animation 3D",
+                "publicit\u00e9"
+            ]
+        },
+        {
+            "Name": "Relic Entertainment",
+            "url": "https://www.relic.com/",
+            "Description": "Studio de jeu vid\u00e9o de strat\u00e9gie en temps r\u00e9el fond\u00e9 en 1997 \u00e0 Vancouver, cr\u00e9ateur des s\u00e9ries Homeworld, Company of Heroes et Dawn of War et d\u00e9veloppeur d'Age of Empires IV ; ind\u00e9pendant depuis sa cession par Sega en 2024.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26682,
+                        -123.11036
+                    ],
+                    "Address": "285 W 5th Ave, Vancouver, BC V5Y 1J3"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.relic.com/#careers",
+            "Keywords": [
+                "strat\u00e9gie temps r\u00e9el",
+                "Company of Heroes",
+                "Age of Empires IV",
+                "moteur propri\u00e9taire"
+            ]
+        },
+        {
+            "Name": "Blackbird Interactive",
+            "url": "https://www.blackbirdinteractive.com/",
+            "Description": "Studio de jeu vid\u00e9o ind\u00e9pendant de Vancouver (environ 200 personnes) fond\u00e9 par des v\u00e9t\u00e9rans de Relic, d\u00e9veloppeur de Homeworld: Deserts of Kharak, Homeworld 3, Hardspace: Shipbreaker et Minecraft Legends, et co-d\u00e9veloppeur pour Starfield, Subnautica et Minecraft.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.28183,
+                        -123.10779
+                    ],
+                    "Address": "112 W Hastings St, Vancouver, BC V6B 1G8"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.blackbirdinteractive.com/careers",
+            "Employees": 200,
+            "Keywords": [
+                "strat\u00e9gie",
+                "co-d\u00e9veloppement",
+                "Homeworld",
+                "Unity"
+            ]
+        },
+        {
+            "Name": "Next Level Games",
+            "url": "https://www.nlgames.com/",
+            "Description": "Studio de jeu vid\u00e9o de Vancouver, filiale de Nintendo depuis 2021, d\u00e9veloppeur de Luigi's Mansion 2 et 3, Mario Strikers: Battle League et Punch-Out!!.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.27789,
+                        -123.11448
+                    ],
+                    "Address": "208 Robson St, Vancouver, BC"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "Nintendo",
+                "Luigi's Mansion",
+                "Mario Strikers",
+                "consoles"
+            ]
+        },
+        {
+            "Name": "Kabam",
+            "url": "https://kabam.com/",
+            "Description": "\u00c9diteur et d\u00e9veloppeur de jeux mobiles bas\u00e9 \u00e0 Vancouver, filiale du cor\u00e9en Netmarble, connu pour Marvel Contest of Champions et Transformers: Forged to Fight.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu mobile",
+                "Marvel Contest of Champions",
+                "Netmarble",
+                "free-to-play"
+            ]
+        },
+        {
+            "Name": "SkyBox Labs",
+            "url": "https://skyboxlabs.com/",
+            "Description": "Studio de d\u00e9veloppement et co-d\u00e9veloppement de jeux vid\u00e9o fond\u00e9 en 2011 \u00e0 Burnaby, filiale de NetEase Games depuis 2023, partenaire de Microsoft (Halo, Minecraft, Age of Empires), Bungie (Destiny 2, Marathon) et Bethesda (Fallout 76).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Burnaby",
+                    "Coordinates": [
+                        49.24338,
+                        -122.97254
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://skyboxlabs.com/jobs/",
+            "Keywords": [
+                "co-d\u00e9veloppement",
+                "Halo",
+                "Unreal Engine 5",
+                "NetEase"
+            ]
+        },
+        {
+            "Name": "Klei Entertainment",
+            "url": "https://www.klei.com/",
+            "Description": "Studio ind\u00e9pendant de jeu vid\u00e9o de Vancouver (environ 100 personnes) cr\u00e9ateur de Don't Starve, Oxygen Not Included, Mark of the Ninja et Rotwood, avec une branche d'\u00e9dition (Klei Publishing).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.klei.com/careers",
+            "Employees": 100,
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "animation 2D",
+                "Don't Starve",
+                "Oxygen Not Included"
+            ]
+        },
+        {
+            "Name": "Piranha Games",
+            "url": "https://www.piranhagames.com/",
+            "Description": "Studio de jeu vid\u00e9o de Burnaby (groupe su\u00e9dois Enad Global 7), d\u00e9veloppeur de MechWarrior Online, MechWarrior 5: Mercenaries et MechWarrior 5: Clans.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Burnaby",
+                    "Coordinates": [
+                        49.25387,
+                        -123.01066
+                    ],
+                    "Address": "303-3600 Gilmore Way, Burnaby, BC V5G 4R8"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 40,
+            "Keywords": [
+                "MechWarrior",
+                "Unreal Engine",
+                "simulation de robots",
+                "EG7"
+            ]
+        },
+        {
+            "Name": "East Side Games",
+            "url": "https://eastsidegamesgroup.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur vancouv\u00e9rois de jeux mobiles free-to-play (studios East Side Games et LDRLY), connu pour ses jeux \u00ab idle \u00bb sous licence (Trailer Park Boys, Star Trek, Archer) et sa technologie de kit de jeux.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://eastsidegamesgroup.com/careers/",
+            "Keywords": [
+                "jeu mobile",
+                "jeux idle",
+                "free-to-play",
+                "licences"
+            ]
+        },
+        {
+            "Name": "Brace Yourself Games",
+            "url": "https://braceyourselfgames.com/",
+            "Description": "Studio ind\u00e9pendant de jeu vid\u00e9o de Vancouver, cr\u00e9ateur de Crypt of the NecroDancer, Cadence of Hyrule (avec Nintendo) et Rift of the NecroDancer, et \u00e9diteur de jeux ind\u00e9pendants (Cobalt Core, Phantom Brigade).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu de rythme",
+                "jeu ind\u00e9pendant",
+                "NecroDancer",
+                "\u00e9dition"
+            ]
+        },
+        {
+            "Name": "A Thinking Ape",
+            "url": "https://www.athinkingape.com/",
+            "Description": "Studio vancouv\u00e9rois de jeux mobiles sociaux (Kingdoms of Heckfire, Kingdoms at War, Island Hoppers, Witch Arcana) organis\u00e9 en petites \u00e9quipes.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.athinkingape.com/careers/",
+            "Keywords": [
+                "jeu mobile",
+                "free-to-play",
+                "jeux sociaux"
+            ]
+        },
+        {
+            "Name": "Avigilon",
+            "url": "https://www.avigilon.com/",
+            "Description": "Entreprise de vid\u00e9osurveillance fond\u00e9e \u00e0 Vancouver, filiale de Motorola Solutions depuis 2018, qui con\u00e7oit cam\u00e9ras, logiciels de gestion vid\u00e9o et analyses vid\u00e9o par IA (d\u00e9tection et recherche d'objets et de personnes).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Analyse de donn\u00e9es",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Employees": 236,
+            "Keywords": [
+                "analyse vid\u00e9o",
+                "vid\u00e9osurveillance",
+                "IA",
+                "Motorola Solutions"
+            ]
+        },
+        {
+            "Name": "Clarius Mobile Health",
+            "url": "https://clarius.com/",
+            "Description": "Fabricant vancouv\u00e9rois d'\u00e9chographes portables sans fil connect\u00e9s \u00e0 un smartphone, avec traitement d'image et assistance par IA pour l'\u00e9chographie au point de soin.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26011,
+                        -123.04088
+                    ],
+                    "Address": "2980 Virtual Way #205, Vancouver, BC V5M 4X3"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "\u00e9chographie",
+                "imagerie m\u00e9dicale",
+                "IA",
+                "dispositif portable"
+            ]
+        },
+        {
+            "Name": "Apera AI",
+            "url": "https://apera.ai/",
+            "Description": "Start-up vancouv\u00e9roise de vision 3D par IA pour la robotique industrielle (\u00ab 4D Vision \u00bb) permettant aux robots de saisir et manipuler des pi\u00e8ces en vrac.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/aperaaiinc",
+            "Keywords": [
+                "vision 3D",
+                "robotique",
+                "bin picking",
+                "IA"
+            ]
+        },
+        {
+            "Name": "Teledyne FLIR (Richmond)",
+            "url": "https://www.flir.com/",
+            "Description": "Ancien Point Grey Research, rachet\u00e9 par FLIR en 2016 puis int\u00e9gr\u00e9 \u00e0 Teledyne FLIR : site de Richmond qui con\u00e7oit les cam\u00e9ras de vision industrielle (Blackfly, Oryx) et le SDK Spinnaker.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Richmond",
+                    "Coordinates": [
+                        49.13107,
+                        -123.08979
+                    ],
+                    "Address": "12051 Riverside Way, Richmond, BC"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Keywords": [
+                "vision industrielle",
+                "cam\u00e9ras",
+                "Point Grey",
+                "Spinnaker"
+            ]
+        },
+        {
+            "Name": "Metaspectral",
+            "url": "https://metaspectral.com/",
+            "Description": "\u00c9diteur vancouv\u00e9rois de logiciels d'analyse d'images hyperspectrales par apprentissage profond (plateforme Clarity/Fusion) pour l'observation de la Terre, le tri des plastiques et la d\u00e9fense.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.2783,
+                        -123.09863
+                    ],
+                    "Address": "201-228 E Georgia St, Vancouver, BC V6A 1Z6"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "\u00c9nergie/Environnement"
+            ],
+            "Keywords": [
+                "imagerie hyperspectrale",
+                "observation de la Terre",
+                "apprentissage profond"
+            ]
+        },
+        {
+            "Name": "Inverted AI",
+            "url": "https://www.inverted.ai/",
+            "Description": "Start-up vancouv\u00e9roise issue de l'UBC qui produit des mod\u00e8les g\u00e9n\u00e9ratifs de comportement d'agents (v\u00e9hicules, pi\u00e9tons) pour la simulation de conduite autonome et ADAS (TorchDriveSim).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Keywords": [
+                "simulation de conduite",
+                "agents",
+                "v\u00e9hicule autonome"
+            ]
+        },
+        {
+            "Name": "Spexi",
+            "url": "https://www.spexi.com/",
+            "Description": "Start-up vancouv\u00e9roise qui constitue une couche d'imagerie par drone \u00e0 tr\u00e8s haute r\u00e9solution via un r\u00e9seau de pilotes, livr\u00e9e en orthomosa\u00efques, nuages de points et Gaussian splats.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/spexi",
+            "Keywords": [
+                "drone",
+                "photogramm\u00e9trie",
+                "Gaussian splatting",
+                "jumeau num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Safe Software",
+            "url": "https://www.safe.com/",
+            "Description": "\u00c9diteur de Surrey (Grand Vancouver) de la plateforme FME d'int\u00e9gration et de transformation de donn\u00e9es spatiales (SIG, CAO, BIM, nuages de points, 3D).",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Surrey",
+                    "Coordinates": [
+                        49.1913,
+                        -122.84914
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Web/Cloud/Big Data",
+                "G\u00e9om\u00e9trie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "FME",
+                "donn\u00e9es g\u00e9ospatiales",
+                "SIG",
+                "BIM"
+            ]
+        },
+        {
+            "Name": "PrecisionOS",
+            "url": "https://www.precisionostech.com/",
+            "Description": "Start-up vancouv\u00e9roise de formation chirurgicale en r\u00e9alit\u00e9 virtuelle (\u00ab Digital Cadaver Lab \u00bb en orthop\u00e9die, arthroscopie, rachis) avec suivi de performance et mentor IA.",
+            "Place": [
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.26087,
+                        -123.11395
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "formation chirurgicale",
+                "orthop\u00e9die"
             ]
         }
     ]

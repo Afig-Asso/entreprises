@@ -253,6 +253,8 @@
   Jobs: https://careers.amd.com/careers-home/jobs
   Place:
     - Country: États-Unis
+    - Country: Canada
+      City: Markham
     - International: true
   Scientific-domain: [Hardware, Rendu temps réel/Moteurs 3D, Rendu offline/VFX]
   Application-domain: [Générique]
@@ -373,7 +375,7 @@
   Place:
     - Country: [États-Unis, Inde, Royaume-Uni, Singapour, Norvège]
     - Country: Canada
-      City: Montréal
+      City: [Montréal, Toronto]
     - International: true
   Jobs: https://www.autodesk.com/careers/overview
   Scientific-domain: [Modélisation, Animation, Design/Fabrication, Pipeline/Outils de production]
@@ -526,7 +528,7 @@
 - Name: Christie
   url: https://www.christiedigital.com/en-gb
   Description: Systèmes de projections vidéo et d'immersion (projecteur de cinéma, ecrans géants, projection immersive, etc).
-  Place: [{Country: États-Unis, State: California}, {Country: Canada, State: Ontario}]
+  Place: [{Country: États-Unis, State: California}, {Country: Canada, City: Kitchener}]
   Jobs: https://www.christiedigital.com/en-gb/about/careers/
   Scientific-domain: [VR/AR, Visualisation]
   Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
@@ -693,6 +695,8 @@
   Jobs: https://join.disneycareers.com/global/en
   Place:
     - Country: États-Unis
+    - Country: Canada
+      City: Vancouver
     - International: true
   Scientific-domain: [Rendu offline/VFX, Animation, Simulation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
@@ -1421,7 +1425,7 @@
     - Country: États-Unis
       City: Redmond
     - Country: Canada
-      City: Montréal
+      City: [Montréal, Vancouver]
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, IA générative (image/3D), Web/Cloud/Big Data]
   Application-domain: [Générique]
@@ -1619,6 +1623,8 @@
       Coordinates: [48.89576, 2.239]
       SIREN: '432108355'
       Address: '8 Avenue De L''Arche, 92400 Courbevoie'
+    - Country: Canada
+      City: Toronto
     - International: True
   Scientific-domain: [Hardware, Rendu temps réel/Moteurs 3D, IA générative (image/3D), Simulation]
   Application-domain: [Générique]
@@ -2020,7 +2026,7 @@
       SIREN: '419459672'
       Address: 223 Rue Saint-Honoré, 75001 Paris
     - Country: Canada
-      City: [Montréal, Québec]
+      City: [Montréal, Québec, Oakville, Vancouver]
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Acquisition, Vision]
   Application-domain: [Jeu Vidéo]
@@ -2427,6 +2433,8 @@
   Place:
     - Country: Nouvelle-Zélande
       City: Wellington
+    - Country: Canada
+      City: Vancouver
   Scientific-domain: [Modélisation, Animation, Simulation, Acquisition]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [effets visuels, long métrage, séries, doublure numérique, motion capture, path tracing, moteur de rendu maison]
@@ -9252,7 +9260,7 @@
       Coordinates: [51.52093, -0.14288]
       Address: 160 Great Portland Street, London W1W 5QA
     - Country: Canada
-      City: Montréal
+      City: [Montréal, Toronto, Vancouver]
   Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://www.dneg.com/join-us
@@ -9284,7 +9292,7 @@
       Coordinates: [51.51719, -0.142]
       Address: 10 Little Portland Street, London W1W 7JG
     - Country: Canada
-      City: Montréal
+      City: [Montréal, Vancouver]
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://cinesite.com/careers/
@@ -9732,6 +9740,8 @@
       City: Sheffield
       Coordinates: [53.407, -1.4205]
       Address: 32 Jessops Riverside, Brightside Lane, Sheffield S9 2RX
+    - Country: Canada
+      City: Vancouver
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production]
   Application-domain: [Jeu Vidéo]
   Employees: 1000
@@ -10195,6 +10205,8 @@
       City: Londres
       Coordinates: [51.51826, -0.13702]
       Address: 30 Berners Street, London W1T 3LR
+    - Country: Canada
+      City: Vancouver
   Scientific-domain: [Rendu offline/VFX, Simulation, Pipeline/Outils de production, IA générative (image/3D)]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [effets visuels, production virtuelle, Netflix, simulation]
@@ -10324,7 +10336,7 @@
       Coordinates: [51.5223, -0.1098]
       Address: Floor 1, 15-19 Baker's Row, London EC1R 3DG
     - Country: Canada
-      City: Montréal
+      City: [Montréal, Vancouver]
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [effets visuels, cinéma, séries, lighting]
@@ -10527,6 +10539,8 @@
       Coordinates: [48.86992, 2.36399]
       SIREN: '948806336'
       Address: 2 Rue Dieu, 75010 Paris
+    - Country: Canada
+      City: Toronto
   Scientific-domain: [Rendu offline/VFX, Animation, Simulation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Jobs: https://careers.smartrecruiters.com/RodeoFX
@@ -10541,6 +10555,8 @@
       City: Montréal
       Coordinates: [45.53219, -73.57261]
       Address: 4371 avenue Papineau, Montréal, QC H2H 1T7
+    - Country: Canada
+      City: Toronto
   Scientific-domain: [Rendu offline/VFX, Animation, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://folksvfx.com/careers/open-positions/
@@ -10658,6 +10674,8 @@
       City: Montréal
       Coordinates: [45.53071, -73.61363]
       Address: 6666 Rue Saint-Urbain, bureau 500, Montréal, QC H2S 3H1
+    - Country: Canada
+      City: Toronto
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Pipeline/Outils de production]
   Application-domain: [Jeu Vidéo]
   Jobs: https://www.bhvr.com/jobs/
@@ -11195,3 +11213,937 @@
   Scientific-domain: [Reconstruction, Géométrie, Imagerie]
   Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme, Énergie/Environnement]
   Keywords: [photogrammétrie, drones, Gaussian splatting, orthophotos]
+
+- Name: SPIN VFX
+  url: https://www.spinvfx.com/
+  Description: Studio d'effets visuels torontois fondé il y a plus de 30 ans, travaillant pour le cinéma et les séries (The Boys, John Wick, Game of Thrones, The Umbrella Academy), avec une antenne à Atlanta.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64189, -79.41124]
+      Address: 901 King St. West, Suite 501, Toronto, ON M5V 3H5
+  Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 160
+  Keywords: [effets visuels, séries, compositing, CG]
+
+- Name: Soho VFX
+  url: https://sohovfx.com/
+  Description: Studio d'effets visuels fondé en 2002 dans le quartier de la Junction à Toronto, qui réalise des effets pour le cinéma et les séries (The Boys, The Umbrella Academy, Game of Thrones).
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.66314, -79.45501]
+      Address: 50 Edwin Ave., Toronto, ON M6P 0A3
+  Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 100
+  Keywords: [effets visuels, séries, Houdini, compositing]
+
+- Name: Rocket Science VFX
+  url: https://www.rsvfx.com/
+  Description: 'Studio d''effets visuels fondé en 2003 à Toronto (quartier de la Junction), crédité sur Wednesday, The Boys, IT: Welcome to Derry et Poker Face.'
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.65382, -79.44786]
+      Address: 35 Golden Avenue, Suite 105, Toronto, ON M6R 2J5
+  Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://rocketsciencevfx.applytojob.com/
+  Keywords: [effets visuels, séries, pipeline, compositing]
+
+- Name: MARZ
+  url: https://monstersaliensrobotszombies.com/
+  Description: Studio d'effets visuels torontois (Monsters Aliens Robots Zombies) spécialisé dans les séries, qui développe ses propres outils d'IA pour le rajeunissement, la retouche de visages (Vanity AI) et le doublage labial (LipDub).
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.66532, -79.34033]
+      Address: 1240 Dundas St E, Toronto, ON M4M 1S3
+  Scientific-domain: [Rendu offline/VFX, IA générative (image/3D), Vision]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [effets visuels, IA, rajeunissement, séries]
+
+- Name: Dark Slope
+  url: https://www.darkslope.com/
+  Description: Studio torontois de production virtuelle (grand volume LED, plateaux, capture de mouvement) qui produit aussi des séries et des jeux et expériences VR/MR ; a annoncé un nouveau studio de 75 000 pieds carrés à Scarborough.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.65553, -79.44624]
+      Address: 213 Sterling Road, Unit 211, Toronto, ON M6R 2B2
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
+  Keywords: [production virtuelle, volume LED, Unreal Engine, réalité virtuelle]
+
+- Name: Guru Studio
+  url: https://gurustudio.com/
+  Description: Studio d'animation torontois fondé en 2000, qui produit des séries 3D pour la jeunesse (True and the Rainbow Kingdom, Mecha Builders, PAW Patrol, Justin Time) et des créations originales.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.66177, -79.3791]
+      Address: 399 Church Street, Suite 400, Toronto, ON M5B 2J7
+  Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [animation 3D, séries jeunesse, Sesame Street]
+
+- Name: House of Cool
+  url: https://www.houseofcool.com/
+  Description: Studio torontois de pré-production pour l'animation (storyboard, développement visuel, previs), filiale de WildBrain depuis 2023, qui a travaillé sur Moi, moche et méchant, Angry Birds et Dragons.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [Animation, Modélisation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://houseofcool-career.talent-soft.com/
+  Employees: 55
+  Keywords: [storyboard, pré-production, développement visuel, WildBrain]
+
+- Name: Industrial Brothers
+  url: https://www.industrialbrothers.com/
+  Description: Studio d'animation torontois (majorité détenue par Boat Rocker depuis 2025) qui crée et produit des séries jeunesse en 3D comme Dino Ranch et Daniel Spellbound.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.65243, -79.36405]
+      Address: 310 King St E, Toronto, ON M5A 1K6
+  Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [animation 3D, séries jeunesse, Dino Ranch]
+
+- Name: Jam Filled Entertainment
+  url: https://www.jamfilled.com/
+  Description: Studio d'animation 2D et 3D (division de Blue Ant Media) avec un siège à Ottawa et un studio 3D à Toronto issu du rachat d'Arc Productions, qui travaille notamment sur The Loud House.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.65304, -79.36354]
+      Address: 595 Adelaide St. East, Suite 101, Toronto, ON M5A 1K6
+    - Country: Canada
+      City: Ottawa
+      Coordinates: [45.32851, -75.7091]
+      Address: 65 Auriga Drive, Suite 102, Ottawa, ON K2E 7W6
+  Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [animation 2D, animation 3D, séries]
+
+- Name: Mercury Filmworks
+  url: https://mercuryfilmworks.com/
+  Description: Grand studio d'animation indépendant d'Ottawa, qui produit des séries 2D (Hilda, Kid Cosmic, Wander Over Yonder) et développe son premier long métrage, Once Our Land.
+  Place:
+    - Country: Canada
+      City: Ottawa
+      Coordinates: [45.33591, -75.79836]
+      Address: 2936 Baseline Rd, 4th Floor, Ottawa, ON K2H 1B3
+  Scientific-domain: [Animation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 340
+  Keywords: [animation 2D, Toon Boom, séries]
+
+- Name: Sinking Ship Entertainment
+  url: https://www.sinkingship.ca/
+  Description: Société de production torontoise de programmes jeunesse avec une division effets visuels et animation (pipeline USD, Unreal Engine, poils et plumes), connue pour Dino Dan et Odd Squad.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.63917, -79.42511]
+      Address: 1179 King St. W., Toronto, ON
+  Scientific-domain: [Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 175
+  Keywords: [effets visuels, animation, jeunesse, Unreal Engine]
+
+- Name: Capybara Games
+  url: https://www.capybaragames.com/
+  Description: 'Studio indépendant de jeu vidéo torontois fondé en 2003, auteur de Superbrothers: Sword & Sworcery, Below et Grindstone ; prépare Battle Vision Network sur PC.'
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64928, -79.39723]
+      Address: 174 Spadina Ave., Suite 401, Toronto, ON M5T 2C2
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu vidéo indépendant, Grindstone, Below]
+
+- Name: Drinkbox Studios
+  url: https://www.drinkboxstudios.com/
+  Description: Studio de jeu vidéo torontois fondé en 2008, créateur de Guacamelee!, Severed et Nobody Saves the World, qui développe le jeu d'action Blighted.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64602, -79.40686]
+      Address: 688 Richmond Street West, Toronto, ON M6J 1C5
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu vidéo indépendant, Guacamelee, action]
+
+- Name: Torn Banner Studios
+  url: https://tornbanner.com/
+  Description: 'Studio indépendant de jeu vidéo torontois, créateur de Chivalry: Medieval Warfare et Chivalry 2, qui développe No More Room in Hell 2.'
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://job-boards.greenhouse.io/tornbannerstudios
+  Keywords: [jeu multijoueur, action, Chivalry]
+
+- Name: Uken Games
+  url: https://uken.com/
+  Description: Studio torontois de jeux mobiles fondé il y a plus de 15 ans, éditeur de Jeopardy! World Tour, Who Wants To Be A Millionaire et Ava's Manor.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64347, -79.38092]
+      Address: 25 York St., Suite 1201, Toronto, ON M5J 2V5
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu mobile, free-to-play, live ops]
+
+- Name: Cococucumber
+  url: https://cococucumber.co/
+  Description: Studio indépendant de jeu vidéo torontois (Riverbond, Ravenlok, Echo Generation), qui a sorti Echo Generation 2 sur PC et Xbox en mai 2026.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 11
+  Keywords: [jeu indépendant, voxel, RPG]
+
+- Name: Qualcomm Canada
+  url: https://www.qualcomm.com/
+  Description: Filiale canadienne du concepteur américain de puces Snapdragon ; son site de Markham (ex-équipe ATI pour mobiles, rachetée en 2009) développe notamment le compilateur et les performances des GPU Adreno ainsi que des IP vidéo, multimédia et IA.
+  Place:
+    - Country: Canada
+      City: Markham
+      Coordinates: [43.8389, -79.38345]
+      Address: 105 Commerce Valley Drive West, Markham, ON L3T 7M8
+  Scientific-domain: [Hardware, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Générique, Jeu Vidéo]
+  Jobs: https://careers.qualcomm.com/careers
+  Employees: 1000
+  Keywords: [GPU Adreno, compilateur GPU, Snapdragon, semi-conducteurs]
+
+- Name: Waabi
+  url: https://waabi.ai/
+  Description: Start-up torontoise (2021, fondée par Raquel Urtasun) de conduite autonome pour camions et robotaxis, dont l'approche repose sur Waabi World, un simulateur neuronal photoréaliste à base de capteurs reconstruits ; 1 milliard de dollars levé en janvier 2026, partenariat avec Volvo.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.65508, -79.40751]
+      Address: 440 Bathurst Street, Toronto, ON M5T 2S6
+  Scientific-domain: [Simulation, Vision, Reconstruction, IA générative (image/3D)]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes]
+  Jobs: https://waabi.ai/careers/
+  Employees: 250
+  Keywords: [conduite autonome, simulation neuronale, camions autonomes, lidar]
+
+- Name: Synaptive Medical
+  url: https://www.synaptivemedical.com/
+  Description: Fabricant torontois de systèmes de visualisation chirurgicale (exoscope robotisé Modus X, plateforme BrightMatter de planification et de navigation par imagerie, IRM Evry), restructuré et recapitalisé en 2025.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64635, -79.40236]
+      Address: 555 Richmond Street West, Suite 800, Toronto, ON
+  Scientific-domain: [Imagerie, Visualisation, Vision]
+  Application-domain: [Médical/Biologique]
+  Employees: 130
+  Keywords: [exoscope robotisé, navigation chirurgicale, neurochirurgie, IRM]
+
+- Name: Ross Video
+  url: https://www.rossvideo.com/
+  Description: Fabricant canadien d'équipements et logiciels de production télévisée en direct, dont les solutions graphiques temps réel XPression et de production virtuelle Voyager (sur Unreal Engine) ; R&D à Ottawa, siège historique à Iroquois.
+  Place:
+    - Country: Canada
+      City: Ottawa
+      Coordinates: [45.42088, -75.69011]
+    - Country: Canada
+      City: Iroquois
+      Coordinates: [44.84769, -75.31967]
+      Address: 8 John Street, Iroquois, ON K0E 1K0
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Hardware]
+  Application-domain: [Art/Evenementiel, Commerce/Marketing/Publicité]
+  Jobs: https://www.rossvideo.com/company/careers/
+  Employees: 1370
+  Keywords: [habillage graphique télé, production virtuelle, réalité augmentée, Unreal Engine]
+
+- Name: Corel
+  url: https://www.corel.com/
+  Description: Éditeur ottavien de logiciels graphiques (CorelDRAW Graphics Suite, Corel Painter, PaintShop Pro, Corel Designer, CorelCAD), redevenu indépendant en 2026 sous le contrôle de Vector Capital après la scission avec Parallels.
+  Place:
+    - Country: Canada
+      City: Ottawa
+      Coordinates: [45.4024, -75.70841]
+      Address: 333 Preston Street, Suite 700, Ottawa, ON
+  Scientific-domain: [Modélisation, Imagerie, Design/Fabrication]
+  Application-domain: [Générique, Commerce/Marketing/Publicité]
+  Jobs: https://www.corel.com/en/careers/
+  Employees: 1000
+  Keywords: [dessin vectoriel, retouche d'image, peinture numérique, CorelDRAW]
+
+- Name: Ideogram
+  url: https://ideogram.ai/
+  Description: Start-up torontoise d'IA générative d'images (2022, fondée par d'anciens chercheurs de Google Brain, auteurs d'Imagen), réputée pour le rendu de texte dans les images (Ideogram 3.0, modèles de marque personnalisés en 2026).
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64962, -79.37713]
+      Address: 18 King Street East, Toronto, ON
+  Scientific-domain: [IA générative (image/3D)]
+  Application-domain: [Commerce/Marketing/Publicité, Art/Evenementiel]
+  Jobs: https://ideogram.ai/careers
+  Employees: 60
+  Keywords: [génération d'images, modèles de diffusion, typographie, design graphique]
+
+- Name: Viggle
+  url: https://viggle.ai/
+  Description: Start-up torontoise (2022) de génération de vidéos et d'animation de personnages par IA contrôlable, fondée sur son modèle JST-1 ; série A de 19 M$ US menée par a16z en 2024.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [IA générative (image/3D), Animation]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité]
+  Jobs: https://builtintoronto.com/company/viggle/jobs
+  Employees: 35
+  Keywords: [génération vidéo, animation de personnages, modèle de fondation, IA générative]
+
+- Name: Snap (Toronto)
+  url: https://www.snap.com/
+  Description: Bureau torontois de Snap Inc., issu du rachat de Bitstrips en 2016, qui développe Bitmoji, dont le moteur de rendu graphique multiplateforme des avatars et les outils pour artistes.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.65042, -79.39676]
+      Address: 205 Spadina Avenue, Toronto, ON
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, VR/AR]
+  Application-domain: [Loisir Interactif/Immersion/Metavers]
+  Jobs: https://careers.snap.com/
+  Keywords: [Bitmoji, avatars, moteur de rendu, réalité augmentée]
+
+- Name: Teledyne Optech
+  url: https://www.teledyneoptech.com/
+  Description: Constructeur de Vaughan (fondé en 1974 sous le nom Optech, groupe Teledyne Geospatial) de lidars aéroportés, bathymétriques, mobiles, terrestres et sur drone, et des logiciels de traitement de nuages de points associés.
+  Place:
+    - Country: Canada
+      City: Vaughan
+      Coordinates: [43.78894, -79.52489]
+      Address: 300 Interchange Way, Vaughan, ON L4K 5Z8
+  Scientific-domain: [Acquisition, Reconstruction, Hardware]
+  Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme, Énergie/Environnement]
+  Jobs: https://flir.wd1.myworkdayjobs.com/flircareers/jobs
+  Employees: 300
+  Keywords: [lidar, nuages de points, cartographie aéroportée, bathymétrie]
+
+- Name: Teledyne DALSA
+  url: https://www.teledynevisionsolutions.com/
+  Description: Fabricant waterlooïen de caméras, capteurs d'image et logiciels de vision industrielle (caméras Falcon, Linea, Genie, bibliothèque Sapera, imagerie spatiale et médicale), filiale de Teledyne depuis 2011.
+  Place:
+    - Country: Canada
+      City: Waterloo
+      Coordinates: [43.50743, -80.52796]
+      Address: 605 McMurray Road, Waterloo, ON N2V 2E9
+  Scientific-domain: [Vision, Acquisition, Imagerie, Hardware]
+  Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique, Sécurité/Défense]
+  Jobs: https://flir.wd1.myworkdayjobs.com/flircareers/jobs
+  Employees: 1100
+  Keywords: [vision industrielle, capteurs CMOS, caméras, imagerie scientifique]
+
+- Name: Ecopia AI
+  url: https://www.ecopiatech.com/
+  Description: Start-up torontoise qui extrait par IA des cartes vectorielles et des données 3D (bâtiments, occupation du sol 3D, réseaux de transport) d'images aériennes et satellitaires à grande échelle, en partenariat avec Vantor (ex-Maxar) et Nearmap.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.65986, -79.38813]
+      Address: 101 College Street, Suite 440, Toronto, ON M5G 1L7
+  Scientific-domain: [Vision, Reconstruction, Imagerie]
+  Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme, Énergie/Environnement]
+  Jobs: https://www.ecopiatech.com/careers
+  Employees: 45
+  Keywords: [cartographie par IA, imagerie aérienne, jumeau numérique, occupation du sol]
+
+- Name: Peripheral Labs
+  url: https://www.peripheral.so/
+  Description: Start-up torontoise (2024, issue de l'équipe de voiture autonome de l'Université de Toronto) qui reconstruit en 3D les matchs de sport en direct à partir de flux multicaméras (rendu neuronal, ralentis navigables, données biomécaniques) ; amorçage Khosla Ventures puis 8,7 M$ menés par Inovia en 2026.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [Reconstruction, Vision, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://jobs.khoslaventures.com/companies/peripheral-labs
+  Employees: 20
+  Keywords: [reconstruction 4D, Gaussian splatting, ralentis 3D, sport]
+
+- Name: RamSoft
+  url: https://www.ramsoft.com/
+  Description: 'Éditeur torontois (1994) de logiciels d''imagerie médicale : PACS PowerServer, plateforme cloud RIS/PACS/VNA OmegaAI sur Azure, visualiseur diagnostique web et orchestration d''outils d''IA en radiologie.'
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64941, -79.37761]
+      Address: 8 King Street East, Suite 1501, Toronto, ON M5C 1B5
+  Scientific-domain: [Imagerie, Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.ramsoft.com/careers
+  Employees: 200
+  Keywords: [PACS, radiologie, visualiseur DICOM, cloud]
+
+- Name: Perimeter Medical Imaging
+  url: https://perimetermed.com/
+  Description: Société médicale (Toronto et Dallas) qui développe des systèmes d'imagerie par tomographie par cohérence optique (OCT) assistés par IA pour visualiser les marges chirurgicales en temps réel, dont Claire, premier appareil d'imagerie à IA approuvé par la FDA pour la chirurgie du cancer du sein.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64635, -79.40236]
+      Address: 555 Richmond Street West, Suite 511, Toronto, ON M5V 3B1
+    - Country: États-Unis
+      City: Dallas
+  Scientific-domain: [Imagerie, Vision, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://perimetermed.com/careers/
+  Keywords: [OCT, imagerie peropératoire, cancer du sein, IA médicale]
+
+- Name: VR Vision
+  url: https://www.vrvisiongroup.com/
+  Description: Studio torontois (2016) de simulations de formation en réalité virtuelle sur mesure pour l'énergie, les services publics, l'industrie et l'automobile, déployées sur casques autonomes via sa plateforme Vision Portal.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.64982, -79.36432]
+      Address: 250 The Esplanade, Suite 310, Toronto, ON
+  Scientific-domain: [VR/AR, Simulation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game, Énergie/Environnement, Industrie/Manufacturing/CAO]
+  Keywords: [formation en VR, simulation, sécurité industrielle, casques autonomes]
+
+- Name: Maplesoft
+  Name-long: Waterloo Maple Inc. (Maplesoft)
+  url: https://www.maplesoft.com/
+  Description: Éditeur waterlooïen (1988, filiale du japonais Cybernet Systems) du logiciel de calcul symbolique Maple et de MapleSim, outil de modélisation et de simulation multiphysique de systèmes (jumeaux numériques, mise en service virtuelle).
+  Place:
+    - Country: Canada
+      City: Waterloo
+      Coordinates: [43.50595, -80.54777]
+      Address: 615 Kumpf Drive, Waterloo, ON N2V 1K8
+  Scientific-domain: [Simulation, Visualisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes]
+  Jobs: https://www.maplesoft.com/company/careers/
+  Employees: 150
+  Keywords: [calcul symbolique, simulation multiphysique, jumeau numérique, mise en service virtuelle]
+
+- Name: Agfa HealthCare (Waterloo)
+  url: https://www.agfahealthcare.com/
+  Description: Centre mondial de R&D d'Agfa HealthCare (groupe belge Agfa-Gevaert) ouvert en 2012 à Waterloo, qui développe la plateforme d'imagerie médicale d'entreprise (PACS IMPAX, Enterprise Imaging, visualiseurs diagnostiques, pathologie numérique).
+  Place:
+    - Country: Canada
+      City: Waterloo
+      Coordinates: [43.46527, -80.5223]
+    - Country: Canada
+      City: Mississauga
+      Coordinates: [43.589, -79.6441]
+    - Country: Belgique
+      City: Mortsel
+  Scientific-domain: [Imagerie, Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://careers.agfa.com/HealthCare/
+  Keywords: [PACS, imagerie d'entreprise, radiologie, pathologie numérique]
+
+- Name: Intellijoint Surgical
+  url: https://intellijointsurgical.com/
+  Description: Fabricant de Kitchener (2010, issu de l'Université de Waterloo) de systèmes de navigation chirurgicale à micro-caméra et suivi optique par IA pour la pose de prothèses de hanche et de genou.
+  Place:
+    - Country: Canada
+      City: Kitchener
+      Coordinates: [43.46284, -80.47555]
+      Address: 809 Wellington Street North, Unit 2, Kitchener, ON N2H 5L6
+  Scientific-domain: [Vision, Acquisition, Imagerie]
+  Application-domain: [Médical/Biologique]
+  Employees: 70
+  Keywords: [navigation chirurgicale, suivi optique, orthopédie, micro-caméra]
+
+- Name: Lumeto
+  url: https://lumeto.com/
+  Description: Éditeur torontois d'InvolveXR, laboratoire de simulation en réalité virtuelle pour la formation des soignants (patients virtuels animés par IA, plus de 500 scénarios, évaluation automatisée), déployé dans les collèges et universités de l'Ontario.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.72067, -79.29531]
+      Address: 793 Pharmacy Avenue, Toronto, ON M1L 3K2
+  Scientific-domain: [VR/AR, Simulation, Animation]
+  Application-domain: [Entrainement/Formation/Serious Game, Médical/Biologique]
+  Keywords: [simulation médicale, réalité virtuelle, patients virtuels, formation des infirmiers]
+
+- Name: Maneva
+  url: https://www.maneva.ai/
+  Description: Start-up torontoise (2021) de vision par ordinateur pour l'industrie qui analyse en temps réel les flux des caméras d'usine existantes pour détecter défauts, risques d'arrêt et problèmes de sécurité ; série A de 27 M$ US en juin 2026.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [Vision, Analyse de données]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Keywords: [vision industrielle, analyse vidéo, contrôle qualité, IA]
+
+- Name: Miovision
+  url: https://miovision.com/
+  Description: 'Entreprise de Kitchener (2005) de gestion intelligente du trafic : détection vidéo et analyse par vision par ordinateur aux intersections, optimisation des feux, collecte de données de circulation et V2X pour les villes.'
+  Place:
+    - Country: Canada
+      City: Kitchener
+      Coordinates: [43.4513, -80.5133]
+      Address: 137 Glasgow Street, Kitchener, ON
+  Scientific-domain: [Vision, Analyse de données]
+  Application-domain: [Automobile/Navigation/Aviation, Architecture/BTP/Urbanisme]
+  Jobs: https://miovision.com/company/careers/
+  Employees: 300
+  Keywords: [trafic routier, détection vidéo, ville intelligente, V2X]
+
+- Name: Augmenta AI
+  url: https://www.augmenta.ai/
+  Description: Start-up torontoise (2018, fondée par des pionniers de la conception générative d'Autodesk) qui automatise par IA la conception 3D des systèmes électriques des bâtiments (tracé des chemins de câbles dans la maquette BIM, intégration Revit) ; plateforme ACP 2.0 sortie en juin 2026.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [Design/Fabrication, Modélisation, Géométrie]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Keywords: [conception générative, BIM, génie électrique, Revit]
+
+- Name: Altis Labs
+  url: https://www.altislabs.com/
+  Description: Start-up torontoise (2019) d'IA d'imagerie médicale pour l'oncologie, dont le modèle IPRO prédit la survie des patients à partir de scanners de routine pour accélérer les essais cliniques ; série A de 25 M$ US en septembre 2026.
+  Place:
+    - Country: Canada
+      City: Toronto
+      Coordinates: [43.6532, -79.3832]
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://builtintoronto.com/company/altis-labs
+  Keywords: [imagerie oncologique, scanner, biomarqueurs d'imagerie, essais cliniques]
+
+- Name: IMAX
+  Name-long: IMAX Corporation
+  url: https://www.imax.com/
+  Description: Groupe canadien de technologies cinématographiques immersives dont le siège technique de Mississauga conçoit projecteurs laser, caméras certifiées IMAX, procédé de remastérisation numérique DMR et traitement d'image et du son pour salles géantes.
+  Place:
+    - Country: Canada
+      City: Mississauga
+      Coordinates: [43.51634, -79.664]
+      Address: 2525 Speakman Drive, Mississauga, ON L5K 1B1
+  Scientific-domain: [Imagerie, Acquisition, Hardware]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://www.imax.com/careers
+  Employees: 650
+  Keywords: [projection laser, caméras cinéma, remastérisation numérique, grand format]
+
+- Name: Digital Domain
+  url: https://digitaldomain.com/
+  Description: 'Studio d''effets visuels fondé à Los Angeles (Titanic, Avengers: Infinity War, Les Quatre Fantastiques : premiers pas), pionnier des humains numériques et de la capture faciale, avec un studio à Vancouver depuis 2010 et un autre à Montréal.'
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26442, -123.14154]
+      Address: 1618 W 8th Avenue, Vancouver, BC V6J 1V4
+  Scientific-domain: [Rendu offline/VFX, Animation, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [effets visuels, humains numériques, capture faciale, long métrage]
+
+- Name: Bardel Entertainment
+  url: https://bardel.ca/
+  Description: Studio d'animation 2D et 3D fondé en 1987 à Vancouver (Rick et Morty, The Dragon Prince, Carol & the End of the World), filiale du groupe italien Rainbow, avec un second studio à Montréal.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26596, -123.11347]
+      Address: 425 West 6th Avenue, 5e étage, Vancouver, BC V5Y 1L3
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.497, -73.55419]
+      Address: 50 Rue Queen, 3e étage, Montréal, QC H3K 2B7
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://apply.workable.com/bardel-entertainment/
+  Employees: 478
+  Keywords: [animation 2D, animation 3D, séries, long métrage]
+
+- Name: Atomic Cartoons
+  url: https://www.atomiccartoons.com/
+  Description: Studio d'animation 2D et 3D de Vancouver (Spidey et ses amis extraordinaires, Hilda), racheté avec sa maison mère Thunderbird par Blue Ant Media en 2026, avec des équipes à Ottawa et Los Angeles.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26496, -123.10709]
+      Address: 123 W 7th Avenue, Vancouver, BC V5Y 1L8
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://job-boards.greenhouse.io/atomiccartoons
+  Employees: 600
+  Keywords: [animation 3D, séries jeunesse, Marvel, Blue Ant]
+
+- Name: Animatrik
+  url: https://www.animatrik.com/
+  Description: Studio de capture de performance (corps et visage) et de tournage temps réel basé à Burnaby, doté d'un des plus grands plateaux de motion capture indépendants d'Amérique du Nord, au service du cinéma, du jeu vidéo et de la XR.
+  Place:
+    - Country: Canada
+      City: Burnaby
+      Coordinates: [49.26942, -123.02339]
+      Address: 4088 1st Avenue, Burnaby, BC V5C 3W4
+  Scientific-domain: [Acquisition, Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+  Keywords: [motion capture, capture faciale, production virtuelle, Burnaby]
+
+- Name: Zoic Studios
+  url: https://www.zoicstudios.com/
+  Description: 'Studio d''effets visuels indépendant de Santa Monica (Alien: Earth, séries et films) dont le studio de Vancouver, installé à Gastown depuis 2005, réalise VFX, previs et en 2026 un projet VFX en stop motion.'
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.28487, -123.11099]
+      Address: 375 Water Street, bureau 205, Vancouver, BC
+  Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://zoicstudios.theresumator.com/
+  Keywords: [effets visuels, séries, previs, Gastown]
+
+- Name: Barnstorm VFX
+  url: https://www.barnstormvfx.com/
+  Description: Studio d'effets visuels nommé aux Emmy et aux VES Awards, fondé à Los Angeles, avec un studio à Vancouver ainsi qu'à Montréal, Toronto, New York, Atlanta et Londres (Spider-Noir pour Prime Video).
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26725, -123.10516]
+      Address: 18 W 4th Avenue, bureau 338, Vancouver, BC V5Y 1G3
+  Scientific-domain: [Rendu offline/VFX, Modélisation, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 126
+  Keywords: [effets visuels, séries, compositing, environnements]
+
+- Name: Titmouse
+  url: https://titmouse.net/
+  Description: 'Studio d''animation américain (The Legend of Vox Machina, Big Mouth, Star Trek: Lower Decks) avec un studio à Vancouver depuis 2013, premier studio d''animation syndiqué au Canada, et une filiale à Paris créée en 2025.'
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26854, -123.10532]
+      Address: 31 W 3rd Avenue, Vancouver, BC V5Y 3T8
+    - City: Paris
+      Coordinates: [48.86739, 2.37279]
+      SIREN: '990237364'
+      Address: 107 Avenue Parmentier, 75011 Paris
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 700
+  Keywords: [animation 2D, animation adulte, séries, Paris]
+
+- Name: Mainframe Studios
+  url: https://www.mainframe.ca/
+  Description: Studio d'animation 3D fondé en 1993 à Vancouver (ReBoot, première série entièrement en images de synthèse), filiale de Kartoon Studios, qui produit des séries pour Spin Master, Sony ou Disney et ses propres projets (It's Andrew!, The Immortals & The Shadow Realm).
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26407, -123.15123]
+      Address: 300-2025 West Broadway, Vancouver, BC V6J 1Z6
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 650
+  Keywords: [animation 3D, séries jeunesse, ReBoot, Kartoon Studios]
+
+- Name: WildBrain Studios
+  url: https://www.wildbrain.com/content/studios
+  Description: Studio d'animation 2D et 3D de WildBrain à Vancouver (séries Peanuts comme The Snoopy Show, longs métrages CG), qui a noué en 2026 un partenariat de production CG avec 88 Pictures et doit emménager en 2027 dans 4 400 m² à Mount Pleasant.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26641, -123.11222]
+      Address: 380 West 5th Avenue, Vancouver, BC V5Y 1J5
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://wildbrain-career.talent-soft.com/
+  Keywords: [animation 2D, animation 3D, séries jeunesse, Peanuts]
+
+- Name: Ingenuity Studios
+  url: https://www.ingenuitystudios.com/
+  Description: Studio d'effets visuels de Los Angeles (films, séries, clips, publicité), filiale de Streamland Media, avec des studios à Vancouver et Toronto.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26411, -123.10977]
+      Address: 2339 Columbia Street, bureau 200, Vancouver, BC V5Y 3Y3
+  Scientific-domain: [Rendu offline/VFX, Simulation, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://job-boards.greenhouse.io/ingenuitystudios
+  Keywords: [effets visuels, Houdini, séries, Streamland]
+
+- Name: Stellar Creative Lab
+  url: https://www.stellarcreativelab.com/
+  Description: Studio d'animation 3D et 2D fondé en 2017 à Vancouver par d'anciens de Nelvana et des VFX (Marvel Zombies pour Disney+), avec des équipes à Toronto et au Costa Rica et un pipeline 2.5D maison.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.27549, -123.12237]
+      Address: 1148 Homer Street, bureau 201, Vancouver, BC V6B 2X6
+  Scientific-domain: [Animation, Rendu offline/VFX, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 100
+  Keywords: [animation 3D, séries, previs, Marvel]
+
+- Name: ICON Creative Studio
+  url: https://www.iconcreativestudio.com/
+  Description: 'Studio d''animation 3D indépendant fondé en 2013 à Gastown (Transformers: EarthSpark, Star Wars: Young Jedi Adventures, Batwheels), avec un bureau à Los Angeles.'
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.28386, -123.10469]
+      Address: 21 Water Street, Vancouver, BC V6B 1A1
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [animation 3D, séries, Star Wars, Gastown]
+
+- Name: Giant Ant
+  url: https://www.giantant.ca/
+  Description: Studio d'animation et de motion design 2D/3D de Vancouver, réputé pour ses films de marque et habillages d'antenne (Cartoonito), dont l'activité a été rachetée par Buck en 2022.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.28118, -123.06014]
+      Address: 961 E Hastings Street, Vancouver, BC V6A 0H1
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
+  Employees: 41
+  Keywords: [motion design, animation 2D, animation 3D, publicité]
+
+- Name: Relic Entertainment
+  url: https://www.relic.com/
+  Description: Studio de jeu vidéo de stratégie en temps réel fondé en 1997 à Vancouver, créateur des séries Homeworld, Company of Heroes et Dawn of War et développeur d'Age of Empires IV ; indépendant depuis sa cession par Sega en 2024.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26682, -123.11036]
+      Address: 285 W 5th Ave, Vancouver, BC V5Y 1J3
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.relic.com/#careers
+  Keywords: [stratégie temps réel, Company of Heroes, Age of Empires IV, moteur propriétaire]
+
+- Name: Blackbird Interactive
+  url: https://www.blackbirdinteractive.com/
+  Description: 'Studio de jeu vidéo indépendant de Vancouver (environ 200 personnes) fondé par des vétérans de Relic, développeur de Homeworld: Deserts of Kharak, Homeworld 3, Hardspace: Shipbreaker et Minecraft Legends, et co-développeur pour Starfield, Subnautica et Minecraft.'
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.28183, -123.10779]
+      Address: 112 W Hastings St, Vancouver, BC V6B 1G8
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.blackbirdinteractive.com/careers
+  Employees: 200
+  Keywords: [stratégie, co-développement, Homeworld, Unity]
+
+- Name: Next Level Games
+  url: https://www.nlgames.com/
+  Description: 'Studio de jeu vidéo de Vancouver, filiale de Nintendo depuis 2021, développeur de Luigi''s Mansion 2 et 3, Mario Strikers: Battle League et Punch-Out!!.'
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.27789, -123.11448]
+      Address: 208 Robson St, Vancouver, BC
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [Nintendo, Luigi's Mansion, Mario Strikers, consoles]
+
+- Name: Kabam
+  url: https://kabam.com/
+  Description: 'Éditeur et développeur de jeux mobiles basé à Vancouver, filiale du coréen Netmarble, connu pour Marvel Contest of Champions et Transformers: Forged to Fight.'
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu mobile, Marvel Contest of Champions, Netmarble, free-to-play]
+
+- Name: SkyBox Labs
+  url: https://skyboxlabs.com/
+  Description: Studio de développement et co-développement de jeux vidéo fondé en 2011 à Burnaby, filiale de NetEase Games depuis 2023, partenaire de Microsoft (Halo, Minecraft, Age of Empires), Bungie (Destiny 2, Marathon) et Bethesda (Fallout 76).
+  Place:
+    - Country: Canada
+      City: Burnaby
+      Coordinates: [49.24338, -122.97254]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://skyboxlabs.com/jobs/
+  Keywords: [co-développement, Halo, Unreal Engine 5, NetEase]
+
+- Name: Klei Entertainment
+  url: https://www.klei.com/
+  Description: Studio indépendant de jeu vidéo de Vancouver (environ 100 personnes) créateur de Don't Starve, Oxygen Not Included, Mark of the Ninja et Rotwood, avec une branche d'édition (Klei Publishing).
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.klei.com/careers
+  Employees: 100
+  Keywords: [jeu indépendant, animation 2D, Don't Starve, Oxygen Not Included]
+
+- Name: Piranha Games
+  url: https://www.piranhagames.com/
+  Description: 'Studio de jeu vidéo de Burnaby (groupe suédois Enad Global 7), développeur de MechWarrior Online, MechWarrior 5: Mercenaries et MechWarrior 5: Clans.'
+  Place:
+    - Country: Canada
+      City: Burnaby
+      Coordinates: [49.25387, -123.01066]
+      Address: 303-3600 Gilmore Way, Burnaby, BC V5G 4R8
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 40
+  Keywords: [MechWarrior, Unreal Engine, simulation de robots, EG7]
+
+- Name: East Side Games
+  url: https://eastsidegamesgroup.com/
+  Description: Développeur et éditeur vancouvérois de jeux mobiles free-to-play (studios East Side Games et LDRLY), connu pour ses jeux « idle » sous licence (Trailer Park Boys, Star Trek, Archer) et sa technologie de kit de jeux.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://eastsidegamesgroup.com/careers/
+  Keywords: [jeu mobile, jeux idle, free-to-play, licences]
+
+- Name: Brace Yourself Games
+  url: https://braceyourselfgames.com/
+  Description: Studio indépendant de jeu vidéo de Vancouver, créateur de Crypt of the NecroDancer, Cadence of Hyrule (avec Nintendo) et Rift of the NecroDancer, et éditeur de jeux indépendants (Cobalt Core, Phantom Brigade).
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu de rythme, jeu indépendant, NecroDancer, édition]
+
+- Name: A Thinking Ape
+  url: https://www.athinkingape.com/
+  Description: Studio vancouvérois de jeux mobiles sociaux (Kingdoms of Heckfire, Kingdoms at War, Island Hoppers, Witch Arcana) organisé en petites équipes.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.athinkingape.com/careers/
+  Keywords: [jeu mobile, free-to-play, jeux sociaux]
+
+- Name: Avigilon
+  url: https://www.avigilon.com/
+  Description: Entreprise de vidéosurveillance fondée à Vancouver, filiale de Motorola Solutions depuis 2018, qui conçoit caméras, logiciels de gestion vidéo et analyses vidéo par IA (détection et recherche d'objets et de personnes).
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Vision, Analyse de données, Hardware]
+  Application-domain: [Sécurité/Défense]
+  Employees: 236
+  Keywords: [analyse vidéo, vidéosurveillance, IA, Motorola Solutions]
+
+- Name: Clarius Mobile Health
+  url: https://clarius.com/
+  Description: Fabricant vancouvérois d'échographes portables sans fil connectés à un smartphone, avec traitement d'image et assistance par IA pour l'échographie au point de soin.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26011, -123.04088]
+      Address: '2980 Virtual Way #205, Vancouver, BC V5M 4X3'
+  Scientific-domain: [Imagerie, Vision, Hardware]
+  Application-domain: [Médical/Biologique]
+  Keywords: [échographie, imagerie médicale, IA, dispositif portable]
+
+- Name: Apera AI
+  url: https://apera.ai/
+  Description: Start-up vancouvéroise de vision 3D par IA pour la robotique industrielle (« 4D Vision ») permettant aux robots de saisir et manipuler des pièces en vrac.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Vision, Reconstruction]
+  Application-domain: [Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO]
+  Jobs: https://job-boards.greenhouse.io/aperaaiinc
+  Keywords: [vision 3D, robotique, bin picking, IA]
+
+- Name: Teledyne FLIR (Richmond)
+  url: https://www.flir.com/
+  Description: 'Ancien Point Grey Research, racheté par FLIR en 2016 puis intégré à Teledyne FLIR : site de Richmond qui conçoit les caméras de vision industrielle (Blackfly, Oryx) et le SDK Spinnaker.'
+  Place:
+    - Country: Canada
+      City: Richmond
+      Coordinates: [49.13107, -123.08979]
+      Address: 12051 Riverside Way, Richmond, BC
+  Scientific-domain: [Acquisition, Vision, Hardware]
+  Application-domain: [Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes]
+  Keywords: [vision industrielle, caméras, Point Grey, Spinnaker]
+
+- Name: Metaspectral
+  url: https://metaspectral.com/
+  Description: Éditeur vancouvérois de logiciels d'analyse d'images hyperspectrales par apprentissage profond (plateforme Clarity/Fusion) pour l'observation de la Terre, le tri des plastiques et la défense.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.2783, -123.09863]
+      Address: 201-228 E Georgia St, Vancouver, BC V6A 1Z6
+  Scientific-domain: [Imagerie, Vision, Analyse de données]
+  Application-domain: [Géospatial/Cartographie, Énergie/Environnement]
+  Keywords: [imagerie hyperspectrale, observation de la Terre, apprentissage profond]
+
+- Name: Inverted AI
+  url: https://www.inverted.ai/
+  Description: Start-up vancouvéroise issue de l'UBC qui produit des modèles génératifs de comportement d'agents (véhicules, piétons) pour la simulation de conduite autonome et ADAS (TorchDriveSim).
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Simulation, IA générative (image/3D), Animation]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes]
+  Keywords: [simulation de conduite, agents, véhicule autonome]
+
+- Name: Spexi
+  url: https://www.spexi.com/
+  Description: Start-up vancouvéroise qui constitue une couche d'imagerie par drone à très haute résolution via un réseau de pilotes, livrée en orthomosaïques, nuages de points et Gaussian splats.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [Acquisition, Reconstruction, Web/Cloud/Big Data]
+  Application-domain: [Géospatial/Cartographie]
+  Jobs: https://jobs.ashbyhq.com/spexi
+  Keywords: [drone, photogrammétrie, Gaussian splatting, jumeau numérique]
+
+- Name: Safe Software
+  url: https://www.safe.com/
+  Description: Éditeur de Surrey (Grand Vancouver) de la plateforme FME d'intégration et de transformation de données spatiales (SIG, CAO, BIM, nuages de points, 3D).
+  Place:
+    - Country: Canada
+      City: Surrey
+      Coordinates: [49.1913, -122.84914]
+  Scientific-domain: [Web/Cloud/Big Data, Géométrie, Analyse de données]
+  Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme]
+  Keywords: [FME, données géospatiales, SIG, BIM]
+
+- Name: PrecisionOS
+  url: https://www.precisionostech.com/
+  Description: Start-up vancouvéroise de formation chirurgicale en réalité virtuelle (« Digital Cadaver Lab » en orthopédie, arthroscopie, rachis) avec suivi de performance et mentor IA.
+  Place:
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.26087, -123.11395]
+  Scientific-domain: [VR/AR, Simulation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Médical/Biologique, Entrainement/Formation/Serious Game]
+  Keywords: [réalité virtuelle, formation chirurgicale, orthopédie]
