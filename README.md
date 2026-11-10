@@ -3971,7 +3971,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Patrimoine/Culture
 
 
-* **[Imactis](https://imactis.com/)**  
+* **[Imactis](https://gehealthcare.co.uk/products/computed-tomography/ct-navigation)**  
   * _Concepteur du système CT-Navigation de guidage d'aiguilles par imagerie 3D scanner pour la radiologie interventionnelle (marquage CE MDR, FDA), racheté par GE HealthCare en 2023._
   * **Mots clés**: _navigation chirurgicale, scanner, radiologie interventionnelle_
   * **Localisation**: Saint-Martin-d'Hères
