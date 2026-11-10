@@ -307,6 +307,10 @@
             44.1605,
             4.6236
         ],
+        "France/Baie-Mahault (Guadeloupe)": [
+            16.2679,
+            -61.5871
+        ],
         "France/Bayonne": [
             43.4945,
             -1.4737
@@ -387,6 +391,10 @@
             48.7945,
             2.3341
         ],
+        "France/Caen": [
+            49.1813,
+            -0.3636
+        ],
         "France/Cannes": [
             43.5515,
             7.0134
@@ -395,6 +403,10 @@
             44.7627,
             -0.6541
         ],
+        "France/Carpiquet": [
+            49.1841,
+            -0.4417
+        ],
         "France/Carros": [
             43.7846,
             7.1879
@@ -402,6 +414,10 @@
         "France/Castanet-Tolosan": [
             43.5172,
             1.4981
+        ],
+        "France/Castelnau-le-Lez": [
+            43.6393,
+            3.9133
         ],
         "France/Cergy": [
             49.0528,
@@ -427,9 +443,29 @@
             48.0989,
             -0.7889
         ],
+        "France/Chantilly": [
+            49.1932,
+            2.4637
+        ],
         "France/Charbonni\u00e8res-les-Bains": [
             45.7787,
             4.7459
+        ],
+        "France/Charleville-M\u00e9zi\u00e8res": [
+            49.7736,
+            4.7207
+        ],
+        "France/Chartres": [
+            48.4439,
+            1.4881
+        ],
+        "France/Chavanod": [
+            45.8842,
+            6.0525
+        ],
+        "France/Chimilin": [
+            45.5769,
+            5.6002
         ],
         "France/Ch\u00e2tillon-le-Duc": [
             47.3082,
@@ -459,9 +495,25 @@
             47.2115,
             -1.7271
         ],
+        "France/Crolles": [
+            45.2846,
+            5.8839
+        ],
+        "France/Diane-Capelle": [
+            48.7288,
+            6.934
+        ],
         "France/Dijon": [
             47.3216,
             5.0415
+        ],
+        "France/Douvrin": [
+            50.5102,
+            2.8318
+        ],
+        "France/Eccica-Suarella": [
+            41.9204,
+            8.8745
         ],
         "France/Entzheim": [
             48.5346,
@@ -483,9 +535,21 @@
             44.8327,
             -0.5208
         ],
+        "France/Fontanes": [
+            44.3106,
+            1.4965
+        ],
         "France/Fontenay-sous-Bois": [
             48.8491,
             2.4749
+        ],
+        "France/Fuveau": [
+            43.4539,
+            5.5608
+        ],
+        "France/Gallargues-le-Montueux": [
+            43.7221,
+            4.1744
         ],
         "France/Gi\u00e8res": [
             45.1798,
@@ -515,6 +579,10 @@
             45.6738,
             0.0083
         ],
+        "France/H\u00e9rouville-Saint-Clair": [
+            49.2031,
+            -0.3354
+        ],
         "France/Illkirch-Graffenstaden": [
             48.5299,
             7.7113
@@ -531,9 +599,17 @@
             43.1597,
             6.0432
         ],
+        "France/La Grande-Motte": [
+            43.5603,
+            4.086
+        ],
         "France/La Rochelle": [
             46.1597,
             -1.1516
+        ],
+        "France/La Tronche": [
+            45.209,
+            5.7457
         ],
         "France/Lab\u00e8ge": [
             43.5293,
@@ -555,6 +631,14 @@
             44.6063,
             -0.7697
         ],
+        "France/Le Bourget-du-Lac": [
+            45.647,
+            5.8596
+        ],
+        "France/Le Petit-Quevilly": [
+            49.4238,
+            1.0621
+        ],
         "France/Les Lilas": [
             48.8796,
             2.4158
@@ -562,6 +646,10 @@
         "France/Les Roches-de-Condrieu": [
             45.453,
             4.7683
+        ],
+        "France/Liancourt": [
+            49.3312,
+            2.4659
         ],
         "France/Libourne": [
             44.9134,
@@ -599,6 +687,14 @@
             48.0481,
             -1.3316
         ],
+        "France/Lunel": [
+            43.6745,
+            4.1348
+        ],
+        "France/Lun\u00e9ville": [
+            48.5916,
+            6.492
+        ],
         "France/Lyon": [
             45.7578,
             4.832
@@ -615,6 +711,10 @@
             48.7309,
             2.2713
         ],
+        "France/Mauguio": [
+            43.6155,
+            4.0098
+        ],
         "France/Metz": [
             49.1197,
             6.1764
@@ -627,9 +727,17 @@
             43.4867,
             5.4952
         ],
+        "France/Moirans": [
+            45.3263,
+            5.5647
+        ],
         "France/Molsheim": [
             48.5419,
             7.4925
+        ],
+        "France/Montbonnot-Saint-Martin": [
+            45.2264,
+            5.8027
         ],
         "France/Montigny-le-Bretonneux": [
             48.7699,
@@ -650,6 +758,10 @@
         "France/Mont\u00e9vrain": [
             48.8741,
             2.7483
+        ],
+        "France/Morhange": [
+            48.9251,
+            6.6458
         ],
         "France/Mouans-Sartoux": [
             43.6204,
@@ -687,9 +799,17 @@
             48.8388,
             2.4917
         ],
+        "France/Noum\u00e9a (Nouvelle-Cal\u00e9donie)": [
+            -22.2745,
+            166.4424
+        ],
         "France/N\u00eemes": [
             43.8374,
             4.3601
+        ],
+        "France/Ollioules": [
+            43.1397,
+            5.8484
         ],
         "France/Orl\u00e9ans": [
             47.9027,
@@ -706,6 +826,10 @@
         "France/Paris": [
             48.8589,
             2.32
+        ],
+        "France/Pau": [
+            43.2958,
+            -0.3686
         ],
         "France/Pertuis": [
             43.6951,
@@ -783,9 +907,17 @@
             45.6945,
             5.0225
         ],
+        "France/Saint-Contest": [
+            49.2142,
+            -0.4012
+        ],
         "France/Saint-Denis": [
             48.9384,
             2.3628
+        ],
+        "France/Saint-Denis (La R\u00e9union)": [
+            -20.88,
+            55.4481
         ],
         "France/Saint-Didier-au-Mont-d'Or": [
             45.8115,
@@ -851,6 +983,10 @@
             49.5314,
             0.3579
         ],
+        "France/Saint-\u00c9gr\u00e8ve": [
+            45.2325,
+            5.6818
+        ],
         "France/Saint-\u00c9tienne": [
             45.4401,
             4.3873
@@ -858,6 +994,10 @@
         "France/Sainte-Foy-l\u00e8s-Lyon": [
             45.7362,
             4.7935
+        ],
+        "France/Sanary-sur-Mer": [
+            43.1177,
+            5.8009
         ],
         "France/Savigny-sur-Orge": [
             48.6795,
@@ -875,6 +1015,10 @@
             43.6195,
             7.0518
         ],
+        "France/Sorbiers": [
+            45.4873,
+            4.4507
+        ],
         "France/Soyaux": [
             45.6392,
             0.1982
@@ -882,6 +1026,10 @@
         "France/Strasbourg": [
             48.5846,
             7.7507
+        ],
+        "France/Sulignat": [
+            46.1766,
+            4.9641
         ],
         "France/Suresnes": [
             48.8709,
@@ -906,6 +1054,14 @@
         "France/Tourcoing": [
             50.7235,
             3.1606
+        ],
+        "France/Tours": [
+            47.39,
+            0.6889
+        ],
+        "France/Troyes": [
+            48.2972,
+            4.0746
         ],
         "France/Truchtersheim": [
             48.6637,
@@ -939,6 +1095,14 @@
             45.7784,
             4.9206
         ],
+        "France/Vend\u00f4me": [
+            47.7934,
+            1.0662
+        ],
+        "France/Venette": [
+            49.4162,
+            2.8007
+        ],
         "France/Vernon": [
             49.0932,
             1.4857
@@ -946,6 +1110,10 @@
         "France/Verri\u00e8res-le-Buisson": [
             48.7468,
             2.2654
+        ],
+        "France/Veurey-Voroize": [
+            45.2722,
+            5.6127
         ],
         "France/Villejuif": [
             48.7921,
@@ -958,6 +1126,10 @@
         "France/Villeneuve-d'Ascq": [
             50.6193,
             3.1314
+        ],
+        "France/Villers-l\u00e8s-Nancy": [
+            48.6731,
+            6.1536
         ],
         "France/Villeurbanne": [
             45.7661,
@@ -978,6 +1150,10 @@
         "France/\u00c9chirolles": [
             45.1482,
             5.7187
+        ],
+        "France/\u00c9guilles": [
+            43.5687,
+            5.3544
         ],
         "France/\u00c9vry-Courcouronnes": [
             48.63,
@@ -3620,6 +3796,15 @@
                     ],
                     "SIREN": "499061638",
                     "Address": "1 avenue de Lattre de Tassigny, 94130 Nogent-sur-Marne"
+                },
+                {
+                    "City": "Castelnau-le-Lez",
+                    "Coordinates": [
+                        43.62923,
+                        3.8973
+                    ],
+                    "SIREN": "922721485",
+                    "Address": "26 Rue du Prado, 34170 Castelnau-le-Lez"
                 }
             ],
             "Scientific-domain": [
@@ -3753,6 +3938,15 @@
                     ],
                     "SIREN": "834105470",
                     "Address": "14 Avenue du General de Gaulle, 94160 Saint-Mand\u00e9"
+                },
+                {
+                    "City": "La Tronche",
+                    "Coordinates": [
+                        45.19776,
+                        5.75003
+                    ],
+                    "SIREN": "810205799",
+                    "Address": "5 Avenue du Grand Sablon, 38700 La Tronche"
                 }
             ],
             "Jobs": "https://www.gleamer.ai/jobs",
@@ -3918,6 +4112,15 @@
             "url": "https://hexagon.com/",
             "Description": "Groupe su\u00e9dois de technologies de mesure et de g\u00e9ospatial (Leica Geosystems, Intergraph) : m\u00e9trologie, scanners laser, positionnement, logiciels pour l'industrie et les infrastructures.",
             "Place": [
+                {
+                    "City": "Vend\u00f4me",
+                    "Coordinates": [
+                        47.77705,
+                        1.06963
+                    ],
+                    "SIREN": "326767597",
+                    "Address": "179 Rue Benjamin Franklin, 41100 Vend\u00f4me"
+                },
                 {
                     "Country": "Su\u00e8de",
                     "City": "Stockholm"
@@ -6286,6 +6489,15 @@
                     ],
                     "SIREN": "528048820",
                     "Address": "121 rue de Saintes, 16000 Angoul\u00eame"
+                },
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65509,
+                        0.16185
+                    ],
+                    "SIREN": "492992227",
+                    "Address": "12 Rue Amiral Renaudin, 16000 Angoul\u00eame"
                 }
             ],
             "Scientific-domain": [
@@ -8717,6 +8929,15 @@
                     "Address": "95 Boulevard Voltaire, 75011 Paris"
                 },
                 {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.60266,
+                        3.86283
+                    ],
+                    "SIREN": "491420808",
+                    "Address": "30 Rue Germaine Richier, 34070 Montpellier"
+                },
+                {
                     "Country": "Canada",
                     "City": "Montr\u00e9al"
                 }
@@ -8931,6 +9152,15 @@
             "url": "https://www.gaoshanpictures.com",
             "Description": "Studio d'animation 3D ayant particip\u00e9 \u00e0 des longs m\u00e9trages (Mars Express, J'ai perdu mon corps).",
             "Place": [
+                {
+                    "City": "Annecy",
+                    "Coordinates": [
+                        45.90791,
+                        6.10197
+                    ],
+                    "SIREN": "937843845",
+                    "Address": "1 Esplanade Augustin Aussedat, 74960 Annecy"
+                },
                 {
                     "Country": "France",
                     "City": "Saint-Paul (La R\u00e9union)",
@@ -9409,6 +9639,15 @@
                     ],
                     "SIREN": "807743844",
                     "Address": "19-21 19 Rue Poissonniere, 75002 Paris"
+                },
+                {
+                    "City": "Annecy",
+                    "Coordinates": [
+                        45.90791,
+                        6.10197
+                    ],
+                    "SIREN": "807743844",
+                    "Address": "1 Esplanade Augustin Aussedat, 74960 Annecy"
                 }
             ],
             "Jobs": "https://careers.madbox.io/",
@@ -19150,6 +19389,15 @@
                     ],
                     "SIREN": "832172175",
                     "Address": "128 Rue La Bo\u00ebtie, 75008 Paris"
+                },
+                {
+                    "City": "Tours",
+                    "Coordinates": [
+                        47.39272,
+                        0.66988
+                    ],
+                    "SIREN": "832172175",
+                    "Address": "49 Boulevard Preuilly, 37000 Tours"
                 }
             ],
             "Scientific-domain": [
@@ -21655,6 +21903,15 @@
                     ],
                     "SIREN": "434107769",
                     "Address": "13 Impasse Serge Reggiani, 44800 Saint-Herblain"
+                },
+                {
+                    "City": "Nancy",
+                    "Coordinates": [
+                        48.68808,
+                        6.18913
+                    ],
+                    "SIREN": "531898716",
+                    "Address": "114 Rue Charles III, 54000 Nancy"
                 }
             ],
             "Jobs": "https://www.banook.com/about/careers",
@@ -28971,6 +29228,15 @@
             "Description": "Fabricant waterloo\u00efen de cam\u00e9ras, capteurs d'image et logiciels de vision industrielle (cam\u00e9ras Falcon, Linea, Genie, biblioth\u00e8que Sapera, imagerie spatiale et m\u00e9dicale), filiale de Teledyne depuis 2011.",
             "Place": [
                 {
+                    "City": "Saint-\u00c9gr\u00e8ve",
+                    "Coordinates": [
+                        45.24277,
+                        5.68056
+                    ],
+                    "SIREN": "341470656",
+                    "Address": "4 Rue de Rocheplaine, 38120 Saint-\u00c9gr\u00e8ve"
+                },
+                {
                     "Country": "Canada",
                     "City": "Waterloo",
                     "Coordinates": [
@@ -34717,6 +34983,2612 @@
                 "concept-cars",
                 "num\u00e9risation 3D",
                 "General Motors"
+            ]
+        },
+        {
+            "Name": "Runes Studio",
+            "url": "https://runes-studio.com/",
+            "Description": "Studio de jeu vid\u00e9o caennais fond\u00e9 en 2020 par des anciens d'autres studios, qui d\u00e9veloppe des jeux pour core-gamers (Battle Goblin's, ar\u00e8ne multijoueur ; Wardens of Avalon annonc\u00e9 pour 2027), soutenu par la R\u00e9gion Normandie et le CNC.",
+            "Place": [
+                {
+                    "City": "Caen",
+                    "Coordinates": [
+                        49.17759,
+                        -0.34937
+                    ],
+                    "SIREN": "881482863",
+                    "Address": "15 Avenue Pierre Mend\u00e8s France, 14000 Caen"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "Unity",
+                "multijoueur",
+                "technical art"
+            ]
+        },
+        {
+            "Name": "ADCIS",
+            "url": "https://www.adcis.net/",
+            "Description": "\u00c9diteur normand de logiciels de vision par ordinateur et d'analyse d'images depuis 1995 (suite Aphelion, solutions d'ophtalmologie OphtAI, st\u00e9r\u00e9ologie), pour la sant\u00e9 et l'industrie (contr\u00f4le qualit\u00e9, mat\u00e9riaux, micro\u00e9lectronique) ; filiale du groupe Evolucare.",
+            "Place": [
+                {
+                    "City": "Saint-Contest",
+                    "Coordinates": [
+                        49.20429,
+                        -0.39504
+                    ],
+                    "SIREN": "401596846",
+                    "Address": "3 Rue Martin Luther King, 14280 Saint-Contest"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "analyse d'images",
+                "Aphelion",
+                "ophtalmologie",
+                "contr\u00f4le qualit\u00e9",
+                "IA"
+            ]
+        },
+        {
+            "Name": "Keyveo",
+            "url": "https://www.keyveo.com/",
+            "Description": "Entreprise rouennaise fond\u00e9e en 2014, sp\u00e9cialis\u00e9e dans les technologies immersives pour les entreprises et collectivit\u00e9s : r\u00e9alit\u00e9 virtuelle, augment\u00e9e et mixte, configurateurs 3D, web 3D (WebGL), visites virtuelles 360\u00b0 (plateforme KVT) et maquettes BIM ; r\u00e9f\u00e9rences Renault, Areva, CCI Rouen.",
+            "Place": [
+                {
+                    "City": "Le Petit-Quevilly",
+                    "Coordinates": [
+                        49.42859,
+                        1.06561
+                    ],
+                    "SIREN": "808242770",
+                    "Address": "Seine Innopolis, 72 Rue de la R\u00e9publique, 76140 Le Petit-Quevilly"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Entrainement/Formation/Serious Game",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 20,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "configurateur 3D",
+                "WebGL",
+                "visite virtuelle",
+                "serious game"
+            ]
+        },
+        {
+            "Name": "NeoXperiences",
+            "url": "https://www.neoxperiences.com/",
+            "Description": "Cr\u00e9ateur caennais d'aires de jeu immersives et interactives (murs interactifs projet\u00e9s, r\u00e9alit\u00e9 augment\u00e9e) pour les parcs de loisirs, l'\u00e9ducation, le sport et l'\u00e9v\u00e9nementiel, avec une ludoth\u00e8que de jeux renouvel\u00e9e.",
+            "Place": [
+                {
+                    "City": "Carpiquet",
+                    "Coordinates": [
+                        49.19397,
+                        -0.44904
+                    ],
+                    "SIREN": "839361508",
+                    "Address": "B\u00e2timent 152, Rue de la Vigne, 14650 Carpiquet"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "mur interactif",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "jeux immersifs",
+                "loisirs"
+            ]
+        },
+        {
+            "Name": "Datexim",
+            "url": "https://datexim.ai/",
+            "Description": "Soci\u00e9t\u00e9 caennaise de pathologie num\u00e9rique qui d\u00e9veloppe CytoProcessor, solution d'analyse d'images de lames de cytologie par IA pour le d\u00e9pistage du cancer du col de l'ut\u00e9rus (certifi\u00e9e IVD, plus d'un million de lames trait\u00e9es).",
+            "Place": [
+                {
+                    "City": "Caen",
+                    "Coordinates": [
+                        49.18371,
+                        -0.37081
+                    ],
+                    "SIREN": "529479842",
+                    "Address": "24-26 Rue Saint-Martin, 14000 Caen"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "cytologie num\u00e9rique",
+                "pathologie num\u00e9rique",
+                "IA",
+                "d\u00e9pistage du cancer"
+            ]
+        },
+        {
+            "Name": "My Serious Game",
+            "url": "https://www.my-serious-game.com/",
+            "Description": "Studio tourangeau de formation digitale sur mesure : serious games, simulations 3D, r\u00e9alit\u00e9 virtuelle et augment\u00e9e et simulateurs conversationnels \u00e0 avatars IA (Croix-Rouge, Universit\u00e9 de Reims).",
+            "Place": [
+                {
+                    "City": "Tours",
+                    "Coordinates": [
+                        47.39209,
+                        0.68789
+                    ],
+                    "SIREN": "804673754",
+                    "Address": "1 Rue Gambetta, 37000 Tours"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Jobs": "https://www.my-serious-game.com/carriere",
+            "Employees": 40,
+            "Keywords": [
+                "serious game",
+                "r\u00e9alit\u00e9 virtuelle",
+                "simulation 3D",
+                "e-learning"
+            ]
+        },
+        {
+            "Name": "Elokence",
+            "url": "https://www.elokence.com/",
+            "Description": "\u00c9diteur chartrain de jeux et de solutions de dialogue homme-machine, cr\u00e9ateur du jeu Akinator (le g\u00e9nie devineur, sur mobile, web et assistants vocaux).",
+            "Place": [
+                {
+                    "City": "Chartres",
+                    "Coordinates": [
+                        48.44511,
+                        1.53862
+                    ],
+                    "SIREN": "501030316",
+                    "Address": "10 Avenue Gustave Eiffel, 28000 Chartres"
+                }
+            ],
+            "Scientific-domain": [
+                "IHM/Haptique",
+                "Autres"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "Akinator",
+                "jeu mobile",
+                "dialogue homme-machine",
+                "IA"
+            ]
+        },
+        {
+            "Name": "Conscience Robotics",
+            "url": "https://conscience-robotics.com/",
+            "Description": "Concepteur normand de robots autonomes (tra\u00e7age au sol, inspection, surveillance de patients, robot bip\u00e8de en R&D) avec son syst\u00e8me Conscience OS et Conscience Studio pour la conception et la simulation de missions ; prim\u00e9 au challenge CoHoMa III 2025.",
+            "Place": [
+                {
+                    "City": "H\u00e9rouville-Saint-Clair",
+                    "Coordinates": [
+                        49.21504,
+                        -0.35486
+                    ],
+                    "SIREN": "833236995",
+                    "Address": "B\u00e2timent Odyss\u00e9e, 4 Avenue de Cambridge, 14200 H\u00e9rouville-Saint-Clair"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Simulation",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "robotique",
+                "perception",
+                "cartographie",
+                "simulation de missions"
+            ]
+        },
+        {
+            "Name": "Vermon",
+            "url": "https://www.vermon.com/",
+            "Description": "Fabricant tourangeau de transducteurs et sondes ultrasonores sur mesure pour l'imagerie m\u00e9dicale et le contr\u00f4le non destructif (plus de 250 000 sondes par an), \u00e0 la t\u00eate de Vermon Group depuis 2026 (TransducerWorks, Moduleus, Vermon NDT).",
+            "Place": [
+                {
+                    "City": "Tours",
+                    "Coordinates": [
+                        47.37671,
+                        0.67633
+                    ],
+                    "SIREN": "329310395",
+                    "Address": "67 Rue Fromentel, 37000 Tours"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 350,
+            "Keywords": [
+                "\u00e9chographie",
+                "transducteurs ultrasonores",
+                "imagerie m\u00e9dicale",
+                "OEM"
+            ]
+        },
+        {
+            "Name": "BIM&CO",
+            "url": "https://www.bimandco.com/",
+            "Description": "\u00c9diteur normand d'une plateforme d'objets BIM (biblioth\u00e8que de milliers d'objets 3D de fabricants et gestion de donn\u00e9es produits) pour l'architecture et la construction.",
+            "Place": [
+                {
+                    "City": "Saint-Romain-de-Colbosc",
+                    "Coordinates": [
+                        49.52045,
+                        0.34767
+                    ],
+                    "SIREN": "810000943",
+                    "Address": "Parc \u00c9co Normandie, 76430 Saint-Romain-de-Colbosc"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Design/Fabrication",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "BIM",
+                "objets 3D",
+                "maquette num\u00e9rique",
+                "construction"
+            ]
+        },
+        {
+            "Name": "Compusoft France",
+            "url": "https://www.compusoftgroup.com/fr/",
+            "Description": "Filiale fran\u00e7aise de Compusoft (groupe Cyncly) qui \u00e9dite et distribue les logiciels de conception 3D de cuisines et salles de bains Winner Flex, Innoplus et 3CAD.",
+            "Place": [
+                {
+                    "City": "Lun\u00e9ville",
+                    "Coordinates": [
+                        48.58404,
+                        6.47815
+                    ],
+                    "SIREN": "400272282",
+                    "Address": "42 Rue de Rozelieures, 54300 Lun\u00e9ville"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://www.compusoftgroup.com/fr/carriere/",
+            "Employees": 35,
+            "Keywords": [
+                "conception 3D",
+                "cuisine",
+                "salle de bains",
+                "configurateur"
+            ]
+        },
+        {
+            "Name": "Flying Oak Games",
+            "url": "https://flying-oak.com/",
+            "Description": "Studio de jeu vid\u00e9o ind\u00e9pendant fond\u00e9 en 2014, sp\u00e9cialis\u00e9 dans les jeux d'action (NeuroVoider, ScourgeBringer, Knuckle Paradise) et le portage console (optimisations d'Absolum en 2025).",
+            "Place": [
+                {
+                    "City": "Metz",
+                    "Coordinates": [
+                        49.13883,
+                        6.15538
+                    ],
+                    "SIREN": "889295390",
+                    "Address": "144 Route de Woippy, 57050 Metz"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 2,
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "action",
+                "portage console",
+                "pixel art"
+            ]
+        },
+        {
+            "Name": "Lozange Lab",
+            "url": "https://www.lozange-lab.com/",
+            "Description": "Studio de jeux ind\u00e9pendants et d'installations interactives cr\u00e9\u00e9 en 2014 (Swim Out, Rip Them Off, The Unic), qui assure aussi des portages mobile et console.",
+            "Place": [
+                {
+                    "City": "Metz",
+                    "Coordinates": [
+                        49.1185,
+                        6.18462
+                    ],
+                    "SIREN": "805067212",
+                    "Address": "32 B Boulevard Andr\u00e9 Maginot, 57000 Metz"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Art/Evenementiel"
+            ],
+            "Employees": 2,
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "puzzle",
+                "portage",
+                "installation interactive"
+            ]
+        },
+        {
+            "Name": "Human Games",
+            "url": "https://www.humangames.tv/",
+            "Description": "Studio nanc\u00e9ien d'exp\u00e9riences de r\u00e9alit\u00e9 virtuelle pour la formation et la pr\u00e9vention (VisioBuild HSE, UrbanVR) qui s'oriente depuis 2024 vers les assistants conversationnels ; rattach\u00e9 au groupe Actibac fin 2025.",
+            "Place": [
+                {
+                    "City": "Nancy",
+                    "Coordinates": [
+                        48.70074,
+                        6.1877
+                    ],
+                    "SIREN": "512465691",
+                    "Address": "16 Rue de Regnieville, 54000 Nancy"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "serious game",
+                "formation",
+                "pr\u00e9vention"
+            ]
+        },
+        {
+            "Name": "i-Virtual",
+            "url": "https://www.i-virtual.fr/",
+            "Description": "\u00c9diteur messin de Saphere, moteur de mesure des signes vitaux \u00e0 partir de la vid\u00e9o (rPPG) d'un simple selfie, int\u00e9gr\u00e9 par API dans des applications de sant\u00e9 et d'assurance.",
+            "Place": [
+                {
+                    "City": "Metz",
+                    "Coordinates": [
+                        49.11137,
+                        6.17527
+                    ],
+                    "SIREN": "807466693",
+                    "Address": "19 Avenue Foch, 57000 Metz"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "rPPG",
+                "signes vitaux",
+                "vision par ordinateur",
+                "sant\u00e9"
+            ]
+        },
+        {
+            "Name": "Acreos",
+            "url": "https://acreos.eu/",
+            "Description": "Concepteur et fabricant de simulateurs de conduite d'engins pour la formation professionnelle (pelles, grues, poids lourds, engins portuaires, agricoles et miniers), avec plateformes de simulation et mode collaboratif.",
+            "Place": [
+                {
+                    "City": "Metz",
+                    "Coordinates": [
+                        49.10628,
+                        6.22357
+                    ],
+                    "SIREN": "501367759",
+                    "Address": "1 Rue Claude Chappe, 57070 Metz"
+                },
+                {
+                    "City": "Morhange",
+                    "Coordinates": [
+                        48.94763,
+                        6.65272
+                    ],
+                    "SIREN": "501367759",
+                    "Address": "P\u00f4le d'activit\u00e9s Centre Mosellan, 57340 Morhange"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://acreos.eu/rejoindre-acreos/",
+            "Employees": 70,
+            "Keywords": [
+                "simulateur",
+                "engins de chantier",
+                "formation",
+                "grue"
+            ]
+        },
+        {
+            "Name": "Dream Powered Games",
+            "url": "https://store.steampowered.com/app/1608470/",
+            "Description": "Studio de jeu vid\u00e9o mosellan, d\u00e9veloppeur du FPS Warstride Challenges publi\u00e9 par Focus Entertainment sur PC, PS5 et Xbox Series (2023).",
+            "Place": [
+                {
+                    "City": "Diane-Capelle",
+                    "Coordinates": [
+                        48.7251,
+                        6.93009
+                    ],
+                    "SIREN": "912854908",
+                    "Address": "7 Rue Principale, 57830 Diane-Capelle"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "FPS",
+                "speedrun",
+                "consoles",
+                "Focus Entertainment"
+            ]
+        },
+        {
+            "Name": "Mist Studio",
+            "url": "https://www.miststudio.fr/",
+            "Description": "Start-up lorraine fond\u00e9e en 2019 qui con\u00e7oit des exp\u00e9riences de r\u00e9alit\u00e9 virtuelle et mixte pour la sant\u00e9, la formation et la sensibilisation (Explore l'UniVR pour l'Universit\u00e9 de Lorraine, PlastiXperience, IREMIA VR).",
+            "Place": [
+                {
+                    "City": "Villers-l\u00e8s-Nancy",
+                    "Coordinates": [
+                        48.65578,
+                        6.13326
+                    ],
+                    "SIREN": "885400093",
+                    "Address": "1 All\u00e9e de Saint-Cloud, 54600 Villers-l\u00e8s-Nancy"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "serious game",
+                "sant\u00e9",
+                "formation"
+            ]
+        },
+        {
+            "Name": "Damavan Imaging",
+            "url": "https://www.damavan-imaging.com/",
+            "Description": "Concepteur troyen d'imageurs gamma (gamme Temporal : monoculaire, binoculaire, 3D) qui localisent et cartographient les sources de rayonnement pour le nucl\u00e9aire et la sant\u00e9.",
+            "Place": [
+                {
+                    "City": "Troyes",
+                    "Coordinates": [
+                        48.29608,
+                        4.07837
+                    ],
+                    "SIREN": "808383632",
+                    "Address": "2 Rue des Anciennes Tanneries, 10000 Troyes"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "\u00c9nergie/Environnement",
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "imagerie gamma",
+                "cam\u00e9ra Compton",
+                "nucl\u00e9aire",
+                "spectrom\u00e9trie"
+            ]
+        },
+        {
+            "Name": "Pixel 4D",
+            "url": "https://www.pixel4d.fr/",
+            "Description": "Agence ardennaise de cr\u00e9ation 3D (mod\u00e9lisation, impression 3D, prises de vue par drone et r\u00e9alit\u00e9 virtuelle) pour les entreprises.",
+            "Place": [
+                {
+                    "City": "Charleville-M\u00e9zi\u00e8res",
+                    "Coordinates": [
+                        49.77023,
+                        4.73992
+                    ],
+                    "SIREN": "840319586",
+                    "Address": "27 Route de Saint-Laurent, 08000 Charleville-M\u00e9zi\u00e8res"
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "3D",
+                "impression 3D",
+                "drone",
+                "r\u00e9alit\u00e9 virtuelle"
+            ]
+        },
+        {
+            "Name": "Reaali",
+            "url": "https://www.reaali.fr/",
+            "Description": "Studio de jeux vid\u00e9o en r\u00e9alit\u00e9 augment\u00e9e et g\u00e9olocalis\u00e9s, membre d'un groupe d'entreprises cr\u00e9atives (Super Id\u00e9e, Strong, AV Extended).",
+            "Place": [
+                {
+                    "City": "Metz",
+                    "Coordinates": [
+                        49.12167,
+                        6.17654
+                    ],
+                    "SIREN": "952031516",
+                    "Address": "15 Quai F\u00e9lix Mar\u00e9chal, 57000 Metz"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "g\u00e9olocalisation",
+                "jeu mobile"
+            ]
+        },
+        {
+            "Name": "2.21",
+            "url": "https://www.littlebigadventure.com/",
+            "Description": "Studio de jeux vid\u00e9o de Chantilly (soci\u00e9t\u00e9 2 Point 21) qui a d\u00e9velopp\u00e9 Little Big Adventure \u2013 Twinsen's Quest, remake 3D du classique de 1994 sorti en novembre 2024 sur PC et consoles, d\u00e9sormais auto\u00e9dit\u00e9, et pr\u00e9pare S.Y.N.C. - One Mecha, Two Pilots (aide au prototypage Pictanovo 2025).",
+            "Place": [
+                {
+                    "City": "Chantilly",
+                    "Coordinates": [
+                        49.19212,
+                        2.46424
+                    ],
+                    "SIREN": "902614353",
+                    "Address": "20 Avenue du Mar\u00e9chal Joffre, 60500 Chantilly"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 8,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "remake",
+                "Little Big Adventure",
+                "consoles",
+                "3D temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Audace Digital Learning",
+            "url": "https://www.audace-digital-learning.fr/",
+            "Description": "Agence de digital learning de Douvrin (Pas-de-Calais), active depuis 25 ans, qui con\u00e7oit des e-learnings en 2D/3D, des serious games, de l'immersive learning et une gamme de simulateurs de conduite en r\u00e9alit\u00e9 virtuelle (ponts roulants, pont polaire nucl\u00e9aire, chariots \u00e9l\u00e9vateurs, nacelles, grues, extinction de feu).",
+            "Place": [
+                {
+                    "City": "Douvrin",
+                    "Coordinates": [
+                        50.52553,
+                        2.83267
+                    ],
+                    "SIREN": "421329681",
+                    "Address": "Parc des Industries Artois Flandres, 65 Rue de Glasgow, 62138 Douvrin"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "simulateur VR",
+                "serious game",
+                "formation industrielle",
+                "e-learning 3D"
+            ]
+        },
+        {
+            "Name": "Homo Ludens",
+            "url": "https://www.bloomingbusiness.games/",
+            "Description": "Studio de jeux vid\u00e9o et \u00e9diteur, au si\u00e8ge \u00e0 Liancourt (Oise), cr\u00e9ateur du jeu de gestion Blooming Business: Casino (PC, sorti en 2023, toujours mis \u00e0 jour avec DLC et playtests communautaires).",
+            "Place": [
+                {
+                    "City": "Liancourt",
+                    "Coordinates": [
+                        49.32909,
+                        2.46504
+                    ],
+                    "SIREN": "877524967",
+                    "Address": "3 Rue Roger Duplessis, 60140 Liancourt"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu de gestion",
+                "tycoon",
+                "PC"
+            ]
+        },
+        {
+            "Name": "Reviatech",
+            "url": "https://reviatech.com/",
+            "Description": "Soci\u00e9t\u00e9 de Venette (agglom\u00e9ration de Compi\u00e8gne), cr\u00e9\u00e9e en 2008, sp\u00e9cialis\u00e9e dans les solutions de r\u00e9alit\u00e9 virtuelle et augment\u00e9e pour l'industrie : formation (VR Industry Training), prototypage, revue de risques, showcase et traitement des phobies (Revia Phobies).",
+            "Place": [
+                {
+                    "City": "Venette",
+                    "Coordinates": [
+                        49.40918,
+                        2.79664
+                    ],
+                    "SIREN": "508354917",
+                    "Address": "Parc technologique des Rives de l'Oise, Rue des Rives de l'Oise, 60280 Venette"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO",
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "formation",
+                "prototypage virtuel"
+            ]
+        },
+        {
+            "Name": "Innoteo",
+            "url": "https://www.innoteo.fr/",
+            "Description": "Soci\u00e9t\u00e9 de Compi\u00e8gne qui \u00e9dite Dimeo, solution de r\u00e9alit\u00e9 augment\u00e9e (lunettes AR, HoloLens) et d'IA pour la formation et la maintenance industrielle, en parall\u00e8le d'une activit\u00e9 d'int\u00e9gration Microsoft Dynamics 365 et Power BI.",
+            "Place": [
+                {
+                    "City": "Compi\u00e8gne",
+                    "Coordinates": [
+                        49.41153,
+                        2.8256
+                    ],
+                    "SIREN": "753814045",
+                    "Address": "39 bis Rue de Clamart, 60200 Compi\u00e8gne"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "maintenance industrielle",
+                "HoloLens",
+                "Dimeo"
+            ]
+        },
+        {
+            "Name": "CORYS",
+            "url": "https://www.corys.com/",
+            "Description": "Concepteur grenoblois de simulateurs d'entra\u00eenement et d'ing\u00e9nierie pour le nucl\u00e9aire, le ferroviaire et l'industrie des proc\u00e9d\u00e9s, partenaire de services d'Epic Games pour des environnements Unreal Engine ; plus de 380 ing\u00e9nieurs dans le monde.",
+            "Place": [
+                {
+                    "City": "Grenoble",
+                    "Coordinates": [
+                        45.20626,
+                        5.70219
+                    ],
+                    "SIREN": "413851924",
+                    "Address": "44 Rue des Berges, 38000 Grenoble"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "\u00c9nergie/Environnement",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://www.corys.com/en/home/career/",
+            "Employees": 380,
+            "Keywords": [
+                "simulateurs",
+                "formation",
+                "nucl\u00e9aire",
+                "ferroviaire",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Metrologic Group",
+            "url": "https://www.metrologicdcs.com/",
+            "Description": "\u00c9diteur de logiciels de m\u00e9trologie 3D bas\u00e9s sur la CAO (planification d'inspection, programmation hors ligne de machines \u00e0 mesurer, robots d'inspection) et d'analyse de tol\u00e9rances 3DCS, si\u00e8ge \u00e0 Inovall\u00e9e (Montbonnot).",
+            "Place": [
+                {
+                    "City": "Montbonnot-Saint-Martin",
+                    "Coordinates": [
+                        45.21619,
+                        5.80524
+                    ],
+                    "SIREN": "322882705",
+                    "Address": "26 Avenue Jean Kuntzmann, 38330 Montbonnot-Saint-Martin"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "G\u00e9om\u00e9trie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://careers.metrologic.group/en",
+            "Employees": 150,
+            "Keywords": [
+                "m\u00e9trologie 3D",
+                "CAO",
+                "inspection",
+                "tol\u00e9rancement"
+            ]
+        },
+        {
+            "Name": "Visioglobe",
+            "url": "https://visioglobe.com/",
+            "Description": "\u00c9diteur meylanais de cartes 3D d'int\u00e9rieur et de guidage (Map Editor, SDK VisioOne avec moteur 3D propri\u00e9taire et biblioth\u00e8que WebGL) d\u00e9ploy\u00e9es dans plus de 1 000 sites (centres commerciaux, a\u00e9roports, bureaux).",
+            "Place": [
+                {
+                    "City": "Meylan",
+                    "Coordinates": [
+                        45.20684,
+                        5.78573
+                    ],
+                    "SIREN": "501225395",
+                    "Address": "Le Bipode, 13 Chemin du Vieux Ch\u00eane, 38240 Meylan"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Visualisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "cartographie 3D d'int\u00e9rieur",
+                "wayfinding",
+                "WebGL",
+                "SDK"
+            ]
+        },
+        {
+            "Name": "Piraknights Games",
+            "url": "https://www.piraknights.com/",
+            "Description": "Studio de jeu vid\u00e9o savoyard (Le Bourget-du-Lac) qui d\u00e9veloppe Sintopia, jeu de gestion d'un enfer \u00e9dit\u00e9 par Team17 sur Steam (sortie 2026).",
+            "Place": [
+                {
+                    "City": "Le Bourget-du-Lac",
+                    "Coordinates": [
+                        45.64472,
+                        5.8686
+                    ],
+                    "SIREN": "915350904",
+                    "Address": "25 Avenue Lac du Bourget, 73370 Le Bourget-du-Lac"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.piraknights.com/careers",
+            "Employees": 15,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "jeu de gestion",
+                "PC",
+                "Team17"
+            ]
+        },
+        {
+            "Name": "NOG Studio",
+            "url": "https://www.nogstudio.com/en/",
+            "Description": "Studio cr\u00e9atif sp\u00e9cialis\u00e9 Unreal Engine (\u00e9clairage, cin\u00e9matiques, level art, VFX Niagara, tech art, shaders) prestataire de studios de jeu (EA, Cyanide, Don't Nod, Ember Lab) et de d\u00e9cors virtuels, formateur Unreal agr\u00e9\u00e9.",
+            "Place": [
+                {
+                    "City": "Chimilin",
+                    "Coordinates": [
+                        45.59079,
+                        5.57438
+                    ],
+                    "SIREN": "831996715",
+                    "Address": "40 Impasse Marioni, 38490 Chimilin"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "Unreal Engine",
+                "lighting",
+                "VFX temps r\u00e9el",
+                "tech art"
+            ]
+        },
+        {
+            "Name": "Ooolala",
+            "url": "https://ooolala.fr/",
+            "Description": "Studio d'animation 2D num\u00e9rique (Harmony, TVPaint) install\u00e9 au p\u00f4le de La Cartoucherie, fabricant de s\u00e9ries et sp\u00e9ciaux TV (Chien Pourri, Billy le hamster cowboy, Vee et la pomme d'or), jusqu'\u00e0 100 artistes sur site.",
+            "Place": [
+                {
+                    "City": "Bourg-l\u00e8s-Valence",
+                    "Coordinates": [
+                        44.9418,
+                        4.89919
+                    ],
+                    "SIREN": "840233878",
+                    "Address": "33 Rue de Chony, 26500 Bourg-l\u00e8s-Valence"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://ooolala.fr/jobs/",
+            "Employees": 8,
+            "Keywords": [
+                "animation 2D",
+                "s\u00e9ries TV",
+                "Harmony",
+                "TVPaint"
+            ]
+        },
+        {
+            "Name": "RSA Cosmos",
+            "url": "https://www.rsacosmos.com/",
+            "Description": "Concepteur de plan\u00e9tariums num\u00e9riques cl\u00e9s en main et du logiciel d'astronomie temps r\u00e9el SkyExplorer (rendu volum\u00e9trique, rendu de plan\u00e8tes, d\u00f4mes jusqu'en 10K), install\u00e9s dans le monde entier ; associ\u00e9 \u00e0 Konica Minolta.",
+            "Place": [
+                {
+                    "City": "Sorbiers",
+                    "Coordinates": [
+                        45.47887,
+                        4.4492
+                    ],
+                    "SIREN": "444574610",
+                    "Address": "ZI de la Vaure, Rue des Mineurs, 42290 Sorbiers"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Patrimoine/Culture",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "plan\u00e9tarium",
+                "fulldome",
+                "astronomie",
+                "rendu temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Lynred",
+            "url": "https://www.lynred.com/",
+            "Description": "Fabricant de d\u00e9tecteurs infrarouges refroidis et non refroidis et de capteurs SWIR (d\u00e9fense, spatial, automobile, vision industrielle), si\u00e8ge, R&D et production \u00e0 Veurey-Voroize.",
+            "Place": [
+                {
+                    "City": "Veurey-Voroize",
+                    "Coordinates": [
+                        45.26175,
+                        5.62443
+                    ],
+                    "SIREN": "334835709",
+                    "Address": "Route de Valence, 38113 Veurey-Voroize"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Hardware",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Automobile/Navigation/Aviation",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Jobs": "https://lynred-career.talent-soft.com/",
+            "Employees": 750,
+            "Keywords": [
+                "infrarouge",
+                "imagerie thermique",
+                "capteurs",
+                "SWIR"
+            ]
+        },
+        {
+            "Name": "Trixell",
+            "url": "https://www.trixell.com/",
+            "Description": "Coentreprise de Thales, Siemens Healthineers et Philips qui con\u00e7oit et produit \u00e0 Moirans des d\u00e9tecteurs num\u00e9riques plats \u00e0 rayons X pour la radiologie m\u00e9dicale.",
+            "Place": [
+                {
+                    "City": "Moirans",
+                    "Coordinates": [
+                        45.31571,
+                        5.59719
+                    ],
+                    "SIREN": "411195043",
+                    "Address": "ZI Centr'Alp, 460 Rue du Pommarin, 38430 Moirans"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.trixell.com/join-us",
+            "Employees": 375,
+            "Keywords": [
+                "rayons X",
+                "d\u00e9tecteurs plats",
+                "imagerie m\u00e9dicale"
+            ]
+        },
+        {
+            "Name": "Pyxalis",
+            "url": "https://pyxalis.com/",
+            "Description": "Concepteur et producteur de capteurs d'image CMOS sur mesure et standards (GIGAPYX, HDPYX) pour le spatial, l'imagerie m\u00e9dicale, la vision industrielle et le cin\u00e9ma.",
+            "Place": [
+                {
+                    "City": "Moirans",
+                    "Coordinates": [
+                        45.32021,
+                        5.59062
+                    ],
+                    "SIREN": "524665965",
+                    "Address": "170 Rue de Chatagnon, 38430 Moirans"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Hardware",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "capteurs CMOS",
+                "imagerie",
+                "HDR"
+            ]
+        },
+        {
+            "Name": "STMicroelectronics",
+            "url": "https://www.st.com/",
+            "Description": "Fabricant de semi-conducteurs dont les sites is\u00e9rois d\u00e9veloppent et produisent des capteurs d'image et capteurs 3D (temps de vol, capteurs empil\u00e9s VD55G4/VD65G4 fabriqu\u00e9s en 300 mm \u00e0 Crolles), Grenoble \u00e9tant le plus grand centre de R&D du groupe en France.",
+            "Place": [
+                {
+                    "City": "Grenoble",
+                    "Coordinates": [
+                        45.20354,
+                        5.69615
+                    ],
+                    "SIREN": "504941337",
+                    "Address": "12 Rue Jules Horowitz, 38000 Grenoble"
+                },
+                {
+                    "City": "Crolles",
+                    "Coordinates": [
+                        45.2672,
+                        5.88386
+                    ],
+                    "SIREN": "399395581",
+                    "Address": "850 Rue Jean Monnet, 38920 Crolles"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Hardware",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Automobile/Navigation/Aviation",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 5000,
+            "Keywords": [
+                "capteurs d'image",
+                "temps de vol",
+                "semi-conducteurs"
+            ]
+        },
+        {
+            "Name": "Imactis",
+            "url": "https://imactis.com/",
+            "Description": "Concepteur du syst\u00e8me CT-Navigation de guidage d'aiguilles par imagerie 3D scanner pour la radiologie interventionnelle (marquage CE MDR, FDA), rachet\u00e9 par GE HealthCare en 2023.",
+            "Place": [
+                {
+                    "City": "Saint-Martin-d'H\u00e8res",
+                    "Coordinates": [
+                        45.18696,
+                        5.77609
+                    ],
+                    "SIREN": "509967030",
+                    "Address": "20 Rue du Tour de l'Eau, 38400 Saint-Martin-d'H\u00e8res"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "navigation chirurgicale",
+                "scanner",
+                "radiologie interventionnelle"
+            ]
+        },
+        {
+            "Name": "Blue Ortho",
+            "url": "https://www.exac.com/",
+            "Description": "Filiale d'Exactech qui con\u00e7oit \u00e0 Meylan la plateforme de navigation chirurgicale ExactechGPS (\u00e9paule, genou, premi\u00e8re navigation pour proth\u00e8se de cheville, homologu\u00e9e FDA).",
+            "Place": [
+                {
+                    "City": "Meylan",
+                    "Coordinates": [
+                        45.20868,
+                        5.78987
+                    ],
+                    "SIREN": "509027702",
+                    "Address": "22 Chemin du Vieux Ch\u00eane, 38240 Meylan"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Acquisition",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "chirurgie assist\u00e9e par ordinateur",
+                "navigation",
+                "orthop\u00e9die"
+            ]
+        },
+        {
+            "Name": "Evil Raptor",
+            "url": "https://www.evilraptor.com/",
+            "Description": "Studio ind\u00e9pendant de jeux d'action 3D (Pumpkin Jack, Akimbot, Far Far West en acc\u00e8s anticip\u00e9) install\u00e9 dans l'Ain.",
+            "Place": [
+                {
+                    "City": "Sulignat",
+                    "Coordinates": [
+                        46.175,
+                        4.96351
+                    ],
+                    "SIREN": "889749271",
+                    "Address": "44 Impasse des Cerisiers, 01400 Sulignat"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "action-aventure",
+                "3D",
+                "ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Mycronic Saint-\u00c9gr\u00e8ve (ex-VIT)",
+            "url": "https://www.mycronic.com/fr/contact-us/mycronic-saint-egreve/",
+            "Description": "Ancienne soci\u00e9t\u00e9 Vi TECHNOLOGY rachet\u00e9e par Mycronic, centre de R&D mondial du groupe pour l'inspection optique automatique 3D (AOI, inspection de p\u00e2te \u00e0 braser, technologie de vision Iris 3D) des cartes \u00e9lectroniques.",
+            "Place": [
+                {
+                    "City": "Saint-\u00c9gr\u00e8ve",
+                    "Coordinates": [
+                        45.24238,
+                        5.67991
+                    ],
+                    "SIREN": "451028567",
+                    "Address": "B\u00e2timent 8, Rue Albert Einstein, 38120 Saint-\u00c9gr\u00e8ve"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "inspection optique automatique",
+                "vision 3D",
+                "AOI",
+                "\u00e9lectronique"
+            ]
+        },
+        {
+            "Name": "Orthotaxy",
+            "url": "https://www.jnjmedtech.com/en-NZ/velys",
+            "Description": "Filiale de Johnson & Johnson (DePuy Synthes) \u00e0 Gi\u00e8res, centre de R&D mondial qui a con\u00e7u le robot chirurgical VELYS pour la proth\u00e8se totale de genou (navigation par suivi optique, sans imagerie pr\u00e9op\u00e9ratoire).",
+            "Place": [
+                {
+                    "City": "Gi\u00e8res",
+                    "Coordinates": [
+                        45.18896,
+                        5.77973
+                    ],
+                    "SIREN": "514611003",
+                    "Address": "B\u00e2timent Gresiclic, 2 Avenue de Vignate, 38610 Gi\u00e8res"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Visualisation",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "chirurgie robotique",
+                "navigation",
+                "orthop\u00e9die"
+            ]
+        },
+        {
+            "Name": "Data Pixel",
+            "url": "https://www.data-pixel.com/",
+            "Description": "Fabricant ann\u00e9cien d'\u00e9quipements de m\u00e9trologie pour connecteurs de fibre optique : interf\u00e9rom\u00e8tres 3D de surface (DAISI, DAFFI, 3D Scope), microscopes d'inspection et analyse d'images par IA.",
+            "Place": [
+                {
+                    "City": "Chavanod",
+                    "Coordinates": [
+                        45.89264,
+                        6.07652
+                    ],
+                    "SIREN": "437632276",
+                    "Address": "Parc Alta\u00efs, 27 Rue Saturne, 74650 Chavanod"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "interf\u00e9rom\u00e9trie",
+                "m\u00e9trologie 3D",
+                "inspection optique",
+                "fibre optique"
+            ]
+        },
+        {
+            "Name": "InTheBox",
+            "url": "https://www.inthebox.studio/",
+            "Description": "Studio ann\u00e9cien cr\u00e9\u00e9 en 2011 sp\u00e9cialis\u00e9 dans la production d'animation en images de synth\u00e8se, les VFX et le d\u00e9veloppement technique, recruteur de dipl\u00f4m\u00e9s d'\u00e9coles 3D (ESMA).",
+            "Place": [
+                {
+                    "City": "Annecy",
+                    "Coordinates": [
+                        45.89484,
+                        6.10928
+                    ],
+                    "SIREN": "532223328",
+                    "Address": "Parc d'activit\u00e9s Les Verts Pr\u00e9s, 8 bis Route des Creuses, 74000 Annecy"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "animation 3D",
+                "VFX",
+                "images de synth\u00e8se"
+            ]
+        },
+        {
+            "Name": "Intrasense",
+            "url": "https://intrasense.fr/fr/",
+            "Description": "\u00c9diteur montpelli\u00e9rain de logiciels d'imagerie m\u00e9dicale : plateforme de visualisation Myrian et plateforme d'IA en oncologie DUOnco (suivi des cancers sur scanner), partenaire de Guerbet.",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.60629,
+                        3.91269
+                    ],
+                    "SIREN": "452479504",
+                    "Address": "1231 Avenue du Mondial 98, 34000 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://intrasense.fr/fr/nous-rejoindre-logiciel-imagerie-medicale/",
+            "Employees": 70,
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "visualisation 3D",
+                "IA oncologie",
+                "radiologie"
+            ]
+        },
+        {
+            "Name": "Quantum Surgical",
+            "url": "https://www.quantumsurgical.com/",
+            "Description": "Medtech montpelli\u00e9raine qui d\u00e9veloppe Epione, robot d'ablation percutan\u00e9e des tumeurs associant planification sur images, bras robotis\u00e9, navigation et cam\u00e9ra ; bureaux \u00e0 Miami.",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.6187,
+                        3.91905
+                    ],
+                    "SIREN": "824393003",
+                    "Address": "ZAC Eureka, 1000 Rue du Mas de Verchant, 34000 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://www.quantumsurgical.com/careers",
+            "Employees": 130,
+            "Keywords": [
+                "robotique chirurgicale",
+                "navigation",
+                "planification sur images",
+                "oncologie interventionnelle"
+            ]
+        },
+        {
+            "Name": "Plug In Digital",
+            "url": "https://plugindigital.com/",
+            "Description": "Distributeur et \u00e9diteur de jeux vid\u00e9o bas\u00e9 \u00e0 Montpellier (label d'\u00e9dition Dear Villagers) : distribution num\u00e9rique et d\u00e9veloppement commercial pour studios ind\u00e9pendants et \u00e9diteurs sur PC, consoles, cloud et mobile.",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.59975,
+                        3.87079
+                    ],
+                    "SIREN": "539019786",
+                    "Address": "8 B Boulevard Berthelot, 34000 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "\u00e9dition de jeux vid\u00e9o",
+                "distribution num\u00e9rique",
+                "Dear Villagers",
+                "jeu ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Alt Shift",
+            "url": "https://altshift.fr/",
+            "Description": "Studio ind\u00e9pendant de jeux vid\u00e9o \u00e0 Montpellier, cr\u00e9ateur du roguelite spatial Crying Suns, du puzzle game Not Not et de Battlestar Galactica: Scattered Hopes (2026).",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.60992,
+                        3.88497
+                    ],
+                    "SIREN": "522929686",
+                    "Address": "Les Portes d'Antigone, 43 Place Vauban, 34000 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "roguelite",
+                "PC/console",
+                "strat\u00e9gie"
+            ]
+        },
+        {
+            "Name": "Wild Sheep Studio",
+            "url": "https://store.steampowered.com/app/3840230/",
+            "Description": "Studio de jeux vid\u00e9o montpelli\u00e9rain cofond\u00e9 en 2013 par Michel Ancel (Rayman), d\u00e9veloppeur d'Adorable Adventures (2026, \u00e9dit\u00e9 par PQube, PC et consoles).",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.61496,
+                        3.88737
+                    ],
+                    "SIREN": "793419011",
+                    "Address": "310 Avenue de Saint-Maur, 34000 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 12,
+            "Keywords": [
+                "jeu d'aventure",
+                "console/PC",
+                "jeu ind\u00e9pendant",
+                "3D"
+            ]
+        },
+        {
+            "Name": "Studio Camelia",
+            "url": "https://store.steampowered.com/app/2856410/",
+            "Description": "Studio de jeux vid\u00e9o fond\u00e9 en 2021 pr\u00e8s de Montpellier (Castelnau-le-Lez), sp\u00e9cialis\u00e9 dans le J-RPG, d\u00e9veloppeur d'Alzara Radiant Echoes.",
+            "Place": [
+                {
+                    "City": "Castelnau-le-Lez",
+                    "Coordinates": [
+                        43.62354,
+                        3.91323
+                    ],
+                    "SIREN": "914055496",
+                    "Address": "199 Rue H\u00e9l\u00e8ne Boucher, 34170 Castelnau-le-Lez"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "J-RPG",
+                "jeu ind\u00e9pendant",
+                "PC/console"
+            ]
+        },
+        {
+            "Name": "Supamonks",
+            "url": "https://www.supamonks.com/",
+            "Description": "Studio d'animation et soci\u00e9t\u00e9 de production (Arcueil) r\u00e9alisant trailers et cin\u00e9matiques de jeux vid\u00e9o, s\u00e9ries et longs m\u00e9trages en animation 3D, avec deux \u00e9tablissements \u00e0 Montpellier.",
+            "Place": [
+                {
+                    "City": "Arcueil",
+                    "Coordinates": [
+                        48.80554,
+                        2.32772
+                    ],
+                    "SIREN": "498413897",
+                    "Address": "26 Rue Berthollet, 94110 Arcueil"
+                },
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.60288,
+                        3.85841
+                    ],
+                    "SIREN": "498413897",
+                    "Address": "121 Rue de Font-Couverte, 34070 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.supamonks.com/productions/jobs",
+            "Employees": 35,
+            "Keywords": [
+                "animation 3D",
+                "cin\u00e9matiques",
+                "trailers de jeux",
+                "s\u00e9ries"
+            ]
+        },
+        {
+            "Name": "Artisan Studios",
+            "url": "https://www.artisangamestudios.com/",
+            "Description": "Studio de jeux de r\u00f4le 2D (Astria Ascending, Lost Hellden, Super Neptunia RPG) travaillant avec des \u00e9diteurs japonais, implant\u00e9 \u00e0 Qu\u00e9bec et \u00e0 Mauguio pr\u00e8s de Montpellier.",
+            "Place": [
+                {
+                    "City": "Mauguio",
+                    "Coordinates": [
+                        43.61469,
+                        3.99945
+                    ],
+                    "SIREN": "885299495",
+                    "Address": "181 Rue Marie Durand, 34130 Mauguio"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "RPG",
+                "jeu 2D",
+                "co-d\u00e9veloppement",
+                "march\u00e9 japonais"
+            ]
+        },
+        {
+            "Name": "Eficad",
+            "url": "https://eficad.com/",
+            "Description": "\u00c9diteur de logiciels de FAO int\u00e9gr\u00e9s \u00e0 SolidWorks, bas\u00e9 \u00e0 La Grande-Motte : SWOOD (conception et fabrication pour l'agencement et le bois) et EFICN (usinage m\u00e9canique, enseignement).",
+            "Place": [
+                {
+                    "City": "La Grande-Motte",
+                    "Coordinates": [
+                        43.56237,
+                        4.08743
+                    ],
+                    "SIREN": "950408765",
+                    "Address": "Immeuble H2O, 55 Avenue de Melgueil, 34280 La Grande-Motte"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "CFAO",
+                "SolidWorks",
+                "usinage",
+                "bois et agencement"
+            ]
+        },
+        {
+            "Name": "Edicad",
+            "url": "https://www.edicad.com/",
+            "Description": "\u00c9diteur lotois de logiciels pour le b\u00e2timent : ArchiTECH.PC (plans 2D/3D d'architecture), KutchCAD (m\u00e9tr\u00e9 et devis) et APCSmart (patrimoine immobilier).",
+            "Place": [
+                {
+                    "City": "Fontanes",
+                    "Coordinates": [
+                        44.34414,
+                        1.4858
+                    ],
+                    "SIREN": "879903318",
+                    "Address": "250 Route des Falgui\u00e8res, 46230 Fontanes"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "CAO b\u00e2timent",
+                "plans 3D",
+                "m\u00e9tr\u00e9",
+                "logiciel d'architecture"
+            ]
+        },
+        {
+            "Name": "Menhir FX",
+            "url": "https://menhirfx.com/",
+            "Description": "Studio d'animation 2D/3D ind\u00e9pendant \u00e0 Montpellier, sp\u00e9cialis\u00e9 dans la r\u00e9alisation de trailers et de films d'animation.",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.61973,
+                        3.82287
+                    ],
+                    "SIREN": "844164939",
+                    "Address": "710 Rue Favre de Saint-Castor, 34080 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 8,
+            "Keywords": [
+                "animation 3D",
+                "trailers",
+                "cin\u00e9matiques"
+            ]
+        },
+        {
+            "Name": "Illogic Studios",
+            "url": "https://www.illogicstudios.com/",
+            "Description": "Studio d'animation montpelli\u00e9rain r\u00e9unissant des r\u00e9alisateurs nomm\u00e9s aux Oscars, auteur de publicit\u00e9s (le loup d'Intermarch\u00e9) et prestataire pour Illumination Mac Guff, Mikros Animation et Ubisoft.",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.60216,
+                        3.88163
+                    ],
+                    "SIREN": "842366908",
+                    "Address": "16 Rue Fr\u00e9d\u00e9ric Bazille, 34000 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 8,
+            "Keywords": [
+                "animation 3D",
+                "publicit\u00e9",
+                "court m\u00e9trage",
+                "r\u00e9alisation"
+            ]
+        },
+        {
+            "Name": "Exalted Studio",
+            "url": "https://exaltedstudio.com/",
+            "Description": "Studio de jeux vid\u00e9o gardois (Gallargues-le-Montueux), d\u00e9veloppeur du beat'em up 3D coop\u00e9ratif Big Helmet Heroes.",
+            "Place": [
+                {
+                    "City": "Gallargues-le-Montueux",
+                    "Coordinates": [
+                        43.71744,
+                        4.171
+                    ],
+                    "SIREN": "889176574",
+                    "Address": "33 Avenue de la Station, 30660 Gallargues-le-Montueux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 8,
+            "Keywords": [
+                "beat'em up",
+                "coop\u00e9ration",
+                "3D",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Temple Cach\u00e9",
+            "url": "https://www.templecache.com/",
+            "Description": "Collectif de r\u00e9alisateurs et studio cr\u00e9atif install\u00e9 dans l'ancienne gare de Lunel, m\u00ealant animation 2D/3D, collage et outils num\u00e9riques pour clips, marques et bandes-annonces (Fortnite, Anno 117).",
+            "Place": [
+                {
+                    "City": "Lunel",
+                    "Coordinates": [
+                        43.67944,
+                        4.13209
+                    ],
+                    "SIREN": "839875515",
+                    "Address": "Ancienne gare, 126 Rue de Verdun, 34400 Lunel"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "animation 2D/3D",
+                "clips",
+                "direction artistique",
+                "publicit\u00e9"
+            ]
+        },
+        {
+            "Name": "Pixel Reef",
+            "url": "https://www.pixelreef.fr/",
+            "Description": "Studio de jeux vid\u00e9o fond\u00e9 en 2016 \u00e0 Montpellier par \u00c9ric Chahi (Another World, From Dust), cr\u00e9ateur du jeu VR Paper Beast.",
+            "Place": [
+                {
+                    "City": "Montpellier",
+                    "Coordinates": [
+                        43.62035,
+                        3.89358
+                    ],
+                    "SIREN": "820396588",
+                    "Address": "5 Rue des Martins-P\u00eacheurs, 34000 Montpellier"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 10,
+            "Keywords": [
+                "jeu VR",
+                "simulation",
+                "jeu ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Iconik",
+            "url": "https://iconik.gg/",
+            "Description": "Studio de La Ciotat qui con\u00e7oit des jeux et exp\u00e9riences immersives en r\u00e9alit\u00e9 virtuelle (Little Nightmares VR: Altered Echoes avec Bandai Namco en 2026, Hunting VR, King Pong).",
+            "Place": [
+                {
+                    "City": "La Ciotat",
+                    "Coordinates": [
+                        43.20185,
+                        5.60032
+                    ],
+                    "SIREN": "439293580",
+                    "Address": "170 Impasse du Serpolet, Zone Ath\u00e9lia II, 13600 La Ciotat"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "jeu VR",
+                "r\u00e9alit\u00e9 virtuelle",
+                "Meta Quest",
+                "PS VR2"
+            ]
+        },
+        {
+            "Name": "Olea Medical",
+            "url": "https://www.olea-medical.com/fr/",
+            "Description": "\u00c9diteur de La Ciotat, filiale du groupe Canon, de logiciels de post-traitement et d'aide au diagnostic en imagerie m\u00e9dicale IRM et scanner (suite Olea Sphere : perfusion, neurovasculaire, oncologie, cardiologie).",
+            "Place": [
+                {
+                    "City": "La Ciotat",
+                    "Coordinates": [
+                        43.20445,
+                        5.60208
+                    ],
+                    "SIREN": "505251355",
+                    "Address": "93 Impasse des Sorbiers, ZI Ath\u00e9lia IV, 13600 La Ciotat"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.olea-medical.com/fr/recrutement/",
+            "Employees": 150,
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "IRM",
+                "post-traitement",
+                "aide au diagnostic"
+            ]
+        },
+        {
+            "Name": "E-Scopics",
+            "url": "https://www.e-scopics.com/",
+            "Description": "Start-up aixoise qui d\u00e9veloppe une \u00e9chographie enti\u00e8rement logicielle (plateforme Hepatoscope, quantification des propri\u00e9t\u00e9s des tissus) et une plateforme d'acc\u00e8s aux donn\u00e9es brutes pour la recherche et les OEM.",
+            "Place": [
+                {
+                    "City": "Aix-en-Provence",
+                    "Coordinates": [
+                        43.48804,
+                        5.3609
+                    ],
+                    "SIREN": "841467293",
+                    "Address": "235 Rue L\u00e9on Foucault, Parc de la Duranne, 13100 Aix-en-Provence"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "\u00e9chographie",
+                "ultrasons",
+                "imagerie logicielle",
+                "h\u00e9patologie"
+            ]
+        },
+        {
+            "Name": "AutoForm France",
+            "url": "https://www.autoform.com/fr",
+            "Description": "Filiale fran\u00e7aise (\u00c9guilles, pr\u00e8s d'Aix) de l'\u00e9diteur suisse AutoForm, logiciels de simulation de la mise en forme de t\u00f4le et de l'assemblage de caisse en blanc (jumeau num\u00e9rique du process).",
+            "Place": [
+                {
+                    "City": "\u00c9guilles",
+                    "Coordinates": [
+                        43.5464,
+                        5.3582
+                    ],
+                    "SIREN": "440393825",
+                    "Address": "380 Rue Obsidienne, 13510 \u00c9guilles"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "emboutissage",
+                "simulation par \u00e9l\u00e9ments finis",
+                "caisse en blanc",
+                "jumeau num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "C2Care",
+            "url": "https://c2.care/",
+            "Description": "\u00c9diteur varois d'une plateforme de r\u00e9alit\u00e9 virtuelle pour les professionnels de la sant\u00e9 mentale : biblioth\u00e8que de plus de 250 situations d'exposition 3D (phobies, addictions, relaxation) utilis\u00e9e par 350 \u00e9tablissements.",
+            "Place": [
+                {
+                    "City": "Sanary-sur-Mer",
+                    "Coordinates": [
+                        43.11822,
+                        5.7982
+                    ],
+                    "SIREN": "815196332",
+                    "Address": "101 Avenue Desmazures, \u00celot Les Picoti\u00e8res, 83110 Sanary-sur-Mer"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "th\u00e9rapie par r\u00e9alit\u00e9 virtuelle",
+                "phobies",
+                "sant\u00e9 mentale",
+                "environnements 3D"
+            ]
+        },
+        {
+            "Name": "IMRA Europe",
+            "url": "https://www.imra.eu/",
+            "Description": "Centre de recherche europ\u00e9en du groupe japonais Aisin, install\u00e9 \u00e0 Sophia Antipolis depuis 1986, qui m\u00e8ne des travaux en vision par ordinateur et apprentissage profond pour les v\u00e9hicules (pr\u00e9diction, vision neuromorphique).",
+            "Place": [
+                {
+                    "City": "Valbonne",
+                    "Coordinates": [
+                        43.61958,
+                        7.05765
+                    ],
+                    "SIREN": "338457625",
+                    "Address": "220 Rue Albert Caquot, Sophia Antipolis, 06560 Valbonne"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "vision par ordinateur",
+                "deep learning",
+                "v\u00e9hicule autonome",
+                "R&D Aisin"
+            ]
+        },
+        {
+            "Name": "Softway Medical Imaging",
+            "url": "https://www.groupesoftwaymedical.com/notre-offre-pour-limagerie-medicale/",
+            "Description": "Entit\u00e9 imagerie du groupe Softway Medical \u00e0 Fuveau, \u00e9ditrice de solutions de radiologie : RIS, PACS et VNA Synapse, visualisation et post-traitement avanc\u00e9 d'images m\u00e9dicales, outils d'IA pour radiologues.",
+            "Place": [
+                {
+                    "City": "Fuveau",
+                    "Coordinates": [
+                        43.47803,
+                        5.5439
+                    ],
+                    "SIREN": "342504297",
+                    "Address": "29 All\u00e9e Saint-Jean, B\u00e2timent D, Art\u00e9parc, 13710 Fuveau"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "PACS",
+                "radiologie",
+                "post-traitement",
+                "imagerie m\u00e9dicale"
+            ]
+        },
+        {
+            "Name": "IMV Imaging France",
+            "url": "https://www.imv-imaging.com/",
+            "Description": "Filiale angoumoisine du groupe IMV Technologies (marque Vet Solutions), sp\u00e9cialis\u00e9e dans les \u00e9quipements d'imagerie diagnostique v\u00e9t\u00e9rinaire (\u00e9chographes, radiologie).",
+            "Place": [
+                {
+                    "City": "Angoul\u00eame",
+                    "Coordinates": [
+                        45.65142,
+                        0.16841
+                    ],
+                    "SIREN": "800923740",
+                    "Address": "126 Boulevard de la R\u00e9publique, 16000 Angoul\u00eame"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "imagerie v\u00e9t\u00e9rinaire",
+                "\u00e9chographie",
+                "radiologie",
+                "\u00e9quipements m\u00e9dicaux"
+            ]
+        },
+        {
+            "Name": "XT-Vision",
+            "url": "https://www.xt-vision.com/",
+            "Description": "Concepteur ciotaden de machines de contr\u00f4le qualit\u00e9 par vision industrielle pour les lignes d'embouteillage (contr\u00f4le du verre, du bouchage, de l'\u00e9tiquetage \u00e0 360\u00b0, \u00e9jecteurs).",
+            "Place": [
+                {
+                    "City": "La Ciotat",
+                    "Coordinates": [
+                        43.20638,
+                        5.60026
+                    ],
+                    "SIREN": "529949901",
+                    "Address": "Immeuble Le Panorama, B\u00e2timent A, Avenue des Gen\u00e9vriers, 13600 La Ciotat"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 7,
+            "Keywords": [
+                "vision industrielle",
+                "contr\u00f4le qualit\u00e9",
+                "embouteillage",
+                "cam\u00e9ras"
+            ]
+        },
+        {
+            "Name": "Circus",
+            "url": "https://circus.fr/",
+            "Description": "Studio d'effets visuels et d'animation cr\u00e9\u00e9 en 2008 \u00e0 Paris, avec un second studio \u00e0 Avignon : cin\u00e9ma, s\u00e9ries anim\u00e9es, publicit\u00e9, parcs \u00e0 th\u00e8me et documentaires (clip anim\u00e9 Dungeon & Fighter pour Tencent), plus de 70 personnes et un pipeline d\u00e9velopp\u00e9 en interne.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86659,
+                        2.37902
+                    ],
+                    "SIREN": "793842634",
+                    "Address": "4 Cit\u00e9 Griset, 75011 Paris"
+                },
+                {
+                    "City": "Avignon",
+                    "Coordinates": [
+                        43.94776,
+                        4.80419
+                    ],
+                    "SIREN": "793842634",
+                    "Address": "3 Rue de la Petite Calade, 84000 Avignon"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://circus.fr/jobs/",
+            "Employees": 70,
+            "Keywords": [
+                "effets visuels",
+                "animation 3D",
+                "s\u00e9ries anim\u00e9es",
+                "pipeline"
+            ]
+        },
+        {
+            "Name": "Naval Group",
+            "url": "https://www.naval-group.com/fr",
+            "Description": "Groupe fran\u00e7ais de construction navale de d\u00e9fense dont le site d'Ollioules (Technop\u00f4le de la Mer) est la r\u00e9f\u00e9rence pour les technologies num\u00e9riques des navires et sous-marins : jumeaux num\u00e9riques 3D, environnements de bord visitables en r\u00e9alit\u00e9 virtuelle, logiciels de simulation.",
+            "Place": [
+                {
+                    "City": "Ollioules",
+                    "Coordinates": [
+                        43.12429,
+                        5.86879
+                    ],
+                    "SIREN": "441133808",
+                    "Address": "199 Avenue Pierre-Gilles de Gennes, Technop\u00f4le de la Mer, 83190 Ollioules"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "VR/AR",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Jobs": "https://www.naval-group.com/fr/carrieres",
+            "Employees": 17000,
+            "Keywords": [
+                "jumeau num\u00e9rique",
+                "r\u00e9alit\u00e9 virtuelle",
+                "simulation navale",
+                "sous-marins"
+            ]
+        },
+        {
+            "Name": "TotalEnergies OneTech (CSTJF)",
+            "url": "https://cstjf-pau.totalenergies.fr/",
+            "Description": "Centre scientifique et technique Jean-F\u00e9ger de TotalEnergies \u00e0 Pau : R&D en imagerie sismique et du sous-sol, mod\u00e9lisation 3D des r\u00e9servoirs (logiciel interne Sismage-CIG) et calcul haute performance (supercalculateur Pangea).",
+            "Place": [
+                {
+                    "City": "Pau",
+                    "Coordinates": [
+                        43.32003,
+                        -0.31348
+                    ],
+                    "SIREN": "844435883",
+                    "Address": "Centre Scientifique et Technique Jean F\u00e9ger, Avenue Larribau, 64000 Pau"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Mod\u00e9lisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "\u00c9nergie/Environnement",
+                "G\u00e9ospatial/Cartographie"
+            ],
+            "Jobs": "https://jobs.totalenergies.com/",
+            "Employees": 2500,
+            "Keywords": [
+                "imagerie sismique",
+                "g\u00e9osciences",
+                "mod\u00e9lisation 3D de r\u00e9servoirs",
+                "HPC"
+            ]
+        },
+        {
+            "Name": "Reuniwatt",
+            "url": "https://reuniwatt.com/",
+            "Description": "Entreprise r\u00e9unionnaise fond\u00e9e en 2009, sp\u00e9cialis\u00e9e dans l'observation des nuages et la pr\u00e9vision solaire : imageur infrarouge plein ciel Sky InSight, cam\u00e9ra Sky Cam Vision, traitement d'images satellites (SunSat) et pr\u00e9visions pour le photovolta\u00efque.",
+            "Place": [
+                {
+                    "City": "Saint-Denis (La R\u00e9union)",
+                    "Coordinates": [
+                        -20.90366,
+                        55.49506
+                    ],
+                    "SIREN": "518919345",
+                    "Address": "ZAC Foucherolles, 14 Rue de la Guadeloupe, 97400 Saint-Denis"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Acquisition",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "\u00c9nergie/Environnement",
+                "G\u00e9ospatial/Cartographie"
+            ],
+            "Jobs": "https://reuniwatt.com/en/leader-cloud-observation-forecasting/careers/",
+            "Employees": 35,
+            "Keywords": [
+                "imageur plein ciel",
+                "imagerie satellite",
+                "pr\u00e9vision solaire",
+                "t\u00e9l\u00e9d\u00e9tection"
+            ]
+        },
+        {
+            "Name": "Mirage Creative Lab",
+            "url": "https://miragecreativelab.com/",
+            "Description": "Studio de jeu vid\u00e9o familial corse, auteur de LOCKDOWN Protocol, jeu de d\u00e9duction sociale multijoueur \u00e0 la premi\u00e8re personne sorti sur Steam et mis \u00e0 jour r\u00e9guli\u00e8rement (versions 1.1 \u00e0 1.3 fin 2025).",
+            "Place": [
+                {
+                    "City": "Eccica-Suarella",
+                    "Coordinates": [
+                        41.91686,
+                        8.85763
+                    ],
+                    "SIREN": "981223050",
+                    "Address": "116 Chjassu d'Olivaggio, 20117 Eccica-Suarella"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "jeu ind\u00e9pendant",
+                "multijoueur",
+                "d\u00e9duction sociale",
+                "PC/Steam"
+            ]
+        },
+        {
+            "Name": "Bluecham",
+            "url": "https://www.bluecham.net/",
+            "Description": "Soci\u00e9t\u00e9 cal\u00e9donienne fond\u00e9e en 2008 qui traite l'imagerie satellitaire (dont Pl\u00e9iades) par traitement du signal et IA pour des plateformes g\u00e9ospatiales d'aide \u00e0 la d\u00e9cision (Q\u00cbHNEL\u00d6, QVX) : risques naturels, environnement, mines, lagons.",
+            "Place": [
+                {
+                    "Country": "France",
+                    "City": "Noum\u00e9a (Nouvelle-Cal\u00e9donie)",
+                    "Address": "101 Promenade Roger Laroque, 98807 Noum\u00e9a"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "\u00c9nergie/Environnement"
+            ],
+            "Keywords": [
+                "t\u00e9l\u00e9d\u00e9tection",
+                "imagerie satellite",
+                "SIG",
+                "Nouvelle-Cal\u00e9donie"
+            ]
+        },
+        {
+            "Name": "Karukera Studio",
+            "url": "https://www.karukerastudio.com/",
+            "Description": "Studio guadeloup\u00e9en cr\u00e9\u00e9 en 2023 de production audiovisuelle et d'exp\u00e9riences immersives : virtual production, plateau fond vert de 44 m\u00b2, XR, capture de mouvement.",
+            "Place": [
+                {
+                    "City": "Baie-Mahault (Guadeloupe)",
+                    "Coordinates": [
+                        16.23202,
+                        -61.639
+                    ],
+                    "SIREN": "980942817",
+                    "Address": "Calvaire Dumonter, Impasse Ramlall, 97122 Baie-Mahault"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Acquisition",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 2,
+            "Keywords": [
+                "virtual production",
+                "fond vert",
+                "motion capture",
+                "XR"
+            ]
+        },
+        {
+            "Name": "Imascap",
+            "url": "https://www.imascap.com/",
+            "Description": "\u00c9diteur brestois (groupe Stryker, ex-Wright Medical) de logiciels de reconstruction 3D de l'\u00e9paule \u00e0 partir du scanner, de planification pr\u00e9op\u00e9ratoire et de navigation guid\u00e9e (technologie du logiciel Blueprint).",
+            "Place": [
+                {
+                    "City": "Plouzan\u00e9",
+                    "Coordinates": [
+                        48.35788,
+                        -4.56543
+                    ],
+                    "SIREN": "518584024",
+                    "Address": "145 Rue Ren\u00e9 Descartes, 29280 Plouzan\u00e9"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Reconstruction",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "planification chirurgicale 3D",
+                "\u00e9paule",
+                "segmentation scanner",
+                "navigation chirurgicale",
+                "Stryker"
+            ]
+        },
+        {
+            "Name": "Faubourg",
+            "url": "https://faubourg.tv/",
+            "Description": "Studio VFX boutique parisien (division de Firm studio) : supervision de tournage, animation 2D/3D, simulations 3D, matte-painting et environnements CG pour la publicit\u00e9 (Renault, Peugeot, Dacia) et le cin\u00e9ma (Fant\u00f4mas).",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.871862,
+                        2.348919
+                    ],
+                    "SIREN": "878018613",
+                    "Address": "40 Rue de l'\u00c9chiquier, 75010 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Simulation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "VFX",
+                "publicit\u00e9",
+                "matte-painting",
+                "simulations 3D",
+                "France VFX"
+            ]
+        },
+        {
+            "Name": "Celsius Online",
+            "url": "https://www.celsius-online.com/",
+            "Description": "Studio parisien de jeux en ligne et mobiles fond\u00e9 en 2004 (Renaissance Kingdoms, Mutants: Genetic Gladiators, Les Loups-Garous de Thiercelieux Online), filiale de Plug In Digital depuis 2023, une trentaine de personnes.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86608,
+                        2.32945
+                    ],
+                    "SIREN": "481345445",
+                    "Address": "229 Rue Saint-Honor\u00e9, 75001 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 30,
+            "Keywords": [
+                "jeu mobile",
+                "jeu en ligne",
+                "free-to-play",
+                "Plug In Digital"
+            ]
+        },
+        {
+            "Name": "Voodoo",
+            "url": "https://voodoo.io/",
+            "Description": "\u00c9diteur et d\u00e9veloppeur parisien de jeux mobiles (hyper-casual et casual, studios internes et partenaires) et d'applications grand public (BeReal), parmi les plus t\u00e9l\u00e9charg\u00e9s au monde.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86437,
+                        2.34403
+                    ],
+                    "SIREN": "792483307",
+                    "Address": "59 Rue Jean-Jacques Rousseau, 75001 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "jeux mobiles",
+                "hyper-casual",
+                "\u00e9dition de jeux",
+                "Unity"
+            ]
+        },
+        {
+            "Name": "Homa",
+            "url": "https://www.homagames.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur parisien de jeux mobiles qui fournit aux cr\u00e9ateurs des outils data (Homa Lab, SDK, analyse de march\u00e9) et produit ses propres titres.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.87029,
+                        2.3509
+                    ],
+                    "SIREN": "853547644",
+                    "Address": "18 Boulevard de Bonne-Nouvelle, 75010 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "jeux mobiles",
+                "\u00e9dition",
+                "outils de production",
+                "data"
+            ]
+        },
+        {
+            "Name": "Opus Major",
+            "url": "https://www.opusmajor.io/",
+            "Description": "Studio parisien fond\u00e9 en 2023 par d'anciens de Gameloft et Madbox, qui d\u00e9veloppe un jeu multijoueur centr\u00e9 sur la musique (Opus #1) apr\u00e8s une lev\u00e9e de 10 M$ en 2025.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86017,
+                        2.34619
+                    ],
+                    "SIREN": "922671268",
+                    "Address": "15 Rue des Halles, 75001 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "jeu multijoueur",
+                "musique",
+                "studio ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Voxler",
+            "url": "https://www.voxler.fr",
+            "Description": "Studio parisien (groupe THQ Nordic) sp\u00e9cialis\u00e9 dans les jeux musicaux et de karaok\u00e9 sur console (s\u00e9rie Let's Sing depuis 2012, Let's Get Fit), avec reconnaissance vocale propre.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.84994,
+                        2.37994
+                    ],
+                    "SIREN": "484440243",
+                    "Address": "8 Passage Br\u00fblon, 75012 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "karaok\u00e9",
+                "jeux musicaux",
+                "console",
+                "THQ Nordic"
+            ]
+        },
+        {
+            "Name": "Hawkswell",
+            "url": "https://store.steampowered.com/app/2718100/",
+            "Description": "Studio parisien de v\u00e9t\u00e9rans du jeu vid\u00e9o qui d\u00e9veloppe Legends of Awen: Rise of the Fianna, RPG narratif solo dans un univers m\u00e9di\u00e9val d'inspiration celtique.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.82796,
+                        2.37364
+                    ],
+                    "SIREN": "899973994",
+                    "Address": "64 Rue du Dessous des Berges, 75013 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "RPG",
+                "narratif",
+                "studio ind\u00e9pendant"
             ]
         }
     ]

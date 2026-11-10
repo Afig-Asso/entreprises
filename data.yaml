@@ -896,6 +896,10 @@
       Coordinates: [48.83642, 2.48247]
       SIREN: '499061638'
       Address: 1 avenue de Lattre de Tassigny, 94130 Nogent-sur-Marne
+    - City: Castelnau-le-Lez
+      Coordinates: [43.62923, 3.8973]
+      SIREN: '922721485'
+      Address: 26 Rue du Prado, 34170 Castelnau-le-Lez
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo]
   Keywords: [édition de jeux, AA, console/PC, Space Marine 2, A Plague Tale]
@@ -951,6 +955,10 @@
       Coordinates: [48.84519, 2.41746]
       SIREN: '834105470'
       Address: 14 Avenue du General de Gaulle, 94160 Saint-Mandé
+    - City: La Tronche
+      Coordinates: [45.19776, 5.75003]
+      SIREN: '810205799'
+      Address: 5 Avenue du Grand Sablon, 38700 La Tronche
   Jobs: https://www.gleamer.ai/jobs
   Scientific-domain: [Imagerie, Vision]
   Application-domain: [Médical/Biologique]
@@ -1018,6 +1026,10 @@
   url: https://hexagon.com/
   Description: 'Groupe suédois de technologies de mesure et de géospatial (Leica Geosystems, Intergraph) : métrologie, scanners laser, positionnement, logiciels pour l''industrie et les infrastructures.'
   Place:
+    - City: Vendôme
+      Coordinates: [47.77705, 1.06963]
+      SIREN: '326767597'
+      Address: 179 Rue Benjamin Franklin, 41100 Vendôme
     - Country: Suède
       City: Stockholm
   Jobs: https://hexagon.com/about/careers
@@ -1994,6 +2006,10 @@
       Coordinates: [45.65925, 0.14224]
       SIREN: '528048820'
       Address: 121 rue de Saintes, 16000 Angoulême
+    - City: Angoulême
+      Coordinates: [45.65509, 0.16185]
+      SIREN: '492992227'
+      Address: 12 Rue Amiral Renaudin, 16000 Angoulême
   Scientific-domain: [Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [séries d'animation, long métrage, animation 2D, animation 3D]
@@ -2996,6 +3012,10 @@
       Coordinates: [48.85942, 2.37772]
       SIREN: '491420808'
       Address: '95 Boulevard Voltaire, 75011 Paris'
+    - City: Montpellier
+      Coordinates: [43.60266, 3.86283]
+      SIREN: '491420808'
+      Address: 30 Rue Germaine Richier, 34070 Montpellier
     - Country: Canada
       City: Montréal
   Jobs: https://mathematic.tv/contact/careers/
@@ -3084,6 +3104,10 @@
   url: https://www.gaoshanpictures.com
   Description: Studio d'animation 3D ayant participé à des longs métrages (Mars Express, J'ai perdu mon corps).
   Place:
+    - City: Annecy
+      Coordinates: [45.90791, 6.10197]
+      SIREN: '937843845'
+      Address: 1 Esplanade Augustin Aussedat, 74960 Annecy
     - Country: France
       City: Saint-Paul (La Réunion)
       Coordinates: [-21.05823, 55.23239]
@@ -3297,6 +3321,10 @@
       Coordinates: [48.86959, 2.34775]
       SIREN: '807743844'
       Address: 19-21 19 Rue Poissonniere, 75002 Paris
+    - City: Annecy
+      Coordinates: [45.90791, 6.10197]
+      SIREN: '807743844'
+      Address: 1 Esplanade Augustin Aussedat, 74960 Annecy
   Jobs: https://careers.madbox.io/
   Scientific-domain: [Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
@@ -7441,6 +7469,10 @@
       Coordinates: [48.87097, 2.30586]
       SIREN: '832172175'
       Address: 128 Rue La Boëtie, 75008 Paris
+    - City: Tours
+      Coordinates: [47.39272, 0.66988]
+      SIREN: '832172175'
+      Address: 49 Boulevard Preuilly, 37000 Tours
   Scientific-domain: [VR/AR, Web/Cloud/Big Data, Acquisition]
   Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
   Keywords: [réalité virtuelle, vidéo 360, formation immersive, serious game, IA générative]
@@ -8494,6 +8526,10 @@
       Coordinates: [47.23147, -1.62578]
       SIREN: '434107769'
       Address: 13 Impasse Serge Reggiani, 44800 Saint-Herblain
+    - City: Nancy
+      Coordinates: [48.68808, 6.18913]
+      SIREN: '531898716'
+      Address: 114 Rue Charles III, 54000 Nancy
   Jobs: https://www.banook.com/about/careers
   Scientific-domain: [Imagerie, Analyse de données]
   Application-domain: [Médical/Biologique]
@@ -11580,6 +11616,10 @@
   url: https://www.teledynevisionsolutions.com/
   Description: Fabricant waterlooïen de caméras, capteurs d'image et logiciels de vision industrielle (caméras Falcon, Linea, Genie, bibliothèque Sapera, imagerie spatiale et médicale), filiale de Teledyne depuis 2011.
   Place:
+    - City: Saint-Égrève
+      Coordinates: [45.24277, 5.68056]
+      SIREN: '341470656'
+      Address: 4 Rue de Rocheplaine, 38120 Saint-Égrève
     - Country: Canada
       City: Waterloo
       Coordinates: [43.50743, -80.52796]
@@ -13972,3 +14012,1113 @@
   Scientific-domain: [Design/Fabrication, Modélisation, Acquisition]
   Application-domain: [Automobile/Navigation/Aviation]
   Keywords: [design automobile, concept-cars, numérisation 3D, General Motors]
+
+- Name: Runes Studio
+  url: https://runes-studio.com/
+  Description: Studio de jeu vidéo caennais fondé en 2020 par des anciens d'autres studios, qui développe des jeux pour core-gamers (Battle Goblin's, arène multijoueur ; Wardens of Avalon annoncé pour 2027), soutenu par la Région Normandie et le CNC.
+  Place:
+    - City: Caen
+      Coordinates: [49.17759, -0.34937]
+      SIREN: '881482863'
+      Address: 15 Avenue Pierre Mendès France, 14000 Caen
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 35
+  Keywords: [jeu vidéo, Unity, multijoueur, technical art]
+
+- Name: ADCIS
+  url: https://www.adcis.net/
+  Description: Éditeur normand de logiciels de vision par ordinateur et d'analyse d'images depuis 1995 (suite Aphelion, solutions d'ophtalmologie OphtAI, stéréologie), pour la santé et l'industrie (contrôle qualité, matériaux, microélectronique) ; filiale du groupe Evolucare.
+  Place:
+    - City: Saint-Contest
+      Coordinates: [49.20429, -0.39504]
+      SIREN: '401596846'
+      Address: 3 Rue Martin Luther King, 14280 Saint-Contest
+  Scientific-domain: [Vision, Imagerie, IA générative (image/3D)]
+  Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [analyse d'images, Aphelion, ophtalmologie, contrôle qualité, IA]
+
+- Name: Keyveo
+  url: https://www.keyveo.com/
+  Description: 'Entreprise rouennaise fondée en 2014, spécialisée dans les technologies immersives pour les entreprises et collectivités : réalité virtuelle, augmentée et mixte, configurateurs 3D, web 3D (WebGL), visites virtuelles 360° (plateforme KVT) et maquettes BIM ; références Renault, Areva, CCI Rouen.'
+  Place:
+    - City: Le Petit-Quevilly
+      Coordinates: [49.42859, 1.06561]
+      SIREN: '808242770'
+      Address: Seine Innopolis, 72 Rue de la République, 76140 Le Petit-Quevilly
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game, Commerce/Marketing/Publicité]
+  Employees: 20
+  Keywords: [réalité virtuelle, configurateur 3D, WebGL, visite virtuelle, serious game]
+
+- Name: NeoXperiences
+  url: https://www.neoxperiences.com/
+  Description: Créateur caennais d'aires de jeu immersives et interactives (murs interactifs projetés, réalité augmentée) pour les parcs de loisirs, l'éducation, le sport et l'événementiel, avec une ludothèque de jeux renouvelée.
+  Place:
+    - City: Carpiquet
+      Coordinates: [49.19397, -0.44904]
+      SIREN: '839361508'
+      Address: Bâtiment 152, Rue de la Vigne, 14650 Carpiquet
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, IHM/Haptique]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Jeu Vidéo]
+  Employees: 15
+  Keywords: [mur interactif, réalité augmentée, jeux immersifs, loisirs]
+
+- Name: Datexim
+  url: https://datexim.ai/
+  Description: Société caennaise de pathologie numérique qui développe CytoProcessor, solution d'analyse d'images de lames de cytologie par IA pour le dépistage du cancer du col de l'utérus (certifiée IVD, plus d'un million de lames traitées).
+  Place:
+    - City: Caen
+      Coordinates: [49.18371, -0.37081]
+      SIREN: '529479842'
+      Address: 24-26 Rue Saint-Martin, 14000 Caen
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Médical/Biologique]
+  Employees: 15
+  Keywords: [cytologie numérique, pathologie numérique, IA, dépistage du cancer]
+
+- Name: My Serious Game
+  url: https://www.my-serious-game.com/
+  Description: 'Studio tourangeau de formation digitale sur mesure : serious games, simulations 3D, réalité virtuelle et augmentée et simulateurs conversationnels à avatars IA (Croix-Rouge, Université de Reims).'
+  Place:
+    - City: Tours
+      Coordinates: [47.39209, 0.68789]
+      SIREN: '804673754'
+      Address: 1 Rue Gambetta, 37000 Tours
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game]
+  Jobs: https://www.my-serious-game.com/carriere
+  Employees: 40
+  Keywords: [serious game, réalité virtuelle, simulation 3D, e-learning]
+
+- Name: Elokence
+  url: https://www.elokence.com/
+  Description: Éditeur chartrain de jeux et de solutions de dialogue homme-machine, créateur du jeu Akinator (le génie devineur, sur mobile, web et assistants vocaux).
+  Place:
+    - City: Chartres
+      Coordinates: [48.44511, 1.53862]
+      SIREN: '501030316'
+      Address: 10 Avenue Gustave Eiffel, 28000 Chartres
+  Scientific-domain: [IHM/Haptique, Autres]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Employees: 15
+  Keywords: [Akinator, jeu mobile, dialogue homme-machine, IA]
+
+- Name: Conscience Robotics
+  url: https://conscience-robotics.com/
+  Description: Concepteur normand de robots autonomes (traçage au sol, inspection, surveillance de patients, robot bipède en R&D) avec son système Conscience OS et Conscience Studio pour la conception et la simulation de missions ; primé au challenge CoHoMa III 2025.
+  Place:
+    - City: Hérouville-Saint-Clair
+      Coordinates: [49.21504, -0.35486]
+      SIREN: '833236995'
+      Address: Bâtiment Odyssée, 4 Avenue de Cambridge, 14200 Hérouville-Saint-Clair
+  Scientific-domain: [Vision, Simulation, Reconstruction]
+  Application-domain: [Robotique/Systèmes autonomes, Sécurité/Défense]
+  Employees: 15
+  Keywords: [robotique, perception, cartographie, simulation de missions]
+
+- Name: Vermon
+  url: https://www.vermon.com/
+  Description: Fabricant tourangeau de transducteurs et sondes ultrasonores sur mesure pour l'imagerie médicale et le contrôle non destructif (plus de 250 000 sondes par an), à la tête de Vermon Group depuis 2026 (TransducerWorks, Moduleus, Vermon NDT).
+  Place:
+    - City: Tours
+      Coordinates: [47.37671, 0.67633]
+      SIREN: '329310395'
+      Address: 67 Rue Fromentel, 37000 Tours
+  Scientific-domain: [Imagerie, Acquisition, Hardware]
+  Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO]
+  Employees: 350
+  Keywords: [échographie, transducteurs ultrasonores, imagerie médicale, OEM]
+
+- Name: BIM&CO
+  url: https://www.bimandco.com/
+  Description: Éditeur normand d'une plateforme d'objets BIM (bibliothèque de milliers d'objets 3D de fabricants et gestion de données produits) pour l'architecture et la construction.
+  Place:
+    - City: Saint-Romain-de-Colbosc
+      Coordinates: [49.52045, 0.34767]
+      SIREN: '810000943'
+      Address: Parc Éco Normandie, 76430 Saint-Romain-de-Colbosc
+  Scientific-domain: [Modélisation, Design/Fabrication, Web/Cloud/Big Data]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Employees: 35
+  Keywords: [BIM, objets 3D, maquette numérique, construction]
+
+- Name: Compusoft France
+  url: https://www.compusoftgroup.com/fr/
+  Description: Filiale française de Compusoft (groupe Cyncly) qui édite et distribue les logiciels de conception 3D de cuisines et salles de bains Winner Flex, Innoplus et 3CAD.
+  Place:
+    - City: Lunéville
+      Coordinates: [48.58404, 6.47815]
+      SIREN: '400272282'
+      Address: 42 Rue de Rozelieures, 54300 Lunéville
+  Scientific-domain: [Design/Fabrication, Modélisation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
+  Jobs: https://www.compusoftgroup.com/fr/carriere/
+  Employees: 35
+  Keywords: [conception 3D, cuisine, salle de bains, configurateur]
+
+- Name: Flying Oak Games
+  url: https://flying-oak.com/
+  Description: Studio de jeu vidéo indépendant fondé en 2014, spécialisé dans les jeux d'action (NeuroVoider, ScourgeBringer, Knuckle Paradise) et le portage console (optimisations d'Absolum en 2025).
+  Place:
+    - City: Metz
+      Coordinates: [49.13883, 6.15538]
+      SIREN: '889295390'
+      Address: 144 Route de Woippy, 57050 Metz
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 2
+  Keywords: [jeu indépendant, action, portage console, pixel art]
+
+- Name: Lozange Lab
+  url: https://www.lozange-lab.com/
+  Description: Studio de jeux indépendants et d'installations interactives créé en 2014 (Swim Out, Rip Them Off, The Unic), qui assure aussi des portages mobile et console.
+  Place:
+    - City: Metz
+      Coordinates: [49.1185, 6.18462]
+      SIREN: '805067212'
+      Address: 32 B Boulevard André Maginot, 57000 Metz
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Art/Evenementiel]
+  Employees: 2
+  Keywords: [jeu indépendant, puzzle, portage, installation interactive]
+
+- Name: Human Games
+  url: https://www.humangames.tv/
+  Description: Studio nancéien d'expériences de réalité virtuelle pour la formation et la prévention (VisioBuild HSE, UrbanVR) qui s'oriente depuis 2024 vers les assistants conversationnels ; rattaché au groupe Actibac fin 2025.
+  Place:
+    - City: Nancy
+      Coordinates: [48.70074, 6.1877]
+      SIREN: '512465691'
+      Address: 16 Rue de Regnieville, 54000 Nancy
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game]
+  Employees: 4
+  Keywords: [réalité virtuelle, serious game, formation, prévention]
+
+- Name: i-Virtual
+  url: https://www.i-virtual.fr/
+  Description: Éditeur messin de Saphere, moteur de mesure des signes vitaux à partir de la vidéo (rPPG) d'un simple selfie, intégré par API dans des applications de santé et d'assurance.
+  Place:
+    - City: Metz
+      Coordinates: [49.11137, 6.17527]
+      SIREN: '807466693'
+      Address: 19 Avenue Foch, 57000 Metz
+  Scientific-domain: [Vision, Imagerie]
+  Application-domain: [Médical/Biologique]
+  Employees: 15
+  Keywords: [rPPG, signes vitaux, vision par ordinateur, santé]
+
+- Name: Acreos
+  url: https://acreos.eu/
+  Description: Concepteur et fabricant de simulateurs de conduite d'engins pour la formation professionnelle (pelles, grues, poids lourds, engins portuaires, agricoles et miniers), avec plateformes de simulation et mode collaboratif.
+  Place:
+    - City: Metz
+      Coordinates: [49.10628, 6.22357]
+      SIREN: '501367759'
+      Address: 1 Rue Claude Chappe, 57070 Metz
+    - City: Morhange
+      Coordinates: [48.94763, 6.65272]
+      SIREN: '501367759'
+      Address: Pôle d'activités Centre Mosellan, 57340 Morhange
+  Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D, IHM/Haptique]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Jobs: https://acreos.eu/rejoindre-acreos/
+  Employees: 70
+  Keywords: [simulateur, engins de chantier, formation, grue]
+
+- Name: Dream Powered Games
+  url: https://store.steampowered.com/app/1608470/
+  Description: Studio de jeu vidéo mosellan, développeur du FPS Warstride Challenges publié par Focus Entertainment sur PC, PS5 et Xbox Series (2023).
+  Place:
+    - City: Diane-Capelle
+      Coordinates: [48.7251, 6.93009]
+      SIREN: '912854908'
+      Address: 7 Rue Principale, 57830 Diane-Capelle
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 4
+  Keywords: [FPS, speedrun, consoles, Focus Entertainment]
+
+- Name: Mist Studio
+  url: https://www.miststudio.fr/
+  Description: Start-up lorraine fondée en 2019 qui conçoit des expériences de réalité virtuelle et mixte pour la santé, la formation et la sensibilisation (Explore l'UniVR pour l'Université de Lorraine, PlastiXperience, IREMIA VR).
+  Place:
+    - City: Villers-lès-Nancy
+      Coordinates: [48.65578, 6.13326]
+      SIREN: '885400093'
+      Address: 1 Allée de Saint-Cloud, 54600 Villers-lès-Nancy
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game, Médical/Biologique]
+  Employees: 4
+  Keywords: [réalité virtuelle, serious game, santé, formation]
+
+- Name: Damavan Imaging
+  url: https://www.damavan-imaging.com/
+  Description: 'Concepteur troyen d''imageurs gamma (gamme Temporal : monoculaire, binoculaire, 3D) qui localisent et cartographient les sources de rayonnement pour le nucléaire et la santé.'
+  Place:
+    - City: Troyes
+      Coordinates: [48.29608, 4.07837]
+      SIREN: '808383632'
+      Address: 2 Rue des Anciennes Tanneries, 10000 Troyes
+  Scientific-domain: [Imagerie, Acquisition, Reconstruction]
+  Application-domain: [Énergie/Environnement, Médical/Biologique]
+  Employees: 4
+  Keywords: [imagerie gamma, caméra Compton, nucléaire, spectrométrie]
+
+- Name: Pixel 4D
+  url: https://www.pixel4d.fr/
+  Description: Agence ardennaise de création 3D (modélisation, impression 3D, prises de vue par drone et réalité virtuelle) pour les entreprises.
+  Place:
+    - City: Charleville-Mézières
+      Coordinates: [49.77023, 4.73992]
+      SIREN: '840319586'
+      Address: 27 Route de Saint-Laurent, 08000 Charleville-Mézières
+  Scientific-domain: [Modélisation, VR/AR]
+  Application-domain: [Commerce/Marketing/Publicité, Industrie/Manufacturing/CAO]
+  Employees: 4
+  Keywords: [3D, impression 3D, drone, réalité virtuelle]
+
+- Name: Reaali
+  url: https://www.reaali.fr/
+  Description: Studio de jeux vidéo en réalité augmentée et géolocalisés, membre d'un groupe d'entreprises créatives (Super Idée, Strong, AV Extended).
+  Place:
+    - City: Metz
+      Coordinates: [49.12167, 6.17654]
+      SIREN: '952031516'
+      Address: 15 Quai Félix Maréchal, 57000 Metz
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Employees: 4
+  Keywords: [réalité augmentée, géolocalisation, jeu mobile]
+
+- Name: '2.21'
+  url: https://www.littlebigadventure.com/
+  Description: Studio de jeux vidéo de Chantilly (société 2 Point 21) qui a développé Little Big Adventure – Twinsen's Quest, remake 3D du classique de 1994 sorti en novembre 2024 sur PC et consoles, désormais autoédité, et prépare S.Y.N.C. - One Mecha, Two Pilots (aide au prototypage Pictanovo 2025).
+  Place:
+    - City: Chantilly
+      Coordinates: [49.19212, 2.46424]
+      SIREN: '902614353'
+      Address: 20 Avenue du Maréchal Joffre, 60500 Chantilly
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 8
+  Keywords: [jeu vidéo, remake, Little Big Adventure, consoles, 3D temps réel]
+
+- Name: Audace Digital Learning
+  url: https://www.audace-digital-learning.fr/
+  Description: Agence de digital learning de Douvrin (Pas-de-Calais), active depuis 25 ans, qui conçoit des e-learnings en 2D/3D, des serious games, de l'immersive learning et une gamme de simulateurs de conduite en réalité virtuelle (ponts roulants, pont polaire nucléaire, chariots élévateurs, nacelles, grues, extinction de feu).
+  Place:
+    - City: Douvrin
+      Coordinates: [50.52553, 2.83267]
+      SIREN: '421329681'
+      Address: Parc des Industries Artois Flandres, 65 Rue de Glasgow, 62138 Douvrin
+  Scientific-domain: [VR/AR, Simulation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
+  Employees: 35
+  Keywords: [simulateur VR, serious game, formation industrielle, e-learning 3D]
+
+- Name: Homo Ludens
+  url: https://www.bloomingbusiness.games/
+  Description: 'Studio de jeux vidéo et éditeur, au siège à Liancourt (Oise), créateur du jeu de gestion Blooming Business: Casino (PC, sorti en 2023, toujours mis à jour avec DLC et playtests communautaires).'
+  Place:
+    - City: Liancourt
+      Coordinates: [49.32909, 2.46504]
+      SIREN: '877524967'
+      Address: 3 Rue Roger Duplessis, 60140 Liancourt
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [jeu vidéo, jeu de gestion, tycoon, PC]
+
+- Name: Reviatech
+  url: https://reviatech.com/
+  Description: 'Société de Venette (agglomération de Compiègne), créée en 2008, spécialisée dans les solutions de réalité virtuelle et augmentée pour l''industrie : formation (VR Industry Training), prototypage, revue de risques, showcase et traitement des phobies (Revia Phobies).'
+  Place:
+    - City: Venette
+      Coordinates: [49.40918, 2.79664]
+      SIREN: '508354917'
+      Address: Parc technologique des Rives de l'Oise, Rue des Rives de l'Oise, 60280 Venette
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO, Médical/Biologique]
+  Employees: 4
+  Keywords: [réalité virtuelle, réalité augmentée, formation, prototypage virtuel]
+
+- Name: Innoteo
+  url: https://www.innoteo.fr/
+  Description: Société de Compiègne qui édite Dimeo, solution de réalité augmentée (lunettes AR, HoloLens) et d'IA pour la formation et la maintenance industrielle, en parallèle d'une activité d'intégration Microsoft Dynamics 365 et Power BI.
+  Place:
+    - City: Compiègne
+      Coordinates: [49.41153, 2.8256]
+      SIREN: '753814045'
+      Address: 39 bis Rue de Clamart, 60200 Compiègne
+  Scientific-domain: [VR/AR]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
+  Employees: 7
+  Keywords: [réalité augmentée, maintenance industrielle, HoloLens, Dimeo]
+
+- Name: CORYS
+  url: https://www.corys.com/
+  Description: Concepteur grenoblois de simulateurs d'entraînement et d'ingénierie pour le nucléaire, le ferroviaire et l'industrie des procédés, partenaire de services d'Epic Games pour des environnements Unreal Engine ; plus de 380 ingénieurs dans le monde.
+  Place:
+    - City: Grenoble
+      Coordinates: [45.20626, 5.70219]
+      SIREN: '413851924'
+      Address: 44 Rue des Berges, 38000 Grenoble
+  Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D, Visualisation]
+  Application-domain: [Entrainement/Formation/Serious Game, Énergie/Environnement, Automobile/Navigation/Aviation]
+  Jobs: https://www.corys.com/en/home/career/
+  Employees: 380
+  Keywords: [simulateurs, formation, nucléaire, ferroviaire, Unreal Engine]
+
+- Name: Metrologic Group
+  url: https://www.metrologicdcs.com/
+  Description: Éditeur de logiciels de métrologie 3D basés sur la CAO (planification d'inspection, programmation hors ligne de machines à mesurer, robots d'inspection) et d'analyse de tolérances 3DCS, siège à Inovallée (Montbonnot).
+  Place:
+    - City: Montbonnot-Saint-Martin
+      Coordinates: [45.21619, 5.80524]
+      SIREN: '322882705'
+      Address: 26 Avenue Jean Kuntzmann, 38330 Montbonnot-Saint-Martin
+  Scientific-domain: [Design/Fabrication, Géométrie, Acquisition]
+  Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Jobs: https://careers.metrologic.group/en
+  Employees: 150
+  Keywords: [métrologie 3D, CAO, inspection, tolérancement]
+
+- Name: Visioglobe
+  url: https://visioglobe.com/
+  Description: Éditeur meylanais de cartes 3D d'intérieur et de guidage (Map Editor, SDK VisioOne avec moteur 3D propriétaire et bibliothèque WebGL) déployées dans plus de 1 000 sites (centres commerciaux, aéroports, bureaux).
+  Place:
+    - City: Meylan
+      Coordinates: [45.20684, 5.78573]
+      SIREN: '501225395'
+      Address: Le Bipode, 13 Chemin du Vieux Chêne, 38240 Meylan
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Géospatial/Cartographie, Architecture/BTP/Urbanisme]
+  Employees: 15
+  Keywords: [cartographie 3D d'intérieur, wayfinding, WebGL, SDK]
+
+- Name: Piraknights Games
+  url: https://www.piraknights.com/
+  Description: Studio de jeu vidéo savoyard (Le Bourget-du-Lac) qui développe Sintopia, jeu de gestion d'un enfer édité par Team17 sur Steam (sortie 2026).
+  Place:
+    - City: Le Bourget-du-Lac
+      Coordinates: [45.64472, 5.8686]
+      SIREN: '915350904'
+      Address: 25 Avenue Lac du Bourget, 73370 Le Bourget-du-Lac
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.piraknights.com/careers
+  Employees: 15
+  Keywords: [jeu vidéo, jeu de gestion, PC, Team17]
+
+- Name: NOG Studio
+  url: https://www.nogstudio.com/en/
+  Description: Studio créatif spécialisé Unreal Engine (éclairage, cinématiques, level art, VFX Niagara, tech art, shaders) prestataire de studios de jeu (EA, Cyanide, Don't Nod, Ember Lab) et de décors virtuels, formateur Unreal agréé.
+  Place:
+    - City: Chimilin
+      Coordinates: [45.59079, 5.57438]
+      SIREN: '831996715'
+      Address: 40 Impasse Marioni, 38490 Chimilin
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
+  Employees: 7
+  Keywords: [Unreal Engine, lighting, VFX temps réel, tech art]
+
+- Name: Ooolala
+  url: https://ooolala.fr/
+  Description: Studio d'animation 2D numérique (Harmony, TVPaint) installé au pôle de La Cartoucherie, fabricant de séries et spéciaux TV (Chien Pourri, Billy le hamster cowboy, Vee et la pomme d'or), jusqu'à 100 artistes sur site.
+  Place:
+    - City: Bourg-lès-Valence
+      Coordinates: [44.9418, 4.89919]
+      SIREN: '840233878'
+      Address: 33 Rue de Chony, 26500 Bourg-lès-Valence
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://ooolala.fr/jobs/
+  Employees: 8
+  Keywords: [animation 2D, séries TV, Harmony, TVPaint]
+
+- Name: RSA Cosmos
+  url: https://www.rsacosmos.com/
+  Description: Concepteur de planétariums numériques clés en main et du logiciel d'astronomie temps réel SkyExplorer (rendu volumétrique, rendu de planètes, dômes jusqu'en 10K), installés dans le monde entier ; associé à Konica Minolta.
+  Place:
+    - City: Sorbiers
+      Coordinates: [45.47887, 4.4492]
+      SIREN: '444574610'
+      Address: ZI de la Vaure, Rue des Mineurs, 42290 Sorbiers
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Visualisation]
+  Application-domain: [Patrimoine/Culture, Loisir Interactif/Immersion/Metavers]
+  Employees: 35
+  Keywords: [planétarium, fulldome, astronomie, rendu temps réel]
+
+- Name: Lynred
+  url: https://www.lynred.com/
+  Description: Fabricant de détecteurs infrarouges refroidis et non refroidis et de capteurs SWIR (défense, spatial, automobile, vision industrielle), siège, R&D et production à Veurey-Voroize.
+  Place:
+    - City: Veurey-Voroize
+      Coordinates: [45.26175, 5.62443]
+      SIREN: '334835709'
+      Address: Route de Valence, 38113 Veurey-Voroize
+  Scientific-domain: [Acquisition, Hardware, Imagerie]
+  Application-domain: [Sécurité/Défense, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
+  Jobs: https://lynred-career.talent-soft.com/
+  Employees: 750
+  Keywords: [infrarouge, imagerie thermique, capteurs, SWIR]
+
+- Name: Trixell
+  url: https://www.trixell.com/
+  Description: Coentreprise de Thales, Siemens Healthineers et Philips qui conçoit et produit à Moirans des détecteurs numériques plats à rayons X pour la radiologie médicale.
+  Place:
+    - City: Moirans
+      Coordinates: [45.31571, 5.59719]
+      SIREN: '411195043'
+      Address: ZI Centr'Alp, 460 Rue du Pommarin, 38430 Moirans
+  Scientific-domain: [Acquisition, Imagerie, Hardware]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.trixell.com/join-us
+  Employees: 375
+  Keywords: [rayons X, détecteurs plats, imagerie médicale]
+
+- Name: Pyxalis
+  url: https://pyxalis.com/
+  Description: Concepteur et producteur de capteurs d'image CMOS sur mesure et standards (GIGAPYX, HDPYX) pour le spatial, l'imagerie médicale, la vision industrielle et le cinéma.
+  Place:
+    - City: Moirans
+      Coordinates: [45.32021, 5.59062]
+      SIREN: '524665965'
+      Address: 170 Rue de Chatagnon, 38430 Moirans
+  Scientific-domain: [Acquisition, Hardware, Imagerie]
+  Application-domain: [Médical/Biologique, Industrie/Manufacturing/CAO, Sécurité/Défense]
+  Employees: 75
+  Keywords: [capteurs CMOS, imagerie, HDR]
+
+- Name: STMicroelectronics
+  url: https://www.st.com/
+  Description: Fabricant de semi-conducteurs dont les sites isérois développent et produisent des capteurs d'image et capteurs 3D (temps de vol, capteurs empilés VD55G4/VD65G4 fabriqués en 300 mm à Crolles), Grenoble étant le plus grand centre de R&D du groupe en France.
+  Place:
+    - City: Grenoble
+      Coordinates: [45.20354, 5.69615]
+      SIREN: '504941337'
+      Address: 12 Rue Jules Horowitz, 38000 Grenoble
+    - City: Crolles
+      Coordinates: [45.2672, 5.88386]
+      SIREN: '399395581'
+      Address: 850 Rue Jean Monnet, 38920 Crolles
+  Scientific-domain: [Acquisition, Hardware, Imagerie]
+  Application-domain: [Générique, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
+  Employees: 5000
+  Keywords: [capteurs d'image, temps de vol, semi-conducteurs]
+
+- Name: Imactis
+  url: https://imactis.com/
+  Description: Concepteur du système CT-Navigation de guidage d'aiguilles par imagerie 3D scanner pour la radiologie interventionnelle (marquage CE MDR, FDA), racheté par GE HealthCare en 2023.
+  Place:
+    - City: Saint-Martin-d'Hères
+      Coordinates: [45.18696, 5.77609]
+      SIREN: '509967030'
+      Address: 20 Rue du Tour de l'Eau, 38400 Saint-Martin-d'Hères
+  Scientific-domain: [Imagerie, Visualisation, IHM/Haptique]
+  Application-domain: [Médical/Biologique]
+  Employees: 15
+  Keywords: [navigation chirurgicale, scanner, radiologie interventionnelle]
+
+- Name: Blue Ortho
+  url: https://www.exac.com/
+  Description: Filiale d'Exactech qui conçoit à Meylan la plateforme de navigation chirurgicale ExactechGPS (épaule, genou, première navigation pour prothèse de cheville, homologuée FDA).
+  Place:
+    - City: Meylan
+      Coordinates: [45.20868, 5.78987]
+      SIREN: '509027702'
+      Address: 22 Chemin du Vieux Chêne, 38240 Meylan
+  Scientific-domain: [Visualisation, Acquisition, Imagerie]
+  Application-domain: [Médical/Biologique]
+  Employees: 75
+  Keywords: [chirurgie assistée par ordinateur, navigation, orthopédie]
+
+- Name: Evil Raptor
+  url: https://www.evilraptor.com/
+  Description: Studio indépendant de jeux d'action 3D (Pumpkin Jack, Akimbot, Far Far West en accès anticipé) installé dans l'Ain.
+  Place:
+    - City: Sulignat
+      Coordinates: [46.175, 4.96351]
+      SIREN: '889749271'
+      Address: 44 Impasse des Cerisiers, 01400 Sulignat
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 4
+  Keywords: [jeu vidéo, action-aventure, 3D, indépendant]
+
+- Name: Mycronic Saint-Égrève (ex-VIT)
+  url: https://www.mycronic.com/fr/contact-us/mycronic-saint-egreve/
+  Description: Ancienne société Vi TECHNOLOGY rachetée par Mycronic, centre de R&D mondial du groupe pour l'inspection optique automatique 3D (AOI, inspection de pâte à braser, technologie de vision Iris 3D) des cartes électroniques.
+  Place:
+    - City: Saint-Égrève
+      Coordinates: [45.24238, 5.67991]
+      SIREN: '451028567'
+      Address: Bâtiment 8, Rue Albert Einstein, 38120 Saint-Égrève
+  Scientific-domain: [Vision, Acquisition, Reconstruction]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Employees: 35
+  Keywords: [inspection optique automatique, vision 3D, AOI, électronique]
+
+- Name: Orthotaxy
+  url: https://www.jnjmedtech.com/en-NZ/velys
+  Description: Filiale de Johnson & Johnson (DePuy Synthes) à Gières, centre de R&D mondial qui a conçu le robot chirurgical VELYS pour la prothèse totale de genou (navigation par suivi optique, sans imagerie préopératoire).
+  Place:
+    - City: Gières
+      Coordinates: [45.18896, 5.77973]
+      SIREN: '514611003'
+      Address: Bâtiment Gresiclic, 2 Avenue de Vignate, 38610 Gières
+  Scientific-domain: [Acquisition, Visualisation, IHM/Haptique]
+  Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
+  Employees: 35
+  Keywords: [chirurgie robotique, navigation, orthopédie]
+
+- Name: Data Pixel
+  url: https://www.data-pixel.com/
+  Description: 'Fabricant annécien d''équipements de métrologie pour connecteurs de fibre optique : interféromètres 3D de surface (DAISI, DAFFI, 3D Scope), microscopes d''inspection et analyse d''images par IA.'
+  Place:
+    - City: Chavanod
+      Coordinates: [45.89264, 6.07652]
+      SIREN: '437632276'
+      Address: Parc Altaïs, 27 Rue Saturne, 74650 Chavanod
+  Scientific-domain: [Acquisition, Imagerie, Vision]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Employees: 35
+  Keywords: [interférométrie, métrologie 3D, inspection optique, fibre optique]
+
+- Name: InTheBox
+  url: https://www.inthebox.studio/
+  Description: Studio annécien créé en 2011 spécialisé dans la production d'animation en images de synthèse, les VFX et le développement technique, recruteur de diplômés d'écoles 3D (ESMA).
+  Place:
+    - City: Annecy
+      Coordinates: [45.89484, 6.10928]
+      SIREN: '532223328'
+      Address: Parc d'activités Les Verts Prés, 8 bis Route des Creuses, 74000 Annecy
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 7
+  Keywords: [animation 3D, VFX, images de synthèse]
+
+- Name: Intrasense
+  url: https://intrasense.fr/fr/
+  Description: 'Éditeur montpelliérain de logiciels d''imagerie médicale : plateforme de visualisation Myrian et plateforme d''IA en oncologie DUOnco (suivi des cancers sur scanner), partenaire de Guerbet.'
+  Place:
+    - City: Montpellier
+      Coordinates: [43.60629, 3.91269]
+      SIREN: '452479504'
+      Address: 1231 Avenue du Mondial 98, 34000 Montpellier
+  Scientific-domain: [Imagerie, Visualisation, Vision]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://intrasense.fr/fr/nous-rejoindre-logiciel-imagerie-medicale/
+  Employees: 70
+  Keywords: [imagerie médicale, visualisation 3D, IA oncologie, radiologie]
+
+- Name: Quantum Surgical
+  url: https://www.quantumsurgical.com/
+  Description: Medtech montpelliéraine qui développe Epione, robot d'ablation percutanée des tumeurs associant planification sur images, bras robotisé, navigation et caméra ; bureaux à Miami.
+  Place:
+    - City: Montpellier
+      Coordinates: [43.6187, 3.91905]
+      SIREN: '824393003'
+      Address: ZAC Eureka, 1000 Rue du Mas de Verchant, 34000 Montpellier
+  Scientific-domain: [Imagerie, Vision, Simulation]
+  Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
+  Jobs: https://www.quantumsurgical.com/careers
+  Employees: 130
+  Keywords: [robotique chirurgicale, navigation, planification sur images, oncologie interventionnelle]
+
+- Name: Plug In Digital
+  url: https://plugindigital.com/
+  Description: 'Distributeur et éditeur de jeux vidéo basé à Montpellier (label d''édition Dear Villagers) : distribution numérique et développement commercial pour studios indépendants et éditeurs sur PC, consoles, cloud et mobile.'
+  Place:
+    - City: Montpellier
+      Coordinates: [43.59975, 3.87079]
+      SIREN: '539019786'
+      Address: 8 B Boulevard Berthelot, 34000 Montpellier
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 75
+  Keywords: [édition de jeux vidéo, distribution numérique, Dear Villagers, jeu indépendant]
+
+- Name: Alt Shift
+  url: https://altshift.fr/
+  Description: 'Studio indépendant de jeux vidéo à Montpellier, créateur du roguelite spatial Crying Suns, du puzzle game Not Not et de Battlestar Galactica: Scattered Hopes (2026).'
+  Place:
+    - City: Montpellier
+      Coordinates: [43.60992, 3.88497]
+      SIREN: '522929686'
+      Address: Les Portes d'Antigone, 43 Place Vauban, 34000 Montpellier
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [jeu indépendant, roguelite, PC/console, stratégie]
+
+- Name: Wild Sheep Studio
+  url: https://store.steampowered.com/app/3840230/
+  Description: Studio de jeux vidéo montpelliérain cofondé en 2013 par Michel Ancel (Rayman), développeur d'Adorable Adventures (2026, édité par PQube, PC et consoles).
+  Place:
+    - City: Montpellier
+      Coordinates: [43.61496, 3.88737]
+      SIREN: '793419011'
+      Address: 310 Avenue de Saint-Maur, 34000 Montpellier
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 12
+  Keywords: [jeu d'aventure, console/PC, jeu indépendant, 3D]
+
+- Name: Studio Camelia
+  url: https://store.steampowered.com/app/2856410/
+  Description: Studio de jeux vidéo fondé en 2021 près de Montpellier (Castelnau-le-Lez), spécialisé dans le J-RPG, développeur d'Alzara Radiant Echoes.
+  Place:
+    - City: Castelnau-le-Lez
+      Coordinates: [43.62354, 3.91323]
+      SIREN: '914055496'
+      Address: 199 Rue Hélène Boucher, 34170 Castelnau-le-Lez
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [J-RPG, jeu indépendant, PC/console]
+
+- Name: Supamonks
+  url: https://www.supamonks.com/
+  Description: Studio d'animation et société de production (Arcueil) réalisant trailers et cinématiques de jeux vidéo, séries et longs métrages en animation 3D, avec deux établissements à Montpellier.
+  Place:
+    - City: Arcueil
+      Coordinates: [48.80554, 2.32772]
+      SIREN: '498413897'
+      Address: 26 Rue Berthollet, 94110 Arcueil
+    - City: Montpellier
+      Coordinates: [43.60288, 3.85841]
+      SIREN: '498413897'
+      Address: 121 Rue de Font-Couverte, 34070 Montpellier
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+  Jobs: https://www.supamonks.com/productions/jobs
+  Employees: 35
+  Keywords: [animation 3D, cinématiques, trailers de jeux, séries]
+
+- Name: Artisan Studios
+  url: https://www.artisangamestudios.com/
+  Description: Studio de jeux de rôle 2D (Astria Ascending, Lost Hellden, Super Neptunia RPG) travaillant avec des éditeurs japonais, implanté à Québec et à Mauguio près de Montpellier.
+  Place:
+    - City: Mauguio
+      Coordinates: [43.61469, 3.99945]
+      SIREN: '885299495'
+      Address: 181 Rue Marie Durand, 34130 Mauguio
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [RPG, jeu 2D, co-développement, marché japonais]
+
+- Name: Eficad
+  url: https://eficad.com/
+  Description: 'Éditeur de logiciels de FAO intégrés à SolidWorks, basé à La Grande-Motte : SWOOD (conception et fabrication pour l''agencement et le bois) et EFICN (usinage mécanique, enseignement).'
+  Place:
+    - City: La Grande-Motte
+      Coordinates: [43.56237, 4.08743]
+      SIREN: '950408765'
+      Address: Immeuble H2O, 55 Avenue de Melgueil, 34280 La Grande-Motte
+  Scientific-domain: [Design/Fabrication, Modélisation]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Employees: 35
+  Keywords: [CFAO, SolidWorks, usinage, bois et agencement]
+
+- Name: Edicad
+  url: https://www.edicad.com/
+  Description: 'Éditeur lotois de logiciels pour le bâtiment : ArchiTECH.PC (plans 2D/3D d''architecture), KutchCAD (métré et devis) et APCSmart (patrimoine immobilier).'
+  Place:
+    - City: Fontanes
+      Coordinates: [44.34414, 1.4858]
+      SIREN: '879903318'
+      Address: 250 Route des Falguières, 46230 Fontanes
+  Scientific-domain: [Design/Fabrication, Modélisation]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Employees: 15
+  Keywords: [CAO bâtiment, plans 3D, métré, logiciel d'architecture]
+
+- Name: Menhir FX
+  url: https://menhirfx.com/
+  Description: Studio d'animation 2D/3D indépendant à Montpellier, spécialisé dans la réalisation de trailers et de films d'animation.
+  Place:
+    - City: Montpellier
+      Coordinates: [43.61973, 3.82287]
+      SIREN: '844164939'
+      Address: 710 Rue Favre de Saint-Castor, 34080 Montpellier
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+  Employees: 8
+  Keywords: [animation 3D, trailers, cinématiques]
+
+- Name: Illogic Studios
+  url: https://www.illogicstudios.com/
+  Description: Studio d'animation montpelliérain réunissant des réalisateurs nommés aux Oscars, auteur de publicités (le loup d'Intermarché) et prestataire pour Illumination Mac Guff, Mikros Animation et Ubisoft.
+  Place:
+    - City: Montpellier
+      Coordinates: [43.60216, 3.88163]
+      SIREN: '842366908'
+      Address: 16 Rue Frédéric Bazille, 34000 Montpellier
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Employees: 8
+  Keywords: [animation 3D, publicité, court métrage, réalisation]
+
+- Name: Exalted Studio
+  url: https://exaltedstudio.com/
+  Description: Studio de jeux vidéo gardois (Gallargues-le-Montueux), développeur du beat'em up 3D coopératif Big Helmet Heroes.
+  Place:
+    - City: Gallargues-le-Montueux
+      Coordinates: [43.71744, 4.171]
+      SIREN: '889176574'
+      Address: 33 Avenue de la Station, 30660 Gallargues-le-Montueux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 8
+  Keywords: [beat'em up, coopération, 3D, console/PC]
+
+- Name: Temple Caché
+  url: https://www.templecache.com/
+  Description: Collectif de réalisateurs et studio créatif installé dans l'ancienne gare de Lunel, mêlant animation 2D/3D, collage et outils numériques pour clips, marques et bandes-annonces (Fortnite, Anno 117).
+  Place:
+    - City: Lunel
+      Coordinates: [43.67944, 4.13209]
+      SIREN: '839875515'
+      Address: Ancienne gare, 126 Rue de Verdun, 34400 Lunel
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Employees: 15
+  Keywords: [animation 2D/3D, clips, direction artistique, publicité]
+
+- Name: Pixel Reef
+  url: https://www.pixelreef.fr/
+  Description: Studio de jeux vidéo fondé en 2016 à Montpellier par Éric Chahi (Another World, From Dust), créateur du jeu VR Paper Beast.
+  Place:
+    - City: Montpellier
+      Coordinates: [43.62035, 3.89358]
+      SIREN: '820396588'
+      Address: 5 Rue des Martins-Pêcheurs, 34000 Montpellier
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation, VR/AR]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Employees: 10
+  Keywords: [jeu VR, simulation, jeu indépendant]
+
+- Name: Iconik
+  url: https://iconik.gg/
+  Description: 'Studio de La Ciotat qui conçoit des jeux et expériences immersives en réalité virtuelle (Little Nightmares VR: Altered Echoes avec Bandai Namco en 2026, Hunting VR, King Pong).'
+  Place:
+    - City: La Ciotat
+      Coordinates: [43.20185, 5.60032]
+      SIREN: '439293580'
+      Address: 170 Impasse du Serpolet, Zone Athélia II, 13600 La Ciotat
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Employees: 35
+  Keywords: [jeu VR, réalité virtuelle, Meta Quest, PS VR2]
+
+- Name: Olea Medical
+  url: https://www.olea-medical.com/fr/
+  Description: 'Éditeur de La Ciotat, filiale du groupe Canon, de logiciels de post-traitement et d''aide au diagnostic en imagerie médicale IRM et scanner (suite Olea Sphere : perfusion, neurovasculaire, oncologie, cardiologie).'
+  Place:
+    - City: La Ciotat
+      Coordinates: [43.20445, 5.60208]
+      SIREN: '505251355'
+      Address: 93 Impasse des Sorbiers, ZI Athélia IV, 13600 La Ciotat
+  Scientific-domain: [Imagerie, Visualisation, Vision]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.olea-medical.com/fr/recrutement/
+  Employees: 150
+  Keywords: [imagerie médicale, IRM, post-traitement, aide au diagnostic]
+
+- Name: E-Scopics
+  url: https://www.e-scopics.com/
+  Description: Start-up aixoise qui développe une échographie entièrement logicielle (plateforme Hepatoscope, quantification des propriétés des tissus) et une plateforme d'accès aux données brutes pour la recherche et les OEM.
+  Place:
+    - City: Aix-en-Provence
+      Coordinates: [43.48804, 5.3609]
+      SIREN: '841467293'
+      Address: 235 Rue Léon Foucault, Parc de la Duranne, 13100 Aix-en-Provence
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]
+  Employees: 15
+  Keywords: [échographie, ultrasons, imagerie logicielle, hépatologie]
+
+- Name: AutoForm France
+  url: https://www.autoform.com/fr
+  Description: Filiale française (Éguilles, près d'Aix) de l'éditeur suisse AutoForm, logiciels de simulation de la mise en forme de tôle et de l'assemblage de caisse en blanc (jumeau numérique du process).
+  Place:
+    - City: Éguilles
+      Coordinates: [43.5464, 5.3582]
+      SIREN: '440393825'
+      Address: 380 Rue Obsidienne, 13510 Éguilles
+  Scientific-domain: [Simulation, Design/Fabrication]
+  Application-domain: [Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [emboutissage, simulation par éléments finis, caisse en blanc, jumeau numérique]
+
+- Name: C2Care
+  url: https://c2.care/
+  Description: 'Éditeur varois d''une plateforme de réalité virtuelle pour les professionnels de la santé mentale : bibliothèque de plus de 250 situations d''exposition 3D (phobies, addictions, relaxation) utilisée par 350 établissements.'
+  Place:
+    - City: Sanary-sur-Mer
+      Coordinates: [43.11822, 5.7982]
+      SIREN: '815196332'
+      Address: 101 Avenue Desmazures, Îlot Les Picotières, 83110 Sanary-sur-Mer
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Médical/Biologique]
+  Employees: 15
+  Keywords: [thérapie par réalité virtuelle, phobies, santé mentale, environnements 3D]
+
+- Name: IMRA Europe
+  url: https://www.imra.eu/
+  Description: Centre de recherche européen du groupe japonais Aisin, installé à Sophia Antipolis depuis 1986, qui mène des travaux en vision par ordinateur et apprentissage profond pour les véhicules (prédiction, vision neuromorphique).
+  Place:
+    - City: Valbonne
+      Coordinates: [43.61958, 7.05765]
+      SIREN: '338457625'
+      Address: 220 Rue Albert Caquot, Sophia Antipolis, 06560 Valbonne
+  Scientific-domain: [Vision]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes]
+  Employees: 15
+  Keywords: [vision par ordinateur, deep learning, véhicule autonome, R&D Aisin]
+
+- Name: Softway Medical Imaging
+  url: https://www.groupesoftwaymedical.com/notre-offre-pour-limagerie-medicale/
+  Description: 'Entité imagerie du groupe Softway Medical à Fuveau, éditrice de solutions de radiologie : RIS, PACS et VNA Synapse, visualisation et post-traitement avancé d''images médicales, outils d''IA pour radiologues.'
+  Place:
+    - City: Fuveau
+      Coordinates: [43.47803, 5.5439]
+      SIREN: '342504297'
+      Address: 29 Allée Saint-Jean, Bâtiment D, Artéparc, 13710 Fuveau
+  Scientific-domain: [Imagerie, Visualisation]
+  Application-domain: [Médical/Biologique]
+  Employees: 75
+  Keywords: [PACS, radiologie, post-traitement, imagerie médicale]
+
+- Name: IMV Imaging France
+  url: https://www.imv-imaging.com/
+  Description: Filiale angoumoisine du groupe IMV Technologies (marque Vet Solutions), spécialisée dans les équipements d'imagerie diagnostique vétérinaire (échographes, radiologie).
+  Place:
+    - City: Angoulême
+      Coordinates: [45.65142, 0.16841]
+      SIREN: '800923740'
+      Address: 126 Boulevard de la République, 16000 Angoulême
+  Scientific-domain: [Imagerie, Hardware]
+  Application-domain: [Médical/Biologique]
+  Employees: 35
+  Keywords: [imagerie vétérinaire, échographie, radiologie, équipements médicaux]
+
+- Name: XT-Vision
+  url: https://www.xt-vision.com/
+  Description: Concepteur ciotaden de machines de contrôle qualité par vision industrielle pour les lignes d'embouteillage (contrôle du verre, du bouchage, de l'étiquetage à 360°, éjecteurs).
+  Place:
+    - City: La Ciotat
+      Coordinates: [43.20638, 5.60026]
+      SIREN: '529949901'
+      Address: Immeuble Le Panorama, Bâtiment A, Avenue des Genévriers, 13600 La Ciotat
+  Scientific-domain: [Vision, Acquisition]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Employees: 7
+  Keywords: [vision industrielle, contrôle qualité, embouteillage, caméras]
+
+- Name: Circus
+  url: https://circus.fr/
+  Description: 'Studio d''effets visuels et d''animation créé en 2008 à Paris, avec un second studio à Avignon : cinéma, séries animées, publicité, parcs à thème et documentaires (clip animé Dungeon & Fighter pour Tencent), plus de 70 personnes et un pipeline développé en interne.'
+  Place:
+    - City: Paris
+      Coordinates: [48.86659, 2.37902]
+      SIREN: '793842634'
+      Address: 4 Cité Griset, 75011 Paris
+    - City: Avignon
+      Coordinates: [43.94776, 4.80419]
+      SIREN: '793842634'
+      Address: 3 Rue de la Petite Calade, 84000 Avignon
+  Scientific-domain: [Rendu offline/VFX, Animation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://circus.fr/jobs/
+  Employees: 70
+  Keywords: [effets visuels, animation 3D, séries animées, pipeline]
+
+- Name: Naval Group
+  url: https://www.naval-group.com/fr
+  Description: 'Groupe français de construction navale de défense dont le site d''Ollioules (Technopôle de la Mer) est la référence pour les technologies numériques des navires et sous-marins : jumeaux numériques 3D, environnements de bord visitables en réalité virtuelle, logiciels de simulation.'
+  Place:
+    - City: Ollioules
+      Coordinates: [43.12429, 5.86879]
+      SIREN: '441133808'
+      Address: 199 Avenue Pierre-Gilles de Gennes, Technopôle de la Mer, 83190 Ollioules
+  Scientific-domain: [Simulation, VR/AR, Reconstruction]
+  Application-domain: [Sécurité/Défense, Industrie/Manufacturing/CAO]
+  Jobs: https://www.naval-group.com/fr/carrieres
+  Employees: 17000
+  Keywords: [jumeau numérique, réalité virtuelle, simulation navale, sous-marins]
+
+- Name: TotalEnergies OneTech (CSTJF)
+  url: https://cstjf-pau.totalenergies.fr/
+  Description: 'Centre scientifique et technique Jean-Féger de TotalEnergies à Pau : R&D en imagerie sismique et du sous-sol, modélisation 3D des réservoirs (logiciel interne Sismage-CIG) et calcul haute performance (supercalculateur Pangea).'
+  Place:
+    - City: Pau
+      Coordinates: [43.32003, -0.31348]
+      SIREN: '844435883'
+      Address: Centre Scientifique et Technique Jean Féger, Avenue Larribau, 64000 Pau
+  Scientific-domain: [Imagerie, Visualisation, Modélisation, Simulation]
+  Application-domain: [Énergie/Environnement, Géospatial/Cartographie]
+  Jobs: https://jobs.totalenergies.com/
+  Employees: 2500
+  Keywords: [imagerie sismique, géosciences, modélisation 3D de réservoirs, HPC]
+
+- Name: Reuniwatt
+  url: https://reuniwatt.com/
+  Description: 'Entreprise réunionnaise fondée en 2009, spécialisée dans l''observation des nuages et la prévision solaire : imageur infrarouge plein ciel Sky InSight, caméra Sky Cam Vision, traitement d''images satellites (SunSat) et prévisions pour le photovoltaïque.'
+  Place:
+    - City: Saint-Denis (La Réunion)
+      Coordinates: [-20.90366, 55.49506]
+      SIREN: '518919345'
+      Address: ZAC Foucherolles, 14 Rue de la Guadeloupe, 97400 Saint-Denis
+  Scientific-domain: [Imagerie, Vision, Acquisition, Analyse de données]
+  Application-domain: [Énergie/Environnement, Géospatial/Cartographie]
+  Jobs: https://reuniwatt.com/en/leader-cloud-observation-forecasting/careers/
+  Employees: 35
+  Keywords: [imageur plein ciel, imagerie satellite, prévision solaire, télédétection]
+
+- Name: Mirage Creative Lab
+  url: https://miragecreativelab.com/
+  Description: Studio de jeu vidéo familial corse, auteur de LOCKDOWN Protocol, jeu de déduction sociale multijoueur à la première personne sorti sur Steam et mis à jour régulièrement (versions 1.1 à 1.3 fin 2025).
+  Place:
+    - City: Eccica-Suarella
+      Coordinates: [41.91686, 8.85763]
+      SIREN: '981223050'
+      Address: 116 Chjassu d'Olivaggio, 20117 Eccica-Suarella
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 4
+  Keywords: [jeu indépendant, multijoueur, déduction sociale, PC/Steam]
+
+- Name: Bluecham
+  url: https://www.bluecham.net/
+  Description: 'Société calédonienne fondée en 2008 qui traite l''imagerie satellitaire (dont Pléiades) par traitement du signal et IA pour des plateformes géospatiales d''aide à la décision (QËHNELÖ, QVX) : risques naturels, environnement, mines, lagons.'
+  Place:
+    - Country: France
+      City: Nouméa (Nouvelle-Calédonie)
+      Address: 101 Promenade Roger Laroque, 98807 Nouméa
+  Scientific-domain: [Imagerie, Vision, Web/Cloud/Big Data]
+  Application-domain: [Géospatial/Cartographie, Énergie/Environnement]
+  Keywords: [télédétection, imagerie satellite, SIG, Nouvelle-Calédonie]
+
+- Name: Karukera Studio
+  url: https://www.karukerastudio.com/
+  Description: 'Studio guadeloupéen créé en 2023 de production audiovisuelle et d''expériences immersives : virtual production, plateau fond vert de 44 m², XR, capture de mouvement.'
+  Place:
+    - City: Baie-Mahault (Guadeloupe)
+      Coordinates: [16.23202, -61.639]
+      SIREN: '980942817'
+      Address: Calvaire Dumonter, Impasse Ramlall, 97122 Baie-Mahault
+  Scientific-domain: [VR/AR, Acquisition, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Employees: 2
+  Keywords: [virtual production, fond vert, motion capture, XR]
+
+- Name: Imascap
+  url: https://www.imascap.com/
+  Description: Éditeur brestois (groupe Stryker, ex-Wright Medical) de logiciels de reconstruction 3D de l'épaule à partir du scanner, de planification préopératoire et de navigation guidée (technologie du logiciel Blueprint).
+  Place:
+    - City: Plouzané
+      Coordinates: [48.35788, -4.56543]
+      SIREN: '518584024'
+      Address: 145 Rue René Descartes, 29280 Plouzané
+  Scientific-domain: [Imagerie, Reconstruction, Visualisation]
+  Application-domain: [Médical/Biologique]
+  Employees: 75
+  Keywords: [planification chirurgicale 3D, épaule, segmentation scanner, navigation chirurgicale, Stryker]
+
+- Name: Faubourg
+  url: https://faubourg.tv/
+  Description: 'Studio VFX boutique parisien (division de Firm studio) : supervision de tournage, animation 2D/3D, simulations 3D, matte-painting et environnements CG pour la publicité (Renault, Peugeot, Dacia) et le cinéma (Fantômas).'
+  Place:
+    - City: Paris
+      Coordinates: [48.871862, 2.348919]
+      SIREN: '878018613'
+      Address: 40 Rue de l'Échiquier, 75010 Paris
+  Scientific-domain: [Rendu offline/VFX, Simulation, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Employees: 15
+  Keywords: [VFX, publicité, matte-painting, simulations 3D, France VFX]
+
+- Name: Celsius Online
+  url: https://www.celsius-online.com/
+  Description: 'Studio parisien de jeux en ligne et mobiles fondé en 2004 (Renaissance Kingdoms, Mutants: Genetic Gladiators, Les Loups-Garous de Thiercelieux Online), filiale de Plug In Digital depuis 2023, une trentaine de personnes.'
+  Place:
+    - City: Paris
+      Coordinates: [48.86608, 2.32945]
+      SIREN: '481345445'
+      Address: 229 Rue Saint-Honoré, 75001 Paris
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 30
+  Keywords: [jeu mobile, jeu en ligne, free-to-play, Plug In Digital]
+
+- Name: Voodoo
+  url: https://voodoo.io/
+  Description: Éditeur et développeur parisien de jeux mobiles (hyper-casual et casual, studios internes et partenaires) et d'applications grand public (BeReal), parmi les plus téléchargés au monde.
+  Place:
+    - City: Paris
+      Coordinates: [48.86437, 2.34403]
+      SIREN: '792483307'
+      Address: 59 Rue Jean-Jacques Rousseau, 75001 Paris
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+  Employees: 150
+  Keywords: [jeux mobiles, hyper-casual, édition de jeux, Unity]
+
+- Name: Homa
+  url: https://www.homagames.com/
+  Description: Développeur et éditeur parisien de jeux mobiles qui fournit aux créateurs des outils data (Homa Lab, SDK, analyse de marché) et produit ses propres titres.
+  Place:
+    - City: Paris
+      Coordinates: [48.87029, 2.3509]
+      SIREN: '853547644'
+      Address: 18 Boulevard de Bonne-Nouvelle, 75010 Paris
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+  Employees: 150
+  Keywords: [jeux mobiles, édition, outils de production, data]
+
+- Name: Opus Major
+  url: https://www.opusmajor.io/
+  Description: 'Studio parisien fondé en 2023 par d''anciens de Gameloft et Madbox, qui développe un jeu multijoueur centré sur la musique (Opus #1) après une levée de 10 M$ en 2025.'
+  Place:
+    - City: Paris
+      Coordinates: [48.86017, 2.34619]
+      SIREN: '922671268'
+      Address: 15 Rue des Halles, 75001 Paris
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [jeu multijoueur, musique, studio indépendant]
+
+- Name: Voxler
+  url: https://www.voxler.fr
+  Description: Studio parisien (groupe THQ Nordic) spécialisé dans les jeux musicaux et de karaoké sur console (série Let's Sing depuis 2012, Let's Get Fit), avec reconnaissance vocale propre.
+  Place:
+    - City: Paris
+      Coordinates: [48.84994, 2.37994]
+      SIREN: '484440243'
+      Address: 8 Passage Brûlon, 75012 Paris
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, IHM/Haptique]
+  Application-domain: [Jeu Vidéo]
+  Employees: 35
+  Keywords: [karaoké, jeux musicaux, console, THQ Nordic]
+
+- Name: Hawkswell
+  url: https://store.steampowered.com/app/2718100/
+  Description: 'Studio parisien de vétérans du jeu vidéo qui développe Legends of Awen: Rise of the Fianna, RPG narratif solo dans un univers médiéval d''inspiration celtique.'
+  Place:
+    - City: Paris
+      Coordinates: [48.82796, 2.37364]
+      SIREN: '899973994'
+      Address: 64 Rue du Dessous des Berges, 75013 Paris
+  Scientific-domain: [Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [RPG, narratif, studio indépendant]
