@@ -1079,6 +1079,10 @@
             54.9626,
             -1.6019
         ],
+        "Royaume-Uni/Glasgow": [
+            55.8612,
+            -4.2502
+        ],
         "Royaume-Uni/Guildford": [
             51.2356,
             -0.5732
@@ -1086,6 +1090,10 @@
         "Royaume-Uni/Horsham": [
             51.063,
             -0.3295
+        ],
+        "Royaume-Uni/Iver": [
+            51.5193,
+            -0.5064
         ],
         "Royaume-Uni/Leamington Spa": [
             52.2913,
@@ -1159,6 +1167,10 @@
             39.7837,
             -100.4459
         ],
+        "\u00c9tats-Unis/Agoura Hills": [
+            34.1482,
+            -118.7655
+        ],
         "\u00c9tats-Unis/Atlanta": [
             33.7545,
             -84.3898
@@ -1211,6 +1223,10 @@
             33.6633,
             -117.9033
         ],
+        "\u00c9tats-Unis/Culver City": [
+            34.0211,
+            -118.3965
+        ],
         "\u00c9tats-Unis/Cupertino": [
             37.3229,
             -122.0323
@@ -1223,17 +1239,41 @@
             42.3316,
             -83.0466
         ],
+        "\u00c9tats-Unis/El Segundo": [
+            33.917,
+            -118.4156
+        ],
         "\u00c9tats-Unis/Florida": [
             27.7568,
             -81.464
+        ],
+        "\u00c9tats-Unis/Glendale": [
+            34.1469,
+            -118.2478
+        ],
+        "\u00c9tats-Unis/Irvine": [
+            33.6857,
+            -117.826
+        ],
+        "\u00c9tats-Unis/Lake Forest": [
+            33.6469,
+            -117.6892
         ],
         "\u00c9tats-Unis/Los Angeles": [
             34.0537,
             -118.2428
         ],
+        "\u00c9tats-Unis/Marina del Rey": [
+            33.9777,
+            -118.4486
+        ],
         "\u00c9tats-Unis/Menlo Park": [
             37.452,
             -122.178
+        ],
+        "\u00c9tats-Unis/Monrovia": [
+            34.1483,
+            -118.0015
         ],
         "\u00c9tats-Unis/Mount Dora": [
             28.8005,
@@ -1275,9 +1315,21 @@
             37.3541,
             -121.9552
         ],
+        "\u00c9tats-Unis/Santa Clarita": [
+            34.4128,
+            -118.5538
+        ],
         "\u00c9tats-Unis/Santa Monica": [
             34.0195,
             -118.4912
+        ],
+        "\u00c9tats-Unis/Torrance": [
+            33.8371,
+            -118.3414
+        ],
+        "\u00c9tats-Unis/Tustin": [
+            33.7459,
+            -117.8262
         ],
         "\u00c9tats-Unis/Waltham": [
             42.3762,
@@ -1665,9 +1717,7 @@
             "Place": [
                 {
                     "Country": "\u00c9tats-Unis",
-                    "City": [
-                        "Los Angeles"
-                    ]
+                    "City": "Santa Monica"
                 },
                 {
                     "Country": "Canada",
@@ -3056,7 +3106,11 @@
             "Jobs": "https://join.disneycareers.com/global/en",
             "Place": [
                 {
-                    "Country": "\u00c9tats-Unis"
+                    "Country": "\u00c9tats-Unis",
+                    "City": [
+                        "Burbank",
+                        "Glendale"
+                    ]
                 },
                 {
                     "Country": "Canada",
@@ -5846,6 +5900,10 @@
                 {
                     "Country": "Canada",
                     "City": "Toronto"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica"
                 }
             ],
             "Scientific-domain": [
@@ -5968,7 +6026,7 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "State": "California",
-                    "City": "Los Angeles"
+                    "City": "El Segundo"
                 },
                 {
                     "Country": "Royaume-Uni",
@@ -6024,6 +6082,10 @@
                 {
                     "Country": "Japon",
                     "City": "Tokyo"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Jobs": "https://stability.ai/careers",
@@ -23430,6 +23492,10 @@
                         "Toronto",
                         "Vancouver"
                     ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -23466,6 +23532,10 @@
                 {
                     "Country": "Canada",
                     "City": "Montr\u00e9al"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica"
                 }
             ],
             "Scientific-domain": [
@@ -23534,6 +23604,10 @@
                         -0.08814
                     ],
                     "Address": "White Collar Factory, Old Street Yard, London EC1Y 8AF"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Culver City"
                 }
             ],
             "Scientific-domain": [
@@ -24116,6 +24190,10 @@
                         -0.10497
                     ],
                     "Address": "Hermes House, 88-89 Blackfriars Road, London SE1 8HA"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -25608,6 +25686,10 @@
                 {
                     "Country": "Canada",
                     "City": "Vancouver"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -25919,6 +26001,10 @@
                         "Montr\u00e9al",
                         "Vancouver"
                     ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -26341,6 +26427,10 @@
                         -0.09039
                     ],
                     "Address": "3 Bunhill Row, London EC1Y 8YZ"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -26416,6 +26506,10 @@
                 {
                     "Country": "Canada",
                     "City": "Toronto"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -26455,6 +26549,10 @@
                 {
                     "Country": "Canada",
                     "City": "Toronto"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank"
                 }
             ],
             "Scientific-domain": [
@@ -26556,7 +26654,7 @@
                 },
                 {
                     "Country": "\u00c9tats-Unis",
-                    "City": "Los Angeles"
+                    "City": "Culver City"
                 }
             ],
             "Scientific-domain": [
@@ -28758,9 +28856,9 @@
             ]
         },
         {
-            "Name": "Snap (Toronto)",
+            "Name": "Snap",
             "url": "https://www.snap.com/",
-            "Description": "Bureau torontois de Snap Inc., issu du rachat de Bitstrips en 2016, qui d\u00e9veloppe Bitmoji, dont le moteur de rendu graphique multiplateforme des avatars et les outils pour artistes.",
+            "Description": "\u00c9diteur de Snapchat et des lunettes de r\u00e9alit\u00e9 augment\u00e9e Specs (si\u00e8ge \u00e0 Santa Monica), dont le bureau de Toronto, issu du rachat de Bitstrips en 2016, d\u00e9veloppe Bitmoji, son moteur de rendu des avatars et les outils pour artistes.",
             "Place": [
                 {
                     "Country": "Canada",
@@ -28770,6 +28868,10 @@
                         -79.39676
                     ],
                     "Address": "205 Spadina Avenue, Toronto, ON"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica"
                 }
             ],
             "Scientific-domain": [
@@ -29291,6 +29393,10 @@
                         -79.664
                     ],
                     "Address": "2525 Speakman Drive, Mississauga, ON L5K 1B1"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -29324,6 +29430,10 @@
                         -123.14154
                     ],
                     "Address": "1618 W 8th Avenue, Vancouver, BC V6J 1V4"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -29395,6 +29505,10 @@
                         -123.10709
                     ],
                     "Address": "123 W 7th Avenue, Vancouver, BC V5Y 1L8"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -29427,6 +29541,10 @@
                         -123.02339
                     ],
                     "Address": "4088 1st Avenue, Burnaby, BC V5C 3W4"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -29458,6 +29576,10 @@
                         -123.11099
                     ],
                     "Address": "375 Water Street, bureau 205, Vancouver, BC"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica"
                 }
             ],
             "Scientific-domain": [
@@ -29489,6 +29611,10 @@
                         -123.10516
                     ],
                     "Address": "18 W 4th Avenue, bureau 338, Vancouver, BC V5Y 1G3"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -29529,6 +29655,13 @@
                     ],
                     "SIREN": "990237364",
                     "Address": "107 Avenue Parmentier, 75011 Paris"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": [
+                        "Los Angeles",
+                        "Burbank"
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -29621,6 +29754,10 @@
                         -123.10977
                     ],
                     "Address": "2339 Columbia Street, bureau 200, Vancouver, BC V5Y 3Y3"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles"
                 }
             ],
             "Scientific-domain": [
@@ -30296,6 +30433,2738 @@
                 "r\u00e9alit\u00e9 virtuelle",
                 "formation chirurgicale",
                 "orthop\u00e9die"
+            ]
+        },
+        {
+            "Name": "DreamWorks Animation",
+            "url": "https://www.dreamworks.com/",
+            "Description": "Studio am\u00e9ricain de longs m\u00e9trages et de s\u00e9ries d'animation 3D (Shrek, Dragons, Le Robot sauvage, Les Bad Guys 2), filiale de NBCUniversal, qui a sorti Forgotten Island en septembre 2026 depuis son campus de Glendale.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Glendale",
+                    "Coordinates": [
+                        34.15729,
+                        -118.28215
+                    ],
+                    "Address": "1000 Flower Street, Glendale, CA 91201"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.dreamworks.com/careers",
+            "Employees": 1000,
+            "Keywords": [
+                "animation 3D",
+                "longs m\u00e9trages",
+                "s\u00e9ries",
+                "moteur de rendu MoonRay"
+            ]
+        },
+        {
+            "Name": "Sony Pictures Animation",
+            "url": "https://www.sonypicturesanimation.com/",
+            "Description": "Studio de d\u00e9veloppement et de production de longs m\u00e9trages d'animation de Sony Pictures (Spider-Man: Across the Spider-Verse, KPop Demon Hunters pour Netflix, GOAT sorti en f\u00e9vrier 2026), dont la fabrication est confi\u00e9e \u00e0 Sony Pictures Imageworks.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Culver City",
+                    "Coordinates": [
+                        34.02525,
+                        -118.39135
+                    ],
+                    "Address": "9050 West Washington Boulevard, Culver City, CA 90232"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 250,
+            "Keywords": [
+                "animation 3D",
+                "longs m\u00e9trages",
+                "d\u00e9veloppement visuel",
+                "storyboard"
+            ]
+        },
+        {
+            "Name": "Warner Bros. Animation",
+            "url": "https://www.warnerbros.com/company/divisions/television",
+            "Description": "Division d'animation de Warner Bros. r\u00e9unie depuis 2022 avec Cartoon Network Studios \u00e0 Burbank, qui produit des s\u00e9ries 2D pour Netflix, Adult Swim, HBO Max et Cartoon Network (Batman: Caped Crusader, Creature Commandos, SuperMutant Magic Academy annonc\u00e9e \u00e0 Annecy en 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.18359,
+                        -118.30948
+                    ],
+                    "Address": "Cartoon Network Studios, 300 North 3rd Street, Burbank, CA 91502"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://careers.wbd.com/global/en",
+            "Employees": 500,
+            "Keywords": [
+                "animation 2D",
+                "s\u00e9ries",
+                "DC",
+                "Cartoon Network"
+            ]
+        },
+        {
+            "Name": "Nickelodeon Animation Studio",
+            "url": "https://www.nick.com/",
+            "Description": "Studio d'animation de Nickelodeon \u00e0 Burbank qui produit s\u00e9ries et films 2D et 3D (Bob l'\u00e9ponge, The Patrick Star Show, Avatar: Seven Havens, Rock Paper Scissors), rattach\u00e9 \u00e0 Paramount Skydance depuis la fusion de 2025.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.17494,
+                        -118.31506
+                    ],
+                    "Address": "231 West Olive Avenue, Burbank, CA 91502"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 300,
+            "Keywords": [
+                "animation 2D",
+                "animation 3D",
+                "s\u00e9ries jeunesse",
+                "Bob l'\u00e9ponge"
+            ]
+        },
+        {
+            "Name": "Bento Box Entertainment",
+            "url": "https://www.bentoboxent.com/",
+            "Description": "Studio d'animation 2D pour adultes de Fox Entertainment (Bob's Burgers, The Great North, Housebroken, Grimsburg), install\u00e9 \u00e0 North Hollywood et Burbank avec des studios \u00e0 Atlanta et Toronto.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.1722,
+                        -118.3789
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.1808,
+                        -118.309
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6532,
+                        -79.3832
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://jobs.lever.co/bentoboxent",
+            "Employees": 350,
+            "Keywords": [
+                "animation 2D",
+                "animation adulte",
+                "s\u00e9ries TV",
+                "Fox"
+            ]
+        },
+        {
+            "Name": "Skydance Animation",
+            "url": "https://www.skydanceanimation.com/",
+            "Description": "Studio de longs m\u00e9trages et de s\u00e9ries d'animation 3D dirig\u00e9 par John Lasseter (Luck, Spellbound, la s\u00e9rie WondLa), install\u00e9 depuis 2025 sur un campus \u00e0 Santa Monica avec un grand studio \u00e0 Madrid, qui sort Ray Gunn de Brad Bird sur Netflix en d\u00e9cembre 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://skydance.com/job-listings/",
+            "Employees": 700,
+            "Keywords": [
+                "animation 3D",
+                "longs m\u00e9trages",
+                "s\u00e9ries",
+                "Madrid"
+            ]
+        },
+        {
+            "Name": "Rough Draft Studios",
+            "url": "https://www.roughdraftstudios.com/",
+            "Description": "Studio d'animation 2D et 3D de Glendale (avec un studio partenaire \u00e0 S\u00e9oul) qui anime Futurama depuis 1999, dont la saison 14 diffus\u00e9e sur Hulu \u00e0 partir d'ao\u00fbt 2026, apr\u00e8s D\u00e9senchant\u00e9e pour Netflix.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Glendale",
+                    "Coordinates": [
+                        34.16775,
+                        -118.3002
+                    ],
+                    "Address": "615 Allen Avenue, Glendale, CA 91201"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.roughdraftstudios.com/jobs.html",
+            "Keywords": [
+                "animation 2D",
+                "s\u00e9ries TV",
+                "Futurama",
+                "animation adulte"
+            ]
+        },
+        {
+            "Name": "ShadowMachine",
+            "url": "https://www.shadowmachine.com/",
+            "Description": "Studio d'animation fond\u00e9 en 1999 \u00e0 Los Angeles (et Portland) qui travaille en stop-motion, 2D et 3D pour le cin\u00e9ma et les s\u00e9ries (BoJack Horseman, Robot Chicken, Pinocchio de Guillermo del Toro, Long Story Short), avec la s\u00e9rie Firefly: Still Flying et le film The Buried Giant en d\u00e9veloppement en 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.08785,
+                        -118.34056
+                    ],
+                    "Address": "940 North Mansfield Avenue, Hollywood, Los Angeles, CA 90038"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "stop-motion",
+                "s\u00e9ries adultes",
+                "longs m\u00e9trages"
+            ]
+        },
+        {
+            "Name": "Blur Studio",
+            "url": "https://www.blur.com/",
+            "Description": "Studio ind\u00e9pendant d'animation 3D et d'effets visuels fond\u00e9 par Tim Miller, sp\u00e9cialiste des cin\u00e9matiques de jeux vid\u00e9o (Call of Duty) et des s\u00e9ries d'animation (Love, Death & Robots, Secret Level, dont un d\u00e9riv\u00e9 Warhammer 40,000 a \u00e9t\u00e9 annonc\u00e9 en 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.03411,
+                        -118.45168
+                    ],
+                    "Address": "11821 Mississippi Avenue, West Los Angeles, Los Angeles, CA 90025"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.blur.com/careers",
+            "Employees": 100,
+            "Keywords": [
+                "animation 3D",
+                "cin\u00e9matiques",
+                "s\u00e9ries",
+                "Love, Death & Robots"
+            ]
+        },
+        {
+            "Name": "Six Point Harness",
+            "url": "https://sixpointharness.com/",
+            "Description": "Studio d'animation 2D fond\u00e9 en 2003 \u00e0 Los Angeles (filiale de Mondo Media), qui a anim\u00e9 le court m\u00e9trage oscaris\u00e9 Hair Love et travaille sur des s\u00e9ries (Lazor Wulf, OMG\u2026 Yes! pour Adult Swim), des s\u00e9quences de films et s\u00e9ries (The Boys) et le court The Whistle en 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.10603,
+                        -118.28735
+                    ],
+                    "Address": "1920 Hillhurst Avenue #204, Los Feliz, Los Angeles, CA 90027"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://sixpointharness.com/jobs/",
+            "Employees": 25,
+            "Keywords": [
+                "animation 2D",
+                "s\u00e9ries adultes",
+                "courts m\u00e9trages",
+                "Toon Boom Harmony"
+            ]
+        },
+        {
+            "Name": "Psyop",
+            "url": "https://www.psyop.com/",
+            "Description": "Studio d'animation et de design fond\u00e9 en 2000 (Los Angeles et New York), \u00e0 la t\u00eate du collectif Psyop Group (Golden Wolf, Sun Creature, Le Cube\u2026), qui produit des films publicitaires en 3D et 2D, des cin\u00e9matiques de jeux et la s\u00e9rie Common Side Effects pour Adult Swim, renouvel\u00e9e pour une saison 2.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.0522,
+                        -118.2437
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "animation 3D",
+                "publicit\u00e9",
+                "s\u00e9ries",
+                "motion design"
+            ]
+        },
+        {
+            "Name": "The Third Floor",
+            "url": "https://thethirdfloorinc.com/",
+            "Description": "Studio de pr\u00e9visualisation (previs, postvis, techvis, pitchvis) fond\u00e9 en 2004 par des anciens de Star Wars : Episode III, partenaire de Marvel, Lucasfilm ou Legendary (Godzilla x Kong : Le Nouvel Empire) et producteur de son premier long m\u00e9trage d'animation, Predator: Killer of Killers (2025).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.06228,
+                        -118.35266
+                    ],
+                    "Address": "5700 Wilshire Blvd, Suite 650, Los Angeles, CA 90036"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://thethirdfloorinc.com/careers",
+            "Employees": 400,
+            "Keywords": [
+                "pr\u00e9visualisation",
+                "postvis",
+                "techvis",
+                "animation 3D",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Halon Entertainment",
+            "url": "https://halon.com/",
+            "Description": "Studio de visualisation temps r\u00e9el fond\u00e9 en 2003 (previs, postvis, cin\u00e9matiques et production virtuelle) ayant travaill\u00e9 sur Star Wars, Avatar, The Batman, John Wick, Un film Minecraft (2025) et Fortnite, redevenu ind\u00e9pendant de NEP Group en juillet 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Glendale",
+                    "Coordinates": [
+                        34.16187,
+                        -118.29268
+                    ],
+                    "Address": "629 Sonora Ave, Glendale, CA 91201"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Glasgow"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://halon.com/careers",
+            "Keywords": [
+                "pr\u00e9visualisation",
+                "postvis",
+                "cin\u00e9matiques",
+                "Unreal Engine",
+                "production virtuelle"
+            ]
+        },
+        {
+            "Name": "Proof",
+            "url": "https://www.proof-inc.com/",
+            "Description": "Studio de pr\u00e9visualisation fond\u00e9 en 2002 par Ron Frankel (previs, postvis, techvis et production virtuelle), auteur d'environ 1 900 plans de previs/postvis sous Unreal Engine pour la derni\u00e8re saison de Stranger Things et de travaux sur Damsel ou Les Gardiens de la Galaxie.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.06213,
+                        -118.34192
+                    ],
+                    "Address": "5150 Wilshire Blvd, Suite 200, Los Angeles, CA 90036"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Address": "Warner Bros. Studios Leavesden"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "pr\u00e9visualisation",
+                "postvis",
+                "techvis",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Day for Nite",
+            "url": "https://www.dayfornite.com/",
+            "Description": "Studio de visualisation (previs, postvis, techvis, cam\u00e9ra virtuelle, mocap et plans VFX finaux) pour le cin\u00e9ma, les s\u00e9ries et le jeu vid\u00e9o, bas\u00e9 \u00e0 Los Angeles avec des \u00e9quipes \u00e0 Atlanta, Vancouver, Londres, en Australie et en Nouvelle-Z\u00e9lande.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.13393,
+                        -118.35816
+                    ],
+                    "Address": "3575 Cahuenga Blvd W, Suite 490, Los Angeles, CA 90068"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.dayfornite.com/jobs",
+            "Keywords": [
+                "pr\u00e9visualisation",
+                "postvis",
+                "techvis",
+                "cam\u00e9ra virtuelle"
+            ]
+        },
+        {
+            "Name": "Lola VFX",
+            "url": "https://www.lolavfx.com/",
+            "Description": "Studio d'effets visuels sp\u00e9cialis\u00e9 dans le rajeunissement et le vieillissement num\u00e9riques d'acteurs (L'\u00c9trange Histoire de Benjamin Button, Captain Marvel, Avengers: Endgame) et les retouches invisibles, auteur en 2026 du rajeunissement des acteurs de Jurassic Park dans la publicit\u00e9 Xfinity du Super Bowl.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.05687,
+                        -118.42529
+                    ],
+                    "Address": "10435 Santa Monica Blvd, Los Angeles, CA 90025"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Address": "Castle House, 75 Wells Street, London"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "rajeunissement num\u00e9rique",
+                "compositing",
+                "humains num\u00e9riques"
+            ]
+        },
+        {
+            "Name": "Cantina Creative",
+            "url": "https://www.cantinacreative.com/",
+            "Description": "Studio d'effets visuels et de design d'interfaces holographiques (FUI) du groupe Territory, connu pour les \u00e9crans et HUD des films Marvel (Avengers, Spider-Man: Homecoming, Loki, Echo), d'Avatar : La Voie de l'eau et de Black Adam.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.06217,
+                        -118.34669
+                    ],
+                    "Address": "5410 Wilshire Blvd, Suite 500, Los Angeles, CA 90036"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "interfaces futuristes",
+                "motion design",
+                "HUD"
+            ]
+        },
+        {
+            "Name": "CoSA VFX",
+            "url": "https://www.cosavfx.com/",
+            "Description": "Studio d'effets visuels pour les s\u00e9ries, prim\u00e9 aux Emmy (Gotham, Westworld, Marvel : Les Agents du S.H.I.E.L.D.), cr\u00e9dit\u00e9 en 2025 sur The Terminal List: Dark Wolf et Criminal Minds.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.05,
+                        -118.24
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 110,
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "environnements num\u00e9riques"
+            ]
+        },
+        {
+            "Name": "Pixel Magic",
+            "url": "https://www.pixelmagicfx.com/",
+            "Description": "Studio d'effets visuels de Toluca Lake fond\u00e9 dans les ann\u00e9es 1980, laur\u00e9at d'un VES Award en 2024 pour Winning Time: The Rise of the Lakers Dynasty, avec des cr\u00e9dits sur Raised by Wolves, Green Book et Le Dernier Samoura\u00ef.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.15227,
+                        -118.363
+                    ],
+                    "Address": "10643 Riverside Drive, Toluca Lake, Los Angeles, CA 91602"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "foules num\u00e9riques",
+                "compositing"
+            ]
+        },
+        {
+            "Name": "MakeMake",
+            "url": "https://makemake.com/",
+            "Description": "Studio cr\u00e9atif int\u00e9gr\u00e9 fond\u00e9 par Angus Wall qui r\u00e9unit les anciens studios a52 (effets visuels et CG pour la publicit\u00e9), Elastic (design, g\u00e9n\u00e9riques) et Rock Paper Scissors (montage), avec des \u00e9quipes VFX, animation, \u00e9talonnage et narrative design.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.07065,
+                        -118.23078
+                    ],
+                    "Address": "Radio Hill, 1375 N Broadway, Los Angeles, CA 90012"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.02946,
+                        -118.47573
+                    ],
+                    "Address": "2308 Broadway, Santa Monica, CA 90404"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "publicit\u00e9",
+                "design",
+                "g\u00e9n\u00e9riques"
+            ]
+        },
+        {
+            "Name": "Aaron Sims Creative",
+            "url": "https://www.aaronsimscreative.com/",
+            "Description": "Studio de design de personnages et de cr\u00e9atures, d'effets visuels et de cin\u00e9matiques sous Unreal Engine fond\u00e9 par Aaron Sims, ayant travaill\u00e9 sur Stranger Things, Love, Death & Robots, Ready Player One, La Plan\u00e8te des singes et Les Anneaux de Pouvoir.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.05,
+                        -118.24
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "design de cr\u00e9atures",
+                "concept art",
+                "effets visuels",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Imaginary Forces",
+            "url": "https://imaginaryforces.com/",
+            "Description": "Studio de design et de g\u00e9n\u00e9riques anim\u00e9s (titres 2D/3D, motion design, effets) pour le cin\u00e9ma, les s\u00e9ries, le sport et les marques, auteur en 2026 du g\u00e9n\u00e9rique des Jeux olympiques d'hiver de Milan Cortina pour NBC Sports et des g\u00e9n\u00e9riques de Thursday Night Football sur Amazon Prime.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.03491,
+                        -118.45283
+                    ],
+                    "Address": "2027 S. Westgate Ave., Floor 1, Los Angeles, CA 90025"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "g\u00e9n\u00e9riques",
+                "motion design",
+                "CG",
+                "design"
+            ]
+        },
+        {
+            "Name": "Mirada",
+            "url": "https://mirada.com/",
+            "Description": "Studio cr\u00e9atif de Los Angeles (design et animation, prise de vue r\u00e9elle, immersif et grand format) ayant r\u00e9alis\u00e9 en 2026 la campagne ESPN Women's March Madness et des projets pour Netflix (Mercredi), la Sphere de Las Vegas et Call of Duty.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.07199,
+                        -118.3441
+                    ],
+                    "Address": "163 S La Brea Ave, Los Angeles, CA 90036"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Art/Evenementiel"
+            ],
+            "Keywords": [
+                "design",
+                "animation",
+                "effets visuels",
+                "grand format"
+            ]
+        },
+        {
+            "Name": "Company 3",
+            "url": "https://www.company3.com/",
+            "Description": "Studio de post-production haut de gamme (\u00e9talonnage, finition, dailies, VFX de finition) pour le cin\u00e9ma, les s\u00e9ries et la publicit\u00e9, avec des r\u00e9f\u00e9rences r\u00e9centes comme Blade Runner 2099 et The Mosquito Bowl.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.02948,
+                        -118.45853
+                    ],
+                    "Address": "3401 Exposition Blvd, Santa Monica, CA 90404"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.08978,
+                        -118.33324
+                    ],
+                    "Address": "1001 Seward St, Hollywood, Los Angeles, CA 90038"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6436,
+                        -79.4057
+                    ],
+                    "Address": "901 King Street W., Suite 700, Toronto, ON M5V 3H5"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.2689,
+                        -123.1053
+                    ],
+                    "Address": "50 W. 2nd Ave., Vancouver, BC V5Y 1B3"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5163,
+                        -0.1118
+                    ],
+                    "Address": "28 Chancery Lane, London WC2A 1LB"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Imagerie",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 500,
+            "Keywords": [
+                "\u00e9talonnage",
+                "finition",
+                "post-production",
+                "dailies"
+            ]
+        },
+        {
+            "Name": "FotoKem",
+            "url": "https://www.fotokem.com/",
+            "Description": "Laboratoire film et studio de post-production ind\u00e9pendant de Burbank (depuis 1963) : dailies via sa plateforme logicielle nextLAB, \u00e9talonnage, VFX de finition, mastering et restauration, sur des titres r\u00e9cents comme The Odyssey, The Mandalorian & Grogu et Mayday.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.15727,
+                        -118.33112
+                    ],
+                    "Address": "2801 W Alameda Ave, Burbank, CA 91505"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Pipeline/Outils de production",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 500,
+            "Keywords": [
+                "laboratoire film",
+                "post-production",
+                "\u00e9talonnage",
+                "nextLAB",
+                "dailies"
+            ]
+        },
+        {
+            "Name": "Picture Shop",
+            "url": "https://www.pictureshop.com/",
+            "Description": "Studio de post-production du groupe Streamland Media (\u00e9talonnage, science couleur, VFX, dailies, mastering) pour s\u00e9ries et films, avec des r\u00e9f\u00e9rences r\u00e9centes comme Dexter: Resurrection, The Diplomat et Monster: The Ed Gein Story.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.15337,
+                        -118.34241
+                    ],
+                    "Address": "3900 W Alameda Ave, 9th & 10th Floors, Burbank, CA 91505"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.08639,
+                        -118.33322
+                    ],
+                    "Address": "861 Seward St, Hollywood, Los Angeles, CA 90038"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Toronto",
+                    "Coordinates": [
+                        43.6508,
+                        -79.3762
+                    ],
+                    "Address": "30 Adelaide St. East, Toronto, ON M5C 3H2"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.2652,
+                        -123.0907
+                    ],
+                    "Address": "2339 Columbia St., Suite 100, Vancouver, BC V5Y 3Y3"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5128,
+                        -0.1385
+                    ],
+                    "Address": "8 Marshall Street, London W1F 7EJ"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Rendu offline/VFX",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 500,
+            "Keywords": [
+                "\u00e9talonnage",
+                "science couleur",
+                "post-production",
+                "VFX"
+            ]
+        },
+        {
+            "Name": "Light Iron",
+            "url": "https://www.lightiron.com/",
+            "Description": "Studio de post-production d'Hollywood (dailies, \u00e9talonnage, finition, mastering) qui d\u00e9veloppe sa propre plateforme logicielle de gestion d'images et de m\u00e9tadonn\u00e9es Galixy, avec des cr\u00e9dits r\u00e9cents comme Freakier Friday, The Thursday Murder Club et Palm Royale.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.09623,
+                        -118.32836
+                    ],
+                    "Address": "6381 De Longpre Avenue, Hollywood, Los Angeles, CA 90028"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Pipeline/Outils de production",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 60,
+            "Keywords": [
+                "\u00e9talonnage",
+                "dailies",
+                "finition",
+                "Galixy"
+            ]
+        },
+        {
+            "Name": "RED Digital Cinema",
+            "url": "https://www.reddigitalcinema.com/",
+            "Description": "Fabricant de cam\u00e9ras de cin\u00e9ma num\u00e9rique (capteurs, traitement d'image, format RAW REDCODE) bas\u00e9 \u00e0 Foothill Ranch, filiale de Nikon depuis 2024, dont les gammes V-RAPTOR et KOMODO-X existent d\u00e9sormais en monture Nikon Z.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Lake Forest",
+                    "Coordinates": [
+                        33.67072,
+                        -117.64355
+                    ],
+                    "Address": "94 Icon, Foothill Ranch, CA 92610"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 220,
+            "Keywords": [
+                "cam\u00e9ra cin\u00e9ma num\u00e9rique",
+                "capteur",
+                "RAW",
+                "traitement d'image"
+            ]
+        },
+        {
+            "Name": "Clear Angle Studios",
+            "url": "https://www.clearanglestudios.co.uk/",
+            "Description": "Sp\u00e9cialiste du scan 3D pour le cin\u00e9ma (photogramm\u00e9trie de personnages, rig volum\u00e9trique, LiDAR d'environnements, scan d'accessoires, TopoTrack) pr\u00e9sent \u00e0 Culver City, Pinewood, Atlanta et Vancouver, qui a acquis en 2026 la technologie de capture faciale de DI4D.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Culver City",
+                    "Coordinates": [
+                        34.02352,
+                        -118.38188
+                    ],
+                    "Address": "3617 Hayden Ave, Unit 105, Culver City, CA 90232"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Iver",
+                    "Coordinates": [
+                        51.549,
+                        -0.5352
+                    ],
+                    "Address": "Main Admin Annex (East), Pinewood Studios, SL0 0NH"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Burnaby",
+                    "Coordinates": [
+                        49.2589,
+                        -122.9997
+                    ],
+                    "Address": "Mammoth Studios, 2880 Underhill Ave, Burnaby, BC V5A 3C5"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.clearanglestudios.co.uk/career-opportunities/",
+            "Employees": 160,
+            "Keywords": [
+                "photogramm\u00e9trie",
+                "scan 3D",
+                "LiDAR",
+                "capture volum\u00e9trique",
+                "doublures num\u00e9riques"
+            ]
+        },
+        {
+            "Name": "House of Moves",
+            "url": "https://www.moves.com/",
+            "Description": "Studio de motion et performance capture fond\u00e9 en 1995, qui exploite des plateaux Vicon \u00e0 Hollywood (Chaplin Studios), dans le centre de Los Angeles et \u00e0 Santa Monica ainsi qu'\u00e0 Austin, avec un pipeline d'animation pour Unreal Engine et Unity (Mortal Kombat 1, Black Adam, NBA 2K).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.09648,
+                        -118.34403
+                    ],
+                    "Address": "Chaplin Studios, 1416 N La Brea Ave, Hollywood, Los Angeles, CA 90028"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 30,
+            "Keywords": [
+                "motion capture",
+                "performance capture",
+                "Vicon",
+                "animation"
+            ]
+        },
+        {
+            "Name": "Flawless",
+            "url": "https://www.flawlessai.com/",
+            "Description": "\u00c9diteur d'outils d'IA g\u00e9n\u00e9rative pour le visage \u00e0 l'\u00e9cran (DeepEditor, doublage visuel TrueSync, ADR \u00ab In-Vision \u00bb) utilis\u00e9s par les studios pour modifier les performances en post-production, laur\u00e9at d'un HPA Award et du Lumi\u00e8re Award 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.0522,
+                        -118.2437
+                    ]
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5074,
+                        -0.1278
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Vision",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.flawlessai.com/careers",
+            "Employees": 80,
+            "Keywords": [
+                "humains num\u00e9riques",
+                "doublage visuel",
+                "IA",
+                "post-production"
+            ]
+        },
+        {
+            "Name": "Gentle Giant Studios",
+            "url": "https://www.gentlegiantstudios.com/",
+            "Description": "Studio de Burbank sp\u00e9cialis\u00e9 dans le scan 3D et la photogramm\u00e9trie (studio mobile de photogramm\u00e9trie pour les VFX), le design num\u00e9rique et la fabrication additive de figurines, prototypes et pi\u00e8ces pour le cin\u00e9ma, les parcs \u00e0 th\u00e8me et les produits d\u00e9riv\u00e9s.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.20787,
+                        -118.35271
+                    ],
+                    "Address": "7511 North San Fernando Road, Burbank, CA 91505"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Design/Fabrication"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Industrie/Manufacturing/CAO",
+                "Art/Evenementiel"
+            ],
+            "Employees": 30,
+            "Keywords": [
+                "scan 3D",
+                "photogramm\u00e9trie",
+                "impression 3D",
+                "sculpture num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Megapixel",
+            "url": "https://megapixelvr.com/",
+            "Description": "Concepteur de syst\u00e8mes de traitement vid\u00e9o pour \u00e9crans LED (plateforme HELIOS, technologie GhostFrame pour la production virtuelle) utilis\u00e9s en broadcast, en ICVFX et par LG pour ses \u00e9crans MicroLED MAGNIT, r\u00e9compens\u00e9 d'un Emmy technique en 2024.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Clarita",
+                    "Coordinates": [
+                        34.45059,
+                        -118.57649
+                    ],
+                    "Address": "28316 Constellation Rd, Valencia, CA 91355"
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Imagerie",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ],
+            "Employees": 50,
+            "Keywords": [
+                "\u00e9crans LED",
+                "traitement vid\u00e9o",
+                "production virtuelle",
+                "GhostFrame"
+            ]
+        },
+        {
+            "Name": "Lightcraft",
+            "url": "https://lightcraft.pro/",
+            "Description": "\u00c9diteur de Jetset, application iPhone de production virtuelle (suivi de cam\u00e9ra, compositing temps r\u00e9el, Gaussian splatting, int\u00e9gration Unreal Engine) et de Spark Story, plateforme de pr\u00e9visualisation 3D dans le navigateur pr\u00e9sent\u00e9e au SIGGRAPH 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Vision",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "production virtuelle",
+                "suivi de cam\u00e9ra",
+                "compositing temps r\u00e9el",
+                "previs"
+            ]
+        },
+        {
+            "Name": "SCANable",
+            "url": "https://www.scanable.com/",
+            "Description": "Sp\u00e9cialiste du scan 3D et 4D pour le cin\u00e9ma et les s\u00e9ries (cyberscanning d'acteurs, doublures num\u00e9riques, rig volum\u00e9trique C.A.L.V.I.N.N. de plus de 150 cam\u00e9ras, LiDAR de d\u00e9cors), cr\u00e9dit\u00e9 sur Superman, Weapons, Fallout S2, Marty Supreme, Michael et Lanterns.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        33.97716,
+                        -118.39148
+                    ],
+                    "Address": "6080 Center Drive, Suite 600, Los Angeles, CA 90045"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 30,
+            "Keywords": [
+                "scan 3D",
+                "photogramm\u00e9trie",
+                "capture 4D",
+                "LiDAR",
+                "doublures num\u00e9riques"
+            ]
+        },
+        {
+            "Name": "The Scan Truck",
+            "url": "https://www.thescantruck.com/",
+            "Description": "Studio mobile de scan 3D de Los Angeles (photogramm\u00e9trie, scan laser 25 microns, LiDAR) qui num\u00e9rise acteurs, v\u00e9hicules, d\u00e9cors et objets patrimoniaux pour le cin\u00e9ma, le jeu vid\u00e9o, les jumeaux num\u00e9riques et des programmes gouvernementaux (SBIR).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        33.93376,
+                        -118.37228
+                    ],
+                    "Address": "11160 Hindry Ave., Ste. E, Los Angeles, CA 90045"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Patrimoine/Culture",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "scan 3D",
+                "photogramm\u00e9trie",
+                "scan mobile",
+                "jumeau num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Synapse Virtual Production",
+            "url": "https://synapsevp.com/",
+            "Description": "Studio de production virtuelle qui exploite des volumes LED avec d\u00e9partement artistique virtuel et workflows temps r\u00e9el, avec son plateau principal aux LA Center Studios et des plateaux \u00e0 Atlanta (Tyler Perry Studios) et bient\u00f4t New York.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.05416,
+                        -118.25949
+                    ],
+                    "Address": "LA Center Studios, 1201 W 5th St, Los Angeles, CA 90017"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 20,
+            "Keywords": [
+                "production virtuelle",
+                "volume LED",
+                "ICVFX",
+                "d\u00e9partement artistique virtuel"
+            ]
+        },
+        {
+            "Name": "Riot Games",
+            "url": "https://www.riotgames.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur am\u00e9ricain (filiale de Tencent) de League of Legends, VALORANT, Teamfight Tactics et du jeu de combat 2XKO (lanc\u00e9 en 2026), dont le si\u00e8ge et le campus principal sont \u00e0 Los Angeles.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.03163,
+                        -118.458
+                    ],
+                    "Address": "12333 W. Olympic Blvd., Los Angeles, CA 90064"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.riotgames.com/en/work-with-us",
+            "Employees": 2700,
+            "Keywords": [
+                "jeu multijoueur en ligne",
+                "free-to-play",
+                "e-sport",
+                "MOBA",
+                "FPS"
+            ]
+        },
+        {
+            "Name": "Naughty Dog",
+            "url": "https://www.naughtydog.com/",
+            "Description": "Studio de PlayStation Studios (Sony Interactive Entertainment) \u00e0 Santa Monica, auteur des s\u00e9ries Uncharted et The Last of Us, qui d\u00e9veloppe Intergalactic: The Heretic Prophet.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.02751,
+                        -118.47124
+                    ],
+                    "Address": "2425 Olympic Blvd., Suite 3000W, Santa Monica, CA 90404"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.naughtydog.com/careers",
+            "Employees": 350,
+            "Keywords": [
+                "AAA",
+                "console/PC",
+                "jeu narratif",
+                "capture de performance",
+                "PlayStation"
+            ]
+        },
+        {
+            "Name": "Treyarch",
+            "url": "https://treyarch.com/",
+            "Description": "Studio d'Activision (Microsoft) \u00e0 Playa Vista, d\u00e9veloppeur de la s\u00e9rie Call of Duty: Black Ops (Black Ops 6 en 2024, Black Ops 7 en 2025) et du mode Zombies.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        33.97704,
+                        -118.42151
+                    ],
+                    "Address": "5454 Beethoven St., Playa Vista, Los Angeles, CA 90066"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.activision.com/",
+            "Employees": 350,
+            "Keywords": [
+                "AAA",
+                "FPS",
+                "Call of Duty",
+                "multijoueur en ligne",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Infinity Ward",
+            "url": "https://www.infinityward.com/",
+            "Description": "Studio d'Activision (Microsoft) \u00e0 Woodland Hills, cr\u00e9ateur de Call of Duty et de la sous-s\u00e9rie Modern Warfare, qui sort Call of Duty: Modern Warfare 4 en 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.17335,
+                        -118.59423
+                    ],
+                    "Address": "21255 Burbank Blvd., Woodland Hills, Los Angeles, CA 91367"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.activision.com/",
+            "Employees": 340,
+            "Keywords": [
+                "AAA",
+                "FPS",
+                "Call of Duty",
+                "moteur IW",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Respawn Entertainment",
+            "url": "https://www.respawn.com/",
+            "Description": "Studio d'Electronic Arts install\u00e9 dans la vall\u00e9e de San Fernando, cr\u00e9ateur de Titanfall, Apex Legends et Star Wars Jedi: Survivor, co-d\u00e9veloppeur de Star Wars Zero Company (sorti le 27 ao\u00fbt 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.23926,
+                        -118.57178
+                    ],
+                    "Address": "20131 Prairie St., Chatsworth, Los Angeles, CA 91311"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.ea.com/careers",
+            "Employees": 300,
+            "Keywords": [
+                "AAA",
+                "FPS",
+                "battle royale",
+                "Star Wars",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Santa Monica Studio",
+            "url": "https://sms.playstation.com/",
+            "Description": "Studio de PlayStation Studios (Sony Interactive Entertainment) install\u00e9 \u00e0 Playa Vista, d\u00e9veloppeur de la s\u00e9rie God of War (God of War Ragnar\u00f6k), qui pr\u00e9pare en 2026 un remake de la trilogie originale.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        33.97447,
+                        -118.42518
+                    ],
+                    "Address": "13031 W. Jefferson Blvd., Suite 600, Playa Vista, Los Angeles, CA 90094"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://sms.playstation.com/careers",
+            "Keywords": [
+                "AAA",
+                "action-aventure",
+                "God of War",
+                "capture de performance",
+                "PlayStation"
+            ]
+        },
+        {
+            "Name": "Insomniac Games",
+            "url": "https://insomniac.games/",
+            "Description": "Studio de PlayStation Studios (Sony) bas\u00e9 \u00e0 Burbank, d\u00e9veloppeur de Ratchet & Clank et de Marvel's Spider-Man 2, qui sort Marvel's Wolverine sur PS5 le 15 septembre 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.19406,
+                        -118.3446
+                    ],
+                    "Address": "2255 N. Ontario St., Suite 550, Burbank, CA 91504"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://insomniac.games/careers/",
+            "Employees": 400,
+            "Keywords": [
+                "AAA",
+                "action-aventure",
+                "Marvel",
+                "moteur propri\u00e9taire",
+                "PlayStation"
+            ]
+        },
+        {
+            "Name": "Visual Concepts",
+            "url": "https://vcentertainment.com/",
+            "Description": "Studio de 2K (Take-Two Interactive) d\u00e9veloppeur des jeux de sport NBA 2K et WWE 2K, dont le studio d'Agoura Hills porte notamment la s\u00e9rie WWE 2K.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Agoura Hills",
+                    "Coordinates": [
+                        34.14527,
+                        -118.78247
+                    ],
+                    "Address": "30301 Agoura Rd., Agoura Hills, CA 91301"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://boards.greenhouse.io/visualconcepts",
+            "Employees": 300,
+            "Keywords": [
+                "jeu de sport",
+                "NBA 2K",
+                "WWE 2K",
+                "capture de mouvement",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Ripple Effect Studios",
+            "url": "https://www.ea.com/ea-studios/ripple-effect",
+            "Description": "Studio d'Electronic Arts \u00e0 Los Angeles (ex-DICE LA), membre de Battlefield Studios, qui a contribu\u00e9 \u00e0 Battlefield 6 (2025) et \u00e0 Battlefield REDSEC.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        33.98264,
+                        -118.42936
+                    ],
+                    "Address": "4820 Alla Rd., Del Rey, Los Angeles, CA 90066"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.ea.com/careers",
+            "Employees": 100,
+            "Keywords": [
+                "AAA",
+                "FPS",
+                "Battlefield",
+                "multijoueur en ligne"
+            ]
+        },
+        {
+            "Name": "Jam City",
+            "url": "https://www.jamcity.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur de jeux mobiles bas\u00e9 \u00e0 Culver City, auteur de Harry Potter: Hogwarts Mystery, Disney Emoji Blitz et Panda Pop.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Culver City",
+                    "Coordinates": [
+                        34.02496,
+                        -118.37779
+                    ],
+                    "Address": "3562 Eastham Dr., Culver City, CA 90232"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.jamcity.com/careers/",
+            "Employees": 250,
+            "Keywords": [
+                "jeu mobile",
+                "free-to-play",
+                "licences",
+                "jeu narratif"
+            ]
+        },
+        {
+            "Name": "thatgamecompany",
+            "url": "https://thatgamecompany.com/",
+            "Description": "Studio ind\u00e9pendant de Santa Monica fond\u00e9 en 2006, auteur de flOw, Flower, Journey et du jeu social Sky: Children of the Light (300 millions de t\u00e9l\u00e9chargements en 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://thatgamecompany.com/careers/",
+            "Keywords": [
+                "jeu d'auteur",
+                "jeu social",
+                "multijoueur en ligne",
+                "mobile",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "WayForward",
+            "url": "https://www.wayforward.com/",
+            "Description": "Studio ind\u00e9pendant de Valencia (Santa Clarita) fond\u00e9 en 1990, connu pour la s\u00e9rie Shantae, River City Girls et le co-d\u00e9veloppement de Bloodstained, qui pr\u00e9pare un nouveau Shantae pour 2027.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Clarita",
+                    "Coordinates": [
+                        34.44043,
+                        -118.60428
+                    ],
+                    "Address": "28738 The Old Road, Valencia, CA 91355"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "animation 2D",
+                "jeu de plateforme",
+                "pixel art",
+                "console/PC",
+                "co-d\u00e9veloppement"
+            ]
+        },
+        {
+            "Name": "Squanch Games",
+            "url": "https://squanchgames.com/",
+            "Description": "Studio de Burbank fond\u00e9 en 2016, d\u00e9veloppeur et \u00e9diteur des jeux de tir humoristiques High on Life (2022) et High on Life 2 (f\u00e9vrier 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.1808,
+                        -118.309
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://squanchgames.com/jobs/",
+            "Keywords": [
+                "FPS",
+                "jeu narratif",
+                "Unreal Engine",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Unbroken Studios",
+            "url": "https://unbrokenstudios.com/",
+            "Description": "Studio ind\u00e9pendant d'El Segundo fond\u00e9 par des anciens de Battlefield, Call of Duty et God of War, d\u00e9veloppeur de Harry Potter: Quidditch Champions (2024) et co-d\u00e9veloppeur de jeux AAA.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "El Segundo",
+                    "Coordinates": [
+                        33.9048,
+                        -118.38736
+                    ],
+                    "Address": "2120 Park Place, El Segundo, CA 90245"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 90,
+            "Keywords": [
+                "co-d\u00e9veloppement",
+                "jeu de sport",
+                "Unreal Engine",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Paramount Games Studio",
+            "url": "https://www.paramountgames.com/",
+            "Description": "Studio de jeux de Paramount Skydance cr\u00e9\u00e9 en juin 2026 par la fusion de Skydance Interactive (The Walking Dead: Saints & Sinners, Behemoth) et Skydance New Media (Marvel 1943: Rise of Hydra, sous la direction cr\u00e9ative d'Amy Hennig), rapproch\u00e9 en octobre 2026 des studios de Warner Bros. Games.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Marina del Rey",
+                    "Coordinates": [
+                        33.9803,
+                        -118.4517
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.paramount.com/careers",
+            "Keywords": [
+                "AAA",
+                "r\u00e9alit\u00e9 virtuelle",
+                "Marvel",
+                "licences",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Singularity 6",
+            "url": "https://singularity6.com/",
+            "Description": "Studio de Los Angeles, filiale de Daybreak Game Company depuis 2024, d\u00e9veloppeur du MMO \u00ab cosy \u00bb Palia (10 millions de joueurs en 2026, PC et Switch).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.0522,
+                        -118.2437
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://singularity6.com/careers",
+            "Keywords": [
+                "MMO",
+                "jeu de simulation de vie",
+                "multijoueur en ligne",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "BulletFarm",
+            "url": "https://www.bulletfarm.com/",
+            "Description": "Studio AAA de Los Angeles fond\u00e9 en 2024 par David Vonderhaar (ex-Treyarch, Call of Duty: Black Ops) qui d\u00e9veloppe un jeu de tir sous Unreal Engine 5, financ\u00e9 par NetEase puis, depuis mai 2026, par GreaterThan Group.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.0522,
+                        -118.2437
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.bulletfarm.com/careers",
+            "Keywords": [
+                "AAA",
+                "FPS",
+                "Unreal Engine",
+                "multijoueur en ligne"
+            ]
+        },
+        {
+            "Name": "AdHoc Studio",
+            "url": "https://adhocla.com/",
+            "Description": "Studio de Los Angeles fond\u00e9 par d'anciens de Telltale Games, auteur du jeu narratif de super-h\u00e9ros Dispatch (2025, plus de 2 millions de joueurs), qui d\u00e9veloppe un jeu Critical Role et envisage une saison 2.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.0522,
+                        -118.2437
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.adhocla.com",
+            "Employees": 40,
+            "Keywords": [
+                "jeu narratif",
+                "animation 3D",
+                "\u00e9pisodique",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Yacht Club Games",
+            "url": "https://www.yachtclubgames.com/",
+            "Description": "Studio ind\u00e9pendant fond\u00e9 par d'anciens de WayForward, auteur de la s\u00e9rie Shovel Knight et de Mina the Hollower (sorti le 29 mai 2026), jeux d'action en pixel art.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Clarita",
+                    "Coordinates": [
+                        34.3917,
+                        -118.5426
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.yachtclubgames.com/careers",
+            "Keywords": [
+                "pixel art",
+                "jeu de plateforme",
+                "jeu ind\u00e9pendant",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Giant Squid",
+            "url": "https://www.giantsquidstudios.com/",
+            "Description": "Studio ind\u00e9pendant de Santa Monica fond\u00e9 par Matt Nava (ancien directeur artistique de Journey), auteur d'ABZ\u00db, The Pathless et Sword of the Sea (portages Xbox et Switch 2 en octobre 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.giantsquidstudios.com/jobs",
+            "Keywords": [
+                "direction artistique",
+                "jeu d'auteur",
+                "Unreal Engine",
+                "console/PC"
+            ]
+        },
+        {
+            "Name": "Absurd Ventures",
+            "url": "https://absurdventures.com/",
+            "Description": "Soci\u00e9t\u00e9 de m\u00e9dias et de jeux vid\u00e9o de Santa Monica fond\u00e9e en 2023 par Dan Houser (cofondateur de Rockstar Games), qui d\u00e9veloppe un jeu AAA en monde ouvert dans l'univers A Better Paradise, \u00e9dit\u00e9 par Smilegate.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://absurdventures.com/careers",
+            "Keywords": [
+                "AAA",
+                "monde ouvert",
+                "jeu narratif",
+                "animation"
+            ]
+        },
+        {
+            "Name": "PlayQ",
+            "url": "https://www.playq.com/",
+            "Description": "Studio de jeux mobiles fond\u00e9 en 2007 dans le centre de Santa Monica, d\u00e9veloppeur de jeux free-to-play sur ses propres licences (plus de 60 millions de t\u00e9l\u00e9chargements).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/playq",
+            "Employees": 87,
+            "Keywords": [
+                "jeu mobile",
+                "free-to-play",
+                "licences propres"
+            ]
+        },
+        {
+            "Name": "Blizzard Entertainment",
+            "url": "https://www.blizzard.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur de jeux vid\u00e9o (filiale de Microsoft via Activision Blizzard) dont le si\u00e8ge et les principales \u00e9quipes sont \u00e0 Irvine, auteur de World of Warcraft, Diablo IV, Overwatch 2 et Hearthstone.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.65801,
+                        -117.76755
+                    ],
+                    "Address": "1 Blizzard Way, Irvine, CA 92618"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.blizzard.com/",
+            "Employees": 1300,
+            "Keywords": [
+                "MMORPG",
+                "World of Warcraft",
+                "Diablo",
+                "Overwatch",
+                "AAA"
+            ]
+        },
+        {
+            "Name": "Obsidian Entertainment",
+            "url": "https://www.obsidian.net/",
+            "Description": "Studio de jeux de r\u00f4le d'Irvine appartenant \u00e0 Microsoft (Xbox Game Studios), auteur de Pillars of Eternity, Avowed, The Outer Worlds 2 et Grounded 2.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.65057,
+                        -117.74764
+                    ],
+                    "Address": "100 Spectrum Center Drive, Suite 200, Irvine, CA 92618"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.obsidian.net/careers",
+            "Employees": 220,
+            "Keywords": [
+                "jeu de r\u00f4le",
+                "Unreal Engine",
+                "Avowed",
+                "The Outer Worlds",
+                "Xbox"
+            ]
+        },
+        {
+            "Name": "Turtle Rock Studios",
+            "url": "https://www.turtlerockstudios.com/",
+            "Description": "Studio de jeu vid\u00e9o du comt\u00e9 d'Orange appartenant \u00e0 Tencent, cr\u00e9ateur de Left 4 Dead, Evolve et Back 4 Blood, qui d\u00e9veloppe un nouveau jeu PC et consoles sous Unreal Engine 5.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.65387,
+                        -117.74729
+                    ],
+                    "Address": "300 Spectrum Center Dr, Suite 1250, Irvine, CA 92618"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.turtlerockstudios.com/careers",
+            "Employees": 146,
+            "Keywords": [
+                "jeu de tir coop\u00e9ratif",
+                "Back 4 Blood",
+                "Left 4 Dead",
+                "Unreal Engine 5",
+                "Tencent"
+            ]
+        },
+        {
+            "Name": "Lightspeed LA",
+            "url": "https://www.lightspeed-studios.com/",
+            "Description": "Studio AAA d'Irvine de Tencent (LightSpeed Studios), consacr\u00e9 aux jeux en monde ouvert, qui d\u00e9veloppe Last Sentinel, annonc\u00e9 en 2023 et r\u00e9orient\u00e9 en 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6846,
+                        -117.8265
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 150,
+            "Keywords": [
+                "monde ouvert",
+                "AAA",
+                "Last Sentinel",
+                "Tencent"
+            ]
+        },
+        {
+            "Name": "inXile Entertainment",
+            "url": "https://www.inxile-entertainment.com/",
+            "Description": "Studio de jeux de r\u00f4le de Microsoft (Xbox Game Studios) install\u00e9 \u00e0 Tustin, auteur de Wasteland 3 et The Bard's Tale IV, qui d\u00e9veloppe Clockwork Revolution sous Unreal Engine 5.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Tustin",
+                    "Coordinates": [
+                        33.7458,
+                        -117.8262
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 110,
+            "Keywords": [
+                "jeu de r\u00f4le",
+                "Wasteland",
+                "Clockwork Revolution",
+                "Unreal Engine 5",
+                "Xbox"
+            ]
+        },
+        {
+            "Name": "Second Dinner",
+            "url": "https://www.seconddinner.com/",
+            "Description": "Studio ind\u00e9pendant de jeu vid\u00e9o d'Irvine fond\u00e9 par d'anciens de Blizzard (Hearthstone), cr\u00e9ateur du jeu de cartes Marvel Snap, qui d\u00e9veloppe un nouveau jeu mobile free-to-play.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6846,
+                        -117.8265
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.seconddinner.com/careers",
+            "Employees": 150,
+            "Keywords": [
+                "Marvel Snap",
+                "jeu de cartes",
+                "jeu mobile",
+                "free-to-play"
+            ]
+        },
+        {
+            "Name": "Bonfire Studios",
+            "url": "https://www.bonfirestudios.com/",
+            "Description": "Studio ind\u00e9pendant d'Irvine fond\u00e9 en 2016 par Rob Pardo (ex-Blizzard, World of Warcraft), qui d\u00e9veloppe Arkheron, jeu d'action multijoueur PvP en \u00e9quipe d\u00e9voil\u00e9 en 2025.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6846,
+                        -117.8265
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.bonfirestudios.com/careers",
+            "Employees": 90,
+            "Keywords": [
+                "Arkheron",
+                "PvP",
+                "multijoueur",
+                "Rob Pardo"
+            ]
+        },
+        {
+            "Name": "Dreamhaven",
+            "url": "https://dreamhaven.com/",
+            "Description": "\u00c9diteur et groupe de studios fond\u00e9 \u00e0 Irvine par Mike Morhaime (cofondateur de Blizzard), dont le studio Secret Door a cr\u00e9\u00e9 Sunderfolk (2025) et pr\u00e9pare Shadowstone, et qui \u00e9dite des jeux de studios partenaires comme The Legend of California.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6846,
+                        -117.8265
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://dreamhaven.com/careers",
+            "Employees": 70,
+            "Keywords": [
+                "Sunderfolk",
+                "Secret Door",
+                "Mike Morhaime",
+                "\u00e9dition de jeux"
+            ]
+        },
+        {
+            "Name": "Frost Giant Studios",
+            "url": "https://frostgiant.com/",
+            "Description": "Studio ind\u00e9pendant du comt\u00e9 d'Orange fond\u00e9 en 2020 par d'anciens de Blizzard (StarCraft II), cr\u00e9ateur du jeu de strat\u00e9gie en temps r\u00e9el Stormgate.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6846,
+                        -117.8265
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://frostgiant.com/careers/",
+            "Employees": 48,
+            "Keywords": [
+                "strat\u00e9gie en temps r\u00e9el",
+                "Stormgate",
+                "Unreal Engine",
+                "ex-Blizzard"
+            ]
+        },
+        {
+            "Name": "Blind Squirrel Games",
+            "url": "https://blindsquirrelentertainment.com/",
+            "Description": "Studio de co-d\u00e9veloppement fond\u00e9 en 2010 \u00e0 Irvine, connu pour les remasters BioShock: The Collection et Borderlands, qui d\u00e9veloppe aussi ses propres jeux comme Cosmorons.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6846,
+                        -117.8265
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://blindsquirrelentertainment.com/careers",
+            "Employees": 100,
+            "Keywords": [
+                "co-d\u00e9veloppement",
+                "remaster",
+                "AAA",
+                "Cosmorons"
+            ]
+        },
+        {
+            "Name": "MobilityWare",
+            "url": "https://www.mobilityware.com/",
+            "Description": "\u00c9diteur et d\u00e9veloppeur de jeux mobiles d'Irvine, sp\u00e9cialiste des jeux de cartes et de r\u00e9flexion gratuits (Solitaire by MobilityWare, jeux casual et puzzle), avec un second studio dans l'Utah.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6846,
+                        -117.8265
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.mobilityware.com/careers",
+            "Employees": 220,
+            "Keywords": [
+                "jeu mobile",
+                "solitaire",
+                "casual",
+                "Unity"
+            ]
+        },
+        {
+            "Name": "Anduril",
+            "Name-long": "Anduril Industries",
+            "url": "https://www.anduril.com/",
+            "Description": "Entreprise de technologies de d\u00e9fense (logiciel Lattice, drones et v\u00e9hicules autonomes) dont le si\u00e8ge de Costa Mesa abrite des \u00e9quipes de perception par vision, de simulation de capteurs (imagerie synth\u00e9tique sous Unreal Engine) et de plateformes de simulation de mission.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Costa Mesa",
+                    "Coordinates": [
+                        33.69552,
+                        -117.91839
+                    ],
+                    "Address": "1400 Anduril, Costa Mesa, CA 92626"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://www.anduril.com/careers/",
+            "Employees": 5000,
+            "Keywords": [
+                "d\u00e9fense",
+                "perception",
+                "simulation de capteurs",
+                "imagerie synth\u00e9tique",
+                "syst\u00e8mes autonomes"
+            ]
+        },
+        {
+            "Name": "HeyGen",
+            "url": "https://www.heygen.com/",
+            "Description": "\u00c9diteur d'une plateforme d'IA g\u00e9n\u00e9rative de vid\u00e9o (avatars num\u00e9riques photor\u00e9alistes, synchronisation labiale, traduction vid\u00e9o) revendiquant plus de 30 millions d'utilisateurs et 200 M$ de revenus r\u00e9currents annuels en juin 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        33.97988,
+                        -118.40732
+                    ],
+                    "Address": "12130 Millennium Drive, Suite 300, Playa Vista, Los Angeles, CA 90094"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Animation",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://www.heygen.com/careers",
+            "Employees": 350,
+            "Keywords": [
+                "vid\u00e9o g\u00e9n\u00e9rative",
+                "avatars IA",
+                "synchronisation labiale",
+                "traduction vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Metropolis",
+            "Name-long": "Metropolis Technologies",
+            "url": "https://www.metropolis.io/",
+            "Description": "Entreprise de Santa Monica qui exploite une plateforme de vision par ordinateur (reconnaissance de v\u00e9hicules par apprentissage profond) pour le paiement sans contact dans plus de 4 200 parkings en Am\u00e9rique du Nord, apr\u00e8s le rachat de SP+ en 2024.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.01978,
+                        -118.49368
+                    ],
+                    "Address": "1314 7th Street, Santa Monica, CA 90401"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://www.metropolis.io/careers",
+            "Employees": 1600,
+            "Keywords": [
+                "vision par ordinateur",
+                "reconnaissance de v\u00e9hicules",
+                "apprentissage profond",
+                "parkings"
+            ]
+        },
+        {
+            "Name": "Sphere Studios",
+            "url": "https://www.thesphere.com/",
+            "Description": "Studio de production et de technologie de Sphere Entertainment, install\u00e9 \u00e0 Burbank autour d'un d\u00f4me prototype au quart d'\u00e9chelle, qui cr\u00e9e les contenus immersifs de l'\u00e9cran LED de la Sphere de Las Vegas (Postcard from Earth, The Wizard of Oz at Sphere en 2025, The Rocky Horror Picture Show annonc\u00e9 en 2026) et a d\u00e9velopp\u00e9 la cam\u00e9ra Big Sky (capteur 316 m\u00e9gapixels, 18K).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Burbank",
+                    "Coordinates": [
+                        34.19219,
+                        -118.3479
+                    ],
+                    "Address": "3401 Empire Avenue, Burbank, CA 91505"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Rendu offline/VFX",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ],
+            "Keywords": [
+                "contenu immersif",
+                "\u00e9cran LED g\u00e9ant",
+                "cam\u00e9ra Big Sky",
+                "d\u00f4me",
+                "Las Vegas"
+            ]
+        },
+        {
+            "Name": "Cosm",
+            "url": "https://www.cosm.com/",
+            "Description": "Entreprise de technologies immersives qui con\u00e7oit des d\u00f4mes LED (syst\u00e8me CX) et exploite des salles \u00ab Shared Reality \u00bb \u00e0 Inglewood et Dallas diffusant sport en direct et films adapt\u00e9s au d\u00f4me (The Matrix, Willy Wonka, Harry Potter en 2026), propri\u00e9taire des fabricants de plan\u00e9tariums Evans & Sutherland et Spitz.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        33.97743,
+                        -118.4259
+                    ],
+                    "Address": "5340 Alla Road, Suite 140, Los Angeles, CA 90066"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Art/Evenementiel",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.cosm.com/careers",
+            "Keywords": [
+                "d\u00f4me LED",
+                "immersion",
+                "plan\u00e9tarium",
+                "Shared Reality",
+                "production immersive"
+            ]
+        },
+        {
+            "Name": "Divergent",
+            "Name-long": "Divergent Technologies",
+            "url": "https://www.divergent.com/",
+            "Description": "Entreprise de Torrance dont la plateforme DAPS associe logiciel de conception g\u00e9n\u00e9rative par IA, impression 3D m\u00e9tal et assemblage robotis\u00e9 pour produire des structures de v\u00e9hicules et de d\u00e9fense (composants de ch\u00e2ssis de la Bugatti Tourbillon annonc\u00e9s en juin 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Torrance",
+                    "Coordinates": [
+                        33.8532,
+                        -118.2861
+                    ],
+                    "Address": "19601 Hamilton Avenue, Torrance, CA 90502"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Industrie/Manufacturing/CAO",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Employees": 300,
+            "Keywords": [
+                "conception g\u00e9n\u00e9rative",
+                "impression 3D m\u00e9tal",
+                "CAO",
+                "fabrication additive",
+                "automobile"
+            ]
+        },
+        {
+            "Name": "SprintRay",
+            "url": "https://sprintray.com/",
+            "Description": "Fabricant angelin d'imprimantes 3D dentaires et \u00e9diteur de logiciels (SprintRay Design Suite, conception d'appareils dentaires assist\u00e9e par IA, pr\u00e9paration d'impression) pour la fabrication au cabinet de couronnes, goutti\u00e8res et proth\u00e8ses.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.10893,
+                        -118.24297
+                    ],
+                    "Address": "2710 Media Center Drive, Glassell Park, Los Angeles, CA 90065"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/sprintray",
+            "Employees": 340,
+            "Keywords": [
+                "impression 3D",
+                "CAO dentaire",
+                "conception par IA",
+                "dentisterie num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Glidewell",
+            "Name-long": "Glidewell Dental",
+            "url": "https://glidewelldental.com/",
+            "Description": "Laboratoire et industriel dentaire d'Irvine qui con\u00e7oit ses propres solutions de CFAO (glidewell.io, logiciel fastdesign.io de conception de couronnes assist\u00e9e par IA, usinage fastmill.io) et produit environ un demi-million de restaurations par mois par un flux enti\u00e8rement num\u00e9rique.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Irvine",
+                    "Coordinates": [
+                        33.6738,
+                        -117.85805
+                    ],
+                    "Address": "Technology Center, 2201 Dupont Drive, Irvine, CA 92612"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "CFAO dentaire",
+                "scan intra-oral",
+                "conception par IA",
+                "usinage",
+                "dentisterie num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Dreamscape",
+            "Name-long": "Dreamscape Immersive",
+            "url": "https://dreamscapeimmersive.com/",
+            "Description": "Studio de Culver City qui cr\u00e9e des exp\u00e9riences de r\u00e9alit\u00e9 virtuelle en libre d\u00e9placement pour six personnes dans des environnements 3D partag\u00e9s, et des modules p\u00e9dagogiques en VR avec l'Arizona State University (Dreamscape Learn, nouvelle application d'astronomie pr\u00e9vue \u00e0 l'UNLV \u00e0 l'automne 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Culver City",
+                    "Coordinates": [
+                        33.99012,
+                        -118.38083
+                    ],
+                    "Address": "5730 Buckingham Parkway, Culver City, CA 90230"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Employees": 100,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "free-roam",
+                "VR \u00e9ducative",
+                "exp\u00e9riences immersives"
+            ]
+        },
+        {
+            "Name": "Pearl",
+            "url": "https://hellopearl.com/",
+            "Description": "\u00c9diteur angelin de logiciels d'IA de vision pour la radiologie dentaire (Second Opinion, premier logiciel d'IA de lecture de radiographies dentaires autoris\u00e9 par la FDA, \u00e9tendu aux panoramiques en d\u00e9cembre 2025) int\u00e9gr\u00e9s aux logiciels de cabinet (Dentrix Ascend en 2026, Open Dental).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Angeles",
+                    "Coordinates": [
+                        34.0522,
+                        -118.2437
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 220,
+            "Keywords": [
+                "imagerie dentaire",
+                "IA de diagnostic",
+                "radiographie",
+                "vision par ordinateur"
+            ]
+        },
+        {
+            "Name": "Red 6",
+            "Name-long": "Red Six Aerospace",
+            "url": "https://www.red6ar.com/",
+            "Description": "Entreprise de r\u00e9alit\u00e9 augment\u00e9e pour l'entra\u00eenement des pilotes de chasse (syst\u00e8me ATARS affichant en vol des appareils adverses virtuels dans un casque AR), implant\u00e9e \u00e0 Santa Monica, Denver et Orlando.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Monica",
+                    "Coordinates": [
+                        34.0195,
+                        -118.4912
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Entrainement/Formation/Serious Game",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://red6ar.com/careers/",
+            "Employees": 186,
+            "Keywords": [
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "entra\u00eenement au vol",
+                "simulation a\u00e9rienne",
+                "d\u00e9fense"
+            ]
+        },
+        {
+            "Name": "SiLC",
+            "Name-long": "SiLC Technologies",
+            "url": "https://silc.com/",
+            "Description": "Concepteur \u00e0 Monrovia de capteurs LiDAR FMCW sur puce unique (gamme Eyeonic, mesure de distance et de vitesse \u00ab 4D \u00bb) pour la vision des robots, de l'automobile et de la m\u00e9trologie industrielle, soutenu par Honda.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Monrovia",
+                    "Coordinates": [
+                        34.14051,
+                        -118.00257
+                    ],
+                    "Address": "181 W. Huntington Drive, Monrovia, CA 91016"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "LiDAR FMCW",
+                "photonique sur silicium",
+                "vision 4D",
+                "capteurs 3D"
             ]
         }
     ]
