@@ -317,6 +317,8 @@
   Place:
     - Country: États-Unis
       City: Cupertino
+    - Country: États-Unis
+      City: Culver City
     - International: true
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Hardware, Vision]
   Application-domain: [Générique]
@@ -963,6 +965,8 @@
   Place:
     - Country: États-Unis
       City: Mountain View
+    - Country: États-Unis
+      City: Los Angeles
     - International: true
   Scientific-domain: [IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data]
   Application-domain: [Générique]
@@ -1380,6 +1384,7 @@
   Description: 'Éditeur allemand de logiciels de création 3D et vidéo : Cinema 4D, ZBrush, moteur de rendu Redshift et effets Red Giant.'
   Place:
     - Country: États-Unis
+      City: Newport Beach
     - Country: Canada
     - Country: Allemagne
   Scientific-domain: [Rendu offline/VFX, Modélisation]
@@ -2328,6 +2333,8 @@
   Place:
     - Country: Royaume-Uni
       City: Oxford
+    - Country: États-Unis
+      City: Culver City
   Scientific-domain: [Acquisition, Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game]
   Keywords: [motion capture, capture optique, capture sans marqueurs, biomécanique, analyse de la marche, production virtuelle, réalité virtuelle]
@@ -9379,6 +9386,8 @@
       City: Londres
       Coordinates: [51.51571, -0.10241]
       Address: Third Floor, 20 Old Bailey, London EC4M 7AN
+    - Country: États-Unis
+      City: Santa Monica
   Scientific-domain: [Animation, VR/AR]
   Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
   Keywords: [Animation, XR, VFX]
@@ -11828,7 +11837,7 @@
       Coordinates: [49.26942, -123.02339]
       Address: 4088 1st Avenue, Burnaby, BC V5C 3W4
     - Country: États-Unis
-      City: Los Angeles
+      City: Culver City
   Scientific-domain: [Acquisition, Animation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo]
   Keywords: [motion capture, capture faciale, production virtuelle, Burnaby]
@@ -12840,7 +12849,7 @@
   Description: Studio de 2K (Take-Two Interactive) développeur des jeux de sport NBA 2K et WWE 2K, dont le studio d'Agoura Hills porte notamment la série WWE 2K.
   Place:
     - Country: États-Unis
-      City: Agoura Hills
+      City: [Agoura Hills, Irvine]
       Coordinates: [34.14527, -118.78247]
       Address: 30301 Agoura Rd., Agoura Hills, CA 91301
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Acquisition]
@@ -12931,7 +12940,7 @@
   Description: 'Studio de jeux de Paramount Skydance créé en juin 2026 par la fusion de Skydance Interactive (The Walking Dead: Saints & Sinners, Behemoth) et Skydance New Media (Marvel 1943: Rise of Hydra, sous la direction créative d''Amy Hennig), rapproché en octobre 2026 des studios de Warner Bros. Games.'
   Place:
     - Country: États-Unis
-      City: Marina del Rey
+      City: [Marina del Rey, Santa Monica]
       Coordinates: [33.9803, -118.4517]
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, VR/AR]
   Application-domain: [Jeu Vidéo]
@@ -13330,3 +13339,636 @@
   Scientific-domain: [Acquisition, Vision, Hardware]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
   Keywords: [LiDAR FMCW, photonique sur silicium, vision 4D, capteurs 3D]
+
+- Name: EuroVisual
+  Name-long: Euro Visual (ex-Cyber Group Studios)
+  url: https://www.eurovisual.tv/
+  Description: Société parisienne de production et d'animation qui a repris en 2026 la majorité des actifs de Cyber Group Studios et produit des séries jeunesse en 3D et en 2D (Gigantosaurus saison 4, Ozie Boo!, Zorro, Taffy, Mick the Mini Chef).
+  Info: Cyber Group Studios (fondé en 2003) a été liquidé en avril 2025 ; Pierre Sissmann, son cofondateur, et Grégoire Parcollet ont racheté 80 % de ses actifs via Euro Visual en janvier 2026.
+  Place:
+    - City: Paris
+      Coordinates: [48.88577, 2.34543]
+      SIREN: '448986497'
+      Address: 19 Rue André del Sarte, 75018 Paris
+  Scientific-domain: [Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [séries d'animation, jeunesse, 3D CGI, 2D, Gigantosaurus]
+
+- Name: Wild Canary Animation
+  url: https://www.wildcanary.com/
+  Description: 'Studio d''animation 3D de Burbank fondé en 2007, qui fabrique des séries et spéciaux préscolaires pour Disney Jr. (Star Wars: Young Jedi Adventures, Ariel, Mickey''s Home Alone annoncé pour fin 2026).'
+  Place:
+    - Country: États-Unis
+      City: Burbank
+      Coordinates: [34.15275, -118.34455]
+      Address: 4111 West Alameda Avenue, Suite 401, Burbank, CA 91505
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://www.wildcanary.com/careers.php
+  Employees: 50
+  Keywords: [animation 3D, séries préscolaires, Disney Junior]
+
+- Name: Flying Bark Productions
+  url: https://www.flyingbark.com.au/
+  Description: 'Studio d''animation 2D et 3D australien (groupe Studio 100), qui a ouvert un studio à Burbank et fabrique avec ses équipes de Los Angeles, Sydney et Madrid la série Stranger Things: Tales From ''85 (Netflix, 2026) et le long métrage The Legend of Aang: The Last Airbender (Paramount).'
+  Place:
+    - Country: États-Unis
+      City: Burbank
+      Coordinates: [34.1808, -118.309]
+      Address: Empire Avenue, Burbank, CA
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://flyingbarkproductions.applytojob.com/
+  Employees: 700
+  Keywords: [animation 2D, animation 3D, séries, longs métrages, Studio 100]
+
+- Name: Scholar
+  url: https://helloscholar.com/
+  Description: Studio de création et de production (anciennement Gentleman Scholar) de Los Angeles et New York, spécialisé en animation 2D et 3D, design et effets visuels pour la publicité (Olipop, Okta).
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.10712, -118.25333]
+      Address: 2800 Clearwater St, Atwater Village, Los Angeles, CA 90039
+  Scientific-domain: [Animation, Rendu offline/VFX, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://helloscholar.com/contact
+  Employees: 40
+  Keywords: [animation 3D, motion design, publicité, effets visuels]
+
+- Name: Stoopid Buddy Stoodios
+  url: https://www.leagueofbuddies.com/
+  Description: Studio d'animation de Burbank spécialisé en stop-motion (aussi 2D et 3D), qui fabrique Robot Chicken pour Adult Swim, Dinosaur Office et Spy vs. Spy, ainsi que des publicités et des segments des Simpson.
+  Place:
+    - Country: États-Unis
+      City: Burbank
+      Coordinates: [34.1808, -118.309]
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://www.leagueofbuddies.com/contact
+  Employees: 100
+  Keywords: [stop-motion, animation, séries adultes, Robot Chicken]
+
+- Name: The Jim Henson Company
+  url: https://www.henson.com/
+  Description: 'Société de divertissement familial de Studio City, pionnière de la marionnette numérique (Henson Digital Puppetry Studio) et de l''animation, qui produit Fraggle Rock pour Apple TV (spécial Fraggle Rock: A Holiday Gift, décembre 2026), Word Party, Dinosaur Train et la série d''animation Lore Olympus.'
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.14394, -118.39275]
+      Address: Radford Studio Center, 4024 Radford Avenue, Building 5, Studio City, Los Angeles, CA 91604
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://www.henson.com/careers/
+  Keywords: [marionnette numérique, animation, séries jeunesse, Fraggle Rock]
+
+- Name: Brand New School
+  url: https://www.brandnewschool.com/
+  Description: Studio de création de Los Angeles fondé il y a une vingtaine d'années, qui réalise pour des marques du motion design, de l'animation 3D, des effets visuels et des expériences interactives, avec une activité de technologie créative (pipelines IA, outils).
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.05517, -118.34404]
+      Address: 1100 S. La Brea Avenue, Los Angeles, CA 90019
+  Scientific-domain: [Animation, Rendu offline/VFX, Pipeline/Outils de production]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
+  Jobs: https://www.brandnewschool.com/careers
+  Employees: 64
+  Keywords: [motion design, animation 3D, effets visuels, technologie créative]
+
+- Name: Wylie Co.
+  url: https://www.wylievfx.com/
+  Description: 'Studio d''effets visuels et de pré/postvisualisation fondé par Jake Maymudes, connu pour les postvis et effets de Dune et Dune : Deuxième partie, la série The Studio (Apple TV+, 2025) et son pipeline de rendu entièrement sur GPU.'
+  Place:
+    - Country: États-Unis
+      City: Culver City
+      Coordinates: [34.03067, -118.37997]
+      Address: 8534 Washington Blvd, Culver City, CA 90232
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.4981, -73.5546]
+      Address: 50 Rue Queen, Montréal, QC H3C 2N5
+  Scientific-domain: [Rendu offline/VFX, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 50
+  Keywords: [effets visuels, postvisualisation, rendu GPU, Dune]
+
+- Name: Corridor Digital
+  url: https://www.corridordigital.com/
+  Description: Studio de production indépendant fondé en 2009 par Sam Gorski et Niko Pueringer, spécialisé dans les courts métrages à effets visuels pour YouTube (chaînes Corridor Digital et Corridor Crew, plus de 10 millions d'abonnés) et les analyses d'effets de films.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.05, -118.24]
+  Scientific-domain: [Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Employees: 24
+  Keywords: [effets visuels, YouTube, courts métrages]
+
+- Name: JAMM
+  url: https://www.jammvisual.com/
+  Description: Studio indépendant d'effets visuels 2D/3D et d'étalonnage pour la publicité fondé en 2014 à Los Angeles, auteur de spots du Super Bowl (Hyundai) et de campagnes primées (Cannes, VES Awards, Emmy), avec un studio à Londres depuis 2025.
+  Place:
+    - Country: États-Unis
+      City: Culver City
+      Coordinates: [33.99171, -118.39057]
+      Address: 11242 Playa Court, Culver City, CA 90230
+    - Country: Royaume-Uni
+      City: Londres
+      Coordinates: [51.5246, -0.081]
+      Address: 19A Phipp Street, London EC2A 4NP
+  Scientific-domain: [Rendu offline/VFX]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
+  Jobs: https://www.jammvisual.com/careers/
+  Keywords: [effets visuels, publicité, étalonnage]
+
+- Name: Alkemy X
+  url: https://alkemy-x.com/
+  Description: Studio d'effets visuels, d'animation, de montage et de production pour le cinéma, les séries et la publicité, avec un bureau à Burbank aux côtés de ses studios du New Jersey, de New York et de Vancouver.
+  Place:
+    - Country: États-Unis
+      City: Burbank
+      Coordinates: [34.16028, -118.33033]
+      Address: 2600 West Olive Avenue, 5th Floor, Burbank, CA 91505
+    - Country: Canada
+      City: Vancouver
+    - Country: Canada
+      City: Toronto
+  Scientific-domain: [Rendu offline/VFX, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Keywords: [effets visuels, séries, publicité]
+
+- Name: Tau Films
+  url: https://taufilms.com/
+  Description: Studio d'effets visuels et d'animation fondé par d'anciens de Rhythm & Hues, avec une équipe de supervision à Los Angeles et une production en Malaisie, en Inde, au Canada et en Chine, auteur d'effets pour Operation Hadal (2025), She's Got No Name (2025) et des attractions de parcs à thème.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.05965, -118.27966]
+      Address: 2404 Wilshire Blvd, Suite 6E, Los Angeles, CA 90057
+    - Country: Canada
+      City: Vancouver
+  Scientific-domain: [Rendu offline/VFX, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
+  Keywords: [effets visuels, créatures, parcs à thème]
+
+- Name: Prologue
+  url: https://prologue.com/
+  Description: 'Studio de design de génériques et d''effets visuels fondé par Kyle Cooper (Se7en), auteur des génériques de American Horror Story, The Beauty (2026), Tron: Ares et des génériques de fin en CG de The Gorge.'
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [33.98871, -118.45898]
+      Address: 534 Victoria Ave, Venice, Los Angeles, CA 90291
+  Scientific-domain: [Animation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Keywords: [génériques, motion design, effets visuels]
+
+- Name: NantStudios
+  url: https://nantstudios.com/
+  Description: Studio de production virtuelle qui exploite des volumes LED reconfigurables (Dynamic Volume System breveté), une scène de capture de mouvement avec Animatrik et des plateaux à El Segundo et Culver City, ainsi qu'à Melbourne.
+  Place:
+    - Country: États-Unis
+      City: El Segundo
+      Coordinates: [33.91811, -118.38735]
+      Address: 202 N Nash St, El Segundo, CA 90245
+    - Country: États-Unis
+      City: Culver City
+      Coordinates: [34.0211, -118.3965]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Acquisition, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
+  Employees: 50
+  Keywords: [production virtuelle, volume LED, ICVFX, motion capture]
+
+- Name: Deep Voodoo
+  url: https://deepvoodoo.com/
+  Description: Studio d'effets visuels par IA (deepfake, rajeunissement, remplacement de visage) fondé par Trey Parker et Matt Stone, crédité sur la saison 27 de South Park, la saison 2 de Ted, le clip In the Stars des Rolling Stones et une publicité Dunkin' du Super Bowl LX (2026).
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [IA générative (image/3D), Rendu offline/VFX, Vision]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Employees: 30
+  Keywords: [deepfake, humains numériques, rajeunissement, IA]
+
+- Name: Harbor
+  url: https://harborpicturecompany.com/
+  Description: Studio de post-production et de production (étalonnage, VFX, dailies, son, montage) pour le cinéma, les séries et la publicité, avec en 2026 l'étalonnage de The Devil Wears Prada 2, Widow's Bay et Cape Fear.
+  Place:
+    - Country: États-Unis
+      City: Santa Monica
+      Coordinates: [34.03006, -118.46539]
+      Address: 2902 Nebraska Avenue, Santa Monica, CA 90404
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.10155, -118.34391]
+      Address: '7080 Hollywood Blvd #110, Hollywood, Los Angeles, CA 90028'
+    - Country: Royaume-Uni
+      City: Londres
+      Coordinates: [51.52099, -0.10502]
+      Address: 63 Turnmill St, London EC1M 5NP
+  Scientific-domain: [Rendu offline/VFX, Imagerie, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://harborpicturecompany.com/careers/
+  Employees: 300
+  Keywords: [post-production, étalonnage, VFX, finition]
+
+- Name: Genies
+  url: https://genies.com/
+  Description: Éditeur d'une technologie d'avatars 3D et de personnages IA (SDK Genies, Genies Studio) qui donne une apparence et un corps animé à des agents conversationnels, des PNJ et des avatars de célébrités.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [Animation, IA générative (image/3D), Modélisation]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Commerce/Marketing/Publicité]
+  Jobs: https://jobs.ashbyhq.com/genies
+  Employees: 100
+  Keywords: [avatars 3D, humains numériques, personnages IA, SDK]
+
+- Name: FilmLight
+  url: https://www.filmlight.ltd.uk/
+  Description: Éditeur londonien de systèmes d'étalonnage et de gestion des couleurs (Baselight, Daylight, Prelight, Truelight) utilisés en post-production cinéma, séries et publicité, avec un bureau à Hollywood.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0914, -118.32452]
+      Address: 1107 N El Centro Avenue, Hollywood, Los Angeles, CA 90038
+    - Country: Royaume-Uni
+      City: Londres
+      Coordinates: [51.50066, -0.08161]
+      Address: 103 Bermondsey Street, London SE1 3XB
+  Scientific-domain: [Imagerie, Pipeline/Outils de production, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://www.filmlight.ltd.uk/contacts/recruitment/overview_rt.php
+  Employees: 150
+  Keywords: [étalonnage, science des couleurs, Baselight, post-production]
+
+- Name: Colorfront
+  url: https://colorfront.com/
+  Description: Éditeur de logiciels de dailies, de transcodage et de mastering (Transkoder, Express Dailies, Streaming Server, Colorfront Engine) utilisés par les studios hollywoodiens et les plateformes, avec en avril 2026 Colorfront Immersive Utility pour l'Apple Immersive Video.
+  Place:
+    - Country: États-Unis
+      City: Santa Monica
+      Coordinates: [34.03282, -118.46407]
+      Address: 1735 Berkeley Street, Santa Monica, CA 90404
+  Scientific-domain: [Imagerie, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 50
+  Keywords: [dailies, transcodage, HDR, gestion des couleurs]
+
+- Name: Brompton Technology
+  url: https://www.bromptontech.com/
+  Description: Fabricant londonien de processeurs vidéo pour écrans LED (gamme Tessera) utilisés sur les volumes de production virtuelle, les plateaux de tournage et les grandes tournées, comme le Debí Tirar Más Fotos World Tour de Bad Bunny (2025-2026).
+  Place:
+    - Country: États-Unis
+      City: Burbank
+      Coordinates: [34.19198, -118.34139]
+      Address: 2805 Empire Avenue, Burbank, CA 91504
+    - Country: Royaume-Uni
+      City: Londres
+      Coordinates: [51.49261, -0.2816]
+      Address: 272 Gunnersbury Avenue, Chiswick, London W4 5QB
+  Scientific-domain: [Hardware, Imagerie, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
+  Jobs: https://www.bromptontech.com/careers/
+  Employees: 100
+  Keywords: [processeur LED, production virtuelle, Tessera, écrans LED]
+
+- Name: Mo-Sys
+  url: https://mo-sys.com/
+  Description: Entreprise britannique de suivi de caméra et de production virtuelle (StarTracker, VP Pro XR, têtes robotisées) dont le bureau américain de Hawthorne accueille aussi les formations Mo-Sys Academy à Los Angeles.
+  Place:
+    - Country: États-Unis
+      City: Hawthorne
+      Coordinates: [33.92422, -118.36992]
+      Address: 11950 S La Cienega Blvd, Hawthorne, CA 90250
+    - Country: Royaume-Uni
+      City: Londres
+      Coordinates: [51.49685, -0.04169]
+      Address: 11 Quebec Way, Canada Water, London SE16 7LG
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Acquisition, Hardware]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
+  Jobs: https://mo-sys.com/careers/
+  Employees: 60
+  Keywords: [suivi de caméra, production virtuelle, réalité étendue, robotique caméra]
+
+- Name: MTI Film
+  url: https://mtifilm.com/
+  Description: Studio de post-production et de restauration de films à Hollywood qui développe aussi ses propres logiciels (Cortex pour les dailies et le mastering, DRS Nova pour la restauration, MTai pour la conversion de cadence et l'agrandissement par IA), en version 7.0 avec accélération GPU NVIDIA.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.08923, -118.34271]
+      Address: 1016 North Sycamore Avenue, Hollywood, Los Angeles, CA 90038
+  Scientific-domain: [Imagerie, Pipeline/Outils de production, IA générative (image/3D)]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Patrimoine/Culture]
+  Employees: 59
+  Keywords: [restauration de films, post-production, traitement d'image, IA]
+
+- Name: Lasergraphics
+  url: https://lasergraphics.com/
+  Description: Fabricant de scanners de films cinématographiques (Director, ScanStation) et de leurs logiciels de traitement d'image, utilisés en 2026 par la BFI, les archives de l'UCLA, Warner Bros. Motion Picture Imaging ou pour la restauration d'épisodes de Doctor Who de 1965.
+  Place:
+    - Country: États-Unis
+      City: Irvine
+      Coordinates: [33.65543, -117.73575]
+      Address: 20 Ada, Irvine, CA 92618
+  Scientific-domain: [Acquisition, Imagerie, Hardware]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Patrimoine/Culture]
+  Employees: 30
+  Keywords: [scanner de film, numérisation, restauration, HDR]
+
+- Name: Solid State Studios
+  url: https://www.solidstate.com/
+  Description: 'Studio interne d''Activision à Santa Monica consacré au jeu mobile AAA, développeur principal de Call of Duty: Warzone Mobile et chargé de l''exploitation de Call of Duty: Mobile (saisons publiées en 2025-2026).'
+  Place:
+    - Country: États-Unis
+      City: Santa Monica
+      Coordinates: [34.0195, -118.4912]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://careers.solidstate.com/
+  Keywords: [jeu mobile, AAA, Call of Duty, FPS]
+
+- Name: Theorycraft Games
+  url: https://theorycraftgames.com/
+  Description: Studio de Los Angeles fondé en 2020 par des anciens de Riot Games, Bungie et Blizzard, développeur du jeu d'action multijoueur Supervive (serveurs fermés en février 2026), qui travaille sur son prochain jeu.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://theorycraftgames.com/careers
+  Employees: 37
+  Keywords: [multijoueur en ligne, free-to-play, MOBA, Unreal Engine]
+
+- Name: Tic Toc Games
+  url: https://tictocgames.com/
+  Description: Studio de développement et de prestation fondé en 2011 à Burbank (studio associé à Manille), auteur de Funko Pop! Blitz et Adventures of Pip, co-développeur de Rift of the NecroDancer, qui prépare Wrestle Story.
+  Place:
+    - Country: États-Unis
+      City: Burbank
+      Coordinates: [34.1796, -118.30999]
+      Address: '101 S First St #1100, Burbank, CA 91502'
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://tictocgames.com/jobs/
+  Keywords: [prestation, co-développement, jeu mobile, console/PC]
+
+- Name: Believer
+  url: https://believer.gg/
+  Description: Studio de jeu vidéo fondé en 2023 par d'anciens dirigeants de Riot Games et basé à Los Angeles, qui développe un jeu en monde ouvert coopératif sous Unreal Engine 5 et publie des outils libres pour Unreal (Friendshipper, Claireon).
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://believer.gg/jobs/
+  Employees: 33
+  Keywords: [monde ouvert, Unreal Engine 5, outils open source, start-up]
+
+- Name: TapBlaze
+  url: https://www.tapblaze.com/
+  Description: Studio indépendant de jeux mobiles fondé en 2014 à Los Angeles, auteur de Good Pizza, Great Pizza (plus de 250 millions de téléchargements revendiqués), Good Coffee, Great Coffee et Homecraft.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.04194, -118.46032]
+      Address: 11901 Santa Monica Blvd, Ste 507, Los Angeles, CA 90025
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://jobs.ashbyhq.com/tapblaze
+  Employees: 20
+  Keywords: [jeu mobile, simulation de gestion, free-to-play, art 2D et 3D]
+
+- Name: That's No Moon
+  url: https://thatsnomoon.com/
+  Description: Studio AAA de Los Angeles fondé en 2021 par d'anciens de Naughty Dog, Infinity Ward et PlayStation et financé par Smilegate, qui développe Crossfire, réinterprétation en jeu d'action-aventure solo de la licence de tir de Smilegate (dévoilé au Summer Game Fest 2026).
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [AAA, jeu narratif, action-aventure, console/PC]
+
+- Name: Zwift
+  url: https://www.zwift.com/
+  Description: Éditeur de Long Beach de la plateforme multijoueur d'entraînement cycliste et de course à pied en mondes virtuels 3D (Watopia), moteur de jeu C++ multiplateforme, qui a racheté Rouvy en avril 2026.
+  Place:
+    - Country: États-Unis
+      City: Long Beach
+      Coordinates: [33.7701, -118.1937]
+    - Country: Royaume-Uni
+      City: Londres
+      Coordinates: [51.5045, -0.0865]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://zwift.com/careers
+  Keywords: [fitness, jeu multijoueur en ligne, mondes virtuels, cyclisme]
+
+- Name: Ember Lab
+  url: https://emberlab.com/
+  Description: 'Studio indépendant de jeu vidéo installé à Orange, fondé en 2009 comme studio d''animation, auteur de Kena: Bridge of Spirits (2021, portage Nintendo Switch 2 en mars 2026) et qui développe sa suite Kena: Scars of Kosmora (PS5 et PC, repoussée à 2027).'
+  Place:
+    - Country: États-Unis
+      City: Orange
+      Coordinates: [33.78975, -117.85825]
+      Address: 557 West Maple Ave, Orange, CA 92868
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://emberlab.com/careers/
+  Employees: 30
+  Keywords: [Kena, action-aventure, Unreal Engine, animation, PlayStation]
+
+- Name: Proto
+  Name-long: Proto Hologram Inc.
+  url: https://protohologram.com/
+  Description: Fabricant de Van Nuys d'écrans « holographiques » grandeur nature (Proto Luma) et de table (Proto M2) avec système d'exploitation propriétaire, pour l'holoportation en direct de personnes et la diffusion d'avatars IA dans les commerces, événements, l'éducation et la santé.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.19947, -118.49246]
+      Address: 7111 Hayvenhurst Avenue, Van Nuys, Los Angeles, CA 91406
+  Scientific-domain: [VR/AR, Hardware, Acquisition]
+  Application-domain: [Commerce/Marketing/Publicité, Art/Evenementiel, Loisir Interactif/Immersion/Metavers]
+  Keywords: [affichage holographique, holoportation, avatars IA, informatique spatiale]
+
+- Name: Miso
+  Name-long: Miso Robotics
+  url: https://misorobotics.com/
+  Description: Entreprise de Pasadena qui développe des robots de cuisine guidés par vision par ordinateur (bras Flippy pour fritures et grillades) et dispose d'un laboratoire d'innovation en IA et robotique à Los Angeles.
+  Place:
+    - Country: États-Unis
+      City: Pasadena
+      Coordinates: [34.14447, -118.13709]
+      Address: 650 E Green Street, Pasadena, CA 91101
+  Scientific-domain: [Vision]
+  Application-domain: [Robotique/Systèmes autonomes]
+  Keywords: [robotique, vision par ordinateur, automatisation de cuisine]
+
+- Name: Elementary
+  url: https://www.elementaryml.com/
+  Description: Éditeur de South Pasadena de systèmes d'inspection visuelle par apprentissage automatique pour les lignes de production (caméras, plateforme QualityOS, VisionLink), avec un bureau à Mexico.
+  Place:
+    - Country: États-Unis
+      City: South Pasadena
+      Coordinates: [34.11214, -118.1729]
+      Address: 161 Pasadena Ave. Suite B, South Pasadena, CA 91030
+  Scientific-domain: [Vision, Acquisition]
+  Application-domain: [Industrie/Manufacturing/CAO]
+  Keywords: [vision industrielle, contrôle qualité, apprentissage automatique, inspection automatisée]
+
+- Name: SonoSim
+  url: https://sonosim.com/
+  Description: Éditeur angelin du SonoSimulator, simulateur d'échographie à sonde suivie qui fait balayer à l'apprenant des milliers de cas réels (anatomie normale et pathologique), utilisé par les facultés de médecine, centres de simulation et l'armée.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [33.98906, -118.46203]
+      Address: 606 Venice Blvd. B1100, Venice, Los Angeles, CA 90291
+  Scientific-domain: [Imagerie, Simulation, IHM/Haptique]
+  Application-domain: [Médical/Biologique, Entrainement/Formation/Serious Game]
+  Keywords: [simulation d'échographie, imagerie médicale, formation médicale, sonde suivie]
+
+- Name: AppliedVR
+  url: https://www.appliedvr.io/
+  Description: Entreprise de Van Nuys qui développe des thérapies en réalité virtuelle (RelieVRx, dispositif médical autorisé par la FDA contre la lombalgie chronique, SustainVR) et mène des programmes de recherche clinique sur les « thérapeutiques immersives ».
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.2131, -118.49854]
+      Address: 16760 Stagg St Unit 216, Van Nuys, Los Angeles, CA 91406
+  Scientific-domain: [VR/AR, IHM/Haptique]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.appliedvr.io/careers
+  Keywords: [réalité virtuelle, thérapeutique numérique, douleur chronique, dispositif médical]
+
+- Name: Promise
+  Name-long: Promise Advanced Imagination
+  url: https://www.promise.ai/
+  Description: Studio de Venice fondé en 2024 pour produire films et séries avec l'IA générative, sur son pipeline propriétaire MUSE, soutenu par Andreessen Horowitz, The North Road Company et le Google AI Futures Fund (2025), et propriétaire de l'école Curious Refuge.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [IA générative (image/3D), Pipeline/Outils de production, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 40
+  Keywords: [IA générative, production de films, pipeline MUSE, effets visuels génératifs]
+
+- Name: VNTANA
+  url: https://www.vntana.com/
+  Description: Éditeur angelin d'une plateforme de gestion et d'optimisation automatique d'actifs 3D (conversion de fichiers CAO et de conception en 3D web, visionneuse 3D, configurateurs) pour le commerce en ligne et la mode, avec un module pour Blender et une intégration à l'API 3D d'Amazon annoncés en 2026.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [Visualisation, Pipeline/Outils de production, Géométrie]
+  Application-domain: [Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires]
+  Employees: 24
+  Keywords: [optimisation 3D, gestion d'actifs 3D, visionneuse web, commerce en ligne]
+
+- Name: Secret Level
+  url: https://www.secretlevel.co/
+  Description: Studio de divertissement angelin fondé par le réalisateur Jason Zada qui produit films, séries et contenus de marque avec un pipeline propriétaire d'IA générative, dont Terrarium, long métrage hybride IA et prise de vue réelle annoncé en mai 2026 avec Artlist et le producteur Steven Schneider.
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [IA générative (image/3D), Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://www.secretlevel.co/about
+  Keywords: [IA générative, production de films, contenus de marque, pipeline IA]
+
+- Name: Automotus
+  url: https://www.automotus.ai/
+  Description: 'Start-up angeline de gestion automatisée des bordures de trottoir : caméras à vision par ordinateur fixées sur l''éclairage public qui détectent stationnements et livraisons (zones de livraison zéro émission avec le LADOT, aéroports).'
+  Place:
+    - Country: États-Unis
+      City: Los Angeles
+      Coordinates: [34.0522, -118.2437]
+  Scientific-domain: [Vision]
+  Application-domain: [Architecture/BTP/Urbanisme, Automobile/Navigation/Aviation]
+  Jobs: https://www.automotus.ai/
+  Employees: 24
+  Keywords: [vision par ordinateur, gestion de la voirie, ville intelligente, caméras]
+
+- Name: Syntiant
+  url: https://www.syntiant.com/
+  Description: Concepteur de puces d'IA embarquée (processeurs neuronaux NDP) basé à Irvine, qui étend son offre de la voix vers la vision (détection de personnes, modèles de vision à base de transformeurs, outils d'entraînement de modèles de vision, monture intelligente présentée au CES 2026).
+  Place:
+    - Country: États-Unis
+      City: Irvine
+      Coordinates: [33.6846, -117.8265]
+  Scientific-domain: [Hardware, Vision]
+  Application-domain: [Générique, Robotique/Systèmes autonomes]
+  Employees: 43
+  Keywords: [IA embarquée, processeur neuronal, vision embarquée, semi-conducteurs]
+
+- Name: Calty
+  Name-long: CALTY Design Research (Toyota)
+  url: https://pressroom.toyota.com/
+  Description: Centre de design nord-américain de Toyota, dont le studio de design avancé de Newport Beach crée concepts et véhicules Toyota et Lexus (esquisses, modélisation 3D numérique, films en images de synthèse et maquettes), avec un studio satellite à Ann Arbor.
+  Place:
+    - Country: États-Unis
+      City: Newport Beach
+      Coordinates: [33.6189, -117.9289]
+  Scientific-domain: [Design/Fabrication, Modélisation, Visualisation]
+  Application-domain: [Automobile/Navigation/Aviation]
+  Keywords: [design automobile, modélisation numérique, concept-cars, Toyota, Lexus]
+
+- Name: Hyundai Design Center
+  Name-long: Hyundai Design Center (Hyundai America Technical Center)
+  url: https://careers-americas.hyundai.com/
+  Description: Studio de design nord-américain de Hyundai à Irvine, au sein du Hyundai America Technical Center, qui conçoit des véhicules futurs avec des équipes de design, de maquettes en argile et de modélisation numérique de surfaces (CAS) en lien avec la R&D coréenne.
+  Place:
+    - Country: États-Unis
+      City: Irvine
+      Coordinates: [33.6846, -117.8265]
+  Scientific-domain: [Design/Fabrication, Modélisation]
+  Application-domain: [Automobile/Navigation/Aviation]
+  Jobs: https://careers-americas.hyundai.com/hatci/
+  Keywords: [design automobile, modélisation numérique, CAS, Hyundai]
+
+- Name: Rivian
+  url: https://rivian.com/
+  Description: Constructeur de véhicules électriques dont le siège d'Irvine abrite le studio de design (modélisation numérique 3D, animation et rendu des concepts) et des équipes logicielles, avec une interface embarquée développée sous Unreal Engine.
+  Place:
+    - Country: États-Unis
+      City: Irvine
+      Coordinates: [33.71209, -117.80363]
+      Address: 14600 Myford Road, Irvine, CA 92606
+  Scientific-domain: [Design/Fabrication, Rendu temps réel/Moteurs 3D, Vision]
+  Application-domain: [Automobile/Navigation/Aviation]
+  Jobs: https://careers.rivian.com/
+  Keywords: [véhicule électrique, design automobile, Unreal Engine, interface embarquée]
+
+- Name: Alcon
+  Name-long: Alcon (campus de Lake Forest)
+  url: https://www.alcon.com/
+  Description: Groupe d'ophtalmologie dont le campus principal de Lake Forest développe des équipements chirurgicaux et des produits de diagnostic et de visualisation ophtalmiques (imagerie, optique, logiciels de dispositifs médicaux).
+  Place:
+    - Country: États-Unis
+      City: Lake Forest
+      Coordinates: [33.6469, -117.6892]
+  Scientific-domain: [Imagerie, Visualisation]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://alcon.wd5.myworkdayjobs.com/careers_alcon
+  Keywords: [ophtalmologie, imagerie médicale, visualisation chirurgicale, dispositifs médicaux]
+
+- Name: GM Advanced Design California
+  Name-long: General Motors Advanced Design Studio (Pasadena)
+  url: https://www.gm.com/
+  Description: Nouveau studio de design avancé de General Motors installé dans le nord-est de Pasadena, qui réunit designers, ingénieurs et maquettistes pour créer les concept-cars du groupe (GMC Hummer X), en combinant maquettes en argile, numérisation 3D et outils d'IA.
+  Place:
+    - Country: États-Unis
+      City: Pasadena
+      Coordinates: [34.1478, -118.1445]
+  Scientific-domain: [Design/Fabrication, Modélisation, Acquisition]
+  Application-domain: [Automobile/Navigation/Aviation]
+  Keywords: [design automobile, concept-cars, numérisation 3D, General Motors]

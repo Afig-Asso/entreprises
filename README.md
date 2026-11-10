@@ -346,6 +346,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.airy3d.com/join-us/)
 
 
+* **[Alcon](https://www.alcon.com/)** (Alcon (campus de Lake Forest)) 
+  * _Groupe d'ophtalmologie dont le campus principal de Lake Forest développe des équipements chirurgicaux et des produits de diagnostic et de visualisation ophtalmiques (imagerie, optique, logiciels de dispositifs médicaux)._
+  * **Mots clés**: _ophtalmologie, imagerie médicale, visualisation chirurgicale, dispositifs médicaux_
+  * **Localisation**: États-Unis/Lake Forest
+  * **Domaine scientifique/technique**: Imagerie, Visualisation
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://alcon.wd5.myworkdayjobs.com/careers_alcon)
+
+
 * **[Aledia](https://www.aledia.com/)**  
   * _Concepteur de micro-LED à base de nanofils 3D sur silicium pour les écrans, notamment de réalité augmentée._
   * **Mots clés**: _micro-LED, nanofils, GaN sur silicium, puce/semi-conducteur, micro-écran, réalité augmentée_
@@ -363,6 +372,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://jobs.aligntech.com/)
+
+
+* **[Alkemy X](https://alkemy-x.com/)**  
+  * _Studio d'effets visuels, d'animation, de montage et de production pour le cinéma, les séries et la publicité, avec un bureau à Burbank aux côtés de ses studios du New Jersey, de New York et de Vancouver._
+  * **Mots clés**: _effets visuels, séries, publicité_
+  * **Localisation**: États-Unis/Burbank, Canada/Vancouver, Canada/Toronto
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
 * **[Alma](https://www.alma.fr/nos-activites/logiciels-cfao/)** (Alma Logiciels CFAO) 
@@ -507,7 +524,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Animatrik](https://www.animatrik.com/)**  
   * _Studio de capture de performance (corps et visage) et de tournage temps réel basé à Burnaby, doté d'un des plus grands plateaux de motion capture indépendants d'Amérique du Nord, au service du cinéma, du jeu vidéo et de la XR._
   * **Mots clés**: _motion capture, capture faciale, production virtuelle, Burnaby_
-  * **Localisation**: Canada/Burnaby, États-Unis/Los Angeles
+  * **Localisation**: Canada/Burnaby, États-Unis/Culver City
   * **Domaine scientifique/technique**: Acquisition, Animation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
 
@@ -552,11 +569,20 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Apple](https://www.apple.com/)**  
   * _Constructeur américain d'appareils grand public (Mac, iPhone, iPad, Vision Pro) conçus autour de ses propres puces Apple Silicon à GPU intégré._
   * **Mots clés**: _matériel grand public, puce/semi-conducteur, GPU, réalité mixte, Apple Vision Pro, écrans_
-  * **Localisation**: États-Unis/Cupertino, International
+  * **Localisation**: États-Unis/Cupertino, États-Unis/Culver City, International
   * **Nombres d'employés**: 160000
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Hardware, Vision
   * **Domaine d'application**: Générique
   * [_Jobs_](https://jobs.apple.com)
+
+
+* **[AppliedVR](https://www.appliedvr.io/)**  
+  * _Entreprise de Van Nuys qui développe des thérapies en réalité virtuelle (RelieVRx, dispositif médical autorisé par la FDA contre la lombalgie chronique, SustainVR) et mène des programmes de recherche clinique sur les « thérapeutiques immersives »._
+  * **Mots clés**: _réalité virtuelle, thérapeutique numérique, douleur chronique, dispositif médical_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Domaine scientifique/technique**: VR/AR, IHM/Haptique
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.appliedvr.io/careers)
 
 
 * **[Archi Graphi](https://archi-graphi.fr/)**  
@@ -802,6 +828,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.autodesk.com/careers/overview)
 
 
+* **[Automotus](https://www.automotus.ai/)**  
+  * _Start-up angeline de gestion automatisée des bordures de trottoir : caméras à vision par ordinateur fixées sur l'éclairage public qui détectent stationnements et livraisons (zones de livraison zéro émission avec le LADOT, aéroports)._
+  * **Mots clés**: _vision par ordinateur, gestion de la voirie, ville intelligente, caméras_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 24
+  * **Domaine scientifique/technique**: Vision
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Automobile/Navigation/Aviation
+  * [_Jobs_](https://www.automotus.ai/)
+
+
 * **[AutreChose](https://www.autrechose.fr/)**  
   * _Studio de post-production spécialisé dans la réalisation d'effets spéciaux numériques 2D et 3D pour le cinéma et les séries._
   * **Mots clés**: _effets visuels, compositing, long métrage, séries TV, supervision de tournage, post-production_
@@ -943,6 +979,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Modélisation, Simulation, Visualisation
   * **Domaine d'application**: Énergie/Environnement
   * [_Jobs_](https://www.beicip.com/careers/)
+
+
+* **[Believer](https://believer.gg/)**  
+  * _Studio de jeu vidéo fondé en 2023 par d'anciens dirigeants de Riot Games et basé à Los Angeles, qui développe un jeu en monde ouvert coopératif sous Unreal Engine 5 et publie des outils libres pour Unreal (Friendshipper, Claireon)._
+  * **Mots clés**: _monde ouvert, Unreal Engine 5, outils open source, start-up_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 33
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://believer.gg/jobs/)
 
 
 * **[Bentley](https://www.bentley.com/)**  
@@ -1206,6 +1252,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Brand New School](https://www.brandnewschool.com/)**  
+  * _Studio de création de Los Angeles fondé il y a une vingtaine d'années, qui réalise pour des marques du motion design, de l'animation 3D, des effets visuels et des expériences interactives, avec une activité de technologie créative (pipelines IA, outils)._
+  * **Mots clés**: _motion design, animation 3D, effets visuels, technologie créative_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 64
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.brandnewschool.com/careers)
+
+
 * **[BrandXR](https://www.brandxr.io/)**  
   * _Agence et plateforme américaine de réalité augmentée (WebAR, filtres Instagram/Snapchat, fresques AR) pour le marketing, l'éducation et le commerce._
   * **Mots clés**: _réalité augmentée, agence créative, marketing, WebAR, filtres réseaux sociaux, e-commerce/configurateur 3D_
@@ -1250,6 +1306,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Web/Cloud/Big Data
   * **Domaine d'application**: Générique
   * [_Jobs_](https://broadpeak.tv/join-our-team/)
+
+
+* **[Brompton Technology](https://www.bromptontech.com/)**  
+  * _Fabricant londonien de processeurs vidéo pour écrans LED (gamme Tessera) utilisés sur les volumes de production virtuelle, les plateaux de tournage et les grandes tournées, comme le Debí Tirar Más Fotos World Tour de Bad Bunny (2025-2026)._
+  * **Mots clés**: _processeur LED, production virtuelle, Tessera, écrans LED_
+  * **Localisation**: États-Unis/Burbank, Royaume-Uni/Londres
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Hardware, Imagerie, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+  * [_Jobs_](https://www.bromptontech.com/careers/)
 
 
 * **[Brown Bag Films](https://www.brownbagfilms.com/)**  
@@ -1352,6 +1418,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, VR/AR
   * **Domaine d'application**: Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game, Sécurité/Défense
   * [_Jobs_](https://www.cae.com/careers/)
+
+
+* **[Calty](https://pressroom.toyota.com/)** (CALTY Design Research (Toyota)) 
+  * _Centre de design nord-américain de Toyota, dont le studio de design avancé de Newport Beach crée concepts et véhicules Toyota et Lexus (esquisses, modélisation 3D numérique, films en images de synthèse et maquettes), avec un studio satellite à Ann Arbor._
+  * **Mots clés**: _design automobile, modélisation numérique, concept-cars, Toyota, Lexus_
+  * **Localisation**: États-Unis/Newport Beach
+  * **Domaine scientifique/technique**: Design/Fabrication, Modélisation, Visualisation
+  * **Domaine d'application**: Automobile/Navigation/Aviation
 
 
 * **[Canon Research Centre France](https://www.crf.canon.fr/)**  
@@ -1630,6 +1704,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.cognitive-design-systems.com/careers)
 
 
+* **[Colorfront](https://colorfront.com/)**  
+  * _Éditeur de logiciels de dailies, de transcodage et de mastering (Transkoder, Express Dailies, Streaming Server, Colorfront Engine) utilisés par les studios hollywoodiens et les plateformes, avec en avril 2026 Colorfront Immersive Utility pour l'Apple Immersive Video._
+  * **Mots clés**: _dailies, transcodage, HDR, gestion des couleurs_
+  * **Localisation**: États-Unis/Santa Monica
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Imagerie, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Company 3](https://www.company3.com/)**  
   * _Studio de post-production haut de gamme (étalonnage, finition, dailies, VFX de finition) pour le cinéma, les séries et la publicité, avec des références récentes comme Blade Runner 2099 et The Mosquito Bowl._
   * **Mots clés**: _étalonnage, finition, post-production, dailies_
@@ -1666,6 +1749,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Design/Fabrication, Géométrie, Visualisation
   * **Domaine d'application**: Industrie/Manufacturing/CAO
   * [_Jobs_](https://coretechnologie.com/ct-core-technologie-company-profile/career/)
+
+
+* **[Corridor Digital](https://www.corridordigital.com/)**  
+  * _Studio de production indépendant fondé en 2009 par Sam Gorski et Niko Pueringer, spécialisé dans les courts métrages à effets visuels pour YouTube (chaînes Corridor Digital et Corridor Crew, plus de 10 millions d'abonnés) et les analyses d'effets de films._
+  * **Mots clés**: _effets visuels, YouTube, courts métrages_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 24
+  * **Domaine scientifique/technique**: Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
 * **[CoSA VFX](https://www.cosavfx.com/)**  
@@ -1889,6 +1981,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.dayfornite.com/jobs)
+
+
+* **[Deep Voodoo](https://deepvoodoo.com/)**  
+  * _Studio d'effets visuels par IA (deepfake, rajeunissement, remplacement de visage) fondé par Trey Parker et Matt Stone, crédité sur la saison 27 de South Park, la saison 2 de Ted, le clip In the Stars des Rolling Stones et une publicité Dunkin' du Super Bowl LX (2026)._
+  * **Mots clés**: _deepfake, humains numériques, rajeunissement, IA_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 30
+  * **Domaine scientifique/technique**: IA générative (image/3D), Rendu offline/VFX, Vision
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
 * **[Deepnight Games](https://deepnight.net/)**  
@@ -2381,6 +2482,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
+* **[Elementary](https://www.elementaryml.com/)**  
+  * _Éditeur de South Pasadena de systèmes d'inspection visuelle par apprentissage automatique pour les lignes de production (caméras, plateforme QualityOS, VisionLink), avec un bureau à Mexico._
+  * **Mots clés**: _vision industrielle, contrôle qualité, apprentissage automatique, inspection automatisée_
+  * **Localisation**: États-Unis/South Pasadena
+  * **Domaine scientifique/technique**: Vision, Acquisition
+  * **Domaine d'application**: Industrie/Manufacturing/CAO
+
+
 * **[Ellipse Animation](https://www.ellipseanimation.com/)** (Ellipse Studio Angoulême (Dargaud Media / Média-Participations)) 
   * _Studio de fabrication de séries et longs métrages d'animation 2D et 3D du groupe Média-Participations (La Famille Blaireau-Renard, Belfort & Lupin, Yakari) ; l'antenne d'Angoulême développe aussi le webtoon (Angoulême Webtoon Academy)._
   * **Mots clés**: _animation 2D, animation 3D, séries TV, long métrage, webtoon_
@@ -2388,6 +2497,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.ellipseanimation.com/careers/)
+
+
+* **[Ember Lab](https://emberlab.com/)**  
+  * _Studio indépendant de jeu vidéo installé à Orange, fondé en 2009 comme studio d'animation, auteur de Kena: Bridge of Spirits (2021, portage Nintendo Switch 2 en mars 2026) et qui développe sa suite Kena: Scars of Kosmora (PS5 et PC, repoussée à 2027)._
+  * **Mots clés**: _Kena, action-aventure, Unreal Engine, animation, PlayStation_
+  * **Localisation**: États-Unis/Orange
+  * **Nombres d'employés**: 30
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://emberlab.com/careers/)
 
 
 * **[Embers](https://embers.games/)**  
@@ -2515,6 +2634,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[EuroVisual](https://www.eurovisual.tv/)** (Euro Visual (ex-Cyber Group Studios)) 
+  * _Société parisienne de production et d'animation qui a repris en 2026 la majorité des actifs de Cyber Group Studios et produit des séries jeunesse en 3D et en 2D (Gigantosaurus saison 4, Ozie Boo!, Zorro, Taffy, Mick the Mini Chef)._
+  * **Mots clés**: _séries d'animation, jeunesse, 3D CGI, 2D, Gigantosaurus_
+  * **Remarque**: _Cyber Group Studios (fondé en 2003) a été liquidé en avril 2025 ; Pierre Sissmann, son cofondateur, et Grégoire Parcollet ont racheté 80 % de ses actifs via Euro Visual en janvier 2026._
+  * **Localisation**: Paris
+  * **Domaine scientifique/technique**: Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[EVA](https://www.eva.gg/en-FR)** (Esports Virtual Arenas) 
   * _Réseau de plus de 55 arènes de réalité virtuelle en free roaming (500 m², jusqu'à 10 joueurs) proposant des jeux VR exclusifs et des compétitions d'eSport._
   * **Mots clés**: _jeu VR, réalité virtuelle, free roaming, eSport, arènes VR, multijoueur en ligne_
@@ -2634,6 +2762,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Entrainement/Formation/Serious Game
 
 
+* **[FilmLight](https://www.filmlight.ltd.uk/)**  
+  * _Éditeur londonien de systèmes d'étalonnage et de gestion des couleurs (Baselight, Daylight, Prelight, Truelight) utilisés en post-production cinéma, séries et publicité, avec un bureau à Hollywood._
+  * **Mots clés**: _étalonnage, science des couleurs, Baselight, post-production_
+  * **Localisation**: États-Unis/Los Angeles, Royaume-Uni/Londres
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Imagerie, Pipeline/Outils de production, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://www.filmlight.ltd.uk/contacts/recruitment/overview_rt.php)
+
+
 * **[Firesprite](https://firesprite.com/)**  
   * _Studio de Liverpool de Sony Interactive Entertainment (The Playroom VR, The Persistence, Horizon Call of the Mountain)._
   * **Mots clés**: _jeu vidéo, VR, PlayStation_
@@ -2680,6 +2818,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Simulation, Visualisation
   * **Domaine d'application**: Énergie/Environnement, Industrie/Manufacturing/CAO
+
+
+* **[Flying Bark Productions](https://www.flyingbark.com.au/)**  
+  * _Studio d'animation 2D et 3D australien (groupe Studio 100), qui a ouvert un studio à Burbank et fabrique avec ses équipes de Los Angeles, Sydney et Madrid la série Stranger Things: Tales From '85 (Netflix, 2026) et le long métrage The Legend of Aang: The Last Airbender (Paramount)._
+  * **Mots clés**: _animation 2D, animation 3D, séries, longs métrages, Studio 100_
+  * **Localisation**: États-Unis/Burbank
+  * **Nombres d'employés**: 700
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://flyingbarkproductions.applytojob.com/)
 
 
 * **[Focus Entertainment](https://www.focus-entmt.com/fr)**  
@@ -2853,6 +3001,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.gaoshanpictures.com/recrutement)
 
 
+* **[Genies](https://genies.com/)**  
+  * _Éditeur d'une technologie d'avatars 3D et de personnages IA (SDK Genies, Genies Studio) qui donne une apparence et un corps animé à des agents conversationnels, des PNJ et des avatars de célébrités._
+  * **Mots clés**: _avatars 3D, humains numériques, personnages IA, SDK_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Animation, IA générative (image/3D), Modélisation
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Commerce/Marketing/Publicité
+  * [_Jobs_](https://jobs.ashbyhq.com/genies)
+
+
 * **[Gentle Giant Studios](https://www.gentlegiantstudios.com/)**  
   * _Studio de Burbank spécialisé dans le scan 3D et la photogrammétrie (studio mobile de photogrammétrie pour les VFX), le design numérique et la fabrication additive de figurines, prototypes et pièces pour le cinéma, les parcs à thème et les produits dérivés._
   * **Mots clés**: _scan 3D, photogrammétrie, impression 3D, sculpture numérique_
@@ -2938,6 +3096,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
+* **[GM Advanced Design California](https://www.gm.com/)** (General Motors Advanced Design Studio (Pasadena)) 
+  * _Nouveau studio de design avancé de General Motors installé dans le nord-est de Pasadena, qui réunit designers, ingénieurs et maquettistes pour créer les concept-cars du groupe (GMC Hummer X), en combinant maquettes en argile, numérisation 3D et outils d'IA._
+  * **Mots clés**: _design automobile, concept-cars, numérisation 3D, General Motors_
+  * **Localisation**: États-Unis/Pasadena
+  * **Domaine scientifique/technique**: Design/Fabrication, Modélisation, Acquisition
+  * **Domaine d'application**: Automobile/Navigation/Aviation
+
+
 * **[Goblinz Studio](https://goblinz.com/)**  
   * _Studio de développement et éditeur de jeux vidéo indépendants (Legend of Keepers)._
   * **Mots clés**: _jeu indépendant, édition de jeux, console/PC, jeu de stratégie, roguelite, Legend of Keepers_
@@ -2961,7 +3127,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Groupe américain du moteur de recherche, d'Android, de Google Maps et des modèles d'IA Gemini, avec des activités de recherche en vision, rendu et IA._
   * **Mots clés**: _deep learning, IA générative, cartographie, réalité augmentée, cloud/streaming, Gemini_
   * **Remarque**: _<a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique_
-  * **Localisation**: États-Unis/Mountain View, International
+  * **Localisation**: États-Unis/Mountain View, États-Unis/Los Angeles, International
   * **Nombres d'employés**: 140000
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -3064,6 +3230,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Laval
   * **Domaine scientifique/technique**: IHM/Haptique, VR/AR, Simulation
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Médical/Biologique, Industrie/Manufacturing/CAO
+
+
+* **[Harbor](https://harborpicturecompany.com/)**  
+  * _Studio de post-production et de production (étalonnage, VFX, dailies, son, montage) pour le cinéma, les séries et la publicité, avec en 2026 l'étalonnage de The Devil Wears Prada 2, Widow's Bay et Cape Fear._
+  * **Mots clés**: _post-production, étalonnage, VFX, finition_
+  * **Localisation**: États-Unis/Santa Monica, États-Unis/Los Angeles, Royaume-Uni/Londres
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Imagerie, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://harborpicturecompany.com/careers/)
 
 
 * **[Harfang3D](https://www.harfang3d.com/)**  
@@ -3329,6 +3505,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision, Analyse de données
   * **Domaine d'application**: Énergie/Environnement, Géospatial/Cartographie, Sécurité/Défense
+
+
+* **[Hyundai Design Center](https://careers-americas.hyundai.com/)** (Hyundai Design Center (Hyundai America Technical Center)) 
+  * _Studio de design nord-américain de Hyundai à Irvine, au sein du Hyundai America Technical Center, qui conçoit des véhicules futurs avec des équipes de design, de maquettes en argile et de modélisation numérique de surfaces (CAS) en lien avec la R&D coréenne._
+  * **Mots clés**: _design automobile, modélisation numérique, CAS, Hyundai_
+  * **Localisation**: États-Unis/Irvine
+  * **Domaine scientifique/technique**: Design/Fabrication, Modélisation
+  * **Domaine d'application**: Automobile/Navigation/Aviation
+  * [_Jobs_](https://careers-americas.hyundai.com/hatci/)
 
 
 * **[I Am A Dog Studio](https://www.cibogame.com/)**  
@@ -3884,6 +4069,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[JAMM](https://www.jammvisual.com/)**  
+  * _Studio indépendant d'effets visuels 2D/3D et d'étalonnage pour la publicité fondé en 2014 à Los Angeles, auteur de spots du Super Bowl (Hyundai) et de campagnes primées (Cannes, VES Awards, Emmy), avec un studio à Londres depuis 2025._
+  * **Mots clés**: _effets visuels, publicité, étalonnage_
+  * **Localisation**: États-Unis/Culver City, Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu offline/VFX
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.jammvisual.com/careers/)
+
+
 * **[JPL Films](https://jplfilms.com/)**  
   * _Société de production rennaise de films d'animation (marionnettes, papier découpé, 2D, coproductions 3D), courts métrages et séries._
   * **Mots clés**: _stop motion, animation 2D, court métrage, séries d'animation_
@@ -4145,6 +4339,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 100
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Lasergraphics](https://lasergraphics.com/)**  
+  * _Fabricant de scanners de films cinématographiques (Director, ScanStation) et de leurs logiciels de traitement d'image, utilisés en 2026 par la BFI, les archives de l'UCLA, Warner Bros. Motion Picture Imaging ou pour la restauration d'épisodes de Doctor Who de 1965._
+  * **Mots clés**: _scanner de film, numérisation, restauration, HDR_
+  * **Localisation**: États-Unis/Irvine
+  * **Nombres d'employés**: 30
+  * **Domaine scientifique/technique**: Acquisition, Imagerie, Hardware
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Patrimoine/Culture
 
 
 * **[Le Cartel Studio](https://lecartelstudio.fr/)**  
@@ -4747,7 +4950,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Éditeur allemand de logiciels de création 3D et vidéo : Cinema 4D, ZBrush, moteur de rendu Redshift et effets Red Giant._
   * **Mots clés**: _Cinema 4D, ZBrush, Redshift, motion design, plugin/logiciel pour artistes, effets visuels, sculpture numérique_
   * **Produits**: ZBrush, Cinema4D, etc.
-  * **Localisation**: États-Unis, Canada, Allemagne
+  * **Localisation**: États-Unis/Newport Beach, Canada, Allemagne
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
   * [_Jobs_](https://www.maxon.net/fr/about-maxon/careers)
@@ -5026,12 +5229,30 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Miso](https://misorobotics.com/)** (Miso Robotics) 
+  * _Entreprise de Pasadena qui développe des robots de cuisine guidés par vision par ordinateur (bras Flippy pour fritures et grillades) et dispose d'un laboratoire d'innovation en IA et robotique à Los Angeles._
+  * **Mots clés**: _robotique, vision par ordinateur, automatisation de cuisine_
+  * **Localisation**: États-Unis/Pasadena
+  * **Domaine scientifique/technique**: Vision
+  * **Domaine d'application**: Robotique/Systèmes autonomes
+
+
 * **[Miyu Productions](https://www.miyu.fr/)**  
   * _Société de production spécialisée en animation (courts, séries, longs) disposant d'un studio de fabrication à Angoulême, aux côtés de Paris et Valence._
   * **Mots clés**: _animation 2D, court métrage, séries, production_
   * **Localisation**: Angoulême, Paris
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Mo-Sys](https://mo-sys.com/)**  
+  * _Entreprise britannique de suivi de caméra et de production virtuelle (StarTracker, VP Pro XR, têtes robotisées) dont le bureau américain de Hawthorne accueille aussi les formations Mo-Sys Academy à Los Angeles._
+  * **Mots clés**: _suivi de caméra, production virtuelle, réalité étendue, robotique caméra_
+  * **Localisation**: États-Unis/Hawthorne, Royaume-Uni/Londres
+  * **Nombres d'employés**: 60
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Acquisition, Hardware
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+  * [_Jobs_](https://mo-sys.com/careers/)
 
 
 * **[Mobigame](https://www.mobigame.net/)**  
@@ -5194,6 +5415,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.mpcvfx.com/fr/carrieres/)
 
 
+* **[MTI Film](https://mtifilm.com/)**  
+  * _Studio de post-production et de restauration de films à Hollywood qui développe aussi ses propres logiciels (Cortex pour les dailies et le mastering, DRS Nova pour la restauration, MTai pour la conversion de cadence et l'agrandissement par IA), en version 7.0 avec accélération GPU NVIDIA._
+  * **Mots clés**: _restauration de films, post-production, traitement d'image, IA_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 59
+  * **Domaine scientifique/technique**: Imagerie, Pipeline/Outils de production, IA générative (image/3D)
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Patrimoine/Culture
+
+
 * **[My Digital Buildings](https://www.mydigitalbuildings.com/)**  
   * _Startup qui produit des jumeaux numériques de bâtiments à partir d'un réseau de scan 3D et d'une plateforme logicielle._
   * **Mots clés**: _scanner 3D, nuage de points, BIM, jumeau numérique, visite virtuelle, architecture_
@@ -5219,6 +5449,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême, Aubervilliers
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[NantStudios](https://nantstudios.com/)**  
+  * _Studio de production virtuelle qui exploite des volumes LED reconfigurables (Dynamic Volume System breveté), une scène de capture de mouvement avec Animatrik et des plateaux à El Segundo et Culver City, ainsi qu'à Melbourne._
+  * **Mots clés**: _production virtuelle, volume LED, ICVFX, motion capture_
+  * **Localisation**: États-Unis/El Segundo, États-Unis/Culver City
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Acquisition, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
 
 
 * **[Naughty Dog](https://www.naughtydog.com/)**  
@@ -5334,7 +5573,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Nexus Studios](https://nexusstudios.com/)**  
   * _Studio de création mêlant animation, VFX et expériences immersives (AR/VR) pour le cinéma, la publicité et les marques, basé à Londres._
   * **Mots clés**: _Animation, XR, VFX_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/Santa Monica
   * **Domaine scientifique/technique**: Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
 
@@ -5750,7 +5989,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Paramount Games Studio](https://www.paramountgames.com/)**  
   * _Studio de jeux de Paramount Skydance créé en juin 2026 par la fusion de Skydance Interactive (The Walking Dead: Saints & Sinners, Behemoth) et Skydance New Media (Marvel 1943: Rise of Hydra, sous la direction créative d'Amy Hennig), rapproché en octobre 2026 des studios de Warner Bros. Games._
   * **Mots clés**: _AAA, réalité virtuelle, Marvel, licences, Unreal Engine_
-  * **Localisation**: États-Unis/Marina del Rey
+  * **Localisation**: États-Unis/{Marina del Rey, Santa Monica}
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, VR/AR
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.paramount.com/careers)
@@ -6210,6 +6449,23 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.prodways.com/about/careers/)
 
 
+* **[Prologue](https://prologue.com/)**  
+  * _Studio de design de génériques et d'effets visuels fondé par Kyle Cooper (Se7en), auteur des génériques de American Horror Story, The Beauty (2026), Tron: Ares et des génériques de fin en CG de The Gorge._
+  * **Mots clés**: _génériques, motion design, effets visuels_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Promise](https://www.promise.ai/)** (Promise Advanced Imagination) 
+  * _Studio de Venice fondé en 2024 pour produire films et séries avec l'IA générative, sur son pipeline propriétaire MUSE, soutenu par Andreessen Horowitz, The North Road Company et le Google AI Futures Fund (2025), et propriétaire de l'école Curious Refuge._
+  * **Mots clés**: _IA générative, production de films, pipeline MUSE, effets visuels génératifs_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 40
+  * **Domaine scientifique/technique**: IA générative (image/3D), Pipeline/Outils de production, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
 * **[Prométhée Earth Intelligence](https://promethee.earth/)**  
   * _Start-up aixoise fondée en 2020 qui développe une constellation de nanosatellites d'observation de la Terre et des services de géo-intelligence fondés sur l'imagerie spatiale._
   * **Mots clés**: _imagerie satellite, observation de la Terre, géo-intelligence, SIG_
@@ -6236,6 +6492,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Générique
   * [_Jobs_](https://careers.prophesee.ai/jobs)
+
+
+* **[Proto](https://protohologram.com/)** (Proto Hologram Inc.) 
+  * _Fabricant de Van Nuys d'écrans « holographiques » grandeur nature (Proto Luma) et de table (Proto M2) avec système d'exploitation propriétaire, pour l'holoportation en direct de personnes et la diffusion d'avatars IA dans les commerces, événements, l'éducation et la santé._
+  * **Mots clés**: _affichage holographique, holoportation, avatars IA, informatique spatiale_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Domaine scientifique/technique**: VR/AR, Hardware, Acquisition
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel, Loisir Interactif/Immersion/Metavers
 
 
 * **[Protozoaire](https://www.protozoaire.com/)**  
@@ -6593,6 +6857,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Rivian](https://rivian.com/)**  
+  * _Constructeur de véhicules électriques dont le siège d'Irvine abrite le studio de design (modélisation numérique 3D, animation et rendu des concepts) et des équipes logicielles, avec une interface embarquée développée sous Unreal Engine._
+  * **Mots clés**: _véhicule électrique, design automobile, Unreal Engine, interface embarquée_
+  * **Localisation**: États-Unis/Irvine
+  * **Domaine scientifique/technique**: Design/Fabrication, Rendu temps réel/Moteurs 3D, Vision
+  * **Domaine d'application**: Automobile/Navigation/Aviation
+  * [_Jobs_](https://careers.rivian.com/)
+
+
 * **[Roblox](https://www.roblox.com/)**  
   * _Plateforme de jeux en ligne free-to-play où les expériences sont créées et partagées par la communauté des joueurs._
   * **Mots clés**: _free-to-play, contenu généré par les joueurs, multijoueur en ligne, mobile, console/PC, plateforme de création_
@@ -6824,6 +7097,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Architecture/BTP/Urbanisme
 
 
+* **[Scholar](https://helloscholar.com/)**  
+  * _Studio de création et de production (anciennement Gentleman Scholar) de Los Angeles et New York, spécialisé en animation 2D et 3D, design et effets visuels pour la publicité (Olipop, Okta)._
+  * **Mots clés**: _animation 3D, motion design, publicité, effets visuels_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 40
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://helloscholar.com/contact)
+
+
 * **[Scialytics](https://www.scialytics.io/)**  
   * _Spin-off de l'IHU Strasbourg (laboratoire CAMMA) qui développe une plateforme d'IA d'analyse de vidéos chirurgicales et des assistants temps réel au bloc opératoire._
   * **Mots clés**: _vision par ordinateur, deep learning, chirurgie assistée, dispositif médical_
@@ -6887,6 +7170,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.seconddinner.com/careers)
+
+
+* **[Secret Level](https://www.secretlevel.co/)**  
+  * _Studio de divertissement angelin fondé par le réalisateur Jason Zada qui produit films, séries et contenus de marque avec un pipeline propriétaire d'IA générative, dont Terrarium, long métrage hybride IA et prise de vue réelle annoncé en mai 2026 avec Artlist et le producteur Steven Schneider._
+  * **Mots clés**: _IA générative, production de films, contenus de marque, pipeline IA_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Domaine scientifique/technique**: IA générative (image/3D), Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://www.secretlevel.co/about)
 
 
 * **[Seed by Seed](https://www.seedbyseed.studio/)**  
@@ -7176,6 +7468,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.solaya.ai/careers)
 
 
+* **[Solid State Studios](https://www.solidstate.com/)**  
+  * _Studio interne d'Activision à Santa Monica consacré au jeu mobile AAA, développeur principal de Call of Duty: Warzone Mobile et chargé de l'exploitation de Call of Duty: Mobile (saisons publiées en 2025-2026)._
+  * **Mots clés**: _jeu mobile, AAA, Call of Duty, FPS_
+  * **Localisation**: États-Unis/Santa Monica
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.solidstate.com/)
+
+
 * **[Sonio](https://www.sonio.ai/)**  
   * _Start-up parisienne (groupe Samsung Medison) d'IA d'aide à l'échographie prénatale et de compte rendu._
   * **Mots clés**: _imagerie médicale, échographie, deep learning_
@@ -7184,6 +7485,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://jobs.ashbyhq.com/sonio)
+
+
+* **[SonoSim](https://sonosim.com/)**  
+  * _Éditeur angelin du SonoSimulator, simulateur d'échographie à sonde suivie qui fait balayer à l'apprenant des milliers de cas réels (anatomie normale et pathologique), utilisé par les facultés de médecine, centres de simulation et l'armée._
+  * **Mots clés**: _simulation d'échographie, imagerie médicale, formation médicale, sonde suivie_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Domaine scientifique/technique**: Imagerie, Simulation, IHM/Haptique
+  * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
 
 
 * **[Sony CSL](https://csl.sony.fr/)**  
@@ -7432,6 +7741,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.stimstudio.com/en/careers/)
 
 
+* **[Stoopid Buddy Stoodios](https://www.leagueofbuddies.com/)**  
+  * _Studio d'animation de Burbank spécialisé en stop-motion (aussi 2D et 3D), qui fabrique Robot Chicken pour Adult Swim, Dinosaur Office et Spy vs. Spy, ainsi que des publicités et des segments des Simpson._
+  * **Mots clés**: _stop-motion, animation, séries adultes, Robot Chicken_
+  * **Localisation**: États-Unis/Burbank
+  * **Nombres d'employés**: 100
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://www.leagueofbuddies.com/contact)
+
+
 * **[Stormancer](https://www.stormancer.com/)**  
   * _Société d'ingénierie spécialisée dans les technologies en ligne pour jeux vidéo (backend, multijoueur, crossplay), ayant travaillé sur plus de 30 jeux pour studios et éditeurs._
   * **Mots clés**: _multijoueur en ligne, backend de jeu, crossplay, co-développement, serveurs de jeu_
@@ -7677,6 +7996,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.synthesia.io/careers)
 
 
+* **[Syntiant](https://www.syntiant.com/)**  
+  * _Concepteur de puces d'IA embarquée (processeurs neuronaux NDP) basé à Irvine, qui étend son offre de la voix vers la vision (détection de personnes, modèles de vision à base de transformeurs, outils d'entraînement de modèles de vision, monture intelligente présentée au CES 2026)._
+  * **Mots clés**: _IA embarquée, processeur neuronal, vision embarquée, semi-conducteurs_
+  * **Localisation**: États-Unis/Irvine
+  * **Nombres d'employés**: 43
+  * **Domaine scientifique/technique**: Hardware, Vision
+  * **Domaine d'application**: Générique, Robotique/Systèmes autonomes
+
+
 * **[SysNav](https://www.sysnav.fr/)**  
   * _Spécialiste français de la géolocalisation de précision sans GPS par navigation magnéto-inertielle brevetée, pour la défense, la sécurité, les véhicules autonomes et la mesure du mouvement en essais cliniques._
   * **Mots clés**: _navigation magnéto-inertielle, géolocalisation sans GPS, défense, véhicule autonome, santé, capteurs inertiels_
@@ -7708,6 +8036,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://careers.take2games.com/jobs)
 
 
+* **[TapBlaze](https://www.tapblaze.com/)**  
+  * _Studio indépendant de jeux mobiles fondé en 2014 à Los Angeles, auteur de Good Pizza, Great Pizza (plus de 250 millions de téléchargements revendiqués), Good Coffee, Great Coffee et Homecraft._
+  * **Mots clés**: _jeu mobile, simulation de gestion, free-to-play, art 2D et 3D_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 20
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://jobs.ashbyhq.com/tapblaze)
+
+
 * **[TAT](https://www.tatprod.com)** (TAT Productions) 
   * _Studio de production et de fabrication de films et séries d'animation 3D (Les As de la Jungle, Astérix et Obélix : le Combat des Chefs)._
   * **Mots clés**: _animation 3D, séries d'animation, long métrage, jeunesse_
@@ -7716,6 +8054,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://jobs.tatprod.com/fr)
+
+
+* **[Tau Films](https://taufilms.com/)**  
+  * _Studio d'effets visuels et d'animation fondé par d'anciens de Rhythm & Hues, avec une équipe de supervision à Los Angeles et une production en Malaisie, en Inde, au Canada et en Chine, auteur d'effets pour Operation Hadal (2025), She's Got No Name (2025) et des attractions de parcs à thème._
+  * **Mots clés**: _effets visuels, créatures, parcs à thème_
+  * **Localisation**: États-Unis/Los Angeles, Canada/Vancouver
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
 
 
 * **[Tchack](https://www.tchack.com/fr/)**  
@@ -7855,6 +8201,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.thalesgroup.com/fr/candidat)
 
 
+* **[That's No Moon](https://thatsnomoon.com/)**  
+  * _Studio AAA de Los Angeles fondé en 2021 par d'anciens de Naughty Dog, Infinity Ward et PlayStation et financé par Smilegate, qui développe Crossfire, réinterprétation en jeu d'action-aventure solo de la licence de tir de Smilegate (dévoilé au Summer Game Fest 2026)._
+  * **Mots clés**: _AAA, jeu narratif, action-aventure, console/PC_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[thatgamecompany](https://thatgamecompany.com/)**  
   * _Studio indépendant de Santa Monica fondé en 2006, auteur de flOw, Flower, Journey et du jeu social Sky: Children of the Light (300 millions de téléchargements en 2026)._
   * **Mots clés**: _jeu d'auteur, jeu social, multijoueur en ligne, mobile, console/PC_
@@ -7890,6 +8244,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.thegamebakers.com/category/jobs/)
+
+
+* **[The Jim Henson Company](https://www.henson.com/)**  
+  * _Société de divertissement familial de Studio City, pionnière de la marionnette numérique (Henson Digital Puppetry Studio) et de l'animation, qui produit Fraggle Rock pour Apple TV (spécial Fraggle Rock: A Holiday Gift, décembre 2026), Word Party, Dinosaur Train et la série d'animation Lore Olympus._
+  * **Mots clés**: _marionnette numérique, animation, séries jeunesse, Fraggle Rock_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D, Acquisition
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.henson.com/careers/)
 
 
 * **[The Pixel Hunt](https://www.thepixelhunt.com/)**  
@@ -7949,6 +8312,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.theiamarkerless.com/careers)
 
 
+* **[Theorycraft Games](https://theorycraftgames.com/)**  
+  * _Studio de Los Angeles fondé en 2020 par des anciens de Riot Games, Bungie et Blizzard, développeur du jeu d'action multijoueur Supervive (serveurs fermés en février 2026), qui travaille sur son prochain jeu._
+  * **Mots clés**: _multijoueur en ligne, free-to-play, MOBA, Unreal Engine_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 37
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://theorycraftgames.com/careers)
+
+
 * **[Therapixel](https://www.therapixel.fr/)**  
   * _Éditeur niçois issu de l'Inria Sophia Antipolis (2013) de logiciels d'intelligence artificielle appliquée à l'imagerie médicale, notamment pour le dépistage du cancer du sein en mammographie._
   * **Mots clés**: _imagerie médicale, deep learning, mammographie, aide au diagnostic_
@@ -7995,6 +8368,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, IHM/Haptique
   * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture, Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://www.theoriz.com/fr/jobs/)
+
+
+* **[Tic Toc Games](https://tictocgames.com/)**  
+  * _Studio de développement et de prestation fondé en 2011 à Burbank (studio associé à Manille), auteur de Funko Pop! Blitz et Adventures of Pip, co-développeur de Rift of the NecroDancer, qui prépare Wrestle Story._
+  * **Mots clés**: _prestation, co-développement, jeu mobile, console/PC_
+  * **Localisation**: États-Unis/Burbank
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://tictocgames.com/jobs/)
 
 
 * **[Time Based Arts](https://www.time-based-arts.com/)**  
@@ -8376,7 +8758,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Fabricant britannique de systèmes de motion capture optique (caméras et logiciels, avec ou sans marqueurs) pour le cinéma, le jeu vidéo, la biomécanique et l'ingénierie._
   * **Mots clés**: _motion capture, capture optique, capture sans marqueurs, biomécanique, analyse de la marche, production virtuelle, réalité virtuelle_
   * **Remarque**: _Filiale du groupe Oxford Metrics._
-  * **Localisation**: Royaume-Uni/Oxford
+  * **Localisation**: Royaume-Uni/Oxford, États-Unis/Culver City
   * **Domaine scientifique/technique**: Acquisition, Animation, VR/AR
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Entrainement/Formation/Serious Game
   * [_Jobs_](https://www.vicon.com/careers/)
@@ -8526,7 +8908,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Visual Concepts](https://vcentertainment.com/)**  
   * _Studio de 2K (Take-Two Interactive) développeur des jeux de sport NBA 2K et WWE 2K, dont le studio d'Agoura Hills porte notamment la série WWE 2K._
   * **Mots clés**: _jeu de sport, NBA 2K, WWE 2K, capture de mouvement, console/PC_
-  * **Localisation**: États-Unis/Agoura Hills
+  * **Localisation**: États-Unis/{Agoura Hills, Irvine}
   * **Nombres d'employés**: 300
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition
   * **Domaine d'application**: Jeu Vidéo
@@ -8549,6 +8931,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/Conifer
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Visualisation
   * **Domaine d'application**: Architecture/BTP/Urbanisme
+
+
+* **[VNTANA](https://www.vntana.com/)**  
+  * _Éditeur angelin d'une plateforme de gestion et d'optimisation automatique d'actifs 3D (conversion de fichiers CAO et de conception en 3D web, visionneuse 3D, configurateurs) pour le commerce en ligne et la mode, avec un module pour Blender et une intégration à l'API 3D d'Amazon annoncés en 2026._
+  * **Mots clés**: _optimisation 3D, gestion d'actifs 3D, visionneuse web, commerce en ligne_
+  * **Localisation**: États-Unis/Los Angeles
+  * **Nombres d'employés**: 24
+  * **Domaine scientifique/technique**: Visualisation, Pipeline/Outils de production, Géométrie
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Mode/Vêtements/Accessoires
 
 
 * **[Volograms](https://www.volograms.com/)**  
@@ -8694,6 +9085,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://emploi.afjv.com/annonces-societes/1361)
 
 
+* **[Wild Canary Animation](https://www.wildcanary.com/)**  
+  * _Studio d'animation 3D de Burbank fondé en 2007, qui fabrique des séries et spéciaux préscolaires pour Disney Jr. (Star Wars: Young Jedi Adventures, Ariel, Mickey's Home Alone annoncé pour fin 2026)._
+  * **Mots clés**: _animation 3D, séries préscolaires, Disney Junior_
+  * **Localisation**: États-Unis/Burbank
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.wildcanary.com/careers.php)
+
+
 * **[Wild Wits Games](https://wildwits.games/)**  
   * _Studio de jeu vidéo indépendant rennais (Sovereign Tower, Crown Gambit, Aetheris), jeux narratifs et roguelikes tactiques sur PC._
   * **Mots clés**: _jeu indépendant, console/PC, roguelike_
@@ -8737,6 +9138,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://wolcenstudio.bamboohr.com/careers)
+
+
+* **[Wylie Co.](https://www.wylievfx.com/)**  
+  * _Studio d'effets visuels et de pré/postvisualisation fondé par Jake Maymudes, connu pour les postvis et effets de Dune et Dune : Deuxième partie, la série The Studio (Apple TV+, 2025) et son pipeline de rendu entièrement sur GPU._
+  * **Mots clés**: _effets visuels, postvisualisation, rendu GPU, Dune_
+  * **Localisation**: États-Unis/Culver City, Canada/Montréal
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Xilam](https://xilam.com)** (Xilam Animation) 
@@ -8854,5 +9264,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/San Jose
   * **Domaine scientifique/technique**: IHM/Haptique, VR/AR
   * **Domaine d'application**: Entrainement/Formation/Serious Game
+
+
+* **[Zwift](https://www.zwift.com/)**  
+  * _Éditeur de Long Beach de la plateforme multijoueur d'entraînement cycliste et de course à pied en mondes virtuels 3D (Watopia), moteur de jeu C++ multiplateforme, qui a racheté Rouvy en avril 2026._
+  * **Mots clés**: _fitness, jeu multijoueur en ligne, mondes virtuels, cyclisme_
+  * **Localisation**: États-Unis/Long Beach, Royaume-Uni/Londres
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://zwift.com/careers)
 
 
