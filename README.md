@@ -751,6 +751,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Commerce/Marketing/Publicité, Automobile/Navigation/Aviation
 
 
+* **[Aski-da Creative](https://creative.askida.fr/)**  
+  * _Studio d'Issy-les-Moulineaux (ex-Luxiris) qui conçoit et déploie des univers visuels pour la télévision, la fiction et les entreprises : habillage 2D/3D, décors virtuels et XR, météo dynamique, soirées électorales, e-sport, animation 3D et intégration de plateformes de production virtuelle (Aximmetry)._
+  * **Mots clés**: _habillage TV, décors virtuels, production virtuelle, XR, broadcast_
+  * **Localisation**: Issy-les-Moulineaux
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+
+
 * **[Asobo](https://www.asobostudio.com/)**  
   * _Studio bordelais de jeux AAA à moteur maison, créateur de la série A Plague Tale et développeur de Microsoft Flight Simulator._
   * **Mots clés**: _AAA, console/PC, moteur maison, co-développement, simulation de vol, A Plague Tale, Microsoft Flight Simulator_
@@ -1517,6 +1526,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, VR/AR
   * **Domaine d'application**: Automobile/Navigation/Aviation, Entrainement/Formation/Serious Game, Sécurité/Défense
   * [_Jobs_](https://www.cae.com/careers/)
+
+
+* **[Caleido-scop](https://www.caleido-scop.com/)**  
+  * _Société de Gémenos (Bouches-du-Rhône) proposant R&D, conseil et formation aux studios d'animation et d'effets visuels, éditrice de Kirpi, outil de programmation visuelle, et ayant contribué aux films Minions & Monsters et Super Mario Galaxy._
+  * **Mots clés**: _R&D animation, outils de production, programmation visuelle, Kirpi, VFX_
+  * **Localisation**: Gémenos
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Pipeline/Outils de production, Rendu offline/VFX, Animation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Calty](https://pressroom.toyota.com/)** (CALTY Design Research (Toyota)) 
@@ -2785,6 +2803,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Enhance Lab](https://enhancelab.fr/)**  
+  * _Startup parisienne de photographie computationnelle qui fusionne une rafale d'images brutes en une image débruitée en super-résolution ×4, sur smartphone, GPU embarqué (drones, véhicules) ou via une API cloud, y compris en vidéo temps réel._
+  * **Mots clés**: _super-résolution, photographie computationnelle, débruitage, rafale RAW, traitement d'images_
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision
+  * **Domaine d'application**: Générique, Sécurité/Défense, Robotique/Systèmes autonomes
+
+
 * **[Envy](https://www.envypost.co.uk/)**  
   * _Premier groupe indépendant de post-production du Royaume-Uni, basé à Fitzrovia (Londres) : montage, étalonnage, son et effets visuels pour la télévision, le cinéma et la publicité ; a racheté Halo en 2025._
   * **Mots clés**: _post-production, effets visuels, étalonnage, Soho_
@@ -3006,6 +3033,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Femme Fatale Studio](https://www.femmefatale.paris/)**  
+  * _Studio de création parisien d'expériences visuelles, interactives et immersives : installations muséales, réalité virtuelle et augmentée, animation 2D/3D, mapping vidéo et expériences web pour la culture, le divertissement et les marques._
+  * **Mots clés**: _expériences immersives, réalité virtuelle, animation, installations interactives, musées_
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 8
+  * **Domaine scientifique/technique**: VR/AR, Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Patrimoine/Culture, Art/Evenementiel, Commerce/Marketing/Publicité
 
 
 * **[FilmLight](https://www.filmlight.ltd.uk/)**  
@@ -3878,6 +3914,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
+* **[IDEMIA Public Security](https://www.idemia.com/)**  
+  * _Spécialiste français de la biométrie (reconnaissance faciale, d'empreintes et d'iris) et de l'identité numérique pour les forces de l'ordre, les contrôles aux frontières et la sécurité routière, avec une R&D en vision par ordinateur et en détection de fraudes et de deepfakes._
+  * **Mots clés**: _biométrie, reconnaissance faciale, deepfakes, identité numérique_
+  * **Remarque**: _Partenaire du projet ANR APATE sur la détection automatique des deepfakes. Le groupe IDEMIA a séparé en 2024 ses activités de sécurité publique, de transactions sécurisées et d'identité (cette dernière cédée à IN Groupe)._
+  * **Localisation**: Courbevoie
+  * **Domaine scientifique/technique**: Vision, Imagerie
+  * **Domaine d'application**: Sécurité/Défense
+
+
 * **[Ideogram](https://ideogram.ai/)**  
   * _Start-up torontoise d'IA générative d'images (2022, fondée par d'anciens chercheurs de Google Brain, auteurs d'Imagen), réputée pour le rendu de texte dans les images (Ideogram 3.0, modèles de marque personnalisés en 2026)._
   * **Mots clés**: _génération d'images, modèles de diffusion, typographie, design graphique_
@@ -4358,6 +4403,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Strasbourg
   * **Domaine scientifique/technique**: VR/AR, Modélisation, Rendu offline/VFX
   * **Domaine d'application**: Patrimoine/Culture, Architecture/BTP/Urbanisme
+
+
+* **[Inversive](https://www.inversive.fr/)**  
+  * _Société parisienne (INVERSE SAS, groupe Inversive) qui déploie la réalité virtuelle en entreprise : plateforme de gestion à distance des casques (Meta, Pico, HTC) et des contenus, catalogue de formations immersives clés en main (sécurité, gestes techniques) et développement d'expériences VR sur mesure ; lauréate France 2030._
+  * **Mots clés**: _réalité virtuelle, formation immersive, gestion de casques, XR entreprise, serious game_
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
 
 
 * **[Inverted AI](https://www.inverted.ai/)**  
@@ -5548,7 +5602,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Multinationale du logiciel et du cloud (Windows, Microsoft 365, Azure, Copilot), également acteur du jeu vidéo avec Xbox et de la réalité mixte._
   * **Mots clés**: _console/PC, édition de jeux, Xbox, cloud/streaming, réalité mixte, IA générative, système d'exploitation_
   * **Remarque**: _<a href=\"https://www.microsoft.com/en-us/research/research-area/graphics-multimedia/?\">Microsoft research</a> est active en informatique graphique._
-  * **Localisation**: États-Unis/Redmond, Canada/{Montréal, Vancouver}, International
+  * **Localisation**: Issy-les-Moulineaux, États-Unis/Redmond, Canada/{Montréal, Vancouver}, International
   * **Nombres d'employés**: 228000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, IA générative (image/3D), Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -5667,15 +5721,6 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
-* **[Mirage Creative Lab](https://miragecreativelab.com/)**  
-  * _Studio de jeu vidéo familial corse, auteur de LOCKDOWN Protocol, jeu de déduction sociale multijoueur à la première personne sorti sur Steam et mis à jour régulièrement (versions 1.1 à 1.3 fin 2025)._
-  * **Mots clés**: _jeu indépendant, multijoueur, déduction sociale, PC/Steam_
-  * **Localisation**: Eccica-Suarella
-  * **Nombres d'employés**: 4
-  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
-  * **Domaine d'application**: Jeu Vidéo
-
-
 * **[Miso](https://misorobotics.com/)** (Miso Robotics) 
   * _Entreprise de Pasadena qui développe des robots de cuisine guidés par vision par ordinateur (bras Flippy pour fritures et grillades) et dispose d'un laboratoire d'innovation en IA et robotique à Los Angeles._
   * **Mots clés**: _robotique, vision par ordinateur, automatisation de cuisine_
@@ -5746,6 +5791,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Vision, Modélisation
   * **Domaine d'application**: Mode/Vêtements/Accessoires
+
+
+* **[Moderlab](https://moderlab.com/)**  
+  * _Éditeur parisien (depuis 2018) d'une plateforme 3D temps réel en cloud gaming pour concevoir et visiter des univers virtuels et jumeaux numériques photoréalistes (immobilier, retail, architecture, scénographie, yachting), avec configurateurs 3D et visites multijoueurs._
+  * **Mots clés**: _3D temps réel, cloud gaming, jumeau numérique, configurateur 3D, immobilier_
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 20
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Visualisation, Web/Cloud/Big Data
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité, Loisir Interactif/Immersion/Metavers
 
 
 * **[Modjaw](https://www.modjaw.com/fr/)**  
@@ -6072,6 +6126,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
 
 
+* **[Nfinite](https://nfinite.ai/)**  
+  * _Éditeur bordelais d'une plateforme de contenus visuels produits pour le e-commerce : numérisation et rendus 3D de produits (packshots, mises en scène, 360°, AR) générés à grande échelle, désormais couplés à une analyse IA de la conformité visuelle des fiches produits chez les distributeurs._
+  * **Mots clés**: _rendu 3D produit, e-commerce, packshot, contenu visuel, IA_
+  * **Localisation**: Bordeaux
+  * **Nombres d'employés**: 75
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, IA générative (image/3D), Vision
+  * **Domaine d'application**: Commerce/Marketing/Publicité
+
+
 * **[NHImages](https://nhimages.fr/)**  
   * _Studio strasbourgeois de perspectives 3D fondé par un architecte DPLG, qui produit images et films de synthèse pour concours d'architecture et promotion immobilière._
   * **Mots clés**: _architecture, rendu photoréaliste_
@@ -6190,6 +6253,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Saint-Michel
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Novaya](https://novaya.io/)**  
+  * _Société parisienne de production d'œuvres immersives fondée en 2021, productrice de NOIRE (installation en réalité mixte, prix de la meilleure œuvre immersive à Cannes 2024) et porteuse de FABRIC, plateau de capture volumétrique hybride du spectacle vivant développé aux Studios de Bry-sur-Marne avec l'IRCAM et l'Inria (France 2030)._
+  * **Mots clés**: _réalité mixte, œuvres immersives, capture volumétrique, spectacle vivant, NOIRE_
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: VR/AR, Acquisition, Reconstruction
+  * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture, Loisir Interactif/Immersion/Metavers
 
 
 * **[Novelab](https://www.novelab.io/)**  
@@ -6927,6 +6999,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision, VR/AR, Hardware
   * **Domaine d'application**: Robotique/Systèmes autonomes, Générique
   * [_Jobs_](https://apply.workable.com/pollen-robotics/)
+
+
+* **[Polymorph](https://www.polymorph.fr/)**  
+  * _Studio rennais de production 3D et de développement temps réel (Unity, Unreal Engine) qui réalise des applications de réalité virtuelle et augmentée, des visites virtuelles, des films 3D et des effets visuels pour le divertissement, l'industrie, la formation et la muséographie._
+  * **Mots clés**: _réalité virtuelle, réalité augmentée, Unity, Unreal Engine, muséographie, film 3D_
+  * **Localisation**: Pacé
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Modélisation, Animation
+  * **Domaine d'application**: Entrainement/Formation/Serious Game, Art/Evenementiel, Industrie/Manufacturing/CAO
 
 
 * **[PopcornFX](https://www.popcornfx.com/)**  
@@ -7710,6 +7791,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.savage-level.com/carri%C3%A8re)
+
+
+* **[Scan Engine](https://www.scan-engine.fr/)**  
+  * _Studio parisien de scan 3D, filiale de Unit Image, spécialisé dans les humains numériques : scan photogrammétrique de têtes et corps, expressions FACS, cheveux et vêtements, retopologie et MetaHumans sur mesure pour le cinéma, les séries, le jeu vidéo et la publicité (Secret Level, A Plague Tale, Den of Thieves 2)._
+  * **Mots clés**: _scan 3D, photogrammétrie, humains numériques, FACS, MetaHuman_
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 4
+  * **Domaine scientifique/technique**: Acquisition, Reconstruction, Modélisation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Commerce/Marketing/Publicité
 
 
 * **[SCANable](https://www.scanable.com/)**  
@@ -9678,6 +9768,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
 
 
+* **[Volumetric Studio](https://volumetric.fr/)**  
+  * _Studio 3D de Charenton-le-Pont, issu du groupe de géomètres-experts GTA, qui réalise des expériences immersives en réalité virtuelle et augmentée, des projections et vidéos 3D et des outils interactifs sur mesure pour l'immobilier, l'industrie, les travaux publics et la culture._
+  * **Mots clés**: _studio 3D, réalité virtuelle, réalité augmentée, géomètre, immobilier_
+  * **Localisation**: Charenton-le-Pont
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
+
+
 * **[Voodoo](https://voodoo.io/)**  
   * _Éditeur et développeur parisien de jeux mobiles (hyper-casual et casual, studios internes et partenaires) et d'applications grand public (BeReal), parmi les plus téléchargés au monde._
   * **Mots clés**: _jeux mobiles, hyper-casual, édition de jeux, Unity_
@@ -9903,6 +10002,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[X&Immersion](https://www.xandimmersion.com/)**  
+  * _Startup parisienne qui développe des outils d'IA locale pour les studios de jeu vidéo : animation faciale et synchronisation labiale, génération de texte et de voix, intégrées aux moteurs de jeu, et R&D sur mesure pour des productions._
+  * **Mots clés**: _jeu vidéo, IA, animation faciale, lip-sync, plugins moteurs_
+  * **Localisation**: Paris
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Animation, IA générative (image/3D), Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Xilam](https://xilam.com)** (Xilam Animation) 
   * _Studio de production et de distribution de séries et films d'animation 2D et 3D._
   * **Mots clés**: _séries d'animation, animation 2D, animation 3D, long métrage, jeunesse_
@@ -9972,6 +10080,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
+* **[YSO Corp](https://www.ysocorp.com/)**  
+  * _Éditeur de jeux mobiles hyper-casual basé à Enghien-les-Bains, qui accompagne les studios (tests de prototypes, création de publicités jouables, analyse en temps réel) et publie ses propres titres._
+  * **Mots clés**: _jeux mobiles, hyper-casual, édition de jeux, publicités jouables_
+  * **Localisation**: Enghien-les-Bains
+  * **Nombres d'employés**: 35
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Analyse de données
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[YZAR](https://yzar.fr/)** (YZAR (Smartbottle)) 

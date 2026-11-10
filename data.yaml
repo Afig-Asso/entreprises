@@ -1440,6 +1440,10 @@
   Description: Multinationale du logiciel et du cloud (Windows, Microsoft 365, Azure, Copilot), également acteur du jeu vidéo avec Xbox et de la réalité mixte.
   Jobs: https://careers.microsoft.com/
   Place:
+    - City: Issy-les-Moulineaux
+      Coordinates: [48.83427, 2.26579]
+      SIREN: '327733184'
+      Address: 37-45 Quai du Président Roosevelt, 92130 Issy-les-Moulineaux
     - Country: États-Unis
       City: Redmond
     - Country: Canada
@@ -14982,18 +14986,6 @@
   Employees: 35
   Keywords: [imageur plein ciel, imagerie satellite, prévision solaire, télédétection]
 
-- Name: Mirage Creative Lab
-  url: https://miragecreativelab.com/
-  Description: Studio de jeu vidéo familial corse, auteur de LOCKDOWN Protocol, jeu de déduction sociale multijoueur à la première personne sorti sur Steam et mis à jour régulièrement (versions 1.1 à 1.3 fin 2025).
-  Place:
-    - City: Eccica-Suarella
-      Coordinates: [41.91686, 8.85763]
-      SIREN: '981223050'
-      Address: 116 Chjassu d'Olivaggio, 20117 Eccica-Suarella
-  Scientific-domain: [Rendu temps réel/Moteurs 3D]
-  Application-domain: [Jeu Vidéo]
-  Employees: 4
-  Keywords: [jeu indépendant, multijoueur, déduction sociale, PC/Steam]
 
 - Name: Bluecham
   url: https://www.bluecham.net/
@@ -15122,3 +15114,185 @@
   Application-domain: [Jeu Vidéo]
   Employees: 15
   Keywords: [RPG, narratif, studio indépendant]
+
+- Name: IDEMIA Public Security
+  url: https://www.idemia.com/
+  Description: Spécialiste français de la biométrie (reconnaissance faciale, d'empreintes et d'iris) et de l'identité numérique pour les forces de l'ordre, les contrôles aux frontières et la sécurité routière, avec une R&D en vision par ordinateur et en détection de fraudes et de deepfakes.
+  Place:
+    - City: Courbevoie
+      Coordinates: [48.89606, 2.23961]
+      SIREN: '982098741'
+      Address: 2 Place Samuel de Champlain, 92400 Courbevoie
+  Scientific-domain: [Vision, Imagerie]
+  Application-domain: [Sécurité/Défense]
+  Info: Partenaire du projet ANR APATE sur la détection automatique des deepfakes. Le groupe IDEMIA a séparé en 2024 ses activités de sécurité publique, de transactions sécurisées et d'identité (cette dernière cédée à IN Groupe).
+  Keywords: [biométrie, reconnaissance faciale, deepfakes, identité numérique]
+
+- Name: Polymorph
+  url: https://www.polymorph.fr/
+  Description: Studio rennais de production 3D et de développement temps réel (Unity, Unreal Engine) qui réalise des applications de réalité virtuelle et augmentée, des visites virtuelles, des films 3D et des effets visuels pour le divertissement, l'industrie, la formation et la muséographie.
+  Place:
+    - City: Pacé
+      Coordinates: [48.14701, -1.75956]
+      SIREN: '440695294'
+      Address: 22 Rue Jean-Marie David, 35740 Pacé
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Modélisation, Animation]
+  Application-domain: [Entrainement/Formation/Serious Game, Art/Evenementiel, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [réalité virtuelle, réalité augmentée, Unity, Unreal Engine, muséographie, film 3D]
+
+- Name: YSO Corp
+  url: https://www.ysocorp.com/
+  Description: Éditeur de jeux mobiles hyper-casual basé à Enghien-les-Bains, qui accompagne les studios (tests de prototypes, création de publicités jouables, analyse en temps réel) et publie ses propres titres.
+  Place:
+    - City: Enghien-les-Bains
+      Coordinates: [48.9705, 2.30958]
+      SIREN: '792320533'
+      Address: 2 Rue de Malleville, 95880 Enghien-les-Bains
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+  Employees: 35
+  Keywords: [jeux mobiles, hyper-casual, édition de jeux, publicités jouables]
+
+- Name: Nfinite
+  url: https://nfinite.ai/
+  Description: 'Éditeur bordelais d''une plateforme de contenus visuels produits pour le e-commerce : numérisation et rendus 3D de produits (packshots, mises en scène, 360°, AR) générés à grande échelle, désormais couplés à une analyse IA de la conformité visuelle des fiches produits chez les distributeurs.'
+  Place:
+    - City: Bordeaux
+      Coordinates: [44.84315, -0.56228]
+      SIREN: '818935421'
+      Address: 13 Rue Jean-Paul Alaux, 33100 Bordeaux
+  Scientific-domain: [Rendu offline/VFX, Modélisation, IA générative (image/3D), Vision]
+  Application-domain: [Commerce/Marketing/Publicité]
+  Employees: 75
+  Keywords: [rendu 3D produit, e-commerce, packshot, contenu visuel, IA]
+
+- Name: X&Immersion
+  url: https://www.xandimmersion.com/
+  Description: 'Startup parisienne qui développe des outils d''IA locale pour les studios de jeu vidéo : animation faciale et synchronisation labiale, génération de texte et de voix, intégrées aux moteurs de jeu, et R&D sur mesure pour des productions.'
+  Place:
+    - City: Paris
+      Coordinates: [48.89859, 2.37816]
+      SIREN: '898128699'
+      Address: Bureau 406 157 Boulevard Macdonald, 75019 Paris
+  Scientific-domain: [Animation, IA générative (image/3D), Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo]
+  Employees: 15
+  Keywords: [jeu vidéo, IA, animation faciale, lip-sync, plugins moteurs]
+
+- Name: Moderlab
+  url: https://moderlab.com/
+  Description: Éditeur parisien (depuis 2018) d'une plateforme 3D temps réel en cloud gaming pour concevoir et visiter des univers virtuels et jumeaux numériques photoréalistes (immobilier, retail, architecture, scénographie, yachting), avec configurateurs 3D et visites multijoueurs.
+  Place:
+    - City: Paris
+      Coordinates: [48.87047, 2.30712]
+      SIREN: '842163669'
+      Address: 50 Avenue des Champs Elysees, 75008 Paris
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Visualisation, Web/Cloud/Big Data]
+  Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité, Loisir Interactif/Immersion/Metavers]
+  Employees: 20
+  Keywords: [3D temps réel, cloud gaming, jumeau numérique, configurateur 3D, immobilier]
+
+- Name: Volumetric Studio
+  url: https://volumetric.fr/
+  Description: Studio 3D de Charenton-le-Pont, issu du groupe de géomètres-experts GTA, qui réalise des expériences immersives en réalité virtuelle et augmentée, des projections et vidéos 3D et des outils interactifs sur mesure pour l'immobilier, l'industrie, les travaux publics et la culture.
+  Place:
+    - City: Charenton-le-Pont
+      Coordinates: [48.82623, 2.40602]
+      SIREN: '849079785'
+      Address: 1 Place des Marseillais, 94220 Charenton-Le-Pont
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Architecture/BTP/Urbanisme, Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game]
+  Employees: 15
+  Keywords: [studio 3D, réalité virtuelle, réalité augmentée, géomètre, immobilier]
+
+- Name: Scan Engine
+  url: https://www.scan-engine.fr/
+  Description: 'Studio parisien de scan 3D, filiale de Unit Image, spécialisé dans les humains numériques : scan photogrammétrique de têtes et corps, expressions FACS, cheveux et vêtements, retopologie et MetaHumans sur mesure pour le cinéma, les séries, le jeu vidéo et la publicité (Secret Level, A Plague Tale, Den of Thieves 2).'
+  Place:
+    - City: Paris
+      Coordinates: [48.85334, 2.36202]
+      SIREN: '827846981'
+      Address: 14 Rue Charles V, 75004 Paris
+  Scientific-domain: [Acquisition, Reconstruction, Modélisation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Commerce/Marketing/Publicité]
+  Employees: 4
+  Keywords: [scan 3D, photogrammétrie, humains numériques, FACS, MetaHuman]
+
+- Name: Caleido-scop
+  url: https://www.caleido-scop.com/
+  Description: Société de Gémenos (Bouches-du-Rhône) proposant R&D, conseil et formation aux studios d'animation et d'effets visuels, éditrice de Kirpi, outil de programmation visuelle, et ayant contribué aux films Minions & Monsters et Super Mario Galaxy.
+  Place:
+    - City: Gémenos
+      Coordinates: [43.30531, 5.62248]
+      SIREN: '522002930'
+      Address: 192 Chemin Bellevue, 13420 Gemenos
+  Scientific-domain: [Pipeline/Outils de production, Rendu offline/VFX, Animation]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Employees: 4
+  Keywords: [R&D animation, outils de production, programmation visuelle, Kirpi, VFX]
+
+- Name: Femme Fatale Studio
+  url: https://www.femmefatale.paris/
+  Description: 'Studio de création parisien d''expériences visuelles, interactives et immersives : installations muséales, réalité virtuelle et augmentée, animation 2D/3D, mapping vidéo et expériences web pour la culture, le divertissement et les marques.'
+  Place:
+    - City: Paris
+      Coordinates: [48.88857, 2.36218]
+      SIREN: '818627234'
+      Address: 41 Rue Pajol, 75018 Paris
+  Scientific-domain: [VR/AR, Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Patrimoine/Culture, Art/Evenementiel, Commerce/Marketing/Publicité]
+  Employees: 8
+  Keywords: [expériences immersives, réalité virtuelle, animation, installations interactives, musées]
+
+- Name: Enhance Lab
+  url: https://enhancelab.fr/
+  Description: Startup parisienne de photographie computationnelle qui fusionne une rafale d'images brutes en une image débruitée en super-résolution ×4, sur smartphone, GPU embarqué (drones, véhicules) ou via une API cloud, y compris en vidéo temps réel.
+  Place:
+    - City: Paris
+      Coordinates: [48.86608, 2.32945]
+      SIREN: '920854643'
+      Address: 229 Rue Saint-honore, 75001 Paris
+  Scientific-domain: [Imagerie, Acquisition, Vision]
+  Application-domain: [Générique, Sécurité/Défense, Robotique/Systèmes autonomes]
+  Employees: 4
+  Keywords: [super-résolution, photographie computationnelle, débruitage, rafale RAW, traitement d'images]
+
+- Name: Novaya
+  url: https://novaya.io/
+  Description: Société parisienne de production d'œuvres immersives fondée en 2021, productrice de NOIRE (installation en réalité mixte, prix de la meilleure œuvre immersive à Cannes 2024) et porteuse de FABRIC, plateau de capture volumétrique hybride du spectacle vivant développé aux Studios de Bry-sur-Marne avec l'IRCAM et l'Inria (France 2030).
+  Place:
+    - City: Paris
+      Coordinates: [48.86608, 2.32945]
+      SIREN: '898103288'
+      Address: 229 Rue Saint-honore, 75001 Paris
+  Scientific-domain: [VR/AR, Acquisition, Reconstruction]
+  Application-domain: [Art/Evenementiel, Patrimoine/Culture, Loisir Interactif/Immersion/Metavers]
+  Employees: 4
+  Keywords: [réalité mixte, œuvres immersives, capture volumétrique, spectacle vivant, NOIRE]
+
+- Name: Aski-da Creative
+  url: https://creative.askida.fr/
+  Description: 'Studio d''Issy-les-Moulineaux (ex-Luxiris) qui conçoit et déploie des univers visuels pour la télévision, la fiction et les entreprises : habillage 2D/3D, décors virtuels et XR, météo dynamique, soirées électorales, e-sport, animation 3D et intégration de plateformes de production virtuelle (Aximmetry).'
+  Place:
+    - City: Issy-les-Moulineaux
+      Coordinates: [48.82676, 2.26063]
+      SIREN: '531494649'
+      Address: Immeuble Bords de Seine 1 3 Esplanade du Foncet, 92130 Issy-Les-Moulineaux
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel]
+  Employees: 8
+  Keywords: [habillage TV, décors virtuels, production virtuelle, XR, broadcast]
+
+- Name: Inversive
+  url: https://www.inversive.fr/
+  Description: 'Société parisienne (INVERSE SAS, groupe Inversive) qui déploie la réalité virtuelle en entreprise : plateforme de gestion à distance des casques (Meta, Pico, HTC) et des contenus, catalogue de formations immersives clés en main (sécurité, gestes techniques) et développement d''expériences VR sur mesure ; lauréate France 2030.'
+  Place:
+    - City: Paris
+      Coordinates: [48.87923, 2.29924]
+      SIREN: '918885252'
+      Address: 58 Avenue de Wagram, 75017 Paris
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
+  Employees: 15
+  Keywords: [réalité virtuelle, formation immersive, gestion de casques, XR entreprise, serious game]

@@ -451,6 +451,10 @@
             45.7787,
             4.7459
         ],
+        "France/Charenton-le-Pont": [
+            48.8198,
+            2.416
+        ],
         "France/Charleville-M\u00e9zi\u00e8res": [
             49.7736,
             4.7207
@@ -511,9 +515,9 @@
             50.5102,
             2.8318
         ],
-        "France/Eccica-Suarella": [
-            41.9204,
-            8.8745
+        "France/Enghien-les-Bains": [
+            48.97,
+            2.3068
         ],
         "France/Entzheim": [
             48.5346,
@@ -575,6 +579,10 @@
             44.6181,
             -1.0769
         ],
+        "France/G\u00e9menos": [
+            43.2962,
+            5.6295
+        ],
         "France/Hiersac": [
             45.6738,
             0.0083
@@ -586,6 +594,10 @@
         "France/Illkirch-Graffenstaden": [
             48.5299,
             7.7113
+        ],
+        "France/Issy-les-Moulineaux": [
+            48.8251,
+            2.2735
         ],
         "France/Ivry-sur-Seine": [
             48.8122,
@@ -818,6 +830,10 @@
         "France/Orsay": [
             48.6992,
             2.1875
+        ],
+        "France/Pac\u00e9": [
+            48.1484,
+            -1.7744
         ],
         "France/Palaiseau": [
             48.7145,
@@ -5131,6 +5147,15 @@
             "Description": "Multinationale du logiciel et du cloud (Windows, Microsoft 365, Azure, Copilot), \u00e9galement acteur du jeu vid\u00e9o avec Xbox et de la r\u00e9alit\u00e9 mixte.",
             "Jobs": "https://careers.microsoft.com/",
             "Place": [
+                {
+                    "City": "Issy-les-Moulineaux",
+                    "Coordinates": [
+                        48.83427,
+                        2.26579
+                    ],
+                    "SIREN": "327733184",
+                    "Address": "37-45 Quai du Pr\u00e9sident Roosevelt, 92130 Issy-les-Moulineaux"
+                },
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Redmond"
@@ -37263,35 +37288,6 @@
             ]
         },
         {
-            "Name": "Mirage Creative Lab",
-            "url": "https://miragecreativelab.com/",
-            "Description": "Studio de jeu vid\u00e9o familial corse, auteur de LOCKDOWN Protocol, jeu de d\u00e9duction sociale multijoueur \u00e0 la premi\u00e8re personne sorti sur Steam et mis \u00e0 jour r\u00e9guli\u00e8rement (versions 1.1 \u00e0 1.3 fin 2025).",
-            "Place": [
-                {
-                    "City": "Eccica-Suarella",
-                    "Coordinates": [
-                        41.91686,
-                        8.85763
-                    ],
-                    "SIREN": "981223050",
-                    "Address": "116 Chjassu d'Olivaggio, 20117 Eccica-Suarella"
-                }
-            ],
-            "Scientific-domain": [
-                "Rendu temps r\u00e9el/Moteurs 3D"
-            ],
-            "Application-domain": [
-                "Jeu Vid\u00e9o"
-            ],
-            "Employees": 4,
-            "Keywords": [
-                "jeu ind\u00e9pendant",
-                "multijoueur",
-                "d\u00e9duction sociale",
-                "PC/Steam"
-            ]
-        },
-        {
             "Name": "Bluecham",
             "url": "https://www.bluecham.net/",
             "Description": "Soci\u00e9t\u00e9 cal\u00e9donienne fond\u00e9e en 2008 qui traite l'imagerie satellitaire (dont Pl\u00e9iades) par traitement du signal et IA pour des plateformes g\u00e9ospatiales d'aide \u00e0 la d\u00e9cision (Q\u00cbHNEL\u00d6, QVX) : risques naturels, environnement, mines, lagons.",
@@ -37589,6 +37585,468 @@
                 "RPG",
                 "narratif",
                 "studio ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "IDEMIA Public Security",
+            "url": "https://www.idemia.com/",
+            "Description": "Sp\u00e9cialiste fran\u00e7ais de la biom\u00e9trie (reconnaissance faciale, d'empreintes et d'iris) et de l'identit\u00e9 num\u00e9rique pour les forces de l'ordre, les contr\u00f4les aux fronti\u00e8res et la s\u00e9curit\u00e9 routi\u00e8re, avec une R&D en vision par ordinateur et en d\u00e9tection de fraudes et de deepfakes.",
+            "Place": [
+                {
+                    "City": "Courbevoie",
+                    "Coordinates": [
+                        48.89606,
+                        2.23961
+                    ],
+                    "SIREN": "982098741",
+                    "Address": "2 Place Samuel de Champlain, 92400 Courbevoie"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Info": "Partenaire du projet ANR APATE sur la d\u00e9tection automatique des deepfakes. Le groupe IDEMIA a s\u00e9par\u00e9 en 2024 ses activit\u00e9s de s\u00e9curit\u00e9 publique, de transactions s\u00e9curis\u00e9es et d'identit\u00e9 (cette derni\u00e8re c\u00e9d\u00e9e \u00e0 IN Groupe).",
+            "Keywords": [
+                "biom\u00e9trie",
+                "reconnaissance faciale",
+                "deepfakes",
+                "identit\u00e9 num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "Polymorph",
+            "url": "https://www.polymorph.fr/",
+            "Description": "Studio rennais de production 3D et de d\u00e9veloppement temps r\u00e9el (Unity, Unreal Engine) qui r\u00e9alise des applications de r\u00e9alit\u00e9 virtuelle et augment\u00e9e, des visites virtuelles, des films 3D et des effets visuels pour le divertissement, l'industrie, la formation et la mus\u00e9ographie.",
+            "Place": [
+                {
+                    "City": "Pac\u00e9",
+                    "Coordinates": [
+                        48.14701,
+                        -1.75956
+                    ],
+                    "SIREN": "440695294",
+                    "Address": "22 Rue Jean-Marie David, 35740 Pac\u00e9"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Mod\u00e9lisation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Art/Evenementiel",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "Unity",
+                "Unreal Engine",
+                "mus\u00e9ographie",
+                "film 3D"
+            ]
+        },
+        {
+            "Name": "YSO Corp",
+            "url": "https://www.ysocorp.com/",
+            "Description": "\u00c9diteur de jeux mobiles hyper-casual bas\u00e9 \u00e0 Enghien-les-Bains, qui accompagne les studios (tests de prototypes, cr\u00e9ation de publicit\u00e9s jouables, analyse en temps r\u00e9el) et publie ses propres titres.",
+            "Place": [
+                {
+                    "City": "Enghien-les-Bains",
+                    "Coordinates": [
+                        48.9705,
+                        2.30958
+                    ],
+                    "SIREN": "792320533",
+                    "Address": "2 Rue de Malleville, 95880 Enghien-les-Bains"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 35,
+            "Keywords": [
+                "jeux mobiles",
+                "hyper-casual",
+                "\u00e9dition de jeux",
+                "publicit\u00e9s jouables"
+            ]
+        },
+        {
+            "Name": "Nfinite",
+            "url": "https://nfinite.ai/",
+            "Description": "\u00c9diteur bordelais d'une plateforme de contenus visuels produits pour le e-commerce : num\u00e9risation et rendus 3D de produits (packshots, mises en sc\u00e8ne, 360\u00b0, AR) g\u00e9n\u00e9r\u00e9s \u00e0 grande \u00e9chelle, d\u00e9sormais coupl\u00e9s \u00e0 une analyse IA de la conformit\u00e9 visuelle des fiches produits chez les distributeurs.",
+            "Place": [
+                {
+                    "City": "Bordeaux",
+                    "Coordinates": [
+                        44.84315,
+                        -0.56228
+                    ],
+                    "SIREN": "818935421",
+                    "Address": "13 Rue Jean-Paul Alaux, 33100 Bordeaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 75,
+            "Keywords": [
+                "rendu 3D produit",
+                "e-commerce",
+                "packshot",
+                "contenu visuel",
+                "IA"
+            ]
+        },
+        {
+            "Name": "X&Immersion",
+            "url": "https://www.xandimmersion.com/",
+            "Description": "Startup parisienne qui d\u00e9veloppe des outils d'IA locale pour les studios de jeu vid\u00e9o : animation faciale et synchronisation labiale, g\u00e9n\u00e9ration de texte et de voix, int\u00e9gr\u00e9es aux moteurs de jeu, et R&D sur mesure pour des productions.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.89859,
+                        2.37816
+                    ],
+                    "SIREN": "898128699",
+                    "Address": "Bureau 406 157 Boulevard Macdonald, 75019 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "jeu vid\u00e9o",
+                "IA",
+                "animation faciale",
+                "lip-sync",
+                "plugins moteurs"
+            ]
+        },
+        {
+            "Name": "Moderlab",
+            "url": "https://moderlab.com/",
+            "Description": "\u00c9diteur parisien (depuis 2018) d'une plateforme 3D temps r\u00e9el en cloud gaming pour concevoir et visiter des univers virtuels et jumeaux num\u00e9riques photor\u00e9alistes (immobilier, retail, architecture, sc\u00e9nographie, yachting), avec configurateurs 3D et visites multijoueurs.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.87047,
+                        2.30712
+                    ],
+                    "SIREN": "842163669",
+                    "Address": "50 Avenue des Champs Elysees, 75008 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Visualisation",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Commerce/Marketing/Publicit\u00e9",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 20,
+            "Keywords": [
+                "3D temps r\u00e9el",
+                "cloud gaming",
+                "jumeau num\u00e9rique",
+                "configurateur 3D",
+                "immobilier"
+            ]
+        },
+        {
+            "Name": "Volumetric Studio",
+            "url": "https://volumetric.fr/",
+            "Description": "Studio 3D de Charenton-le-Pont, issu du groupe de g\u00e9om\u00e8tres-experts GTA, qui r\u00e9alise des exp\u00e9riences immersives en r\u00e9alit\u00e9 virtuelle et augment\u00e9e, des projections et vid\u00e9os 3D et des outils interactifs sur mesure pour l'immobilier, l'industrie, les travaux publics et la culture.",
+            "Place": [
+                {
+                    "City": "Charenton-le-Pont",
+                    "Coordinates": [
+                        48.82623,
+                        2.40602
+                    ],
+                    "SIREN": "849079785",
+                    "Address": "1 Place des Marseillais, 94220 Charenton-Le-Pont"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Industrie/Manufacturing/CAO",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "studio 3D",
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "g\u00e9om\u00e8tre",
+                "immobilier"
+            ]
+        },
+        {
+            "Name": "Scan Engine",
+            "url": "https://www.scan-engine.fr/",
+            "Description": "Studio parisien de scan 3D, filiale de Unit Image, sp\u00e9cialis\u00e9 dans les humains num\u00e9riques : scan photogramm\u00e9trique de t\u00eates et corps, expressions FACS, cheveux et v\u00eatements, retopologie et MetaHumans sur mesure pour le cin\u00e9ma, les s\u00e9ries, le jeu vid\u00e9o et la publicit\u00e9 (Secret Level, A Plague Tale, Den of Thieves 2).",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.85334,
+                        2.36202
+                    ],
+                    "SIREN": "827846981",
+                    "Address": "14 Rue Charles V, 75004 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Reconstruction",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "scan 3D",
+                "photogramm\u00e9trie",
+                "humains num\u00e9riques",
+                "FACS",
+                "MetaHuman"
+            ]
+        },
+        {
+            "Name": "Caleido-scop",
+            "url": "https://www.caleido-scop.com/",
+            "Description": "Soci\u00e9t\u00e9 de G\u00e9menos (Bouches-du-Rh\u00f4ne) proposant R&D, conseil et formation aux studios d'animation et d'effets visuels, \u00e9ditrice de Kirpi, outil de programmation visuelle, et ayant contribu\u00e9 aux films Minions & Monsters et Super Mario Galaxy.",
+            "Place": [
+                {
+                    "City": "G\u00e9menos",
+                    "Coordinates": [
+                        43.30531,
+                        5.62248
+                    ],
+                    "SIREN": "522002930",
+                    "Address": "192 Chemin Bellevue, 13420 Gemenos"
+                }
+            ],
+            "Scientific-domain": [
+                "Pipeline/Outils de production",
+                "Rendu offline/VFX",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "R&D animation",
+                "outils de production",
+                "programmation visuelle",
+                "Kirpi",
+                "VFX"
+            ]
+        },
+        {
+            "Name": "Femme Fatale Studio",
+            "url": "https://www.femmefatale.paris/",
+            "Description": "Studio de cr\u00e9ation parisien d'exp\u00e9riences visuelles, interactives et immersives : installations mus\u00e9ales, r\u00e9alit\u00e9 virtuelle et augment\u00e9e, animation 2D/3D, mapping vid\u00e9o et exp\u00e9riences web pour la culture, le divertissement et les marques.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.88857,
+                        2.36218
+                    ],
+                    "SIREN": "818627234",
+                    "Address": "41 Rue Pajol, 75018 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Patrimoine/Culture",
+                "Art/Evenementiel",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Employees": 8,
+            "Keywords": [
+                "exp\u00e9riences immersives",
+                "r\u00e9alit\u00e9 virtuelle",
+                "animation",
+                "installations interactives",
+                "mus\u00e9es"
+            ]
+        },
+        {
+            "Name": "Enhance Lab",
+            "url": "https://enhancelab.fr/",
+            "Description": "Startup parisienne de photographie computationnelle qui fusionne une rafale d'images brutes en une image d\u00e9bruit\u00e9e en super-r\u00e9solution \u00d74, sur smartphone, GPU embarqu\u00e9 (drones, v\u00e9hicules) ou via une API cloud, y compris en vid\u00e9o temps r\u00e9el.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86608,
+                        2.32945
+                    ],
+                    "SIREN": "920854643",
+                    "Address": "229 Rue Saint-honore, 75001 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Vision"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "super-r\u00e9solution",
+                "photographie computationnelle",
+                "d\u00e9bruitage",
+                "rafale RAW",
+                "traitement d'images"
+            ]
+        },
+        {
+            "Name": "Novaya",
+            "url": "https://novaya.io/",
+            "Description": "Soci\u00e9t\u00e9 parisienne de production d'\u0153uvres immersives fond\u00e9e en 2021, productrice de NOIRE (installation en r\u00e9alit\u00e9 mixte, prix de la meilleure \u0153uvre immersive \u00e0 Cannes 2024) et porteuse de FABRIC, plateau de capture volum\u00e9trique hybride du spectacle vivant d\u00e9velopp\u00e9 aux Studios de Bry-sur-Marne avec l'IRCAM et l'Inria (France 2030).",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.86608,
+                        2.32945
+                    ],
+                    "SIREN": "898103288",
+                    "Address": "229 Rue Saint-honore, 75001 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "Patrimoine/Culture",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 4,
+            "Keywords": [
+                "r\u00e9alit\u00e9 mixte",
+                "\u0153uvres immersives",
+                "capture volum\u00e9trique",
+                "spectacle vivant",
+                "NOIRE"
+            ]
+        },
+        {
+            "Name": "Aski-da Creative",
+            "url": "https://creative.askida.fr/",
+            "Description": "Studio d'Issy-les-Moulineaux (ex-Luxiris) qui con\u00e7oit et d\u00e9ploie des univers visuels pour la t\u00e9l\u00e9vision, la fiction et les entreprises : habillage 2D/3D, d\u00e9cors virtuels et XR, m\u00e9t\u00e9o dynamique, soir\u00e9es \u00e9lectorales, e-sport, animation 3D et int\u00e9gration de plateformes de production virtuelle (Aximmetry).",
+            "Place": [
+                {
+                    "City": "Issy-les-Moulineaux",
+                    "Coordinates": [
+                        48.82676,
+                        2.26063
+                    ],
+                    "SIREN": "531494649",
+                    "Address": "Immeuble Bords de Seine 1 3 Esplanade du Foncet, 92130 Issy-Les-Moulineaux"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel"
+            ],
+            "Employees": 8,
+            "Keywords": [
+                "habillage TV",
+                "d\u00e9cors virtuels",
+                "production virtuelle",
+                "XR",
+                "broadcast"
+            ]
+        },
+        {
+            "Name": "Inversive",
+            "url": "https://www.inversive.fr/",
+            "Description": "Soci\u00e9t\u00e9 parisienne (INVERSE SAS, groupe Inversive) qui d\u00e9ploie la r\u00e9alit\u00e9 virtuelle en entreprise : plateforme de gestion \u00e0 distance des casques (Meta, Pico, HTC) et des contenus, catalogue de formations immersives cl\u00e9s en main (s\u00e9curit\u00e9, gestes techniques) et d\u00e9veloppement d'exp\u00e9riences VR sur mesure ; laur\u00e9ate France 2030.",
+            "Place": [
+                {
+                    "City": "Paris",
+                    "Coordinates": [
+                        48.87923,
+                        2.29924
+                    ],
+                    "SIREN": "918885252",
+                    "Address": "58 Avenue de Wagram, 75017 Paris"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Entrainement/Formation/Serious Game",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 15,
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "formation immersive",
+                "gestion de casques",
+                "XR entreprise",
+                "serious game"
             ]
         }
     ]
