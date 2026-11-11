@@ -332,7 +332,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Mots clés**: _plugin/logiciel pour artistes, retouche d'image, montage vidéo, IA générative, Photoshop, Firefly, Substance 3D_
   * **Remarque**: _Centre de recherche à Paris_
   * **Produits**: Photoshop, Substance 3D, Premiere, Illustrator, etc.
-  * **Localisation**: États-Unis/San Jose, Canada, Paris, Royaume-Uni, Inde, International
+  * **Localisation**: États-Unis/San Jose, Canada, Paris, Royaume-Uni, Inde, États-Unis/New York, International
   * **Nombres d'employés**: 31000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Design/Fabrication
   * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
@@ -372,6 +372,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Vision, IA générative (image/3D), Modélisation
   * **Domaine d'application**: Sécurité/Défense, Générique
   * [_Jobs_](https://ai-verse.zohorecruit.eu/jobs/Careers)
+
+
+* **[Aidoc](https://www.aidoc.com/)**  
+  * _Éditeur israélo-américain d'IA d'analyse d'imagerie médicale (scanner, IRM) pour le triage en radiologie, dont le modèle de fondation CARE (CARE Body CT Multi-Triage, éligible au remboursement Medicare en 2026), utilisé par de nombreux hôpitaux américains et européens._
+  * **Mots clés**: _imagerie médicale, radiologie, IA de diagnostic, modèle de fondation_
+  * **Localisation**: États-Unis/New York, Israël/Tel-Aviv
+  * **Domaine scientifique/technique**: Imagerie, Vision
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Airbus Defence and Space](https://www.airbus.com/en/space)**  
@@ -423,7 +431,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Alkemy X](https://alkemy-x.com/)**  
   * _Studio d'effets visuels, d'animation, de montage et de production pour le cinéma, les séries et la publicité, avec un bureau à Burbank aux côtés de ses studios du New Jersey, de New York et de Vancouver._
   * **Mots clés**: _effets visuels, séries, publicité_
-  * **Localisation**: États-Unis/Burbank, Canada/Vancouver, Canada/Toronto
+  * **Localisation**: États-Unis/Burbank, Canada/Vancouver, Canada/Toronto, États-Unis/New York
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
@@ -700,6 +708,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://argolight.com/offers/)
 
 
+* **[Arkadium](https://www.arkadium.com/)**  
+  * _Studio new-yorkais fondé en 2001 qui développe et diffuse des jeux casual en HTML5 (mots croisés, cartes, mots, puzzles) sur son portail Arkadium.com et en marque blanche pour de grands éditeurs de presse et marques._
+  * **Mots clés**: _jeux casual, HTML5, jeux par navigateur, marque blanche_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo, Commerce/Marketing/Publicité
+  * [_Jobs_](https://apply.workable.com/arkadium-1/)
+
+
 * **[Arkane Studios](https://www.arkane-studios.com/fr)**  
   * _Studio lyonnais de jeux AAA en vue subjective (Dishonored, Prey, Deathloop), filiale de ZeniMax/Microsoft, actuellement sur Marvel's Blade._
   * **Mots clés**: _AAA, console/PC, jeu en vue subjective, immersive sim, moteur maison, Dishonored_
@@ -816,6 +833,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.asobostudio.com/careers)
+
+
+* **[Atari](https://atari.com/)**  
+  * _Éditeur historique de jeux vidéo, dirigé depuis New York et Paris, qui exploite et réédite son catalogue rétro (Pong, Asteroids, Centipede) et a racheté plusieurs studios de préservation et de portage (Digital Eclipse, Nightdive Studios, Implicit Conversions en avril 2026) ainsi que les droits des cinq premiers Wizardry (mai 2026) et le studio mobile Hipster Whale (juin 2026)._
+  * **Mots clés**: _éditeur de jeux vidéo, rétrogaming, réédition, préservation du jeu vidéo_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo, Patrimoine/Culture
 
 
 * **[Ateme](https://www.ateme.com/)**  
@@ -1074,7 +1099,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Barnstorm VFX](https://www.barnstormvfx.com/)**  
   * _Studio d'effets visuels nommé aux Emmy et aux VES Awards, fondé à Los Angeles, avec un studio à Vancouver ainsi qu'à Montréal, Toronto, New York, Atlanta et Londres (Spider-Noir pour Prime Video)._
   * **Mots clés**: _effets visuels, séries, compositing, environnements_
-  * **Localisation**: Canada/Vancouver, États-Unis/Los Angeles
+  * **Localisation**: Canada/Vancouver, États-Unis/Los Angeles, États-Unis/New York
   * **Nombres d'employés**: 126
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1512,7 +1537,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[BUCK](https://buck.co/)**  
   * _Studio créatif international fondé en 2004 (Los Angeles, New York, Sydney, Amsterdam...) spécialisé en motion design, animation 2D/3D, expériences numériques et technologie créative, avec un studio à Londres ; a lancé BUCK Games en 2025._
   * **Mots clés**: _motion design, animation 3D, publicité, technologie créative_
-  * **Localisation**: Royaume-Uni/Londres, États-Unis/Los Angeles
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/Los Angeles, États-Unis/New York
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Commerce/Marketing/Publicité, Jeu Vidéo
   * [_Jobs_](https://buck.co/careers)
@@ -1757,6 +1782,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.christiedigital.com/en-gb/about/careers/)
 
 
+* **[Chyron](https://chyron.com/)**  
+  * _Éditeur historique (fondé en 1966) de logiciels de graphisme temps réel pour la télévision, basé à Melville sur Long Island : habillage antenne PRIME, production en direct dans le cloud LIVE, cartes et infographies AXIS, graphiques virtuels sans tracking (Virtual Placement 8.1, 2026), météo et décors virtuels VSAR._
+  * **Mots clés**: _graphisme broadcast, habillage antenne, graphiques virtuels, télévision en direct_
+  * **Localisation**: États-Unis/Melville
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Visualisation, VR/AR
+  * **Domaine d'application**: Art/Evenementiel, Commerce/Marketing/Publicité
+
+
 * **[Cinesite](https://www.cinesite.com/)**  
   * _Studio d'effets visuels et d'animation de longs métrages basé à Londres (Soho) avec des studios à Montréal et ailleurs ; travaille pour les grands studios hollywoodiens et produit ses propres films d'animation._
   * **Mots clés**: _VFX, Animation 3D, Long métrage_
@@ -1899,7 +1932,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Coffee & TV](https://www.coffeeand.tv/)**  
   * _Studio londonien de post-production et d'effets visuels (VFX 2D/3D, CG, étalonnage) pour la publicité, les clips, le cinéma et les séries, avec un studio à New York depuis 2024._
   * **Mots clés**: _effets visuels, publicité, CGI, étalonnage_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/New York
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
 
@@ -1945,7 +1978,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Company 3](https://www.company3.com/)**  
   * _Studio de post-production haut de gamme (étalonnage, finition, dailies, VFX de finition) pour le cinéma, les séries et la publicité, avec des références récentes comme Blade Runner 2099 et The Mosquito Bowl._
   * **Mots clés**: _étalonnage, finition, post-production, dailies_
-  * **Localisation**: États-Unis/Santa Monica, États-Unis/Los Angeles, Canada/Toronto, Canada/Vancouver, Royaume-Uni/Londres
+  * **Localisation**: États-Unis/Santa Monica, États-Unis/Los Angeles, Canada/Toronto, Canada/Vancouver, Royaume-Uni/Londres, États-Unis/New York
   * **Nombres d'employés**: 500
   * **Domaine scientifique/technique**: Rendu offline/VFX, Imagerie, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
@@ -2048,7 +2081,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Crafty Apes](https://craftyapes.com/)**  
   * _Studio américain d'effets visuels complet (Los Angeles, Atlanta, Vancouver, Montréal, New York, Sydney) avec un studio à Londres (Clerkenwell) pour le cinéma et les séries._
   * **Mots clés**: _effets visuels, cinéma, séries, lighting_
-  * **Localisation**: Royaume-Uni/Londres, Canada/{Montréal, Vancouver}, États-Unis/Los Angeles
+  * **Localisation**: Royaume-Uni/Londres, Canada/{Montréal, Vancouver}, États-Unis/Los Angeles, États-Unis/New York
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
@@ -2854,7 +2887,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Electric Theatre Collective](https://electrictheatre.com/)**  
   * _Studio de VFX et de CGI pour la publicité, le cinéma et les contenus de marque, basé à Londres avec des antennes à New York et Los Angeles._
   * **Mots clés**: _VFX, CGI, Publicité_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/New York
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
@@ -2969,6 +3002,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision
   * **Domaine d'application**: Générique, Sécurité/Défense, Robotique/Systèmes autonomes
+
+
+* **[ENVER](https://www.enver.com/)**  
+  * _Studio new-yorkais fondé en 2021 qui développe des jeux sociaux multijoueurs en réalité virtuelle et sur mobile (MotoX, FormulaX, Scary Baboon, Sharkbait sur Meta Quest) et développe FIFA Heroes, premier jeu sous licence FIFA depuis la séparation d'avec EA Sports, pour l'éditeur Solace._
+  * **Mots clés**: _jeu en réalité virtuelle, Meta Quest, jeu multijoueur, jeu mobile_
+  * **Localisation**: États-Unis/New York
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Animation
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
 
 
 * **[Envy](https://www.envypost.co.uk/)**  
@@ -3215,7 +3257,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Figma](https://www.figma.com/)**  
   * _Éditeur de San Francisco de l'outil collaboratif de conception d'interfaces et de graphisme vectoriel Figma (Figma Design, FigJam, Figma Slides, Figma Make), dont le moteur de rendu s'exécute dans le navigateur sur le GPU._
   * **Mots clés**: _outil de conception, graphisme vectoriel, rendu GPU dans le navigateur, collaboratif_
-  * **Localisation**: États-Unis/San Francisco
+  * **Localisation**: États-Unis/San Francisco, États-Unis/New York
   * **Domaine scientifique/technique**: IHM/Haptique, Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
   * **Domaine d'application**: Générique, Art/Evenementiel
   * [_Jobs_](https://www.figma.com/careers/)
@@ -3270,6 +3312,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.float4.com/en/careers/)
 
 
+* **[FLORA](https://flora.ai/)**  
+  * _Start-up new-yorkaise éditrice d'une toile de création visuelle par IA qui orchestre plus de 50 modèles de génération d'images et de vidéos (FLUX, Veo, Sora 2, Kling) pour les designers et les agences (Pentagram, Lionsgate)._
+  * **Mots clés**: _IA générative, outil créatif, génération d'images, design_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: IA générative (image/3D), IHM/Haptique
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel
+  * [_Jobs_](https://jobs.ashbyhq.com/flora)
+
+
 * **[Fluidyn](https://www.fluidyn.com/)**  
   * _Éditeur de logiciels de mécanique des fluides numérique (CFD) et multiphysique pour l'environnement, la dispersion atmosphérique et les risques industriels._
   * **Mots clés**: _CFD, simulation physique, dispersion atmosphérique_
@@ -3320,7 +3371,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Folks](https://folksvfx.com/)**  
   * _Studio d'effets visuels fondé à Montréal (siège avenue Papineau), qui a absorbé FuseFX en 2025 et revendique plus de 900 artistes dans le monde, pour les longs métrages et les séries (Wednesday, IT: Welcome to Derry, Five Nights at Freddy's 2)._
   * **Mots clés**: _effets visuels, séries, compositing, Pitch Black_
-  * **Localisation**: Canada/Montréal, Canada/Toronto, États-Unis/Burbank
+  * **Localisation**: Canada/Montréal, Canada/Toronto, États-Unis/Burbank, États-Unis/New York
   * **Nombres d'employés**: 900
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -3359,7 +3410,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Framestore](https://www.framestore.com/)**  
   * _Studio d'effets visuels, d'animation et de contenus immersifs/temps réel fondé en 1986 à Londres, oscarisé (À la croisée des mondes, Gravity) ; studios à Londres, Montréal, New York, Los Angeles, Mumbai._
   * **Mots clés**: _VFX, Animation, Production virtuelle, Pipeline_
-  * **Localisation**: Royaume-Uni/Londres, Canada/Montréal, États-Unis/Santa Monica
+  * **Localisation**: Royaume-Uni/Londres, Canada/Montréal, États-Unis/Santa Monica, États-Unis/New York
   * **Nombres d'employés**: 1000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -3467,6 +3518,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.gaoshanpictures.com/recrutement)
+
+
+* **[General Intuition](https://www.generalintuition.com/)**  
+  * _Laboratoire d'IA new-yorkais issu de la plateforme de clips de jeu Medal, qui entraîne des « world models » génératifs et des modèles d'action sur des milliards de séquences de jeu vidéo, dont MIRA, monde multijoueur jouable généré à partir de Rocket League (avec Kyutai et Epic Games)._
+  * **Mots clés**: _world models, génération vidéo interactive, vision par ordinateur, IA_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Simulation
+  * **Domaine d'application**: Jeu Vidéo, Robotique/Systèmes autonomes
+  * [_Jobs_](https://jobs.ashbyhq.com/generalintuition-medal)
 
 
 * **[Genies](https://genies.com/)**  
@@ -3590,6 +3650,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Golden Wolf](https://www.goldenwolf.tv/)**  
+  * _Studio d'animation et agence créative fondé à Londres en 2013 et installé aussi à New York, membre du réseau Psyop, qui réalise des films d'animation 2D et 3D pour la publicité, le jeu vidéo et le divertissement (Instacart, Jif, Dead by Daylight pour Behaviour Interactive, Tortues Ninja pour McDonald's)._
+  * **Mots clés**: _animation 2D/3D, publicité, séries, design_
+  * **Localisation**: États-Unis/New York, Royaume-Uni/Londres
+  * **Nombres d'employés**: 25
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX, Jeu Vidéo
+  * [_Jobs_](https://www.goldenwolf.tv/careers)
+
+
 * **[Goodbye Kansas Studios](https://www.goodbyekansas.com/)**  
   * _Studio de contenus visuels (cinématiques et trailers de jeux vidéo, VFX, capture de mouvement, scan 3D) d'origine suédoise, avec des bureaux à Londres, Stockholm, Belgrade et Mumbai (Indiana Jones et le Cercle ancien, Destiny 2, World of Warcraft)._
   * **Mots clés**: _cinématiques, trailers de jeux, capture de mouvement, scan 3D_
@@ -3604,7 +3674,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Groupe américain du moteur de recherche, d'Android, de Google Maps et des modèles d'IA Gemini, avec des activités de recherche en vision, rendu et IA._
   * **Mots clés**: _deep learning, IA générative, cartographie, réalité augmentée, cloud/streaming, Gemini_
   * **Remarque**: _<a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique_
-  * **Localisation**: États-Unis/Mountain View, États-Unis/Los Angeles, International
+  * **Localisation**: États-Unis/Mountain View, États-Unis/Los Angeles, États-Unis/New York, International
   * **Nombres d'employés**: 140000
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -3712,7 +3782,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Harbor](https://harborpicturecompany.com/)**  
   * _Studio de post-production et de production (étalonnage, VFX, dailies, son, montage) pour le cinéma, les séries et la publicité, avec en 2026 l'étalonnage de The Devil Wears Prada 2, Widow's Bay et Cape Fear._
   * **Mots clés**: _post-production, étalonnage, VFX, finition_
-  * **Localisation**: États-Unis/Santa Monica, États-Unis/Los Angeles, Royaume-Uni/Londres
+  * **Localisation**: États-Unis/Santa Monica, États-Unis/Los Angeles, Royaume-Uni/Londres, États-Unis/New York
   * **Nombres d'employés**: 300
   * **Domaine scientifique/technique**: Rendu offline/VFX, Imagerie, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
@@ -4487,7 +4557,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Ingenuity Studios](https://www.ingenuitystudios.com/)**  
   * _Studio d'effets visuels de Los Angeles (films, séries, clips, publicité), filiale de Streamland Media, avec des studios à Vancouver et Toronto._
   * **Mots clés**: _effets visuels, Houdini, séries, Streamland_
-  * **Localisation**: Canada/Vancouver, États-Unis/Los Angeles
+  * **Localisation**: Canada/Vancouver, États-Unis/Los Angeles, États-Unis/New York
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
   * [_Jobs_](https://job-boards.greenhouse.io/ingenuitystudios)
@@ -4597,6 +4667,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 70
   * **Domaine scientifique/technique**: Vision, Acquisition, Imagerie
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Intenseye](https://www.intenseye.com/)**  
+  * _Éditeur d'une plateforme de vision par ordinateur temps réel pour la sécurité au travail, qui détecte plus de 50 types de situations dangereuses à partir des caméras existantes des sites industriels ou de ses boîtiers Sentinel._
+  * **Mots clés**: _vision par ordinateur, sécurité au travail, vidéo intelligente, détection temps réel_
+  * **Localisation**: États-Unis/New York
+  * **Nombres d'employés**: 120
+  * **Domaine scientifique/technique**: Vision
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Sécurité/Défense
+  * [_Jobs_](https://jobs.lever.co/intenseye)
 
 
 * **[InterDigital](https://www.interdigital.com/)**  
@@ -5256,6 +5336,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
 
 
+* **[Looking Glass](https://lookingglassfactory.com/)** (Looking Glass Factory) 
+  * _Fabricant de Brooklyn d'écrans holographiques sans lunettes, à champ lumineux (Light Field Display 16", Looking Glass Go) et « hololuminescents » (HLD 16" à 86", prix Display of the Year de la SID en 2026), avec les logiciels de création et de conversion de contenus 3D associés._
+  * **Mots clés**: _écran holographique, champ lumineux, affichage 3D, rendu multi-vues_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Hardware
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité, Générique
+
+
 * **[Loops Creative Studio](https://loopscreativestudio.com/)**  
   * _Studio d'animation 3D fondé en 2022 proposant lookdev, R&D et pipeline temps réel (Unreal Engine, Blender, USD) aux producteurs (Les Légendaires avec 2 Minutes, Liminals de Pierre Huyghe)._
   * **Mots clés**: _lookdev, Unreal Engine, USD, temps réel, pipeline, animation 3D_
@@ -5745,6 +5833,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Medivis](https://www.medivis.com/)**  
+  * _Start-up new-yorkaise d'imagerie chirurgicale qui développe une plateforme de visualisation 3D préopératoire (Medivis Studio, autorisée par la FDA) et des systèmes de navigation chirurgicale en réalité augmentée pour le rachis et le crâne._
+  * **Mots clés**: _imagerie médicale, réalité augmentée, navigation chirurgicale, visualisation 3D_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: Imagerie, VR/AR, Visualisation
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.medivis.com/careers)
+
+
 * **[Meerkatt Studio](https://meerkatt-studio.com/)**  
   * _Studio de jeu vidéo indépendant qui développe des jeux de simulation et de gestion à la première personne, centrés sur les interactions physiques (bakery cafe, etc.), publiés sur Steam._
   * **Mots clés**: _jeu indépendant, simulation à la première personne, Steam, interactions physiques, cozy game_
@@ -5812,7 +5909,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Meta](https://ai.meta.com/research/)**  
   * _Groupe technologique ; son laboratoire FAIR Paris (ouvert en 2015) mène des recherches en IA et vision par ordinateur (DINOv2/DINOv3)._
   * **Mots clés**: _vision par ordinateur, deep learning, IA générative, segmentation, apprentissage auto-supervisé, open source_
-  * **Localisation**: États-Unis/Menlo Park, Paris, Canada/Montréal, International
+  * **Localisation**: États-Unis/Menlo Park, Paris, Canada/Montréal, États-Unis/New York, International
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, VR/AR, Reconstruction
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Générique
   * [_Jobs_](https://www.metacareers.com/)
@@ -6027,6 +6124,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[Mirage](https://www.mirage.app/)** (NOCAP, Inc. d/b/a Mirage) 
+  * _Start-up new-yorkaise éditrice de l'application de montage vidéo Captions, qui développe ses propres modèles génératifs de vidéo et d'avatars (Avatar X) et des outils de création vidéo, graphique et 3D pour agents d'IA (Tesseract)._
+  * **Mots clés**: _IA générative, génération de vidéo, avatars, montage vidéo_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: IA générative (image/3D), Animation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Générique
+  * [_Jobs_](https://jobs.ashbyhq.com/mirage)
+
+
 * **[Miso](https://misorobotics.com/)** (Miso Robotics) 
   * _Entreprise de Pasadena qui développe des robots de cuisine guidés par vision par ordinateur (bras Flippy pour fritures et grillades) et dispose d'un laboratoire d'innovation en IA et robotique à Los Angeles._
   * **Mots clés**: _robotique, vision par ordinateur, automatisation de cuisine_
@@ -6138,7 +6244,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Moment Factory](https://momentfactory.com/)**  
   * _Studio multimédia montréalais dont le studio de Paris (depuis 2017) conçoit des expériences immersives, mappings et parcours nocturnes (AURA Invalides, Regalia à Reims, Géode)._
   * **Mots clés**: _événementiel/mapping, exposition immersive, rendu temps réel, scénographie numérique_
-  * **Localisation**: Paris, Canada/Montréal
+  * **Localisation**: Paris, Canada/Montréal, États-Unis/New York
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Visualisation, IHM/Haptique
   * **Domaine d'application**: Art/Evenementiel, Patrimoine/Culture
@@ -6293,6 +6399,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 50
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Acquisition, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel
+
+
+* **[Nathan Love](https://nathanlove.com/)**  
+  * _Studio d'animation new-yorkais spécialisé dans les personnages de marque en 3D et 2D pour la publicité et le divertissement (Nickelodeon, santé), partenaire américain d'Aardman Animations depuis 2015._
+  * **Mots clés**: _animation de personnages, 3D, publicité, Aardman_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: Animation, Modélisation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX
 
 
 * **[Naughty Dog](https://www.naughtydog.com/)**  
@@ -6522,6 +6636,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Angoulême
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Normal](https://www.normalvr.com/)**  
+  * _Studio de Brooklyn éditeur de Normcore, middleware de réseau multijoueur pour Unity (physique et voix synchronisées, espaces persistants, prise en charge de la XR, version Normcore 3), et développeur des jeux en réalité virtuelle Nock et Half + Half._
+  * **Mots clés**: _middleware multijoueur, Unity, réalité virtuelle, Normcore_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.normalvr.com/jobs)
 
 
 * **[Nothing2Install](https://nothing2install.com/)**  
@@ -6945,7 +7068,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Paramount Games Studio](https://www.paramountgames.com/)**  
   * _Studio de jeux de Paramount Skydance créé en juin 2026 par la fusion de Skydance Interactive (The Walking Dead: Saints & Sinners, Behemoth) et Skydance New Media (Marvel 1943: Rise of Hydra, sous la direction créative d'Amy Hennig), rapproché en octobre 2026 des studios de Warner Bros. Games._
   * **Mots clés**: _AAA, réalité virtuelle, Marvel, licences, Unreal Engine_
-  * **Localisation**: États-Unis/{Marina del Rey, Santa Monica}
+  * **Localisation**: États-Unis/{Marina del Rey, Santa Monica}, États-Unis/New York
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, VR/AR
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.paramount.com/careers)
@@ -7083,6 +7206,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://philomec.com/careers/)
 
 
+* **[Phosphene](https://www.phosphenefx.com/)**  
+  * _Studio indépendant new-yorkais d'effets visuels et de design pour le cinéma et les séries (The Devil Wears Prada 2, Daredevil: Born Again, Task, Eddington, The Gilded Age), quatre fois nommé aux Emmy et lauréat d'un VES Award._
+  * **Mots clés**: _effets visuels, séries, cinéma, compositing_
+  * **Localisation**: États-Unis/New York
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://www.phosphenefx.com/careers)
+
+
 * **[Photon etc.](https://www.photonetc.com/)**  
   * _Fabricant montréalais (2003, issu de Caltech) de systèmes d'imagerie hyperspectrale et infrarouge (caméras SWIR, imageurs grand champ GRAND-EOS, microscopes hyperspectraux) et de leur logiciel d'analyse PHySpec, pour la recherche biomédicale, les matériaux et l'industrie._
   * **Mots clés**: _imagerie hyperspectrale, caméras infrarouges, microscopie, analyse spectrale_
@@ -7121,7 +7254,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Picture Shop](https://www.pictureshop.com/)**  
   * _Studio de post-production du groupe Streamland Media (étalonnage, science couleur, VFX, dailies, mastering) pour séries et films, avec des références récentes comme Dexter: Resurrection, The Diplomat et Monster: The Ed Gein Story._
   * **Mots clés**: _étalonnage, science couleur, post-production, VFX_
-  * **Localisation**: États-Unis/Burbank, États-Unis/Los Angeles, Canada/Toronto, Canada/Vancouver, Royaume-Uni/Londres
+  * **Localisation**: États-Unis/Burbank, États-Unis/Los Angeles, Canada/Toronto, Canada/Vancouver, Royaume-Uni/Londres, États-Unis/New York
   * **Nombres d'employés**: 500
   * **Domaine scientifique/technique**: Imagerie, Rendu offline/VFX, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -7579,7 +7712,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Psyop](https://www.psyop.com/)**  
   * _Studio d'animation et de design fondé en 2000 (Los Angeles et New York), à la tête du collectif Psyop Group (Golden Wolf, Sun Creature, Le Cube…), qui produit des films publicitaires en 3D et 2D, des cinématiques de jeux et la série Common Side Effects pour Adult Swim, renouvelée pour une saison 2._
   * **Mots clés**: _animation 3D, publicité, séries, motion design_
-  * **Localisation**: États-Unis/Los Angeles
+  * **Localisation**: États-Unis/Los Angeles, États-Unis/New York
   * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
   * **Domaine d'application**: Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX, Jeu Vidéo
 
@@ -7766,6 +7899,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Reality Defender](https://www.realitydefender.com/)**  
+  * _Start-up new-yorkaise de détection des contenus générés ou manipulés par IA (deepfakes en image, vidéo et audio), proposée en outil web (RealScan), en API et en analyse en direct des appels et visioconférences._
+  * **Mots clés**: _détection de deepfakes, criminalistique d'images, vision par ordinateur, IA générative_
+  * **Localisation**: États-Unis/New York
+  * **Domaine scientifique/technique**: Vision, Imagerie, IA générative (image/3D)
+  * **Domaine d'application**: Sécurité/Défense
+  * [_Jobs_](https://jobs.ashbyhq.com/realitydefender)
 
 
 * **[RealityCAD](https://www.realitycad.com/)**  
@@ -8025,6 +8167,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://rocketsciencevfx.applytojob.com/)
 
 
+* **[Rockstar Games](https://www.rockstargames.com/)**  
+  * _Éditeur et développeur de jeux vidéo AAA du groupe Take-Two (Grand Theft Auto V, Red Dead Redemption 2), qui prépare Grand Theft Auto VI ; son siège new-yorkais (Rockstar NYC) dirige l'ensemble des studios du label et dispose d'un studio de capture de mouvement à Bethpage (Long Island)._
+  * **Mots clés**: _jeu vidéo AAA, monde ouvert, moteur RAGE, capture de mouvement_
+  * **Localisation**: États-Unis/New York
+  * **Nombres d'employés**: 4700
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.rockstargames.com/careers)
+
+
 * **[Rocksteady Studios](https://www.rocksteadyltd.com/)**  
   * _Studio AAA de jeu vidéo londonien (filiale de Warner Bros. Games) créateur de la série Batman: Arkham et de Suicide Squad: Kill the Justice League._
   * **Mots clés**: _jeu AAA, Batman Arkham, Unreal Engine, Warner Bros. Games_
@@ -8107,6 +8259,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Runway](https://runway.com/)** (Runway AI, Inc.) 
+  * _Éditeur new-yorkais de modèles et d'outils d'IA générative de vidéo et d'images (Gen-4.5, Aleph, Act-Two) utilisés dans le cinéma et la publicité, qui développe aussi des « world models » et possède un studio de production, Runway Studios._
+  * **Mots clés**: _IA générative, génération de vidéo, world models, outils créatifs_
+  * **Localisation**: États-Unis/New York
+  * **Nombres d'employés**: 265
+  * **Domaine scientifique/technique**: IA générative (image/3D), Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://runway.com/careers)
 
 
 * **[Sabotage Studio](https://sabotagestudio.com/)**  
@@ -9092,7 +9254,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Superbien](https://www.superbien.studio/)**  
   * _Studio créatif parisien (et New York) qui produit des images animées 3D, du contenu CGI, des expériences immersives et de la réalité augmentée pour les marques._
   * **Mots clés**: _motion design, 3D, publicité, réalité augmentée, exposition immersive_
-  * **Localisation**: Paris
+  * **Localisation**: Paris, États-Unis/New York
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, VR/AR, Modélisation
   * **Domaine d'application**: Commerce/Marketing/Publicité, Art/Evenementiel
@@ -9652,7 +9814,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Titmouse](https://titmouse.net/)**  
   * _Studio d'animation américain (The Legend of Vox Machina, Big Mouth, Star Trek: Lower Decks) avec un studio à Vancouver depuis 2013, premier studio d'animation syndiqué au Canada, et une filiale à Paris créée en 2025._
   * **Mots clés**: _animation 2D, animation adulte, séries, Paris_
-  * **Localisation**: Canada/Vancouver, Paris, États-Unis/{Los Angeles, Burbank}
+  * **Localisation**: Canada/Vancouver, Paris, États-Unis/{Los Angeles, Burbank}, États-Unis/New York
   * **Nombres d'employés**: 700
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -9947,7 +10109,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Untold Studios](https://untoldstudios.tv/)**  
   * _Studio de VFX, d'étalonnage et de production fondé en 2018 à Londres, se présentant comme un studio entièrement basé sur le cloud ; bureaux à New York, Los Angeles, Mumbai et Toronto ; publicité, film et séries._
   * **Mots clés**: _VFX, CGI, Pipeline cloud, Publicité_
-  * **Localisation**: Royaume-Uni/Londres, États-Unis/Culver City
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/Culver City, États-Unis/New York
   * **Domaine scientifique/technique**: Rendu offline/VFX, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
   * [_Jobs_](https://untoldstudios.tv/careers/)

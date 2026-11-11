@@ -1499,6 +1499,10 @@
             33.9777,
             -118.4486
         ],
+        "\u00c9tats-Unis/Melville": [
+            40.7836,
+            -73.4076
+        ],
         "\u00c9tats-Unis/Menlo Park": [
             37.452,
             -122.178
@@ -2053,6 +2057,14 @@
                 },
                 {
                     "Country": "Inde"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 },
                 {
                     "International": true
@@ -4073,6 +4085,15 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Los Angeles"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7409,
+                        -74.00177
+                    ],
+                    "Address": "111 Eighth Avenue, New York, NY 10011"
                 },
                 {
                     "International": true
@@ -7875,6 +7896,14 @@
                 {
                     "Country": "Canada",
                     "City": "Montr\u00e9al"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 },
                 {
                     "International": true
@@ -17836,6 +17865,15 @@
                     ],
                     "SIREN": "518001730",
                     "Address": "282 Boulevard Voltaire, 75011 Paris"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.74548,
+                        -73.98862
+                    ],
+                    "Address": "1178 Broadway, 3rd Floor, Suite 185, New York, NY 10001"
                 }
             ],
             "Scientific-domain": [
@@ -19654,6 +19692,15 @@
                 {
                     "Country": "Canada",
                     "City": "Montr\u00e9al"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.70615,
+                        -74.0092
+                    ],
+                    "Address": "55 Wall Street, New York, NY 10005"
                 }
             ],
             "Scientific-domain": [
@@ -23947,6 +23994,15 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Santa Monica"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.74124,
+                        -73.99846
+                    ],
+                    "Address": "218 West 18th Street, 12th Floor, New York, NY 10011"
                 }
             ],
             "Scientific-domain": [
@@ -24019,6 +24075,15 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Culver City"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.72264,
+                        -73.99777
+                    ],
+                    "Address": "75 Spring Street, New York, NY 10012"
                 }
             ],
             "Scientific-domain": [
@@ -24108,6 +24173,15 @@
                         -0.07212
                     ],
                     "Address": "5th Floor, 91 Brick Lane, London E1 6QL"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.72529,
+                        -73.99587
+                    ],
+                    "Address": "166 Crosby Street, Suite 702, New York, NY 10012"
                 }
             ],
             "Scientific-domain": [
@@ -26428,6 +26502,14 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Los Angeles"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -26457,6 +26539,14 @@
                         -0.10941
                     ],
                     "Address": "83 Clerkenwell Road, London EC1R 5AR"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -26862,6 +26952,15 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Los Angeles"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.65724,
+                        -74.00762
+                    ],
+                    "Address": "33 35th Street, Suite A600, Industry City, Brooklyn, NY 11232"
                 }
             ],
             "Scientific-domain": [
@@ -26984,6 +27083,15 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Burbank"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.70353,
+                        -74.0079
+                    ],
+                    "Address": "32 Old Slip, Suite 1700, New York, NY 10005"
                 }
             ],
             "Scientific-domain": [
@@ -30055,6 +30163,14 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Los Angeles"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -30102,6 +30218,15 @@
                         "Los Angeles",
                         "Burbank"
                     ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.74783,
+                        -73.9911
+                    ],
+                    "Address": "150 W 30th St, New York, NY 10001"
                 }
             ],
             "Scientific-domain": [
@@ -30198,6 +30323,15 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Los Angeles"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7234,
+                        -74.00863
+                    ],
+                    "Address": "12 Desbrosses St, New York, NY 10013"
                 }
             ],
             "Scientific-domain": [
@@ -31208,6 +31342,14 @@
                         34.0522,
                         -118.2437
                     ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -31683,6 +31825,15 @@
                         -0.1118
                     ],
                     "Address": "28 Chancery Lane, London WC2A 1LB"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.74124,
+                        -73.99846
+                    ],
+                    "Address": "218 W 18th St, 12th Floor, New York, NY 10011"
                 }
             ],
             "Scientific-domain": [
@@ -31783,6 +31934,15 @@
                         -0.1385
                     ],
                     "Address": "8 Marshall Street, London W1F 7EJ"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7234,
+                        -74.00863
+                    ],
+                    "Address": "12 Desbrosses St, New York, NY 10013"
                 }
             ],
             "Scientific-domain": [
@@ -32667,6 +32827,15 @@
                         33.9803,
                         -118.4517
                     ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.75702,
+                        -73.98602
+                    ],
+                    "Address": "One Astor Plaza, 1515 Broadway, New York, NY 10036"
                 }
             ],
             "Scientific-domain": [
@@ -33993,6 +34162,15 @@
                 {
                     "Country": "Canada",
                     "City": "Toronto"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.74613,
+                        -73.98674
+                    ],
+                    "Address": "7 West 30th Street, 5th Floor, New York, NY 10001"
                 }
             ],
             "Scientific-domain": [
@@ -34173,6 +34351,14 @@
                         -0.10502
                     ],
                     "Address": "63 Turnmill St, London EC1M 5NP"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -38822,6 +39008,14 @@
                         -122.40525
                     ],
                     "Address": "760 Market St, Floor 10, San Francisco, CA 94102"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7127,
+                        -74.006
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -40054,6 +40248,577 @@
                 "hydrog\u00e8ne",
                 "IA",
                 "infrastructures"
+            ]
+        },
+        {
+            "Name": "Phosphene",
+            "url": "https://www.phosphenefx.com/",
+            "Description": "Studio ind\u00e9pendant new-yorkais d'effets visuels et de design pour le cin\u00e9ma et les s\u00e9ries (The Devil Wears Prada 2, Daredevil: Born Again, Task, Eddington, The Gilded Age), quatre fois nomm\u00e9 aux Emmy et laur\u00e9at d'un VES Award.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.70396,
+                        -74.01165
+                    ],
+                    "Address": "90 Broad Street, Suite 502, Financial District, Manhattan, New York, NY 10004"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://www.phosphenefx.com/careers",
+            "Employees": 50,
+            "Keywords": [
+                "effets visuels",
+                "s\u00e9ries",
+                "cin\u00e9ma",
+                "compositing"
+            ]
+        },
+        {
+            "Name": "Golden Wolf",
+            "url": "https://www.goldenwolf.tv/",
+            "Description": "Studio d'animation et agence cr\u00e9ative fond\u00e9 \u00e0 Londres en 2013 et install\u00e9 aussi \u00e0 New York, membre du r\u00e9seau Psyop, qui r\u00e9alise des films d'animation 2D et 3D pour la publicit\u00e9, le jeu vid\u00e9o et le divertissement (Instacart, Jif, Dead by Daylight pour Behaviour Interactive, Tortues Ninja pour McDonald's).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.71981,
+                        -73.98725
+                    ],
+                    "Address": "122 Rivington Street, Lower East Side, Manhattan, New York, NY 10002"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres",
+                    "Coordinates": [
+                        51.5287,
+                        -0.0836
+                    ],
+                    "Address": "6 Green Mews, 13-19 Bevenden Street, London N1 6AS"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.goldenwolf.tv/careers",
+            "Employees": 25,
+            "Keywords": [
+                "animation 2D/3D",
+                "publicit\u00e9",
+                "s\u00e9ries",
+                "design"
+            ]
+        },
+        {
+            "Name": "Nathan Love",
+            "url": "https://nathanlove.com/",
+            "Description": "Studio d'animation new-yorkais sp\u00e9cialis\u00e9 dans les personnages de marque en 3D et 2D pour la publicit\u00e9 et le divertissement (Nickelodeon, sant\u00e9), partenaire am\u00e9ricain d'Aardman Animations depuis 2015.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7128,
+                        -74.006
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "animation de personnages",
+                "3D",
+                "publicit\u00e9",
+                "Aardman"
+            ]
+        },
+        {
+            "Name": "Rockstar Games",
+            "url": "https://www.rockstargames.com/",
+            "Description": "\u00c9diteur et d\u00e9veloppeur de jeux vid\u00e9o AAA du groupe Take-Two (Grand Theft Auto V, Red Dead Redemption 2), qui pr\u00e9pare Grand Theft Auto VI ; son si\u00e8ge new-yorkais (Rockstar NYC) dirige l'ensemble des studios du label et dispose d'un studio de capture de mouvement \u00e0 Bethpage (Long Island).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.72588,
+                        -73.9963
+                    ],
+                    "Address": "622 Broadway, Manhattan (SoHo), New York, NY 10012"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.rockstargames.com/careers",
+            "Employees": 4700,
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "monde ouvert",
+                "moteur RAGE",
+                "capture de mouvement"
+            ]
+        },
+        {
+            "Name": "Arkadium",
+            "url": "https://www.arkadium.com/",
+            "Description": "Studio new-yorkais fond\u00e9 en 2001 qui d\u00e9veloppe et diffuse des jeux casual en HTML5 (mots crois\u00e9s, cartes, mots, puzzles) sur son portail Arkadium.com et en marque blanche pour de grands \u00e9diteurs de presse et marques.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.74058,
+                        -73.99111
+                    ],
+                    "Address": "19 W 21st Street, Suite 1001, Manhattan (Flatiron), New York, NY 10010"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://apply.workable.com/arkadium-1/",
+            "Keywords": [
+                "jeux casual",
+                "HTML5",
+                "jeux par navigateur",
+                "marque blanche"
+            ]
+        },
+        {
+            "Name": "Normal",
+            "url": "https://www.normalvr.com/",
+            "Description": "Studio de Brooklyn \u00e9diteur de Normcore, middleware de r\u00e9seau multijoueur pour Unity (physique et voix synchronis\u00e9es, espaces persistants, prise en charge de la XR, version Normcore 3), et d\u00e9veloppeur des jeux en r\u00e9alit\u00e9 virtuelle Nock et Half + Half.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.6782,
+                        -73.9442
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://www.normalvr.com/jobs",
+            "Keywords": [
+                "middleware multijoueur",
+                "Unity",
+                "r\u00e9alit\u00e9 virtuelle",
+                "Normcore"
+            ]
+        },
+        {
+            "Name": "Atari",
+            "url": "https://atari.com/",
+            "Description": "\u00c9diteur historique de jeux vid\u00e9o, dirig\u00e9 depuis New York et Paris, qui exploite et r\u00e9\u00e9dite son catalogue r\u00e9tro (Pong, Asteroids, Centipede) et a rachet\u00e9 plusieurs studios de pr\u00e9servation et de portage (Digital Eclipse, Nightdive Studios, Implicit Conversions en avril 2026) ainsi que les droits des cinq premiers Wizardry (mai 2026) et le studio mobile Hipster Whale (juin 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7516,
+                        -73.98025
+                    ],
+                    "Address": "286 Madison Avenue, 8th Floor, Manhattan (Murray Hill), New York, NY 10017"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Patrimoine/Culture"
+            ],
+            "Keywords": [
+                "\u00e9diteur de jeux vid\u00e9o",
+                "r\u00e9trogaming",
+                "r\u00e9\u00e9dition",
+                "pr\u00e9servation du jeu vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "ENVER",
+            "url": "https://www.enver.com/",
+            "Description": "Studio new-yorkais fond\u00e9 en 2021 qui d\u00e9veloppe des jeux sociaux multijoueurs en r\u00e9alit\u00e9 virtuelle et sur mobile (MotoX, FormulaX, Scary Baboon, Sharkbait sur Meta Quest) et d\u00e9veloppe FIFA Heroes, premier jeu sous licence FIFA depuis la s\u00e9paration d'avec EA Sports, pour l'\u00e9diteur Solace.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7128,
+                        -74.006
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 200,
+            "Keywords": [
+                "jeu en r\u00e9alit\u00e9 virtuelle",
+                "Meta Quest",
+                "jeu multijoueur",
+                "jeu mobile"
+            ]
+        },
+        {
+            "Name": "Runway",
+            "Name-long": "Runway AI, Inc.",
+            "url": "https://runway.com/",
+            "Description": "\u00c9diteur new-yorkais de mod\u00e8les et d'outils d'IA g\u00e9n\u00e9rative de vid\u00e9o et d'images (Gen-4.5, Aleph, Act-Two) utilis\u00e9s dans le cin\u00e9ma et la publicit\u00e9, qui d\u00e9veloppe aussi des \u00ab world models \u00bb et poss\u00e8de un studio de production, Runway Studios.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7831,
+                        -73.9712
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://runway.com/careers",
+            "Employees": 265,
+            "Keywords": [
+                "IA g\u00e9n\u00e9rative",
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "world models",
+                "outils cr\u00e9atifs"
+            ]
+        },
+        {
+            "Name": "Mirage",
+            "Name-long": "NOCAP, Inc. d/b/a Mirage",
+            "url": "https://www.mirage.app/",
+            "Description": "Start-up new-yorkaise \u00e9ditrice de l'application de montage vid\u00e9o Captions, qui d\u00e9veloppe ses propres mod\u00e8les g\u00e9n\u00e9ratifs de vid\u00e9o et d'avatars (Avatar X) et des outils de cr\u00e9ation vid\u00e9o, graphique et 3D pour agents d'IA (Tesseract).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7359,
+                        -73.9911
+                    ],
+                    "Address": "Union Square, Manhattan"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/mirage",
+            "Keywords": [
+                "IA g\u00e9n\u00e9rative",
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "avatars",
+                "montage vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Chyron",
+            "url": "https://chyron.com/",
+            "Description": "\u00c9diteur historique (fond\u00e9 en 1966) de logiciels de graphisme temps r\u00e9el pour la t\u00e9l\u00e9vision, bas\u00e9 \u00e0 Melville sur Long Island : habillage antenne PRIME, production en direct dans le cloud LIVE, cartes et infographies AXIS, graphiques virtuels sans tracking (Virtual Placement 8.1, 2026), m\u00e9t\u00e9o et d\u00e9cors virtuels VSAR.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Melville",
+                    "Coordinates": [
+                        40.77887,
+                        -73.41408
+                    ],
+                    "Address": "324 South Service Road, Suite 105, Melville, NY 11747"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Visualisation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "graphisme broadcast",
+                "habillage antenne",
+                "graphiques virtuels",
+                "t\u00e9l\u00e9vision en direct"
+            ]
+        },
+        {
+            "Name": "Medivis",
+            "url": "https://www.medivis.com/",
+            "Description": "Start-up new-yorkaise d'imagerie chirurgicale qui d\u00e9veloppe une plateforme de visualisation 3D pr\u00e9op\u00e9ratoire (Medivis Studio, autoris\u00e9e par la FDA) et des syst\u00e8mes de navigation chirurgicale en r\u00e9alit\u00e9 augment\u00e9e pour le rachis et le cr\u00e2ne.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7128,
+                        -74.006
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "VR/AR",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.medivis.com/careers",
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "navigation chirurgicale",
+                "visualisation 3D"
+            ]
+        },
+        {
+            "Name": "General Intuition",
+            "url": "https://www.generalintuition.com/",
+            "Description": "Laboratoire d'IA new-yorkais issu de la plateforme de clips de jeu Medal, qui entra\u00eene des \u00ab world models \u00bb g\u00e9n\u00e9ratifs et des mod\u00e8les d'action sur des milliards de s\u00e9quences de jeu vid\u00e9o, dont MIRA, monde multijoueur jouable g\u00e9n\u00e9r\u00e9 \u00e0 partir de Rocket League (avec Kyutai et Epic Games).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7128,
+                        -74.006
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Vision",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/generalintuition-medal",
+            "Keywords": [
+                "world models",
+                "g\u00e9n\u00e9ration vid\u00e9o interactive",
+                "vision par ordinateur",
+                "IA"
+            ]
+        },
+        {
+            "Name": "FLORA",
+            "url": "https://flora.ai/",
+            "Description": "Start-up new-yorkaise \u00e9ditrice d'une toile de cr\u00e9ation visuelle par IA qui orchestre plus de 50 mod\u00e8les de g\u00e9n\u00e9ration d'images et de vid\u00e9os (FLUX, Veo, Sora 2, Kling) pour les designers et les agences (Pentagram, Lionsgate).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7128,
+                        -74.006
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Art/Evenementiel"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/flora",
+            "Keywords": [
+                "IA g\u00e9n\u00e9rative",
+                "outil cr\u00e9atif",
+                "g\u00e9n\u00e9ration d'images",
+                "design"
+            ]
+        },
+        {
+            "Name": "Aidoc",
+            "url": "https://www.aidoc.com/",
+            "Description": "\u00c9diteur isra\u00e9lo-am\u00e9ricain d'IA d'analyse d'imagerie m\u00e9dicale (scanner, IRM) pour le triage en radiologie, dont le mod\u00e8le de fondation CARE (CARE Body CT Multi-Triage, \u00e9ligible au remboursement Medicare en 2026), utilis\u00e9 par de nombreux h\u00f4pitaux am\u00e9ricains et europ\u00e9ens.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.76479,
+                        -73.97846
+                    ],
+                    "Address": "142 W 57th St, New York, NY 10019"
+                },
+                {
+                    "Country": "Isra\u00ebl",
+                    "City": "Tel-Aviv"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie m\u00e9dicale",
+                "radiologie",
+                "IA de diagnostic",
+                "mod\u00e8le de fondation"
+            ]
+        },
+        {
+            "Name": "Looking Glass",
+            "Name-long": "Looking Glass Factory",
+            "url": "https://lookingglassfactory.com/",
+            "Description": "Fabricant de Brooklyn d'\u00e9crans holographiques sans lunettes, \u00e0 champ lumineux (Light Field Display 16\", Looking Glass Go) et \u00ab hololuminescents \u00bb (HLD 16\" \u00e0 86\", prix Display of the Year de la SID en 2026), avec les logiciels de cr\u00e9ation et de conversion de contenus 3D associ\u00e9s.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.6782,
+                        -73.9442
+                    ],
+                    "Address": "Brooklyn"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Commerce/Marketing/Publicit\u00e9",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Keywords": [
+                "\u00e9cran holographique",
+                "champ lumineux",
+                "affichage 3D",
+                "rendu multi-vues"
+            ]
+        },
+        {
+            "Name": "Intenseye",
+            "url": "https://www.intenseye.com/",
+            "Description": "\u00c9diteur d'une plateforme de vision par ordinateur temps r\u00e9el pour la s\u00e9curit\u00e9 au travail, qui d\u00e9tecte plus de 50 types de situations dangereuses \u00e0 partir des cam\u00e9ras existantes des sites industriels ou de ses bo\u00eetiers Sentinel.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.74185,
+                        -73.99809
+                    ],
+                    "Address": "220 W 19th St, Floor 4, New York, NY 10011"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://jobs.lever.co/intenseye",
+            "Employees": 120,
+            "Keywords": [
+                "vision par ordinateur",
+                "s\u00e9curit\u00e9 au travail",
+                "vid\u00e9o intelligente",
+                "d\u00e9tection temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Reality Defender",
+            "url": "https://www.realitydefender.com/",
+            "Description": "Start-up new-yorkaise de d\u00e9tection des contenus g\u00e9n\u00e9r\u00e9s ou manipul\u00e9s par IA (deepfakes en image, vid\u00e9o et audio), propos\u00e9e en outil web (RealScan), en API et en analyse en direct des appels et visioconf\u00e9rences.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "New York",
+                    "Coordinates": [
+                        40.7128,
+                        -74.006
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/realitydefender",
+            "Keywords": [
+                "d\u00e9tection de deepfakes",
+                "criminalistique d'images",
+                "vision par ordinateur",
+                "IA g\u00e9n\u00e9rative"
             ]
         }
     ]

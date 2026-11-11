@@ -160,6 +160,9 @@
       Address: 94-96 rue Lauriston, 75016 Paris
     - Country: Royaume-Uni
     - Country: Inde
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
     - International: true
   Product: [Photoshop, Substance 3D, Premiere, Illustrator, etc.]
   Jobs: https://careers.adobe.com/us/en
@@ -985,6 +988,10 @@
       City: Mountain View
     - Country: États-Unis
       City: Los Angeles
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7409, -74.00177]
+      Address: 111 Eighth Avenue, New York, NY 10011
     - International: true
   Scientific-domain: [IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data]
   Application-domain: [Générique]
@@ -2569,6 +2576,9 @@
       Address: 6 rue Ménars, 75002 Paris
     - Country: Canada
       City: Montréal
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
     - International: true
   Scientific-domain: [IA générative (image/3D), Vision, VR/AR, Reconstruction]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Générique]
@@ -6773,6 +6783,10 @@
       Coordinates: [48.84953, 2.39356]
       SIREN: '518001730'
       Address: 282 Boulevard Voltaire, 75011 Paris
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.74548, -73.98862]
+      Address: 1178 Broadway, 3rd Floor, Suite 185, New York, NY 10001
   Scientific-domain: [Rendu offline/VFX, Animation, VR/AR, Modélisation]
   Application-domain: [Commerce/Marketing/Publicité, Art/Evenementiel]
   Keywords: [motion design, 3D, publicité, réalité augmentée, exposition immersive]
@@ -7551,6 +7565,10 @@
       Address: 79 Boulevard Richard Lenoir, 75011 Paris
     - Country: Canada
       City: Montréal
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.70615, -74.0092]
+      Address: 55 Wall Street, New York, NY 10005
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Visualisation, IHM/Haptique]
   Application-domain: [Art/Evenementiel, Patrimoine/Culture]
   Keywords: [événementiel/mapping, exposition immersive, rendu temps réel, scénographie numérique]
@@ -9350,6 +9368,10 @@
       City: Montréal
     - Country: États-Unis
       City: Santa Monica
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.74124, -73.99846]
+      Address: 218 West 18th Street, 12th Floor, New York, NY 10011
   Scientific-domain: [Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://www.framestore.com/careers
@@ -9381,6 +9403,10 @@
       Address: White Collar Factory, Old Street Yard, London EC1Y 8AF
     - Country: États-Unis
       City: Culver City
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.72264, -73.99777]
+      Address: 75 Spring Street, New York, NY 10012
   Scientific-domain: [Rendu offline/VFX, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Jobs: https://untoldstudios.tv/careers/
@@ -9418,6 +9444,10 @@
       City: Londres
       Coordinates: [51.52064, -0.07212]
       Address: 5th Floor, 91 Brick Lane, London E1 6QL
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.72529, -73.99587]
+      Address: 166 Crosby Street, Suite 702, New York, NY 10012
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Keywords: [VFX, CGI, Publicité]
@@ -10423,6 +10453,9 @@
       City: [Montréal, Vancouver]
     - Country: États-Unis
       City: Los Angeles
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [effets visuels, cinéma, séries, lighting]
@@ -10435,6 +10468,9 @@
       City: Londres
       Coordinates: [51.52177, -0.10941]
       Address: 83 Clerkenwell Road, London EC1R 5AR
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
   Scientific-domain: [Rendu offline/VFX, Modélisation]
   Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
   Keywords: [effets visuels, publicité, CGI, étalonnage]
@@ -10599,6 +10635,10 @@
       Address: 3 Bunhill Row, London EC1Y 8YZ
     - Country: États-Unis
       City: Los Angeles
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.65724, -74.00762]
+      Address: 33 35th Street, Suite A600, Industry City, Brooklyn, NY 11232
   Scientific-domain: [Animation, Rendu offline/VFX]
   Application-domain: [Commerce/Marketing/Publicité, Jeu Vidéo]
   Jobs: https://buck.co/careers
@@ -10652,6 +10692,10 @@
       City: Toronto
     - Country: États-Unis
       City: Burbank
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.70353, -74.0079]
+      Address: 32 Old Slip, Suite 1700, New York, NY 10005
   Scientific-domain: [Rendu offline/VFX, Animation, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Jobs: https://folksvfx.com/careers/open-positions/
@@ -11934,6 +11978,9 @@
       Address: 18 W 4th Avenue, bureau 338, Vancouver, BC V5Y 1G3
     - Country: États-Unis
       City: Los Angeles
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
   Scientific-domain: [Rendu offline/VFX, Modélisation, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 126
@@ -11953,6 +12000,10 @@
       Address: 107 Avenue Parmentier, 75011 Paris
     - Country: États-Unis
       City: [Los Angeles, Burbank]
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.74783, -73.9911]
+      Address: 150 W 30th St, New York, NY 10001
   Scientific-domain: [Animation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 700
@@ -11994,6 +12045,10 @@
       Address: 2339 Columbia Street, bureau 200, Vancouver, BC V5Y 3Y3
     - Country: États-Unis
       City: Los Angeles
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7234, -74.00863]
+      Address: 12 Desbrosses St, New York, NY 10013
   Scientific-domain: [Rendu offline/VFX, Simulation, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Jobs: https://job-boards.greenhouse.io/ingenuitystudios
@@ -12411,6 +12466,9 @@
     - Country: États-Unis
       City: Los Angeles
       Coordinates: [34.0522, -118.2437]
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
   Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
   Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX, Jeu Vidéo]
   Keywords: [animation 3D, publicité, séries, motion design]
@@ -12610,6 +12668,10 @@
       City: Londres
       Coordinates: [51.5163, -0.1118]
       Address: 28 Chancery Lane, London WC2A 1LB
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.74124, -73.99846]
+      Address: 218 W 18th St, 12th Floor, New York, NY 10011
   Scientific-domain: [Rendu offline/VFX, Imagerie, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Employees: 500
@@ -12652,6 +12714,10 @@
       City: Londres
       Coordinates: [51.5128, -0.1385]
       Address: 8 Marshall Street, London W1F 7EJ
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7234, -74.00863]
+      Address: 12 Desbrosses St, New York, NY 10013
   Scientific-domain: [Imagerie, Rendu offline/VFX, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Employees: 500
@@ -13016,6 +13082,10 @@
     - Country: États-Unis
       City: [Marina del Rey, Santa Monica]
       Coordinates: [33.9803, -118.4517]
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.75702, -73.98602]
+      Address: One Astor Plaza, 1515 Broadway, New York, NY 10036
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, VR/AR]
   Application-domain: [Jeu Vidéo]
   Jobs: https://www.paramount.com/careers
@@ -13574,6 +13644,10 @@
       City: Vancouver
     - Country: Canada
       City: Toronto
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.74613, -73.98674]
+      Address: 7 West 30th Street, 5th Floor, New York, NY 10001
   Scientific-domain: [Rendu offline/VFX, Animation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Keywords: [effets visuels, séries, publicité]
@@ -13648,6 +13722,9 @@
       City: Londres
       Coordinates: [51.52099, -0.10502]
       Address: 63 Turnmill St, London EC1M 5NP
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
   Scientific-domain: [Rendu offline/VFX, Imagerie, Pipeline/Outils de production]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
   Jobs: https://harborpicturecompany.com/careers/
@@ -15607,6 +15684,9 @@
       City: San Francisco
       Coordinates: [37.78647, -122.40525]
       Address: 760 Market St, Floor 10, San Francisco, CA 94102
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7127, -74.006]
   Scientific-domain: [IHM/Haptique, Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data]
   Application-domain: [Générique, Art/Evenementiel]
   Jobs: https://www.figma.com/careers/
@@ -16101,3 +16181,238 @@
   Jobs: https://jobs.dover.com/HyLight/careers/07e7aff2-18e8-4518-8d08-b6a6b165ea97
   Employees: 15
   Keywords: [drone dirigeable, inspection aérienne, hydrogène, IA, infrastructures]
+
+- Name: Phosphene
+  url: https://www.phosphenefx.com/
+  Description: 'Studio indépendant new-yorkais d''effets visuels et de design pour le cinéma et les séries (The Devil Wears Prada 2, Daredevil: Born Again, Task, Eddington, The Gilded Age), quatre fois nommé aux Emmy et lauréat d''un VES Award.'
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.70396, -74.01165]
+      Address: 90 Broad Street, Suite 502, Financial District, Manhattan, New York, NY 10004
+  Scientific-domain: [Rendu offline/VFX, Modélisation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://www.phosphenefx.com/careers
+  Employees: 50
+  Keywords: [effets visuels, séries, cinéma, compositing]
+
+- Name: Golden Wolf
+  url: https://www.goldenwolf.tv/
+  Description: Studio d'animation et agence créative fondé à Londres en 2013 et installé aussi à New York, membre du réseau Psyop, qui réalise des films d'animation 2D et 3D pour la publicité, le jeu vidéo et le divertissement (Instacart, Jif, Dead by Daylight pour Behaviour Interactive, Tortues Ninja pour McDonald's).
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.71981, -73.98725]
+      Address: 122 Rivington Street, Lower East Side, Manhattan, New York, NY 10002
+    - Country: Royaume-Uni
+      City: Londres
+      Coordinates: [51.5287, -0.0836]
+      Address: 6 Green Mews, 13-19 Bevenden Street, London N1 6AS
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX, Jeu Vidéo]
+  Jobs: https://www.goldenwolf.tv/careers
+  Employees: 25
+  Keywords: [animation 2D/3D, publicité, séries, design]
+
+- Name: Nathan Love
+  url: https://nathanlove.com/
+  Description: Studio d'animation new-yorkais spécialisé dans les personnages de marque en 3D et 2D pour la publicité et le divertissement (Nickelodeon, santé), partenaire américain d'Aardman Animations depuis 2015.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7128, -74.006]
+  Scientific-domain: [Animation, Modélisation]
+  Application-domain: [Commerce/Marketing/Publicité, Cinéma/Films d'Animation/VFX]
+  Keywords: [animation de personnages, 3D, publicité, Aardman]
+
+- Name: Rockstar Games
+  url: https://www.rockstargames.com/
+  Description: Éditeur et développeur de jeux vidéo AAA du groupe Take-Two (Grand Theft Auto V, Red Dead Redemption 2), qui prépare Grand Theft Auto VI ; son siège new-yorkais (Rockstar NYC) dirige l'ensemble des studios du label et dispose d'un studio de capture de mouvement à Bethpage (Long Island).
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.72588, -73.9963]
+      Address: 622 Broadway, Manhattan (SoHo), New York, NY 10012
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Acquisition]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.rockstargames.com/careers
+  Employees: 4700
+  Keywords: [jeu vidéo AAA, monde ouvert, moteur RAGE, capture de mouvement]
+
+- Name: Arkadium
+  url: https://www.arkadium.com/
+  Description: Studio new-yorkais fondé en 2001 qui développe et diffuse des jeux casual en HTML5 (mots croisés, cartes, mots, puzzles) sur son portail Arkadium.com et en marque blanche pour de grands éditeurs de presse et marques.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.74058, -73.99111]
+      Address: 19 W 21st Street, Suite 1001, Manhattan (Flatiron), New York, NY 10010
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data]
+  Application-domain: [Jeu Vidéo, Commerce/Marketing/Publicité]
+  Jobs: https://apply.workable.com/arkadium-1/
+  Keywords: [jeux casual, HTML5, jeux par navigateur, marque blanche]
+
+- Name: Normal
+  url: https://www.normalvr.com/
+  Description: Studio de Brooklyn éditeur de Normcore, middleware de réseau multijoueur pour Unity (physique et voix synchronisées, espaces persistants, prise en charge de la XR, version Normcore 3), et développeur des jeux en réalité virtuelle Nock et Half + Half.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.6782, -73.9442]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Web/Cloud/Big Data]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://www.normalvr.com/jobs
+  Keywords: [middleware multijoueur, Unity, réalité virtuelle, Normcore]
+
+- Name: Atari
+  url: https://atari.com/
+  Description: Éditeur historique de jeux vidéo, dirigé depuis New York et Paris, qui exploite et réédite son catalogue rétro (Pong, Asteroids, Centipede) et a racheté plusieurs studios de préservation et de portage (Digital Eclipse, Nightdive Studios, Implicit Conversions en avril 2026) ainsi que les droits des cinq premiers Wizardry (mai 2026) et le studio mobile Hipster Whale (juin 2026).
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7516, -73.98025]
+      Address: 286 Madison Avenue, 8th Floor, Manhattan (Murray Hill), New York, NY 10017
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo, Patrimoine/Culture]
+  Keywords: [éditeur de jeux vidéo, rétrogaming, réédition, préservation du jeu vidéo]
+
+- Name: ENVER
+  url: https://www.enver.com/
+  Description: Studio new-yorkais fondé en 2021 qui développe des jeux sociaux multijoueurs en réalité virtuelle et sur mobile (MotoX, FormulaX, Scary Baboon, Sharkbait sur Meta Quest) et développe FIFA Heroes, premier jeu sous licence FIFA depuis la séparation d'avec EA Sports, pour l'éditeur Solace.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7128, -74.006]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Animation]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Employees: 200
+  Keywords: [jeu en réalité virtuelle, Meta Quest, jeu multijoueur, jeu mobile]
+
+- Name: Runway
+  Name-long: Runway AI, Inc.
+  url: https://runway.com/
+  Description: Éditeur new-yorkais de modèles et d'outils d'IA générative de vidéo et d'images (Gen-4.5, Aleph, Act-Two) utilisés dans le cinéma et la publicité, qui développe aussi des « world models » et possède un studio de production, Runway Studios.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7831, -73.9712]
+  Scientific-domain: [IA générative (image/3D), Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://runway.com/careers
+  Employees: 265
+  Keywords: [IA générative, génération de vidéo, world models, outils créatifs]
+
+- Name: Mirage
+  Name-long: NOCAP, Inc. d/b/a Mirage
+  url: https://www.mirage.app/
+  Description: Start-up new-yorkaise éditrice de l'application de montage vidéo Captions, qui développe ses propres modèles génératifs de vidéo et d'avatars (Avatar X) et des outils de création vidéo, graphique et 3D pour agents d'IA (Tesseract).
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7359, -73.9911]
+      Address: Union Square, Manhattan
+  Scientific-domain: [IA générative (image/3D), Animation]
+  Application-domain: [Commerce/Marketing/Publicité, Générique]
+  Jobs: https://jobs.ashbyhq.com/mirage
+  Keywords: [IA générative, génération de vidéo, avatars, montage vidéo]
+
+- Name: Chyron
+  url: https://chyron.com/
+  Description: 'Éditeur historique (fondé en 1966) de logiciels de graphisme temps réel pour la télévision, basé à Melville sur Long Island : habillage antenne PRIME, production en direct dans le cloud LIVE, cartes et infographies AXIS, graphiques virtuels sans tracking (Virtual Placement 8.1, 2026), météo et décors virtuels VSAR.'
+  Place:
+    - Country: États-Unis
+      City: Melville
+      Coordinates: [40.77887, -73.41408]
+      Address: 324 South Service Road, Suite 105, Melville, NY 11747
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Visualisation, VR/AR]
+  Application-domain: [Art/Evenementiel, Commerce/Marketing/Publicité]
+  Keywords: [graphisme broadcast, habillage antenne, graphiques virtuels, télévision en direct]
+
+- Name: Medivis
+  url: https://www.medivis.com/
+  Description: Start-up new-yorkaise d'imagerie chirurgicale qui développe une plateforme de visualisation 3D préopératoire (Medivis Studio, autorisée par la FDA) et des systèmes de navigation chirurgicale en réalité augmentée pour le rachis et le crâne.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7128, -74.006]
+  Scientific-domain: [Imagerie, VR/AR, Visualisation]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.medivis.com/careers
+  Keywords: [imagerie médicale, réalité augmentée, navigation chirurgicale, visualisation 3D]
+
+- Name: General Intuition
+  url: https://www.generalintuition.com/
+  Description: Laboratoire d'IA new-yorkais issu de la plateforme de clips de jeu Medal, qui entraîne des « world models » génératifs et des modèles d'action sur des milliards de séquences de jeu vidéo, dont MIRA, monde multijoueur jouable généré à partir de Rocket League (avec Kyutai et Epic Games).
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7128, -74.006]
+  Scientific-domain: [IA générative (image/3D), Vision, Simulation]
+  Application-domain: [Jeu Vidéo, Robotique/Systèmes autonomes]
+  Jobs: https://jobs.ashbyhq.com/generalintuition-medal
+  Keywords: [world models, génération vidéo interactive, vision par ordinateur, IA]
+
+- Name: FLORA
+  url: https://flora.ai/
+  Description: Start-up new-yorkaise éditrice d'une toile de création visuelle par IA qui orchestre plus de 50 modèles de génération d'images et de vidéos (FLUX, Veo, Sora 2, Kling) pour les designers et les agences (Pentagram, Lionsgate).
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7128, -74.006]
+  Scientific-domain: [IA générative (image/3D), IHM/Haptique]
+  Application-domain: [Commerce/Marketing/Publicité, Art/Evenementiel]
+  Jobs: https://jobs.ashbyhq.com/flora
+  Keywords: [IA générative, outil créatif, génération d'images, design]
+
+- Name: Aidoc
+  url: https://www.aidoc.com/
+  Description: Éditeur israélo-américain d'IA d'analyse d'imagerie médicale (scanner, IRM) pour le triage en radiologie, dont le modèle de fondation CARE (CARE Body CT Multi-Triage, éligible au remboursement Medicare en 2026), utilisé par de nombreux hôpitaux américains et européens.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.76479, -73.97846]
+      Address: 142 W 57th St, New York, NY 10019
+    - Country: Israël
+      City: Tel-Aviv
+  Scientific-domain: [Imagerie, Vision]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie médicale, radiologie, IA de diagnostic, modèle de fondation]
+
+- Name: Looking Glass
+  Name-long: Looking Glass Factory
+  url: https://lookingglassfactory.com/
+  Description: Fabricant de Brooklyn d'écrans holographiques sans lunettes, à champ lumineux (Light Field Display 16", Looking Glass Go) et « hololuminescents » (HLD 16" à 86", prix Display of the Year de la SID en 2026), avec les logiciels de création et de conversion de contenus 3D associés.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.6782, -73.9442]
+      Address: Brooklyn
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Hardware]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité, Générique]
+  Keywords: [écran holographique, champ lumineux, affichage 3D, rendu multi-vues]
+
+- Name: Intenseye
+  url: https://www.intenseye.com/
+  Description: Éditeur d'une plateforme de vision par ordinateur temps réel pour la sécurité au travail, qui détecte plus de 50 types de situations dangereuses à partir des caméras existantes des sites industriels ou de ses boîtiers Sentinel.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.74185, -73.99809]
+      Address: 220 W 19th St, Floor 4, New York, NY 10011
+  Scientific-domain: [Vision]
+  Application-domain: [Industrie/Manufacturing/CAO, Sécurité/Défense]
+  Jobs: https://jobs.lever.co/intenseye
+  Employees: 120
+  Keywords: [vision par ordinateur, sécurité au travail, vidéo intelligente, détection temps réel]
+
+- Name: Reality Defender
+  url: https://www.realitydefender.com/
+  Description: Start-up new-yorkaise de détection des contenus générés ou manipulés par IA (deepfakes en image, vidéo et audio), proposée en outil web (RealScan), en API et en analyse en direct des appels et visioconférences.
+  Place:
+    - Country: États-Unis
+      City: New York
+      Coordinates: [40.7128, -74.006]
+  Scientific-domain: [Vision, Imagerie, IA générative (image/3D)]
+  Application-domain: [Sécurité/Défense]
+  Jobs: https://jobs.ashbyhq.com/realitydefender
+  Keywords: [détection de deepfakes, criminalistique d'images, vision par ordinateur, IA générative]
