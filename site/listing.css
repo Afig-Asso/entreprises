@@ -178,6 +178,19 @@ a:hover { text-decoration: underline; text-decoration-thickness: 2px; text-under
 }
 .toggle:has(input:focus-visible) label { outline: 3px solid var(--ink); outline-offset: 2px; }
 
+/* Filtre par lieu : liste deroulante (France > regions > villes principales, puis pays) */
+.place-filter { display: inline-flex; }
+.place-filter select {
+    min-height: 40px; max-width: 16rem; padding: 0 2rem 0 0.95rem; border: 0; border-radius: 999px;
+    font: inherit; font-size: 0.88rem; font-weight: 600; color: var(--ink); cursor: pointer;
+    background: rgba(255, 255, 255, 0.32) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231d2a00' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") right 0.7rem center / 14px no-repeat;
+    appearance: none; -webkit-appearance: none;
+    transition: background-color var(--ease);
+}
+.place-filter select:hover { background-color: rgba(255, 255, 255, 0.6); }
+.place-filter select:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+.place-filter select.is-active { background-color: white; box-shadow: var(--shadow-sm); }
+
 .filter-toggle {
     display: inline-flex; align-items: center; gap: 0.5rem; min-height: 40px;
     border: 0; background: var(--ink); color: var(--afig);
@@ -447,19 +460,19 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     margin: 0 0 1.75rem; padding: 0.4rem 1.25rem;
     background: var(--afig-50); border: 1px solid var(--afig-100); border-radius: var(--radius);
 }
-.place-index details { display: grid; gap: 0.75rem; }
-.place-index details[open] { padding-bottom: 0.85rem; }
-.place-index summary {
+.place-index > details { display: grid; gap: 0.75rem; }
+.place-index > details[open] { padding-bottom: 0.85rem; }
+.place-index > details > summary {
     display: flex; align-items: center; gap: 0.6rem; min-height: 40px; cursor: pointer;
     font-weight: 700; font-size: 0.9rem; color: var(--afig-800); list-style: none;
 }
-.place-index summary::-webkit-details-marker { display: none; }
-.place-index summary::after {
+.place-index > details > summary::-webkit-details-marker { display: none; }
+.place-index > details > summary::after {
     content: ""; margin-left: auto; width: 0.55rem; height: 0.55rem;
     border-right: 2px solid currentColor; border-bottom: 2px solid currentColor;
     transform: rotate(45deg) translateY(-2px); transition: transform var(--ease);
 }
-.place-index details[open] > summary::after { transform: rotate(-135deg) translateY(-2px); }
+.place-index > details[open] > summary::after { transform: rotate(-135deg) translateY(-2px); }
 .place-index-total { font-weight: 400; font-size: 0.8rem; color: var(--muted); }
 .place-index-row + .place-index-row { margin-top: 0.75rem; }
 .place-index-row { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); gap: 0.5rem 1rem; align-items: start; }
@@ -475,6 +488,20 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     font-size: 0.8rem; font-weight: 600;
     transition: border-color var(--ease), color var(--ease);
 }
+.place-index-regions { display: grid; gap: 0.5rem; }
+.place-index-region { display: grid; grid-template-columns: 12.5rem minmax(0, 1fr); gap: 6px 0.75rem; align-items: start; }
+.place-link-region { justify-self: start; font-weight: 800; color: var(--afig-800); border-color: var(--afig-200, var(--line-2)); }
+.place-more { display: flex; flex-wrap: wrap; gap: 6px; }
+.place-more[open] { flex-basis: 100%; }
+.place-more summary {
+    display: inline-flex; align-items: center; min-height: 30px; padding: 0 0.7rem; border-radius: 999px;
+    border: 1px dashed var(--line-2); color: var(--muted); font-size: 0.78rem; font-weight: 600;
+    cursor: pointer; list-style: none;
+}
+.place-more summary::-webkit-details-marker { display: none; }
+.place-more summary:hover { border-color: var(--afig-600); color: var(--afig-800); }
+.place-more[open] summary { border-style: solid; color: var(--afig-800); }
+.place-more > .place-index-links { flex-basis: 100%; }
 .place-link:hover { border-color: var(--afig-600); color: var(--afig-800); text-decoration: none; }
 .place-link-count {
     display: inline-flex; align-items: center; min-width: 1.5rem; height: 1.3rem; justify-content: center;
@@ -690,6 +717,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     .scientific-domain + .application-domain .tag:first-of-type { margin-left: 0; }
     .place-index-row { grid-template-columns: 1fr; gap: 0.4rem; }
     .place-index-label { padding-top: 0; }
+    .place-index-region { grid-template-columns: 1fr; }
     .title-place { font-size: 1.35rem; margin-top: 2rem; }
     .title-region { font-size: 1.15rem; margin-top: 1.75rem; }
     .title-city { font-size: 1.02rem; margin-top: 1.25rem; }

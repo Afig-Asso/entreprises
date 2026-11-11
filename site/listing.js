@@ -19,6 +19,7 @@ const UX = {
     'details': document.querySelector('#display-details'),
     'france-only': document.querySelector('#france-only'),
     'jobs-only': document.querySelector('#jobs-only'),
+    'place-filter': document.querySelector('#place-filter'),
     'search': document.querySelector('#search-company'),
     'filter-toggle': document.querySelector('#filter-toggle'),
     'filter-count': document.querySelector('#filter-toggle .filter-count'),
@@ -458,7 +459,7 @@ function plural_companies(N) {
 
 function any_filter_active() {
     return Global['selected']['scientific'].size>0 || Global['selected']['application'].size>0 || Global['selected']['size'].size>0
-        || UX['france-only'].checked || UX['jobs-only'].checked || UX['search'].value.trim()!='';
+        || UX['france-only'].checked || UX['jobs-only'].checked || UX['place-filter'].value!='' || UX['search'].value.trim()!='';
 }
 
 function display_summary(N, N_jobs) {
@@ -566,7 +567,8 @@ function french_regions(french_entries) {
         if(small.length>0) {
             const entries = unique_entries(small.map((z) => french_entries[z])).sort((a, b) => compare_fr(a['Name'], b['Name']));
             const cities = [...new Set(small.flatMap((z) => zone_cities(z, french_entries[z]).length>0 ? zone_cities(z, french_entries[z]) : [z]))].sort(compare_fr);
-            blocks.push({'name': big.length>0 ? 'Autres villes' : '', 'id': place_id('autres', region), 'entries': entries, 'cities': cities, 'others': true});
+            blocks.push({'name': big.length>0 ? 'Autres villes' : '', 'id': place_id('autres', region), 'entries': entries, 'cities': cities, 'others': true,
+                'zones': small.map((z) => ({'name': z, 'N': french_entries[z].length}))});
         }
         regions.push({'name': region, 'id': place_id('region', region), 'blocks': blocks,
             'entries': unique_entries(zones.map((z) => french_entries[z]))});
@@ -607,6 +609,61 @@ function display_region(region) {
     return txt;
 }
 
+// Location of a place for the place filter: country, and for France the zone and the region
+function place_location(place) {
+    const country = place['Country'] || (place['International'] ? 'International' : '');
+    if(country!='France') {
+        return {'country': country};
+    }
+    const zone = french_zone(String(place['City'] || '').trim());
+    return {'country': country, 'zone': zone, 'region': french_region(zone)};
+}
+
+// Place filter (select of the toolbar): '' all, 'fr' France, 'r:<region>', 'z:<zone>', 'c:<country>'
+function place_selected(location) {
+    const value = UX['place-filter'].value;
+    if(value=='') return true;
+    if(value=='fr') return location['country']=='France';
+    const key = value.slice(2);
+    if(value.startsWith('r:')) return location['region']==key;
+    if(value.startsWith('z:')) return location['zone']==key;
+    return location['country']==key;
+}
+
+// Options of the place filter: France and its regions (with their main cities), then the other countries
+function build_place_filter() {
+    const count = (test) => Global['places'].filter((locations) => locations.some(test)).length;
+    const option = (value, text, N, label, indent) =>
+        `<option value="${esc(value)}" data-label="${esc(label || text)}">${indent || ''}${esc(text)} (${N})</option>`;
+    const french = Global['places'].map((locations) => locations.filter((l) => l['country']=='France'));
+    const by_zone = {};
+    const by_region = {};
+    french.forEach((locations, k) => {
+        for(const l of locations) {
+            (by_zone[l['zone']] = by_zone[l['zone']] || new Set()).add(k);
+            (by_region[l['region']] = by_region[l['region']] || new Set()).add(k);
+        }
+    });
+    const regions = Object.keys(by_region).sort((a, b) => by_region[b].size - by_region[a].size || compare_fr(a, b));
+    let txt = '<option value="">Tous les lieux</option>';
+    txt += '<optgroup label="France">' + option('fr', 'Toute la France', count((l) => l['country']=='France'), 'France');
+    for(const region of regions) {
+        txt += option('r:'+region, region, by_region[region].size);
+        const zones = Object.keys(by_zone).filter((z) => french_region(z)==region && by_zone[z].size>=MIN_COMPANIES_ZONE && by_zone[z].size<by_region[region].size)
+            .sort((a, b) => by_zone[b].size - by_zone[a].size || compare_fr(a, b));
+        for(const zone of zones) {
+            txt += option('z:'+zone, zone, by_zone[zone].size, zone, '    ');
+        }
+    }
+    txt += '</optgroup>';
+    const countries = [...new Set(Global['places'].flat().map((l) => l['country']))].filter((c) => c!='' && c!='France').sort(compare_fr);
+    txt += '<optgroup label="Autres pays">';
+    for(const country of countries) {
+        txt += option('c:'+country, country, count((l) => l['country']==country));
+    }
+    UX['place-filter'].innerHTML = txt + '</optgroup>';
+}
+
 // Index of the place view: one link per French region, then per country
 function display_place_index(regions, countries, data) {
     const link = (id, name, N) => `<a class="place-link" href="#${id}">${name}<span class="place-link-count"><span class="visually-hidden"> : </span>${N}</span></a>`;
@@ -616,8 +673,21 @@ function display_place_index(regions, countries, data) {
     let txt = `<nav class="place-index" aria-label="Aller à une localité"><details${open}>`
         + `<summary>Aller à une localité <span class="place-index-total">${N_places} lieux</span></summary>\n`;
     if(regions.length>0) {
-        txt += '<div class="place-index-row"><span class="place-index-label">France</span><div class="place-index-links">';
-        txt += regions.map((r) => link(r['id'], r['name'], r['entries'].length)).join('');
+        // One line per region: the region, its main cities, and the small towns folded behind "+ N villes"
+        txt += '<div class="place-index-row"><span class="place-index-label">France</span><div class="place-index-regions">';
+        for(const region of regions) {
+            const main = region['blocks'].filter((b) => !b['others'] && b['entries'].length<region['entries'].length);
+            const others = region['blocks'].find((b) => b['others']);
+            txt += '<div class="place-index-region">'
+                + `<a class="place-link place-link-region" href="#${region['id']}">${region['name']}<span class="place-link-count"><span class="visually-hidden"> : </span>${region['entries'].length}</span></a>`;
+            const links = main.map((b) => link(b['id'], b['name'], b['entries'].length));
+            if(others!=undefined) {
+                const towns = others['zones'].map((z) => link(others['id'], z['name'], z['N'])).join('');
+                const N = others['zones'].length;
+                links.push(`<details class="place-more"><summary>+ ${N} ville${N>1 ? 's' : ''}</summary><div class="place-index-links">${towns}</div></details>`);
+            }
+            txt += `<div class="place-index-links">${links.join('')}</div></div>\n`;
+        }
         txt += '</div></div>\n';
     }
     if(countries.length>0) {
@@ -697,6 +767,9 @@ function sort_by_place(data) {
             if(UX['france-only'].checked && country!='France') {
                 continue; // only French places are displayed in this mode
             }
+            if(UX['place-filter'].value!='' && !place_selected(place_location(place))) {
+                continue; // only the places of the place filter are displayed
+            }
 
             if(country==undefined) {
                 if(place['International']){ // Case of 'International:true' -> used like a country
@@ -763,6 +836,7 @@ function match_filters(k, search_words, skip_domain) {
     if(skip_domain!='size' && sizes.size>0 && !sizes.has(Global['size-class'][k])) return false;
     if(UX['france-only'].checked && !Global['in-france'][k]) return false;
     if(UX['jobs-only'].checked && !Global['has-jobs'][k]) return false;
+    if(UX['place-filter'].value!='' && !Global['places'][k].some(place_selected)) return false;
     return search_words.every((w) => Global['search-text'][k].includes(w));
 }
 
@@ -918,6 +992,11 @@ function update_filter_state() {
     if(UX['jobs-only'].checked) {
         pills.push({'type':'jobs-only', 'text':"Avec offres d'emploi"});
     }
+    UX['place-filter'].classList.toggle('is-active', UX['place-filter'].value!='');
+    if(UX['place-filter'].value!='') {
+        const option = UX['place-filter'].selectedOptions[0];
+        pills.push({'type':'place-filter', 'text':`Lieu : ${esc(option.dataset.label || option.textContent)}`});
+    }
 
     if(pills.length==0) {
         UX['active-filters'].hidden = true;
@@ -945,6 +1024,9 @@ function remove_filter(pill) {
     else if(type=='france-only' || type=='jobs-only') {
         UX[type].checked = false;
     }
+    else if(type=='place-filter') {
+        UX['place-filter'].value = '';
+    }
     else {
         Global['selected'][type].delete(pill.dataset.keyword);
     }
@@ -955,6 +1037,7 @@ function reset_all_filters() {
     UX['search'].value = '';
     UX['france-only'].checked = false;
     UX['jobs-only'].checked = false;
+    UX['place-filter'].value = '';
     Global['selected']['scientific'].clear();
     Global['selected']['application'].clear();
     Global['selected']['size'].clear();
@@ -1067,7 +1150,7 @@ UX['search'].addEventListener('search', () => { // clear button of the search fi
     update_display();
 });
 
-for(const element of [UX['sorting']['list'], UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only']]) {
+for(const element of [UX['sorting']['list'], UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only'], UX['place-filter']]) {
     element.addEventListener('change', update_display);
 }
 
@@ -1196,6 +1279,8 @@ function answer(data) {
     Global['in-france'] = data['Listing'].map(company_in_france);
     Global['has-jobs'] = data['Listing'].map((entry) => get_string(entry['Jobs'])!='');
     Global['size-class'] = data['Listing'].map(size_class);
+    Global['places'] = data['Listing'].map((entry) => get_list_places_exhaustive(get_list_places(entry['Place'])).map(place_location));
+    build_place_filter();
     build_sizes();
 
     for(const domain of ['scientific', 'application']) {
