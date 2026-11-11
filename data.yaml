@@ -163,6 +163,10 @@
     - Country: États-Unis
       City: New York
       Coordinates: [40.7127, -74.006]
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.64926, -122.34814]
+      Address: 801 N. 34th Street, Seattle, WA 98103
     - International: true
   Product: [Photoshop, Substance 3D, Premiere, Illustrator, etc.]
   Jobs: https://careers.adobe.com/us/en
@@ -328,6 +332,9 @@
       City: Cupertino
     - Country: États-Unis
       City: Culver City
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.6062, -122.3321]
     - International: true
   Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Hardware, Vision]
   Application-domain: [Générique]
@@ -833,6 +840,9 @@
     - Country: États-Unis
     - Country: Canada
       City: Saint-Lambert
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.6144, -122.1923]
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation]
   Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX]
@@ -992,6 +1002,14 @@
       City: New York
       Coordinates: [40.7409, -74.00177]
       Address: 111 Eighth Avenue, New York, NY 10011
+    - Country: États-Unis
+      City: Kirkland
+      Coordinates: [47.66904, -122.19636]
+      Address: 777 6th Street South, Kirkland, WA 98033
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.62589, -122.33238]
+      Address: 1021 Valley Street, Seattle, WA 98109
     - International: true
   Scientific-domain: [IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data]
   Application-domain: [Générique]
@@ -1664,6 +1682,12 @@
       Address: '8 Avenue De L''Arche, 92400 Courbevoie'
     - Country: Canada
       City: Toronto
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.6062, -122.3321]
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.6694, -122.1239]
     - International: True
   Scientific-domain: [Hardware, Rendu temps réel/Moteurs 3D, IA générative (image/3D), Simulation]
   Application-domain: [Générique]
@@ -2579,6 +2603,9 @@
     - Country: États-Unis
       City: New York
       Coordinates: [40.7127, -74.006]
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.6694, -122.1239]
     - International: true
   Scientific-domain: [IA générative (image/3D), Vision, VR/AR, Reconstruction]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Générique]
@@ -9523,6 +9550,9 @@
       City: Londres
       Coordinates: [51.40734, 0.01831]
       Address: Royal Court, 81 Tweedy Road, Bromley BR1 1RG
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.6062, -122.3321]
   Scientific-domain: [Rendu temps réel/Moteurs 3D]
   Application-domain: [Jeu Vidéo]
   Jobs: https://careers.splashdamage.com/
@@ -9751,6 +9781,9 @@
     - Country: Royaume-Uni
       City: Leamington Spa
       Coordinates: [52.293, -1.536]
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.6694, -122.1239]
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Simulation]
   Application-domain: [Jeu Vidéo]
   Employees: 450
@@ -10497,6 +10530,9 @@
     - Country: États-Unis
       City: San Francisco
       Coordinates: [37.7879, -122.4075]
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.6144, -122.1923]
   Scientific-domain: [Reconstruction, Vision, VR/AR, IA générative (image/3D)]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Géospatial/Cartographie, Robotique/Systèmes autonomes]
   Jobs: https://job-boards.greenhouse.io/niantic
@@ -11664,6 +11700,9 @@
       Address: 205 Spadina Avenue, Toronto, ON
     - Country: États-Unis
       City: Santa Monica
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.6144, -122.1923]
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, VR/AR]
   Application-domain: [Loisir Interactif/Immersion/Metavers]
   Jobs: https://careers.snap.com/
@@ -15931,6 +15970,9 @@
     - Country: États-Unis
       City: San Francisco
       Coordinates: [37.7749, -122.4194]
+    - Country: États-Unis
+      City: Kirkland
+      Coordinates: [47.6769, -122.206]
   Scientific-domain: [Vision, Simulation, Acquisition, Reconstruction]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
   Jobs: https://careers.withwaymo.com/
@@ -16416,3 +16458,357 @@
   Application-domain: [Sécurité/Défense]
   Jobs: https://jobs.ashbyhq.com/realitydefender
   Keywords: [détection de deepfakes, criminalistique d'images, vision par ordinateur, IA générative]
+
+- Name: Valve
+  url: https://www.valvesoftware.com/
+  Description: 'Développeur et éditeur de jeux (Half-Life, Counter-Strike 2, Dota 2, Half-Life: Alyx), créateur de la plateforme Steam, du moteur Source 2 et de matériels (Steam Deck, Steam Machine et casque VR Steam Frame sortis en 2026), installé à Bellevue.'
+  Place:
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.6139, -122.20152]
+      Address: 10400 NE 4th St, Bellevue, WA 98004
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Hardware, Animation]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://www.valvesoftware.com/en/jobs
+  Employees: 336
+  Keywords: [moteur Source 2, Steam, réalité virtuelle, Counter-Strike 2, matériel de jeu]
+
+- Name: Bungie
+  url: https://www.bungie.net/
+  Description: Studio de jeu vidéo de Bellevue (filiale de Sony Interactive Entertainment), créateur de Halo puis de Destiny et Destiny 2, dont le jeu de tir d'extraction Marathon est sorti en 2026.
+  Place:
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.61512, -122.19884]
+      Address: 550 106th Ave NE, Bellevue, WA 98004
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://careers.bungie.com/
+  Employees: 500
+  Keywords: [jeu de tir, Destiny 2, Marathon, jeu en ligne]
+
+- Name: Nintendo of America
+  url: https://www.nintendo.com/
+  Description: Filiale américaine de Nintendo installée à Redmond, qui abrite le studio de développement Nintendo Software Technology (NST, jeux et portages pour les consoles Nintendo, dont la Switch 2).
+  Place:
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.65075, -122.14035]
+      Address: 4600 150th Ave NE, Redmond, WA 98052
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://careers.nintendo.com/studios/nintendo-software-technology/
+  Keywords: [Nintendo Switch, studio interne, développement de jeux]
+
+- Name: ArenaNet
+  url: https://www.arena.net/
+  Description: Studio de jeu vidéo de Bellevue (filiale du coréen NC), développeur des MMORPG Guild Wars et Guild Wars 2, dont l'extension Visions of Eternity est sortie en octobre 2025.
+  Place:
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.585, -122.15503]
+      Address: 3180 139th Ave SE, Bellevue, WA 98005
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.arena.net/en/careers
+  Employees: 300
+  Keywords: [MMORPG, Guild Wars 2, jeu en ligne, moteur maison]
+
+- Name: Sucker Punch Productions
+  url: https://www.suckerpunch.com/
+  Description: Studio de PlayStation Studios (Sony) installé à Bellevue, créateur des séries Sly Cooper et inFAMOUS, de Ghost of Tsushima et de Ghost of Yōtei (2025), dont l'édition complète avec l'extension Echoes of Sekigahara est sortie le 1er octobre 2026.
+  Place:
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.6101, -122.2015]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://jobs.suckerpunch.com/
+  Employees: 160
+  Keywords: [jeu d'action, monde ouvert, PlayStation 5, Ghost of Yōtei]
+
+- Name: Halo Studios
+  url: https://www.halowaypoint.com/
+  Description: 'Studio de Microsoft à Redmond (ex-343 Industries, renommé en 2024), responsable de la série Halo depuis Halo 4 et de Halo: Campaign Evolved (2026), remake sous Unreal Engine 5 du premier Halo.'
+  Place:
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.674, -122.1215]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [Halo, jeu de tir, Unreal Engine 5, Xbox]
+
+- Name: Wizards of the Coast
+  url: https://company.wizards.com/
+  Description: 'Éditeur (filiale de Hasbro) de Magic: The Gathering et Dungeons & Dragons, basé à Renton, où ses équipes numériques développent Magic: The Gathering Arena et les outils D&D Beyond.'
+  Place:
+    - Country: États-Unis
+      City: Renton
+      Coordinates: [47.50225, -122.20374]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://company.wizards.com/en/careers
+  Employees: 1000
+  Keywords: ['Magic: The Gathering Arena', jeu de cartes numérique, Dungeons & Dragons, jeu en ligne]
+
+- Name: Cat Daddy Games
+  url: https://catdaddygames.com/
+  Description: Studio de 2K (Take-Two Interactive) à Kirkland qui développe les jeux mobiles NBA 2K Mobile et WWE SuperCard.
+  Place:
+    - Country: États-Unis
+      City: Kirkland
+      Coordinates: [47.6769, -122.206]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://catdaddygames.com/jobs
+  Keywords: [jeu mobile, NBA 2K Mobile, WWE SuperCard, jeu de sport]
+
+- Name: Big Fish Games
+  url: https://www.bigfishgames.com/
+  Description: Éditeur et développeur de jeux casual (objets cachés, puzzle, jeux mobiles free-to-play) basé à Seattle, cédé en 2025 par Aristocrat à BFG Entertainment.
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.6062, -122.3321]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 350
+  Keywords: [jeu casual, objets cachés, jeu mobile, free-to-play]
+
+- Name: Studio Wildcard
+  url: https://www.studiowildcard.com/
+  Description: 'Développeur de la série de survie ARK (ARK: Survival Evolved, ARK: Survival Ascended) et de ARK II, en développement sous Unreal Engine 5, avec des bureaux dans la région de Redmond-Kirkland.'
+  Place:
+    - Country: États-Unis
+      City: Kirkland
+      Coordinates: [47.6769, -122.206]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://studiowildcard.bamboohr.com/careers
+  Employees: 98
+  Keywords: [ARK, jeu de survie, Unreal Engine 5, monde ouvert]
+
+- Name: System Era Softworks
+  url: https://www.systemera.net/
+  Description: Studio de Seattle (filiale de Devolver Digital) créateur d'Astroneer, jeu d'exploration spatiale en 3D enrichi de l'extension Megatech (2025) et sorti en version native PlayStation 5 en novembre 2025.
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.6062, -122.3321]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Employees: 62
+  Keywords: [Astroneer, exploration spatiale, jeu indépendant, Unreal Engine]
+
+- Name: PlayEveryWare
+  url: https://www.playeveryware.com/
+  Description: 'Studio de codéveloppement et de portage de jeux vidéo basé à Seattle (et Yokohama), spécialisé en ingénierie (portages console, remasters, optimisation, services en ligne), crédité en 2026 sur Legacy of Kain: Defiance Remastered, Dispatch et Spirit Crossing.'
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.6062, -122.3321]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.playeveryware.com/careers
+  Keywords: [portage console, codéveloppement, remaster, optimisation]
+
+- Name: Harebrained Schemes
+  url: https://www.harebrained-schemes.com/
+  Description: Studio indépendant de la région de Seattle (Shadowrun Returns, BattleTech), redevenu indépendant de Paradox en 2023, qui développe GRAFT, RPG d'horreur et de survie dévoilé en 2026.
+  Place:
+    - Country: États-Unis
+      City: Kirkland
+      Coordinates: [47.6769, -122.206]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [RPG, Shadowrun, BattleTech, survival horror]
+
+- Name: Innersloth
+  url: https://www.innersloth.com/
+  Description: Studio indépendant de Redmond créateur d'Among Us (et de sa version VR Among Us 3D), qui continue de le mettre à jour en 2026 et publie d'autres jeux via Outersloth.
+  Place:
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.674, -122.1215]
+  Scientific-domain: [Animation, VR/AR]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [Among Us, jeu multijoueur, jeu indépendant]
+
+- Name: Final Strike Games
+  url: https://finalstrikegames.net/
+  Description: 'Studio indépendant de jeux multijoueur (Rocket Arena, codéveloppement de Fortnite pour Epic Games et de Star Wars: Zero Company pour EA) avec des bureaux à Bellevue, Vancouver et Montréal.'
+  Place:
+    - Country: États-Unis
+      City: Bellevue
+      Coordinates: [47.6101, -122.2015]
+    - Country: Canada
+      City: Vancouver
+      Coordinates: [49.2827, -123.1207]
+    - Country: Canada
+      City: Montréal
+      Coordinates: [45.5019, -73.5674]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://finalstrikegames.net/careers
+  Employees: 90
+  Keywords: [jeu multijoueur, jeu de tir, codéveloppement, Fortnite]
+
+- Name: Mojang Studios
+  url: https://www.minecraft.net/
+  Description: Studio de Microsoft créateur de Minecraft, basé à Stockholm avec un second site à Redmond où sont réparties la plupart des équipes (Minecraft Education y est développé) ; Minecraft Dungeons II est attendu en 2026.
+  Place:
+    - Country: Suède
+      City: Stockholm
+      Coordinates: [59.3293, 18.0686]
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.674, -122.1215]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.minecraft.net/en-us/jobs
+  Keywords: [Minecraft, jeu bac à sable, Minecraft Education]
+
+- Name: Philips Ultrasound
+  url: https://www.philips.com/healthcare/solutions/ultrasound
+  Description: Centre mondial de R&D échographie de Philips à Bothell, qui conçoit les systèmes d'imagerie ultrasonore (algorithmes de formation d'image, sondes, logiciels) des gammes EPIQ et Affiniti.
+  Place:
+    - Country: États-Unis
+      City: Bothell
+      Coordinates: [47.7623, -122.2054]
+  Scientific-domain: [Imagerie, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://philips.wd3.myworkdayjobs.com/jobs-and-careers
+  Employees: 1000
+  Keywords: [échographie, imagerie médicale, traitement du signal, beamforming]
+
+- Name: FUJIFILM Sonosite
+  url: https://www.sonosite.com/
+  Description: Concepteur et fabricant d'échographes portables au point de soins (gammes Sonosite PX, LX et iViz), filiale de Fujifilm issue en 1998 d'ATL Ultrasound, avec siège et R&D à Bothell.
+  Place:
+    - Country: États-Unis
+      City: Bothell
+      Coordinates: [47.79961, -122.19616]
+      Address: 21919 30th Dr SE, Bothell, WA 98021
+  Scientific-domain: [Imagerie, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://uscareershub-fujifilm.icims.com/
+  Keywords: [échographie, imagerie médicale, appareils portables]
+
+- Name: Verathon
+  url: https://www.verathon.com/
+  Description: 'Fabricant de dispositifs médicaux d''imagerie basé à Bothell : scanners vésicaux à ultrasons BladderScan (i10) et vidéolaryngoscopes GlideScope (systèmes de visualisation Core et Go 2).'
+  Place:
+    - Country: États-Unis
+      City: Bothell
+      Coordinates: [47.77329, -122.1872]
+      Address: 20001 North Creek Parkway, Bothell, WA 98011
+  Scientific-domain: [Imagerie, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.verathon.com/careers-at-verathon
+  Keywords: [échographie, vidéolaryngoscopie, dispositifs médicaux]
+
+- Name: BlackSky
+  url: https://www.blacksky.com/
+  Description: Opérateur de constellation de satellites d'observation de la Terre à haute fréquence de revisite (satellites Gen-3), qui conçoit ses satellites et charges utiles électro-optiques à Tukwila et exploite la plateforme d'analyse d'images par IA Spectra.
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.62802, -122.34224]
+      Address: 1000 Dexter Ave N, Seattle, WA 98109
+    - Country: États-Unis
+      City: Tukwila
+      Coordinates: [47.49115, -122.28517]
+      Address: 12501 E Marginal Way S, Tukwila, WA 98168
+  Scientific-domain: [Imagerie, Acquisition, Vision]
+  Application-domain: [Géospatial/Cartographie, Sécurité/Défense]
+  Jobs: https://job-boards.greenhouse.io/blacksky
+  Keywords: [imagerie satellitaire, observation de la Terre, analyse d'images, spatial]
+
+- Name: Siemens Healthineers Ultrasound
+  url: https://www.siemens-healthineers.com/en-us/ultrasound
+  Description: Siège et R&D de la division échographie de Siemens Healthineers à Issaquah depuis 2020, recentrée en 2026 sur l'imagerie interventionnelle (Acuson Origin, échographie intracardiaque P500) après l'arrêt des échographes généralistes Acuson Sequoia et Redwood.
+  Place:
+    - Country: États-Unis
+      City: Issaquah
+      Coordinates: [47.5301, -122.0326]
+  Scientific-domain: [Imagerie, Acquisition]
+  Application-domain: [Médical/Biologique]
+  Employees: 300
+  Keywords: [échographie, imagerie interventionnelle, cardiologie, imagerie médicale]
+
+- Name: Carbon Robotics
+  url: https://carbonrobotics.com/
+  Description: Fabricant seattlois de robots agricoles LaserWeeder qui détruisent les mauvaises herbes au laser grâce à la vision par ordinateur et à l'IA, auteur en 2026 d'un « Large Plant Model » de détection des plantes et de la plateforme Carbon Autonomy.
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.61171, -122.34725]
+      Address: 2211 Elliott Ave, Seattle, WA 98121
+  Scientific-domain: [Vision, Acquisition]
+  Application-domain: [Robotique/Systèmes autonomes, Énergie/Environnement]
+  Jobs: https://carbonrobotics.com/careers
+  Keywords: [vision par ordinateur, robotique agricole, désherbage laser, IA]
+
+- Name: Lumotive
+  url: https://www.lumotive.com/
+  Description: Concepteur à Redmond de puces de pilotage de faisceau laser à semi-conducteurs (Light Control Metasurface) pour capteurs lidar et la détection 3D.
+  Place:
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.64667, -122.14282]
+      Address: 4104 148th Ave NE, Redmond, WA 98052
+    - Country: Canada
+      City: Burnaby
+      Address: '4664 Lougheed Hwy #162, Burnaby, BC'
+  Scientific-domain: [Acquisition, Hardware]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
+  Jobs: https://jobs.lever.co/lumotive
+  Keywords: [lidar, détection 3D, métasurfaces, semi-conducteurs optiques]
+
+- Name: Proprio
+  url: https://www.propriovision.com/
+  Description: Start-up seattloise de chirurgie assistée, créatrice de la plateforme Paradigm qui combine imagerie par champ lumineux, vision par ordinateur et IA pour visualiser l'anatomie en 3D et naviguer sans rayonnement en chirurgie du rachis (4e autorisation FDA en 2026).
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.61972, -122.35826]
+      Address: 111 W John St, Seattle, WA 98119
+  Scientific-domain: [Acquisition, Vision, Reconstruction, Imagerie]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://www.propriovision.com/careers
+  Keywords: [champ lumineux, navigation chirurgicale, vision par ordinateur, 3D]
+
+- Name: EchoNous
+  url: https://echonous.com/
+  Description: Concepteur à Redmond d'échographes portables assistés par IA (plateforme Kosmos, sondes Torso et Lexsa, Torso NXT dévoilée en octobre 2026), classé par TIME parmi les meilleures entreprises de healthtech de 2026.
+  Place:
+    - Country: États-Unis
+      City: Redmond
+      Coordinates: [47.67662, -122.13429]
+      Address: 8310 154th Ave NE, Redmond, WA 98052
+  Scientific-domain: [Imagerie, Acquisition, Vision]
+  Application-domain: [Médical/Biologique]
+  Keywords: [échographie portable, IA, imagerie médicale, POCUS]
+
+- Name: Alpenglow Biosciences
+  url: https://www.alpenglowbiosciences.com/
+  Description: Start-up seattloise issue de l'Université de Washington qui développe l'imagerie 3D de tissus entiers (microscope à feuillet de lumière 3Di HOTLS, analyse d'images par IA 3Dai) pour la pathologie numérique, en cours de passage en clinique en 2026 avec le laboratoire PathNet.
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.64912, -122.33361]
+      Address: 2121 N 35th St, Seattle, WA 98103
+  Scientific-domain: [Imagerie, Acquisition, Reconstruction]
+  Application-domain: [Médical/Biologique]
+  Keywords: [microscopie 3D, pathologie numérique, feuillet de lumière, analyse d'images]
+
+- Name: Augmodo
+  url: https://www.augmodo.com/
+  Description: Start-up seattloise d'IA spatiale pour le commerce de détail, dont les badges portés par les employés (SmartBadges) construisent en continu des cartes 3D des magasins pour suivre l'état des rayons (plateforme SpatialView) ; série A de 37,5 millions de dollars en 2025.
+  Place:
+    - Country: États-Unis
+      City: Seattle
+      Coordinates: [47.6062, -122.3321]
+  Scientific-domain: [Reconstruction, Vision, Acquisition]
+  Application-domain: [Commerce/Marketing/Publicité]
+  Keywords: [IA spatiale, cartographie 3D, commerce de détail, capteurs portés]

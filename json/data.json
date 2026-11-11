@@ -1395,6 +1395,10 @@
             42.3588,
             -71.0578
         ],
+        "\u00c9tats-Unis/Bothell": [
+            47.7623,
+            -122.2054
+        ],
         "\u00c9tats-Unis/Boulder": [
             40.015,
             -105.2705
@@ -1479,6 +1483,14 @@
             33.6857,
             -117.826
         ],
+        "\u00c9tats-Unis/Issaquah": [
+            47.5349,
+            -122.0433
+        ],
+        "\u00c9tats-Unis/Kirkland": [
+            47.6765,
+            -122.2071
+        ],
         "\u00c9tats-Unis/Lake Forest": [
             33.6469,
             -117.6892
@@ -1559,6 +1571,10 @@
             37.4863,
             -122.2325
         ],
+        "\u00c9tats-Unis/Renton": [
+            47.4799,
+            -122.2034
+        ],
         "\u00c9tats-Unis/San Carlos": [
             37.5049,
             -122.2618
@@ -1591,6 +1607,10 @@
             34.0195,
             -118.4912
         ],
+        "\u00c9tats-Unis/Seattle": [
+            47.6038,
+            -122.3301
+        ],
         "\u00c9tats-Unis/South Pasadena": [
             34.1133,
             -118.1478
@@ -1602,6 +1622,10 @@
         "\u00c9tats-Unis/Torrance": [
             33.8371,
             -118.3414
+        ],
+        "\u00c9tats-Unis/Tukwila": [
+            47.4627,
+            -122.2559
         ],
         "\u00c9tats-Unis/Tustin": [
             33.7459,
@@ -2067,6 +2091,15 @@
                     ]
                 },
                 {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.64926,
+                        -122.34814
+                    ],
+                    "Address": "801 N. 34th Street, Seattle, WA 98103"
+                },
+                {
                     "International": true
                 }
             ],
@@ -2472,6 +2505,14 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Culver City"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.6062,
+                        -122.3321
+                    ]
                 },
                 {
                     "International": true
@@ -3717,6 +3758,14 @@
                     "City": "Saint-Lambert"
                 },
                 {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.6144,
+                        -122.1923
+                    ]
+                },
+                {
                     "International": true
                 }
             ],
@@ -4094,6 +4143,24 @@
                         -74.00177
                     ],
                     "Address": "111 Eighth Avenue, New York, NY 10011"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Kirkland",
+                    "Coordinates": [
+                        47.66904,
+                        -122.19636
+                    ],
+                    "Address": "777 6th Street South, Kirkland, WA 98033"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.62589,
+                        -122.33238
+                    ],
+                    "Address": "1021 Valley Street, Seattle, WA 98109"
                 },
                 {
                     "International": true
@@ -5732,6 +5799,22 @@
                 {
                     "Country": "Canada",
                     "City": "Toronto"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.6062,
+                        -122.3321
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.6694,
+                        -122.1239
+                    ]
                 },
                 {
                     "International": true
@@ -7903,6 +7986,14 @@
                     "Coordinates": [
                         40.7127,
                         -74.006
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.6694,
+                        -122.1239
                     ]
                 },
                 {
@@ -24351,6 +24442,14 @@
                         0.01831
                     ],
                     "Address": "Royal Court, 81 Tweedy Road, Bromley BR1 1RG"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.6062,
+                        -122.3321
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -24868,6 +24967,14 @@
                     "Coordinates": [
                         52.293,
                         -1.536
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.6694,
+                        -122.1239
                     ]
                 }
             ],
@@ -26612,6 +26719,14 @@
                     "Coordinates": [
                         37.7879,
                         -122.4075
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.6144,
+                        -122.1923
                     ]
                 }
             ],
@@ -29411,6 +29526,14 @@
                 {
                     "Country": "\u00c9tats-Unis",
                     "City": "Santa Monica"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.6144,
+                        -122.1923
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -39609,6 +39732,14 @@
                         37.7749,
                         -122.4194
                     ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Kirkland",
+                    "Coordinates": [
+                        47.6769,
+                        -122.206
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -40819,6 +40950,855 @@
                 "criminalistique d'images",
                 "vision par ordinateur",
                 "IA g\u00e9n\u00e9rative"
+            ]
+        },
+        {
+            "Name": "Valve",
+            "url": "https://www.valvesoftware.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur de jeux (Half-Life, Counter-Strike 2, Dota 2, Half-Life: Alyx), cr\u00e9ateur de la plateforme Steam, du moteur Source 2 et de mat\u00e9riels (Steam Deck, Steam Machine et casque VR Steam Frame sortis en 2026), install\u00e9 \u00e0 Bellevue.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.6139,
+                        -122.20152
+                    ],
+                    "Address": "10400 NE 4th St, Bellevue, WA 98004"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Hardware",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://www.valvesoftware.com/en/jobs",
+            "Employees": 336,
+            "Keywords": [
+                "moteur Source 2",
+                "Steam",
+                "r\u00e9alit\u00e9 virtuelle",
+                "Counter-Strike 2",
+                "mat\u00e9riel de jeu"
+            ]
+        },
+        {
+            "Name": "Bungie",
+            "url": "https://www.bungie.net/",
+            "Description": "Studio de jeu vid\u00e9o de Bellevue (filiale de Sony Interactive Entertainment), cr\u00e9ateur de Halo puis de Destiny et Destiny 2, dont le jeu de tir d'extraction Marathon est sorti en 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.61512,
+                        -122.19884
+                    ],
+                    "Address": "550 106th Ave NE, Bellevue, WA 98004"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.bungie.com/",
+            "Employees": 500,
+            "Keywords": [
+                "jeu de tir",
+                "Destiny 2",
+                "Marathon",
+                "jeu en ligne"
+            ]
+        },
+        {
+            "Name": "Nintendo of America",
+            "url": "https://www.nintendo.com/",
+            "Description": "Filiale am\u00e9ricaine de Nintendo install\u00e9e \u00e0 Redmond, qui abrite le studio de d\u00e9veloppement Nintendo Software Technology (NST, jeux et portages pour les consoles Nintendo, dont la Switch 2).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.65075,
+                        -122.14035
+                    ],
+                    "Address": "4600 150th Ave NE, Redmond, WA 98052"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://careers.nintendo.com/studios/nintendo-software-technology/",
+            "Keywords": [
+                "Nintendo Switch",
+                "studio interne",
+                "d\u00e9veloppement de jeux"
+            ]
+        },
+        {
+            "Name": "ArenaNet",
+            "url": "https://www.arena.net/",
+            "Description": "Studio de jeu vid\u00e9o de Bellevue (filiale du cor\u00e9en NC), d\u00e9veloppeur des MMORPG Guild Wars et Guild Wars 2, dont l'extension Visions of Eternity est sortie en octobre 2025.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.585,
+                        -122.15503
+                    ],
+                    "Address": "3180 139th Ave SE, Bellevue, WA 98005"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.arena.net/en/careers",
+            "Employees": 300,
+            "Keywords": [
+                "MMORPG",
+                "Guild Wars 2",
+                "jeu en ligne",
+                "moteur maison"
+            ]
+        },
+        {
+            "Name": "Sucker Punch Productions",
+            "url": "https://www.suckerpunch.com/",
+            "Description": "Studio de PlayStation Studios (Sony) install\u00e9 \u00e0 Bellevue, cr\u00e9ateur des s\u00e9ries Sly Cooper et inFAMOUS, de Ghost of Tsushima et de Ghost of Y\u014dtei (2025), dont l'\u00e9dition compl\u00e8te avec l'extension Echoes of Sekigahara est sortie le 1er octobre 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.6101,
+                        -122.2015
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://jobs.suckerpunch.com/",
+            "Employees": 160,
+            "Keywords": [
+                "jeu d'action",
+                "monde ouvert",
+                "PlayStation 5",
+                "Ghost of Y\u014dtei"
+            ]
+        },
+        {
+            "Name": "Halo Studios",
+            "url": "https://www.halowaypoint.com/",
+            "Description": "Studio de Microsoft \u00e0 Redmond (ex-343 Industries, renomm\u00e9 en 2024), responsable de la s\u00e9rie Halo depuis Halo 4 et de Halo: Campaign Evolved (2026), remake sous Unreal Engine 5 du premier Halo.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.674,
+                        -122.1215
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "Halo",
+                "jeu de tir",
+                "Unreal Engine 5",
+                "Xbox"
+            ]
+        },
+        {
+            "Name": "Wizards of the Coast",
+            "url": "https://company.wizards.com/",
+            "Description": "\u00c9diteur (filiale de Hasbro) de Magic: The Gathering et Dungeons & Dragons, bas\u00e9 \u00e0 Renton, o\u00f9 ses \u00e9quipes num\u00e9riques d\u00e9veloppent Magic: The Gathering Arena et les outils D&D Beyond.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Renton",
+                    "Coordinates": [
+                        47.50225,
+                        -122.20374
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://company.wizards.com/en/careers",
+            "Employees": 1000,
+            "Keywords": [
+                "Magic: The Gathering Arena",
+                "jeu de cartes num\u00e9rique",
+                "Dungeons & Dragons",
+                "jeu en ligne"
+            ]
+        },
+        {
+            "Name": "Cat Daddy Games",
+            "url": "https://catdaddygames.com/",
+            "Description": "Studio de 2K (Take-Two Interactive) \u00e0 Kirkland qui d\u00e9veloppe les jeux mobiles NBA 2K Mobile et WWE SuperCard.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Kirkland",
+                    "Coordinates": [
+                        47.6769,
+                        -122.206
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://catdaddygames.com/jobs",
+            "Keywords": [
+                "jeu mobile",
+                "NBA 2K Mobile",
+                "WWE SuperCard",
+                "jeu de sport"
+            ]
+        },
+        {
+            "Name": "Big Fish Games",
+            "url": "https://www.bigfishgames.com/",
+            "Description": "\u00c9diteur et d\u00e9veloppeur de jeux casual (objets cach\u00e9s, puzzle, jeux mobiles free-to-play) bas\u00e9 \u00e0 Seattle, c\u00e9d\u00e9 en 2025 par Aristocrat \u00e0 BFG Entertainment.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.6062,
+                        -122.3321
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 350,
+            "Keywords": [
+                "jeu casual",
+                "objets cach\u00e9s",
+                "jeu mobile",
+                "free-to-play"
+            ]
+        },
+        {
+            "Name": "Studio Wildcard",
+            "url": "https://www.studiowildcard.com/",
+            "Description": "D\u00e9veloppeur de la s\u00e9rie de survie ARK (ARK: Survival Evolved, ARK: Survival Ascended) et de ARK II, en d\u00e9veloppement sous Unreal Engine 5, avec des bureaux dans la r\u00e9gion de Redmond-Kirkland.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Kirkland",
+                    "Coordinates": [
+                        47.6769,
+                        -122.206
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://studiowildcard.bamboohr.com/careers",
+            "Employees": 98,
+            "Keywords": [
+                "ARK",
+                "jeu de survie",
+                "Unreal Engine 5",
+                "monde ouvert"
+            ]
+        },
+        {
+            "Name": "System Era Softworks",
+            "url": "https://www.systemera.net/",
+            "Description": "Studio de Seattle (filiale de Devolver Digital) cr\u00e9ateur d'Astroneer, jeu d'exploration spatiale en 3D enrichi de l'extension Megatech (2025) et sorti en version native PlayStation 5 en novembre 2025.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.6062,
+                        -122.3321
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 62,
+            "Keywords": [
+                "Astroneer",
+                "exploration spatiale",
+                "jeu ind\u00e9pendant",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "PlayEveryWare",
+            "url": "https://www.playeveryware.com/",
+            "Description": "Studio de cod\u00e9veloppement et de portage de jeux vid\u00e9o bas\u00e9 \u00e0 Seattle (et Yokohama), sp\u00e9cialis\u00e9 en ing\u00e9nierie (portages console, remasters, optimisation, services en ligne), cr\u00e9dit\u00e9 en 2026 sur Legacy of Kain: Defiance Remastered, Dispatch et Spirit Crossing.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.6062,
+                        -122.3321
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.playeveryware.com/careers",
+            "Keywords": [
+                "portage console",
+                "cod\u00e9veloppement",
+                "remaster",
+                "optimisation"
+            ]
+        },
+        {
+            "Name": "Harebrained Schemes",
+            "url": "https://www.harebrained-schemes.com/",
+            "Description": "Studio ind\u00e9pendant de la r\u00e9gion de Seattle (Shadowrun Returns, BattleTech), redevenu ind\u00e9pendant de Paradox en 2023, qui d\u00e9veloppe GRAFT, RPG d'horreur et de survie d\u00e9voil\u00e9 en 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Kirkland",
+                    "Coordinates": [
+                        47.6769,
+                        -122.206
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "RPG",
+                "Shadowrun",
+                "BattleTech",
+                "survival horror"
+            ]
+        },
+        {
+            "Name": "Innersloth",
+            "url": "https://www.innersloth.com/",
+            "Description": "Studio ind\u00e9pendant de Redmond cr\u00e9ateur d'Among Us (et de sa version VR Among Us 3D), qui continue de le mettre \u00e0 jour en 2026 et publie d'autres jeux via Outersloth.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.674,
+                        -122.1215
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "VR/AR"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "Among Us",
+                "jeu multijoueur",
+                "jeu ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Final Strike Games",
+            "url": "https://finalstrikegames.net/",
+            "Description": "Studio ind\u00e9pendant de jeux multijoueur (Rocket Arena, cod\u00e9veloppement de Fortnite pour Epic Games et de Star Wars: Zero Company pour EA) avec des bureaux \u00e0 Bellevue, Vancouver et Montr\u00e9al.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bellevue",
+                    "Coordinates": [
+                        47.6101,
+                        -122.2015
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver",
+                    "Coordinates": [
+                        49.2827,
+                        -123.1207
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al",
+                    "Coordinates": [
+                        45.5019,
+                        -73.5674
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://finalstrikegames.net/careers",
+            "Employees": 90,
+            "Keywords": [
+                "jeu multijoueur",
+                "jeu de tir",
+                "cod\u00e9veloppement",
+                "Fortnite"
+            ]
+        },
+        {
+            "Name": "Mojang Studios",
+            "url": "https://www.minecraft.net/",
+            "Description": "Studio de Microsoft cr\u00e9ateur de Minecraft, bas\u00e9 \u00e0 Stockholm avec un second site \u00e0 Redmond o\u00f9 sont r\u00e9parties la plupart des \u00e9quipes (Minecraft Education y est d\u00e9velopp\u00e9) ; Minecraft Dungeons II est attendu en 2026.",
+            "Place": [
+                {
+                    "Country": "Su\u00e8de",
+                    "City": "Stockholm",
+                    "Coordinates": [
+                        59.3293,
+                        18.0686
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.674,
+                        -122.1215
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.minecraft.net/en-us/jobs",
+            "Keywords": [
+                "Minecraft",
+                "jeu bac \u00e0 sable",
+                "Minecraft Education"
+            ]
+        },
+        {
+            "Name": "Philips Ultrasound",
+            "url": "https://www.philips.com/healthcare/solutions/ultrasound",
+            "Description": "Centre mondial de R&D \u00e9chographie de Philips \u00e0 Bothell, qui con\u00e7oit les syst\u00e8mes d'imagerie ultrasonore (algorithmes de formation d'image, sondes, logiciels) des gammes EPIQ et Affiniti.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bothell",
+                    "Coordinates": [
+                        47.7623,
+                        -122.2054
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+            "Employees": 1000,
+            "Keywords": [
+                "\u00e9chographie",
+                "imagerie m\u00e9dicale",
+                "traitement du signal",
+                "beamforming"
+            ]
+        },
+        {
+            "Name": "FUJIFILM Sonosite",
+            "url": "https://www.sonosite.com/",
+            "Description": "Concepteur et fabricant d'\u00e9chographes portables au point de soins (gammes Sonosite PX, LX et iViz), filiale de Fujifilm issue en 1998 d'ATL Ultrasound, avec si\u00e8ge et R&D \u00e0 Bothell.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bothell",
+                    "Coordinates": [
+                        47.79961,
+                        -122.19616
+                    ],
+                    "Address": "21919 30th Dr SE, Bothell, WA 98021"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://uscareershub-fujifilm.icims.com/",
+            "Keywords": [
+                "\u00e9chographie",
+                "imagerie m\u00e9dicale",
+                "appareils portables"
+            ]
+        },
+        {
+            "Name": "Verathon",
+            "url": "https://www.verathon.com/",
+            "Description": "Fabricant de dispositifs m\u00e9dicaux d'imagerie bas\u00e9 \u00e0 Bothell : scanners v\u00e9sicaux \u00e0 ultrasons BladderScan (i10) et vid\u00e9olaryngoscopes GlideScope (syst\u00e8mes de visualisation Core et Go 2).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Bothell",
+                    "Coordinates": [
+                        47.77329,
+                        -122.1872
+                    ],
+                    "Address": "20001 North Creek Parkway, Bothell, WA 98011"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.verathon.com/careers-at-verathon",
+            "Keywords": [
+                "\u00e9chographie",
+                "vid\u00e9olaryngoscopie",
+                "dispositifs m\u00e9dicaux"
+            ]
+        },
+        {
+            "Name": "BlackSky",
+            "url": "https://www.blacksky.com/",
+            "Description": "Op\u00e9rateur de constellation de satellites d'observation de la Terre \u00e0 haute fr\u00e9quence de revisite (satellites Gen-3), qui con\u00e7oit ses satellites et charges utiles \u00e9lectro-optiques \u00e0 Tukwila et exploite la plateforme d'analyse d'images par IA Spectra.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.62802,
+                        -122.34224
+                    ],
+                    "Address": "1000 Dexter Ave N, Seattle, WA 98109"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Tukwila",
+                    "Coordinates": [
+                        47.49115,
+                        -122.28517
+                    ],
+                    "Address": "12501 E Marginal Way S, Tukwila, WA 98168"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Vision"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/blacksky",
+            "Keywords": [
+                "imagerie satellitaire",
+                "observation de la Terre",
+                "analyse d'images",
+                "spatial"
+            ]
+        },
+        {
+            "Name": "Siemens Healthineers Ultrasound",
+            "url": "https://www.siemens-healthineers.com/en-us/ultrasound",
+            "Description": "Si\u00e8ge et R&D de la division \u00e9chographie de Siemens Healthineers \u00e0 Issaquah depuis 2020, recentr\u00e9e en 2026 sur l'imagerie interventionnelle (Acuson Origin, \u00e9chographie intracardiaque P500) apr\u00e8s l'arr\u00eat des \u00e9chographes g\u00e9n\u00e9ralistes Acuson Sequoia et Redwood.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Issaquah",
+                    "Coordinates": [
+                        47.5301,
+                        -122.0326
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 300,
+            "Keywords": [
+                "\u00e9chographie",
+                "imagerie interventionnelle",
+                "cardiologie",
+                "imagerie m\u00e9dicale"
+            ]
+        },
+        {
+            "Name": "Carbon Robotics",
+            "url": "https://carbonrobotics.com/",
+            "Description": "Fabricant seattlois de robots agricoles LaserWeeder qui d\u00e9truisent les mauvaises herbes au laser gr\u00e2ce \u00e0 la vision par ordinateur et \u00e0 l'IA, auteur en 2026 d'un \u00ab Large Plant Model \u00bb de d\u00e9tection des plantes et de la plateforme Carbon Autonomy.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.61171,
+                        -122.34725
+                    ],
+                    "Address": "2211 Elliott Ave, Seattle, WA 98121"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "\u00c9nergie/Environnement"
+            ],
+            "Jobs": "https://carbonrobotics.com/careers",
+            "Keywords": [
+                "vision par ordinateur",
+                "robotique agricole",
+                "d\u00e9sherbage laser",
+                "IA"
+            ]
+        },
+        {
+            "Name": "Lumotive",
+            "url": "https://www.lumotive.com/",
+            "Description": "Concepteur \u00e0 Redmond de puces de pilotage de faisceau laser \u00e0 semi-conducteurs (Light Control Metasurface) pour capteurs lidar et la d\u00e9tection 3D.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.64667,
+                        -122.14282
+                    ],
+                    "Address": "4104 148th Ave NE, Redmond, WA 98052"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Burnaby",
+                    "Address": "4664 Lougheed Hwy #162, Burnaby, BC"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://jobs.lever.co/lumotive",
+            "Keywords": [
+                "lidar",
+                "d\u00e9tection 3D",
+                "m\u00e9tasurfaces",
+                "semi-conducteurs optiques"
+            ]
+        },
+        {
+            "Name": "Proprio",
+            "url": "https://www.propriovision.com/",
+            "Description": "Start-up seattloise de chirurgie assist\u00e9e, cr\u00e9atrice de la plateforme Paradigm qui combine imagerie par champ lumineux, vision par ordinateur et IA pour visualiser l'anatomie en 3D et naviguer sans rayonnement en chirurgie du rachis (4e autorisation FDA en 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.61972,
+                        -122.35826
+                    ],
+                    "Address": "111 W John St, Seattle, WA 98119"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Reconstruction",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.propriovision.com/careers",
+            "Keywords": [
+                "champ lumineux",
+                "navigation chirurgicale",
+                "vision par ordinateur",
+                "3D"
+            ]
+        },
+        {
+            "Name": "EchoNous",
+            "url": "https://echonous.com/",
+            "Description": "Concepteur \u00e0 Redmond d'\u00e9chographes portables assist\u00e9s par IA (plateforme Kosmos, sondes Torso et Lexsa, Torso NXT d\u00e9voil\u00e9e en octobre 2026), class\u00e9 par TIME parmi les meilleures entreprises de healthtech de 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redmond",
+                    "Coordinates": [
+                        47.67662,
+                        -122.13429
+                    ],
+                    "Address": "8310 154th Ave NE, Redmond, WA 98052"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Vision"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "\u00e9chographie portable",
+                "IA",
+                "imagerie m\u00e9dicale",
+                "POCUS"
+            ]
+        },
+        {
+            "Name": "Alpenglow Biosciences",
+            "url": "https://www.alpenglowbiosciences.com/",
+            "Description": "Start-up seattloise issue de l'Universit\u00e9 de Washington qui d\u00e9veloppe l'imagerie 3D de tissus entiers (microscope \u00e0 feuillet de lumi\u00e8re 3Di HOTLS, analyse d'images par IA 3Dai) pour la pathologie num\u00e9rique, en cours de passage en clinique en 2026 avec le laboratoire PathNet.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.64912,
+                        -122.33361
+                    ],
+                    "Address": "2121 N 35th St, Seattle, WA 98103"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "microscopie 3D",
+                "pathologie num\u00e9rique",
+                "feuillet de lumi\u00e8re",
+                "analyse d'images"
+            ]
+        },
+        {
+            "Name": "Augmodo",
+            "url": "https://www.augmodo.com/",
+            "Description": "Start-up seattloise d'IA spatiale pour le commerce de d\u00e9tail, dont les badges port\u00e9s par les employ\u00e9s (SmartBadges) construisent en continu des cartes 3D des magasins pour suivre l'\u00e9tat des rayons (plateforme SpatialView) ; s\u00e9rie A de 37,5 millions de dollars en 2025.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Seattle",
+                    "Coordinates": [
+                        47.6062,
+                        -122.3321
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Vision",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Keywords": [
+                "IA spatiale",
+                "cartographie 3D",
+                "commerce de d\u00e9tail",
+                "capteurs port\u00e9s"
             ]
         }
     ]

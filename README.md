@@ -332,7 +332,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Mots clés**: _plugin/logiciel pour artistes, retouche d'image, montage vidéo, IA générative, Photoshop, Firefly, Substance 3D_
   * **Remarque**: _Centre de recherche à Paris_
   * **Produits**: Photoshop, Substance 3D, Premiere, Illustrator, etc.
-  * **Localisation**: États-Unis/San Jose, Canada, Paris, Royaume-Uni, Inde, États-Unis/New York, International
+  * **Localisation**: États-Unis/San Jose, Canada, Paris, Royaume-Uni, Inde, États-Unis/New York, États-Unis/Seattle, International
   * **Nombres d'employés**: 31000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Design/Fabrication
   * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
@@ -453,6 +453,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Patrimoine/Culture
   * [_Jobs_](https://almedia.fr/jobs/)
+
+
+* **[Alpenglow Biosciences](https://www.alpenglowbiosciences.com/)**  
+  * _Start-up seattloise issue de l'Université de Washington qui développe l'imagerie 3D de tissus entiers (microscope à feuillet de lumière 3Di HOTLS, analyse d'images par IA 3Dai) pour la pathologie numérique, en cours de passage en clinique en 2026 avec le laboratoire PathNet._
+  * **Mots clés**: _microscopie 3D, pathologie numérique, feuillet de lumière, analyse d'images_
+  * **Localisation**: États-Unis/Seattle
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Reconstruction
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[Alt Shift](https://altshift.fr/)**  
@@ -641,7 +649,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Apple](https://www.apple.com/)**  
   * _Constructeur américain d'appareils grand public (Mac, iPhone, iPad, Vision Pro) conçus autour de ses propres puces Apple Silicon à GPU intégré._
   * **Mots clés**: _matériel grand public, puce/semi-conducteur, GPU, réalité mixte, Apple Vision Pro, écrans_
-  * **Localisation**: États-Unis/Cupertino, États-Unis/Culver City, International
+  * **Localisation**: États-Unis/Cupertino, États-Unis/Culver City, États-Unis/Seattle, International
   * **Nombres d'employés**: 160000
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Hardware, Vision
   * **Domaine d'application**: Générique
@@ -685,6 +693,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision, Hardware, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
   * [_Jobs_](https://blaxtair.com/offres-emplois)
+
+
+* **[ArenaNet](https://www.arena.net/)**  
+  * _Studio de jeu vidéo de Bellevue (filiale du coréen NC), développeur des MMORPG Guild Wars et Guild Wars 2, dont l'extension Visions of Eternity est sortie en octobre 2025._
+  * **Mots clés**: _MMORPG, Guild Wars 2, jeu en ligne, moteur maison_
+  * **Localisation**: États-Unis/Bellevue
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.arena.net/en/careers)
 
 
 * **[Ares Interactive](https://www.aresinteractive.com/)**  
@@ -933,6 +951,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 10
   * **Domaine scientifique/technique**: VR/AR, Reconstruction
   * **Domaine d'application**: Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO
+
+
+* **[Augmodo](https://www.augmodo.com/)**  
+  * _Start-up seattloise d'IA spatiale pour le commerce de détail, dont les badges portés par les employés (SmartBadges) construisent en continu des cartes 3D des magasins pour suivre l'état des rayons (plateforme SpatialView) ; série A de 37,5 millions de dollars en 2025._
+  * **Mots clés**: _IA spatiale, cartographie 3D, commerce de détail, capteurs portés_
+  * **Localisation**: États-Unis/Seattle
+  * **Domaine scientifique/technique**: Reconstruction, Vision, Acquisition
+  * **Domaine d'application**: Commerce/Marketing/Publicité
 
 
 * **[Auroch Digital](https://aurochdigital.com/)**  
@@ -1204,6 +1230,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.bigcompany.fr/news-jobs/)
 
 
+* **[Big Fish Games](https://www.bigfishgames.com/)**  
+  * _Éditeur et développeur de jeux casual (objets cachés, puzzle, jeux mobiles free-to-play) basé à Seattle, cédé en 2025 par Aristocrat à BFG Entertainment._
+  * **Mots clés**: _jeu casual, objets cachés, jeu mobile, free-to-play_
+  * **Localisation**: États-Unis/Seattle
+  * **Nombres d'employés**: 350
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Bild Studios](https://www.bildstudios.com/)**  
   * _Société de technologies visuelles qui exploite MARS Volume, plateau indépendant de production virtuelle et d'effets in-camera (mur LED de 25,5 m, moteurs de jeu, suivi de caméra) à Ruislip (Grand Londres), utilisé pour 3 Body Problem, Culprits ou Gangs of London, avec un centre de formation (MARS Academy)._
   * **Mots clés**: _production virtuelle, mur LED, VFX in-camera, Unreal Engine_
@@ -1267,6 +1302,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Animation, Modélisation
   * **Domaine d'application**: Commerce/Marketing/Publicité, Jeu Vidéo
+
+
+* **[BlackSky](https://www.blacksky.com/)**  
+  * _Opérateur de constellation de satellites d'observation de la Terre à haute fréquence de revisite (satellites Gen-3), qui conçoit ses satellites et charges utiles électro-optiques à Tukwila et exploite la plateforme d'analyse d'images par IA Spectra._
+  * **Mots clés**: _imagerie satellitaire, observation de la Terre, analyse d'images, spatial_
+  * **Localisation**: États-Unis/Seattle, États-Unis/Tukwila
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision
+  * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense
+  * [_Jobs_](https://job-boards.greenhouse.io/blacksky)
 
 
 * **[Blind Squirrel Games](https://blindsquirrelentertainment.com/)**  
@@ -1579,6 +1623,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Bungie](https://www.bungie.net/)**  
+  * _Studio de jeu vidéo de Bellevue (filiale de Sony Interactive Entertainment), créateur de Halo puis de Destiny et Destiny 2, dont le jeu de tir d'extraction Marathon est sorti en 2026._
+  * **Mots clés**: _jeu de tir, Destiny 2, Marathon, jeu en ligne_
+  * **Localisation**: États-Unis/Bellevue
+  * **Nombres d'employés**: 500
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.bungie.com/)
+
+
 * **[Bureau 81](https://store.steampowered.com/app/1771980/The_Operator/)**  
   * _Studio indépendant bordelais créé en 2024, développeur et éditeur du jeu d'enquête The Operator (2024)._
   * **Mots clés**: _jeu indépendant, console/PC, jeu narratif_
@@ -1678,6 +1732,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Carbon Robotics](https://carbonrobotics.com/)**  
+  * _Fabricant seattlois de robots agricoles LaserWeeder qui détruisent les mauvaises herbes au laser grâce à la vision par ordinateur et à l'IA, auteur en 2026 d'un « Large Plant Model » de détection des plantes et de la plateforme Carbon Autonomy._
+  * **Mots clés**: _vision par ordinateur, robotique agricole, désherbage laser, IA_
+  * **Localisation**: États-Unis/Seattle
+  * **Domaine scientifique/technique**: Vision, Acquisition
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Énergie/Environnement
+  * [_Jobs_](https://carbonrobotics.com/careers)
+
+
 * **[Caribara Animation](https://www.caribara-animation.com/)**  
   * _Studio d'animation indépendant (2D, 3D et hybride) basé à Paris avec des studios à Annecy, Angoulême, Montréal et Liège, prestataire de fabrication de séries et films._
   * **Mots clés**: _animation 2D, animation 3D, séries d'animation, fabrication_
@@ -1705,6 +1768,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Visualisation, Vision
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://casis.fr/careers-en/)
+
+
+* **[Cat Daddy Games](https://catdaddygames.com/)**  
+  * _Studio de 2K (Take-Two Interactive) à Kirkland qui développe les jeux mobiles NBA 2K Mobile et WWE SuperCard._
+  * **Mots clés**: _jeu mobile, NBA 2K Mobile, WWE SuperCard, jeu de sport_
+  * **Localisation**: États-Unis/Kirkland
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://catdaddygames.com/jobs)
 
 
 * **[Cavrnus](https://www.cavrnus.com/)**  
@@ -2768,6 +2840,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.ecential-robotics.com/fr-fr/carrieres)
 
 
+* **[EchoNous](https://echonous.com/)**  
+  * _Concepteur à Redmond d'échographes portables assistés par IA (plateforme Kosmos, sondes Torso et Lexsa, Torso NXT dévoilée en octobre 2026), classé par TIME parmi les meilleures entreprises de healthtech de 2026._
+  * **Mots clés**: _échographie portable, IA, imagerie médicale, POCUS_
+  * **Localisation**: États-Unis/Redmond
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Ecopia AI](https://www.ecopiatech.com/)**  
   * _Start-up torontoise qui extrait par IA des cartes vectorielles et des données 3D (bâtiments, occupation du sol 3D, réseaux de transport) d'images aériennes et satellitaires à grande échelle, en partenariat avec Vantor (ex-Maxar) et Nearmap._
   * **Mots clés**: _cartographie par IA, imagerie aérienne, jumeau numérique, occupation du sol_
@@ -3034,7 +3114,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Éditeur américain du moteur Unreal Engine et du jeu Fortnite, également propriétaire de l'Epic Games Store, de Quixel, RealityCapture et MetaHuman._
   * **Mots clés**: _Unreal Engine, AAA, free-to-play, multijoueur en ligne, Fortnite, MetaHuman, boutique de jeux_
   * **Produits**: [Unreal Engine](https://www.unrealengine.com/)
-  * **Localisation**: États-Unis, Canada/Saint-Lambert, International
+  * **Localisation**: États-Unis, Canada/Saint-Lambert, États-Unis/Bellevue, International
   * **Nombres d'employés**: 2000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
@@ -3273,6 +3353,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.filmlight.ltd.uk/contacts/recruitment/overview_rt.php)
 
 
+* **[Final Strike Games](https://finalstrikegames.net/)**  
+  * _Studio indépendant de jeux multijoueur (Rocket Arena, codéveloppement de Fortnite pour Epic Games et de Star Wars: Zero Company pour EA) avec des bureaux à Bellevue, Vancouver et Montréal._
+  * **Mots clés**: _jeu multijoueur, jeu de tir, codéveloppement, Fortnite_
+  * **Localisation**: États-Unis/Bellevue, Canada/Vancouver, Canada/Montréal
+  * **Nombres d'employés**: 90
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://finalstrikegames.net/careers)
+
+
 * **[Firesprite](https://firesprite.com/)**  
   * _Studio de Liverpool de Sony Interactive Entertainment (The Playroom VR, The Persistence, Horizon Call of the Mountain)._
   * **Mots clés**: _jeu vidéo, VR, PlayStation_
@@ -3460,6 +3550,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://frostgiant.com/careers/)
+
+
+* **[FUJIFILM Sonosite](https://www.sonosite.com/)**  
+  * _Concepteur et fabricant d'échographes portables au point de soins (gammes Sonosite PX, LX et iViz), filiale de Fujifilm issue en 1998 d'ATL Ultrasound, avec siège et R&D à Bothell._
+  * **Mots clés**: _échographie, imagerie médicale, appareils portables_
+  * **Localisation**: États-Unis/Bothell
+  * **Domaine scientifique/technique**: Imagerie, Acquisition
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://uscareershub-fujifilm.icims.com/)
 
 
 * **[Fygostudio](https://fygostudio.com/)**  
@@ -3674,7 +3773,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Groupe américain du moteur de recherche, d'Android, de Google Maps et des modèles d'IA Gemini, avec des activités de recherche en vision, rendu et IA._
   * **Mots clés**: _deep learning, IA générative, cartographie, réalité augmentée, cloud/streaming, Gemini_
   * **Remarque**: _<a href="https://ai.google/">Google AI</a> est une entité de recherche développant des projets en graphique_
-  * **Localisation**: États-Unis/Mountain View, États-Unis/Los Angeles, États-Unis/New York, International
+  * **Localisation**: États-Unis/Mountain View, États-Unis/Los Angeles, États-Unis/New York, États-Unis/Kirkland, États-Unis/Seattle, International
   * **Nombres d'employés**: 140000
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Reconstruction, Web/Cloud/Big Data
   * **Domaine d'application**: Générique
@@ -3744,6 +3843,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://hadean.com/careers/)
 
 
+* **[Halo Studios](https://www.halowaypoint.com/)**  
+  * _Studio de Microsoft à Redmond (ex-343 Industries, renommé en 2024), responsable de la série Halo depuis Halo 4 et de Halo: Campaign Evolved (2026), remake sous Unreal Engine 5 du premier Halo._
+  * **Mots clés**: _Halo, jeu de tir, Unreal Engine 5, Xbox_
+  * **Localisation**: États-Unis/Redmond
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Halon Entertainment](https://halon.com/)**  
   * _Studio de visualisation temps réel fondé en 2003 (previs, postvis, cinématiques et production virtuelle) ayant travaillé sur Star Wars, Avatar, The Batman, John Wick, Un film Minecraft (2025) et Fortnite, redevenu indépendant de NEP Group en juillet 2026._
   * **Mots clés**: _prévisualisation, postvis, cinématiques, Unreal Engine, production virtuelle_
@@ -3787,6 +3894,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu offline/VFX, Imagerie, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
   * [_Jobs_](https://harborpicturecompany.com/careers/)
+
+
+* **[Harebrained Schemes](https://www.harebrained-schemes.com/)**  
+  * _Studio indépendant de la région de Seattle (Shadowrun Returns, BattleTech), redevenu indépendant de Paradox en 2023, qui développe GRAFT, RPG d'horreur et de survie dévoilé en 2026._
+  * **Mots clés**: _RPG, Shadowrun, BattleTech, survival horror_
+  * **Localisation**: États-Unis/Kirkland
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Harfang3D](https://www.harfang3d.com/)**  
@@ -4570,6 +4685,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Reconstruction, Simulation
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://www.inheartmedical.com/careers)
+
+
+* **[Innersloth](https://www.innersloth.com/)**  
+  * _Studio indépendant de Redmond créateur d'Among Us (et de sa version VR Among Us 3D), qui continue de le mettre à jour en 2026 et publie d'autres jeux via Outersloth._
+  * **Mots clés**: _Among Us, jeu multijoueur, jeu indépendant_
+  * **Localisation**: États-Unis/Redmond
+  * **Domaine scientifique/technique**: Animation, VR/AR
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[InnerSpace VR](https://www.innerspacevr.com/)**  
@@ -5453,6 +5576,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://lumiscaphe.com/carrieres/)
 
 
+* **[Lumotive](https://www.lumotive.com/)**  
+  * _Concepteur à Redmond de puces de pilotage de faisceau laser à semi-conducteurs (Light Control Metasurface) pour capteurs lidar et la détection 3D._
+  * **Mots clés**: _lidar, détection 3D, métasurfaces, semi-conducteurs optiques_
+  * **Localisation**: États-Unis/Redmond, Canada/Burnaby
+  * **Domaine scientifique/technique**: Acquisition, Hardware
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+  * [_Jobs_](https://jobs.lever.co/lumotive)
+
+
 * **[Lupus Films](https://lupusfilms.com/)**  
   * _Studio et société de production d'animation 2D d'Islington (Londres) fondé en 2002 (The Snowman and the Snowdog, Ethel & Ernest, Kensuke's Kingdom, Mog's Christmas), nommé aux BAFTA 2025, avec un programme de formation de jeunes animateurs._
   * **Mots clés**: _animation 2D, long métrage, séries jeunesse, BAFTA_
@@ -5909,7 +6041,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Meta](https://ai.meta.com/research/)**  
   * _Groupe technologique ; son laboratoire FAIR Paris (ouvert en 2015) mène des recherches en IA et vision par ordinateur (DINOv2/DINOv3)._
   * **Mots clés**: _vision par ordinateur, deep learning, IA générative, segmentation, apprentissage auto-supervisé, open source_
-  * **Localisation**: États-Unis/Menlo Park, Paris, Canada/Montréal, États-Unis/New York, International
+  * **Localisation**: États-Unis/Menlo Park, Paris, Canada/Montréal, États-Unis/New York, États-Unis/Redmond, International
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, VR/AR, Reconstruction
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Générique
   * [_Jobs_](https://www.metacareers.com/)
@@ -6231,6 +6363,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR
   * **Domaine d'application**: Art/Evenementiel
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/modulopi/jobs)
+
+
+* **[Mojang Studios](https://www.minecraft.net/)**  
+  * _Studio de Microsoft créateur de Minecraft, basé à Stockholm avec un second site à Redmond où sont réparties la plupart des équipes (Minecraft Education y est développé) ; Minecraft Dungeons II est attendu en 2026._
+  * **Mots clés**: _Minecraft, jeu bac à sable, Minecraft Education_
+  * **Localisation**: Suède/Stockholm, États-Unis/Redmond
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.minecraft.net/en-us/jobs)
 
 
 * **[Molinare](https://www.molinare.co.uk/)**  
@@ -6567,7 +6708,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Niantic Spatial](https://www.nianticspatial.com/)**  
   * _Société issue en 2025 de la scission de Niantic (Pokémon GO), consacrée au « Large Geospatial Model » et à la cartographie 3D, dont l'équipe de recherche londonienne (issue du rachat de Matrix Mill, spin-off de l'UCL) travaille sur la reconstruction 3D, le Gaussian splatting, le SfM/SLAM et la localisation visuelle._
   * **Mots clés**: _reconstruction 3D, Gaussian splatting, réalité augmentée, SLAM_
-  * **Localisation**: Royaume-Uni/Londres, États-Unis/San Francisco
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/San Francisco, États-Unis/Bellevue
   * **Domaine scientifique/technique**: Reconstruction, Vision, VR/AR, IA générative (image/3D)
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Géospatial/Cartographie, Robotique/Systèmes autonomes
   * [_Jobs_](https://job-boards.greenhouse.io/niantic)
@@ -6599,6 +6740,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 150
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Acquisition, Animation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Nintendo of America](https://www.nintendo.com/)**  
+  * _Filiale américaine de Nintendo installée à Redmond, qui abrite le studio de développement Nintendo Software Technology (NST, jeux et portages pour les consoles Nintendo, dont la Switch 2)._
+  * **Mots clés**: _Nintendo Switch, studio interne, développement de jeux_
+  * **Localisation**: États-Unis/Redmond
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://careers.nintendo.com/studios/nintendo-software-technology/)
 
 
 * **[Nobody Studio](https://nobody-studio.com/)**  
@@ -6733,7 +6883,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Concepteur américain de GPU et de plateformes de calcul (CUDA, RTX, Omniverse) pour le jeu vidéo, la création numérique, l'IA, le HPC et la robotique._
   * **Mots clés**: _GPU, puce/semi-conducteur, ray tracing, deep learning, rendu temps réel, robotique, véhicule autonome_
   * **Remarque**: _NVidia Research est présent partout dans le monde, dont en France._
-  * **Localisation**: États-Unis/California/Santa Clara, France/Paris, Canada/Toronto, International
+  * **Localisation**: États-Unis/California/Santa Clara, France/Paris, Canada/Toronto, États-Unis/Seattle, États-Unis/Redmond, International
   * **Nombres d'employés**: 42000
   * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D, IA générative (image/3D), Simulation
   * **Domaine d'application**: Générique
@@ -7196,6 +7346,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.phasics.com/en/company/jobs-at-phasics/)
 
 
+* **[Philips Ultrasound](https://www.philips.com/healthcare/solutions/ultrasound)**  
+  * _Centre mondial de R&D échographie de Philips à Bothell, qui conçoit les systèmes d'imagerie ultrasonore (algorithmes de formation d'image, sondes, logiciels) des gammes EPIQ et Affiniti._
+  * **Mots clés**: _échographie, imagerie médicale, traitement du signal, beamforming_
+  * **Localisation**: États-Unis/Bothell
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique/technique**: Imagerie, Acquisition
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://philips.wd3.myworkdayjobs.com/jobs-and-careers)
+
+
 * **[Philomec](https://philomec.com/)**  
   * _Bureau d'études marseillais en mécanique et biomécanique qui réalise modélisation 3D, simulation par éléments finis du corps humain, rendus photoréalistes et impression 3D pour les équipements sportifs et de protection._
   * **Mots clés**: _simulation physique, biomécanique, CAO, éléments finis_
@@ -7436,10 +7596,19 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[PlayEveryWare](https://www.playeveryware.com/)**  
+  * _Studio de codéveloppement et de portage de jeux vidéo basé à Seattle (et Yokohama), spécialisé en ingénierie (portages console, remasters, optimisation, services en ligne), crédité en 2026 sur Legacy of Kain: Defiance Remastered, Dispatch et Spirit Crossing._
+  * **Mots clés**: _portage console, codéveloppement, remaster, optimisation_
+  * **Localisation**: États-Unis/Seattle
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.playeveryware.com/careers)
+
+
 * **[Playground Games](https://playground-games.com/)**  
   * _Studio de Leamington Spa de Microsoft, créateur de la série Forza Horizon._
   * **Mots clés**: _jeu vidéo, Forza Horizon, monde ouvert_
-  * **Localisation**: Royaume-Uni/Leamington Spa
+  * **Localisation**: Royaume-Uni/Leamington Spa, États-Unis/Redmond
   * **Nombres d'employés**: 450
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo
@@ -7691,6 +7860,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Générique
   * [_Jobs_](https://careers.prophesee.ai/jobs)
+
+
+* **[Proprio](https://www.propriovision.com/)**  
+  * _Start-up seattloise de chirurgie assistée, créatrice de la plateforme Paradigm qui combine imagerie par champ lumineux, vision par ordinateur et IA pour visualiser l'anatomie en 3D et naviguer sans rayonnement en chirurgie du rachis (4e autorisation FDA en 2026)._
+  * **Mots clés**: _champ lumineux, navigation chirurgicale, vision par ordinateur, 3D_
+  * **Localisation**: États-Unis/Seattle
+  * **Domaine scientifique/technique**: Acquisition, Vision, Reconstruction, Imagerie
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.propriovision.com/careers)
 
 
 * **[Proto](https://protohologram.com/)** (Proto Hologram Inc.) 
@@ -8565,6 +8743,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.sidefx.com/company/careers/)
 
 
+* **[Siemens Healthineers Ultrasound](https://www.siemens-healthineers.com/en-us/ultrasound)**  
+  * _Siège et R&D de la division échographie de Siemens Healthineers à Issaquah depuis 2020, recentrée en 2026 sur l'imagerie interventionnelle (Acuson Origin, échographie intracardiaque P500) après l'arrêt des échographes généralistes Acuson Sequoia et Redwood._
+  * **Mots clés**: _échographie, imagerie interventionnelle, cardiologie, imagerie médicale_
+  * **Localisation**: États-Unis/Issaquah
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Imagerie, Acquisition
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[SiLC](https://silc.com/)** (SiLC Technologies) 
   * _Concepteur à Monrovia de capteurs LiDAR FMCW sur puce unique (gamme Eyeonic, mesure de distance et de vitesse « 4D ») pour la vision des robots, de l'automobile et de la métrologie industrielle, soutenu par Honda._
   * **Mots clés**: _LiDAR FMCW, photonique sur silicium, vision 4D, capteurs 3D_
@@ -8763,7 +8950,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Snap](https://www.snap.com/)**  
   * _Éditeur de Snapchat et des lunettes de réalité augmentée Specs (siège à Santa Monica), dont le bureau de Toronto, issu du rachat de Bitstrips en 2016, développe Bitmoji, son moteur de rendu des avatars et les outils pour artistes._
   * **Mots clés**: _Bitmoji, avatars, moteur de rendu, réalité augmentée_
-  * **Localisation**: Canada/Toronto, États-Unis/Santa Monica
+  * **Localisation**: Canada/Toronto, États-Unis/Santa Monica, États-Unis/Bellevue
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, VR/AR
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://careers.snap.com/)
@@ -8939,7 +9126,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Splash Damage](https://splashdamage.com/)**  
   * _Studio de jeu vidéo fondé en 2001 (Wolfenstein : Enemy Territory, Gears Tactics), installé à Bromley dans le Grand Londres, avec sa propre technologie de développement._
   * **Mots clés**: _Jeu vidéo, Multijoueur, Moteur 3D_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/Seattle
   * **Nombres d'employés**: 200
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
@@ -9204,6 +9391,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.studioraclette.com/jobs)
 
 
+* **[Studio Wildcard](https://www.studiowildcard.com/)**  
+  * _Développeur de la série de survie ARK (ARK: Survival Evolved, ARK: Survival Ascended) et de ARK II, en développement sous Unreal Engine 5, avec des bureaux dans la région de Redmond-Kirkland._
+  * **Mots clés**: _ARK, jeu de survie, Unreal Engine 5, monde ouvert_
+  * **Localisation**: États-Unis/Kirkland
+  * **Nombres d'employés**: 98
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://studiowildcard.bamboohr.com/careers)
+
+
 * **[Subsea Tech](https://www.subsea-tech.com/)**  
   * _Concepteur marseillais de robots sous-marins et de surface (ROV Tortuga, micro-ROV, AUV, drones SeaCat) et de systèmes de caméras vidéo sous-marines pour l'inspection, la défense et la recherche._
   * **Mots clés**: _robotique sous-marine, ROV, caméra sous-marine, inspection_
@@ -9212,6 +9409,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Hardware
   * **Domaine d'application**: Robotique/Systèmes autonomes, Sécurité/Défense, Énergie/Environnement
   * [_Jobs_](https://www.subsea-tech.com/fr/recrutement/)
+
+
+* **[Sucker Punch Productions](https://www.suckerpunch.com/)**  
+  * _Studio de PlayStation Studios (Sony) installé à Bellevue, créateur des séries Sly Cooper et inFAMOUS, de Ghost of Tsushima et de Ghost of Yōtei (2025), dont l'édition complète avec l'extension Echoes of Sekigahara est sortie le 1er octobre 2026._
+  * **Mots clés**: _jeu d'action, monde ouvert, PlayStation 5, Ghost of Yōtei_
+  * **Localisation**: États-Unis/Bellevue
+  * **Nombres d'employés**: 160
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://jobs.suckerpunch.com/)
 
 
 * **[Sumo Digital](https://sumo-digital.com/)**  
@@ -9400,6 +9607,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Reconstruction
   * **Domaine d'application**: Sécurité/Défense, Automobile/Navigation/Aviation, Médical/Biologique
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/sysnav/jobs)
+
+
+* **[System Era Softworks](https://www.systemera.net/)**  
+  * _Studio de Seattle (filiale de Devolver Digital) créateur d'Astroneer, jeu d'exploration spatiale en 3D enrichi de l'extension Megatech (2025) et sorti en version native PlayStation 5 en novembre 2025._
+  * **Mots clés**: _Astroneer, exploration spatiale, jeu indépendant, Unreal Engine_
+  * **Localisation**: États-Unis/Seattle
+  * **Nombres d'employés**: 62
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
 
 
 * **[Tactical Adventures](https://www.tacticaladventures.com/)**  
@@ -10162,6 +10378,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.valeo.com/en/careers/)
 
 
+* **[Valve](https://www.valvesoftware.com/)**  
+  * _Développeur et éditeur de jeux (Half-Life, Counter-Strike 2, Dota 2, Half-Life: Alyx), créateur de la plateforme Steam, du moteur Source 2 et de matériels (Steam Deck, Steam Machine et casque VR Steam Frame sortis en 2026), installé à Bellevue._
+  * **Mots clés**: _moteur Source 2, Steam, réalité virtuelle, Counter-Strike 2, matériel de jeu_
+  * **Localisation**: États-Unis/Bellevue
+  * **Nombres d'employés**: 336
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Hardware, Animation
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.valvesoftware.com/en/jobs)
+
+
 * **[Varian](https://www.varian.com/)**  
   * _Filiale de Siemens Healthineers spécialisée dans la radiothérapie guidée par l'image (accélérateurs TrueBeam, Ethos, Halcyon, imagerie CBCT HyperSight) et les logiciels de planification de traitement (Eclipse) intégrant segmentation et IA._
   * **Mots clés**: _radiothérapie, imagerie guidée, planification de traitement, oncologie_
@@ -10205,6 +10431,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Design/Fabrication, Simulation, Web/Cloud/Big Data
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes
   * [_Jobs_](https://vention.com/careers)
+
+
+* **[Verathon](https://www.verathon.com/)**  
+  * _Fabricant de dispositifs médicaux d'imagerie basé à Bothell : scanners vésicaux à ultrasons BladderScan (i10) et vidéolaryngoscopes GlideScope (systèmes de visualisation Core et Go 2)._
+  * **Mots clés**: _échographie, vidéolaryngoscopie, dispositifs médicaux_
+  * **Localisation**: États-Unis/Bothell
+  * **Domaine scientifique/technique**: Imagerie, Acquisition
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://www.verathon.com/careers-at-verathon)
 
 
 * **[Vermon](https://www.vermon.com/)**  
@@ -10555,7 +10790,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Waymo](https://waymo.com/)**  
   * _Filiale d'Alphabet qui développe et exploite le Waymo Driver, système de conduite autonome à base de lidars, caméras et radars, avec un service de robotaxis commercial (San Francisco, Phoenix, Los Angeles...) et une forte activité de perception et de simulation (World Model, réalisme de la simulation)._
   * **Mots clés**: _conduite autonome, robotaxi, perception, lidar, simulation de capteurs_
-  * **Localisation**: États-Unis/Mountain View, États-Unis/San Francisco
+  * **Localisation**: États-Unis/Mountain View, États-Unis/San Francisco, États-Unis/Kirkland
   * **Nombres d'employés**: 2500
   * **Domaine scientifique/technique**: Vision, Simulation, Acquisition, Reconstruction
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
@@ -10654,6 +10889,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Vision, Analyse de données
   * **Domaine d'application**: Architecture/BTP/Urbanisme, Sécurité/Défense
+
+
+* **[Wizards of the Coast](https://company.wizards.com/)**  
+  * _Éditeur (filiale de Hasbro) de Magic: The Gathering et Dungeons & Dragons, basé à Renton, où ses équipes numériques développent Magic: The Gathering Arena et les outils D&D Beyond._
+  * **Mots clés**: _Magic: The Gathering Arena, jeu de cartes numérique, Dungeons & Dragons, jeu en ligne_
+  * **Localisation**: États-Unis/Renton
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://company.wizards.com/en/careers)
 
 
 * **[Wolcen Studio](https://wolcengame.com/)**  
