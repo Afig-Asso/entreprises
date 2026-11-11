@@ -11,13 +11,10 @@ const summary_element = document.querySelector('#listing-summary');
 // Controls of the toolbar (static HTML in index.html)
 const UX = {
     'sorting': {
-        'list': document.querySelector('#view-list'),  // view: list (sorted by name or place) or graph
-        'alphabetical': document.querySelector('#sort-alphabetical'),
-        'place': document.querySelector('#sort-place'),
+        'list': document.querySelector('#view-list'),  // view: list (sorted by name) or graph
         'graph': document.querySelector('#sort-graph'),
     },
     'details': document.querySelector('#display-details'),
-    'france-only': document.querySelector('#france-only'),
     'jobs-only': document.querySelector('#jobs-only'),
     'place-filter': document.querySelector('#place-filter'),
     'search': document.querySelector('#search-company'),
@@ -63,9 +60,8 @@ const Global = {
     },
     'size-class': null, // per company: key of its size class
     'search-text': null, // per company: searchable text (name, description, places, themes...), without accents
-    'in-france': null, // per company: true if the company has at least one place in France
     'has-jobs': null, // per company: true if a job page is given
-    'rendered-ids': null, // ids already used in the current rendering (a company can appear several times by place)
+    'rendered-ids': null, // ids already used in the current rendering
 };
 
 const NEW_TAB = '<span class="visually-hidden"> (nouvel onglet)</span>';
@@ -459,7 +455,7 @@ function plural_companies(N) {
 
 function any_filter_active() {
     return Global['selected']['scientific'].size>0 || Global['selected']['application'].size>0 || Global['selected']['size'].size>0
-        || UX['france-only'].checked || UX['jobs-only'].checked || UX['place-filter'].value!='' || UX['search'].value.trim()!='';
+        || UX['jobs-only'].checked || UX['place-filter'].value!='' || UX['search'].value.trim()!='';
 }
 
 function display_summary(N, N_jobs) {
@@ -500,35 +496,11 @@ function display_list(entries, level) {
     return txt + '</ul>\n';
 }
 
-// Id of a place heading, used by the index of the place view
-function place_id(prefix, name) {
-    return prefix + '-' + search_str(name).replace(/[^a-z0-9]+/g, '-');
-}
-
-function place_count(N) {
-    return `<span class="place-count">${plural_companies(N)}</span>`;
-}
-
 // Zone of a French city (zones.yaml, exported in data.json 'Zones'): ex. Villeurbanne -> Lyon.
 // A city absent from the table is its own zone.
 function french_zone(city) {
     const zones = (company_data && company_data['Zones']) || {};
     return zones[city] || city;
-}
-
-// Cities of a zone where the listed companies are, when they are not just the zone name
-function zone_cities(zone, entries) {
-    const cities = new Set();
-    for(const entry of entries) {
-        for(const p of get_list_places_exhaustive(get_list_places(entry['Place']))) {
-            const city = String(p['City'] || '').trim();
-            if((p['Country']==undefined || p['Country']=='France') && city!='' && french_zone(city)==zone) {
-                cities.add(city);
-            }
-        }
-    }
-    const list = [...cities].sort(compare_fr);
-    return (list.length==1 && list[0]==zone) ? [] : list;
 }
 
 // Region of a French zone (regions.yaml, exported in data.json 'Regions'): ex. Lyon -> Auvergne-Rhône-Alpes
@@ -537,77 +509,8 @@ function french_region(zone) {
     return regions[zone] || 'Autres villes';
 }
 
-// Below this number of companies, the zones of a region are gathered in one block "Autres villes"
+// Minimum number of companies of a city to be proposed on its own in the place filter
 const MIN_COMPANIES_ZONE = 3;
-
-function unique_entries(lists) {
-    const all = [];
-    for(const list of lists) {
-        for(const entry of list) {
-            if(!all.includes(entry)) all.push(entry);
-        }
-    }
-    return all;
-}
-
-// French zones grouped by region: [{name, entries, blocks:[{name, id, entries, cities}]}], largest region first.
-// In a region, the zones with enough companies have their own block (largest first), the others share one block.
-function french_regions(french_entries) {
-    const by_region = {};
-    for(const zone of Object.keys(french_entries)) {
-        const region = french_region(zone);
-        (by_region[region] = by_region[region] || []).push(zone);
-    }
-    const regions = [];
-    for(const [region, zones] of Object.entries(by_region)) {
-        const big = zones.filter((z) => french_entries[z].length>=MIN_COMPANIES_ZONE)
-            .sort((a, b) => french_entries[b].length - french_entries[a].length || compare_fr(a, b));
-        const small = zones.filter((z) => !big.includes(z)).sort(compare_fr);
-        const blocks = big.map((z) => ({'name': z, 'id': place_id('ville', z), 'entries': french_entries[z], 'cities': zone_cities(z, french_entries[z])}));
-        if(small.length>0) {
-            const entries = unique_entries(small.map((z) => french_entries[z])).sort((a, b) => compare_fr(a['Name'], b['Name']));
-            const cities = [...new Set(small.flatMap((z) => zone_cities(z, french_entries[z]).length>0 ? zone_cities(z, french_entries[z]) : [z]))].sort(compare_fr);
-            blocks.push({'name': big.length>0 ? 'Autres villes' : '', 'id': place_id('autres', region), 'entries': entries, 'cities': cities, 'others': true,
-                'zones': small.map((z) => ({'name': z, 'N': french_entries[z].length}))});
-        }
-        regions.push({'name': region, 'id': place_id('region', region), 'blocks': blocks,
-            'entries': unique_entries(zones.map((z) => french_entries[z]))});
-    }
-    return regions.sort((a, b) => b['entries'].length - a['entries'].length || compare_fr(a['name'], b['name']));
-}
-
-// Cities under a heading; a long list (Île-de-France) is shortened to its main city and a count
-const MAX_CITIES_HEADING = 15;
-function cities_span(cities, zone) {
-    if(cities.length==0) {
-        return '';
-    }
-    let txt = cities.join(', ');
-    if(cities.length>MAX_CITIES_HEADING) {
-        const main = cities.find((c) => zone!=undefined && zone.startsWith(c));
-        txt = main!=undefined ? `${main} et ${cities.length-1} autres communes` : `${cities.length} communes`;
-    }
-    return ` <span class="zone-cities" title="${esc(cities.join(', '))}">${txt}</span>`;
-}
-
-// One region: its heading, then one sub-heading per block (none when the region has a single block)
-function display_region(region) {
-    const blocks = region['blocks'];
-    const single = blocks.length==1;
-    const cities = single ? cities_span(blocks[0]['cities'], blocks[0]['name']) : '';
-    // a single zone keeps its id, for the links to a city
-    const ids = single && !blocks[0]['others'] ? `<span id="${blocks[0]['id']}"></span>` : '';
-    let txt = `<h3 class="title-place title-region" id="${region['id']}" tabindex="-1">${ids}${region['name']}${cities} ${place_count(region['entries'].length)}</h3>\n`;
-    if(single) {
-        return txt + '<div class="container-place-city">\n' + display_list(blocks[0]['entries'], 4) + '</div>\n';
-    }
-    for(const block of blocks) {
-        const cls = block['others'] ? ' title-others' : '';
-        txt += `<h4 class="title-place title-city${cls}" id="${block['id']}" tabindex="-1">${block['name']}${cities_span(block['cities'], block['name'])} ${place_count(block['entries'].length)}</h4>\n`;
-        txt += '<div class="container-place-city">\n' + display_list(block['entries'], 5) + '</div>\n';
-    }
-    return txt;
-}
 
 // Location of a place for the place filter: country, and for France the zone and the region
 function place_location(place) {
@@ -664,79 +567,11 @@ function build_place_filter() {
     UX['place-filter'].innerHTML = txt + '</optgroup>';
 }
 
-// Index of the place view: one link per French region, then per country
-function display_place_index(regions, countries, data) {
-    const link = (id, name, N) => `<a class="place-link" href="#${id}">${name}<span class="place-link-count"><span class="visually-hidden"> : </span>${N}</span></a>`;
-    // Folded by default on small screens
-    const open = window.matchMedia('(min-width: 761px)').matches ? ' open' : '';
-    const N_places = regions.length + countries.length;
-    let txt = `<nav class="place-index" aria-label="Aller à une localité"><details${open}>`
-        + `<summary>Aller à une localité <span class="place-index-total">${N_places} lieux</span></summary>\n`;
-    if(regions.length>0) {
-        // One line per region: the region, its main cities, and the small towns folded behind "+ N villes"
-        txt += '<div class="place-index-row"><span class="place-index-label">France</span><div class="place-index-regions">';
-        for(const region of regions) {
-            const main = region['blocks'].filter((b) => !b['others'] && b['entries'].length<region['entries'].length);
-            const others = region['blocks'].find((b) => b['others']);
-            txt += '<div class="place-index-region">'
-                + `<a class="place-link place-link-region" href="#${region['id']}">${region['name']}<span class="place-link-count"><span class="visually-hidden"> : </span>${region['entries'].length}</span></a>`;
-            const links = main.map((b) => link(b['id'], b['name'], b['entries'].length));
-            if(others!=undefined) {
-                const towns = others['zones'].map((z) => link(others['id'], z['name'], z['N'])).join('');
-                const N = others['zones'].length;
-                links.push(`<details class="place-more"><summary>+ ${N} ville${N>1 ? 's' : ''}</summary><div class="place-index-links">${towns}</div></details>`);
-            }
-            txt += `<div class="place-index-links">${links.join('')}</div></div>\n`;
-        }
-        txt += '</div></div>\n';
-    }
-    if(countries.length>0) {
-        txt += '<div class="place-index-row"><span class="place-index-label">Autres pays</span><div class="place-index-links">';
-        txt += countries.map((c) => link(place_id('pays', c), c, data[c].length)).join('');
-        txt += '</div></div>\n';
-    }
-    return txt + '</details></nav>\n';
-}
-
 function display_company(data, N_displayed) {
     if(N_displayed==0) {
         return display_no_result();
     }
-
-    if(UX['sorting']['alphabetical'].checked) {
-        return display_list(data, 2);
-    }
-
-    let HTML_txt = '';
-    const all_countries = Object.keys(data).sort(compare_fr);
-    const other_countries = all_countries.filter((c) => c!='France');
-
-    // France first, by region (regions.yaml) then by zone (zones.yaml), the largest first
-    const french_entries = data['France'];
-    const regions = french_entries!=undefined ? french_regions(french_entries) : [];
-    HTML_txt += display_place_index(regions, other_countries, data);
-
-    if(french_entries != undefined) {
-        const N_france = unique_entries(regions.map((r) => r['entries'])).length;
-        HTML_txt += `<h2 class="title-place" id="pays-france" tabindex="-1">France ${place_count(N_france)}</h2>\n`
-        HTML_txt += '<div class="container-place">\n'
-        for(const region of regions) {
-            HTML_txt += display_region(region);
-        }
-        HTML_txt += '</div>\n'
-    }
-
-    for(const country of other_countries) {
-        HTML_txt += `<h2 class="title-place" id="${place_id('pays', country)}" tabindex="-1">${country} ${place_count(data[country].length)}</h2>\n`
-        HTML_txt += '<div class="container-place">\n' + display_list(data[country], 3) + '</div>\n'
-    }
-
-    return HTML_txt;
-}
-
-// Jump to a place heading (inside the AFIG iframe, the parent page has to scroll)
-function jump_to_place(link) {
-    jump_to_target(document.getElementById(link.getAttribute('href').slice(1)));
+    return display_list(data, 2);
 }
 
 function jump_to_target(target) {
@@ -755,57 +590,6 @@ function jump_to_target(target) {
     }
     target.focus({preventScroll: true});
 }
-
-function sort_by_place(data) {
-    const sorted_data = {};
-    for(let entry of data) {
-        const place_entry = get_list_places_exhaustive(get_list_places(entry['Place']));
-
-        for(const place of place_entry) {
-            let country = place['Country'];
-
-            if(UX['france-only'].checked && country!='France') {
-                continue; // only French places are displayed in this mode
-            }
-            if(UX['place-filter'].value!='' && !place_selected(place_location(place))) {
-                continue; // only the places of the place filter are displayed
-            }
-
-            if(country==undefined) {
-                if(place['International']){ // Case of 'International:true' -> used like a country
-                    country = 'International';
-                }
-                else { // Should not happen
-                    console.log("Error sorting place for entry ", entry, place);
-                    continue;
-                }
-            }
-
-            if(country=='France') { // France is also sorted by zone of cities (ex. Villeurbanne -> Lyon)
-                const city = french_zone(String(place['City'] || '').trim());
-                if(city=='') {
-                    console.log("Error reading city for entry", entry);
-                    continue;
-                }
-                sorted_data['France'] = sorted_data['France'] || {};
-                sorted_data['France'][city] = sorted_data['France'][city] || [];
-                if(!sorted_data['France'][city].includes(entry)) {
-                    sorted_data['France'][city].push(entry);
-                }
-            }
-            else {
-                sorted_data[country] = sorted_data[country] || [];
-                if(!sorted_data[country].includes(entry)) { // no duplicate in a country
-                    sorted_data[country].push(entry);
-                }
-            }
-        }
-    }
-
-    return sorted_data;
-}
-
-
 
 // ---------------------------------------------------------------------------
 // Filtering
@@ -834,7 +618,6 @@ function match_filters(k, search_words, skip_domain) {
     }
     const sizes = Global['selected']['size'];
     if(skip_domain!='size' && sizes.size>0 && !sizes.has(Global['size-class'][k])) return false;
-    if(UX['france-only'].checked && !Global['in-france'][k]) return false;
     if(UX['jobs-only'].checked && !Global['has-jobs'][k]) return false;
     if(UX['place-filter'].value!='' && !Global['places'][k].some(place_selected)) return false;
     return search_words.every((w) => Global['search-text'][k].includes(w));
@@ -900,9 +683,6 @@ function update_display() {
         display_graph(data_to_display);
     }
     else {
-        if(UX['sorting']['place'].checked){
-            data_to_display = sort_by_place(data_to_display);
-        }
         listing_element.innerHTML = display_company(data_to_display, N_displayed);
     }
     update_filter_state();
@@ -986,9 +766,6 @@ function update_filter_state() {
         pills.push({'type':'size', 'keyword':c['key'], 'text':`Taille : ${c['text']}`, 'join':first_size ? '' : 'ou'});
         first_size = false;
     }
-    if(UX['france-only'].checked) {
-        pills.push({'type':'france-only', 'text':'France uniquement'});
-    }
     if(UX['jobs-only'].checked) {
         pills.push({'type':'jobs-only', 'text':"Avec offres d'emploi"});
     }
@@ -1021,7 +798,7 @@ function remove_filter(pill) {
     if(type=='search') {
         UX['search'].value = '';
     }
-    else if(type=='france-only' || type=='jobs-only') {
+    else if(type=='jobs-only') {
         UX[type].checked = false;
     }
     else if(type=='place-filter') {
@@ -1035,7 +812,6 @@ function remove_filter(pill) {
 
 function reset_all_filters() {
     UX['search'].value = '';
-    UX['france-only'].checked = false;
     UX['jobs-only'].checked = false;
     UX['place-filter'].value = '';
     Global['selected']['scientific'].clear();
@@ -1150,7 +926,7 @@ UX['search'].addEventListener('search', () => { // clear button of the search fi
     update_display();
 });
 
-for(const element of [UX['sorting']['list'], UX['sorting']['alphabetical'], UX['sorting']['place'], UX['sorting']['graph'], UX['details'], UX['france-only'], UX['jobs-only'], UX['place-filter']]) {
+for(const element of [UX['sorting']['list'], UX['sorting']['graph'], UX['details'], UX['jobs-only'], UX['place-filter']]) {
     element.addEventListener('change', update_display);
 }
 
@@ -1212,12 +988,6 @@ listing_element.addEventListener('click', (event) => {
         show_in_graph(+goto_graph.dataset.k);
         return;
     }
-    const place_link = event.target.closest('.place-link');
-    if(place_link) {
-        event.preventDefault();
-        jump_to_place(place_link);
-        return;
-    }
     const tag = event.target.closest('.tag[data-keyword]');
     if(tag) {
         filter_on_tag(tag);
@@ -1250,11 +1020,6 @@ function company_search_text(entry, explanations) {
     return search_str(txt);
 }
 
-function company_in_france(entry) {
-    const places = get_list_places_exhaustive(get_list_places(entry['Place']));
-    return places.some((p) => p['Country']=='France');
-}
-
 function keyword_explanations(data) {
     const explanations = {};
     for(const domain of ['Scientific-domain', 'Application-domain']) {
@@ -1276,7 +1041,6 @@ function answer(data) {
 
     const explanations = keyword_explanations(data);
     Global['search-text'] = data['Listing'].map((entry) => company_search_text(entry, explanations));
-    Global['in-france'] = data['Listing'].map(company_in_france);
     Global['has-jobs'] = data['Listing'].map((entry) => get_string(entry['Jobs'])!='');
     Global['size-class'] = data['Listing'].map(size_class);
     Global['places'] = data['Listing'].map((entry) => get_list_places_exhaustive(get_list_places(entry['Place'])).map(place_location));
@@ -1366,7 +1130,6 @@ function scroll_to(element) {
 // The card of a company in the alphabetical list, briefly highlighted
 function show_card(k) {
     UX['sorting']['list'].checked = true;
-    UX['sorting']['alphabetical'].checked = true;
     update_display();
     const card_id = company_data['Listing'][k]['Name'].replace(/[^A-Z0-9]/ig, '_');
     if(document.getElementById(card_id)==null) reset_all_filters(); // the filters hide this company

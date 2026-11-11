@@ -147,13 +147,6 @@ a:hover { text-decoration: underline; text-decoration-thickness: 2px; text-under
 .sorting_input input:checked + label { background: white; font-weight: 700; box-shadow: var(--shadow-sm), 0 0 0 1px rgba(29, 42, 0, 0.18); }
 
 /* Tri de la liste : secondaire, visible seulement dans la vue Liste */
-.order_input { display: inline-flex; align-items: center; gap: 2px; font-size: 0.82rem; }
-.order_input:has(input:focus-visible) { outline: 3px solid var(--ink); outline-offset: 2px; border-radius: 999px; }
-.order_input input { position: absolute; opacity: 0; width: 1px; height: 1px; }
-.order-label { color: var(--ink-2); font-weight: 600; margin-right: 0.3rem; }
-.order_input label { padding: 0.2rem 0.65rem; border-radius: 999px; cursor: pointer; color: var(--ink); font-weight: 600; }
-.order_input label:hover { background: rgba(255, 255, 255, 0.35); }
-.order_input input:checked + label { background: rgba(255, 255, 255, 0.7); box-shadow: inset 0 0 0 1px rgba(29, 42, 0, 0.25); }
 .view-graph .order_input { display: none; }
 
 /* Cases a cocher en puces (la case reste native, donc accessible) */
@@ -454,90 +447,6 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 .company-compact .jobs-link:hover { background: none; color: var(--afig-800); text-decoration: underline; text-underline-offset: 3px; }
 
 /* ======================================================================
-   Vue par localite
-   ====================================================================== */
-.place-index {
-    margin: 0 0 1.75rem; padding: 0.4rem 1.25rem;
-    background: var(--afig-50); border: 1px solid var(--afig-100); border-radius: var(--radius);
-}
-.place-index > details { display: grid; gap: 0.75rem; }
-.place-index > details[open] { padding-bottom: 0.85rem; }
-.place-index > details > summary {
-    display: flex; align-items: center; gap: 0.6rem; min-height: 40px; cursor: pointer;
-    font-weight: 700; font-size: 0.9rem; color: var(--afig-800); list-style: none;
-}
-.place-index > details > summary::-webkit-details-marker { display: none; }
-.place-index > details > summary::after {
-    content: ""; margin-left: auto; width: 0.55rem; height: 0.55rem;
-    border-right: 2px solid currentColor; border-bottom: 2px solid currentColor;
-    transform: rotate(45deg) translateY(-2px); transition: transform var(--ease);
-}
-.place-index > details[open] > summary::after { transform: rotate(-135deg) translateY(-2px); }
-.place-index-total { font-weight: 400; font-size: 0.8rem; color: var(--muted); }
-.place-index-row + .place-index-row { margin-top: 0.75rem; }
-.place-index-row { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); gap: 0.5rem 1rem; align-items: start; }
-.place-index-label {
-    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
-    color: var(--afig-800); padding-top: 0.4rem;
-}
-.place-index-links { display: flex; flex-wrap: wrap; gap: 6px; }
-.place-link {
-    display: inline-flex; align-items: center; gap: 0.4rem; min-height: 30px;
-    padding: 0 0.3rem 0 0.7rem; border-radius: 999px;
-    background: white; border: 1px solid var(--line-2); color: var(--text);
-    font-size: 0.8rem; font-weight: 600;
-    transition: border-color var(--ease), color var(--ease);
-}
-.place-index-regions { display: grid; gap: 0.5rem; }
-.place-index-region { display: grid; grid-template-columns: 12.5rem minmax(0, 1fr); gap: 6px 0.75rem; align-items: start; }
-.place-link-region { justify-self: start; font-weight: 800; color: var(--afig-800); border-color: var(--afig-200, var(--line-2)); }
-.place-more { display: flex; flex-wrap: wrap; gap: 6px; }
-.place-more[open] { flex-basis: 100%; }
-.place-more summary {
-    display: inline-flex; align-items: center; min-height: 30px; padding: 0 0.7rem; border-radius: 999px;
-    border: 1px dashed var(--line-2); color: var(--muted); font-size: 0.78rem; font-weight: 600;
-    cursor: pointer; list-style: none;
-}
-.place-more summary::-webkit-details-marker { display: none; }
-.place-more summary:hover { border-color: var(--afig-600); color: var(--afig-800); }
-.place-more[open] summary { border-style: solid; color: var(--afig-800); }
-.place-more > .place-index-links { flex-basis: 100%; }
-.place-link:hover { border-color: var(--afig-600); color: var(--afig-800); text-decoration: none; }
-.place-link-count {
-    display: inline-flex; align-items: center; min-width: 1.5rem; height: 1.3rem; justify-content: center;
-    padding: 0 0.35rem; border-radius: 999px; background: var(--afig-100); color: var(--afig-800);
-    font-size: 0.7rem; font-weight: 700; font-variant-numeric: tabular-nums;
-}
-
-.title-place {
-    display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.3rem 0.75rem;
-    font-family: var(--font-title); font-weight: 800; font-size: 1.6rem;
-    font-variant-numeric: lining-nums; letter-spacing: -0.01em; color: var(--text);
-    margin: 2.75rem 0 0.25rem; padding: 0 0.25rem 0.55rem;
-    border-bottom: 3px solid var(--afig);
-}
-.place-index + .title-place { margin-top: 0; }
-.place-count { font-family: var(--font); font-weight: 400; font-size: 0.85rem; color: var(--muted); letter-spacing: 0; }
-.title-region {
-    font-size: 1.3rem; font-weight: 800; color: var(--text);
-    margin: 2.25rem 0 0.2rem; padding: 0 0.25rem 0.45rem; border-bottom: 1px solid var(--line-2);
-}
-.container-place > .title-region:first-child { margin-top: 1rem; }
-.title-region .zone-cities, .title-city .zone-cities { font-family: var(--font); font-weight: 400; font-size: 0.85rem; color: var(--muted); letter-spacing: 0; }
-.title-region .zone-cities::before { content: '· '; }
-.title-others { color: var(--muted); }
-.title-city {
-    font-size: 1.15rem; font-weight: 700; color: var(--afig-800);
-    margin: 1.75rem 0 0.4rem; padding: 0 0.25rem 0.4rem; border-bottom: 0; align-items: center;
-}
-.title-city .zone-cities { font-family: var(--font); font-weight: 400; font-size: 0.85rem; color: var(--muted); letter-spacing: 0; }
-.title-city .zone-cities::before { content: '· '; }
-.title-city .place-count {
-    padding: 1px 9px; border-radius: 999px; background: var(--afig-100);
-    color: var(--afig-800); font-size: 0.72rem; font-weight: 700;
-}
-
-/* ======================================================================
    Vue carte (Leaflet, chargee a la demande)
    ====================================================================== */
 .view-graph .tag-legend { display: none; }
@@ -713,14 +622,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     .content { margin-top: 0.6rem; }
     .description { font-size: 0.95rem; }
     .listing-head { margin-top: 1.1rem; }
-    .place-index { padding: 0.25rem 0.85rem; }
     .scientific-domain + .application-domain .tag:first-of-type { margin-left: 0; }
-    .place-index-row { grid-template-columns: 1fr; gap: 0.4rem; }
-    .place-index-label { padding-top: 0; }
-    .place-index-region { grid-template-columns: 1fr; }
-    .title-place { font-size: 1.35rem; margin-top: 2rem; }
-    .title-region { font-size: 1.15rem; margin-top: 1.75rem; }
-    .title-city { font-size: 1.02rem; margin-top: 1.25rem; }
 }
 @media (max-width: 760px) {
 }
@@ -734,7 +636,7 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 }
 @media print {
     body { max-width: none; }
-    .toolbar, .jobs, .skip-link, .place-index, .tag-legend, .shortcuts { display: none; }
+    .toolbar, .jobs, .skip-link, .tag-legend, .shortcuts { display: none; }
     .company { break-inside: avoid; }
 }
 
