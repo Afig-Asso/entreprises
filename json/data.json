@@ -95,6 +95,10 @@
             51.2254,
             6.7763
         ],
+        "Allemagne/Fribourg-en-Brisgau": [
+            47.9961,
+            7.8494
+        ],
         "Allemagne/Hamburg": [
             53.5502,
             10.0013
@@ -1183,6 +1187,10 @@
             12.9768,
             77.5901
         ],
+        "Inde/Mumbai": [
+            19.055,
+            72.8692
+        ],
         "Irlande/Dublin": [
             53.3494,
             -6.2606
@@ -1194,6 +1202,10 @@
         "Irlande/Kilkenny": [
             52.6506,
             -7.2514
+        ],
+        "Isra\u00ebl/Tel-Aviv": [
+            32.0853,
+            34.7818
         ],
         "Japon/Saitama": [
             35.8617,
@@ -1435,9 +1447,17 @@
             33.917,
             -118.4156
         ],
+        "\u00c9tats-Unis/Emeryville": [
+            37.8314,
+            -122.2865
+        ],
         "\u00c9tats-Unis/Florida": [
             27.7568,
             -81.464
+        ],
+        "\u00c9tats-Unis/Foster City": [
+            37.56,
+            -122.2689
         ],
         "\u00c9tats-Unis/Glendale": [
             34.1469,
@@ -1446,6 +1466,10 @@
         "\u00c9tats-Unis/Hawthorne": [
             33.9128,
             -118.3426
+        ],
+        "\u00c9tats-Unis/Hayward": [
+            37.6688,
+            -122.0808
         ],
         "\u00c9tats-Unis/Irvine": [
             33.6857,
@@ -1458,6 +1482,10 @@
         "\u00c9tats-Unis/Long Beach": [
             33.769,
             -118.1916
+        ],
+        "\u00c9tats-Unis/Los Altos": [
+            37.3791,
+            -122.1166
         ],
         "\u00c9tats-Unis/Los Angeles": [
             34.0537,
@@ -1491,6 +1519,10 @@
             33.617,
             -117.9294
         ],
+        "\u00c9tats-Unis/Novato": [
+            38.1062,
+            -122.5681
+        ],
         "\u00c9tats-Unis/Orange": [
             33.7879,
             -117.8531
@@ -1498,6 +1530,10 @@
         "\u00c9tats-Unis/Orlando": [
             28.5421,
             -81.379
+        ],
+        "\u00c9tats-Unis/Palo Alto": [
+            37.4443,
+            -122.1598
         ],
         "\u00c9tats-Unis/Pasadena": [
             34.1477,
@@ -1511,6 +1547,14 @@
             47.6694,
             -122.1239
         ],
+        "\u00c9tats-Unis/Redwood City": [
+            37.4863,
+            -122.2325
+        ],
+        "\u00c9tats-Unis/San Carlos": [
+            37.5049,
+            -122.2618
+        ],
         "\u00c9tats-Unis/San Francisco": [
             37.7879,
             -122.4075
@@ -1518,6 +1562,10 @@
         "\u00c9tats-Unis/San Jose": [
             37.3362,
             -121.8906
+        ],
+        "\u00c9tats-Unis/San Leandro": [
+            37.7249,
+            -122.1561
         ],
         "\u00c9tats-Unis/San Mateo": [
             37.563,
@@ -1538,6 +1586,10 @@
         "\u00c9tats-Unis/South Pasadena": [
             34.1133,
             -118.1478
+        ],
+        "\u00c9tats-Unis/Sunnyvale": [
+            37.3688,
+            -122.0363
         ],
         "\u00c9tats-Unis/Torrance": [
             33.8371,
@@ -1972,7 +2024,13 @@
             "Description": "\u00c9diteur de logiciels de cr\u00e9ation (Photoshop, Illustrator, Premiere, Substance 3D) et de documents (Acrobat), int\u00e9grant l'IA g\u00e9n\u00e9rative Firefly.",
             "Place": [
                 {
-                    "Country": "\u00c9tats-Unis"
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Jose",
+                    "Coordinates": [
+                        37.32863,
+                        -121.89698
+                    ],
+                    "Address": "345 Park Avenue, San Jose, CA 95110"
                 },
                 {
                     "Country": "Canada"
@@ -2233,7 +2291,13 @@
             "Jobs": "https://careers.amd.com/careers-home/jobs",
             "Place": [
                 {
-                    "Country": "\u00c9tats-Unis"
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Clara",
+                    "Coordinates": [
+                        37.38231,
+                        -121.97178
+                    ],
+                    "Address": "2485 Augustine Drive, Santa Clara, CA 95054"
                 },
                 {
                     "Country": "Canada",
@@ -2545,6 +2609,15 @@
                         "Montr\u00e9al",
                         "Toronto"
                     ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.79441,
+                        -122.39469
+                    ],
+                    "Address": "One Market Plaza, Spear Tower, San Francisco, CA 94105"
                 },
                 {
                     "International": true
@@ -6624,6 +6697,15 @@
                     ]
                 },
                 {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Novato",
+                    "Coordinates": [
+                        38.05679,
+                        -122.51196
+                    ],
+                    "Address": "10 Hamilton Landing, Novato, CA 94949"
+                },
+                {
                     "International": true
                 }
             ],
@@ -7181,7 +7263,13 @@
             "Jobs": "https://unity.com/careers",
             "Place": [
                 {
-                    "Country": "\u00c9tats-Unis"
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.78719,
+                        -122.40334
+                    ],
+                    "Address": "30 3rd Street, San Francisco, CA 94103"
                 },
                 {
                     "Country": "France",
@@ -24329,6 +24417,14 @@
                         -0.12563
                     ],
                     "Address": "230 York Way, London N7 9AG"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Sunnyvale",
+                    "Coordinates": [
+                        37.3688,
+                        -122.0363
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -26414,6 +26510,14 @@
                     "Coordinates": [
                         51.5074,
                         -0.1278
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7879,
+                        -122.4075
                     ]
                 }
             ],
@@ -32325,6 +32429,15 @@
                         -118.78247
                     ],
                     "Address": "30301 Agoura Rd., Agoura Hills, CA 91301"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Novato",
+                    "Coordinates": [
+                        38.05679,
+                        -122.51196
+                    ],
+                    "Address": "Hamilton Landing, Novato, CA 94949"
                 }
             ],
             "Scientific-domain": [
@@ -32390,6 +32503,14 @@
                         -118.37779
                     ],
                     "Address": "3562 Eastham Dr., Culver City, CA 90232"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7879,
+                        -122.4075
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -33156,6 +33277,22 @@
                         -118.40732
                     ],
                     "Address": "12130 Millennium Drive, Suite 300, Playa Vista, Los Angeles, CA 90094"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7879,
+                        -122.4075
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Palo Alto",
+                    "Coordinates": [
+                        37.4419,
+                        -122.143
+                    ]
                 }
             ],
             "Scientific-domain": [
@@ -38047,6 +38184,1838 @@
                 "gestion de casques",
                 "XR entreprise",
                 "serious game"
+            ]
+        },
+        {
+            "Name": "Pixar",
+            "Name-long": "Pixar Animation Studios",
+            "url": "https://www.pixar.com/",
+            "Description": "Studio de longs m\u00e9trages d'animation 3D (groupe Disney) fond\u00e9 en 1986, \u00e9diteur du moteur de rendu RenderMan et \u00e0 l'origine d'OpenUSD, dont les films r\u00e9cents sont Elio (2025), Hoppers et Toy Story 5 (2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Emeryville",
+                    "Coordinates": [
+                        37.83191,
+                        -122.28272
+                    ],
+                    "Address": "1200 Park Avenue, Emeryville, CA 94608"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu offline/VFX",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://pixar.wd501.myworkdayjobs.com/Pixar_External_Career_Site",
+            "Employees": 1100,
+            "Keywords": [
+                "long m\u00e9trage d'animation",
+                "RenderMan",
+                "OpenUSD",
+                "animation 3D",
+                "R&D graphique"
+            ]
+        },
+        {
+            "Name": "Industrial Light & Magic",
+            "Name-long": "Industrial Light & Magic (ILM)",
+            "url": "https://www.ilm.com/",
+            "Description": "Studio d'effets visuels fond\u00e9 en 1975 par George Lucas (groupe Lucasfilm/Disney), pionnier de l'image de synth\u00e8se et de la production virtuelle StageCraft (Emmy technique en 2026), dont le si\u00e8ge est au Letterman Digital Arts Center du Presidio et qui a travaill\u00e9 sur les dix films pr\u00e9s\u00e9lectionn\u00e9s aux Oscars des effets visuels 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.79796,
+                        -122.44951
+                    ],
+                    "Address": "Letterman Digital Arts Center, 1 Letterman Drive, Presidio, San Francisco, CA 94129"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Vancouver"
+                },
+                {
+                    "Country": "Royaume-Uni",
+                    "City": "Londres"
+                },
+                {
+                    "Country": "Australie",
+                    "City": "Sydney"
+                },
+                {
+                    "Country": "Inde",
+                    "City": "Mumbai"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://join.disneycareers.com/global/en/industrial-light-magic",
+            "Keywords": [
+                "effets visuels",
+                "production virtuelle",
+                "StageCraft",
+                "Star Wars",
+                "simulation"
+            ]
+        },
+        {
+            "Name": "Baobab Studios",
+            "url": "https://www.baobabstudios.com/",
+            "Description": "Studio d'animation ind\u00e9pendant fond\u00e9 en 2015 par des anciens de DreamWorks, Pixar et Zynga, prim\u00e9 par une dizaine d'Emmy pour ses r\u00e9cits interactifs en r\u00e9alit\u00e9 virtuelle (Crow: The Legend, Baba Yaga) et qui d\u00e9veloppe des s\u00e9ries et adaptations anim\u00e9es (The Witchverse pour Disney+, Momoguro, jeux Roblox rachet\u00e9s en 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redwood City",
+                    "Coordinates": [
+                        37.4852,
+                        -122.2364
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Employees": 30,
+            "Keywords": [
+                "animation 3D",
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9cit interactif",
+                "s\u00e9ries d'animation"
+            ]
+        },
+        {
+            "Name": "PhaseSpace",
+            "Name-long": "PhaseSpace Inc.",
+            "url": "https://www.phasespace.com/",
+            "Description": "Concepteur et fabricant de syst\u00e8mes optiques de capture de mouvement \u00e0 marqueurs LED actifs (Impulse X2E, jusqu'\u00e0 960 images par seconde, utilisable en ext\u00e9rieur) employ\u00e9s en production virtuelle, en recherche, en robotique et dans la d\u00e9fense.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Leandro",
+                    "Coordinates": [
+                        37.69261,
+                        -122.17157
+                    ],
+                    "Address": "14709 Catalina St, San Leandro, CA 94577"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Robotique/Syst\u00e8mes autonomes",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Keywords": [
+                "capture de mouvement",
+                "LED actives",
+                "mocap optique",
+                "temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Electronic Arts",
+            "url": "https://www.ea.com/",
+            "Description": "\u00c9diteur et d\u00e9veloppeur am\u00e9ricain de jeux vid\u00e9o (EA Sports FC, Madden NFL, Battlefield 6, Les Sims, Apex Legends), dont le si\u00e8ge de Redwood City accueille aussi le studio Maxis ; la soci\u00e9t\u00e9 a \u00e9t\u00e9 rachet\u00e9e par un consortium men\u00e9 par le PIF saoudien en ao\u00fbt 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Redwood City",
+                    "Coordinates": [
+                        37.51938,
+                        -122.25238
+                    ],
+                    "Address": "209 Redwood Shores Parkway, Redwood City, CA 94065"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://jobs.ea.com/",
+            "Employees": 14000,
+            "Keywords": [
+                "jeu vid\u00e9o AAA",
+                "moteur Frostbite",
+                "jeux de sport",
+                "\u00e9diteur"
+            ]
+        },
+        {
+            "Name": "Sony Interactive Entertainment",
+            "url": "https://sonyinteractive.com/",
+            "Description": "Filiale jeu vid\u00e9o de Sony, constructeur des consoles PlayStation 5 et \u00e9diteur des PlayStation Studios (Ghost of Y\u014dtei, Astro Bot, Marathon), dont le si\u00e8ge mondial est \u00e0 San Mateo.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Mateo",
+                    "Coordinates": [
+                        37.56207,
+                        -122.28228
+                    ],
+                    "Address": "2207 Bridgepointe Pkwy, San Mateo, CA 94404"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Hardware",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://www.playstation.com/en-us/corporate/playstation-careers/",
+            "Employees": 1500,
+            "Keywords": [
+                "PlayStation",
+                "console",
+                "plateforme de jeu",
+                "PlayStation VR2"
+            ]
+        },
+        {
+            "Name": "Cloud Chamber",
+            "url": "https://www.cloudchamberstudios.com/",
+            "Description": "Studio de 2K (Take-Two) qui d\u00e9veloppe le prochain BioShock, implant\u00e9 \u00e0 Novato et \u00e0 Montr\u00e9al avec une \u00e9quipe \u00e0 distance en Am\u00e9rique du Nord.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Novato",
+                    "Coordinates": [
+                        38.05679,
+                        -122.51196
+                    ],
+                    "Address": "Hamilton Landing, Novato, CA 94949"
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Montr\u00e9al"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://boards.greenhouse.io/2k",
+            "Employees": 200,
+            "Keywords": [
+                "BioShock",
+                "jeu AAA",
+                "Unreal Engine",
+                "2K"
+            ]
+        },
+        {
+            "Name": "31st Union",
+            "url": "https://thirtyfirstunion.com/",
+            "Description": "Studio de 2K (Take-Two) fond\u00e9 en 2019 \u00e0 San Mateo par Michael Condrey, qui d\u00e9veloppe le jeu de tir multijoueur Project ETHOS.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Mateo",
+                    "Coordinates": [
+                        37.56299,
+                        -122.32553
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://boards.greenhouse.io/2k",
+            "Employees": 150,
+            "Keywords": [
+                "jeu de tir",
+                "multijoueur",
+                "Unreal Engine",
+                "2K"
+            ]
+        },
+        {
+            "Name": "Zynga",
+            "url": "https://www.zynga.com/",
+            "Description": "\u00c9diteur de jeux mobiles et sociaux (Words With Friends, Zynga Poker, FarmVille 3, CSR Racing 2, Match Factory), filiale de Take-Two depuis 2022, dont le si\u00e8ge est \u00e0 San Mateo.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Mateo",
+                    "Coordinates": [
+                        37.56299,
+                        -122.32553
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.zynga.com/careers/",
+            "Employees": 500,
+            "Keywords": [
+                "jeux mobiles",
+                "jeux sociaux",
+                "free-to-play"
+            ]
+        },
+        {
+            "Name": "Crystal Dynamics",
+            "url": "https://www.crystald.com/",
+            "Description": "Studio de jeux AAA de la baie de San Francisco (Tomb Raider, Legacy of Kain), filiale du groupe Embracer, qui pr\u00e9pare Tomb Raider: Legacy of Atlantis (remake sous Unreal Engine 5 pr\u00e9vu en f\u00e9vrier 2027) et Tomb Raider: Catalyst.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Carlos",
+                    "Coordinates": [
+                        37.5072,
+                        -122.2605
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.crystald.com/careers/",
+            "Employees": 200,
+            "Keywords": [
+                "Tomb Raider",
+                "jeu AAA",
+                "Unreal Engine 5",
+                "Embracer"
+            ]
+        },
+        {
+            "Name": "Sledgehammer Games",
+            "url": "https://www.sledgehammergames.com/",
+            "Description": "Studio d'Activision (Microsoft) fond\u00e9 en 2009, cod\u00e9veloppeur de la s\u00e9rie Call of Duty (Modern Warfare III, Black Ops 7), qui a install\u00e9 son nouveau si\u00e8ge \u00e0 San Francisco en juin 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7793,
+                        -122.4193
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.sledgehammergames.com/",
+            "Employees": 300,
+            "Keywords": [
+                "Call of Duty",
+                "jeu de tir",
+                "jeu AAA",
+                "Activision"
+            ]
+        },
+        {
+            "Name": "Double Fine",
+            "url": "https://www.doublefine.com/",
+            "Description": "Studio ind\u00e9pendant de San Francisco fond\u00e9 par Tim Schafer (Psychonauts 2, Br\u00fctal Legend, Keeper), redevenu ind\u00e9pendant de Xbox Game Studios en juillet 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7793,
+                        -122.4193
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.doublefine.com/jobs",
+            "Employees": 70,
+            "Keywords": [
+                "jeu d'aventure",
+                "Psychonauts",
+                "studio ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Toys for Bob",
+            "url": "https://toysforbob.com/",
+            "Description": "Studio de Novato fond\u00e9 en 1989 (Skylanders, Spyro Reignited Trilogy, Crash Bandicoot 4), ind\u00e9pendant d'Activision depuis 2024, qui d\u00e9veloppe Spyro: A Realm Beyond annonc\u00e9 \u00e0 l'Xbox Games Showcase de juin 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Novato",
+                    "Coordinates": [
+                        38.1074,
+                        -122.5697
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://toysforbob.com/",
+            "Employees": 50,
+            "Keywords": [
+                "Spyro",
+                "jeu de plateforme",
+                "studio ind\u00e9pendant"
+            ]
+        },
+        {
+            "Name": "Linden Lab",
+            "url": "https://lindenlab.com/",
+            "Description": "\u00c9diteur du monde virtuel 3D Second Life, cr\u00e9\u00e9 en 1999 \u00e0 San Francisco, qui d\u00e9veloppe aussi un client mobile et un nouveau moteur de rendu pour la plateforme.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.79994,
+                        -122.4014
+                    ],
+                    "Address": "Battery Street, San Francisco, CA 94111"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Web/Cloud/Big Data",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://lindenlab.com/careers",
+            "Employees": 150,
+            "Keywords": [
+                "Second Life",
+                "monde virtuel",
+                "m\u00e9tavers"
+            ]
+        },
+        {
+            "Name": "Pocket Gems",
+            "url": "https://www.pocketgems.com/",
+            "Description": "Studio de jeux mobiles de San Francisco fond\u00e9 en 2009, \u00e9diteur du jeu de strat\u00e9gie 3D War Dragons (moteur maison Mantis) et de la plateforme d'histoires interactives Episode.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7793,
+                        -122.4193
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.pocketgems.com/",
+            "Employees": 200,
+            "Keywords": [
+                "jeux mobiles",
+                "War Dragons",
+                "Episode",
+                "moteur maison"
+            ]
+        },
+        {
+            "Name": "Supergiant Games",
+            "url": "https://www.supergiantgames.com/",
+            "Description": "Studio ind\u00e9pendant de San Francisco fond\u00e9 en 2009, auteur de Bastion, Transistor, Pyre, Hades et Hades II (2025), connu pour sa direction artistique dessin\u00e9e \u00e0 la main.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7793,
+                        -122.4193
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.supergiantgames.com/",
+            "Employees": 25,
+            "Keywords": [
+                "Hades",
+                "jeu ind\u00e9pendant",
+                "direction artistique"
+            ]
+        },
+        {
+            "Name": "Digital Eclipse",
+            "url": "https://digitaleclipse.com/",
+            "Description": "Studio d'Emeryville fond\u00e9 en 1992, filiale d'Atari depuis 2023, sp\u00e9cialis\u00e9 dans la restauration et la r\u00e9\u00e9dition interactive de jeux classiques (Atari 50, The Making of Karateka, Tetris Forever, Mortal Kombat: Legacy Kollection, Rayman 30th Anniversary Edition).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Emeryville",
+                    "Coordinates": [
+                        37.8313,
+                        -122.2852
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Patrimoine/Culture"
+            ],
+            "Jobs": "https://digitaleclipse.com/",
+            "Employees": 50,
+            "Keywords": [
+                "r\u00e9trogaming",
+                "\u00e9mulation",
+                "pr\u00e9servation du jeu vid\u00e9o",
+                "Atari"
+            ]
+        },
+        {
+            "Name": "Ares Interactive",
+            "url": "https://www.aresinteractive.com/",
+            "Description": "D\u00e9veloppeur et \u00e9diteur de jeux mobiles free-to-play fond\u00e9 en 2024 par des v\u00e9t\u00e9rans du secteur, dont le studio 7th Inning \u00e0 San Francisco r\u00e9alise Baseball Hits 26 et le studio Swift Games \u00e0 Berlin Heroes vs. Hordes et The Walking Dead: Aftermath (juillet 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7793,
+                        -122.4193
+                    ]
+                },
+                {
+                    "Country": "Allemagne",
+                    "City": "Berlin"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.aresinteractive.com/careers",
+            "Employees": 60,
+            "Keywords": [
+                "jeux mobiles",
+                "free-to-play",
+                "jeux de sport",
+                "7th Inning"
+            ]
+        },
+        {
+            "Name": "OpenAI",
+            "url": "https://openai.com/",
+            "Description": "Laboratoire et \u00e9diteur d'IA de San Francisco (ChatGPT) dont les \u00e9quipes d\u00e9veloppent aussi des mod\u00e8les g\u00e9n\u00e9ratifs d'images et de vid\u00e9os (GPT Image, Sora 2).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.77151,
+                        -122.3895
+                    ],
+                    "Address": "1455 Third Street, San Francisco, CA 94158"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://openai.com/careers/",
+            "Employees": 4500,
+            "Keywords": [
+                "IA g\u00e9n\u00e9rative",
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "g\u00e9n\u00e9ration d'images",
+                "mod\u00e8les de diffusion"
+            ]
+        },
+        {
+            "Name": "Figma",
+            "url": "https://www.figma.com/",
+            "Description": "\u00c9diteur de San Francisco de l'outil collaboratif de conception d'interfaces et de graphisme vectoriel Figma (Figma Design, FigJam, Figma Slides, Figma Make), dont le moteur de rendu s'ex\u00e9cute dans le navigateur sur le GPU.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.78647,
+                        -122.40525
+                    ],
+                    "Address": "760 Market St, Floor 10, San Francisco, CA 94102"
+                }
+            ],
+            "Scientific-domain": [
+                "IHM/Haptique",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Art/Evenementiel"
+            ],
+            "Jobs": "https://www.figma.com/careers/",
+            "Keywords": [
+                "outil de conception",
+                "graphisme vectoriel",
+                "rendu GPU dans le navigateur",
+                "collaboratif"
+            ]
+        },
+        {
+            "Name": "Midjourney",
+            "url": "https://www.midjourney.com/",
+            "Description": "Laboratoire ind\u00e9pendant de San Francisco qui d\u00e9veloppe le g\u00e9n\u00e9rateur d'images Midjourney (mod\u00e8le V7) et ses mod\u00e8les de g\u00e9n\u00e9ration vid\u00e9o.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/midjourney",
+            "Keywords": [
+                "g\u00e9n\u00e9ration d'images",
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "mod\u00e8les de diffusion",
+                "cr\u00e9ation artistique"
+            ]
+        },
+        {
+            "Name": "Luma AI",
+            "url": "https://lumalabs.ai/",
+            "Description": "Start-up de Palo Alto sp\u00e9cialis\u00e9e dans les mod\u00e8les g\u00e9n\u00e9ratifs de vid\u00e9o et de 3D (Dream Machine, mod\u00e8les Ray), issue de la capture 3D par NeRF et Gaussian splatting.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Palo Alto",
+                    "Coordinates": [
+                        37.44178,
+                        -122.1612
+                    ],
+                    "Address": "715 Alma Street, Palo Alto, CA 94301"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://lumalabs.ai/careers",
+            "Keywords": [
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "mod\u00e8les de monde",
+                "NeRF",
+                "Gaussian splatting"
+            ]
+        },
+        {
+            "Name": "Pika",
+            "url": "https://pika.art/",
+            "Description": "Start-up de Palo Alto (Mellis, Inc.) qui d\u00e9veloppe des mod\u00e8les et une application de g\u00e9n\u00e9ration et d'\u00e9dition de vid\u00e9os par IA.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Palo Alto",
+                    "Coordinates": [
+                        37.44135,
+                        -122.15892
+                    ],
+                    "Address": "849 High St, Palo Alto, CA 94301"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/pika",
+            "Keywords": [
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "mod\u00e8les de diffusion",
+                "\u00e9dition vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "World Labs",
+            "url": "https://www.worldlabs.ai/",
+            "Description": "Start-up de San Francisco cofond\u00e9e par Fei-Fei Li qui d\u00e9veloppe des mod\u00e8les de monde g\u00e9n\u00e9ratifs produisant des sc\u00e8nes 3D persistantes \u00e0 partir d'images, de vid\u00e9os ou de texte (Marble, World API, biblioth\u00e8que de Gaussian splatting Spark).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Reconstruction",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/worldlabs",
+            "Keywords": [
+                "mod\u00e8les de monde",
+                "g\u00e9n\u00e9ration 3D",
+                "Gaussian splatting",
+                "intelligence spatiale"
+            ]
+        },
+        {
+            "Name": "fal",
+            "url": "https://fal.ai/",
+            "Description": "Plateforme d'inf\u00e9rence de San Francisco (Features & Labels Inc.) d\u00e9di\u00e9e aux m\u00e9dias g\u00e9n\u00e9ratifs, qui h\u00e9berge et optimise sur GPU des centaines de mod\u00e8les de g\u00e9n\u00e9ration d'images, de vid\u00e9os et de 3D.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/fal-ai",
+            "Keywords": [
+                "m\u00e9dias g\u00e9n\u00e9ratifs",
+                "inf\u00e9rence GPU",
+                "API",
+                "g\u00e9n\u00e9ration de vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Krea",
+            "url": "https://www.krea.ai/",
+            "Description": "Start-up de San Francisco qui \u00e9dite une suite cr\u00e9ative de g\u00e9n\u00e9ration et d'am\u00e9lioration d'images et de vid\u00e9os par IA, en temps r\u00e9el, et entra\u00eene ses propres mod\u00e8les.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/krea",
+            "Keywords": [
+                "g\u00e9n\u00e9ration d'images",
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "temps r\u00e9el",
+                "outil cr\u00e9atif"
+            ]
+        },
+        {
+            "Name": "Genmo",
+            "url": "https://www.genmo.ai/",
+            "Description": "Laboratoire de San Francisco qui d\u00e9veloppe des mod\u00e8les ouverts de g\u00e9n\u00e9ration vid\u00e9o par diffusion (Mochi).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/genmo",
+            "Keywords": [
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "mod\u00e8les de diffusion",
+                "open source"
+            ]
+        },
+        {
+            "Name": "Hedra",
+            "url": "https://www.hedra.com/",
+            "Description": "Start-up de San Francisco qui d\u00e9veloppe des mod\u00e8les de g\u00e9n\u00e9ration vid\u00e9o de personnages anim\u00e9s et parlants (Character-3) et un studio de cr\u00e9ation vid\u00e9o par IA.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/hedra",
+            "Keywords": [
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "avatars",
+                "animation de personnages"
+            ]
+        },
+        {
+            "Name": "Tavus",
+            "url": "https://www.tavus.io/",
+            "Description": "Start-up de San Francisco qui d\u00e9veloppe des mod\u00e8les de g\u00e9n\u00e9ration vid\u00e9o de visages et d'humains num\u00e9riques conversationnels en temps r\u00e9el.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/tavus",
+            "Keywords": [
+                "humains num\u00e9riques",
+                "g\u00e9n\u00e9ration de vid\u00e9o",
+                "avatars temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Vizcom",
+            "url": "https://www.vizcom.ai/",
+            "Description": "Start-up de San Francisco qui \u00e9dite un outil d'IA g\u00e9n\u00e9rative pour le design industriel, transformant croquis en rendus r\u00e9alistes et en mod\u00e8les 3D.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.78156,
+                        -122.39564
+                    ],
+                    "Address": "488 Bryant St., San Francisco, CA 94107"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Design/Fabrication",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation",
+                "Mode/V\u00eatements/Accessoires"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/vizcom",
+            "Keywords": [
+                "design industriel",
+                "croquis vers rendu",
+                "g\u00e9n\u00e9ration 3D"
+            ]
+        },
+        {
+            "Name": "Bolt Graphics",
+            "url": "https://bolt.graphics/",
+            "Description": "Start-up de Sunnyvale qui con\u00e7oit Zeus, un processeur graphique ax\u00e9 sur le path tracing temps r\u00e9el et la simulation, pour le rendu de films, le jeu, l'architecture et le calcul haute performance.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Sunnyvale",
+                    "Coordinates": [
+                        37.39651,
+                        -122.03247
+                    ],
+                    "Address": "757 N Pastoria Ave, Sunnyvale, CA 94085"
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Rendu offline/VFX",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Jeu Vid\u00e9o",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "GPU",
+                "path tracing",
+                "puce graphique",
+                "calcul haute performance"
+            ]
+        },
+        {
+            "Name": "Intel",
+            "url": "https://www.intel.com/",
+            "Description": "Fabricant de semi-conducteurs dont le si\u00e8ge de Santa Clara accueille des \u00e9quipes de la division graphique (performance des GPU Arc/Xe, compilateur graphique Intel Graphics Compiler).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Clara",
+                    "Coordinates": [
+                        37.38866,
+                        -121.96494
+                    ],
+                    "Address": "2200 Mission College Blvd, Santa Clara, CA 95054"
+                }
+            ],
+            "Scientific-domain": [
+                "Hardware",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://jobs.intel.com/",
+            "Employees": 85100,
+            "Keywords": [
+                "GPU",
+                "processeurs graphiques",
+                "pilotes et compilateurs graphiques",
+                "semi-conducteurs"
+            ]
+        },
+        {
+            "Name": "Black Forest Labs",
+            "url": "https://bfl.ai/",
+            "Description": "Laboratoire d'IA g\u00e9n\u00e9rative (si\u00e8ge \u00e0 Fribourg-en-Brisgau) cr\u00e9\u00e9 par les auteurs de Stable Diffusion, qui d\u00e9veloppe les mod\u00e8les de g\u00e9n\u00e9ration d'images FLUX et dispose d'une \u00e9quipe \u00e0 San Francisco.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                },
+                {
+                    "Country": "Allemagne",
+                    "City": "Fribourg-en-Brisgau"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Art/Evenementiel"
+            ],
+            "Jobs": "https://job-boards.greenhouse.io/blackforestlabs",
+            "Keywords": [
+                "g\u00e9n\u00e9ration d'images",
+                "FLUX",
+                "mod\u00e8les ouverts",
+                "mod\u00e8les de diffusion"
+            ]
+        },
+        {
+            "Name": "Decart",
+            "url": "https://decart.ai/",
+            "Description": "Laboratoire d'IA de San Francisco et Tel-Aviv qui d\u00e9veloppe des mod\u00e8les g\u00e9n\u00e9ratifs vid\u00e9o temps r\u00e9el (Lucy, \u00e9dition vid\u00e9o en direct) et des mod\u00e8les de monde interactifs (Oasis).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                },
+                {
+                    "Country": "Isra\u00ebl",
+                    "City": "Tel-Aviv"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Jeu Vid\u00e9o",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Keywords": [
+                "g\u00e9n\u00e9ration de vid\u00e9o temps r\u00e9el",
+                "mod\u00e8les de monde",
+                "\u00e9dition vid\u00e9o en direct"
+            ]
+        },
+        {
+            "Name": "Pixelworks",
+            "url": "https://www.pixelworks.com/",
+            "Description": "\u00c9diteur de San Jose de processeurs vid\u00e9o et d'affichage et de la plateforme TrueCut Motion d'\u00e9talonnage du mouvement pour le cin\u00e9ma (adopt\u00e9e par Kinepolis, ODEON, Vue en 2026).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Jose",
+                    "Coordinates": [
+                        37.36915,
+                        -121.9225
+                    ],
+                    "Address": "226 Airport Pkwy, San Jose, CA 95110"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://www.pixelworks.com/",
+            "Keywords": [
+                "traitement vid\u00e9o",
+                "processeur d'affichage",
+                "TrueCut Motion",
+                "HDR"
+            ]
+        },
+        {
+            "Name": "Meshy",
+            "url": "https://www.meshy.ai/",
+            "Description": "\u00c9diteur d'un g\u00e9n\u00e9rateur de mod\u00e8les 3D textur\u00e9s par IA \u00e0 partir de texte ou d'images (Meshy), avec un bureau dans la baie \u00e0 Sunnyvale et des \u00e9quipes en Chine.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Sunnyvale",
+                    "Coordinates": [
+                        37.37806,
+                        -122.03105
+                    ],
+                    "Address": "Murphy Square, 111 West Evelyn Avenue, Suite 304, Sunnyvale, CA 94086"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/meshy",
+            "Keywords": [
+                "g\u00e9n\u00e9ration 3D",
+                "texte vers 3D",
+                "texturation par IA"
+            ]
+        },
+        {
+            "Name": "Comfy Org",
+            "url": "https://www.comfy.org/",
+            "Description": "Soci\u00e9t\u00e9 de San Francisco qui d\u00e9veloppe ComfyUI, l'interface open source par n\u0153uds de g\u00e9n\u00e9ration d'images et de vid\u00e9os par IA, et son offre Comfy Cloud.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                },
+                {
+                    "Country": "Canada",
+                    "City": "Qu\u00e9bec"
+                }
+            ],
+            "Scientific-domain": [
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Art/Evenementiel",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://jobs.ashbyhq.com/comfy-org",
+            "Employees": 65,
+            "Keywords": [
+                "ComfyUI",
+                "open source",
+                "flux de travail g\u00e9n\u00e9ratifs",
+                "outil cr\u00e9atif"
+            ]
+        },
+        {
+            "Name": "Rive",
+            "url": "https://rive.app/",
+            "Description": "\u00c9diteur, domicili\u00e9 \u00e0 San Francisco, de l'outil d'animation vectorielle interactive Rive et de ses runtimes, avec un moteur de rendu GPU open source (Rive Renderer) pour applications, sites et jeux.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique",
+                "Jeu Vid\u00e9o"
+            ],
+            "Employees": 45,
+            "Keywords": [
+                "animation vectorielle",
+                "animation interactive",
+                "moteur de rendu",
+                "runtime"
+            ]
+        },
+        {
+            "Name": "Waymo",
+            "url": "https://waymo.com/",
+            "Description": "Filiale d'Alphabet qui d\u00e9veloppe et exploite le Waymo Driver, syst\u00e8me de conduite autonome \u00e0 base de lidars, cam\u00e9ras et radars, avec un service de robotaxis commercial (San Francisco, Phoenix, Los Angeles...) et une forte activit\u00e9 de perception et de simulation (World Model, r\u00e9alisme de la simulation).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Mountain View",
+                    "Coordinates": [
+                        37.3861,
+                        -122.0839
+                    ]
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Simulation",
+                "Acquisition",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://careers.withwaymo.com/",
+            "Employees": 2500,
+            "Keywords": [
+                "conduite autonome",
+                "robotaxi",
+                "perception",
+                "lidar",
+                "simulation de capteurs"
+            ]
+        },
+        {
+            "Name": "Zoox",
+            "url": "https://zoox.com/",
+            "Description": "Filiale d'Amazon qui con\u00e7oit un robotaxi \u00e9lectrique bidirectionnel sans volant et sa pile de conduite autonome (perception, pr\u00e9diction, simulation 3D de capteurs), en service \u00e0 Las Vegas et San Francisco.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Foster City",
+                    "Coordinates": [
+                        37.5674,
+                        -122.27229
+                    ],
+                    "Address": "1149 Chess Drive, Foster City, CA 94404"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Simulation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://zoox.com/careers",
+            "Employees": 2200,
+            "Keywords": [
+                "conduite autonome",
+                "robotaxi",
+                "perception",
+                "simulation de capteurs"
+            ]
+        },
+        {
+            "Name": "Intuitive Surgical",
+            "url": "https://www.intuitive.com/",
+            "Description": "Fabricant du robot chirurgical da Vinci (et de la plateforme de bronchoscopie robotis\u00e9e Ion), avec vision st\u00e9r\u00e9oscopique 3D, imagerie perop\u00e9ratoire et simulateurs d'entra\u00eenement chirurgical.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Sunnyvale",
+                    "Coordinates": [
+                        37.37386,
+                        -122.00364
+                    ],
+                    "Address": "1020 Kifer Road, Sunnyvale, CA 94086"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Simulation",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 17000,
+            "Keywords": [
+                "robotique chirurgicale",
+                "da Vinci",
+                "vision 3D",
+                "simulateur chirurgical"
+            ]
+        },
+        {
+            "Name": "Applied Intuition",
+            "url": "https://www.appliedintuition.com/",
+            "Description": "\u00c9diteur de logiciels pour v\u00e9hicules autonomes et d\u00e9finis par logiciel : simulation de capteurs neuronale et physique, terrains d'essai num\u00e9riques, outils de validation, OS v\u00e9hicule et pile de conduite autonome, aussi pour la d\u00e9fense.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Sunnyvale",
+                    "Coordinates": [
+                        37.38341,
+                        -122.03901
+                    ],
+                    "Address": "860 W California Avenue, Sunnyvale, CA 94086"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Vision",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://www.appliedintuition.com/careers",
+            "Employees": 1000,
+            "Keywords": [
+                "simulation de capteurs",
+                "conduite autonome",
+                "jumeau num\u00e9rique",
+                "validation"
+            ]
+        },
+        {
+            "Name": "Skydio",
+            "url": "https://www.skydio.com/",
+            "Description": "Constructeur de drones autonomes (X10, Dock) guid\u00e9s par vision par ordinateur et cartographie 3D embarqu\u00e9e, pour l'inspection, la s\u00e9curit\u00e9 publique et la d\u00e9fense.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Mateo",
+                    "Coordinates": [
+                        37.53319,
+                        -122.3329
+                    ],
+                    "Address": "3000 Clearview Way, San Mateo, CA 94402"
+                },
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Hayward",
+                    "Coordinates": [
+                        37.6688,
+                        -122.0808
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Reconstruction",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "G\u00e9ospatial/Cartographie"
+            ],
+            "Jobs": "https://www.skydio.com/careers",
+            "Keywords": [
+                "drone autonome",
+                "vision embarqu\u00e9e",
+                "inspection",
+                "cartographie 3D"
+            ]
+        },
+        {
+            "Name": "Ambarella",
+            "url": "https://www.ambarella.com/",
+            "Description": "Concepteur de puces de vision par ordinateur et d'IA embarqu\u00e9e (SoC CVflow) pour cam\u00e9ras de s\u00e9curit\u00e9, automobile (ADAS, conduite autonome) et robotique.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Santa Clara",
+                    "Coordinates": [
+                        37.40351,
+                        -121.98658
+                    ],
+                    "Address": "3001 Tasman Drive, Santa Clara, CA 95054"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Hardware",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 915,
+            "Keywords": [
+                "puces de vision",
+                "IA embarqu\u00e9e",
+                "traitement d'image",
+                "ADAS"
+            ]
+        },
+        {
+            "Name": "Matterport",
+            "url": "https://matterport.com/",
+            "Description": "Plateforme de capture de la r\u00e9alit\u00e9 et de jumeaux num\u00e9riques d'int\u00e9rieurs (cam\u00e9ras Pro3, capture par smartphone, IA de reconstruction 3D), filiale de CoStar Group.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Sunnyvale",
+                    "Coordinates": [
+                        37.3688,
+                        -122.0363
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Acquisition",
+                "Vision",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://matterport.com/careers",
+            "Employees": 455,
+            "Keywords": [
+                "jumeau num\u00e9rique",
+                "capture 3D",
+                "immobilier",
+                "visite virtuelle"
+            ]
+        },
+        {
+            "Name": "Planet Labs",
+            "url": "https://www.planet.com/",
+            "Description": "Op\u00e9rateur de la plus grande constellation de satellites d'imagerie de la Terre (Dove, SkySat, Pelican, Tanager) et de produits d'analyse d'images par IA.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.78344,
+                        -122.39616
+                    ],
+                    "Address": "645 Harrison Street, Floor 4, San Francisco, CA 94107"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Acquisition",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "\u00c9nergie/Environnement",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://www.planet.com/company/careers/",
+            "Employees": 1000,
+            "Keywords": [
+                "imagerie satellitaire",
+                "observation de la Terre",
+                "t\u00e9l\u00e9d\u00e9tection",
+                "IA g\u00e9ospatiale"
+            ]
+        },
+        {
+            "Name": "Ouster",
+            "url": "https://ouster.com/",
+            "Description": "Fabricant de lidars num\u00e9riques 3D (s\u00e9ries OS, DF) et de logiciels de perception pour l'automobile, l'industrie, la robotique et les infrastructures intelligentes (fusion avec Velodyne en 2023).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.76451,
+                        -122.41348
+                    ],
+                    "Address": "350 Treat Avenue, San Francisco, CA 94110"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "Automobile/Navigation/Aviation",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Employees": 350,
+            "Keywords": [
+                "lidar",
+                "capteur 3D",
+                "nuage de points",
+                "perception"
+            ]
+        },
+        {
+            "Name": "Aeva",
+            "url": "https://www.aeva.com/",
+            "Description": "Fabricant de lidars 4D FMCW (mesure de distance et de vitesse) et de logiciels de perception pour l'automobile, l'industrie et la m\u00e9trologie.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Mountain View",
+                    "Coordinates": [
+                        37.40282,
+                        -122.05119
+                    ],
+                    "Address": "555 Ellis Street, Mountain View, CA 94043"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes",
+                "Industrie/Manufacturing/CAO"
+            ],
+            "Keywords": [
+                "lidar FMCW",
+                "capteur 3D",
+                "perception",
+                "m\u00e9trologie"
+            ]
+        },
+        {
+            "Name": "HeartFlow",
+            "url": "https://www.heartflow.com/",
+            "Description": "\u00c9diteur d'une plateforme d'imagerie cardiaque par IA qui reconstruit un mod\u00e8le 3D personnalis\u00e9 des coronaires \u00e0 partir du scanner et simule le flux sanguin (FFRct, analyse de plaque).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.79144,
+                        -122.39434
+                    ],
+                    "Address": "135 Main Street, Suite 1000, San Francisco, CA 94105"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Reconstruction",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie cardiaque",
+                "mod\u00e8le 3D patient",
+                "simulation de flux",
+                "scanner"
+            ]
+        },
+        {
+            "Name": "PROCEPT BioRobotics",
+            "url": "https://www.procept-biorobotics.com/",
+            "Description": "Fabricant de syst\u00e8mes de chirurgie robotis\u00e9e guid\u00e9e par l'image (AquaBeam, HYDROS) pour l'aquablation de la prostate, combinant \u00e9chographie perop\u00e9ratoire, planification et IA.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Jose",
+                    "Coordinates": [
+                        37.42165,
+                        -121.95481
+                    ],
+                    "Address": "150 Baytech Drive, San Jose, CA 95134"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Keywords": [
+                "robotique chirurgicale",
+                "\u00e9chographie",
+                "chirurgie guid\u00e9e par l'image"
+            ]
+        },
+        {
+            "Name": "Toyota Research Institute",
+            "url": "https://www.tri.global/",
+            "Description": "Institut de recherche de Toyota (conduite automatis\u00e9e, robotique et grands mod\u00e8les de comportement, science des mat\u00e9riaux) avec des \u00e9quipes en vision par ordinateur, mod\u00e8les de monde vid\u00e9o et simulation.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Los Altos",
+                    "Coordinates": [
+                        37.3852,
+                        -122.1141
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Simulation",
+                "IA g\u00e9n\u00e9rative (image/3D)"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://www.tri.global/careers",
+            "Keywords": [
+                "robotique",
+                "conduite automatis\u00e9e",
+                "mod\u00e8les de monde",
+                "recherche"
+            ]
+        },
+        {
+            "Name": "OpenSpace",
+            "url": "https://www.openspace.ai/",
+            "Description": "\u00c9diteur d'une plateforme de capture de la r\u00e9alit\u00e9 pour la construction : captures 360\u00b0 \u00e0 pied, par drone ou smartphone, recal\u00e9es automatiquement sur plans et maquettes BIM par vision par ordinateur, suivi d'avancement par IA.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.79107,
+                        -122.40417
+                    ],
+                    "Address": "333 Kearny St., Floor 4, San Francisco, CA 94108"
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Vision",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Jobs": "https://www.openspace.ai/careers/",
+            "Employees": 190,
+            "Keywords": [
+                "capture de la r\u00e9alit\u00e9",
+                "construction",
+                "360\u00b0",
+                "BIM",
+                "vision par ordinateur"
+            ]
+        },
+        {
+            "Name": "Hover",
+            "url": "https://hover.to/",
+            "Description": "\u00c9diteur d'une application qui g\u00e9n\u00e8re des mod\u00e8les 3D mesur\u00e9s de maisons \u00e0 partir de quelques photos de smartphone, pour la r\u00e9novation, l'assurance et la construction.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Vision",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Jobs": "https://hover.to/careers",
+            "Keywords": [
+                "reconstruction 3D",
+                "photogramm\u00e9trie",
+                "smartphone",
+                "r\u00e9novation"
+            ]
+        },
+        {
+            "Name": "Varian",
+            "url": "https://www.varian.com/",
+            "Description": "Filiale de Siemens Healthineers sp\u00e9cialis\u00e9e dans la radioth\u00e9rapie guid\u00e9e par l'image (acc\u00e9l\u00e9rateurs TrueBeam, Ethos, Halcyon, imagerie CBCT HyperSight) et les logiciels de planification de traitement (Eclipse) int\u00e9grant segmentation et IA.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "Palo Alto",
+                    "Coordinates": [
+                        37.4419,
+                        -122.143
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Visualisation",
+                "Simulation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Employees": 10000,
+            "Keywords": [
+                "radioth\u00e9rapie",
+                "imagerie guid\u00e9e",
+                "planification de traitement",
+                "oncologie"
+            ]
+        },
+        {
+            "Name": "Duality AI",
+            "url": "https://www.duality.ai/",
+            "Description": "\u00c9diteur de Falcon, plateforme de simulation et de jumeaux num\u00e9riques bas\u00e9e sur Unreal Engine pour g\u00e9n\u00e9rer des donn\u00e9es synth\u00e9tiques et tester des syst\u00e8mes autonomes (robotique, d\u00e9fense, drones).",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Mateo",
+                    "Coordinates": [
+                        37.563,
+                        -122.3255
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Robotique/Syst\u00e8mes autonomes",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://www.duality.ai/careers",
+            "Keywords": [
+                "jumeau num\u00e9rique",
+                "donn\u00e9es synth\u00e9tiques",
+                "simulation de robots",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Osso VR",
+            "url": "https://www.ossovr.com/",
+            "Description": "\u00c9diteur d'une plateforme de formation chirurgicale en r\u00e9alit\u00e9 virtuelle (plus de 150 modules de proc\u00e9dures, formation des infirmiers) utilis\u00e9e par des h\u00f4pitaux universitaires et des fabricants de dispositifs m\u00e9dicaux.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Simulation",
+                "Animation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "simulation chirurgicale",
+                "formation m\u00e9dicale"
+            ]
+        },
+        {
+            "Name": "DroneDeploy",
+            "url": "https://www.dronedeploy.com/",
+            "Description": "\u00c9diteur d'une plateforme de capture de la r\u00e9alit\u00e9 par drones, robots terrestres et 360\u00b0 (cartes, mod\u00e8les 3D, photogramm\u00e9trie, analyse par IA) pour la construction, l'\u00e9nergie et l'agriculture, rachet\u00e9 par Procore en septembre 2026.",
+            "Place": [
+                {
+                    "Country": "\u00c9tats-Unis",
+                    "City": "San Francisco",
+                    "Coordinates": [
+                        37.7749,
+                        -122.4194
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Reconstruction",
+                "Acquisition",
+                "Vision",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme",
+                "G\u00e9ospatial/Cartographie",
+                "\u00c9nergie/Environnement"
+            ],
+            "Jobs": "https://dronedeploy.com/about/careers",
+            "Keywords": [
+                "drone",
+                "photogramm\u00e9trie",
+                "capture de la r\u00e9alit\u00e9",
+                "jumeau num\u00e9rique"
             ]
         }
     ]

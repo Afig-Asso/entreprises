@@ -111,6 +111,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[31st Union](https://thirtyfirstunion.com/)**  
+  * _Studio de 2K (Take-Two) fondé en 2019 à San Mateo par Michael Condrey, qui développe le jeu de tir multijoueur Project ETHOS._
+  * **Mots clés**: _jeu de tir, multijoueur, Unreal Engine, 2K_
+  * **Localisation**: États-Unis/San Mateo
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://boards.greenhouse.io/2k)
+
+
 * **[3D Factory Monaco](https://3dfactorymonaco.com/)**  
   * _Studio de création monégasque spécialisé depuis plus de dix ans dans la visualisation 3D (images et animations), la réalité virtuelle, les plans CAO 2D et l'impression 3D pour l'architecture, l'immobilier et le design._
   * **Mots clés**: _architecture, rendu photoréaliste, impression 3D, réalité virtuelle_
@@ -322,11 +332,19 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Mots clés**: _plugin/logiciel pour artistes, retouche d'image, montage vidéo, IA générative, Photoshop, Firefly, Substance 3D_
   * **Remarque**: _Centre de recherche à Paris_
   * **Produits**: Photoshop, Substance 3D, Premiere, Illustrator, etc.
-  * **Localisation**: États-Unis, Canada, Paris, Royaume-Uni, Inde, International
+  * **Localisation**: États-Unis/San Jose, Canada, Paris, Royaume-Uni, Inde, International
   * **Nombres d'employés**: 31000
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation, Animation, Design/Fabrication
   * **Domaine d'application**: Art/Evenementiel, Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://careers.adobe.com/us/en)
+
+
+* **[Aeva](https://www.aeva.com/)**  
+  * _Fabricant de lidars 4D FMCW (mesure de distance et de vitesse) et de logiciels de perception pour l'automobile, l'industrie et la métrologie._
+  * **Mots clés**: _lidar FMCW, capteur 3D, perception, métrologie_
+  * **Localisation**: États-Unis/Mountain View
+  * **Domaine scientifique/technique**: Acquisition, Vision, Hardware
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
 
 
 * **[Agenium](https://www.agenium.com/)**  
@@ -478,10 +496,19 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.amaxperteye.com/job-offers/)
 
 
+* **[Ambarella](https://www.ambarella.com/)**  
+  * _Concepteur de puces de vision par ordinateur et d'IA embarquée (SoC CVflow) pour caméras de sécurité, automobile (ADAS, conduite autonome) et robotique._
+  * **Mots clés**: _puces de vision, IA embarquée, traitement d'image, ADAS_
+  * **Localisation**: États-Unis/Santa Clara
+  * **Nombres d'employés**: 915
+  * **Domaine scientifique/technique**: Vision, Hardware, Imagerie
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Sécurité/Défense, Robotique/Systèmes autonomes
+
+
 * **[AMD](https://www.amd.com/)**  
   * _Développement de processeurs et cartes graphiques: développement matériel et logiciel._
   * **Mots clés**: _GPU, CPU, puce/semi-conducteur, calcul haute performance, accélérateurs IA, pilotes graphiques, FPGA_
-  * **Localisation**: États-Unis, Canada/Markham, International
+  * **Localisation**: États-Unis/Santa Clara, Canada/Markham, International
   * **Nombres d'employés**: 31000
   * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D, Rendu offline/VFX
   * **Domaine d'application**: Générique
@@ -613,6 +640,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://jobs.apple.com)
 
 
+* **[Applied Intuition](https://www.appliedintuition.com/)**  
+  * _Éditeur de logiciels pour véhicules autonomes et définis par logiciel : simulation de capteurs neuronale et physique, terrains d'essai numériques, outils de validation, OS véhicule et pile de conduite autonome, aussi pour la défense._
+  * **Mots clés**: _simulation de capteurs, conduite autonome, jumeau numérique, validation_
+  * **Localisation**: États-Unis/Sunnyvale
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, Vision, Reconstruction
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Sécurité/Défense
+  * [_Jobs_](https://www.appliedintuition.com/careers)
+
+
 * **[AppliedVR](https://www.appliedvr.io/)**  
   * _Entreprise de Van Nuys qui développe des thérapies en réalité virtuelle (RelieVRx, dispositif médical autorisé par la FDA contre la lombalgie chronique, SustainVR) et mène des programmes de recherche clinique sur les « thérapeutiques immersives »._
   * **Mots clés**: _réalité virtuelle, thérapeutique numérique, douleur chronique, dispositif médical_
@@ -640,6 +677,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision, Hardware, Acquisition
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
   * [_Jobs_](https://blaxtair.com/offres-emplois)
+
+
+* **[Ares Interactive](https://www.aresinteractive.com/)**  
+  * _Développeur et éditeur de jeux mobiles free-to-play fondé en 2024 par des vétérans du secteur, dont le studio 7th Inning à San Francisco réalise Baseball Hits 26 et le studio Swift Games à Berlin Heroes vs. Hordes et The Walking Dead: Aftermath (juillet 2026)._
+  * **Mots clés**: _jeux mobiles, free-to-play, jeux de sport, 7th Inning_
+  * **Localisation**: États-Unis/San Francisco, Allemagne/Berlin
+  * **Nombres d'employés**: 60
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.aresinteractive.com/careers)
 
 
 * **[Argolight](https://argolight.com/)**  
@@ -885,7 +932,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Mots clés**: _CAO, BIM, animation 3D, effets visuels, plugin/logiciel pour artistes, Maya, 3ds Max, AutoCAD_
   * **Remarque**: _A racheté en août 2024 la société rennaise Golaem (logiciel de simulation de foules pour les VFX), qui n'existe plus en tant que telle._
   * **Produits**: Maya, 3DS Max, AutoCAD, Golaem
-  * **Localisation**: États-Unis, Inde, Royaume-Uni, Singapour, Norvège, Canada/{Montréal, Toronto}, International
+  * **Localisation**: États-Unis, Inde, Royaume-Uni, Singapour, Norvège, Canada/{Montréal, Toronto}, États-Unis/San Francisco, International
   * **Nombres d'employés**: 15000
   * **Domaine scientifique/technique**: Modélisation, Animation, Design/Fabrication, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO
@@ -1003,6 +1050,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision, Acquisition, Simulation
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/balyo/jobs)
+
+
+* **[Baobab Studios](https://www.baobabstudios.com/)**  
+  * _Studio d'animation indépendant fondé en 2015 par des anciens de DreamWorks, Pixar et Zynga, primé par une dizaine d'Emmy pour ses récits interactifs en réalité virtuelle (Crow: The Legend, Baba Yaga) et qui développe des séries et adaptations animées (The Witchverse pour Disney+, Momoguro, jeux Roblox rachetés en 2026)._
+  * **Mots clés**: _animation 3D, réalité virtuelle, récit interactif, séries d'animation_
+  * **Localisation**: États-Unis/Redwood City
+  * **Nombres d'employés**: 30
+  * **Domaine scientifique/technique**: Animation, VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
 
 
 * **[Bardel Entertainment](https://bardel.ca/)**  
@@ -1150,6 +1206,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo
 
 
+* **[Black Forest Labs](https://bfl.ai/)**  
+  * _Laboratoire d'IA générative (siège à Fribourg-en-Brisgau) créé par les auteurs de Stable Diffusion, qui développe les modèles de génération d'images FLUX et dispose d'une équipe à San Francisco._
+  * **Mots clés**: _génération d'images, FLUX, modèles ouverts, modèles de diffusion_
+  * **Localisation**: États-Unis/San Francisco, Allemagne/Fribourg-en-Brisgau
+  * **Domaine scientifique/technique**: IA générative (image/3D)
+  * **Domaine d'application**: Générique, Art/Evenementiel
+  * [_Jobs_](https://job-boards.greenhouse.io/blackforestlabs)
+
+
 * **[Black Kite Studios](https://www.blackkitestudios.com/)**  
   * _Studio indépendant d'effets visuels, de design et d'étalonnage fondé en 2019 à Londres, pour la publicité, les clips et les séries (KFC x Stranger Things en CG intégral, M&S, Honda, McDonald's)._
   * **Mots clés**: _effets visuels, publicité, CGI, étalonnage_
@@ -1294,6 +1359,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu offline/VFX, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Bolt Graphics](https://bolt.graphics/)**  
+  * _Start-up de Sunnyvale qui conçoit Zeus, un processeur graphique axé sur le path tracing temps réel et la simulation, pour le rendu de films, le jeu, l'architecture et le calcul haute performance._
+  * **Mots clés**: _GPU, path tracing, puce graphique, calcul haute performance_
+  * **Localisation**: États-Unis/Sunnyvale
+  * **Domaine scientifique/technique**: Hardware, Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Simulation
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Jeu Vidéo, Architecture/BTP/Urbanisme
 
 
 * **[Bonfire Studios](https://www.bonfirestudios.com/)**  
@@ -1768,6 +1841,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://jobs.lever.co/clovirtualfashion)
 
 
+* **[Cloud Chamber](https://www.cloudchamberstudios.com/)**  
+  * _Studio de 2K (Take-Two) qui développe le prochain BioShock, implanté à Novato et à Montréal avec une équipe à distance en Amérique du Nord._
+  * **Mots clés**: _BioShock, jeu AAA, Unreal Engine, 2K_
+  * **Localisation**: États-Unis/Novato, Canada/Montréal
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://boards.greenhouse.io/2k)
+
+
 * **[Cloud Imperium Games](https://cloudimperiumgames.com/)**  
   * _Studio de Star Citizen et Squadron 42; le site de Manchester est l'un de ses plus grands studios, avec une équipe technique et graphique importante._
   * **Mots clés**: _Star Citizen, moteur CryEngine/StarEngine, jeu vidéo_
@@ -1847,6 +1930,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 50
   * **Domaine scientifique/technique**: Imagerie, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Comfy Org](https://www.comfy.org/)**  
+  * _Société de San Francisco qui développe ComfyUI, l'interface open source par nœuds de génération d'images et de vidéos par IA, et son offre Comfy Cloud._
+  * **Mots clés**: _ComfyUI, open source, flux de travail génératifs, outil créatif_
+  * **Localisation**: États-Unis/San Francisco, Canada/Québec
+  * **Nombres d'employés**: 65
+  * **Domaine scientifique/technique**: IA générative (image/3D), Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Art/Evenementiel, Générique
+  * [_Jobs_](https://jobs.ashbyhq.com/comfy-org)
 
 
 * **[Company 3](https://www.company3.com/)**  
@@ -2003,6 +2096,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 200
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Crystal Dynamics](https://www.crystald.com/)**  
+  * _Studio de jeux AAA de la baie de San Francisco (Tomb Raider, Legacy of Kain), filiale du groupe Embracer, qui prépare Tomb Raider: Legacy of Atlantis (remake sous Unreal Engine 5 prévu en février 2027) et Tomb Raider: Catalyst._
+  * **Mots clés**: _Tomb Raider, jeu AAA, Unreal Engine 5, Embracer_
+  * **Localisation**: États-Unis/San Carlos
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.crystald.com/careers/)
 
 
 * **[CTEC Vision](https://ctecvision.com/)**  
@@ -2175,6 +2278,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.dayfornite.com/jobs)
 
 
+* **[Decart](https://decart.ai/)**  
+  * _Laboratoire d'IA de San Francisco et Tel-Aviv qui développe des modèles génératifs vidéo temps réel (Lucy, édition vidéo en direct) et des modèles de monde interactifs (Oasis)._
+  * **Mots clés**: _génération de vidéo temps réel, modèles de monde, édition vidéo en direct_
+  * **Localisation**: États-Unis/San Francisco, Israël/Tel-Aviv
+  * **Domaine scientifique/technique**: IA générative (image/3D), Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Robotique/Systèmes autonomes
+
+
 * **[Deep Voodoo](https://deepvoodoo.com/)**  
   * _Studio d'effets visuels par IA (deepfake, rajeunissement, remplacement de visage) fondé par Trey Parker et Matt Stone, crédité sur la saison 27 de South Park, la saison 2 de Ted, le clip In the Stars des Rolling Stones et une publicité Dunkin' du Super Bowl LX (2026)._
   * **Mots clés**: _deepfake, humains numériques, rajeunissement, IA_
@@ -2257,6 +2368,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Canada/Vancouver, États-Unis/Los Angeles
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Acquisition
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Digital Eclipse](https://digitaleclipse.com/)**  
+  * _Studio d'Emeryville fondé en 1992, filiale d'Atari depuis 2023, spécialisé dans la restauration et la réédition interactive de jeux classiques (Atari 50, The Making of Karateka, Tetris Forever, Mortal Kombat: Legacy Kollection, Rayman 30th Anniversary Edition)._
+  * **Mots clés**: _rétrogaming, émulation, préservation du jeu vidéo, Atari_
+  * **Localisation**: États-Unis/Emeryville
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo, Patrimoine/Culture
+  * [_Jobs_](https://digitaleclipse.com/)
 
 
 * **[Digital Surf](https://www.digitalsurf.com/)**  
@@ -2374,6 +2495,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://donecle.taleez.com/)
 
 
+* **[Double Fine](https://www.doublefine.com/)**  
+  * _Studio indépendant de San Francisco fondé par Tim Schafer (Psychonauts 2, Brütal Legend, Keeper), redevenu indépendant de Xbox Game Studios en juillet 2026._
+  * **Mots clés**: _jeu d'aventure, Psychonauts, studio indépendant_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 70
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.doublefine.com/jobs)
+
+
 * **[Double Jack](https://maestro-game.com/)**  
   * _Studio francilien de vétérans du AAA, créateur de Maestro, jeu VR de direction d'orchestre jouable au suivi des mains (Meta Quest, SteamVR), primé jeu de l'année 2024 du Meta Horizon Store._
   * **Mots clés**: _réalité virtuelle, suivi des mains, jeu musical, Meta Quest_
@@ -2483,6 +2614,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[DroneDeploy](https://www.dronedeploy.com/)**  
+  * _Éditeur d'une plateforme de capture de la réalité par drones, robots terrestres et 360° (cartes, modèles 3D, photogrammétrie, analyse par IA) pour la construction, l'énergie et l'agriculture, racheté par Procore en septembre 2026._
+  * **Mots clés**: _drone, photogrammétrie, capture de la réalité, jumeau numérique_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: Reconstruction, Acquisition, Vision, Web/Cloud/Big Data
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Géospatial/Cartographie, Énergie/Environnement
+  * [_Jobs_](https://dronedeploy.com/about/careers)
+
+
 * **[Dronisos](https://www.dronisos.com/)**  
   * _Leader français des spectacles lumineux de drones pour parcs à thème (fournisseur officiel de Disneyland Paris) et grands événements._
   * **Mots clés**: _spectacle de drones, drone, événementiel/mapping, parc d'attractions, essaims de drones_
@@ -2491,6 +2631,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, VR/AR
   * **Domaine d'application**: Art/Evenementiel
   * [_Jobs_](https://www.welcometothejungle.com/fr/companies/dronisos)
+
+
+* **[Duality AI](https://www.duality.ai/)**  
+  * _Éditeur de Falcon, plateforme de simulation et de jumeaux numériques basée sur Unreal Engine pour générer des données synthétiques et tester des systèmes autonomes (robotique, défense, drones)._
+  * **Mots clés**: _jumeau numérique, données synthétiques, simulation de robots, Unreal Engine_
+  * **Localisation**: États-Unis/San Mateo
+  * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D, Reconstruction
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Sécurité/Défense
+  * [_Jobs_](https://www.duality.ai/careers)
 
 
 * **[Dupe VFX](https://www.dupevfx.com/)**  
@@ -2708,6 +2857,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Royaume-Uni/Londres
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+
+
+* **[Electronic Arts](https://www.ea.com/)**  
+  * _Éditeur et développeur américain de jeux vidéo (EA Sports FC, Madden NFL, Battlefield 6, Les Sims, Apex Legends), dont le siège de Redwood City accueille aussi le studio Maxis ; la société a été rachetée par un consortium mené par le PIF saoudien en août 2026._
+  * **Mots clés**: _jeu vidéo AAA, moteur Frostbite, jeux de sport, éditeur_
+  * **Localisation**: États-Unis/Redwood City
+  * **Nombres d'employés**: 14000
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://jobs.ea.com/)
 
 
 * **[Elementary](https://www.elementaryml.com/)**  
@@ -3007,6 +3166,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.fairvision.fr/home-3-2-2-2-2-2-2-2/)
 
 
+* **[fal](https://fal.ai/)**  
+  * _Plateforme d'inférence de San Francisco (Features & Labels Inc.) dédiée aux médias génératifs, qui héberge et optimise sur GPU des centaines de modèles de génération d'images, de vidéos et de 3D._
+  * **Mots clés**: _médias génératifs, inférence GPU, API, génération de vidéo_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D), Web/Cloud/Big Data
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://jobs.ashbyhq.com/fal-ai)
+
+
 * **[Falcon's Creative Group](https://falconscreativegroup.com/)**  
   * _Agence américaine de conception d'expériences pour parcs à thème, parcs aquatiques et resorts : planification, design d'attractions, production média immersive et jumeaux numériques._
   * **Mots clés**: _parc d'attractions, conception d'attractions, exposition immersive, production média, jumeau numérique_
@@ -3042,6 +3210,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: VR/AR, Animation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Patrimoine/Culture, Art/Evenementiel, Commerce/Marketing/Publicité
+
+
+* **[Figma](https://www.figma.com/)**  
+  * _Éditeur de San Francisco de l'outil collaboratif de conception d'interfaces et de graphisme vectoriel Figma (Figma Design, FigJam, Figma Slides, Figma Make), dont le moteur de rendu s'exécute dans le navigateur sur le GPU._
+  * **Mots clés**: _outil de conception, graphisme vectoriel, rendu GPU dans le navigateur, collaboratif_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IHM/Haptique, Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data
+  * **Domaine d'application**: Générique, Art/Evenementiel
+  * [_Jobs_](https://www.figma.com/careers/)
 
 
 * **[FilmLight](https://www.filmlight.ltd.uk/)**  
@@ -3300,6 +3477,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Animation, IA générative (image/3D), Modélisation
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Commerce/Marketing/Publicité
   * [_Jobs_](https://jobs.ashbyhq.com/genies)
+
+
+* **[Genmo](https://www.genmo.ai/)**  
+  * _Laboratoire de San Francisco qui développe des modèles ouverts de génération vidéo par diffusion (Mochi)._
+  * **Mots clés**: _génération de vidéo, modèles de diffusion, open source_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D)
+  * **Domaine d'application**: Générique
+  * [_Jobs_](https://jobs.ashbyhq.com/genmo)
 
 
 * **[Gentle Giant Studios](https://www.gentlegiantstudios.com/)**  
@@ -3624,6 +3810,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://jobs.stationf.co/companies/healthy-mind)
 
 
+* **[HeartFlow](https://www.heartflow.com/)**  
+  * _Éditeur d'une plateforme d'imagerie cardiaque par IA qui reconstruit un modèle 3D personnalisé des coronaires à partir du scanner et simule le flux sanguin (FFRct, analyse de plaque)._
+  * **Mots clés**: _imagerie cardiaque, modèle 3D patient, simulation de flux, scanner_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: Imagerie, Reconstruction, Simulation
+  * **Domaine d'application**: Médical/Biologique
+
+
 * **[Hectiq](https://hectiq.games/)**  
   * _Studio de développement de jeux vidéo fondé à Bordeaux en 2023, qui développe Painted Kingdoms en misant sur la créativité, le gameplay et l'innovation technique._
   * **Mots clés**: _jeu indépendant, console/PC, multijoueur en ligne_
@@ -3632,6 +3826,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://hectiq.games/careers)
+
+
+* **[Hedra](https://www.hedra.com/)**  
+  * _Start-up de San Francisco qui développe des modèles de génération vidéo de personnages animés et parlants (Character-3) et un studio de création vidéo par IA._
+  * **Mots clés**: _génération de vidéo, avatars, animation de personnages_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D), Animation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://jobs.ashbyhq.com/hedra)
 
 
 * **[Hello Games](https://hellogames.org/)**  
@@ -3665,7 +3868,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[HeyGen](https://www.heygen.com/)**  
   * _Éditeur d'une plateforme d'IA générative de vidéo (avatars numériques photoréalistes, synchronisation labiale, traduction vidéo) revendiquant plus de 30 millions d'utilisateurs et 200 M$ de revenus récurrents annuels en juin 2026._
   * **Mots clés**: _vidéo générative, avatars IA, synchronisation labiale, traduction vidéo_
-  * **Localisation**: États-Unis/Los Angeles
+  * **Localisation**: États-Unis/Los Angeles, États-Unis/San Francisco, États-Unis/Palo Alto
   * **Nombres d'employés**: 350
   * **Domaine scientifique/technique**: IA générative (image/3D), Animation, Vision
   * **Domaine d'application**: Commerce/Marketing/Publicité, Générique
@@ -3769,6 +3972,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 30
   * **Domaine scientifique/technique**: Acquisition, Animation, Pipeline/Outils de production
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
+
+
+* **[Hover](https://hover.to/)**  
+  * _Éditeur d'une application qui génère des modèles 3D mesurés de maisons à partir de quelques photos de smartphone, pour la rénovation, l'assurance et la construction._
+  * **Mots clés**: _reconstruction 3D, photogrammétrie, smartphone, rénovation_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: Reconstruction, Vision, Acquisition
+  * **Domaine d'application**: Architecture/BTP/Urbanisme
+  * [_Jobs_](https://hover.to/careers)
 
 
 * **[HRV Simulation](https://hrv-simulation.com/)**  
@@ -4234,6 +4446,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Industrial Light & Magic](https://www.ilm.com/)** (Industrial Light & Magic (ILM)) 
+  * _Studio d'effets visuels fondé en 1975 par George Lucas (groupe Lucasfilm/Disney), pionnier de l'image de synthèse et de la production virtuelle StageCraft (Emmy technique en 2026), dont le siège est au Letterman Digital Arts Center du Presidio et qui a travaillé sur les dix films présélectionnés aux Oscars des effets visuels 2026._
+  * **Mots clés**: _effets visuels, production virtuelle, StageCraft, Star Wars, simulation_
+  * **Localisation**: États-Unis/San Francisco, Canada/Vancouver, Royaume-Uni/Londres, Australie/Sydney, Inde/Mumbai
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://join.disneycareers.com/global/en/industrial-light-magic)
+
+
 * **[Infinity Ward](https://www.infinityward.com/)**  
   * _Studio d'Activision (Microsoft) à Woodland Hills, créateur de Call of Duty et de la sous-série Modern Warfare, qui sort Call of Duty: Modern Warfare 4 en 2026._
   * **Mots clés**: _AAA, FPS, Call of Duty, moteur IW, console/PC_
@@ -4339,6 +4560,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://insomniac.games/careers/)
 
 
+* **[Intel](https://www.intel.com/)**  
+  * _Fabricant de semi-conducteurs dont le siège de Santa Clara accueille des équipes de la division graphique (performance des GPU Arc/Xe, compilateur graphique Intel Graphics Compiler)._
+  * **Mots clés**: _GPU, processeurs graphiques, pilotes et compilateurs graphiques, semi-conducteurs_
+  * **Localisation**: États-Unis/Santa Clara
+  * **Nombres d'employés**: 85100
+  * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Générique
+  * [_Jobs_](https://jobs.intel.com/)
+
+
 * **[Intelerad](https://www.intelerad.com/)** (Intelerad Medical Systems) 
   * _Éditeur montréalais (1999) de logiciels d'imagerie médicale (PACS, visualiseurs diagnostiques, archivage et flux de travail radiologiques en cloud), environ 700 à 800 employés dans quatre pays ; classé n° 1 PACS Royaume-Uni/Irlande au Best in KLAS 2026._
   * **Mots clés**: _PACS, imagerie médicale, radiologie, visualisation diagnostique_
@@ -4385,6 +4616,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Visualisation, Vision
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://intrasense.fr/fr/nous-rejoindre-logiciel-imagerie-medicale/)
+
+
+* **[Intuitive Surgical](https://www.intuitive.com/)**  
+  * _Fabricant du robot chirurgical da Vinci (et de la plateforme de bronchoscopie robotisée Ion), avec vision stéréoscopique 3D, imagerie peropératoire et simulateurs d'entraînement chirurgical._
+  * **Mots clés**: _robotique chirurgicale, da Vinci, vision 3D, simulateur chirurgical_
+  * **Localisation**: États-Unis/Sunnyvale
+  * **Nombres d'employés**: 17000
+  * **Domaine scientifique/technique**: Imagerie, Vision, Simulation, IHM/Haptique
+  * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
 
 
 * **[Inui](https://www.inui.fr/)** (Agence Inui) 
@@ -4490,7 +4730,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Jam City](https://www.jamcity.com/)**  
   * _Développeur et éditeur de jeux mobiles basé à Culver City, auteur de Harry Potter: Hogwarts Mystery, Disney Emoji Blitz et Panda Pop._
   * **Mots clés**: _jeu mobile, free-to-play, licences, jeu narratif_
-  * **Localisation**: États-Unis/Culver City
+  * **Localisation**: États-Unis/Culver City, États-Unis/San Francisco
   * **Nombres d'employés**: 250
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
   * **Domaine d'application**: Jeu Vidéo
@@ -4721,6 +4961,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://kraftonmontreal.com/#careers)
 
 
+* **[Krea](https://www.krea.ai/)**  
+  * _Start-up de San Francisco qui édite une suite créative de génération et d'amélioration d'images et de vidéos par IA, en temps réel, et entraîne ses propres modèles._
+  * **Mots clés**: _génération d'images, génération de vidéo, temps réel, outil créatif_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D)
+  * **Domaine d'application**: Art/Evenementiel, Commerce/Marketing/Publicité
+  * [_Jobs_](https://jobs.ashbyhq.com/krea)
+
+
 * **[Kreon Technologies](https://www.kreon3d.com/)**  
   * _Conception et fabrication de scanners laser 3D et de bras de mesure pour la métrologie et le contrôle dimensionnel._
   * **Mots clés**: _scanner 3D, métrologie, bras de mesure, contrôle qualité, rétro-ingénierie, industrie/usinage_
@@ -4925,6 +5174,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Linden Lab](https://lindenlab.com/)**  
+  * _Éditeur du monde virtuel 3D Second Life, créé en 1999 à San Francisco, qui développe aussi un client mobile et un nouveau moteur de rendu pour la plateforme._
+  * **Mots clés**: _Second Life, monde virtuel, métavers_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 150
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data, Simulation
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Jeu Vidéo
+  * [_Jobs_](https://lindenlab.com/careers)
+
+
 * **[Little Workshop](https://www.littleworkshop.fr/)**  
   * _Studio parisien fondé en 2010 spécialisé dans les expériences 3D temps réel : sites et jeux WebGL, applications Unity/Unreal pour mobile, desktop et XR, et production d'assets temps réel._
   * **Mots clés**: _web 3D, WebGL, rendu temps réel, Unity_
@@ -5059,6 +5318,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Luma AI](https://lumalabs.ai/)**  
+  * _Start-up de Palo Alto spécialisée dans les modèles génératifs de vidéo et de 3D (Dream Machine, modèles Ray), issue de la capture 3D par NeRF et Gaussian splatting._
+  * **Mots clés**: _génération de vidéo, modèles de monde, NeRF, Gaussian splatting_
+  * **Localisation**: États-Unis/Palo Alto
+  * **Domaine scientifique/technique**: IA générative (image/3D), Reconstruction
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
+  * [_Jobs_](https://lumalabs.ai/careers)
 
 
 * **[Lumeto](https://lumeto.com/)**  
@@ -5409,6 +5677,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://video.matrox.com/en/careers)
 
 
+* **[Matterport](https://matterport.com/)**  
+  * _Plateforme de capture de la réalité et de jumeaux numériques d'intérieurs (caméras Pro3, capture par smartphone, IA de reconstruction 3D), filiale de CoStar Group._
+  * **Mots clés**: _jumeau numérique, capture 3D, immobilier, visite virtuelle_
+  * **Localisation**: États-Unis/Sunnyvale
+  * **Nombres d'employés**: 455
+  * **Domaine scientifique/technique**: Reconstruction, Acquisition, Vision, Web/Cloud/Big Data
+  * **Domaine d'application**: Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité
+  * [_Jobs_](https://matterport.com/careers)
+
+
 * **[Mauna Kea Technologies](https://www.maunakeatech.com/)**  
   * _Medtech parisienne qui conçoit Cellvizio, plateforme d'endomicroscopie confocale par fibre pour l'imagerie cellulaire in vivo en temps réel._
   * **Mots clés**: _imagerie médicale, endomicroscopie, traitement d'images_
@@ -5510,6 +5788,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 340
   * **Domaine scientifique/technique**: Animation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Meshy](https://www.meshy.ai/)**  
+  * _Éditeur d'un générateur de modèles 3D texturés par IA à partir de texte ou d'images (Meshy), avec un bureau dans la baie à Sunnyvale et des équipes en Chine._
+  * **Mots clés**: _génération 3D, texte vers 3D, texturation par IA_
+  * **Localisation**: États-Unis/Sunnyvale
+  * **Domaine scientifique/technique**: IA générative (image/3D), Modélisation
+  * **Domaine d'application**: Jeu Vidéo, Industrie/Manufacturing/CAO
+  * [_Jobs_](https://jobs.ashbyhq.com/meshy)
 
 
 * **[Meta](https://ai.meta.com/research/)**  
@@ -5625,6 +5912,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, IHM/Haptique
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
   * [_Jobs_](https://emploi.afjv.com/annonces-societes/1278)
+
+
+* **[Midjourney](https://www.midjourney.com/)**  
+  * _Laboratoire indépendant de San Francisco qui développe le générateur d'images Midjourney (modèle V7) et ses modèles de génération vidéo._
+  * **Mots clés**: _génération d'images, génération de vidéo, modèles de diffusion, création artistique_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D)
+  * **Domaine d'application**: Art/Evenementiel, Générique
+  * [_Jobs_](https://jobs.ashbyhq.com/midjourney)
 
 
 * **[Midralgar](https://www.midralgar.fr/)**  
@@ -6147,7 +6443,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Niantic Spatial](https://www.nianticspatial.com/)**  
   * _Société issue en 2025 de la scission de Niantic (Pokémon GO), consacrée au « Large Geospatial Model » et à la cartographie 3D, dont l'équipe de recherche londonienne (issue du rachat de Matrix Mill, spin-off de l'UCL) travaille sur la reconstruction 3D, le Gaussian splatting, le SfM/SLAM et la localisation visuelle._
   * **Mots clés**: _reconstruction 3D, Gaussian splatting, réalité augmentée, SLAM_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/San Francisco
   * **Domaine scientifique/technique**: Reconstruction, Vision, VR/AR, IA générative (image/3D)
   * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Géospatial/Cartographie, Robotique/Systèmes autonomes
   * [_Jobs_](https://job-boards.greenhouse.io/niantic)
@@ -6430,6 +6726,26 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://ooolala.fr/jobs/)
 
 
+* **[OpenAI](https://openai.com/)**  
+  * _Laboratoire et éditeur d'IA de San Francisco (ChatGPT) dont les équipes développent aussi des modèles génératifs d'images et de vidéos (GPT Image, Sora 2)._
+  * **Mots clés**: _IA générative, génération de vidéo, génération d'images, modèles de diffusion_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 4500
+  * **Domaine scientifique/technique**: IA générative (image/3D)
+  * **Domaine d'application**: Générique, Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://openai.com/careers/)
+
+
+* **[OpenSpace](https://www.openspace.ai/)**  
+  * _Éditeur d'une plateforme de capture de la réalité pour la construction : captures 360° à pied, par drone ou smartphone, recalées automatiquement sur plans et maquettes BIM par vision par ordinateur, suivi d'avancement par IA._
+  * **Mots clés**: _capture de la réalité, construction, 360°, BIM, vision par ordinateur_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 190
+  * **Domaine scientifique/technique**: Reconstruction, Vision, Acquisition
+  * **Domaine d'application**: Architecture/BTP/Urbanisme
+  * [_Jobs_](https://www.openspace.ai/careers/)
+
+
 * **[Opia Games](https://store.steampowered.com/app/3524780/)**  
   * _Studio indépendant installé aux Ateliers Magelis, auteur du jeu de plateforme 3D The Lone Blade (2023) et du FPS Sydless (2026)._
   * **Mots clés**: _jeu vidéo, jeu 3D, FPS, plateforme_
@@ -6536,6 +6852,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Osso VR](https://www.ossovr.com/)**  
+  * _Éditeur d'une plateforme de formation chirurgicale en réalité virtuelle (plus de 150 modules de procédures, formation des infirmiers) utilisée par des hôpitaux universitaires et des fabricants de dispositifs médicaux._
+  * **Mots clés**: _réalité virtuelle, simulation chirurgicale, formation médicale_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: VR/AR, Simulation, Animation
+  * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
+
+
 * **[Otoy](https://home.otoy.com/)**  
   * _Éditeur d'OctaneRender (rendu GPU path tracing) et du Render Network de rendu distribué, et créateur de la technologie de scan facial Lightstage._
   * **Mots clés**: _path tracing, OctaneRender, GPU, ferme de rendu, cloud/streaming, Lightstage, capture faciale_
@@ -6552,6 +6876,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 2
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Ouster](https://ouster.com/)**  
+  * _Fabricant de lidars numériques 3D (séries OS, DF) et de logiciels de perception pour l'automobile, l'industrie, la robotique et les infrastructures intelligentes (fusion avec Velodyne en 2023)._
+  * **Mots clés**: _lidar, capteur 3D, nuage de points, perception_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 350
+  * **Domaine scientifique/technique**: Acquisition, Vision, Hardware
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO
 
 
 * **[Outpost VFX](https://www.outpost-vfx.com/)**  
@@ -6712,6 +7045,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Médical/Biologique
 
 
+* **[PhaseSpace](https://www.phasespace.com/)** (PhaseSpace Inc.) 
+  * _Concepteur et fabricant de systèmes optiques de capture de mouvement à marqueurs LED actifs (Impulse X2E, jusqu'à 960 images par seconde, utilisable en extérieur) employés en production virtuelle, en recherche, en robotique et dans la défense._
+  * **Mots clés**: _capture de mouvement, LED actives, mocap optique, temps réel_
+  * **Localisation**: États-Unis/San Leandro
+  * **Domaine scientifique/technique**: Acquisition, Hardware
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Robotique/Systèmes autonomes, Sécurité/Défense
+
+
 * **[Phasics](https://www.phasics.com/)**  
   * _Société de Paris-Saclay qui conçoit des analyseurs de front d'onde à haute résolution pour la métrologie optique, l'optique adaptative et l'imagerie de phase quantitative._
   * **Mots clés**: _optique, imagerie de phase, métrologie_
@@ -6785,6 +7126,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Pika](https://pika.art/)**  
+  * _Start-up de Palo Alto (Mellis, Inc.) qui développe des modèles et une application de génération et d'édition de vidéos par IA._
+  * **Mots clés**: _génération de vidéo, modèles de diffusion, édition vidéo_
+  * **Localisation**: États-Unis/Palo Alto
+  * **Domaine scientifique/technique**: IA générative (image/3D)
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité
+  * [_Jobs_](https://jobs.ashbyhq.com/pika)
+
+
 * **[Piraknights Games](https://www.piraknights.com/)**  
   * _Studio de jeu vidéo savoyard (Le Bourget-du-Lac) qui développe Sintopia, jeu de gestion d'un enfer édité par Team17 sur Steam (sortie 2026)._
   * **Mots clés**: _jeu vidéo, jeu de gestion, PC, Team17_
@@ -6830,6 +7180,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision, Imagerie
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://pixacare.welcomekit.co/)
+
+
+* **[Pixar](https://www.pixar.com/)** (Pixar Animation Studios) 
+  * _Studio de longs métrages d'animation 3D (groupe Disney) fondé en 1986, éditeur du moteur de rendu RenderMan et à l'origine d'OpenUSD, dont les films récents sont Elio (2025), Hoppers et Toy Story 5 (2026)._
+  * **Mots clés**: _long métrage d'animation, RenderMan, OpenUSD, animation 3D, R&D graphique_
+  * **Localisation**: États-Unis/Emeryville
+  * **Nombres d'employés**: 1100
+  * **Domaine scientifique/technique**: Animation, Rendu offline/VFX, Modélisation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://pixar.wd501.myworkdayjobs.com/Pixar_External_Career_Site)
 
 
 * **[Pixee Medical](https://pixee-medical.com/)**  
@@ -6886,6 +7246,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Pixelworks](https://www.pixelworks.com/)**  
+  * _Éditeur de San Jose de processeurs vidéo et d'affichage et de la plateforme TrueCut Motion d'étalonnage du mouvement pour le cinéma (adoptée par Kinepolis, ODEON, Vue en 2026)._
+  * **Mots clés**: _traitement vidéo, processeur d'affichage, TrueCut Motion, HDR_
+  * **Localisation**: États-Unis/San Jose
+  * **Domaine scientifique/technique**: Imagerie, Hardware
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Générique
+  * [_Jobs_](https://www.pixelworks.com/)
+
+
 * **[Pixience](https://www.pixience.com/)**  
   * _Fabricant toulousain de systèmes d'imagerie dermatologique : vidéodermoscope C-Cube à restitution colorimétrique TrueColors, photographie corps entier BodyMapper et logiciels d'analyse 2D/3D de la peau._
   * **Mots clés**: _imagerie dermatologique, dermoscopie, colorimétrie, analyse cutanée_
@@ -6903,6 +7272,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Imagerie, Analyse de données
   * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement
+
+
+* **[Planet Labs](https://www.planet.com/)**  
+  * _Opérateur de la plus grande constellation de satellites d'imagerie de la Terre (Dove, SkySat, Pelican, Tanager) et de produits d'analyse d'images par IA._
+  * **Mots clés**: _imagerie satellitaire, observation de la Terre, télédétection, IA géospatiale_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 1000
+  * **Domaine scientifique/technique**: Imagerie, Vision, Acquisition, Analyse de données
+  * **Domaine d'application**: Géospatial/Cartographie, Énergie/Environnement, Sécurité/Défense
+  * [_Jobs_](https://www.planet.com/company/careers/)
 
 
 * **[Playdigious](https://playdigious.com/)**  
@@ -6988,6 +7367,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Pocket Gems](https://www.pocketgems.com/)**  
+  * _Studio de jeux mobiles de San Francisco fondé en 2009, éditeur du jeu de stratégie 3D War Dragons (moteur maison Mantis) et de la plateforme d'histoires interactives Episode._
+  * **Mots clés**: _jeux mobiles, War Dragons, Episode, moteur maison_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 200
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.pocketgems.com/)
 
 
 * **[Pollen Robotics](https://pollen-robotics.com/)**  
@@ -7096,6 +7485,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Imagerie, Vision
   * **Domaine d'application**: Médical/Biologique
   * [_Jobs_](https://lush-glitter-03a.notion.site/Primaa-s-Career-359be377ea19802a8794c0422f8bc527)
+
+
+* **[PROCEPT BioRobotics](https://www.procept-biorobotics.com/)**  
+  * _Fabricant de systèmes de chirurgie robotisée guidée par l'image (AquaBeam, HYDROS) pour l'aquablation de la prostate, combinant échographie peropératoire, planification et IA._
+  * **Mots clés**: _robotique chirurgicale, échographie, chirurgie guidée par l'image_
+  * **Localisation**: États-Unis/San Jose
+  * **Domaine scientifique/technique**: Imagerie, Vision, IHM/Haptique
+  * **Domaine d'application**: Médical/Biologique, Robotique/Systèmes autonomes
 
 
 * **[Prodways](https://www.prodways.com/)**  
@@ -7561,6 +7958,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 50
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Rive](https://rive.app/)**  
+  * _Éditeur, domicilié à San Francisco, de l'outil d'animation vectorielle interactive Rive et de ses runtimes, avec un moteur de rendu GPU open source (Rive Renderer) pour applications, sites et jeux._
+  * **Mots clés**: _animation vectorielle, animation interactive, moteur de rendu, runtime_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 45
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Générique, Jeu Vidéo
 
 
 * **[Rivian](https://rivian.com/)**  
@@ -8134,6 +8540,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://skydance.com/job-listings/)
 
 
+* **[Skydio](https://www.skydio.com/)**  
+  * _Constructeur de drones autonomes (X10, Dock) guidés par vision par ordinateur et cartographie 3D embarquée, pour l'inspection, la sécurité publique et la défense._
+  * **Mots clés**: _drone autonome, vision embarquée, inspection, cartographie 3D_
+  * **Localisation**: États-Unis/San Mateo, États-Unis/Hayward
+  * **Domaine scientifique/technique**: Vision, Reconstruction, Simulation
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Sécurité/Défense, Géospatial/Cartographie
+  * [_Jobs_](https://www.skydio.com/careers)
+
+
 * **[SkyReal](https://skyreal.tech/)** (SKR Technologies) 
   * _Éditeur d'une solution de réalité virtuelle pour la revue de maquettes numériques 3D industrielles (aéronautique, automobile, défense)._
   * **Mots clés**: _réalité virtuelle, revue de maquette numérique, CAO, aéronautique, défense, spatial, Unreal Engine_
@@ -8142,6 +8557,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Visualisation, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
   * [_Jobs_](https://skyreal.tech/about/#section-jobs)
+
+
+* **[Sledgehammer Games](https://www.sledgehammergames.com/)**  
+  * _Studio d'Activision (Microsoft) fondé en 2009, codéveloppeur de la série Call of Duty (Modern Warfare III, Black Ops 7), qui a installé son nouveau siège à San Francisco en juin 2026._
+  * **Mots clés**: _Call of Duty, jeu de tir, jeu AAA, Activision_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 300
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.sledgehammergames.com/)
 
 
 * **[Sloclap](https://www.sloclap.com)**  
@@ -8244,6 +8669,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Imagerie, Analyse de données
   * **Domaine d'application**: Générique
   * [_Jobs_](https://csl.sony.fr/careers/)
+
+
+* **[Sony Interactive Entertainment](https://sonyinteractive.com/)**  
+  * _Filiale jeu vidéo de Sony, constructeur des consoles PlayStation 5 et éditeur des PlayStation Studios (Ghost of Yōtei, Astro Bot, Marathon), dont le siège mondial est à San Mateo._
+  * **Mots clés**: _PlayStation, console, plateforme de jeu, PlayStation VR2_
+  * **Localisation**: États-Unis/San Mateo
+  * **Nombres d'employés**: 1500
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Hardware, Web/Cloud/Big Data
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://www.playstation.com/en-us/corporate/playstation-careers/)
 
 
 * **[Sony Pictures Animation](https://www.sonypicturesanimation.com/)**  
@@ -8664,6 +9099,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://supercell.com/en/careers/)
 
 
+* **[Supergiant Games](https://www.supergiantgames.com/)**  
+  * _Studio indépendant de San Francisco fondé en 2009, auteur de Bastion, Transistor, Pyre, Hades et Hades II (2025), connu pour sa direction artistique dessinée à la main._
+  * **Mots clés**: _Hades, jeu indépendant, direction artistique_
+  * **Localisation**: États-Unis/San Francisco
+  * **Nombres d'employés**: 25
+  * **Domaine scientifique/technique**: Animation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.supergiantgames.com/)
+
+
 * **[Supermassive Games](https://www.supermassivegames.com/)**  
   * _Studio de Guildford (Until Dawn, The Dark Pictures, Little Hope), spécialisé dans les jeux narratifs cinématographiques avec capture faciale._
   * **Mots clés**: _jeu narratif, capture de mouvement, horreur_
@@ -8799,7 +9244,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Développement de jeux vidéo, et détenant d'autres entreprises (Rockstar, 2K) ainsi que l'équipe de R&D Dynamixyz à Rennes._
   * **Mots clés**: _AAA, console/PC, édition de jeux, mobile, multijoueur en ligne, capture faciale_
   * **Remarque**: _Équipe de R&D à Cesson-Sévigné (Rennes) issue de Dynamixyz (capture faciale sans marqueurs), rachetée en 2021 : travaille pour les studios du groupe (Rockstar, 2K) et publie dans les conférences de graphique._
-  * **Localisation**: États-Unis/New York, Cesson-Sévigné, France/Paris, Canada/{Montréal, Québec, Oakville, Vancouver}, International
+  * **Localisation**: États-Unis/New York, Cesson-Sévigné, France/Paris, Canada/{Montréal, Québec, Oakville, Vancouver}, États-Unis/Novato, International
   * **Nombres d'employés**: 12900
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition, Vision
   * **Domaine d'application**: Jeu Vidéo
@@ -8832,6 +9277,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: États-Unis/Los Angeles, Canada/Vancouver
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+
+
+* **[Tavus](https://www.tavus.io/)**  
+  * _Start-up de San Francisco qui développe des modèles de génération vidéo de visages et d'humains numériques conversationnels en temps réel._
+  * **Mots clés**: _humains numériques, génération de vidéo, avatars temps réel_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D), Animation
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Générique
+  * [_Jobs_](https://jobs.ashbyhq.com/tavus)
 
 
 * **[Tchack](https://www.tchack.com/fr/)**  
@@ -9295,6 +9749,25 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://ed2.toyota-europe.com/projects/digitalmodellerneeded)
 
 
+* **[Toyota Research Institute](https://www.tri.global/)**  
+  * _Institut de recherche de Toyota (conduite automatisée, robotique et grands modèles de comportement, science des matériaux) avec des équipes en vision par ordinateur, modèles de monde vidéo et simulation._
+  * **Mots clés**: _robotique, conduite automatisée, modèles de monde, recherche_
+  * **Localisation**: États-Unis/Los Altos
+  * **Domaine scientifique/technique**: Vision, Simulation, IA générative (image/3D)
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Robotique/Systèmes autonomes
+  * [_Jobs_](https://www.tri.global/careers)
+
+
+* **[Toys for Bob](https://toysforbob.com/)**  
+  * _Studio de Novato fondé en 1989 (Skylanders, Spyro Reignited Trilogy, Crash Bandicoot 4), indépendant d'Activision depuis 2024, qui développe Spyro: A Realm Beyond annoncé à l'Xbox Games Showcase de juin 2026._
+  * **Mots clés**: _Spyro, jeu de plateforme, studio indépendant_
+  * **Localisation**: États-Unis/Novato
+  * **Nombres d'employés**: 50
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://toysforbob.com/)
+
+
 * **[TPO VFX](https://tpovfx.com/)**  
   * _Studio londonien d'effets visuels dirigé par des artistes, spécialisé en post-vis et en plans VFX finaux pour le cinéma et les séries (Civil War, Wicked, The Witcher, Paddington au Pérou)._
   * **Mots clés**: _effets visuels, post-vis, compositing, cinéma_
@@ -9454,7 +9927,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Éditeur du moteur temps réel Unity, multiplateforme (mobile, PC, console, XR), et de services associés de LiveOps, monétisation et applications industrielles._
   * **Mots clés**: _Unity, moteur de jeu, rendu temps réel, mobile, console/PC, réalité virtuelle, jumeau numérique, monétisation publicitaire_
   * **Remarque**: _Equipes de développement en France: <a target="_blank" href="https://unity.com/srp/High-Definition-Render-Pipeline">rendu graphique</a> (Paris, Grenoble), <a target="_blank" href="https://unity.com/products/pixyz">geometry processing</a> (Compiegne, Grenoble) et <a target="_blank" href="https://unity.com/products/sentis">IA</a> (Lille)_
-  * **Localisation**: États-Unis, France/Paris, France/Grenoble, France/Compiègne, France/Lille, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse, Canada/Montréal, International
+  * **Localisation**: États-Unis/San Francisco, France/Paris, France/Grenoble, France/Compiègne, France/Lille, Danemark, Finlande, Royaume-Uni, Lituanie, Allemagne, Belgique, Suisse, Canada/Montréal, International
   * **Nombres d'employés**: 7000
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX
@@ -9515,6 +9988,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Vision, Reconstruction, IA générative (image/3D)
   * **Domaine d'application**: Automobile/Navigation/Aviation, Robotique/Systèmes autonomes
   * [_Jobs_](https://www.valeo.com/en/careers/)
+
+
+* **[Varian](https://www.varian.com/)**  
+  * _Filiale de Siemens Healthineers spécialisée dans la radiothérapie guidée par l'image (accélérateurs TrueBeam, Ethos, Halcyon, imagerie CBCT HyperSight) et les logiciels de planification de traitement (Eclipse) intégrant segmentation et IA._
+  * **Mots clés**: _radiothérapie, imagerie guidée, planification de traitement, oncologie_
+  * **Localisation**: États-Unis/Palo Alto
+  * **Nombres d'employés**: 10000
+  * **Domaine scientifique/technique**: Imagerie, Visualisation, Simulation
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[VDS (Pure View)](https://www.vds.live/)**  
@@ -9725,7 +10207,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Visual Concepts](https://vcentertainment.com/)**  
   * _Studio de 2K (Take-Two Interactive) développeur des jeux de sport NBA 2K et WWE 2K, dont le studio d'Agoura Hills porte notamment la série WWE 2K._
   * **Mots clés**: _jeu de sport, NBA 2K, WWE 2K, capture de mouvement, console/PC_
-  * **Localisation**: États-Unis/{Agoura Hills, Irvine}
+  * **Localisation**: États-Unis/{Agoura Hills, Irvine}, États-Unis/Novato
   * **Nombres d'employés**: 300
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Acquisition
   * **Domaine d'application**: Jeu Vidéo
@@ -9740,6 +10222,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 8
   * **Domaine scientifique/technique**: Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+
+
+* **[Vizcom](https://www.vizcom.ai/)**  
+  * _Start-up de San Francisco qui édite un outil d'IA générative pour le design industriel, transformant croquis en rendus réalistes et en modèles 3D._
+  * **Mots clés**: _design industriel, croquis vers rendu, génération 3D_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D), Design/Fabrication, Modélisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation, Mode/Vêtements/Accessoires
+  * [_Jobs_](https://jobs.ashbyhq.com/vizcom)
 
 
 * **[VizGraphics](https://vizgraphics.com/)**  
@@ -9889,10 +10380,20 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Waymo](https://waymo.com/)**  
+  * _Filiale d'Alphabet qui développe et exploite le Waymo Driver, système de conduite autonome à base de lidars, caméras et radars, avec un service de robotaxis commercial (San Francisco, Phoenix, Los Angeles...) et une forte activité de perception et de simulation (World Model, réalisme de la simulation)._
+  * **Mots clés**: _conduite autonome, robotaxi, perception, lidar, simulation de capteurs_
+  * **Localisation**: États-Unis/Mountain View, États-Unis/San Francisco
+  * **Nombres d'employés**: 2500
+  * **Domaine scientifique/technique**: Vision, Simulation, Acquisition, Reconstruction
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+  * [_Jobs_](https://careers.withwaymo.com/)
+
+
 * **[Wayve](https://wayve.ai/)**  
   * _Entreprise londonienne d'IA embarquée pour la conduite autonome par vision (apprentissage de bout en bout, modèles génératifs de scènes de conduite)._
   * **Mots clés**: _Conduite autonome, Vision, Deep learning_
-  * **Localisation**: Royaume-Uni/Londres
+  * **Localisation**: Royaume-Uni/Londres, États-Unis/Sunnyvale
   * **Nombres d'employés**: 600
   * **Domaine scientifique/technique**: Vision, IA générative (image/3D), Simulation
   * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
@@ -9991,6 +10492,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://wolcenstudio.bamboohr.com/careers)
+
+
+* **[World Labs](https://www.worldlabs.ai/)**  
+  * _Start-up de San Francisco cofondée par Fei-Fei Li qui développe des modèles de monde génératifs produisant des scènes 3D persistantes à partir d'images, de vidéos ou de texte (Marble, World API, bibliothèque de Gaussian splatting Spark)._
+  * **Mots clés**: _modèles de monde, génération 3D, Gaussian splatting, intelligence spatiale_
+  * **Localisation**: États-Unis/San Francisco
+  * **Domaine scientifique/technique**: IA générative (image/3D), Reconstruction, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX, Robotique/Systèmes autonomes
+  * [_Jobs_](https://jobs.ashbyhq.com/worldlabs)
 
 
 * **[Wylie Co.](https://www.wylievfx.com/)**  
@@ -10138,6 +10648,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://zoicstudios.theresumator.com/)
 
 
+* **[Zoox](https://zoox.com/)**  
+  * _Filiale d'Amazon qui conçoit un robotaxi électrique bidirectionnel sans volant et sa pile de conduite autonome (perception, prédiction, simulation 3D de capteurs), en service à Las Vegas et San Francisco._
+  * **Mots clés**: _conduite autonome, robotaxi, perception, simulation de capteurs_
+  * **Localisation**: États-Unis/Foster City
+  * **Nombres d'employés**: 2200
+  * **Domaine scientifique/technique**: Vision, Simulation, Acquisition
+  * **Domaine d'application**: Robotique/Systèmes autonomes, Automobile/Navigation/Aviation
+  * [_Jobs_](https://zoox.com/careers)
+
+
 * **[ZSpace](https://zspace.com/)**  
   * _Ordinateurs portables de réalité augmentée/3D stéréoscopique sans casque, avec stylet d'interaction 3D, pour l'éducation (STEM, formation technique)_
   * **Mots clés**: _réalité augmentée, affichage stéréoscopique, suivi de tête, stylet 3D, éducation, formation professionnelle_
@@ -10153,5 +10673,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Simulation
   * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
   * [_Jobs_](https://zwift.com/careers)
+
+
+* **[Zynga](https://www.zynga.com/)**  
+  * _Éditeur de jeux mobiles et sociaux (Words With Friends, Zynga Poker, FarmVille 3, CSR Racing 2, Match Factory), filiale de Take-Two depuis 2022, dont le siège est à San Mateo._
+  * **Mots clés**: _jeux mobiles, jeux sociaux, free-to-play_
+  * **Localisation**: États-Unis/San Mateo
+  * **Nombres d'employés**: 500
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Analyse de données
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.zynga.com/careers/)
 
 

@@ -8,6 +8,7 @@ Allemagne:
   Villes:
     Berlin: [52.5174, 13.3951]
     Dusseldorf: [51.2254, 6.7763]
+    Fribourg-en-Brisgau: [47.9961, 7.8494]
     Hamburg: [53.5502, 10.0013]
     Munich: [48.1371, 11.5754]
 Australie:
@@ -84,12 +85,16 @@ Espagne:
     Dallas: [32.7763, -96.7969]
     Detroit: [42.3316, -83.0466]
     El Segundo: [33.917, -118.4156]
+    Emeryville: [37.8314, -122.2865]
     Florida: [27.7568, -81.464]
+    Foster City: [37.56, -122.2689]
     Glendale: [34.1469, -118.2478]
     Hawthorne: [33.9128, -118.3426]
+    Hayward: [37.6688, -122.0808]
     Irvine: [33.6857, -117.826]
     Lake Forest: [33.6469, -117.6892]
     Long Beach: [33.769, -118.1916]
+    Los Altos: [37.3791, -122.1166]
     Los Angeles: [34.0537, -118.2428]
     Marina del Rey: [33.9777, -118.4486]
     Menlo Park: [37.452, -122.178]
@@ -98,18 +103,24 @@ Espagne:
     Mountain View: [37.3894, -122.0832]
     New York: [40.7127, -74.006]
     Newport Beach: [33.617, -117.9294]
+    Novato: [38.1062, -122.5681]
     Orange: [33.7879, -117.8531]
     Orlando: [28.5421, -81.379]
+    Palo Alto: [37.4443, -122.1598]
     Pasadena: [34.1477, -118.1442]
     Portland: [45.5202, -122.6742]
     Redmond: [47.6694, -122.1239]
+    Redwood City: [37.4863, -122.2325]
+    San Carlos: [37.5049, -122.2618]
     San Francisco: [37.7879, -122.4075]
     San Jose: [37.3362, -121.8906]
+    San Leandro: [37.7249, -122.1561]
     San Mateo: [37.563, -122.3255]
     Santa Clara: [37.3541, -121.9552]
     Santa Clarita: [34.4128, -118.5538]
     Santa Monica: [34.0195, -118.4912]
     South Pasadena: [34.1133, -118.1478]
+    Sunnyvale: [37.3688, -122.0363]
     Torrance: [33.8371, -118.3414]
     Tustin: [33.7459, -117.8262]
     Waltham: [42.3762, -71.2356]
@@ -354,11 +365,15 @@ Inde:
   Pays: [22.3511, 78.6677]
   Villes:
     Bangalore: [12.9768, 77.5901]
+    Mumbai: [19.055, 72.8692]
 Irlande:
   Villes:
     Dublin: [53.3494, -6.2606]
     Galway: [53.2744, -9.0491]
     Kilkenny: [52.6506, -7.2514]
+Israël:
+  Villes:
+    Tel-Aviv: [32.0853, 34.7818]
 Japon:
   Villes:
     Saitama: [35.8617, 139.6455]

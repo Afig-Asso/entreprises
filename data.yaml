@@ -150,6 +150,9 @@
   Description: Éditeur de logiciels de création (Photoshop, Illustrator, Premiere, Substance 3D) et de documents (Acrobat), intégrant l'IA générative Firefly.
   Place:
     - Country: États-Unis
+      City: San Jose
+      Coordinates: [37.32863, -121.89698]
+      Address: 345 Park Avenue, San Jose, CA 95110
     - Country: Canada
     - City: Paris
       Coordinates: [48.86688, 2.28727]
@@ -253,6 +256,9 @@
   Jobs: https://careers.amd.com/careers-home/jobs
   Place:
     - Country: États-Unis
+      City: Santa Clara
+      Coordinates: [37.38231, -121.97178]
+      Address: 2485 Augustine Drive, Santa Clara, CA 95054
     - Country: Canada
       City: Markham
     - International: true
@@ -378,6 +384,10 @@
     - Country: [États-Unis, Inde, Royaume-Uni, Singapour, Norvège]
     - Country: Canada
       City: [Montréal, Toronto]
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.79441, -122.39469]
+      Address: One Market Plaza, Spear Tower, San Francisco, CA 94105
     - International: true
   Jobs: https://www.autodesk.com/careers/overview
   Scientific-domain: [Modélisation, Animation, Design/Fabrication, Pipeline/Outils de production]
@@ -2057,6 +2067,10 @@
       Address: 223 Rue Saint-Honoré, 75001 Paris
     - Country: Canada
       City: [Montréal, Québec, Oakville, Vancouver]
+    - Country: États-Unis
+      City: Novato
+      Coordinates: [38.05679, -122.51196]
+      Address: 10 Hamilton Landing, Novato, CA 94949
     - International: true
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Acquisition, Vision]
   Application-domain: [Jeu Vidéo]
@@ -2294,6 +2308,9 @@
   Jobs: https://unity.com/careers
   Place:
     - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.78719, -122.40334]
+      Address: 30 3rd Street, San Francisco, CA 94103
     - Country: France
       City: Paris
       Coordinates: [48.83386, 2.3669]
@@ -9542,6 +9559,9 @@
       City: Londres
       Coordinates: [51.543, -0.12563]
       Address: 230 York Way, London N7 9AG
+    - Country: États-Unis
+      City: Sunnyvale
+      Coordinates: [37.3688, -122.0363]
   Scientific-domain: [Vision, IA générative (image/3D), Simulation]
   Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
   Jobs: https://wayve.ai/careers/
@@ -10438,6 +10458,9 @@
     - Country: Royaume-Uni
       City: Londres
       Coordinates: [51.5074, -0.1278]
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7879, -122.4075]
   Scientific-domain: [Reconstruction, Vision, VR/AR, IA générative (image/3D)]
   Application-domain: [Loisir Interactif/Immersion/Metavers, Géospatial/Cartographie, Robotique/Systèmes autonomes]
   Jobs: https://job-boards.greenhouse.io/niantic
@@ -12896,6 +12919,10 @@
       City: [Agoura Hills, Irvine]
       Coordinates: [34.14527, -118.78247]
       Address: 30301 Agoura Rd., Agoura Hills, CA 91301
+    - Country: États-Unis
+      City: Novato
+      Coordinates: [38.05679, -122.51196]
+      Address: Hamilton Landing, Novato, CA 94949
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Acquisition]
   Application-domain: [Jeu Vidéo]
   Jobs: https://boards.greenhouse.io/visualconcepts
@@ -12924,6 +12951,9 @@
       City: Culver City
       Coordinates: [34.02496, -118.37779]
       Address: 3562 Eastham Dr., Culver City, CA 90232
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7879, -122.4075]
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
   Application-domain: [Jeu Vidéo]
   Jobs: https://www.jamcity.com/careers/
@@ -13244,6 +13274,12 @@
       City: Los Angeles
       Coordinates: [33.97988, -118.40732]
       Address: 12130 Millennium Drive, Suite 300, Playa Vista, Los Angeles, CA 90094
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7879, -122.4075]
+    - Country: États-Unis
+      City: Palo Alto
+      Coordinates: [37.4419, -122.143]
   Scientific-domain: [IA générative (image/3D), Animation, Vision]
   Application-domain: [Commerce/Marketing/Publicité, Générique]
   Jobs: https://www.heygen.com/careers
@@ -15296,3 +15332,758 @@
   Application-domain: [Entrainement/Formation/Serious Game, Industrie/Manufacturing/CAO]
   Employees: 15
   Keywords: [réalité virtuelle, formation immersive, gestion de casques, XR entreprise, serious game]
+
+- Name: Pixar
+  Name-long: Pixar Animation Studios
+  url: https://www.pixar.com/
+  Description: Studio de longs métrages d'animation 3D (groupe Disney) fondé en 1986, éditeur du moteur de rendu RenderMan et à l'origine d'OpenUSD, dont les films récents sont Elio (2025), Hoppers et Toy Story 5 (2026).
+  Place:
+    - Country: États-Unis
+      City: Emeryville
+      Coordinates: [37.83191, -122.28272]
+      Address: 1200 Park Avenue, Emeryville, CA 94608
+  Scientific-domain: [Animation, Rendu offline/VFX, Modélisation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://pixar.wd501.myworkdayjobs.com/Pixar_External_Career_Site
+  Employees: 1100
+  Keywords: [long métrage d'animation, RenderMan, OpenUSD, animation 3D, R&D graphique]
+
+- Name: Industrial Light & Magic
+  Name-long: Industrial Light & Magic (ILM)
+  url: https://www.ilm.com/
+  Description: Studio d'effets visuels fondé en 1975 par George Lucas (groupe Lucasfilm/Disney), pionnier de l'image de synthèse et de la production virtuelle StageCraft (Emmy technique en 2026), dont le siège est au Letterman Digital Arts Center du Presidio et qui a travaillé sur les dix films présélectionnés aux Oscars des effets visuels 2026.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.79796, -122.44951]
+      Address: Letterman Digital Arts Center, 1 Letterman Drive, Presidio, San Francisco, CA 94129
+    - Country: Canada
+      City: Vancouver
+    - Country: Royaume-Uni
+      City: Londres
+    - Country: Australie
+      City: Sydney
+    - Country: Inde
+      City: Mumbai
+  Scientific-domain: [Rendu offline/VFX, Simulation, Rendu temps réel/Moteurs 3D, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://join.disneycareers.com/global/en/industrial-light-magic
+  Keywords: [effets visuels, production virtuelle, StageCraft, Star Wars, simulation]
+
+- Name: Baobab Studios
+  url: https://www.baobabstudios.com/
+  Description: 'Studio d''animation indépendant fondé en 2015 par des anciens de DreamWorks, Pixar et Zynga, primé par une dizaine d''Emmy pour ses récits interactifs en réalité virtuelle (Crow: The Legend, Baba Yaga) et qui développe des séries et adaptations animées (The Witchverse pour Disney+, Momoguro, jeux Roblox rachetés en 2026).'
+  Place:
+    - Country: États-Unis
+      City: Redwood City
+      Coordinates: [37.4852, -122.2364]
+  Scientific-domain: [Animation, VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
+  Employees: 30
+  Keywords: [animation 3D, réalité virtuelle, récit interactif, séries d'animation]
+
+- Name: PhaseSpace
+  Name-long: PhaseSpace Inc.
+  url: https://www.phasespace.com/
+  Description: Concepteur et fabricant de systèmes optiques de capture de mouvement à marqueurs LED actifs (Impulse X2E, jusqu'à 960 images par seconde, utilisable en extérieur) employés en production virtuelle, en recherche, en robotique et dans la défense.
+  Place:
+    - Country: États-Unis
+      City: San Leandro
+      Coordinates: [37.69261, -122.17157]
+      Address: 14709 Catalina St, San Leandro, CA 94577
+  Scientific-domain: [Acquisition, Hardware]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Robotique/Systèmes autonomes, Sécurité/Défense]
+  Keywords: [capture de mouvement, LED actives, mocap optique, temps réel]
+
+- Name: Electronic Arts
+  url: https://www.ea.com/
+  Description: Éditeur et développeur américain de jeux vidéo (EA Sports FC, Madden NFL, Battlefield 6, Les Sims, Apex Legends), dont le siège de Redwood City accueille aussi le studio Maxis ; la société a été rachetée par un consortium mené par le PIF saoudien en août 2026.
+  Place:
+    - Country: États-Unis
+      City: Redwood City
+      Coordinates: [37.51938, -122.25238]
+      Address: 209 Redwood Shores Parkway, Redwood City, CA 94065
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://jobs.ea.com/
+  Employees: 14000
+  Keywords: [jeu vidéo AAA, moteur Frostbite, jeux de sport, éditeur]
+
+- Name: Sony Interactive Entertainment
+  url: https://sonyinteractive.com/
+  Description: Filiale jeu vidéo de Sony, constructeur des consoles PlayStation 5 et éditeur des PlayStation Studios (Ghost of Yōtei, Astro Bot, Marathon), dont le siège mondial est à San Mateo.
+  Place:
+    - Country: États-Unis
+      City: San Mateo
+      Coordinates: [37.56207, -122.28228]
+      Address: 2207 Bridgepointe Pkwy, San Mateo, CA 94404
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Hardware, Web/Cloud/Big Data]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://www.playstation.com/en-us/corporate/playstation-careers/
+  Employees: 1500
+  Keywords: [PlayStation, console, plateforme de jeu, PlayStation VR2]
+
+- Name: Cloud Chamber
+  url: https://www.cloudchamberstudios.com/
+  Description: Studio de 2K (Take-Two) qui développe le prochain BioShock, implanté à Novato et à Montréal avec une équipe à distance en Amérique du Nord.
+  Place:
+    - Country: États-Unis
+      City: Novato
+      Coordinates: [38.05679, -122.51196]
+      Address: Hamilton Landing, Novato, CA 94949
+    - Country: Canada
+      City: Montréal
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://boards.greenhouse.io/2k
+  Employees: 200
+  Keywords: [BioShock, jeu AAA, Unreal Engine, 2K]
+
+- Name: 31st Union
+  url: https://thirtyfirstunion.com/
+  Description: Studio de 2K (Take-Two) fondé en 2019 à San Mateo par Michael Condrey, qui développe le jeu de tir multijoueur Project ETHOS.
+  Place:
+    - Country: États-Unis
+      City: San Mateo
+      Coordinates: [37.56299, -122.32553]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://boards.greenhouse.io/2k
+  Employees: 150
+  Keywords: [jeu de tir, multijoueur, Unreal Engine, 2K]
+
+- Name: Zynga
+  url: https://www.zynga.com/
+  Description: Éditeur de jeux mobiles et sociaux (Words With Friends, Zynga Poker, FarmVille 3, CSR Racing 2, Match Factory), filiale de Take-Two depuis 2022, dont le siège est à San Mateo.
+  Place:
+    - Country: États-Unis
+      City: San Mateo
+      Coordinates: [37.56299, -122.32553]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Analyse de données]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.zynga.com/careers/
+  Employees: 500
+  Keywords: [jeux mobiles, jeux sociaux, free-to-play]
+
+- Name: Crystal Dynamics
+  url: https://www.crystald.com/
+  Description: 'Studio de jeux AAA de la baie de San Francisco (Tomb Raider, Legacy of Kain), filiale du groupe Embracer, qui prépare Tomb Raider: Legacy of Atlantis (remake sous Unreal Engine 5 prévu en février 2027) et Tomb Raider: Catalyst.'
+  Place:
+    - Country: États-Unis
+      City: San Carlos
+      Coordinates: [37.5072, -122.2605]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.crystald.com/careers/
+  Employees: 200
+  Keywords: [Tomb Raider, jeu AAA, Unreal Engine 5, Embracer]
+
+- Name: Sledgehammer Games
+  url: https://www.sledgehammergames.com/
+  Description: Studio d'Activision (Microsoft) fondé en 2009, codéveloppeur de la série Call of Duty (Modern Warfare III, Black Ops 7), qui a installé son nouveau siège à San Francisco en juin 2026.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7793, -122.4193]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.sledgehammergames.com/
+  Employees: 300
+  Keywords: [Call of Duty, jeu de tir, jeu AAA, Activision]
+
+- Name: Double Fine
+  url: https://www.doublefine.com/
+  Description: Studio indépendant de San Francisco fondé par Tim Schafer (Psychonauts 2, Brütal Legend, Keeper), redevenu indépendant de Xbox Game Studios en juillet 2026.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7793, -122.4193]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.doublefine.com/jobs
+  Employees: 70
+  Keywords: [jeu d'aventure, Psychonauts, studio indépendant]
+
+- Name: Toys for Bob
+  url: https://toysforbob.com/
+  Description: 'Studio de Novato fondé en 1989 (Skylanders, Spyro Reignited Trilogy, Crash Bandicoot 4), indépendant d''Activision depuis 2024, qui développe Spyro: A Realm Beyond annoncé à l''Xbox Games Showcase de juin 2026.'
+  Place:
+    - Country: États-Unis
+      City: Novato
+      Coordinates: [38.1074, -122.5697]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://toysforbob.com/
+  Employees: 50
+  Keywords: [Spyro, jeu de plateforme, studio indépendant]
+
+- Name: Linden Lab
+  url: https://lindenlab.com/
+  Description: Éditeur du monde virtuel 3D Second Life, créé en 1999 à San Francisco, qui développe aussi un client mobile et un nouveau moteur de rendu pour la plateforme.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.79994, -122.4014]
+      Address: Battery Street, San Francisco, CA 94111
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data, Simulation]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Jeu Vidéo]
+  Jobs: https://lindenlab.com/careers
+  Employees: 150
+  Keywords: [Second Life, monde virtuel, métavers]
+
+- Name: Pocket Gems
+  url: https://www.pocketgems.com/
+  Description: Studio de jeux mobiles de San Francisco fondé en 2009, éditeur du jeu de stratégie 3D War Dragons (moteur maison Mantis) et de la plateforme d'histoires interactives Episode.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7793, -122.4193]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.pocketgems.com/
+  Employees: 200
+  Keywords: [jeux mobiles, War Dragons, Episode, moteur maison]
+
+- Name: Supergiant Games
+  url: https://www.supergiantgames.com/
+  Description: Studio indépendant de San Francisco fondé en 2009, auteur de Bastion, Transistor, Pyre, Hades et Hades II (2025), connu pour sa direction artistique dessinée à la main.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7793, -122.4193]
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.supergiantgames.com/
+  Employees: 25
+  Keywords: [Hades, jeu indépendant, direction artistique]
+
+- Name: Digital Eclipse
+  url: https://digitaleclipse.com/
+  Description: 'Studio d''Emeryville fondé en 1992, filiale d''Atari depuis 2023, spécialisé dans la restauration et la réédition interactive de jeux classiques (Atari 50, The Making of Karateka, Tetris Forever, Mortal Kombat: Legacy Kollection, Rayman 30th Anniversary Edition).'
+  Place:
+    - Country: États-Unis
+      City: Emeryville
+      Coordinates: [37.8313, -122.2852]
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Pipeline/Outils de production]
+  Application-domain: [Jeu Vidéo, Patrimoine/Culture]
+  Jobs: https://digitaleclipse.com/
+  Employees: 50
+  Keywords: [rétrogaming, émulation, préservation du jeu vidéo, Atari]
+
+- Name: Ares Interactive
+  url: https://www.aresinteractive.com/
+  Description: 'Développeur et éditeur de jeux mobiles free-to-play fondé en 2024 par des vétérans du secteur, dont le studio 7th Inning à San Francisco réalise Baseball Hits 26 et le studio Swift Games à Berlin Heroes vs. Hordes et The Walking Dead: Aftermath (juillet 2026).'
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7793, -122.4193]
+    - Country: Allemagne
+      City: Berlin
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.aresinteractive.com/careers
+  Employees: 60
+  Keywords: [jeux mobiles, free-to-play, jeux de sport, 7th Inning]
+
+- Name: OpenAI
+  url: https://openai.com/
+  Description: Laboratoire et éditeur d'IA de San Francisco (ChatGPT) dont les équipes développent aussi des modèles génératifs d'images et de vidéos (GPT Image, Sora 2).
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.77151, -122.3895]
+      Address: 1455 Third Street, San Francisco, CA 94158
+  Scientific-domain: [IA générative (image/3D)]
+  Application-domain: [Générique, Cinéma/Films d'Animation/VFX]
+  Jobs: https://openai.com/careers/
+  Employees: 4500
+  Keywords: [IA générative, génération de vidéo, génération d'images, modèles de diffusion]
+
+- Name: Figma
+  url: https://www.figma.com/
+  Description: Éditeur de San Francisco de l'outil collaboratif de conception d'interfaces et de graphisme vectoriel Figma (Figma Design, FigJam, Figma Slides, Figma Make), dont le moteur de rendu s'exécute dans le navigateur sur le GPU.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.78647, -122.40525]
+      Address: 760 Market St, Floor 10, San Francisco, CA 94102
+  Scientific-domain: [IHM/Haptique, Rendu temps réel/Moteurs 3D, Web/Cloud/Big Data]
+  Application-domain: [Générique, Art/Evenementiel]
+  Jobs: https://www.figma.com/careers/
+  Keywords: [outil de conception, graphisme vectoriel, rendu GPU dans le navigateur, collaboratif]
+
+- Name: Midjourney
+  url: https://www.midjourney.com/
+  Description: Laboratoire indépendant de San Francisco qui développe le générateur d'images Midjourney (modèle V7) et ses modèles de génération vidéo.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [IA générative (image/3D)]
+  Application-domain: [Art/Evenementiel, Générique]
+  Jobs: https://jobs.ashbyhq.com/midjourney
+  Keywords: [génération d'images, génération de vidéo, modèles de diffusion, création artistique]
+
+- Name: Luma AI
+  url: https://lumalabs.ai/
+  Description: Start-up de Palo Alto spécialisée dans les modèles génératifs de vidéo et de 3D (Dream Machine, modèles Ray), issue de la capture 3D par NeRF et Gaussian splatting.
+  Place:
+    - Country: États-Unis
+      City: Palo Alto
+      Coordinates: [37.44178, -122.1612]
+      Address: 715 Alma Street, Palo Alto, CA 94301
+  Scientific-domain: [IA générative (image/3D), Reconstruction]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
+  Jobs: https://lumalabs.ai/careers
+  Keywords: [génération de vidéo, modèles de monde, NeRF, Gaussian splatting]
+
+- Name: Pika
+  url: https://pika.art/
+  Description: Start-up de Palo Alto (Mellis, Inc.) qui développe des modèles et une application de génération et d'édition de vidéos par IA.
+  Place:
+    - Country: États-Unis
+      City: Palo Alto
+      Coordinates: [37.44135, -122.15892]
+      Address: 849 High St, Palo Alto, CA 94301
+  Scientific-domain: [IA générative (image/3D)]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Commerce/Marketing/Publicité]
+  Jobs: https://jobs.ashbyhq.com/pika
+  Keywords: [génération de vidéo, modèles de diffusion, édition vidéo]
+
+- Name: World Labs
+  url: https://www.worldlabs.ai/
+  Description: Start-up de San Francisco cofondée par Fei-Fei Li qui développe des modèles de monde génératifs produisant des scènes 3D persistantes à partir d'images, de vidéos ou de texte (Marble, World API, bibliothèque de Gaussian splatting Spark).
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [IA générative (image/3D), Reconstruction, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX, Robotique/Systèmes autonomes]
+  Jobs: https://jobs.ashbyhq.com/worldlabs
+  Keywords: [modèles de monde, génération 3D, Gaussian splatting, intelligence spatiale]
+
+- Name: fal
+  url: https://fal.ai/
+  Description: Plateforme d'inférence de San Francisco (Features & Labels Inc.) dédiée aux médias génératifs, qui héberge et optimise sur GPU des centaines de modèles de génération d'images, de vidéos et de 3D.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [IA générative (image/3D), Web/Cloud/Big Data]
+  Application-domain: [Générique]
+  Jobs: https://jobs.ashbyhq.com/fal-ai
+  Keywords: [médias génératifs, inférence GPU, API, génération de vidéo]
+
+- Name: Krea
+  url: https://www.krea.ai/
+  Description: Start-up de San Francisco qui édite une suite créative de génération et d'amélioration d'images et de vidéos par IA, en temps réel, et entraîne ses propres modèles.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [IA générative (image/3D)]
+  Application-domain: [Art/Evenementiel, Commerce/Marketing/Publicité]
+  Jobs: https://jobs.ashbyhq.com/krea
+  Keywords: [génération d'images, génération de vidéo, temps réel, outil créatif]
+
+- Name: Genmo
+  url: https://www.genmo.ai/
+  Description: Laboratoire de San Francisco qui développe des modèles ouverts de génération vidéo par diffusion (Mochi).
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [IA générative (image/3D)]
+  Application-domain: [Générique]
+  Jobs: https://jobs.ashbyhq.com/genmo
+  Keywords: [génération de vidéo, modèles de diffusion, open source]
+
+- Name: Hedra
+  url: https://www.hedra.com/
+  Description: Start-up de San Francisco qui développe des modèles de génération vidéo de personnages animés et parlants (Character-3) et un studio de création vidéo par IA.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [IA générative (image/3D), Animation]
+  Application-domain: [Commerce/Marketing/Publicité, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://jobs.ashbyhq.com/hedra
+  Keywords: [génération de vidéo, avatars, animation de personnages]
+
+- Name: Tavus
+  url: https://www.tavus.io/
+  Description: Start-up de San Francisco qui développe des modèles de génération vidéo de visages et d'humains numériques conversationnels en temps réel.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [IA générative (image/3D), Animation]
+  Application-domain: [Commerce/Marketing/Publicité, Générique]
+  Jobs: https://jobs.ashbyhq.com/tavus
+  Keywords: [humains numériques, génération de vidéo, avatars temps réel]
+
+- Name: Vizcom
+  url: https://www.vizcom.ai/
+  Description: Start-up de San Francisco qui édite un outil d'IA générative pour le design industriel, transformant croquis en rendus réalistes et en modèles 3D.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.78156, -122.39564]
+      Address: 488 Bryant St., San Francisco, CA 94107
+  Scientific-domain: [IA générative (image/3D), Design/Fabrication, Modélisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation, Mode/Vêtements/Accessoires]
+  Jobs: https://jobs.ashbyhq.com/vizcom
+  Keywords: [design industriel, croquis vers rendu, génération 3D]
+
+- Name: Bolt Graphics
+  url: https://bolt.graphics/
+  Description: Start-up de Sunnyvale qui conçoit Zeus, un processeur graphique axé sur le path tracing temps réel et la simulation, pour le rendu de films, le jeu, l'architecture et le calcul haute performance.
+  Place:
+    - Country: États-Unis
+      City: Sunnyvale
+      Coordinates: [37.39651, -122.03247]
+      Address: 757 N Pastoria Ave, Sunnyvale, CA 94085
+  Scientific-domain: [Hardware, Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Simulation]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Jeu Vidéo, Architecture/BTP/Urbanisme]
+  Keywords: [GPU, path tracing, puce graphique, calcul haute performance]
+
+- Name: Intel
+  url: https://www.intel.com/
+  Description: Fabricant de semi-conducteurs dont le siège de Santa Clara accueille des équipes de la division graphique (performance des GPU Arc/Xe, compilateur graphique Intel Graphics Compiler).
+  Place:
+    - Country: États-Unis
+      City: Santa Clara
+      Coordinates: [37.38866, -121.96494]
+      Address: 2200 Mission College Blvd, Santa Clara, CA 95054
+  Scientific-domain: [Hardware, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Générique]
+  Jobs: https://jobs.intel.com/
+  Employees: 85100
+  Keywords: [GPU, processeurs graphiques, pilotes et compilateurs graphiques, semi-conducteurs]
+
+- Name: Black Forest Labs
+  url: https://bfl.ai/
+  Description: Laboratoire d'IA générative (siège à Fribourg-en-Brisgau) créé par les auteurs de Stable Diffusion, qui développe les modèles de génération d'images FLUX et dispose d'une équipe à San Francisco.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+    - Country: Allemagne
+      City: Fribourg-en-Brisgau
+  Scientific-domain: [IA générative (image/3D)]
+  Application-domain: [Générique, Art/Evenementiel]
+  Jobs: https://job-boards.greenhouse.io/blackforestlabs
+  Keywords: [génération d'images, FLUX, modèles ouverts, modèles de diffusion]
+
+- Name: Decart
+  url: https://decart.ai/
+  Description: Laboratoire d'IA de San Francisco et Tel-Aviv qui développe des modèles génératifs vidéo temps réel (Lucy, édition vidéo en direct) et des modèles de monde interactifs (Oasis).
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+    - Country: Israël
+      City: Tel-Aviv
+  Scientific-domain: [IA générative (image/3D), Rendu temps réel/Moteurs 3D]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Jeu Vidéo, Robotique/Systèmes autonomes]
+  Keywords: [génération de vidéo temps réel, modèles de monde, édition vidéo en direct]
+
+- Name: Pixelworks
+  url: https://www.pixelworks.com/
+  Description: Éditeur de San Jose de processeurs vidéo et d'affichage et de la plateforme TrueCut Motion d'étalonnage du mouvement pour le cinéma (adoptée par Kinepolis, ODEON, Vue en 2026).
+  Place:
+    - Country: États-Unis
+      City: San Jose
+      Coordinates: [37.36915, -121.9225]
+      Address: 226 Airport Pkwy, San Jose, CA 95110
+  Scientific-domain: [Imagerie, Hardware]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Générique]
+  Jobs: https://www.pixelworks.com/
+  Keywords: [traitement vidéo, processeur d'affichage, TrueCut Motion, HDR]
+
+- Name: Meshy
+  url: https://www.meshy.ai/
+  Description: Éditeur d'un générateur de modèles 3D texturés par IA à partir de texte ou d'images (Meshy), avec un bureau dans la baie à Sunnyvale et des équipes en Chine.
+  Place:
+    - Country: États-Unis
+      City: Sunnyvale
+      Coordinates: [37.37806, -122.03105]
+      Address: Murphy Square, 111 West Evelyn Avenue, Suite 304, Sunnyvale, CA 94086
+  Scientific-domain: [IA générative (image/3D), Modélisation]
+  Application-domain: [Jeu Vidéo, Industrie/Manufacturing/CAO]
+  Jobs: https://jobs.ashbyhq.com/meshy
+  Keywords: [génération 3D, texte vers 3D, texturation par IA]
+
+- Name: Comfy Org
+  url: https://www.comfy.org/
+  Description: Société de San Francisco qui développe ComfyUI, l'interface open source par nœuds de génération d'images et de vidéos par IA, et son offre Comfy Cloud.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+    - Country: Canada
+      City: Québec
+  Scientific-domain: [IA générative (image/3D), Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Art/Evenementiel, Générique]
+  Jobs: https://jobs.ashbyhq.com/comfy-org
+  Employees: 65
+  Keywords: [ComfyUI, open source, flux de travail génératifs, outil créatif]
+
+- Name: Rive
+  url: https://rive.app/
+  Description: Éditeur, domicilié à San Francisco, de l'outil d'animation vectorielle interactive Rive et de ses runtimes, avec un moteur de rendu GPU open source (Rive Renderer) pour applications, sites et jeux.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [Animation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Générique, Jeu Vidéo]
+  Employees: 45
+  Keywords: [animation vectorielle, animation interactive, moteur de rendu, runtime]
+
+- Name: Waymo
+  url: https://waymo.com/
+  Description: Filiale d'Alphabet qui développe et exploite le Waymo Driver, système de conduite autonome à base de lidars, caméras et radars, avec un service de robotaxis commercial (San Francisco, Phoenix, Los Angeles...) et une forte activité de perception et de simulation (World Model, réalisme de la simulation).
+  Place:
+    - Country: États-Unis
+      City: Mountain View
+      Coordinates: [37.3861, -122.0839]
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [Vision, Simulation, Acquisition, Reconstruction]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
+  Jobs: https://careers.withwaymo.com/
+  Employees: 2500
+  Keywords: [conduite autonome, robotaxi, perception, lidar, simulation de capteurs]
+
+- Name: Zoox
+  url: https://zoox.com/
+  Description: Filiale d'Amazon qui conçoit un robotaxi électrique bidirectionnel sans volant et sa pile de conduite autonome (perception, prédiction, simulation 3D de capteurs), en service à Las Vegas et San Francisco.
+  Place:
+    - Country: États-Unis
+      City: Foster City
+      Coordinates: [37.5674, -122.27229]
+      Address: 1149 Chess Drive, Foster City, CA 94404
+  Scientific-domain: [Vision, Simulation, Acquisition]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation]
+  Jobs: https://zoox.com/careers
+  Employees: 2200
+  Keywords: [conduite autonome, robotaxi, perception, simulation de capteurs]
+
+- Name: Intuitive Surgical
+  url: https://www.intuitive.com/
+  Description: Fabricant du robot chirurgical da Vinci (et de la plateforme de bronchoscopie robotisée Ion), avec vision stéréoscopique 3D, imagerie peropératoire et simulateurs d'entraînement chirurgical.
+  Place:
+    - Country: États-Unis
+      City: Sunnyvale
+      Coordinates: [37.37386, -122.00364]
+      Address: 1020 Kifer Road, Sunnyvale, CA 94086
+  Scientific-domain: [Imagerie, Vision, Simulation, IHM/Haptique]
+  Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
+  Employees: 17000
+  Keywords: [robotique chirurgicale, da Vinci, vision 3D, simulateur chirurgical]
+
+- Name: Applied Intuition
+  url: https://www.appliedintuition.com/
+  Description: 'Éditeur de logiciels pour véhicules autonomes et définis par logiciel : simulation de capteurs neuronale et physique, terrains d''essai numériques, outils de validation, OS véhicule et pile de conduite autonome, aussi pour la défense.'
+  Place:
+    - Country: États-Unis
+      City: Sunnyvale
+      Coordinates: [37.38341, -122.03901]
+      Address: 860 W California Avenue, Sunnyvale, CA 94086
+  Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D, Vision, Reconstruction]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Sécurité/Défense]
+  Jobs: https://www.appliedintuition.com/careers
+  Employees: 1000
+  Keywords: [simulation de capteurs, conduite autonome, jumeau numérique, validation]
+
+- Name: Skydio
+  url: https://www.skydio.com/
+  Description: Constructeur de drones autonomes (X10, Dock) guidés par vision par ordinateur et cartographie 3D embarquée, pour l'inspection, la sécurité publique et la défense.
+  Place:
+    - Country: États-Unis
+      City: San Mateo
+      Coordinates: [37.53319, -122.3329]
+      Address: 3000 Clearview Way, San Mateo, CA 94402
+    - Country: États-Unis
+      City: Hayward
+      Coordinates: [37.6688, -122.0808]
+  Scientific-domain: [Vision, Reconstruction, Simulation]
+  Application-domain: [Robotique/Systèmes autonomes, Sécurité/Défense, Géospatial/Cartographie]
+  Jobs: https://www.skydio.com/careers
+  Keywords: [drone autonome, vision embarquée, inspection, cartographie 3D]
+
+- Name: Ambarella
+  url: https://www.ambarella.com/
+  Description: Concepteur de puces de vision par ordinateur et d'IA embarquée (SoC CVflow) pour caméras de sécurité, automobile (ADAS, conduite autonome) et robotique.
+  Place:
+    - Country: États-Unis
+      City: Santa Clara
+      Coordinates: [37.40351, -121.98658]
+      Address: 3001 Tasman Drive, Santa Clara, CA 95054
+  Scientific-domain: [Vision, Hardware, Imagerie]
+  Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense, Robotique/Systèmes autonomes]
+  Employees: 915
+  Keywords: [puces de vision, IA embarquée, traitement d'image, ADAS]
+
+- Name: Matterport
+  url: https://matterport.com/
+  Description: Plateforme de capture de la réalité et de jumeaux numériques d'intérieurs (caméras Pro3, capture par smartphone, IA de reconstruction 3D), filiale de CoStar Group.
+  Place:
+    - Country: États-Unis
+      City: Sunnyvale
+      Coordinates: [37.3688, -122.0363]
+  Scientific-domain: [Reconstruction, Acquisition, Vision, Web/Cloud/Big Data]
+  Application-domain: [Architecture/BTP/Urbanisme, Commerce/Marketing/Publicité]
+  Jobs: https://matterport.com/careers
+  Employees: 455
+  Keywords: [jumeau numérique, capture 3D, immobilier, visite virtuelle]
+
+- Name: Planet Labs
+  url: https://www.planet.com/
+  Description: Opérateur de la plus grande constellation de satellites d'imagerie de la Terre (Dove, SkySat, Pelican, Tanager) et de produits d'analyse d'images par IA.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.78344, -122.39616]
+      Address: 645 Harrison Street, Floor 4, San Francisco, CA 94107
+  Scientific-domain: [Imagerie, Vision, Acquisition, Analyse de données]
+  Application-domain: [Géospatial/Cartographie, Énergie/Environnement, Sécurité/Défense]
+  Jobs: https://www.planet.com/company/careers/
+  Employees: 1000
+  Keywords: [imagerie satellitaire, observation de la Terre, télédétection, IA géospatiale]
+
+- Name: Ouster
+  url: https://ouster.com/
+  Description: Fabricant de lidars numériques 3D (séries OS, DF) et de logiciels de perception pour l'automobile, l'industrie, la robotique et les infrastructures intelligentes (fusion avec Velodyne en 2023).
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.76451, -122.41348]
+      Address: 350 Treat Avenue, San Francisco, CA 94110
+  Scientific-domain: [Acquisition, Vision, Hardware]
+  Application-domain: [Robotique/Systèmes autonomes, Automobile/Navigation/Aviation, Industrie/Manufacturing/CAO]
+  Employees: 350
+  Keywords: [lidar, capteur 3D, nuage de points, perception]
+
+- Name: Aeva
+  url: https://www.aeva.com/
+  Description: Fabricant de lidars 4D FMCW (mesure de distance et de vitesse) et de logiciels de perception pour l'automobile, l'industrie et la métrologie.
+  Place:
+    - Country: États-Unis
+      City: Mountain View
+      Coordinates: [37.40282, -122.05119]
+      Address: 555 Ellis Street, Mountain View, CA 94043
+  Scientific-domain: [Acquisition, Vision, Hardware]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO]
+  Keywords: [lidar FMCW, capteur 3D, perception, métrologie]
+
+- Name: HeartFlow
+  url: https://www.heartflow.com/
+  Description: Éditeur d'une plateforme d'imagerie cardiaque par IA qui reconstruit un modèle 3D personnalisé des coronaires à partir du scanner et simule le flux sanguin (FFRct, analyse de plaque).
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.79144, -122.39434]
+      Address: 135 Main Street, Suite 1000, San Francisco, CA 94105
+  Scientific-domain: [Imagerie, Reconstruction, Simulation]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie cardiaque, modèle 3D patient, simulation de flux, scanner]
+
+- Name: PROCEPT BioRobotics
+  url: https://www.procept-biorobotics.com/
+  Description: Fabricant de systèmes de chirurgie robotisée guidée par l'image (AquaBeam, HYDROS) pour l'aquablation de la prostate, combinant échographie peropératoire, planification et IA.
+  Place:
+    - Country: États-Unis
+      City: San Jose
+      Coordinates: [37.42165, -121.95481]
+      Address: 150 Baytech Drive, San Jose, CA 95134
+  Scientific-domain: [Imagerie, Vision, IHM/Haptique]
+  Application-domain: [Médical/Biologique, Robotique/Systèmes autonomes]
+  Keywords: [robotique chirurgicale, échographie, chirurgie guidée par l'image]
+
+- Name: Toyota Research Institute
+  url: https://www.tri.global/
+  Description: Institut de recherche de Toyota (conduite automatisée, robotique et grands modèles de comportement, science des matériaux) avec des équipes en vision par ordinateur, modèles de monde vidéo et simulation.
+  Place:
+    - Country: États-Unis
+      City: Los Altos
+      Coordinates: [37.3852, -122.1141]
+  Scientific-domain: [Vision, Simulation, IA générative (image/3D)]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes]
+  Jobs: https://www.tri.global/careers
+  Keywords: [robotique, conduite automatisée, modèles de monde, recherche]
+
+- Name: OpenSpace
+  url: https://www.openspace.ai/
+  Description: 'Éditeur d''une plateforme de capture de la réalité pour la construction : captures 360° à pied, par drone ou smartphone, recalées automatiquement sur plans et maquettes BIM par vision par ordinateur, suivi d''avancement par IA.'
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.79107, -122.40417]
+      Address: 333 Kearny St., Floor 4, San Francisco, CA 94108
+  Scientific-domain: [Reconstruction, Vision, Acquisition]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Jobs: https://www.openspace.ai/careers/
+  Employees: 190
+  Keywords: [capture de la réalité, construction, 360°, BIM, vision par ordinateur]
+
+- Name: Hover
+  url: https://hover.to/
+  Description: Éditeur d'une application qui génère des modèles 3D mesurés de maisons à partir de quelques photos de smartphone, pour la rénovation, l'assurance et la construction.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [Reconstruction, Vision, Acquisition]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Jobs: https://hover.to/careers
+  Keywords: [reconstruction 3D, photogrammétrie, smartphone, rénovation]
+
+- Name: Varian
+  url: https://www.varian.com/
+  Description: Filiale de Siemens Healthineers spécialisée dans la radiothérapie guidée par l'image (accélérateurs TrueBeam, Ethos, Halcyon, imagerie CBCT HyperSight) et les logiciels de planification de traitement (Eclipse) intégrant segmentation et IA.
+  Place:
+    - Country: États-Unis
+      City: Palo Alto
+      Coordinates: [37.4419, -122.143]
+  Scientific-domain: [Imagerie, Visualisation, Simulation]
+  Application-domain: [Médical/Biologique]
+  Employees: 10000
+  Keywords: [radiothérapie, imagerie guidée, planification de traitement, oncologie]
+
+- Name: Duality AI
+  url: https://www.duality.ai/
+  Description: Éditeur de Falcon, plateforme de simulation et de jumeaux numériques basée sur Unreal Engine pour générer des données synthétiques et tester des systèmes autonomes (robotique, défense, drones).
+  Place:
+    - Country: États-Unis
+      City: San Mateo
+      Coordinates: [37.563, -122.3255]
+  Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D, Reconstruction]
+  Application-domain: [Robotique/Systèmes autonomes, Sécurité/Défense]
+  Jobs: https://www.duality.ai/careers
+  Keywords: [jumeau numérique, données synthétiques, simulation de robots, Unreal Engine]
+
+- Name: Osso VR
+  url: https://www.ossovr.com/
+  Description: Éditeur d'une plateforme de formation chirurgicale en réalité virtuelle (plus de 150 modules de procédures, formation des infirmiers) utilisée par des hôpitaux universitaires et des fabricants de dispositifs médicaux.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [VR/AR, Simulation, Animation]
+  Application-domain: [Médical/Biologique, Entrainement/Formation/Serious Game]
+  Keywords: [réalité virtuelle, simulation chirurgicale, formation médicale]
+
+- Name: DroneDeploy
+  url: https://www.dronedeploy.com/
+  Description: Éditeur d'une plateforme de capture de la réalité par drones, robots terrestres et 360° (cartes, modèles 3D, photogrammétrie, analyse par IA) pour la construction, l'énergie et l'agriculture, racheté par Procore en septembre 2026.
+  Place:
+    - Country: États-Unis
+      City: San Francisco
+      Coordinates: [37.7749, -122.4194]
+  Scientific-domain: [Reconstruction, Acquisition, Vision, Web/Cloud/Big Data]
+  Application-domain: [Architecture/BTP/Urbanisme, Géospatial/Cartographie, Énergie/Environnement]
+  Jobs: https://dronedeploy.com/about/careers
+  Keywords: [drone, photogrammétrie, capture de la réalité, jumeau numérique]
