@@ -91,6 +91,25 @@ def zones_table(data, zones):
     return table, problems
 
 
+def regions_table(data, zones_table, regions):
+    """Table French zone -> region for data.json (regions.yaml), and the list of problems found.
+
+    A zone is a zone name of zones.yaml, or a French city absent from zones.yaml."""
+    table, problems = {}, []
+    french_zones = {zones_table.get(city, city) for country, city in all_locations(data) if country == 'France' and city != ''}
+    for region, zones in (regions or {}).items():
+        for zone in split_names(zones):
+            if zone in table:
+                problems.append(f'zone [{zone}] is in two regions: [{table[zone]}] and [{region}]')
+                continue
+            if zone not in french_zones:
+                problems.append(f'zone [{zone}] of region [{region}] is not used in data.yaml')
+            table[zone] = region
+    for zone in sorted(french_zones - set(table)):
+        problems.append(f'French zone or city [{zone}] has no region')
+    return table, problems
+
+
 def coordinates_table(data, places_table):
     """Table key -> [lat, lon] for data.json, and the list of locations without coordinates."""
     table, missing = {}, []

@@ -530,25 +530,94 @@ function zone_cities(zone, entries) {
     return (list.length==1 && list[0]==zone) ? [] : list;
 }
 
-function display_city(city, entries) {
-    const cities = zone_cities(city, entries);
-    const cities_txt = cities.length==0 ? '' : ` <span class="zone-cities">${cities.join(', ')}</span>`;
-    let txt = `<h3 class="title-place title-city" id="${place_id('ville', city)}" tabindex="-1">${city}${cities_txt} ${place_count(entries.length)}</h3>\n`;
-    txt += '<div class="container-place-city">\n' + display_list(entries, 4) + '</div>\n';
+// Region of a French zone (regions.yaml, exported in data.json 'Regions'): ex. Lyon -> Auvergne-Rhône-Alpes
+function french_region(zone) {
+    const regions = (company_data && company_data['Regions']) || {};
+    return regions[zone] || 'Autres villes';
+}
+
+// Below this number of companies, the zones of a region are gathered in one block "Autres villes"
+const MIN_COMPANIES_ZONE = 3;
+
+function unique_entries(lists) {
+    const all = [];
+    for(const list of lists) {
+        for(const entry of list) {
+            if(!all.includes(entry)) all.push(entry);
+        }
+    }
+    return all;
+}
+
+// French zones grouped by region: [{name, entries, blocks:[{name, id, entries, cities}]}], largest region first.
+// In a region, the zones with enough companies have their own block (largest first), the others share one block.
+function french_regions(french_entries) {
+    const by_region = {};
+    for(const zone of Object.keys(french_entries)) {
+        const region = french_region(zone);
+        (by_region[region] = by_region[region] || []).push(zone);
+    }
+    const regions = [];
+    for(const [region, zones] of Object.entries(by_region)) {
+        const big = zones.filter((z) => french_entries[z].length>=MIN_COMPANIES_ZONE)
+            .sort((a, b) => french_entries[b].length - french_entries[a].length || compare_fr(a, b));
+        const small = zones.filter((z) => !big.includes(z)).sort(compare_fr);
+        const blocks = big.map((z) => ({'name': z, 'id': place_id('ville', z), 'entries': french_entries[z], 'cities': zone_cities(z, french_entries[z])}));
+        if(small.length>0) {
+            const entries = unique_entries(small.map((z) => french_entries[z])).sort((a, b) => compare_fr(a['Name'], b['Name']));
+            const cities = [...new Set(small.flatMap((z) => zone_cities(z, french_entries[z]).length>0 ? zone_cities(z, french_entries[z]) : [z]))].sort(compare_fr);
+            blocks.push({'name': big.length>0 ? 'Autres villes' : '', 'id': place_id('autres', region), 'entries': entries, 'cities': cities, 'others': true});
+        }
+        regions.push({'name': region, 'id': place_id('region', region), 'blocks': blocks,
+            'entries': unique_entries(zones.map((z) => french_entries[z]))});
+    }
+    return regions.sort((a, b) => b['entries'].length - a['entries'].length || compare_fr(a['name'], b['name']));
+}
+
+// Cities under a heading; a long list (Île-de-France) is shortened to its main city and a count
+const MAX_CITIES_HEADING = 15;
+function cities_span(cities, zone) {
+    if(cities.length==0) {
+        return '';
+    }
+    let txt = cities.join(', ');
+    if(cities.length>MAX_CITIES_HEADING) {
+        const main = cities.find((c) => zone!=undefined && zone.startsWith(c));
+        txt = main!=undefined ? `${main} et ${cities.length-1} autres communes` : `${cities.length} communes`;
+    }
+    return ` <span class="zone-cities" title="${esc(cities.join(', '))}">${txt}</span>`;
+}
+
+// One region: its heading, then one sub-heading per block (none when the region has a single block)
+function display_region(region) {
+    const blocks = region['blocks'];
+    const single = blocks.length==1;
+    const cities = single ? cities_span(blocks[0]['cities'], blocks[0]['name']) : '';
+    // a single zone keeps its id, for the links to a city
+    const ids = single && !blocks[0]['others'] ? `<span id="${blocks[0]['id']}"></span>` : '';
+    let txt = `<h3 class="title-place title-region" id="${region['id']}" tabindex="-1">${ids}${region['name']}${cities} ${place_count(region['entries'].length)}</h3>\n`;
+    if(single) {
+        return txt + '<div class="container-place-city">\n' + display_list(blocks[0]['entries'], 4) + '</div>\n';
+    }
+    for(const block of blocks) {
+        const cls = block['others'] ? ' title-others' : '';
+        txt += `<h4 class="title-place title-city${cls}" id="${block['id']}" tabindex="-1">${block['name']}${cities_span(block['cities'], block['name'])} ${place_count(block['entries'].length)}</h4>\n`;
+        txt += '<div class="container-place-city">\n' + display_list(block['entries'], 5) + '</div>\n';
+    }
     return txt;
 }
 
-// Index of the place view: one link per French city, then per country
-function display_place_index(cities, french_entries, countries, data) {
+// Index of the place view: one link per French region, then per country
+function display_place_index(regions, countries, data) {
     const link = (id, name, N) => `<a class="place-link" href="#${id}">${name}<span class="place-link-count"><span class="visually-hidden"> : </span>${N}</span></a>`;
-    // Folded by default on small screens (long list of cities)
+    // Folded by default on small screens
     const open = window.matchMedia('(min-width: 761px)').matches ? ' open' : '';
-    const N_places = cities.length + countries.length;
+    const N_places = regions.length + countries.length;
     let txt = `<nav class="place-index" aria-label="Aller à une localité"><details${open}>`
         + `<summary>Aller à une localité <span class="place-index-total">${N_places} lieux</span></summary>\n`;
-    if(cities.length>0) {
+    if(regions.length>0) {
         txt += '<div class="place-index-row"><span class="place-index-label">France</span><div class="place-index-links">';
-        txt += cities.map((c) => link(place_id('ville', c), c, french_entries[c].length)).join('');
+        txt += regions.map((r) => link(r['id'], r['name'], r['entries'].length)).join('');
         txt += '</div></div>\n';
     }
     if(countries.length>0) {
@@ -572,23 +641,17 @@ function display_company(data, N_displayed) {
     const all_countries = Object.keys(data).sort(compare_fr);
     const other_countries = all_countries.filter((c) => c!='France');
 
-    // Display France first, sorted by zone (zones.yaml), the zone of Paris first
+    // France first, by region (regions.yaml) then by zone (zones.yaml), the largest first
     const french_entries = data['France'];
-    let cities = [];
-    if(french_entries != undefined) {
-        const paris = french_zone('Paris');
-        cities = Object.keys(french_entries).sort(compare_fr).filter((c) => c!=paris);
-        if(french_entries[paris]!=undefined) {
-            cities.unshift(paris);
-        }
-    }
-    HTML_txt += display_place_index(cities, french_entries, other_countries, data);
+    const regions = french_entries!=undefined ? french_regions(french_entries) : [];
+    HTML_txt += display_place_index(regions, other_countries, data);
 
     if(french_entries != undefined) {
-        HTML_txt += `<h2 class="title-place" id="pays-france" tabindex="-1">France</h2>\n`
+        const N_france = unique_entries(regions.map((r) => r['entries'])).length;
+        HTML_txt += `<h2 class="title-place" id="pays-france" tabindex="-1">France ${place_count(N_france)}</h2>\n`
         HTML_txt += '<div class="container-place">\n'
-        for(let city of cities) {
-            HTML_txt += display_city(city, french_entries[city]);
+        for(const region of regions) {
+            HTML_txt += display_region(region);
         }
         HTML_txt += '</div>\n'
     }

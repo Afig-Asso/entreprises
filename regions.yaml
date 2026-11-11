@@ -1,0 +1,24 @@
+# Région des zones françaises (zones.yaml), pour la vue "par localité" du site :
+# la France est découpée par région, puis par zone (ex. Auvergne-Rhône-Alpes > Lyon, Grenoble...).
+#
+# Format:
+#   Nom de la région: [Zone1, Ville2, ...]   // nom de zone de zones.yaml, ou ville de data.yaml hors zone
+#
+# Chaque ville française de data.yaml doit avoir une région (un avertissement sinon).
+
+Île-de-France: [Paris – Île-de-France]
+Auvergne-Rhône-Alpes: [Lyon, Grenoble, Annecy, Valence, Saint-Étienne, Clermont-Ferrand, Chimilin, Sulignat,
+  Le Bourget-du-Lac]
+Nouvelle-Aquitaine: [Bordeaux, Angoulême, Limoges, La Rochelle, Bayonne – Anglet, Poitiers, Royan, Gujan-Mestras, Pau]
+Occitanie: [Toulouse, Montpellier, La Grande-Motte, Lunel, Gallargues-le-Montueux, Nîmes, Bagnols-sur-Cèze, Tarbes,
+  Fontanes]
+Grand Est: [Strasbourg, Metz, Nancy, Lunéville, Morhange, Diane-Capelle, Yutz, Troyes, Charleville-Mézières,
+  Saint-Louis]
+Provence-Alpes-Côte d'Azur: [Aix-Marseille, Nice – Sophia Antipolis, Toulon, Avignon, Arles]
+Bretagne: [Rennes, Brest, Vannes, Saint-Malo]
+Hauts-de-France: [Lille, Valenciennes, Compiègne, Chantilly, Liancourt, Douvrin]
+Pays de la Loire: [Nantes, Laval, Angers]
+Bourgogne-Franche-Comté: [Besançon, Dijon, Belfort, Nevers]
+Normandie: [Caen, Saint-Romain-de-Colbosc, Vernon, Le Petit-Quevilly]
+Centre-Val de Loire: [Tours, Orléans, Vendôme, Chartres]
+Outre-mer: [Saint-Denis (La Réunion), Saint-Paul (La Réunion), Nouméa (Nouvelle-Calédonie), Baie-Mahault (Guadeloupe)]

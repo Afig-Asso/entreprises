@@ -491,6 +491,14 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
 }
 .place-index + .title-place { margin-top: 0; }
 .place-count { font-family: var(--font); font-weight: 400; font-size: 0.85rem; color: var(--muted); letter-spacing: 0; }
+.title-region {
+    font-size: 1.3rem; font-weight: 800; color: var(--text);
+    margin: 2.25rem 0 0.2rem; padding: 0 0.25rem 0.45rem; border-bottom: 1px solid var(--line-2);
+}
+.container-place > .title-region:first-child { margin-top: 1rem; }
+.title-region .zone-cities, .title-city .zone-cities { font-family: var(--font); font-weight: 400; font-size: 0.85rem; color: var(--muted); letter-spacing: 0; }
+.title-region .zone-cities::before { content: '· '; }
+.title-others { color: var(--muted); }
 .title-city {
     font-size: 1.15rem; font-weight: 700; color: var(--afig-800);
     margin: 1.75rem 0 0.4rem; padding: 0 0.25rem 0.4rem; border-bottom: 0; align-items: center;
@@ -683,6 +691,8 @@ main:has(.company-list.compact) .tag-legend, main:has(.no-result) .tag-legend { 
     .place-index-row { grid-template-columns: 1fr; gap: 0.4rem; }
     .place-index-label { padding-top: 0; }
     .title-place { font-size: 1.35rem; margin-top: 2rem; }
+    .title-region { font-size: 1.15rem; margin-top: 1.75rem; }
+    .title-city { font-size: 1.02rem; margin-top: 1.25rem; }
 }
 @media (max-width: 760px) {
 }
