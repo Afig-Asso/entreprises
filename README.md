@@ -6733,7 +6733,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 4500
   * **Domaine scientifique/technique**: IA générative (image/3D)
   * **Domaine d'application**: Générique, Cinéma/Films d'Animation/VFX
-  * [_Jobs_](https://openai.com/careers/)
+  * [_Jobs_](https://openai.com/careers/search/)
 
 
 * **[OpenSpace](https://www.openspace.ai/)**  
