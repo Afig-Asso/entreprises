@@ -16087,3 +16087,17 @@
   Application-domain: [Architecture/BTP/Urbanisme, Géospatial/Cartographie, Énergie/Environnement]
   Jobs: https://dronedeploy.com/about/careers
   Keywords: [drone, photogrammétrie, capture de la réalité, jumeau numérique]
+
+- Name: HyLight
+  url: https://hylight.aero/
+  Description: Start-up de Brétigny-sur-Orge (base aérienne 217) qui conçoit des drones dirigeables à hydrogène équipés de capteurs et d'IA pour inspecter à grande échelle les réseaux d'énergie et de transport (gazoducs, lignes haute tension, voies ferrées) avec une précision millimétrique ; clients SNCF, Enedis, NaTran, Teréga, Vinci.
+  Place:
+    - City: Brétigny-sur-Orge
+      Coordinates: [48.5943, 2.31273]
+      SIREN: '915019947'
+      Address: 25 Avenue du Centre d'Essais en Vol, 91220 Brétigny-sur-Orge
+  Scientific-domain: [Acquisition, Vision]
+  Application-domain: [Énergie/Environnement, Robotique/Systèmes autonomes, Géospatial/Cartographie]
+  Jobs: https://jobs.dover.com/HyLight/careers/07e7aff2-18e8-4518-8d08-b6a6b165ea97
+  Employees: 15
+  Keywords: [drone dirigeable, inspection aérienne, hydrogène, IA, infrastructures]

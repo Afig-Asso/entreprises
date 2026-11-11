@@ -387,6 +387,10 @@
             48.8353,
             2.5193
         ],
+        "France/Br\u00e9tigny-sur-Orge": [
+            48.61,
+            2.3075
+        ],
         "France/B\u00e8gles": [
             44.8075,
             -0.5489
@@ -40016,6 +40020,40 @@
                 "photogramm\u00e9trie",
                 "capture de la r\u00e9alit\u00e9",
                 "jumeau num\u00e9rique"
+            ]
+        },
+        {
+            "Name": "HyLight",
+            "url": "https://hylight.aero/",
+            "Description": "Start-up de Br\u00e9tigny-sur-Orge (base a\u00e9rienne 217) qui con\u00e7oit des drones dirigeables \u00e0 hydrog\u00e8ne \u00e9quip\u00e9s de capteurs et d'IA pour inspecter \u00e0 grande \u00e9chelle les r\u00e9seaux d'\u00e9nergie et de transport (gazoducs, lignes haute tension, voies ferr\u00e9es) avec une pr\u00e9cision millim\u00e9trique ; clients SNCF, Enedis, NaTran, Ter\u00e9ga, Vinci.",
+            "Place": [
+                {
+                    "City": "Br\u00e9tigny-sur-Orge",
+                    "Coordinates": [
+                        48.5943,
+                        2.31273
+                    ],
+                    "SIREN": "915019947",
+                    "Address": "25 Avenue du Centre d'Essais en Vol, 91220 Br\u00e9tigny-sur-Orge"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision"
+            ],
+            "Application-domain": [
+                "\u00c9nergie/Environnement",
+                "Robotique/Syst\u00e8mes autonomes",
+                "G\u00e9ospatial/Cartographie"
+            ],
+            "Jobs": "https://jobs.dover.com/HyLight/careers/07e7aff2-18e8-4518-8d08-b6a6b165ea97",
+            "Employees": 15,
+            "Keywords": [
+                "drone dirigeable",
+                "inspection a\u00e9rienne",
+                "hydrog\u00e8ne",
+                "IA",
+                "infrastructures"
             ]
         }
     ]

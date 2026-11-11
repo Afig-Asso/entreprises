@@ -4028,6 +4028,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.hutch.io/careers/)
 
 
+* **[HyLight](https://hylight.aero/)**  
+  * _Start-up de Brétigny-sur-Orge (base aérienne 217) qui conçoit des drones dirigeables à hydrogène équipés de capteurs et d'IA pour inspecter à grande échelle les réseaux d'énergie et de transport (gazoducs, lignes haute tension, voies ferrées) avec une précision millimétrique ; clients SNCF, Enedis, NaTran, Teréga, Vinci._
+  * **Mots clés**: _drone dirigeable, inspection aérienne, hydrogène, IA, infrastructures_
+  * **Localisation**: Brétigny-sur-Orge
+  * **Nombres d'employés**: 15
+  * **Domaine scientifique/technique**: Acquisition, Vision
+  * **Domaine d'application**: Énergie/Environnement, Robotique/Systèmes autonomes, Géospatial/Cartographie
+  * [_Jobs_](https://jobs.dover.com/HyLight/careers/07e7aff2-18e8-4518-8d08-b6a6b165ea97)
+
+
 * **[HypnoVR](https://hypnovr.io/fr/)** (Hypno VR) 
   * _Start-up strasbourgeoise de thérapie numérique associant hypnose médicale et environnements 3D en réalité virtuelle contre la douleur et l'anxiété._
   * **Mots clés**: _réalité virtuelle, dispositif médical, rendu temps réel_
