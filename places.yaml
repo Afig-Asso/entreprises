@@ -18,9 +18,22 @@ Australie:
 Belgique:
   Pays: [50.6403, 4.6667]
   Villes:
+    Ans: [50.6529, 5.5406]
+    Anvers: [51.2211, 4.3997]
+    Bruxelles: [50.8467, 4.3525]
     Charleroi: [50.4116, 4.4445]
+    Courtrai: [50.8276, 3.266]
+    Gand: [51.0538, 3.725]
+    Genk: [50.9668, 5.4834]
+    Hasselt: [50.9304, 5.3378]
     Liège: [50.6451, 5.5736]
+    Louvain: [50.8792, 4.7012]
+    Louvain-la-Neuve: [50.6741, 4.6138]
+    Mons: [50.455, 3.952]
+    Mont-Saint-Guibert: [50.6366, 4.6127]
     Mortsel: [51.1704, 4.4567]
+    Rixensart: [50.7123, 4.5216]
+    Seraing: [50.6152, 5.5089]
 Brésil:
   Villes:
     São Paulo: [-23.5507, -46.6334]

@@ -339,6 +339,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://careers.adobe.com/us/en)
 
 
+* **[Aerospacelab](https://www.aerospacelab.com/)**  
+  * _Constructeur de satellites de Mont-Saint-Guibert (400+ collaborateurs) qui conçoit plateformes et charges utiles d'observation de la Terre (multispectral, hyperspectral, très haute résolution, radar) et ouvre en 2026 une « Megafactory » de 500 satellites par an._
+  * **Mots clés**: _satellites, observation de la Terre, imagerie hyperspectrale, constellation_
+  * **Localisation**: Belgique/Mont-Saint-Guibert
+  * **Nombres d'employés**: 400
+  * **Domaine scientifique/technique**: Acquisition, Imagerie, Hardware
+  * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense
+
+
 * **[Aeva](https://www.aeva.com/)**  
   * _Fabricant de lidars 4D FMCW (mesure de distance et de vitesse) et de logiciels de perception pour l'automobile, l'industrie et la métrologie._
   * **Mots clés**: _lidar FMCW, capteur 3D, perception, métrologie_
@@ -636,6 +645,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://job-boards.greenhouse.io/aperaaiinc)
 
 
+* **[Apixa](https://www.apixa.com/)**  
+  * _Société louvaniste de vision par ordinateur, spin-off du groupe VISICS-PSI de la KU Leuven fondée en 2007 (ex-Vision++), qui conçoit des solutions de contrôle qualité et de détection de personnes : apprentissage profond, vision 3D, imagerie hyperspectrale, calibration et conception optique._
+  * **Mots clés**: _vision par ordinateur, vision 3D, imagerie hyperspectrale, contrôle qualité_
+  * **Localisation**: Belgique/Louvain
+  * **Domaine scientifique/technique**: Vision, Imagerie, Acquisition
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Sécurité/Défense
+  * [_Jobs_](https://www.apixa.com/careers)
+
+
 * **[Apologue FX](https://www.apologuefx.com/)**  
   * _Studio lyonnais d'effets visuels temps réel pour le jeu vidéo, les cinématiques et la XR (Unreal, Unity, moteurs propriétaires, Houdini, EmberGen)._
   * **Mots clés**: _effets temps réel, Houdini, Unreal Engine, AAA_
@@ -754,6 +772,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Imagerie, Web/Cloud/Big Data
   * **Domaine d'application**: Patrimoine/Culture
   * [_Jobs_](https://www.arkhenum.fr/nous-rejoindre/)
+
+
+* **[Arkite](https://arkite.com/)**  
+  * _Éditeur genkois d'une plateforme de guidage des opérateurs pour l'assemblage manuel, par instructions projetées en réalité augmentée sur le poste de travail, contrôle par capteurs 3D et inspection par IA._
+  * **Mots clés**: _réalité augmentée, projection, guidage d'opérateur, industrie 4.0_
+  * **Localisation**: Belgique/Genk
+  * **Domaine scientifique/technique**: VR/AR, Vision, IHM/Haptique
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game
 
 
 * **[Arm (Cambridge)](https://www.arm.com/)**  
@@ -1110,6 +1136,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 30
   * **Domaine scientifique/technique**: Animation, VR/AR, Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+
+
+* **[Barco](https://www.barco.com/)**  
+  * _Groupe technologique de Courtrai spécialisé dans la visualisation : projecteurs de cinéma et d'expériences immersives, murs d'images pour salles de contrôle et écrans de diagnostic médical, 3 253 employés en 2025._
+  * **Mots clés**: _projection, écrans médicaux, salles de contrôle, visualisation_
+  * **Localisation**: Belgique/Courtrai
+  * **Nombres d'employés**: 3253
+  * **Domaine scientifique/technique**: Visualisation, Hardware, Imagerie
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Médical/Biologique, Art/Evenementiel, Générique
 
 
 * **[Bardel Entertainment](https://bardel.ca/)**  
@@ -1522,6 +1557,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[Bricsys](https://www.bricsys.com/)**  
+  * _Éditeur gantois du logiciel de CAO 2D/3D BricsCAD (compatible DWG, BIM et tôlerie), racheté par Hexagon en 2018 et désormais commercialisé sous la marque Octave BricsCAD._
+  * **Mots clés**: _CAO, BricsCAD, DWG, BIM_
+  * **Localisation**: Belgique/Gand
+  * **Domaine scientifique/technique**: Design/Fabrication, Modélisation, Géométrie
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme
+
+
 * **[BrightHeart](https://www.brightheart.ai/)**  
   * _Start-up parisienne d'IA d'aide au dépistage des cardiopathies fœtales et à l'examen morphologique en échographie prénatale._
   * **Mots clés**: _imagerie médicale, échographie, deep learning_
@@ -1745,7 +1788,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * _Studio d'animation indépendant (2D, 3D et hybride) basé à Paris avec des studios à Annecy, Angoulême, Montréal et Liège, prestataire de fabrication de séries et films._
   * **Mots clés**: _animation 2D, animation 3D, séries d'animation, fabrication_
   * **Remarque**: _Établissement annexe Caribara Annecy (SIREN 503980476)._
-  * **Localisation**: Paris, Annecy, Angoulême, Canada/Montréal
+  * **Localisation**: Paris, Annecy, Angoulême, Canada/Montréal, Belgique/Liège
   * **Nombres d'employés**: 4
   * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -1818,7 +1861,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[CGEV](https://www.cgev.fr/)**  
   * _Studio d'effets visuels pour le cinéma et les séries (compositing, 3D, FX fluides et particules, matte painting)._
   * **Mots clés**: _effets visuels, compositing, matte painting, simulation de fluides, long métrage, séries TV, supervision de tournage_
-  * **Localisation**: Paris, Angoulême
+  * **Localisation**: Paris, Angoulême, Belgique/Bruxelles
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation, Modélisation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
@@ -2243,6 +2286,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://cyanide-studio.com/fr/nous-rejoindre/)
 
 
+* **[Cyborn](https://www.cyborn.be/)**  
+  * _Studio anversois de jeux VR et de réalité mixte (Hubris, Wall Town Wonders) sous Unreal Engine, fondé en 1998 comme studio d'animation 3D, qui propose aussi capture de mouvement, animation, humains numériques et co-développement (animation pour Horizon Forbidden West, Metro Awakening)._
+  * **Mots clés**: _réalité virtuelle, réalité mixte, capture de mouvement, Unreal Engine_
+  * **Localisation**: Belgique/Anvers
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D, Animation, Acquisition
+  * **Domaine d'application**: Jeu Vidéo, Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.cyborn.be/)
+
+
 * **[Cyclife Digital Solutions](https://www.cyclife-edf.com/en/our-governance/cyclife-digital-solutions)**  
   * _Filiale du groupe EDF (Cyclife) qui édite DEMplus, logiciel de simulation 3D temps réel collaboratif pour préparer les interventions et le démantèlement nucléaires (jumeaux numériques, planification 4D)._
   * **Mots clés**: _nucléaire, jumeau numérique, simulation physique, rendu temps réel, réalité virtuelle, formation professionnelle_
@@ -2416,6 +2468,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Reconstruction, Hardware
   * **Domaine d'application**: Géospatial/Cartographie, Sécurité/Défense, Robotique/Systèmes autonomes
   * [_Jobs_](https://delair.teamtailor.com/jobs)
+
+
+* **[Deltatec](https://deltatec.be/)**  
+  * _Bureau d'études liégeois fondé il y a près de 40 ans, spécialisé en vision, traitement d'images et électronique embarquée : cœurs de caméras infrarouges thermiques et SWIR pour le spatial, calculateurs de charge utile et applications de vision par IA pour l'industrie._
+  * **Mots clés**: _caméra infrarouge, traitement d'images, FPGA, spatial_
+  * **Localisation**: Belgique/Ans
+  * **Domaine scientifique/technique**: Imagerie, Acquisition, Vision, Hardware
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Géospatial/Cartographie, Sécurité/Défense
+  * [_Jobs_](https://deltatec.be/)
 
 
 * **[DentalMonitoring](https://dentalmonitoring.com/)**  
@@ -3142,6 +3203,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://jobs.keysight.com/)
 
 
+* **[Esko](https://www.esko.com/)**  
+  * _Éditeur et fabricant gantois (groupe Veralto) de solutions pour l'emballage et l'impression : CAO d'emballages et visualisation 3D, prépresse, imageurs de plaques flexographiques et inspection d'impression, environ 1 600 collaborateurs._
+  * **Mots clés**: _emballage, prépresse, CAO, inspection d'impression_
+  * **Localisation**: Belgique/Gand
+  * **Nombres d'employés**: 1600
+  * **Domaine scientifique/technique**: Design/Fabrication, Imagerie, Visualisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Commerce/Marketing/Publicité
+  * [_Jobs_](https://www.esko.com/en/company/careers)
+
+
 * **[Eugen Systems](https://eugensystems.com)**  
   * _Studio de développement de jeux de stratégie temps réel (Steel Division, WARNO), moteur maison IRISZOOM._
   * **Mots clés**: _console/PC, jeu de stratégie, moteur maison, multijoueur en ligne, simulation militaire_
@@ -3159,6 +3230,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 35
   * **Domaine scientifique/technique**: Vision, Imagerie
   * **Domaine d'application**: Médical/Biologique
+
+
+* **[Euresys](https://www.euresys.com/)**  
+  * _Concepteur liégeois (groupe TKH Vision) de composants d'acquisition d'images pour la vision industrielle : cartes d'acquisition CoaXPress et Camera Link, cœurs IP FPGA et bibliothèque de traitement d'images Open eVision._
+  * **Mots clés**: _vision industrielle, carte d'acquisition, FPGA, traitement d'images_
+  * **Localisation**: Belgique/Seraing
+  * **Nombres d'employés**: 80
+  * **Domaine scientifique/technique**: Acquisition, Imagerie, Vision, Hardware
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+  * [_Jobs_](https://www.euresys.com/en/About-us)
 
 
 * **[EuroVisual](https://www.eurovisual.tv/)** (Euro Visual (ex-Cyber Group Studios)) 
@@ -3206,6 +3287,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[EVS](https://evs.com/)**  
+  * _Équipementier liégeois de la production télévisée en direct : serveurs et systèmes de ralenti (LiveCeption, LSM-VIA), effets de ralenti par IA générative (XtraMotion), assistance vidéo à l'arbitrage (Xeebra), 800+ collaborateurs._
+  * **Mots clés**: _ralenti, production en direct, vidéo broadcast, arbitrage vidéo_
+  * **Localisation**: Belgique/Seraing
+  * **Nombres d'employés**: 800
+  * **Domaine scientifique/technique**: Imagerie, IA générative (image/3D), Hardware, Web/Cloud/Big Data
+  * **Domaine d'application**: Art/Evenementiel, Générique
+  * [_Jobs_](https://evs.com/careers)
+
+
 * **[Ex Persona](https://ex-persona.com/)**  
   * _Studio de motion capture et d'animation équipé d'un système optique Vicon (40 caméras, volume 13 x 9 x 4 m)._
   * **Mots clés**: _motion capture, Vicon, animation 3D, cinématiques de jeu, effets visuels, location de studio_
@@ -3240,6 +3331,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 15
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D
   * **Domaine d'application**: Jeu Vidéo
+
+
+* **[Exosens Imaging Belgium (ex-Xenics)](https://www.exosens.com/)**  
+  * _Site louvaniste du groupe français Exosens (ex-Xenics, fondée en 2000) qui conçoit et fabrique des capteurs et caméras infrarouges SWIR, MWIR et LWIR pour l'industrie, la défense, la science et le spatial._
+  * **Mots clés**: _caméra infrarouge, SWIR, capteur d'image, imagerie thermique_
+  * **Localisation**: Belgique/Louvain
+  * **Domaine scientifique/technique**: Acquisition, Imagerie, Hardware
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Sécurité/Défense, Médical/Biologique
 
 
 * **[Extende](https://www.extende.com/)**  
@@ -3380,6 +3479,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Hardware, Imagerie
   * **Domaine d'application**: Médical/Biologique, Autres
   * [_Jobs_](https://www.oxinst.com/careers)
+
+
+* **[Fishing Cactus](https://www.fishingcactus.be/)**  
+  * _Studio de jeu vidéo montois fondé en 2009 (38 personnes), auteur de jeux console et VR (Sports Camp avec Decathlon sur Switch, Samurai Academy) et de services de développement et serious games._
+  * **Mots clés**: _jeu console, Nintendo Switch, serious game, réalité virtuelle_
+  * **Localisation**: Belgique/Mons
+  * **Nombres d'employés**: 38
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, VR/AR, Animation
+  * **Domaine d'application**: Jeu Vidéo, Entrainement/Formation/Serious Game
+  * [_Jobs_](https://www.fishingcactus.be/)
 
 
 * **[Flawless](https://www.flawlessai.com/)**  
@@ -3826,6 +3935,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://gridraster.com/careers-jobs/)
 
 
+* **[Gunfire Games Europe](https://www.appeal-studios.com/)**  
+  * _Studio de jeu vidéo de Charleroi (THQ Nordic), ex-Appeal Studios créateur d'Outcast (1999) et du remake Outcast: A New Beginning (2024), renommé en octobre 2025 pour codévelopper avec Gunfire Games (Austin)._
+  * **Mots clés**: _jeu d'action-aventure, monde ouvert, Outcast, THQ Nordic_
+  * **Localisation**: Belgique/Charleroi
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+
+
 * **[Guru Studio](https://gurustudio.com/)**  
   * _Studio d'animation torontois fondé en 2000, qui produit des séries 3D pour la jeunesse (True and the Rainbow Kingdom, Mecha Builders, PAW Patrol, Justin Time) et des créations originales._
   * **Mots clés**: _animation 3D, séries jeunesse, Sesame Street_
@@ -3867,6 +3984,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: IHM/Haptique, Hardware, VR/AR
   * **Domaine d'application**: Robotique/Systèmes autonomes, Médical/Biologique, Entrainement/Formation/Serious Game
   * [_Jobs_](https://www.haply.co/careers)
+
+
+* **[Happy Volcano](https://www.happyvolcano.com/)**  
+  * _Studio de jeu vidéo louvaniste financé par Hiro Capital et Ian Livingstone, auteur de You Suck at Parking, The Almost Gone et Modulus._
+  * **Mots clés**: _jeu PC et console, jeu indépendant, Hiro Capital_
+  * **Localisation**: Belgique/Louvain
+  * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation
+  * **Domaine d'application**: Jeu Vidéo
+  * [_Jobs_](https://www.happyvolcano.com/careers)
 
 
 * **[Hapticmedia](https://hapticmedia.com/)**  
@@ -4284,6 +4410,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Acquisition, Vision, Imagerie, Hardware
   * **Domaine d'application**: Patrimoine/Culture, Industrie/Manufacturing/CAO, Sécurité/Défense
   * [_Jobs_](https://i2s.fr/offres-demploi/)
+
+
+* **[icometrix](https://www.icometrix.com/)**  
+  * _Éditeur louvaniste de logiciels d'IA d'analyse d'IRM et de scanner cérébraux (icobrain) pour la sclérose en plaques, la démence, les ARIA, l'AVC et le traumatisme crânien, devenu une société de GE HealthCare._
+  * **Mots clés**: _imagerie cérébrale, IRM, intelligence artificielle, neurologie_
+  * **Localisation**: Belgique/Louvain
+  * **Domaine scientifique/technique**: Imagerie, Vision, Visualisation
+  * **Domaine d'application**: Médical/Biologique
 
 
 * **[ICON Creative Studio](https://www.iconcreativestudio.com/)**  
@@ -4821,6 +4955,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[intoPIX](https://www.intopix.com/)**  
+  * _Société de Louvain-la-Neuve fondée en 2006, spécialiste de la compression d'images et de vidéo (JPEG XS, JPEG 2000, TicoRAW) en cœurs IP FPGA/ASIC et SDK CPU/GPU, récompensée par des Emmy Awards techniques en 2014 et 2025._
+  * **Mots clés**: _compression d'images, JPEG XS, FPGA, vidéo sur IP_
+  * **Localisation**: Belgique/Louvain-la-Neuve
+  * **Domaine scientifique/technique**: Imagerie, Hardware, Web/Cloud/Big Data
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Générique
+
+
 * **[Intrasense](https://intrasense.fr/fr/)**  
   * _Éditeur montpelliérain de logiciels d'imagerie médicale : plateforme de visualisation Myrian et plateforme d'IA en oncologie DUOnco (suivi des cancers sur scanner), partenaire de Guerbet._
   * **Mots clés**: _imagerie médicale, visualisation 3D, IA oncologie, radiologie_
@@ -4900,6 +5042,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Nombres d'employés**: 75
   * **Domaine scientifique/technique**: Imagerie, VR/AR, Visualisation
   * **Domaine d'application**: Médical/Biologique, Entrainement/Formation/Serious Game
+
+
+* **[IRIS](https://www.irislink.com/)**  
+  * _Éditeur et fabricant de Mont-Saint-Guibert (groupe Canon) de logiciels de reconnaissance optique de caractères et de traitement de documents (Readiris PDF 27) et de scanners portables et de bureau (IRIScan, IRISPen)._
+  * **Mots clés**: _OCR, reconnaissance de documents, scanner, traitement d'images_
+  * **Localisation**: Belgique/Mont-Saint-Guibert
+  * **Domaine scientifique/technique**: Vision, Imagerie, Acquisition
+  * **Domaine d'application**: Générique
 
 
 * **[IronEqual](https://www.ironequal.com/)**  
@@ -5251,7 +5401,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Larian Studios Dublin](https://larian.com/)**  
   * _Studio de Larian (Baldur's Gate 3, Divinity) installé à Dublin, l'un des sites de développement du groupe aux côtés de Gand, Québec, Guildford, Barcelone._
   * **Mots clés**: _jeu vidéo, RPG, moteur 3D, Dublin_
-  * **Localisation**: Irlande/Dublin
+  * **Localisation**: Irlande/Dublin, Belgique/Gand
   * **Nombres d'employés**: 100
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production
   * **Domaine d'application**: Jeu Vidéo
@@ -5541,6 +5691,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[LuGus Studios](https://www.lugus-studios.be/)**  
+  * _Studio de jeu vidéo et de simulation hasseltois, spécialiste de la simulation de drones haute fidélité (Liftoff, simulateur de drone de référence) et de serious games pour la formation._
+  * **Mots clés**: _simulateur de drone, Liftoff, serious game, simulation physique_
+  * **Localisation**: Belgique/Hasselt
+  * **Nombres d'employés**: 13
+  * **Domaine scientifique/technique**: Simulation, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Entrainement/Formation/Serious Game, Robotique/Systèmes autonomes
+
+
 * **[Luma AI](https://lumalabs.ai/)**  
   * _Start-up de Palo Alto spécialisée dans les modèles génératifs de vidéo et de 3D (Dream Machine, modèles Ray), issue de la capture 3D par NeRF et Gaussian splatting._
   * **Mots clés**: _génération de vidéo, modèles de monde, NeRF, Gaussian splatting_
@@ -5690,7 +5849,7 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
 * **[Mac Guff](https://macguff.com)** (Mac Guff Ligne) 
   * _Studio parisien d'effets visuels et d'animation fondé en 1986, pour le cinéma, la publicité, les séries, le documentaire et l'IA créative._
   * **Mots clés**: _effets visuels, animation 3D, publicité, long métrage, séries, IA générative, documentaire_
-  * **Localisation**: Paris, Paris
+  * **Localisation**: Paris, Paris, Belgique/Bruxelles
   * **Domaine scientifique/technique**: Rendu offline/VFX, Simulation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité
   * [_Jobs_](https://www.illuminationstudiosparis.com/careers/)
@@ -5702,6 +5861,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Localisation**: Nice
   * **Domaine scientifique/technique**: Rendu offline/VFX, Animation
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Architecture/BTP/Urbanisme
+
+
+* **[Macq](https://mobility.macq.eu/)**  
+  * _Entreprise bruxelloise de systèmes de mobilité intelligente, fondée en 1930, qui conçoit des caméras intelligentes de lecture de plaques (QCAM3, QCAM5) et des logiciels d'analyse vidéo pour le contrôle de vitesse, le péage en flux libre et la police._
+  * **Mots clés**: _lecture de plaques, caméra intelligente, mobilité, analyse vidéo_
+  * **Localisation**: Belgique/Bruxelles
+  * **Domaine scientifique/technique**: Vision, Acquisition, Analyse de données
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Sécurité/Défense
 
 
 * **[Madbox](https://www.madbox.io/)**  
@@ -5886,6 +6053,16 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: VR/AR, Simulation
   * **Domaine d'application**: Automobile/Navigation/Aviation
   * [_Jobs_](https://www.massvirtual.com/career)
+
+
+* **[Materialise](https://www.materialise.com/)**  
+  * _Éditeur louvaniste de logiciels d'impression 3D et de planification médicale (préparation de fabrication additive, segmentation d'images médicales et modèles anatomiques 3D) et prestataire de fabrication additive, fondé en 1990 et coté au Nasdaq._
+  * **Mots clés**: _impression 3D, fabrication additive, planification chirurgicale, modèles anatomiques_
+  * **Localisation**: Belgique/Louvain
+  * **Nombres d'employés**: 2550
+  * **Domaine scientifique/technique**: Design/Fabrication, Imagerie, Géométrie, Modélisation
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Médical/Biologique
+  * [_Jobs_](https://www.materialise.com/en/careers)
 
 
 * **[Mathematic](https://mathematic.tv)**  
@@ -6888,6 +7065,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Hardware, Rendu temps réel/Moteurs 3D, IA générative (image/3D), Simulation
   * **Domaine d'application**: Générique
   * [_Jobs_](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)
+
+
+* **[nWave Studios](https://nwave.com/)**  
+  * _Studio bruxellois d'animation 3D fondé en 1994 par Ben Stassen, producteur de longs métrages (Bigfoot Family, Les Inséparables, Chickenhare et le secret de la marmotte en 2025, Yugly en 2026) et de films pour attractions 3D/4D._
+  * **Mots clés**: _long métrage d'animation, animation 3D, films 4D, Ben Stassen_
+  * **Localisation**: Belgique/Bruxelles, Belgique/Liège
+  * **Domaine scientifique/technique**: Animation, Modélisation, Rendu offline/VFX
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers
+  * [_Jobs_](https://nwave.bamboohr.com/careers)
 
 
 * **[Obsidian Entertainment](https://www.obsidian.net/)**  
@@ -8021,6 +8207,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[radiomics.bio](https://radiomics.bio/)**  
+  * _Société liégeoise (ex-OncoRadiomics, fondée en 2016) qui extrait des biomarqueurs quantitatifs des images médicales (radiomique) avec sa plateforme Ikonics, pour la recherche en oncologie, les essais cliniques et la lecture centralisée d'imagerie._
+  * **Mots clés**: _radiomique, imagerie médicale, oncologie, essais cliniques_
+  * **Localisation**: Belgique/Liège
+  * **Domaine scientifique/technique**: Imagerie, Analyse de données
+  * **Domaine d'application**: Médical/Biologique
+  * [_Jobs_](https://radiomics.bio/)
+
+
 * **[RamSoft](https://www.ramsoft.com/)**  
   * _Éditeur torontois (1994) de logiciels d'imagerie médicale : PACS PowerServer, plateforme cloud RIS/PACS/VNA OmegaAI sur Azure, visualiseur diagnostique web et orchestration d'outils d'IA en radiologie._
   * **Mots clés**: _PACS, radiologie, visualiseur DICOM, cloud_
@@ -8336,6 +8531,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Robotique/Systèmes autonomes, Industrie/Manufacturing/CAO
 
 
+* **[Robovision](https://robovision.ai/)**  
+  * _Éditeur gantois fondé en 2008 d'une plateforme de vision par ordinateur et d'apprentissage profond pour l'inspection industrielle (Indurion), utilisée en horticulture, semi-conducteurs, agroalimentaire et emballage._
+  * **Mots clés**: _vision industrielle, apprentissage profond, inspection, horticulture_
+  * **Localisation**: Belgique/Gand
+  * **Domaine scientifique/technique**: Vision, Imagerie
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes
+  * [_Jobs_](https://robovision.ai/about-us/careers)
+
+
 * **[Rocket Science VFX](https://www.rsvfx.com/)**  
   * _Studio d'effets visuels fondé en 2003 à Toronto (quartier de la Junction), crédité sur Wednesday, The Boys, IT: Welcome to Derry et Poker Face._
   * **Mots clés**: _effets visuels, séries, pipeline, compositing_
@@ -8596,6 +8800,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://helloscholar.com/contact)
 
 
+* **[SCIA](https://www.scia.net/)**  
+  * _Éditeur hasseltois (groupe Nemetschek) de logiciels de calcul et de dimensionnement de structures intégrés au BIM, dont SCIA Engineer (version 2027), avec plus de 120 collaborateurs._
+  * **Mots clés**: _calcul de structures, éléments finis, BIM, génie civil_
+  * **Localisation**: Belgique/Hasselt
+  * **Nombres d'employés**: 120
+  * **Domaine scientifique/technique**: Simulation, Design/Fabrication, Modélisation
+  * **Domaine d'application**: Architecture/BTP/Urbanisme
+
+
 * **[Scialytics](https://www.scialytics.io/)**  
   * _Spin-off de l'IHU Strasbourg (laboratoire CAMMA) qui développe une plateforme d'IA d'analyse de vidéos chirurgicales et des assistants temps réel au bloc opératoire._
   * **Mots clés**: _vision par ordinateur, deep learning, chirurgie assistée, dispositif médical_
@@ -8741,6 +8954,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Modélisation, Animation, Simulation, Pipeline/Outils de production
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
   * [_Jobs_](https://www.sidefx.com/company/careers/)
+
+
+* **[Siemens Digital Industries Software (Louvain)](https://www.sw.siemens.com/)**  
+  * _Centre de R&D louvaniste de Siemens Digital Industries Software (ex-LMS International, racheté en 2012), qui développe la gamme de simulation et d'essais Simcenter (Simcenter 3D, Amesim, Testlab)._
+  * **Mots clés**: _simulation multiphysique, jumeau numérique, Simcenter, acoustique et vibrations_
+  * **Localisation**: Belgique/Louvain
+  * **Domaine scientifique/technique**: Simulation, Visualisation, Analyse de données
+  * **Domaine d'application**: Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+  * [_Jobs_](https://jobs.siemens.com/)
 
 
 * **[Siemens Healthineers Ultrasound](https://www.siemens-healthineers.com/en-us/ultrasound)**  
@@ -9028,6 +9250,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: IA générative (image/3D), Vision, Imagerie, Analyse de données
   * **Domaine d'application**: Générique
   * [_Jobs_](https://csl.sony.fr/careers/)
+
+
+* **[Sony Depthsensing Solutions](https://www.sony-depthsensing.com/)**  
+  * _Filiale bruxelloise de Sony (ex-SoftKinetic, rachetée en 2015) qui développe la technologie de caméras 3D à temps de vol DepthSense et ses logiciels de perception pour l'automobile, le mobile, l'industrie et la maison connectée._
+  * **Mots clés**: _temps de vol, caméra 3D, capteur de profondeur, reconnaissance de gestes_
+  * **Localisation**: Belgique/Bruxelles
+  * **Domaine scientifique/technique**: Acquisition, Vision, Hardware, Reconstruction
+  * **Domaine d'application**: Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Générique
+  * [_Jobs_](https://www.sony-depthsensing.com/careers)
 
 
 * **[Sony Interactive Entertainment](https://sonyinteractive.com/)**  
@@ -9876,6 +10107,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://www.henson.com/careers/)
 
 
+* **[The Pack](https://www.thepack.studio/)**  
+  * _Groupe belge de VFX, post-production et animation 2D/3D issu de la fusion de The Fridge, NOZON et Ace Image Factory, avec des bureaux à Bruxelles (Koekelberg), en Flandre et à Mons, actif sur des longs métrages et séries (L'Homme qui rétrécit, Hacked, Outfoxed!) et des projets temps réel et VR._
+  * **Mots clés**: _effets visuels, post-production, animation 3D, production temps réel_
+  * **Localisation**: Belgique/Bruxelles, Belgique/Mons
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Jeu Vidéo
+
+
 * **[The Pixel Hunt](https://www.thepixelhunt.com/)**  
   * _Studio parisien de jeux narratifs inspirés du réel (Bury me, my Love, Inua, Wednesdays, primé à l'IGF et aux Pégases 2026, Ithaca en production)._
   * **Mots clés**: _jeu narratif, jeu indépendant, game art_
@@ -10193,6 +10432,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * [_Jobs_](https://careers.activision.com/)
 
 
+* **[Triangle Factory](https://www.triangle-factory.be/)**  
+  * _Studio gantois de jeux de tir en réalité virtuelle, auteur de Hyper Dash, Breachers, Breachers: Outbreak et Forefront (batailles VR à 32 joueurs)._
+  * **Mots clés**: _réalité virtuelle, jeu de tir, multijoueur, Meta Quest_
+  * **Localisation**: Belgique/Gand
+  * **Domaine scientifique/technique**: VR/AR, Rendu temps réel/Moteurs 3D
+  * **Domaine d'application**: Jeu Vidéo, Loisir Interactif/Immersion/Metavers
+
+
 * **[Tribun Health](https://www.tribun.health/)**  
   * _Éditeur de la plateforme de pathologie numérique CaloPix (gestion de lames virtuelles, télépathologie, intégration d'IA d'analyse d'images)._
   * **Mots clés**: _imagerie médicale, pathologie numérique, analyse d'images_
@@ -10248,6 +10495,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
+* **[Twikit](https://twikit.com/)**  
+  * _Éditeur anversois de TwikBot, plateforme cloud de configuration de produits en 3D temps réel et de devis (CPQ) qui génère nomenclatures et fichiers CAO pour la personnalisation de produits (Volkswagen, Renault, Porsche, Intense Cycles)._
+  * **Mots clés**: _configurateur 3D, personnalisation de masse, CPQ, WebGL_
+  * **Localisation**: Belgique/Anvers
+  * **Domaine scientifique/technique**: Visualisation, Modélisation, Design/Fabrication, Web/Cloud/Big Data
+  * **Domaine d'application**: Commerce/Marketing/Publicité, Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation
+
+
 * **[Ubisoft](https://www.ubisoft.com/)**  
   * _Éditeur et développeur français de jeux vidéo AAA (Assassin's Creed, Far Cry, Rainbow Six Siege, The Division) avec des studios dans le monde entier et des moteurs maison (Anvil, Snowdrop)._
   * **Mots clés**: _AAA, console/PC, édition de jeux, moteur maison, multijoueur en ligne, free-to-play_
@@ -10257,6 +10512,15 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Rendu temps réel/Moteurs 3D, Modélisation, Animation, Simulation
   * **Domaine d'application**: Jeu Vidéo
   * [_Jobs_](https://www.ubisoft.com/en-us/company/careers)
+
+
+* **[UFX Studios](https://ufxstudios.com/)**  
+  * _Studio bruxellois d'effets visuels du groupe Umedia (ex-Umedia Visual Effects), de la prévisualisation au compositing, avec scan Lidar, production virtuelle et VFX temps réel sous Unreal Engine, pour des films et séries européens (Dog 51, The Countess of Monte-Cristo, L'estranea, Il Mestiere)._
+  * **Mots clés**: _effets visuels, production virtuelle, compositing, Tax Shelter_
+  * **Localisation**: Belgique/Bruxelles, Belgique/Rixensart
+  * **Domaine scientifique/technique**: Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Acquisition
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
+  * [_Jobs_](https://ufxstudios.com/)
 
 
 * **[Uken Games](https://uken.com/)**  
@@ -10684,6 +10948,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine d'application**: Jeu Vidéo
 
 
+* **[VoxelSensors](https://voxelsensors.com/)**  
+  * _Start-up bruxelloise fondée en 2020 qui développe des capteurs de perception 3D à événements (SPAES) et la caméra LyraCam pour la XR, les lunettes connectées et la robotique, en collaboration avec Qualcomm (plateforme Snapdragon)._
+  * **Mots clés**: _capteur 3D, perception de profondeur, réalité étendue, capteur à événements_
+  * **Localisation**: Belgique/Bruxelles
+  * **Domaine scientifique/technique**: Acquisition, VR/AR, Hardware, Vision
+  * **Domaine d'application**: Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes
+
+
 * **[Voxler](https://www.voxler.fr)**  
   * _Studio parisien (groupe THQ Nordic) spécialisé dans les jeux musicaux et de karaoké sur console (série Let's Sing depuis 2012, Let's Get Fit), avec reconnaissance vocale propre._
   * **Mots clés**: _karaoké, jeux musicaux, console, THQ Nordic_
@@ -10728,6 +11000,14 @@ puis ouvrir http://localhost:8000/site/. En local, le site lit le `json/data.jso
   * **Domaine scientifique/technique**: Hardware, Acquisition
   * **Domaine d'application**: Générique
   * [_Jobs_](https://www.wacom.com/en-us/about-wacom/careers-at-wacom)
+
+
+* **[Walking The Dog](https://www.walkingthedog.be/)**  
+  * _Société de production bruxelloise de longs métrages d'animation dotée de ses propres studios d'animation 2D/3D (Bruxelles et Genk), coproductrice de Renard et Lapin sauvent la forêt (2024) et de Marcel et Monsieur Pagnol de Sylvain Chomet (2025), Outfoxed! et Melvile en production._
+  * **Mots clés**: _long métrage d'animation, coproduction, animation 2D, animation 3D_
+  * **Localisation**: Belgique/Bruxelles, Belgique/Genk
+  * **Domaine scientifique/technique**: Animation, Modélisation, Pipeline/Outils de production
+  * **Domaine d'application**: Cinéma/Films d'Animation/VFX
 
 
 * **[Wanadev](https://www.wanadevstudio.com/)**  

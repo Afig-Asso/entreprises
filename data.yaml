@@ -2918,6 +2918,10 @@
       Coordinates: [48.84974, 2.30027]
       SIREN: '338438781'
       Address: 6-10 6 Rue de la Cavalerie, 75015 Paris
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.81609, 4.35046]
+      Address: Avenue Molière 128, 1050 Ixelles
   Jobs: https://www.illuminationstudiosparis.com/careers/
   Scientific-domain: [Rendu offline/VFX, Simulation]
   Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité]
@@ -3523,6 +3527,10 @@
       Coordinates: [45.65266, 0.15320]
       SIREN: '750802522'
       Address: 97 rue de Bordeaux, 16000 Angoulême
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.82689, 4.36799]
+      Address: Rue Dautzenberg 36, 1050 Ixelles
   Scientific-domain: [Rendu offline/VFX, Simulation, Modélisation]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [effets visuels, compositing, matte painting, simulation de fluides, long métrage, séries TV, supervision de tournage]
@@ -6763,6 +6771,10 @@
     - City: Angoulême
     - Country: Canada
       City: Montréal
+    - Country: Belgique
+      City: Liège
+      Coordinates: [50.63324, 5.58555]
+      Address: Rue de Mulhouse 36, 4020 Liège
   Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
   Application-domain: [Cinéma/Films d'Animation/VFX]
   Keywords: [animation 2D, animation 3D, séries d'animation, fabrication]
@@ -10261,6 +10273,10 @@
       City: Dublin
       Coordinates: [53.33692, -6.26904]
       Address: 17A New Bride Street, Dublin 8
+    - Country: Belgique
+      City: Gand
+      Coordinates: [51.06081, 3.71372]
+      Address: Opgeëistenlaan 2, 9000 Gand
   Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Pipeline/Outils de production]
   Application-domain: [Jeu Vidéo]
   Employees: 100
@@ -16812,3 +16828,425 @@
   Scientific-domain: [Reconstruction, Vision, Acquisition]
   Application-domain: [Commerce/Marketing/Publicité]
   Keywords: [IA spatiale, cartographie 3D, commerce de détail, capteurs portés]
+
+- Name: Materialise
+  url: https://www.materialise.com/
+  Description: Éditeur louvaniste de logiciels d'impression 3D et de planification médicale (préparation de fabrication additive, segmentation d'images médicales et modèles anatomiques 3D) et prestataire de fabrication additive, fondé en 1990 et coté au Nasdaq.
+  Place:
+    - Country: Belgique
+      City: Louvain
+      Coordinates: [50.85311, 4.73402]
+      Address: Technologielaan 15, 3001 Leuven
+  Scientific-domain: [Design/Fabrication, Imagerie, Géométrie, Modélisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique]
+  Jobs: https://www.materialise.com/en/careers
+  Employees: 2550
+  Keywords: [impression 3D, fabrication additive, planification chirurgicale, modèles anatomiques]
+
+- Name: Barco
+  url: https://www.barco.com/
+  Description: 'Groupe technologique de Courtrai spécialisé dans la visualisation : projecteurs de cinéma et d''expériences immersives, murs d''images pour salles de contrôle et écrans de diagnostic médical, 3 253 employés en 2025.'
+  Place:
+    - Country: Belgique
+      City: Courtrai
+      Coordinates: [50.79907, 3.27578]
+      Address: President Kennedypark 35, 8500 Kortrijk
+  Scientific-domain: [Visualisation, Hardware, Imagerie]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Médical/Biologique, Art/Evenementiel, Générique]
+  Employees: 3253
+  Keywords: [projection, écrans médicaux, salles de contrôle, visualisation]
+
+- Name: Siemens Digital Industries Software (Louvain)
+  url: https://www.sw.siemens.com/
+  Description: Centre de R&D louvaniste de Siemens Digital Industries Software (ex-LMS International, racheté en 2012), qui développe la gamme de simulation et d'essais Simcenter (Simcenter 3D, Amesim, Testlab).
+  Place:
+    - Country: Belgique
+      City: Louvain
+      Coordinates: [50.85113, 4.73304]
+      Address: Interleuvenlaan 68, 3001 Leuven
+  Scientific-domain: [Simulation, Visualisation, Analyse de données]
+  Application-domain: [Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Jobs: https://jobs.siemens.com/
+  Keywords: [simulation multiphysique, jumeau numérique, Simcenter, acoustique et vibrations]
+
+- Name: Esko
+  url: https://www.esko.com/
+  Description: 'Éditeur et fabricant gantois (groupe Veralto) de solutions pour l''emballage et l''impression : CAO d''emballages et visualisation 3D, prépresse, imageurs de plaques flexographiques et inspection d''impression, environ 1 600 collaborateurs.'
+  Place:
+    - Country: Belgique
+      City: Gand
+      Coordinates: [51.02877, 3.69376]
+      Address: Raymonde de Larochelaan 13, 9051 Gent
+  Scientific-domain: [Design/Fabrication, Imagerie, Visualisation]
+  Application-domain: [Industrie/Manufacturing/CAO, Commerce/Marketing/Publicité]
+  Jobs: https://www.esko.com/en/company/careers
+  Employees: 1600
+  Keywords: [emballage, prépresse, CAO, inspection d'impression]
+
+- Name: EVS
+  url: https://evs.com/
+  Description: 'Équipementier liégeois de la production télévisée en direct : serveurs et systèmes de ralenti (LiveCeption, LSM-VIA), effets de ralenti par IA générative (XtraMotion), assistance vidéo à l''arbitrage (Xeebra), 800+ collaborateurs.'
+  Place:
+    - Country: Belgique
+      City: Seraing
+      Coordinates: [50.59193, 5.55724]
+      Address: Rue du Bois Saint-Jean 13, Liège Science Park, 4102 Seraing
+  Scientific-domain: [Imagerie, IA générative (image/3D), Hardware, Web/Cloud/Big Data]
+  Application-domain: [Art/Evenementiel, Générique]
+  Jobs: https://evs.com/careers
+  Employees: 800
+  Keywords: [ralenti, production en direct, vidéo broadcast, arbitrage vidéo]
+
+- Name: Bricsys
+  url: https://www.bricsys.com/
+  Description: Éditeur gantois du logiciel de CAO 2D/3D BricsCAD (compatible DWG, BIM et tôlerie), racheté par Hexagon en 2018 et désormais commercialisé sous la marque Octave BricsCAD.
+  Place:
+    - Country: Belgique
+      City: Gand
+      Coordinates: [51.0373, 3.73674]
+      Address: Bellevue 5 / 201, 9050 Gent
+  Scientific-domain: [Design/Fabrication, Modélisation, Géométrie]
+  Application-domain: [Industrie/Manufacturing/CAO, Architecture/BTP/Urbanisme]
+  Keywords: [CAO, BricsCAD, DWG, BIM]
+
+- Name: nWave Studios
+  url: https://nwave.com/
+  Description: Studio bruxellois d'animation 3D fondé en 1994 par Ben Stassen, producteur de longs métrages (Bigfoot Family, Les Inséparables, Chickenhare et le secret de la marmotte en 2025, Yugly en 2026) et de films pour attractions 3D/4D.
+  Place:
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.8227, 4.32718]
+      Address: Rue des Alliés 282, 1190 Forest
+    - Country: Belgique
+      City: Liège
+      Coordinates: [50.6326, 5.5797]
+  Scientific-domain: [Animation, Modélisation, Rendu offline/VFX]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Loisir Interactif/Immersion/Metavers]
+  Jobs: https://nwave.bamboohr.com/careers
+  Keywords: [long métrage d'animation, animation 3D, films 4D, Ben Stassen]
+
+- Name: The Pack
+  url: https://www.thepack.studio/
+  Description: Groupe belge de VFX, post-production et animation 2D/3D issu de la fusion de The Fridge, NOZON et Ace Image Factory, avec des bureaux à Bruxelles (Koekelberg), en Flandre et à Mons, actif sur des longs métrages et séries (L'Homme qui rétrécit, Hacked, Outfoxed!) et des projets temps réel et VR.
+  Place:
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.85949, 4.33693]
+      Address: Rue Deschampheleer 26, 1081 Koekelberg
+    - Country: Belgique
+      City: Mons
+      Coordinates: [50.45683, 3.92644]
+      Address: Avenue Guibal et Devillez 1, 7000 Mons
+  Scientific-domain: [Rendu offline/VFX, Animation, Rendu temps réel/Moteurs 3D, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Commerce/Marketing/Publicité, Jeu Vidéo]
+  Keywords: [effets visuels, post-production, animation 3D, production temps réel]
+
+- Name: Walking The Dog
+  url: https://www.walkingthedog.be/
+  Description: Société de production bruxelloise de longs métrages d'animation dotée de ses propres studios d'animation 2D/3D (Bruxelles et Genk), coproductrice de Renard et Lapin sauvent la forêt (2024) et de Marcel et Monsieur Pagnol de Sylvain Chomet (2025), Outfoxed! et Melvile en production.
+  Place:
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.85949, 4.33693]
+      Address: Rue Deschampheleer 24-26, 1081 Koekelberg
+    - Country: Belgique
+      City: Genk
+      Coordinates: [50.98271, 5.49204]
+      Address: C-Mine 12, 3600 Genk
+  Scientific-domain: [Animation, Modélisation, Pipeline/Outils de production]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Keywords: [long métrage d'animation, coproduction, animation 2D, animation 3D]
+
+- Name: UFX Studios
+  url: https://ufxstudios.com/
+  Description: Studio bruxellois d'effets visuels du groupe Umedia (ex-Umedia Visual Effects), de la prévisualisation au compositing, avec scan Lidar, production virtuelle et VFX temps réel sous Unreal Engine, pour des films et séries européens (Dog 51, The Countess of Monte-Cristo, L'estranea, Il Mestiere).
+  Place:
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.82545, 4.3652]
+      Address: Avenue Louise 235, 1050 Ixelles
+    - Country: Belgique
+      City: Rixensart
+      Coordinates: [50.71226, 4.52162]
+  Scientific-domain: [Rendu offline/VFX, Rendu temps réel/Moteurs 3D, Acquisition]
+  Application-domain: [Cinéma/Films d'Animation/VFX]
+  Jobs: https://ufxstudios.com/
+  Keywords: [effets visuels, production virtuelle, compositing, Tax Shelter]
+
+- Name: Cyborn
+  url: https://www.cyborn.be/
+  Description: Studio anversois de jeux VR et de réalité mixte (Hubris, Wall Town Wonders) sous Unreal Engine, fondé en 1998 comme studio d'animation 3D, qui propose aussi capture de mouvement, animation, humains numériques et co-développement (animation pour Horizon Forbidden West, Metro Awakening).
+  Place:
+    - Country: Belgique
+      City: Anvers
+      Coordinates: [51.21314, 4.43899]
+      Address: Prins Leopoldstraat 28, 2140 Antwerpen
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D, Animation, Acquisition]
+  Application-domain: [Jeu Vidéo, Cinéma/Films d'Animation/VFX, Entrainement/Formation/Serious Game]
+  Jobs: https://www.cyborn.be/
+  Keywords: [réalité virtuelle, réalité mixte, capture de mouvement, Unreal Engine]
+
+- Name: Gunfire Games Europe
+  url: https://www.appeal-studios.com/
+  Description: 'Studio de jeu vidéo de Charleroi (THQ Nordic), ex-Appeal Studios créateur d''Outcast (1999) et du remake Outcast: A New Beginning (2024), renommé en octobre 2025 pour codévelopper avec Gunfire Games (Austin).'
+  Place:
+    - Country: Belgique
+      City: Charleroi
+      Coordinates: [50.40958, 4.44406]
+      Address: Boulevard Audent 14 (4e-5e étage), 6000 Charleroi
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Animation, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Keywords: [jeu d'action-aventure, monde ouvert, Outcast, THQ Nordic]
+
+- Name: Fishing Cactus
+  url: https://www.fishingcactus.be/
+  Description: Studio de jeu vidéo montois fondé en 2009 (38 personnes), auteur de jeux console et VR (Sports Camp avec Decathlon sur Switch, Samurai Academy) et de services de développement et serious games.
+  Place:
+    - Country: Belgique
+      City: Mons
+      Coordinates: [50.45683, 3.92644]
+      Address: Avenue Guibal et Devillez 1, 7000 Mons
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, VR/AR, Animation]
+  Application-domain: [Jeu Vidéo, Entrainement/Formation/Serious Game]
+  Jobs: https://www.fishingcactus.be/
+  Employees: 38
+  Keywords: [jeu console, Nintendo Switch, serious game, réalité virtuelle]
+
+- Name: Triangle Factory
+  url: https://www.triangle-factory.be/
+  Description: 'Studio gantois de jeux de tir en réalité virtuelle, auteur de Hyper Dash, Breachers, Breachers: Outbreak et Forefront (batailles VR à 32 joueurs).'
+  Place:
+    - Country: Belgique
+      City: Gand
+      Coordinates: [51.07811, 3.72776]
+      Address: Dublinstraat 35, 9000 Gent
+  Scientific-domain: [VR/AR, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Loisir Interactif/Immersion/Metavers]
+  Keywords: [réalité virtuelle, jeu de tir, multijoueur, Meta Quest]
+
+- Name: Happy Volcano
+  url: https://www.happyvolcano.com/
+  Description: Studio de jeu vidéo louvaniste financé par Hiro Capital et Ian Livingstone, auteur de You Suck at Parking, The Almost Gone et Modulus.
+  Place:
+    - Country: Belgique
+      City: Louvain
+      Coordinates: [50.88727, 4.69988]
+      Address: Sluisstraat 79, 3000 Leuven
+  Scientific-domain: [Rendu temps réel/Moteurs 3D, Modélisation]
+  Application-domain: [Jeu Vidéo]
+  Jobs: https://www.happyvolcano.com/careers
+  Keywords: [jeu PC et console, jeu indépendant, Hiro Capital]
+
+- Name: Robovision
+  url: https://robovision.ai/
+  Description: Éditeur gantois fondé en 2008 d'une plateforme de vision par ordinateur et d'apprentissage profond pour l'inspection industrielle (Indurion), utilisée en horticulture, semi-conducteurs, agroalimentaire et emballage.
+  Place:
+    - Country: Belgique
+      City: Gand
+      Coordinates: [51.03114, 3.73428]
+      Address: Foreestelaan 88, 9000 Gent
+  Scientific-domain: [Vision, Imagerie]
+  Application-domain: [Industrie/Manufacturing/CAO, Robotique/Systèmes autonomes]
+  Jobs: https://robovision.ai/about-us/careers
+  Keywords: [vision industrielle, apprentissage profond, inspection, horticulture]
+
+- Name: Euresys
+  url: https://www.euresys.com/
+  Description: 'Concepteur liégeois (groupe TKH Vision) de composants d''acquisition d''images pour la vision industrielle : cartes d''acquisition CoaXPress et Camera Link, cœurs IP FPGA et bibliothèque de traitement d''images Open eVision.'
+  Place:
+    - Country: Belgique
+      City: Seraing
+      Coordinates: [50.59445, 5.56132]
+      Address: Rue du Bois Saint-Jean 20, Liège Science Park, 4102 Seraing
+  Scientific-domain: [Acquisition, Imagerie, Vision, Hardware]
+  Application-domain: [Industrie/Manufacturing/CAO, Médical/Biologique]
+  Jobs: https://www.euresys.com/en/About-us
+  Employees: 80
+  Keywords: [vision industrielle, carte d'acquisition, FPGA, traitement d'images]
+
+- Name: intoPIX
+  url: https://www.intopix.com/
+  Description: Société de Louvain-la-Neuve fondée en 2006, spécialiste de la compression d'images et de vidéo (JPEG XS, JPEG 2000, TicoRAW) en cœurs IP FPGA/ASIC et SDK CPU/GPU, récompensée par des Emmy Awards techniques en 2014 et 2025.
+  Place:
+    - Country: Belgique
+      City: Louvain-la-Neuve
+      Coordinates: [50.66032, 4.61723]
+      Address: Rue de Rodeuhaie 1, 1348 Ottignies-Louvain-la-Neuve
+  Scientific-domain: [Imagerie, Hardware, Web/Cloud/Big Data]
+  Application-domain: [Cinéma/Films d'Animation/VFX, Générique]
+  Keywords: [compression d'images, JPEG XS, FPGA, vidéo sur IP]
+
+- Name: Sony Depthsensing Solutions
+  url: https://www.sony-depthsensing.com/
+  Description: Filiale bruxelloise de Sony (ex-SoftKinetic, rachetée en 2015) qui développe la technologie de caméras 3D à temps de vol DepthSense et ses logiciels de perception pour l'automobile, le mobile, l'industrie et la maison connectée.
+  Place:
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.81706, 4.40648]
+      Address: Rue Jules Cockx 8, 1160 Auderghem
+  Scientific-domain: [Acquisition, Vision, Hardware, Reconstruction]
+  Application-domain: [Automobile/Navigation/Aviation, Robotique/Systèmes autonomes, Générique]
+  Jobs: https://www.sony-depthsensing.com/careers
+  Keywords: [temps de vol, caméra 3D, capteur de profondeur, reconnaissance de gestes]
+
+- Name: icometrix
+  url: https://www.icometrix.com/
+  Description: Éditeur louvaniste de logiciels d'IA d'analyse d'IRM et de scanner cérébraux (icobrain) pour la sclérose en plaques, la démence, les ARIA, l'AVC et le traumatisme crânien, devenu une société de GE HealthCare.
+  Place:
+    - Country: Belgique
+      City: Louvain
+      Coordinates: [50.88893, 4.70573]
+      Address: Kolonel Begaultlaan 1B / 12, 3012 Leuven
+  Scientific-domain: [Imagerie, Vision, Visualisation]
+  Application-domain: [Médical/Biologique]
+  Keywords: [imagerie cérébrale, IRM, intelligence artificielle, neurologie]
+
+- Name: Aerospacelab
+  url: https://www.aerospacelab.com/
+  Description: Constructeur de satellites de Mont-Saint-Guibert (400+ collaborateurs) qui conçoit plateformes et charges utiles d'observation de la Terre (multispectral, hyperspectral, très haute résolution, radar) et ouvre en 2026 une « Megafactory » de 500 satellites par an.
+  Place:
+    - Country: Belgique
+      City: Mont-Saint-Guibert
+      Coordinates: [50.65664, 4.6283]
+      Address: Rue André Dumont 14, 1435 Mont-Saint-Guibert
+  Scientific-domain: [Acquisition, Imagerie, Hardware]
+  Application-domain: [Géospatial/Cartographie, Sécurité/Défense]
+  Employees: 400
+  Keywords: [satellites, observation de la Terre, imagerie hyperspectrale, constellation]
+
+- Name: Arkite
+  url: https://arkite.com/
+  Description: Éditeur genkois d'une plateforme de guidage des opérateurs pour l'assemblage manuel, par instructions projetées en réalité augmentée sur le poste de travail, contrôle par capteurs 3D et inspection par IA.
+  Place:
+    - Country: Belgique
+      City: Genk
+      Coordinates: [50.98088, 5.48257]
+      Address: Houtparklaan 5 / 21, 3600 Genk
+  Scientific-domain: [VR/AR, Vision, IHM/Haptique]
+  Application-domain: [Industrie/Manufacturing/CAO, Entrainement/Formation/Serious Game]
+  Keywords: [réalité augmentée, projection, guidage d'opérateur, industrie 4.0]
+
+- Name: Twikit
+  url: https://twikit.com/
+  Description: Éditeur anversois de TwikBot, plateforme cloud de configuration de produits en 3D temps réel et de devis (CPQ) qui génère nomenclatures et fichiers CAO pour la personnalisation de produits (Volkswagen, Renault, Porsche, Intense Cycles).
+  Place:
+    - Country: Belgique
+      City: Anvers
+      Coordinates: [51.22669, 4.40945]
+      Address: Hessenplein 2, 2000 Antwerpen
+  Scientific-domain: [Visualisation, Modélisation, Design/Fabrication, Web/Cloud/Big Data]
+  Application-domain: [Commerce/Marketing/Publicité, Industrie/Manufacturing/CAO, Automobile/Navigation/Aviation]
+  Keywords: [configurateur 3D, personnalisation de masse, CPQ, WebGL]
+
+- Name: SCIA
+  url: https://www.scia.net/
+  Description: Éditeur hasseltois (groupe Nemetschek) de logiciels de calcul et de dimensionnement de structures intégrés au BIM, dont SCIA Engineer (version 2027), avec plus de 120 collaborateurs.
+  Place:
+    - Country: Belgique
+      City: Hasselt
+      Coordinates: [50.95181, 5.35143]
+      Address: Kempische Steenweg 311 / 2.06, 3500 Hasselt
+  Scientific-domain: [Simulation, Design/Fabrication, Modélisation]
+  Application-domain: [Architecture/BTP/Urbanisme]
+  Employees: 120
+  Keywords: [calcul de structures, éléments finis, BIM, génie civil]
+
+- Name: VoxelSensors
+  url: https://voxelsensors.com/
+  Description: Start-up bruxelloise fondée en 2020 qui développe des capteurs de perception 3D à événements (SPAES) et la caméra LyraCam pour la XR, les lunettes connectées et la robotique, en collaboration avec Qualcomm (plateforme Snapdragon).
+  Place:
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.84566, 4.35818]
+      Address: Cantersteen 47 (Silversquare), 1000 Bruxelles
+  Scientific-domain: [Acquisition, VR/AR, Hardware, Vision]
+  Application-domain: [Loisir Interactif/Immersion/Metavers, Robotique/Systèmes autonomes]
+  Keywords: [capteur 3D, perception de profondeur, réalité étendue, capteur à événements]
+
+- Name: Deltatec
+  url: https://deltatec.be/
+  Description: 'Bureau d''études liégeois fondé il y a près de 40 ans, spécialisé en vision, traitement d''images et électronique embarquée : cœurs de caméras infrarouges thermiques et SWIR pour le spatial, calculateurs de charge utile et applications de vision par IA pour l''industrie.'
+  Place:
+    - Country: Belgique
+      City: Ans
+      Coordinates: [50.66158, 5.52863]
+      Address: Rue Gilles Magnée 92/6, 4430 Ans
+  Scientific-domain: [Imagerie, Acquisition, Vision, Hardware]
+  Application-domain: [Industrie/Manufacturing/CAO, Géospatial/Cartographie, Sécurité/Défense]
+  Jobs: https://deltatec.be/
+  Keywords: [caméra infrarouge, traitement d'images, FPGA, spatial]
+
+- Name: Macq
+  url: https://mobility.macq.eu/
+  Description: Entreprise bruxelloise de systèmes de mobilité intelligente, fondée en 1930, qui conçoit des caméras intelligentes de lecture de plaques (QCAM3, QCAM5) et des logiciels d'analyse vidéo pour le contrôle de vitesse, le péage en flux libre et la police.
+  Place:
+    - Country: Belgique
+      City: Bruxelles
+      Coordinates: [50.87748, 4.4139]
+      Address: Rue de l'Aéronef 2, 1140 Evere
+  Scientific-domain: [Vision, Acquisition, Analyse de données]
+  Application-domain: [Automobile/Navigation/Aviation, Sécurité/Défense]
+  Keywords: [lecture de plaques, caméra intelligente, mobilité, analyse vidéo]
+
+- Name: LuGus Studios
+  url: https://www.lugus-studios.be/
+  Description: Studio de jeu vidéo et de simulation hasseltois, spécialiste de la simulation de drones haute fidélité (Liftoff, simulateur de drone de référence) et de serious games pour la formation.
+  Place:
+    - Country: Belgique
+      City: Hasselt
+      Coordinates: [50.93046, 5.33477]
+      Address: Aldestraat 48 / 0001, 3500 Hasselt
+  Scientific-domain: [Simulation, Rendu temps réel/Moteurs 3D]
+  Application-domain: [Jeu Vidéo, Entrainement/Formation/Serious Game, Robotique/Systèmes autonomes]
+  Employees: 13
+  Keywords: [simulateur de drone, Liftoff, serious game, simulation physique]
+
+- Name: Apixa
+  url: https://www.apixa.com/
+  Description: 'Société louvaniste de vision par ordinateur, spin-off du groupe VISICS-PSI de la KU Leuven fondée en 2007 (ex-Vision++), qui conçoit des solutions de contrôle qualité et de détection de personnes : apprentissage profond, vision 3D, imagerie hyperspectrale, calibration et conception optique.'
+  Place:
+    - Country: Belgique
+      City: Louvain
+      Coordinates: [50.84692, 4.73157]
+      Address: Interleuvenlaan 15 G, 3001 Heverlee
+  Scientific-domain: [Vision, Imagerie, Acquisition]
+  Application-domain: [Industrie/Manufacturing/CAO, Sécurité/Défense]
+  Jobs: https://www.apixa.com/careers
+  Keywords: [vision par ordinateur, vision 3D, imagerie hyperspectrale, contrôle qualité]
+
+- Name: IRIS
+  url: https://www.irislink.com/
+  Description: Éditeur et fabricant de Mont-Saint-Guibert (groupe Canon) de logiciels de reconnaissance optique de caractères et de traitement de documents (Readiris PDF 27) et de scanners portables et de bureau (IRIScan, IRISPen).
+  Place:
+    - Country: Belgique
+      City: Mont-Saint-Guibert
+      Coordinates: [50.65987, 4.62837]
+      Address: Rue du Bosquet 17 A, 1435 Mont-Saint-Guibert
+  Scientific-domain: [Vision, Imagerie, Acquisition]
+  Application-domain: [Générique]
+  Keywords: [OCR, reconnaissance de documents, scanner, traitement d'images]
+
+- Name: Exosens Imaging Belgium (ex-Xenics)
+  url: https://www.exosens.com/
+  Description: Site louvaniste du groupe français Exosens (ex-Xenics, fondée en 2000) qui conçoit et fabrique des capteurs et caméras infrarouges SWIR, MWIR et LWIR pour l'industrie, la défense, la science et le spatial.
+  Place:
+    - Country: Belgique
+      City: Louvain
+      Coordinates: [50.85133, 4.73033]
+      Address: Interleuvenlaan 80-82, 3001 Leuven
+  Scientific-domain: [Acquisition, Imagerie, Hardware]
+  Application-domain: [Industrie/Manufacturing/CAO, Sécurité/Défense, Médical/Biologique]
+  Keywords: [caméra infrarouge, SWIR, capteur d'image, imagerie thermique]
+
+- Name: radiomics.bio
+  url: https://radiomics.bio/
+  Description: Société liégeoise (ex-OncoRadiomics, fondée en 2016) qui extrait des biomarqueurs quantitatifs des images médicales (radiomique) avec sa plateforme Ikonics, pour la recherche en oncologie, les essais cliniques et la lecture centralisée d'imagerie.
+  Place:
+    - Country: Belgique
+      City: Liège
+      Coordinates: [50.64763, 5.53752]
+      Address: LégiaPark, Boulevard de Patience et Beaujonc 3, 4000 Liège
+  Scientific-domain: [Imagerie, Analyse de données]
+  Application-domain: [Médical/Biologique]
+  Jobs: https://radiomics.bio/
+  Keywords: [radiomique, imagerie médicale, oncologie, essais cliniques]

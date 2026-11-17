@@ -1,5 +1,5 @@
 {
-    "Updated": "2026-11-11",
+    "Updated": "2026-11-17",
     "Keywords": {
         "Scientific-domain": [
             {
@@ -119,17 +119,69 @@
             50.6403,
             4.6667
         ],
+        "Belgique/Ans": [
+            50.6529,
+            5.5406
+        ],
+        "Belgique/Anvers": [
+            51.2211,
+            4.3997
+        ],
+        "Belgique/Bruxelles": [
+            50.8467,
+            4.3525
+        ],
         "Belgique/Charleroi": [
             50.4116,
             4.4445
+        ],
+        "Belgique/Courtrai": [
+            50.8276,
+            3.266
+        ],
+        "Belgique/Gand": [
+            51.0538,
+            3.725
+        ],
+        "Belgique/Genk": [
+            50.9668,
+            5.4834
+        ],
+        "Belgique/Hasselt": [
+            50.9304,
+            5.3378
         ],
         "Belgique/Li\u00e8ge": [
             50.6451,
             5.5736
         ],
+        "Belgique/Louvain": [
+            50.8792,
+            4.7012
+        ],
+        "Belgique/Louvain-la-Neuve": [
+            50.6741,
+            4.6138
+        ],
+        "Belgique/Mons": [
+            50.455,
+            3.952
+        ],
+        "Belgique/Mont-Saint-Guibert": [
+            50.6366,
+            4.6127
+        ],
         "Belgique/Mortsel": [
             51.1704,
             4.4567
+        ],
+        "Belgique/Rixensart": [
+            50.7123,
+            4.5216
+        ],
+        "Belgique/Seraing": [
+            50.6152,
+            5.5089
         ],
         "Br\u00e9sil/S\u00e3o Paulo": [
             -23.5507,
@@ -8894,6 +8946,15 @@
                     ],
                     "SIREN": "338438781",
                     "Address": "6-10 6 Rue de la Cavalerie, 75015 Paris"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.81609,
+                        4.35046
+                    ],
+                    "Address": "Avenue Moli\u00e8re 128, 1050 Ixelles"
                 }
             ],
             "Jobs": "https://www.illuminationstudiosparis.com/careers/",
@@ -10345,6 +10406,15 @@
                     ],
                     "SIREN": "750802522",
                     "Address": "97 rue de Bordeaux, 16000 Angoul\u00eame"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.82689,
+                        4.36799
+                    ],
+                    "Address": "Rue Dautzenberg 36, 1050 Ixelles"
                 }
             ],
             "Scientific-domain": [
@@ -17959,6 +18029,15 @@
                 {
                     "Country": "Canada",
                     "City": "Montr\u00e9al"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Li\u00e8ge",
+                    "Coordinates": [
+                        50.63324,
+                        5.58555
+                    ],
+                    "Address": "Rue de Mulhouse 36, 4020 Li\u00e8ge"
                 }
             ],
             "Scientific-domain": [
@@ -26184,6 +26263,15 @@
                         -6.26904
                     ],
                     "Address": "17A New Bride Street, Dublin 8"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Gand",
+                    "Coordinates": [
+                        51.06081,
+                        3.71372
+                    ],
+                    "Address": "Opge\u00ebistenlaan 2, 9000 Gand"
                 }
             ],
             "Scientific-domain": [
@@ -41910,6 +41998,1060 @@
                 "cartographie 3D",
                 "commerce de d\u00e9tail",
                 "capteurs port\u00e9s"
+            ]
+        },
+        {
+            "Name": "Materialise",
+            "url": "https://www.materialise.com/",
+            "Description": "\u00c9diteur louvaniste de logiciels d'impression 3D et de planification m\u00e9dicale (pr\u00e9paration de fabrication additive, segmentation d'images m\u00e9dicales et mod\u00e8les anatomiques 3D) et prestataire de fabrication additive, fond\u00e9 en 1990 et cot\u00e9 au Nasdaq.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Louvain",
+                    "Coordinates": [
+                        50.85311,
+                        4.73402
+                    ],
+                    "Address": "Technologielaan 15, 3001 Leuven"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Imagerie",
+                "G\u00e9om\u00e9trie",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.materialise.com/en/careers",
+            "Employees": 2550,
+            "Keywords": [
+                "impression 3D",
+                "fabrication additive",
+                "planification chirurgicale",
+                "mod\u00e8les anatomiques"
+            ]
+        },
+        {
+            "Name": "Barco",
+            "url": "https://www.barco.com/",
+            "Description": "Groupe technologique de Courtrai sp\u00e9cialis\u00e9 dans la visualisation : projecteurs de cin\u00e9ma et d'exp\u00e9riences immersives, murs d'images pour salles de contr\u00f4le et \u00e9crans de diagnostic m\u00e9dical, 3 253 employ\u00e9s en 2025.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Courtrai",
+                    "Coordinates": [
+                        50.79907,
+                        3.27578
+                    ],
+                    "Address": "President Kennedypark 35, 8500 Kortrijk"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Hardware",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "M\u00e9dical/Biologique",
+                "Art/Evenementiel",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Employees": 3253,
+            "Keywords": [
+                "projection",
+                "\u00e9crans m\u00e9dicaux",
+                "salles de contr\u00f4le",
+                "visualisation"
+            ]
+        },
+        {
+            "Name": "Siemens Digital Industries Software (Louvain)",
+            "url": "https://www.sw.siemens.com/",
+            "Description": "Centre de R&D louvaniste de Siemens Digital Industries Software (ex-LMS International, rachet\u00e9 en 2012), qui d\u00e9veloppe la gamme de simulation et d'essais Simcenter (Simcenter 3D, Amesim, Testlab).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Louvain",
+                    "Coordinates": [
+                        50.85113,
+                        4.73304
+                    ],
+                    "Address": "Interleuvenlaan 68, 3001 Leuven"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Visualisation",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Jobs": "https://jobs.siemens.com/",
+            "Keywords": [
+                "simulation multiphysique",
+                "jumeau num\u00e9rique",
+                "Simcenter",
+                "acoustique et vibrations"
+            ]
+        },
+        {
+            "Name": "Esko",
+            "url": "https://www.esko.com/",
+            "Description": "\u00c9diteur et fabricant gantois (groupe Veralto) de solutions pour l'emballage et l'impression : CAO d'emballages et visualisation 3D, pr\u00e9presse, imageurs de plaques flexographiques et inspection d'impression, environ 1 600 collaborateurs.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Gand",
+                    "Coordinates": [
+                        51.02877,
+                        3.69376
+                    ],
+                    "Address": "Raymonde de Larochelaan 13, 9051 Gent"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Imagerie",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Commerce/Marketing/Publicit\u00e9"
+            ],
+            "Jobs": "https://www.esko.com/en/company/careers",
+            "Employees": 1600,
+            "Keywords": [
+                "emballage",
+                "pr\u00e9presse",
+                "CAO",
+                "inspection d'impression"
+            ]
+        },
+        {
+            "Name": "EVS",
+            "url": "https://evs.com/",
+            "Description": "\u00c9quipementier li\u00e9geois de la production t\u00e9l\u00e9vis\u00e9e en direct : serveurs et syst\u00e8mes de ralenti (LiveCeption, LSM-VIA), effets de ralenti par IA g\u00e9n\u00e9rative (XtraMotion), assistance vid\u00e9o \u00e0 l'arbitrage (Xeebra), 800+ collaborateurs.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Seraing",
+                    "Coordinates": [
+                        50.59193,
+                        5.55724
+                    ],
+                    "Address": "Rue du Bois Saint-Jean 13, Li\u00e8ge Science Park, 4102 Seraing"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "IA g\u00e9n\u00e9rative (image/3D)",
+                "Hardware",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Art/Evenementiel",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://evs.com/careers",
+            "Employees": 800,
+            "Keywords": [
+                "ralenti",
+                "production en direct",
+                "vid\u00e9o broadcast",
+                "arbitrage vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "Bricsys",
+            "url": "https://www.bricsys.com/",
+            "Description": "\u00c9diteur gantois du logiciel de CAO 2D/3D BricsCAD (compatible DWG, BIM et t\u00f4lerie), rachet\u00e9 par Hexagon en 2018 et d\u00e9sormais commercialis\u00e9 sous la marque Octave BricsCAD.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Gand",
+                    "Coordinates": [
+                        51.0373,
+                        3.73674
+                    ],
+                    "Address": "Bellevue 5 / 201, 9050 Gent"
+                }
+            ],
+            "Scientific-domain": [
+                "Design/Fabrication",
+                "Mod\u00e9lisation",
+                "G\u00e9om\u00e9trie"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Keywords": [
+                "CAO",
+                "BricsCAD",
+                "DWG",
+                "BIM"
+            ]
+        },
+        {
+            "Name": "nWave Studios",
+            "url": "https://nwave.com/",
+            "Description": "Studio bruxellois d'animation 3D fond\u00e9 en 1994 par Ben Stassen, producteur de longs m\u00e9trages (Bigfoot Family, Les Ins\u00e9parables, Chickenhare et le secret de la marmotte en 2025, Yugly en 2026) et de films pour attractions 3D/4D.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.8227,
+                        4.32718
+                    ],
+                    "Address": "Rue des Alli\u00e9s 282, 1190 Forest"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Li\u00e8ge",
+                    "Coordinates": [
+                        50.6326,
+                        5.5797
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Rendu offline/VFX"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Jobs": "https://nwave.bamboohr.com/careers",
+            "Keywords": [
+                "long m\u00e9trage d'animation",
+                "animation 3D",
+                "films 4D",
+                "Ben Stassen"
+            ]
+        },
+        {
+            "Name": "The Pack",
+            "url": "https://www.thepack.studio/",
+            "Description": "Groupe belge de VFX, post-production et animation 2D/3D issu de la fusion de The Fridge, NOZON et Ace Image Factory, avec des bureaux \u00e0 Bruxelles (Koekelberg), en Flandre et \u00e0 Mons, actif sur des longs m\u00e9trages et s\u00e9ries (L'Homme qui r\u00e9tr\u00e9cit, Hacked, Outfoxed!) et des projets temps r\u00e9el et VR.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.85949,
+                        4.33693
+                    ],
+                    "Address": "Rue Deschampheleer 26, 1081 Koekelberg"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Mons",
+                    "Coordinates": [
+                        50.45683,
+                        3.92644
+                    ],
+                    "Address": "Avenue Guibal et Devillez 1, 7000 Mons"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Animation",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Commerce/Marketing/Publicit\u00e9",
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "effets visuels",
+                "post-production",
+                "animation 3D",
+                "production temps r\u00e9el"
+            ]
+        },
+        {
+            "Name": "Walking The Dog",
+            "url": "https://www.walkingthedog.be/",
+            "Description": "Soci\u00e9t\u00e9 de production bruxelloise de longs m\u00e9trages d'animation dot\u00e9e de ses propres studios d'animation 2D/3D (Bruxelles et Genk), coproductrice de Renard et Lapin sauvent la for\u00eat (2024) et de Marcel et Monsieur Pagnol de Sylvain Chomet (2025), Outfoxed! et Melvile en production.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.85949,
+                        4.33693
+                    ],
+                    "Address": "Rue Deschampheleer 24-26, 1081 Koekelberg"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Genk",
+                    "Coordinates": [
+                        50.98271,
+                        5.49204
+                    ],
+                    "Address": "C-Mine 12, 3600 Genk"
+                }
+            ],
+            "Scientific-domain": [
+                "Animation",
+                "Mod\u00e9lisation",
+                "Pipeline/Outils de production"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Keywords": [
+                "long m\u00e9trage d'animation",
+                "coproduction",
+                "animation 2D",
+                "animation 3D"
+            ]
+        },
+        {
+            "Name": "UFX Studios",
+            "url": "https://ufxstudios.com/",
+            "Description": "Studio bruxellois d'effets visuels du groupe Umedia (ex-Umedia Visual Effects), de la pr\u00e9visualisation au compositing, avec scan Lidar, production virtuelle et VFX temps r\u00e9el sous Unreal Engine, pour des films et s\u00e9ries europ\u00e9ens (Dog 51, The Countess of Monte-Cristo, L'estranea, Il Mestiere).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.82545,
+                        4.3652
+                    ],
+                    "Address": "Avenue Louise 235, 1050 Ixelles"
+                },
+                {
+                    "Country": "Belgique",
+                    "City": "Rixensart",
+                    "Coordinates": [
+                        50.71226,
+                        4.52162
+                    ]
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu offline/VFX",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX"
+            ],
+            "Jobs": "https://ufxstudios.com/",
+            "Keywords": [
+                "effets visuels",
+                "production virtuelle",
+                "compositing",
+                "Tax Shelter"
+            ]
+        },
+        {
+            "Name": "Cyborn",
+            "url": "https://www.cyborn.be/",
+            "Description": "Studio anversois de jeux VR et de r\u00e9alit\u00e9 mixte (Hubris, Wall Town Wonders) sous Unreal Engine, fond\u00e9 en 1998 comme studio d'animation 3D, qui propose aussi capture de mouvement, animation, humains num\u00e9riques et co-d\u00e9veloppement (animation pour Horizon Forbidden West, Metro Awakening).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Anvers",
+                    "Coordinates": [
+                        51.21314,
+                        4.43899
+                    ],
+                    "Address": "Prins Leopoldstraat 28, 2140 Antwerpen"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Jobs": "https://www.cyborn.be/",
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "r\u00e9alit\u00e9 mixte",
+                "capture de mouvement",
+                "Unreal Engine"
+            ]
+        },
+        {
+            "Name": "Gunfire Games Europe",
+            "url": "https://www.appeal-studios.com/",
+            "Description": "Studio de jeu vid\u00e9o de Charleroi (THQ Nordic), ex-Appeal Studios cr\u00e9ateur d'Outcast (1999) et du remake Outcast: A New Beginning (2024), renomm\u00e9 en octobre 2025 pour cod\u00e9velopper avec Gunfire Games (Austin).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Charleroi",
+                    "Coordinates": [
+                        50.40958,
+                        4.44406
+                    ],
+                    "Address": "Boulevard Audent 14 (4e-5e \u00e9tage), 6000 Charleroi"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Animation",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Keywords": [
+                "jeu d'action-aventure",
+                "monde ouvert",
+                "Outcast",
+                "THQ Nordic"
+            ]
+        },
+        {
+            "Name": "Fishing Cactus",
+            "url": "https://www.fishingcactus.be/",
+            "Description": "Studio de jeu vid\u00e9o montois fond\u00e9 en 2009 (38 personnes), auteur de jeux console et VR (Sports Camp avec Decathlon sur Switch, Samurai Academy) et de services de d\u00e9veloppement et serious games.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Mons",
+                    "Coordinates": [
+                        50.45683,
+                        3.92644
+                    ],
+                    "Address": "Avenue Guibal et Devillez 1, 7000 Mons"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "VR/AR",
+                "Animation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Jobs": "https://www.fishingcactus.be/",
+            "Employees": 38,
+            "Keywords": [
+                "jeu console",
+                "Nintendo Switch",
+                "serious game",
+                "r\u00e9alit\u00e9 virtuelle"
+            ]
+        },
+        {
+            "Name": "Triangle Factory",
+            "url": "https://www.triangle-factory.be/",
+            "Description": "Studio gantois de jeux de tir en r\u00e9alit\u00e9 virtuelle, auteur de Hyper Dash, Breachers, Breachers: Outbreak et Forefront (batailles VR \u00e0 32 joueurs).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Gand",
+                    "Coordinates": [
+                        51.07811,
+                        3.72776
+                    ],
+                    "Address": "Dublinstraat 35, 9000 Gent"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Loisir Interactif/Immersion/Metavers"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 virtuelle",
+                "jeu de tir",
+                "multijoueur",
+                "Meta Quest"
+            ]
+        },
+        {
+            "Name": "Happy Volcano",
+            "url": "https://www.happyvolcano.com/",
+            "Description": "Studio de jeu vid\u00e9o louvaniste financ\u00e9 par Hiro Capital et Ian Livingstone, auteur de You Suck at Parking, The Almost Gone et Modulus.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Louvain",
+                    "Coordinates": [
+                        50.88727,
+                        4.69988
+                    ],
+                    "Address": "Sluisstraat 79, 3000 Leuven"
+                }
+            ],
+            "Scientific-domain": [
+                "Rendu temps r\u00e9el/Moteurs 3D",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o"
+            ],
+            "Jobs": "https://www.happyvolcano.com/careers",
+            "Keywords": [
+                "jeu PC et console",
+                "jeu ind\u00e9pendant",
+                "Hiro Capital"
+            ]
+        },
+        {
+            "Name": "Robovision",
+            "url": "https://robovision.ai/",
+            "Description": "\u00c9diteur gantois fond\u00e9 en 2008 d'une plateforme de vision par ordinateur et d'apprentissage profond pour l'inspection industrielle (Indurion), utilis\u00e9e en horticulture, semi-conducteurs, agroalimentaire et emballage.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Gand",
+                    "Coordinates": [
+                        51.03114,
+                        3.73428
+                    ],
+                    "Address": "Foreestelaan 88, 9000 Gent"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Jobs": "https://robovision.ai/about-us/careers",
+            "Keywords": [
+                "vision industrielle",
+                "apprentissage profond",
+                "inspection",
+                "horticulture"
+            ]
+        },
+        {
+            "Name": "Euresys",
+            "url": "https://www.euresys.com/",
+            "Description": "Concepteur li\u00e9geois (groupe TKH Vision) de composants d'acquisition d'images pour la vision industrielle : cartes d'acquisition CoaXPress et Camera Link, c\u0153urs IP FPGA et biblioth\u00e8que de traitement d'images Open eVision.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Seraing",
+                    "Coordinates": [
+                        50.59445,
+                        5.56132
+                    ],
+                    "Address": "Rue du Bois Saint-Jean 20, Li\u00e8ge Science Park, 4102 Seraing"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Vision",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://www.euresys.com/en/About-us",
+            "Employees": 80,
+            "Keywords": [
+                "vision industrielle",
+                "carte d'acquisition",
+                "FPGA",
+                "traitement d'images"
+            ]
+        },
+        {
+            "Name": "intoPIX",
+            "url": "https://www.intopix.com/",
+            "Description": "Soci\u00e9t\u00e9 de Louvain-la-Neuve fond\u00e9e en 2006, sp\u00e9cialiste de la compression d'images et de vid\u00e9o (JPEG XS, JPEG 2000, TicoRAW) en c\u0153urs IP FPGA/ASIC et SDK CPU/GPU, r\u00e9compens\u00e9e par des Emmy Awards techniques en 2014 et 2025.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Louvain-la-Neuve",
+                    "Coordinates": [
+                        50.66032,
+                        4.61723
+                    ],
+                    "Address": "Rue de Rodeuhaie 1, 1348 Ottignies-Louvain-la-Neuve"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Hardware",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Cin\u00e9ma/Films d'Animation/VFX",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Keywords": [
+                "compression d'images",
+                "JPEG XS",
+                "FPGA",
+                "vid\u00e9o sur IP"
+            ]
+        },
+        {
+            "Name": "Sony Depthsensing Solutions",
+            "url": "https://www.sony-depthsensing.com/",
+            "Description": "Filiale bruxelloise de Sony (ex-SoftKinetic, rachet\u00e9e en 2015) qui d\u00e9veloppe la technologie de cam\u00e9ras 3D \u00e0 temps de vol DepthSense et ses logiciels de perception pour l'automobile, le mobile, l'industrie et la maison connect\u00e9e.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.81706,
+                        4.40648
+                    ],
+                    "Address": "Rue Jules Cockx 8, 1160 Auderghem"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Vision",
+                "Hardware",
+                "Reconstruction"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "Robotique/Syst\u00e8mes autonomes",
+                "G\u00e9n\u00e9rique"
+            ],
+            "Jobs": "https://www.sony-depthsensing.com/careers",
+            "Keywords": [
+                "temps de vol",
+                "cam\u00e9ra 3D",
+                "capteur de profondeur",
+                "reconnaissance de gestes"
+            ]
+        },
+        {
+            "Name": "icometrix",
+            "url": "https://www.icometrix.com/",
+            "Description": "\u00c9diteur louvaniste de logiciels d'IA d'analyse d'IRM et de scanner c\u00e9r\u00e9braux (icobrain) pour la scl\u00e9rose en plaques, la d\u00e9mence, les ARIA, l'AVC et le traumatisme cr\u00e2nien, devenu une soci\u00e9t\u00e9 de GE HealthCare.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Louvain",
+                    "Coordinates": [
+                        50.88893,
+                        4.70573
+                    ],
+                    "Address": "Kolonel Begaultlaan 1B / 12, 3012 Leuven"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Vision",
+                "Visualisation"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "imagerie c\u00e9r\u00e9brale",
+                "IRM",
+                "intelligence artificielle",
+                "neurologie"
+            ]
+        },
+        {
+            "Name": "Aerospacelab",
+            "url": "https://www.aerospacelab.com/",
+            "Description": "Constructeur de satellites de Mont-Saint-Guibert (400+ collaborateurs) qui con\u00e7oit plateformes et charges utiles d'observation de la Terre (multispectral, hyperspectral, tr\u00e8s haute r\u00e9solution, radar) et ouvre en 2026 une \u00ab Megafactory \u00bb de 500 satellites par an.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Mont-Saint-Guibert",
+                    "Coordinates": [
+                        50.65664,
+                        4.6283
+                    ],
+                    "Address": "Rue Andr\u00e9 Dumont 14, 1435 Mont-Saint-Guibert"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "G\u00e9ospatial/Cartographie",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Employees": 400,
+            "Keywords": [
+                "satellites",
+                "observation de la Terre",
+                "imagerie hyperspectrale",
+                "constellation"
+            ]
+        },
+        {
+            "Name": "Arkite",
+            "url": "https://arkite.com/",
+            "Description": "\u00c9diteur genkois d'une plateforme de guidage des op\u00e9rateurs pour l'assemblage manuel, par instructions projet\u00e9es en r\u00e9alit\u00e9 augment\u00e9e sur le poste de travail, contr\u00f4le par capteurs 3D et inspection par IA.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Genk",
+                    "Coordinates": [
+                        50.98088,
+                        5.48257
+                    ],
+                    "Address": "Houtparklaan 5 / 21, 3600 Genk"
+                }
+            ],
+            "Scientific-domain": [
+                "VR/AR",
+                "Vision",
+                "IHM/Haptique"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "Entrainement/Formation/Serious Game"
+            ],
+            "Keywords": [
+                "r\u00e9alit\u00e9 augment\u00e9e",
+                "projection",
+                "guidage d'op\u00e9rateur",
+                "industrie 4.0"
+            ]
+        },
+        {
+            "Name": "Twikit",
+            "url": "https://twikit.com/",
+            "Description": "\u00c9diteur anversois de TwikBot, plateforme cloud de configuration de produits en 3D temps r\u00e9el et de devis (CPQ) qui g\u00e9n\u00e8re nomenclatures et fichiers CAO pour la personnalisation de produits (Volkswagen, Renault, Porsche, Intense Cycles).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Anvers",
+                    "Coordinates": [
+                        51.22669,
+                        4.40945
+                    ],
+                    "Address": "Hessenplein 2, 2000 Antwerpen"
+                }
+            ],
+            "Scientific-domain": [
+                "Visualisation",
+                "Mod\u00e9lisation",
+                "Design/Fabrication",
+                "Web/Cloud/Big Data"
+            ],
+            "Application-domain": [
+                "Commerce/Marketing/Publicit\u00e9",
+                "Industrie/Manufacturing/CAO",
+                "Automobile/Navigation/Aviation"
+            ],
+            "Keywords": [
+                "configurateur 3D",
+                "personnalisation de masse",
+                "CPQ",
+                "WebGL"
+            ]
+        },
+        {
+            "Name": "SCIA",
+            "url": "https://www.scia.net/",
+            "Description": "\u00c9diteur hasseltois (groupe Nemetschek) de logiciels de calcul et de dimensionnement de structures int\u00e9gr\u00e9s au BIM, dont SCIA Engineer (version 2027), avec plus de 120 collaborateurs.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Hasselt",
+                    "Coordinates": [
+                        50.95181,
+                        5.35143
+                    ],
+                    "Address": "Kempische Steenweg 311 / 2.06, 3500 Hasselt"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Design/Fabrication",
+                "Mod\u00e9lisation"
+            ],
+            "Application-domain": [
+                "Architecture/BTP/Urbanisme"
+            ],
+            "Employees": 120,
+            "Keywords": [
+                "calcul de structures",
+                "\u00e9l\u00e9ments finis",
+                "BIM",
+                "g\u00e9nie civil"
+            ]
+        },
+        {
+            "Name": "VoxelSensors",
+            "url": "https://voxelsensors.com/",
+            "Description": "Start-up bruxelloise fond\u00e9e en 2020 qui d\u00e9veloppe des capteurs de perception 3D \u00e0 \u00e9v\u00e9nements (SPAES) et la cam\u00e9ra LyraCam pour la XR, les lunettes connect\u00e9es et la robotique, en collaboration avec Qualcomm (plateforme Snapdragon).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.84566,
+                        4.35818
+                    ],
+                    "Address": "Cantersteen 47 (Silversquare), 1000 Bruxelles"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "VR/AR",
+                "Hardware",
+                "Vision"
+            ],
+            "Application-domain": [
+                "Loisir Interactif/Immersion/Metavers",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Keywords": [
+                "capteur 3D",
+                "perception de profondeur",
+                "r\u00e9alit\u00e9 \u00e9tendue",
+                "capteur \u00e0 \u00e9v\u00e9nements"
+            ]
+        },
+        {
+            "Name": "Deltatec",
+            "url": "https://deltatec.be/",
+            "Description": "Bureau d'\u00e9tudes li\u00e9geois fond\u00e9 il y a pr\u00e8s de 40 ans, sp\u00e9cialis\u00e9 en vision, traitement d'images et \u00e9lectronique embarqu\u00e9e : c\u0153urs de cam\u00e9ras infrarouges thermiques et SWIR pour le spatial, calculateurs de charge utile et applications de vision par IA pour l'industrie.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Ans",
+                    "Coordinates": [
+                        50.66158,
+                        5.52863
+                    ],
+                    "Address": "Rue Gilles Magn\u00e9e 92/6, 4430 Ans"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Acquisition",
+                "Vision",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "G\u00e9ospatial/Cartographie",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://deltatec.be/",
+            "Keywords": [
+                "cam\u00e9ra infrarouge",
+                "traitement d'images",
+                "FPGA",
+                "spatial"
+            ]
+        },
+        {
+            "Name": "Macq",
+            "url": "https://mobility.macq.eu/",
+            "Description": "Entreprise bruxelloise de syst\u00e8mes de mobilit\u00e9 intelligente, fond\u00e9e en 1930, qui con\u00e7oit des cam\u00e9ras intelligentes de lecture de plaques (QCAM3, QCAM5) et des logiciels d'analyse vid\u00e9o pour le contr\u00f4le de vitesse, le p\u00e9age en flux libre et la police.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Bruxelles",
+                    "Coordinates": [
+                        50.87748,
+                        4.4139
+                    ],
+                    "Address": "Rue de l'A\u00e9ronef 2, 1140 Evere"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Acquisition",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "Automobile/Navigation/Aviation",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Keywords": [
+                "lecture de plaques",
+                "cam\u00e9ra intelligente",
+                "mobilit\u00e9",
+                "analyse vid\u00e9o"
+            ]
+        },
+        {
+            "Name": "LuGus Studios",
+            "url": "https://www.lugus-studios.be/",
+            "Description": "Studio de jeu vid\u00e9o et de simulation hasseltois, sp\u00e9cialiste de la simulation de drones haute fid\u00e9lit\u00e9 (Liftoff, simulateur de drone de r\u00e9f\u00e9rence) et de serious games pour la formation.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Hasselt",
+                    "Coordinates": [
+                        50.93046,
+                        5.33477
+                    ],
+                    "Address": "Aldestraat 48 / 0001, 3500 Hasselt"
+                }
+            ],
+            "Scientific-domain": [
+                "Simulation",
+                "Rendu temps r\u00e9el/Moteurs 3D"
+            ],
+            "Application-domain": [
+                "Jeu Vid\u00e9o",
+                "Entrainement/Formation/Serious Game",
+                "Robotique/Syst\u00e8mes autonomes"
+            ],
+            "Employees": 13,
+            "Keywords": [
+                "simulateur de drone",
+                "Liftoff",
+                "serious game",
+                "simulation physique"
+            ]
+        },
+        {
+            "Name": "Apixa",
+            "url": "https://www.apixa.com/",
+            "Description": "Soci\u00e9t\u00e9 louvaniste de vision par ordinateur, spin-off du groupe VISICS-PSI de la KU Leuven fond\u00e9e en 2007 (ex-Vision++), qui con\u00e7oit des solutions de contr\u00f4le qualit\u00e9 et de d\u00e9tection de personnes : apprentissage profond, vision 3D, imagerie hyperspectrale, calibration et conception optique.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Louvain",
+                    "Coordinates": [
+                        50.84692,
+                        4.73157
+                    ],
+                    "Address": "Interleuvenlaan 15 G, 3001 Heverlee"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "S\u00e9curit\u00e9/D\u00e9fense"
+            ],
+            "Jobs": "https://www.apixa.com/careers",
+            "Keywords": [
+                "vision par ordinateur",
+                "vision 3D",
+                "imagerie hyperspectrale",
+                "contr\u00f4le qualit\u00e9"
+            ]
+        },
+        {
+            "Name": "IRIS",
+            "url": "https://www.irislink.com/",
+            "Description": "\u00c9diteur et fabricant de Mont-Saint-Guibert (groupe Canon) de logiciels de reconnaissance optique de caract\u00e8res et de traitement de documents (Readiris PDF 27) et de scanners portables et de bureau (IRIScan, IRISPen).",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Mont-Saint-Guibert",
+                    "Coordinates": [
+                        50.65987,
+                        4.62837
+                    ],
+                    "Address": "Rue du Bosquet 17 A, 1435 Mont-Saint-Guibert"
+                }
+            ],
+            "Scientific-domain": [
+                "Vision",
+                "Imagerie",
+                "Acquisition"
+            ],
+            "Application-domain": [
+                "G\u00e9n\u00e9rique"
+            ],
+            "Keywords": [
+                "OCR",
+                "reconnaissance de documents",
+                "scanner",
+                "traitement d'images"
+            ]
+        },
+        {
+            "Name": "Exosens Imaging Belgium (ex-Xenics)",
+            "url": "https://www.exosens.com/",
+            "Description": "Site louvaniste du groupe fran\u00e7ais Exosens (ex-Xenics, fond\u00e9e en 2000) qui con\u00e7oit et fabrique des capteurs et cam\u00e9ras infrarouges SWIR, MWIR et LWIR pour l'industrie, la d\u00e9fense, la science et le spatial.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Louvain",
+                    "Coordinates": [
+                        50.85133,
+                        4.73033
+                    ],
+                    "Address": "Interleuvenlaan 80-82, 3001 Leuven"
+                }
+            ],
+            "Scientific-domain": [
+                "Acquisition",
+                "Imagerie",
+                "Hardware"
+            ],
+            "Application-domain": [
+                "Industrie/Manufacturing/CAO",
+                "S\u00e9curit\u00e9/D\u00e9fense",
+                "M\u00e9dical/Biologique"
+            ],
+            "Keywords": [
+                "cam\u00e9ra infrarouge",
+                "SWIR",
+                "capteur d'image",
+                "imagerie thermique"
+            ]
+        },
+        {
+            "Name": "radiomics.bio",
+            "url": "https://radiomics.bio/",
+            "Description": "Soci\u00e9t\u00e9 li\u00e9geoise (ex-OncoRadiomics, fond\u00e9e en 2016) qui extrait des biomarqueurs quantitatifs des images m\u00e9dicales (radiomique) avec sa plateforme Ikonics, pour la recherche en oncologie, les essais cliniques et la lecture centralis\u00e9e d'imagerie.",
+            "Place": [
+                {
+                    "Country": "Belgique",
+                    "City": "Li\u00e8ge",
+                    "Coordinates": [
+                        50.64763,
+                        5.53752
+                    ],
+                    "Address": "L\u00e9giaPark, Boulevard de Patience et Beaujonc 3, 4000 Li\u00e8ge"
+                }
+            ],
+            "Scientific-domain": [
+                "Imagerie",
+                "Analyse de donn\u00e9es"
+            ],
+            "Application-domain": [
+                "M\u00e9dical/Biologique"
+            ],
+            "Jobs": "https://radiomics.bio/",
+            "Keywords": [
+                "radiomique",
+                "imagerie m\u00e9dicale",
+                "oncologie",
+                "essais cliniques"
             ]
         }
     ]
